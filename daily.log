@@ -1,4 +1,54 @@
+Wed Sep 30 14:12:28 EDT 2020
++ set -e
++ pushd /Users/soid/myprojects/columbia-catalog-data/
 ~/myprojects/columbia-catalog-data ~/myprojects/columbia-catalog-data
++ git pull
+Already up to date.
++ pushd /Users/soid/myprojects/columbia-catalog-scraper/
+~/myprojects/columbia-catalog-scraper ~/myprojects/columbia-catalog-data ~/myprojects/columbia-catalog-data
++ git pull
+Wed Sep 30 14:15:00 EDT 2020
++ set -e
++ pushd /Users/soid/myprojects/columbia-catalog-data/
+~/myprojects/columbia-catalog-data ~
++ git pull
+Already up to date.
++ pushd /Users/soid/myprojects/columbia-catalog-scraper/
+~/myprojects/columbia-catalog-scraper ~/myprojects/columbia-catalog-data ~
++ git pull
+Already up to date.
++ ./run-crawler.sh -p
+./run-crawler.sh: line 34: scrapy: command not found
++ ./run-script.sh scripts/data_canary.py
+.
+----------------------------------------------------------------------
+Ran 1 test in 12.826s
+
+OK
++ pushd /Users/soid/myprojects/columbia-catalog-data/
+~/myprojects/columbia-catalog-data ~/myprojects/columbia-catalog-scraper ~/myprojects/columbia-catalog-data ~
++ git pull
+Already up to date.
++ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   daily.log
+
+no changes added to commit (use "git add" and/or "git commit -a")
++ echo 'number of lines:'
+number of lines:
++ wc -l classes/2020-Fall.json classes/2020-Spring.json classes/2020-Summer.json classes/2021-Spring.json classes/2021-Summer.json
+   12099 classes/2020-Fall.json
+    8165 classes/2020-Spring.json
+    1810 classes/2020-Summer.json
+     791 classes/2021-Spring.json
+      56 classes/2021-Summer.json
+   22921 total
+~/myprojects/columbia-catalog-data ~
 Already up to date.
 On branch master
 Your branch is up to date with 'origin/master'.
@@ -6,15 +56,6 @@ Your branch is up to date with 'origin/master'.
 Changes not staged for commit:
   (use "git add <file>..." to update what will be committed)
   (use "git restore <file>..." to discard changes in working directory)
-	modified:   classes/2020-Fall.csv
-	modified:   classes/2020-Fall.json
-	modified:   classes/2021-Spring.csv
-	modified:   classes/2021-Spring.json
-	modified:   instructors/instructors.csv
-	modified:   instructors/instructors.json
-
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-	daily.log
+	modified:   daily.log
 
 no changes added to commit (use "git add" and/or "git commit -a")
