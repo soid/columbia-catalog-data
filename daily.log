@@ -395,3 +395,59 @@ Changes not staged for commit:
 	modified:   daily.log
 
 no changes added to commit (use "git add" and/or "git commit -a")
+[master 0390e9e] Updated data
+ 1 file changed, 56 insertions(+)
+To github.com:soid/columbia-catalog-data.git
+   72461c6..0390e9e  master -> master
+Wed Sep 30 21:15:00 EDT 2020
++ set -e
++ pushd /Users/soid/myprojects/columbia-catalog-data/
+~/myprojects/columbia-catalog-data ~
++ git pull
+Already up to date.
++ pushd /Users/soid/myprojects/columbia-catalog-scraper/
+~/myprojects/columbia-catalog-scraper ~/myprojects/columbia-catalog-data ~
++ git pull
+Already up to date.
++ ./run-crawler.sh -p
+./run-crawler.sh: line 34: scrapy: command not found
++ ./run-script.sh scripts/data_canary.py
+.
+----------------------------------------------------------------------
+Ran 1 test in 12.691s
+
+OK
++ pushd /Users/soid/myprojects/columbia-catalog-data/
+~/myprojects/columbia-catalog-data ~/myprojects/columbia-catalog-scraper ~/myprojects/columbia-catalog-data ~
++ git pull
+Already up to date.
++ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   daily.log
+
+no changes added to commit (use "git add" and/or "git commit -a")
++ echo 'number of lines:'
+number of lines:
++ wc -l classes/2020-Fall.json classes/2020-Spring.json classes/2020-Summer.json classes/2021-Spring.json classes/2021-Summer.json
+   12099 classes/2020-Fall.json
+    8165 classes/2020-Spring.json
+    1810 classes/2020-Summer.json
+     791 classes/2021-Spring.json
+      56 classes/2021-Summer.json
+   22921 total
+~/myprojects/columbia-catalog-data ~
+Already up to date.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   daily.log
+
+no changes added to commit (use "git add" and/or "git commit -a")
