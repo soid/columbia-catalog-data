@@ -20,6 +20,7 @@ Files are available in `classes/{YEAR}-{SEMESTER}`. Semester is 'Fall', 'Spring'
 - strange fields directly correspond to [Columbia Directory](http://www.columbia.edu/cu/bulletin/uwb/) fields, e.g. `call_number` or `class_id`
 - `scheduled_days` is a string of any characters "MTWHFSU" each standing for Monday through Sunday accordingly 
 - `prerequisites` is a two level list of `course_code` that are course prerequisites. First level joined with an AND, second level is OR. For example, `[['COMS W3134', 'COMS W3137']]` means "(COMS W3134) **or** (COMS W3137)", and `[['COMS W3134'], ['COMS W3137']]` means "(COMS W3134) **and** (COMS W3137)".
+- `gta` is the year of Great Teacher Award if applicable
 
 ### List of instructors
 
