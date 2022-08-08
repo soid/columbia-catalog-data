@@ -38,7 +38,7 @@ Reading classes list:
 ```python
 # load fall 2020 semester
 >>> import pandas as pd
->>> df = pd.read_json('classes/2020-Fall.json', lines=True)
+>>> df = pd.read_json('classes/2020-Fall.json')
 >>> print(df)
       course_code                  course_title                     course_descr           instructor scheduled_time_start scheduled_time_end  call_number           campus         class_id                       department department_code            instructor_culpa_link instructor_culpa_nugget  instructor_culpa_reviews_count instructor_wikipedia_link                             link         location method_of_instruction                          open_to points            prerequisites scheduled_days          type
 0     ACLS BC3450          WOMEN AND LEADERSHIP  Prerequisites: Permission of...                 None              10:10am            12:00pm          139  Barnard College  X3450-20203-001  Athena Center for Leadership...            ACLS                             None                    None                             NaN                      None  http://www.columbia.edu//cu/...  To be announced             In-person                [Barnard College]      4                       []             MF       SEMINAR
@@ -64,7 +64,7 @@ Social Work                                                    199
 Reading instructors list: 
 ```python
 >>> import pandas as pd
->>> df = pd.read_json('instructors/instructors.json', lines=True)
+>>> df = pd.read_json('instructors/instructors.json')
 >>> print(df)
 ```
 
