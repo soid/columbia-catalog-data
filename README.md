@@ -72,6 +72,7 @@ Reading instructors list:
 
 ## Projects
 
+[peqod.com](https://peqod.com) - unofficial catalog of classes
 [CUGraph.info](http://cugraph.info) - all Columbia classes visualized as a graph of prerequisites.
 
 
