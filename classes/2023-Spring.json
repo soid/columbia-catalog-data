@@ -4086,7 +4086,7 @@
   {
     "course_code":"EAAS GR6990",
     "course_title":"M.A. THESIS RESEARCH",
-    "course_descr":null,
+    "course_descr":"Provides students the opportunity to present work in progress or final drafts to other students and relevant faculty to receive guidance and feedback.\n",
     "instructor":"Ye Yuan",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -5867,7 +5867,7 @@
   {
     "course_code":"EESC GR6001",
     "course_title":"EARTH SCIENCE COLLOQUIUM",
-    "course_descr":null,
+    "course_descr":"Current topics in the Earth sciences.\n",
     "instructor":"Kaleigh B Matthews",
     "scheduled_time_start":"3:30pm",
     "scheduled_time_end":"4:30pm",
@@ -5895,7 +5895,7 @@
   {
     "course_code":"EESC GR6003",
     "course_title":"MASTERS RESEARCH",
-    "course_descr":null,
+    "course_descr":"Individual research in the students field of specialization at the masters level. DEES PhD students register for this in the semester in which thay take their Masters Exam.\n",
     "instructor":"Kaleigh B Matthews",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -5921,7 +5921,7 @@
   {
     "course_code":"EESC GR6400",
     "course_title":"COMMUNICATING EARTH & ENVIR SCI",
-    "course_descr":null,
+    "course_descr":"Communicating science well in the context of the earth and environmental sciences is critical. This science communication course will transect specific earth and environmental science disciplines to provide a foundational understanding of what it means to communicate science and how to do so effectively. Within this overarching theme of science communication, students will gain a comprehensive and holistic understanding of how to communicate earth and environmental science across a variety of formats and to a diversity of audiences. Practical outcomes include but are not limited to students learning 1) how to rationalize a research topic, 2) write a hypothesis driven proposal, 3) evaluate proposals, 4) produce clear and compelling graphics, 5) adopt the latest pedagogical approaches, and 6) present science findings to a diversity of audiences.\n",
     "instructor":"Sonya Dyhrman",
     "scheduled_time_start":"9:45am",
     "scheduled_time_end":"11:00am",
@@ -5947,7 +5947,7 @@
   {
     "course_code":"EESC GR6920",
     "course_title":"DYNAMICS OF CLIMATE",
-    "course_descr":null,
+    "course_descr":"Prerequisites: EESC GU4008, and advanced calculus, or the instructors permission. The current climate and its variations over Earth history are interpreted as consequences of fundamental physical processes, including radiative transfer, the atmosphere and ocean circulation, and the carbon cycle. Perturbations to climate, resulting from changing atmospheric composition or insolation, are examined using a combination of simple interpretative models and full Earth System Models.\n",
     "instructor":"Ronald L Miller",
     "scheduled_time_start":"8:40am",
     "scheduled_time_end":"9:55am",
@@ -5964,7 +5964,9 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "EESC GU4008"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20231EESC6920G001",
@@ -5973,7 +5975,7 @@
   {
     "course_code":"EESC GR6926",
     "course_title":"Idealized Models of Climate Processes",
-    "course_descr":null,
+    "course_descr":"Prerequisites: EESC GR6901 This course teaches students to design and apply idealized models to study the fundamental properties of climate system processes and their interactions. Though these models typically have at their core only a handful of interacting differential equations, they can significantly advance process understanding. We cover three topical areas in climate system science: (1) the interpretation and attribution of atmospheric methane trends (2) the role of the ocean in regulating atmospheric carbon dioxide, and (3) the influence of climate system feedbacks on the Earth\u2019s energy balance. Throughout the course, emphasis is placed on identifying assumptions underlying conclusions drawn from simple models and the time scales over which different processes operate.\n",
     "instructor":"Galen A McKinley",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:55pm",
@@ -5990,7 +5992,9 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "EESC GR6901"
+      ]
     ],
     "scheduled_days":"W",
     "section_key":"20231EESC6926G001",
@@ -5999,7 +6003,7 @@
   {
     "course_code":"EESC GR9701",
     "course_title":"SEMINAR IN ADVANCED PETROLOGY",
-    "course_descr":null,
+    "course_descr":"Volcanology is a young science. Whilst observations of volcanic phenomena and their impact on the atmosphere and biosphere have been recorded by humankind for potentially 36.000 years (Nomade et al., 2016; PLoS ONE 11, e0146621), it is only recently that volcanology has become a modern science. Some would date this event to 1841 and the creation of the Vesuvius Observatory, others to the observations of Lacroix following the 1902 catastrophic eruption of Mount Pele\u0301e, the deadliest in the 20th century. Regardless of the exact date, this science has quickly grown, mostly by using developments in physics, chemistry, and engineering. Today, about a thousand scientific papers on aspects of volcanology are published each month. From this myriad of publications a few have been especially impactful in forging our current understanding of how volcanic processes operate. In this seminar series we will explore these \u201cclassic papers\u201d with an emphasis on physical volcanology.\n",
     "instructor":"Yves Moussallam",
     "scheduled_time_start":"9:30am",
     "scheduled_time_end":"11:00am",
@@ -6025,7 +6029,7 @@
   {
     "course_code":"EESC GU4040",
     "course_title":"CLIM THERMODYN\/ENERGY TRANSFER",
-    "course_descr":null,
+    "course_descr":"Thermodynamics of atmospheric and oceanic processes fundamental to the climate system. Physical mechanisms of vertical energy transfer: surface fluxes, boundary layers and convection.\n",
     "instructor":"Adam H Sobel",
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:55pm",
@@ -6051,7 +6055,7 @@
   {
     "course_code":"EESC GU4085",
     "course_title":"GEODYNAMICS",
-    "course_descr":null,
+    "course_descr":"An introduction to how the Earth and planets work. The focus is on physical processes that control plate tectonics and the evolution of planetary interiors and surfaces; analytical descriptions of these processes; weekly physical model demonstrations.\n",
     "instructor":"W R Buck",
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:55pm",
@@ -6077,7 +6081,7 @@
   {
     "course_code":"EESC GU4220",
     "course_title":"GLACIOLOGY",
-    "course_descr":null,
+    "course_descr":"Prerequisites: At least a year of calculus and physics; any 1000-level or 2000-level EESC course. Recommended: EESC2100 (Climate System), EESC2200 (Solid Earth), EESC3201 (Solid Earth Dynamics). Experience using MATLAB. This course examines processes controlling how glaciers and ice sheets grow, retreat, modify their landscape and interact with the rest of the Earth system. We focus on what controls surface mass balance, the transformation from snow to ice, ice deformation, basal sliding, the temperature and age of ice, the flow of water through ice sheets and glaciers, and the two-way interactions between ice and the oceans, atmosphere and solid earth. Weekly lectures are accompanied by practical computer sessions that equip students with key numerical and data analysis skills used in research of glacial processes.\n",
     "instructor":"Jonathan Kingslake",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:25pm",
@@ -6094,7 +6098,15 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "SC2100"
+      ],
+      [
+        "SC2200"
+      ],
+      [
+        "SC3201"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20231EESC4220W001",
@@ -6103,7 +6115,7 @@
   {
     "course_code":"EESC GU4235",
     "course_title":"SEA LEVEL CHANGE",
-    "course_descr":null,
+    "course_descr":"Prerequisites: At least a year of calculus and physics; any 1000-level or 2000-level EESC course; basic,programming experience (e.g. EESC3400 - Introduction to Computational Earth Science). Recommended: EESC2100 (Climate System), EESC2200 (Solid Earth), EESC3201 (Solid Earth,Dynamics). The course aims to explore sea level changes that take place over a wide variety of timescales and are the result of multiple solid Earth and climatic processes. The course will link a series of solid Earth processes such as mantle convection, viscoelastic deformation, and plate tectonics to the paleoclimate record and investigate how these processes contribute to our understanding of past and present changes in sea level and climate. The course will step chronologically through time starting with long term sea level changes over the Phanerozoic, followed by Plio-Pleistocene ice age sea level variations and lastly modern and future sea level change. This is a cross-disciplinary course, which is aimed at students with interests in geophysics, cryosphere evolution, ocean dynamics, sedimentology, paleogeography, and past and present climate.\n",
     "instructor":"Jacqueline Austermann",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -6120,7 +6132,18 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "SC2100"
+      ],
+      [
+        "SC2200"
+      ],
+      [
+        "SC3201"
+      ],
+      [
+        "SC3400"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20231EESC4235W001",
@@ -6129,7 +6152,7 @@
   {
     "course_code":"EESC GU4630",
     "course_title":"AIR-SEA INTERACTION",
-    "course_descr":null,
+    "course_descr":"Prerequisites: solid background in mathematics, physics, and chemistry. Some background in fluid mechanics (as in EESC W4925\/APPH E4200) or the instructors permission. An overview of oceanic and atmospheric boundary layers including fluxes of momentum, heat, mass, (eg. moisture salt) and gases between the ocean and atmosphere; vertical distribution of energy sources and sinks at the interface including the importance of surface currents; forced upper ocean dynamics, the role of surface waves on the air-sea exchange processes and ocean mixed layer processes.\n",
     "instructor":"Christopher J Zappa",
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:55pm",
@@ -6146,7 +6169,12 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "APPH E4200"
+      ],
+      [
+        "EESC W4925"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20231EESC4630W001",
@@ -6155,7 +6183,7 @@
   {
     "course_code":"EESC GU4924",
     "course_title":"INTRO TO ATMOSPHERIC CHEMISTRY",
-    "course_descr":null,
+    "course_descr":"Prerequisites: Physics W1201, Chemistry W1403, Calculus III, or equivalent or the instructors permission. EESC W2100 preferred. Physical and chemical processes determining atmospheric composition and the implications for climate and regional air pollution. Atmospheric evolution and human influence; basics of greenhouse effect, photolysis, reaction kinetics; atmospheric transport of trace species; stratospheric ozone chemistry; tropospheric hydrocarbon chemistry; oxidizing power, nitrogen, oxygen, sulfur, carbon, mercury cycles; chemistry-climate-biosphere interactions; aerosols, smog, acid rain.\n",
     "instructor":"Roisin Commane",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -6172,7 +6200,13 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "W1201"
+      ],
+      [
+        "W1403",
+        "EESC W2100"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20231EESC4924W001",
@@ -6181,7 +6215,7 @@
   {
     "course_code":"EESC GU4926",
     "course_title":"INTRO TO CHEMICAL OCEANOGRAPHY",
-    "course_descr":null,
+    "course_descr":"Prerequisites: Recommended preparation: one year of chemistry. Factors controlling the concentration and distribution of dissolved chemical species within the sea. The physical chemistry of seawater, ocean circulation and mixing, gas exchange and biogeochemical processes interact to influence the distribution and fate of elements in the ocean. The course examines in some detail the two-way interaction between marine ecosystems and their chemical environment, and the implications of these interactions for distributions in the ocean of carbon, nutrients and trace metals.\n",
     "instructor":"Robert Anderson",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -6207,7 +6241,7 @@
   {
     "course_code":"EESC GU4930",
     "course_title":"EARTH'S OCEANS & ATMOSPHERE",
-    "course_descr":null,
+    "course_descr":"Prerequisites: Recommended preparation: a good background in the physical sciences. Physical properties of water and air. Overview of the stratification and circulation of Earths ocean and atmosphere and their governing processes; ocean-atmosphere interaction; resultant climate system; natural and anthropogenic forced climate change.\n",
     "instructor":"Arnold L Gordon",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:25pm",
@@ -6233,7 +6267,7 @@
   {
     "course_code":"EESC GU4937",
     "course_title":"CENOZOIC PALEOCEANOGRAPHY",
-    "course_descr":null,
+    "course_descr":"Prerequisites: college-level geology helpful but not required. Introduces the physical, chemical and biological processes that govern how and where ocean sediments accumulate. Major topics addressed are: modes of biogenic, terrigenous and authigenic sedimentation, depositional environments, pore fluids and sediment geochemistry, diagenesis, as well as biostratigraphy and sediment stratigraphic principles and methods. Second half of the semester focuses on major events in Cenozoic paleoceanogrpahy and paleoclimatology including orbital control of climate, long-term carbon cycle, extreme climate regimes, causes of ice ages in Earths history, human evolution, El Ni\u00f1o evolution, and long-term sea level history.\n",
     "instructor":null,
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -6259,7 +6293,7 @@
   {
     "course_code":"EESC UN1010",
     "course_title":"GEOLO EXCUR TO DEATH VALLEY,CA",
-    "course_descr":null,
+    "course_descr":"The trip is restricted to first-years and sophomores from Columbia College\/General Studies, Barnard College, and the School of Engineering and Applied Science. Early application is advised, and no later than\u00a0November 12. A spring-break excursion focused on the geology of Death Valley and adjacent areas of the eastern California desert. Discussion sessions ahead of the trip provide necessary background. Details at:\u00a0\nhttps:\/\/eesc.columbia.edu\/content\/eesc-un1010\n.\n",
     "instructor":null,
     "scheduled_time_start":"7:30pm",
     "scheduled_time_end":"9:00pm",
@@ -6285,7 +6319,7 @@
   {
     "course_code":"EESC UN2100",
     "course_title":"EARTH'S ENVIRO SYST: CLIM SYST",
-    "course_descr":null,
+    "course_descr":"Prerequisites: high school algebra. Recommended preparation: high school chemistry and physics; and one semester of college science. Origin and development of the atmosphere and oceans, formation of winds, storms and ocean currents, reasons for changes through geologic time. Recent influence of human activity: the ozone hole, global warming, water pollution. Laboratory exploration of topics through demonstrations, experimentation, computer data analysis, and modeling. Students majoring in Earth and Environmental Sciences should plan to take EESC W2100 before their senior year to avoid conflicts with Senior Seminar.\n",
     "instructor":null,
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"7:00pm",
@@ -6302,7 +6336,9 @@
     "open_to":null,
     "points":"4.5",
     "prerequisites":[
-
+      [
+        "EESC W2100"
+      ]
     ],
     "scheduled_days":"T",
     "section_key":"20231EESC2100W001",
@@ -6311,7 +6347,7 @@
   {
     "course_code":"EESC UN2200",
     "course_title":"EARTH'S ENVIRONMENTAL SYSTEMS: THE SOLID",
-    "course_descr":null,
+    "course_descr":"Recommended preparation: high school chemistry and physics; and one semester of college science.\u00a0Exploration of how the solid Earth works, today and in the past, focusing on Earth in the Solar system, continents and oceans, the Earth's history, mountain systems on land and sea, minerals and rocks, weathering and erosion, glaciers and ice sheets, the hydrological cycle and rivers, geochronology, plate tectonics, earthquakes, volcanoes, energy resources. Laboratory exploration of topics through examination of rock samples, experimentation, computer data analysis, field exercises, and modeling. Columbia and Barnard majors should plan to take W2200 before their senior year to avoid conflicts with the Senior Seminar.\n",
     "instructor":null,
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"7:00pm",
@@ -6328,7 +6364,9 @@
     "open_to":null,
     "points":"4.5",
     "prerequisites":[
-
+      [
+        "W2200"
+      ]
     ],
     "scheduled_days":"R",
     "section_key":"20231EESC2200W001",
@@ -6337,7 +6375,7 @@
   {
     "course_code":"EESC UN2300",
     "course_title":"EARTH'S ENVIRO SYST: LIFE SYST",
-    "course_descr":null,
+    "course_descr":"Prerequisites: high school algebra. Recommended preparation: high school chemistry and physics. Role of life in biogeochemical cycles, relationship of biodiversity and evolution to the physical Earth, vulnerability of ecosystems to environmental change; causes and effects of extinctions through geologic time (dinosaurs and mammoths) and today. Exploration of topics through laboratories, demonstrations, computer data analysis and modeling. REQUIRED LAB: EESC UN2310. Students should see the Directory of Classes for lab sessions being offered and select one. Co-meets with EEEB 2002\n",
     "instructor":null,
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -6354,7 +6392,9 @@
     "open_to":null,
     "points":"4.5",
     "prerequisites":[
-
+      [
+        "EESC UN2310"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20231EESC2300V001",
@@ -6363,7 +6403,7 @@
   {
     "course_code":"EESC UN3010",
     "course_title":"FIELD GEOLOGY",
-    "course_descr":null,
+    "course_descr":"The centerpiece of this course is a field trip that will take place during Spring Break in Barbados. During the term-time the class will meet before the trip to prepare for it and after the trip to synthesize what was learned and to create a field guide. Subjects to be covered: Plate tectonics \/ convergent plate margins and accretionary prisms \/ Barbados geology; ice ages \/ Milankovitch cycles \/ sea level; introduction to coral reefs and fossil coral reef geology; Barbados terrestrial ecology; limestone caves \/ hydrology; dating methods; overview of Barbados history, economy, culture. In order to observe the modern day coral reef (the modern day live analog to the fossil coral reefs) the class will go snorkeling. In order to observe the effects of cave formation and water flow in limestone terrains the class will visit a cave. The class will also participate in an exercise in geological mapping of a series of coral reef terraces.  Priority is given to junior and senior majors and concentrators in the Department of Earth and Environmental Sciences at Columbia College and the School of General Studies, and Barnard Environmental Science majors and minors. Barnard students must receive permission from the Barnard Environmental Science department chair in order to receive the subsidy. All others require the instructor's permission. Interested sophomores planning to major or concentrate in Earth Sciences or Environmental Sciences are encouraged to contact the instructor. By necessity (number of van seats) the course is limited to 20 or 21 students.\n",
     "instructor":null,
     "scheduled_time_start":"7:30pm",
     "scheduled_time_end":"9:20pm",
@@ -6389,7 +6429,7 @@
   {
     "course_code":"EESC UN3109",
     "course_title":"CLIMATE PHYSICS",
-    "course_descr":null,
+    "course_descr":"This is a calculus-based treatment of climate system physics and the mechanisms of anthropogenic climate change. By the end of this course, students will understand: how solar radiation and rotating fluid dynamics determine the basic climate state, mechanisms of natural variability and change in climate, why anthropogenic climate change is occurring, and which scientific uncertainties are most important to estimates of 21st century change.  This course is designed for undergraduate students seeking a quantitative introduction to climate and climate change science. EESC V2100 (Climate Systems) is not a prerequisite, but can also be taken for credit if it is taken before this course.\n",
     "instructor":"Adam H Sobel",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -6406,7 +6446,9 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "EESC V2100"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20231EESC3109W001",
@@ -6415,7 +6457,7 @@
   {
     "course_code":"EESC UN3901",
     "course_title":"SENIOR SEMINAR",
-    "course_descr":null,
+    "course_descr":"Guided, independent, in-depth research culminating in the senior thesis in the spring. Includes discussion about scientific presentations and posters, data analysis, library research methods and scientific writing. Students review work in progress and share results through oral reports. Weekly seminar to review work in progress and share results through oral and written reports.\n",
     "instructor":null,
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -7941,7 +7983,7 @@
   {
     "course_code":"HIST GR6999",
     "course_title":"GRADUATE SEMINAR",
-    "course_descr":null,
+    "course_descr":".\n",
     "instructor":"Elisheva Carlebach",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -7967,7 +8009,7 @@
   {
     "course_code":"HIST GR8132",
     "course_title":"THE JEWISH BOOK IN EARLY MOD WORLD",
-    "course_descr":null,
+    "course_descr":"This course will situate the Jewish book within the context of the theoretical and historical literature on the history of the book: notions of orality and literacy, text and material platform, authors and readers, print and manuscript, language and gender, the book trade and its role in the circulation of people and ideas in the early age of print.\n",
     "instructor":"Elisheva Carlebach",
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"2:00pm",
@@ -7993,7 +8035,7 @@
   {
     "course_code":"HIST GR8237",
     "course_title":"Blackness and the Psy Disciplines in Nin",
-    "course_descr":null,
+    "course_descr":"This course offers a sample of historical research on debates around African-American intelligence, mental health, family organization, and other social scientific controversies from the era of slavery to the late 20th century. The principal assignment is a lesson plan, instructions for which will be supplied on the CourseWorks site.  Please note that you may not take this course as an auditor or pass\/fail without the permission of the instructor.  Columbia Graduate School of Arts and Sciences guidelines may be found at \nhttp:\/\/gsas.columbia.edu\/\n. Those for the history department may be found at \nhttp:\/\/history.columbia.edu\/graduate\/index.html\n.\n",
     "instructor":"Samuel K Jr Roberts",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -8071,7 +8113,7 @@
   {
     "course_code":"HIST GR8927",
     "course_title":"RESEARCH SEMINAR FOR PHD STUDENTS",
-    "course_descr":null,
+    "course_descr":"This course will provide a structured environment in which graduate students will write a research paper. It will be offered in the spring and will not be field-specific. It will be recommended for first-year students in particular, who will be expected to enter from GR8910 (the required first-year course) and with a topic and\/or prospectus for the paper they plan to complete in the course. The aim of the course is to ensure that all PhD students complete one of their two research papers within the first year. This seminar is recommended for, and restricted to, PhD students in the History Department. The aim of the seminar is to guide and assist students in the completion of a 10,000-12,000 word research paper appropriate for publication in a scholarly journal. The seminar is not field-specific, and students may work on any subject of their choosing. The paper must however be based on primary source research and represents a substantial departure from earlier work. The assignments for the course are designed to help students complete a polished piece of work by the end of term.\n",
     "instructor":"Christopher L Brown",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -8088,7 +8130,9 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "GR8910"
+      ]
     ],
     "scheduled_days":"W",
     "section_key":"20231HIST8927G001",
@@ -8123,7 +8167,7 @@
   {
     "course_code":"HIST GU4512",
     "course_title":"Property and Power in 20th Century U.S.",
-    "course_descr":null,
+    "course_descr":"This seminar examines debates over meanings, value, and enforcement of property rights in the US over the twentieth century. The course begins with a focus on landed property and its management as real estate and natural resources, raising questions about ownership, tenancy, zoning, eminent domain, public trust doctrines, and contests in Indian Country. It then takes up corporate property and debates over shareholder and managers\u2019 rights and responsibilities, changing structures of investment, and countervailing claims of workers to the property and value of labor and the means of production. With a brief examination of neo-classical economists\u2019 theories and policies of transactional property rights, the course ends with the history of intellectual property rights.\u00a0 Readings include classic theoretical\/ideological texts (e.g. MacPherson, Ely, Berle and Means, Coase, Sax, Epstein); social histories, and major legal opinions. Students will write a 20 page research paper using primary sources on a topic of their own interest in this broad field of inquiry.\n",
     "instructor":"Elizabeth Blackmar",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -8149,7 +8193,7 @@
   {
     "course_code":"HIST GU4588",
     "course_title":"RACE, DRUGS, AND INEQUALITY",
-    "course_descr":null,
+    "course_descr":"Prerequisites: the instructors permission. Through a series of secondary- and primary-source readings and research writing assignments, students in this seminar course will explore one of the most politically controversial aspects in the history of public health in the United States as it has affected peoples of color: intoxicating substances. Course readings are primarily historical, but sociologists, anthropologists, and political scientists are also represented on the syllabus. The courses temporal focus - the twentieth century - allows us to explore the historical political and social configurations of opium, alcohol, heroin, cocaine, medical maintenance (methadone), the War on Drugs, the carceral state and hyperpolicing, harm reduction and needle\/syringe exchange. This semesters principal focus will be on the origins and evolution of the set of theories, philosophies, and practices which constitute harm reduction. The International Harm Reduction Association\/Harm Reduction International offers a basic, though not entirely comprehensive, definition of harm reduction in its statement, What is Harm Reduction? (http:\/\/www.ihra.net\/what-is-harm-reduction): Harm reduction refers to policies, programmes and practices that aim to reduce the harms associated with the use of psychoactive drugs in people unable or unwilling to stop. The defining features are the focus on the prevention of harm, rather than on the prevention of drug use itself, and the focus on people who continue to use drugs.1 Harm reduction in many U.S. communities of color, however, has come to connote a much wider range of activity and challenges to the status quo. In this course we will explore the development of harm reduction in the United States and trace its evolution in the political and economic context race, urban neoliberalism, and no-tolerance drug war. The course will feature site visits to harm reduction organizations in New York City, guest lectures, and research\/oral history analysis. This course has been approved for inclusion in both the African-American Studies and History undergraduate curricula (majors and concentrators). HIST W4588 will be open to both undergraduate and masters students. To apply, please complete the Google form at https:\/\/docs.google.com\/forms\/d\/1xaPFhQOzkl1NHnIjQIen9h41iel2hXAdhV59D5wH8AQ\/viewform?usp=send_form. Questions may be directed to skroberts@columbia.edu.\n",
     "instructor":"Samuel K Jr Roberts",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -8166,7 +8210,9 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "HIST W4588"
+      ]
     ],
     "scheduled_days":"T",
     "section_key":"20231HIST4588W001",
@@ -8201,7 +8247,7 @@
   {
     "course_code":"HIST GU4723",
     "course_title":"Politics of Archaeology",
-    "course_descr":null,
+    "course_descr":"\u201cWho owns antiquities?\u201d \u201cWho owns culture?\u201d These questions that appear frequently today in both popular and scholarly discourse are deeply embedded in political issues and have a long history, going back to the nineteenth century. The seminar will investigate the origins of the battles over antiquities and their links empire building, colonialism, Orientalism, modernity, power, identity construction, racial hierarchies, and money. The chronological frame is from the 1850s to1914 and the geographical focus in the Ottoman Middle East, which was the major theater of contestations. We will look closely into two areas: archaeological excavations and museums. If objects were unearthed (\u201cdiscovered\u201d) in the first, they were displayed in the second; the Middle East was crowded with the first, while the major museums were in the West, with the exception of the Museum of Antiquities in Istanbul. We will also consider the vast and complex human landscape around the antiquities. In addition to archaeologists, this community included emperors, sultans, diplomats, spies, artists, inspectors, bureaucrats, technocrats, and workers, hence a cohort of individuals from many nationalities, economic strata, ethnic groups, and religions.\n",
     "instructor":"Zeynep Celik",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -8253,7 +8299,7 @@
   {
     "course_code":"HIST GU4962",
     "course_title":"Making and Knowing in Early Modern Europ",
-    "course_descr":null,
+    "course_descr":"This course introduces undergraduate and graduate students to the materials, techniques, contexts, and meanings of skilled craft and artistic practices in early modern Europe (1350-1750), in order to reflect upon a series of topics, including craft knowledge and artisanal epistemology; the intersections between craft and science; and questions of historical methodology in reconstructing the material world of the past.  The course will be run as a \u201cLaboratory Seminar,\u201d with discussions of primary and secondary materials, as well as hands-on work in a laboratory. The first semester long course to use the published Edition of Fr. 640 as its focus, it will test the use of the Edition in a higher education classroom to inform the development of the Companion. This course is associated with the Making and Knowing Project of the Center for Science and Society at Columbia University.The first semester-long course to use the published Edition of Fr. 640 as its focus, it will test the use of the Edition in a higher education classroom to inform the development of Phase II of the Making and Knowing Project - a Research and Teaching Companion. Students\u2019 final projects (exploratory and experimental work in the form of digital\/textual analysis of Ms. Fr. 640, reconstruction insight reports, videos for the Companion, or a combination) will be published as part of the Companion or the Sandbox depending on content and long-term maintenance considerations.\n",
     "instructor":"Pamela Smith",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -8279,7 +8325,7 @@
   {
     "course_code":"HIST UN2072",
     "course_title":"DAILY LIFE IN MEDIEVAL EUROPE",
-    "course_descr":null,
+    "course_descr":"This course is designed as travellers guide to medieval Europe. Its purpose is to provide a window to a long-lost world that provided the foundation of modern institutions and that continues to inspire the modern collective artistic and literary imagination with its own particularities. This course will not be a conventional history course concentrating on the grand narratives in the economic, social and political domains but rather intend to explore the day-to-day lives of the inhabitants, and attempts to have a glimpse of their mindset, their emotional spectrum, their convictions, prejudices, fears and hopes. It will be at once a historical, sociological and anthropological study of one of the most inspiring ages of European civilization. Subjects to be covered will include the birth and childhood, domestic life, sex and marriage, craftsmen and artisans, agricultural work, food and diet, the religious devotion, sickness and its cures, death, after death (purgatory and the apparitions), travelling, merchants and trades, inside the nobles castle, the Christian cosmos, and medieval technology. The lectures will be accompanied by maps, images of illuminated manuscripts and of medieval objects. Students will be required to attend a weekly discussion section to discuss the medieval texts bearing on that weeks subject. The written course assignment will be a midterm, final and two short papers, one an analysis of a medieval text and a second an analysis of a modern text on the Middle Ages.\n",
     "instructor":"Neslihan Senocak",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -8305,7 +8351,7 @@
   {
     "course_code":"HIST UN2073",
     "course_title":"DAILY LIFE IN MED EUR-DISC",
-    "course_descr":null,
+    "course_descr":"MANDATORY Discussion Section for HIST UN 2072 Daily Life in Medieval Europe. Students must also be registered for HIST UN 2072.\n",
     "instructor":"Neslihan Senocak",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -8331,7 +8377,7 @@
   {
     "course_code":"HIST UN2222",
     "course_title":"NATURE & POWER: ENV HIST NORTH AMERICA",
-    "course_descr":null,
+    "course_descr":"Environmental history seeks to expand the customary framework of historical inquiry, challenging students to construct narratives of the past that incorporate not only human beings but also the natural world with which human life is intimately intertwined. As a result, environmental history places at center stage a wide range of previously overlooked historical actors such as plants, animals, and diseases. Moreover, by locating nature within human history, environmental history encourages its practitioners to rethink some of the fundamental categories through which our understanding of the natural world is expressed: wilderness and civilization, wild and tame, natural and artificial. For those interested in the study of ethnicity, environmental history casts into particularly sharp relief the ways in which the natural world can serve both to undermine and to reinforce the divisions within human societies. Although all human beings share profound biological similarities, they have nonetheless enjoyed unequal access to natural resources and to healthy environments\u2014differences that have all-too-frequently been justified by depicting such conditions as \u201cnatural.\u201d\n",
     "instructor":"Karl Jacoby",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -8383,7 +8429,7 @@
   {
     "course_code":"HIST UN2587",
     "course_title":"SPORT&SOCIETY IN THE AMERICAS",
-    "course_descr":null,
+    "course_descr":"This course explores the ways organized sport constitutes and disrupts dominant understandings of nation, race, gender, and sexuality throughout the Americas. Working from the notion that sport is \u201cmore than a game,\u201d the class will examine the social, cultural and political impact of sports in a variety of hemispheric American contexts from the 19th century until the present. While our primary geographic focus will be the United States, Brazil, and the Caribbean, the thrust of the course encourages students to consider sports in local, national, and transnational contexts.\u00a0 The guiding questions of the course are: What is the relationship between sport and society? How does sport inform political transformations within and across national borders? How does sport reinforce and\/or challenge social hierarchies? Can sport provide alternative visions of the self and community? Throughout the semester we will examine such topics as: the continuing political struggles surrounding the staging of mega-events such as the Olympics and World Cup, the role of professional baseball in the rise and fall of Jim Crow segregation, the impact of football on the evolution of masculine identities in the U.S., the impact of tennis on the Second-Wave feminist movement, and the role of sports in the growth of modern American cities. Course materials include works by historians, sociologists, social theorists, and journalists who have also been key contributors to the burgeoning field of sports studies. Thus, the course has three objectives:  1) To deepen our understanding of the relationship between sport and society  2) To encourage students to examine the sporting world beyond the frame of the nation-state  3) To consider the promises and challenges of sport as a site of social theory and knowledge production\n",
     "instructor":"Frank Guridy",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -8409,7 +8455,7 @@
   {
     "course_code":"HIST UN2588",
     "course_title":"SPORT&SOC IN THE AMER-DIS",
-    "course_descr":null,
+    "course_descr":"What is the relationship of sport to politics, the economy, and social change? The current crisis provoked by the COVID-19 pandemic and the resurgence of the Black Lives Matter Movement have made this question even more urgent. This course explores the ways organized sport has constituted and disrupted dominant understandings of nation, race, gender, and sexuality throughout the Americas. Working from the notion that sport is \u201cmore than a game,\u201d the class will examine the social, economic, cultural, and political impact of sports in distinct hemispheric American contexts from the late 19th century until the present. While our primary geographic focus will be the United States, Brazil, and the Caribbean, the course encourages students to examine sports in other local, national, and transnational settings. During the summer session we will focus on three themes that exemplify the ways the sporting realm illuminates some of the pressing problems of our time: the conflicts engendered by the staging of mega-events such as the Olympics and World Cup; the impact of sports on the implementation of Title IX, and understandings of gender and sexuality; and football\u2019s impact on the evolution of masculine identities in the U.S.. Course materials include works by historians, sociologists, social theorists, and journalists who have also been key contributors to the burgeoning field of sports studies.\n",
     "instructor":"Frank Guridy",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -8487,7 +8533,7 @@
   {
     "course_code":"HIST UN2661",
     "course_title":"LATIN AMERICAN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"This course explores major themes in Latin American history from the independence period (ca 1810) to the present. We will hone in on Latin Americas \u201cchronic\u201d problems of social inequality, political polarization, authoritarianism, incomplete democratization, and troubled memory politics. The course covers economic, social, and cultural histories, and gives special weight to the transnational aspects of Latin American ideological struggles \u2013 from its dependency on Western capital to its ideological \u201cinner Cold War\u201d \u2013 and the way they influenced the subaltern strata of society. The section discussions are a crucial component of the course, and will focus on assigned historiography. While the lecture centers on constructing a cogent meta-narrative for Latin America\u2019s modern era, in the section we will explore not only the historical \u201cfacts,\u201d but will instead ask: how do historians know what they know about the past? What sources and analytic methods do they use to write history? And what ethical dilemmas do they confront when narrating politically-sensitive topics?\u00a0\n",
     "instructor":"Alfonso Salgado",
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:55pm",
@@ -8513,7 +8559,7 @@
   {
     "course_code":"HIST UN2665",
     "course_title":"DISC - Latin American Civilization II",
-    "course_descr":null,
+    "course_descr":"DISCUSSION SECTION for HIST UN 2661 Latin American Civilization II\n",
     "instructor":"Alfonso Salgado",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -8539,7 +8585,7 @@
   {
     "course_code":"HIST UN2679",
     "course_title":"Atlantic Slave Trade",
-    "course_descr":null,
+    "course_descr":"The history of human trafficking in the Atlantic world from the first European slaving expeditions in the late fifteenth century down to the final forced crossings in the era of the U.S. Civil War.\u00a0 Themes include captive taking in West Africa and its impact on West African societies, the commercial organization of the Atlantic slave trade in Europe and the Americas, and the experience of capture, exile, commodification, and survival of those shipped to the Americas.\u00a0\n",
     "instructor":"Christopher L Brown",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -8565,7 +8611,7 @@
   {
     "course_code":"HIST UN2680",
     "course_title":"Atlantic Slave Trade - DISC",
-    "course_descr":null,
+    "course_descr":"Required discussion section for HIST UN 2679 - The Atlantic Slave Trade\n",
     "instructor":"Christopher L Brown",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -8617,7 +8663,7 @@
   {
     "course_code":"HIST UN3180",
     "course_title":"RELIGIOUS CONVERSION IN HIST",
-    "course_descr":null,
+    "course_descr":"Boundary crossers have always challenged the way societies imagined themselves. This course explores the intersection between personal identity, narrative, and the historical-political, religious, economic, and social aspects of religious conversion. While the course will focus on Western (Christian and Jewish) models in the medieval and early modern periods, we will also look at antiquity, the role of conversion in the spread of Islam, and the complexities of religious conversion through the prism of colonial relations.\n",
     "instructor":"Elisheva Carlebach",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -8643,7 +8689,7 @@
   {
     "course_code":"HIST UN3386",
     "course_title":"The Global First World War",
-    "course_descr":null,
+    "course_descr":"The First World War has often been thought of as a European War, but it was fought on four continents and reverberated around the world.\u00a0 This course examines the global nature and impact of the war, paying particular attention to the way it destabilized or affected imperial, national, and ethnic\/racial solidarities and hierarchies, and ushered in new transnational norms, hazards, movements and practices.\u00a0 Students will read selected recent historical work on the war, and will delve into and contextualize a wide array of primary materials:\u00a0 diplomatic treaties or declarations; collective petitions or claims; combatants\u2019 diaries; observer accounts; official and humanitarian investigations; and novels, poetry, photography, and paintings.\u00a0 This seminar will function as a collaboration among its members, with the aim of producing not only individual work but a handbook of primary materials for a lecture-course version of the course which will be offered as a Global Core in 2023-4.\n",
     "instructor":"Susan Pedersen",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -8669,7 +8715,7 @@
   {
     "course_code":"HIST UN3437",
     "course_title":"CORP BEHAVIOR & PUBLIC HEALTH",
-    "course_descr":null,
+    "course_descr":"In the decades since the publication of Silent Spring and the rise of the environmental movement, public awareness of the impact of industrial products on human health has grown enormously. There is growing concern over BPA, lead, PCBs, asbestos, and synthetic materials that make up the world around us. This course will focus on environmental history, industrial and labor history as well as on how twentieth century consumer culture shapes popular and professional understanding of disease. Throughout the term the class will trace the historical transformation of the origins of disease through primary sources such as documents gathered in lawsuits, and medical and public health literature. Students will be asked to evaluate historical debates about the causes of modern epidemics of cancer, heart disease, lead poisoning, asbestos-related illnesses and other chronic conditions. They will also consider where responsibility for these new concerns lies, particularly as they have emerged in law suits. Together, we will explore the rise of modern environmental movement in the last 75 years.\n",
     "instructor":"David Rosner",
     "scheduled_time_start":"8:10am",
     "scheduled_time_end":"10:00am",
@@ -8695,7 +8741,7 @@
   {
     "course_code":"HIST UN3839",
     "course_title":"SENIOR THESIS SEMINAR",
-    "course_descr":null,
+    "course_descr":"A year-long course for outstanding senior majors who want to conduct research in primary sources on a topic of their choice in any aspect of history, and to write a senior thesis possibly leading toward departmental honors. Field(s): ALL\n",
     "instructor":"Elizabeth Blackmar",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -8721,7 +8767,7 @@
   {
     "course_code":"HIST UN3839",
     "course_title":"SENIOR THESIS SEMINAR",
-    "course_descr":null,
+    "course_descr":"A year-long course for outstanding senior majors who want to conduct research in primary sources on a topic of their choice in any aspect of history, and to write a senior thesis possibly leading toward departmental honors. Field(s): ALL\n",
     "instructor":"Natasha J Lightfoot",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -8955,7 +9001,7 @@
   {
     "course_code":"HSPB UN2950",
     "course_title":"Social History of U.S. Public Health",
-    "course_descr":null,
+    "course_descr":"The purpose of this course is to provide students with an historical understanding of the role public health has played in American history. The underlying assumptions are that disease, and the ways we define disease, are simultaneously reflections of social and cultural values, as well as important factors in shaping those values. Also, it is maintained that the environments that we build determine the ways we live and die. The dread infectious and acute diseases in the nineteenth century, the chronic, degenerative conditions of the twentieth and the new, vaguely understood conditions rooted in a changing chemical and human-made environment are emblematic of the societies we created. Among the questions that will be addressed are: How does the health status of Americans reflect and shape our history? How do ideas about health reflect broader attitudes and values in American history and culture? How does the American experience with pain, disability, and disease affect our actions and lives? What are the responsibilities of the state and of the individual in preserving health? How have American institutions--from hospitals to unions to insurance companies--been shaped by changing longevity, experience with disability and death?\n",
     "instructor":"James K Colgrove",
     "scheduled_time_start":"8:40am",
     "scheduled_time_end":"9:55am",
@@ -8981,7 +9027,7 @@
   {
     "course_code":"HSPB UN2951",
     "course_title":"SOCIAL HIST OF AMER PUB HEALTH-DIS",
-    "course_descr":null,
+    "course_descr":"Required Discussion Section for HSPB 2950 Social History of American Public Health. Students must also register for HSPB 2950.\n",
     "instructor":"James K Colgrove",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -22169,7 +22215,7 @@
   {
     "course_code":"MRST GR6990",
     "course_title":"DIRECTED INDIVIDUAL READINGS",
-    "course_descr":null,
+    "course_descr":"MRST Directed Readings, Independent study. Students should meet with the Program Director and Program Manager before registering for this course.\u00a0\n",
     "instructor":"Susan Boynton",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -22195,7 +22241,7 @@
   {
     "course_code":"MRST GR6998",
     "course_title":"MA Thesis I",
-    "course_descr":null,
+    "course_descr":"First part of two-term MA Thesis sequence for MRST MA Students.\u00a0\n",
     "instructor":"Susan Boynton",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -22273,7 +22319,7 @@
   {
     "course_code":"MUSI GR8097",
     "course_title":"INDIV PROJECTS IN MUSICOLOGY",
-    "course_descr":null,
+    "course_descr":"Sec. 1: Ethnomusicology; Sec. 2: Historical Musicology; Sec. 3: Music Theory; Sec. 4: Music Cognition; Sec. 5: Music Philosophy.\n",
     "instructor":"Susan Boynton",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -22299,7 +22345,7 @@
   {
     "course_code":"MUSI GR8097",
     "course_title":"INDIV PROJECTS IN MUSICOLOGY",
-    "course_descr":null,
+    "course_descr":"Sec. 1: Ethnomusicology; Sec. 2: Historical Musicology; Sec. 3: Music Theory; Sec. 4: Music Cognition; Sec. 5: Music Philosophy.\n",
     "instructor":"Julia Doe",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -22325,7 +22371,7 @@
   {
     "course_code":"MUSI GR8097",
     "course_title":"INDIV PROJECTS IN MUSICOLOGY",
-    "course_descr":null,
+    "course_descr":"Sec. 1: Ethnomusicology; Sec. 2: Historical Musicology; Sec. 3: Music Theory; Sec. 4: Music Cognition; Sec. 5: Music Philosophy.\n",
     "instructor":"Joseph P Dubiel",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -22351,7 +22397,7 @@
   {
     "course_code":"MUSI GR8097",
     "course_title":"INDIV PROJECTS IN MUSICOLOGY",
-    "course_descr":null,
+    "course_descr":"Sec. 1: Ethnomusicology; Sec. 2: Historical Musicology; Sec. 3: Music Theory; Sec. 4: Music Cognition; Sec. 5: Music Philosophy.\n",
     "instructor":"Kevin Fellezs",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -22377,7 +22423,7 @@
   {
     "course_code":"MUSI GR8097",
     "course_title":"INDIV PROJECTS IN MUSICOLOGY",
-    "course_descr":null,
+    "course_descr":"Sec. 1: Ethnomusicology; Sec. 2: Historical Musicology; Sec. 3: Music Theory; Sec. 4: Music Cognition; Sec. 5: Music Philosophy.\n",
     "instructor":"Aaron A Fox",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -22403,7 +22449,7 @@
   {
     "course_code":"MUSI GR8097",
     "course_title":"INDIV PROJECTS IN MUSICOLOGY",
-    "course_descr":null,
+    "course_descr":"Sec. 1: Ethnomusicology; Sec. 2: Historical Musicology; Sec. 3: Music Theory; Sec. 4: Music Cognition; Sec. 5: Music Philosophy.\n",
     "instructor":"Walter M Frisch",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -22429,7 +22475,7 @@
   {
     "course_code":"MUSI GR8097",
     "course_title":"INDIV PROJECTS IN MUSICOLOGY",
-    "course_descr":null,
+    "course_descr":"Sec. 1: Ethnomusicology; Sec. 2: Historical Musicology; Sec. 3: Music Theory; Sec. 4: Music Cognition; Sec. 5: Music Philosophy.\n",
     "instructor":"Mariusz Kozak",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -22455,7 +22501,7 @@
   {
     "course_code":"MUSI GR8097",
     "course_title":"INDIV PROJECTS IN MUSICOLOGY",
-    "course_descr":null,
+    "course_descr":"Sec. 1: Ethnomusicology; Sec. 2: Historical Musicology; Sec. 3: Music Theory; Sec. 4: Music Cognition; Sec. 5: Music Philosophy.\n",
     "instructor":"George Lewis",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -22481,7 +22527,7 @@
   {
     "course_code":"MUSI GR8097",
     "course_title":"INDIV PROJECTS IN MUSICOLOGY",
-    "course_descr":null,
+    "course_descr":"Sec. 1: Ethnomusicology; Sec. 2: Historical Musicology; Sec. 3: Music Theory; Sec. 4: Music Cognition; Sec. 5: Music Philosophy.\n",
     "instructor":"Benjamin A Steege",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -22507,7 +22553,7 @@
   {
     "course_code":"MUSI GR8097",
     "course_title":"INDIV PROJECTS IN MUSICOLOGY",
-    "course_descr":null,
+    "course_descr":"Sec. 1: Ethnomusicology; Sec. 2: Historical Musicology; Sec. 3: Music Theory; Sec. 4: Music Cognition; Sec. 5: Music Philosophy.\n",
     "instructor":"Christopher J Washburne",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -22533,7 +22579,7 @@
   {
     "course_code":"MUSI GR8501",
     "course_title":"Dissertation Proposal Seminar II",
-    "course_descr":null,
+    "course_descr":"Interdisciplinary group work as part of Dissertation Proposal Seminar series.\n",
     "instructor":"Walter M Frisch",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -22559,7 +22605,7 @@
   {
     "course_code":"MUSI GR8501",
     "course_title":"Dissertation Proposal Seminar II",
-    "course_descr":null,
+    "course_descr":"Interdisciplinary group work as part of Dissertation Proposal Seminar series.\n",
     "instructor":"Joseph P Dubiel",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -22663,7 +22709,7 @@
   {
     "course_code":"MUSI GU4515",
     "course_title":"CONDUCTING MUSIC",
-    "course_descr":null,
+    "course_descr":"Prerequisites: advanced music major and extensive contemporary music background. Analysis of the modern repertory of contemporary music with directional emphasis on actual conducting preparation, beating patterns, rhythmic notational problems, irregular meters, communication, and transference of musical ideas. Topics will include theoretical writing on 20th-century conducting, orchestration, and phrasing.\n",
     "instructor":"Jeffrey Milarsky",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:25pm",
@@ -22793,7 +22839,7 @@
   {
     "course_code":"MUSI UN2020",
     "course_title":"SALSA, SOCA & REGGAE",
-    "course_descr":null,
+    "course_descr":"Salsa Soca Reggae is an introduction to Caribbean popular music that surveys music from 1800 to the present. The course focuses on the cultural and social history of the music and traces its influence on global cultural and musical expression.\n",
     "instructor":"Christopher J Washburne",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:25pm",
@@ -22845,7 +22891,7 @@
   {
     "course_code":"MUSI UN2240",
     "course_title":"The Song Within Us: Composition, Analysi",
-    "course_descr":null,
+    "course_descr":"This class offers insight through composing, analysis, and performance for the composer, singer\/songwriter, and performance artist. Coupling specifics of rhythm, melody, and harmony with story telling, lyric writing and the voice itself, students will be encouraged to share their imagination in song regardless of style, genre, or aesthetic. Music ranging from Chant to Music Theatre, the German lied to international pop fusion will be included as models upon which to base discussion and creative endeavor. Improvisation and musicianship techniques will complement pedagogical presentations of tonal and non - tonal compositional practice. A required final project based on any combination of composition, analysis, and performance, and in any media will be due at the end of the semester. All levels of experience and all types of instruments are welcome. Notation software is recommended but not required.\n",
     "instructor":"Peter M Susser",
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:55pm",
@@ -23001,7 +23047,7 @@
   {
     "course_code":"MUSI UN3129",
     "course_title":"HIST-WEST MUS:CLASSICAL-20TH CENTURY",
-    "course_descr":null,
+    "course_descr":"Topics in Western music from the Classical era to the present day, focusing on the development of musical style and thought, and on analysis of selected works.\n",
     "instructor":"Julia Doe",
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:55pm",
@@ -23053,7 +23099,7 @@
   {
     "course_code":"MUSI UN3239",
     "course_title":"INTRODUCTION TO COMPOSITION I",
-    "course_descr":null,
+    "course_descr":"Composition in shorter forms. Students will compose new works for the cello, with a focus on diverse approaches to the instrument. Student pieces will be workshopped, rehearsed, and performed (and\/or recorded). \u00a0\u00a0  \u00a0\n",
     "instructor":"Marcos Balter",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -23079,7 +23125,7 @@
   {
     "course_code":"MUSI UN3310",
     "course_title":"TECHNIQUES OF 20TH CENTURY MUSIC",
-    "course_descr":null,
+    "course_descr":"Materials, styles, and techniques of 20th and 21st century music. Musical concepts and compositional techniques related to serialism and atonality, timbre, orchestration, indeterminacy, rhythm and temporality, electronic and electro-acoustic music, site-specific composition, graphic notation, recomposition, minimalism, and spectralism.\n",
     "instructor":"Joseph P Dubiel",
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:55pm",
@@ -23157,7 +23203,7 @@
   {
     "course_code":"MUSI UN3321",
     "course_title":"MUSIC THEORY III",
-    "course_descr":null,
+    "course_descr":"Intermediate analysis and composition in a variety of tonal idioms.\u00a0 A one-hour weekly lab is required, to be scheduled at the beginning of the term.\u00a0 Course to be taken in conjunction with the Ear-Training sequence, up through Ear-Training IV.\n",
     "instructor":"Galen P Degraf",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:25pm",
@@ -23183,7 +23229,7 @@
   {
     "course_code":"MUSI UN3322",
     "course_title":"MUSIC THEORY IV",
-    "course_descr":null,
+    "course_descr":"Intermediate analysis and composition in a variety of tonal and extended tonal idioms.\u00a0 A one-hour weekly lab is required, to be scheduled at the beginning of the term.\u00a0 Course to be taken in conjunction with the Ear-Training sequence, up through Ear-Training IV.\n",
     "instructor":"Joseph P Dubiel",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:25pm",
@@ -23209,7 +23255,7 @@
   {
     "course_code":"MUSI UN3400",
     "course_title":"TOPICS IN MUSIC & SOCIETY",
-    "course_descr":null,
+    "course_descr":"This course seeks to approach the study of music and society by comparatively studying repertories from different parts of the world, how the history of ideas and methods of studying such repertoires shaped them, the practices that constitute them and the ways they are understood and used by different peoples. Central to this course is the interrelationship between the constitution of a repertoire and the history of the construction of knowledge about it.\n",
     "instructor":"Thomas T Wetmore",
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:55pm",
@@ -24367,7 +24413,7 @@
   {
     "course_code":"NMED PS5900",
     "course_title":"CAPSTONE PROJECT",
-    "course_descr":null,
+    "course_descr":"TBA\n",
     "instructor":"Sayantani T Dasgupta",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -24395,7 +24441,7 @@
   {
     "course_code":"NMED PS5900",
     "course_title":"CAPSTONE PROJECT",
-    "course_descr":null,
+    "course_descr":"TBA\n",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -24451,7 +24497,7 @@
   {
     "course_code":"NMED PS5996",
     "course_title":"NARRATIVE MEDICINE INDEP STUDY",
-    "course_descr":null,
+    "course_descr":"Narrative Medicine Independent Study may be taken for one to four points (credits) depending on the work involved as determined with the advisor. Students may propose an Independent Study topic based on their past experience and future professional or academic goals, providing the opportunity for in-depth investigation of a particular topic of interest. Examples include: curriculum, program design, or program evaluation projects; creative projects; publishable articles, etc. Independent Study is not required for completion of the program.\n",
     "instructor":"Carmelina E Price",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
