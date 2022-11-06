@@ -4453,7 +4453,7 @@
   {
     "course_code":"BIOL UN1004",
     "course_title":"Foundations of Biology",
-    "course_descr":"In this course, we will introduce basic terminology, important concepts, and basic problem-solving skills in order to prepare biology and pre-health students for the challenging Biology courses they will take at Columbia. We will do a deep dive into a small number of topics and use these as access points to teaching skills that will aid them in future STEM courses. Classes will include time for problem solving, and there will be an optional recitation.\n",
+    "course_descr":"In this course, we will introduce basic terminology, important concepts, and basic problem-solving skills in order to prepare biology and pre-health students for the challenging Biology courses they will take at Columbia. We will do a deep dive into a small number of topics and use these as access points to teaching skills that will aid students in future STEM courses. Classes will include time for problem solving. Recitations will involve problem solving and student presentations of solutions to problems.\n",
     "instructor":"Mary Ann Price",
     "scheduled_time_start":"1:00pm",
     "scheduled_time_end":"2:30pm",
@@ -31620,7 +31620,7 @@
   {
     "course_code":"MATH UN2015",
     "course_title":"Linear Algebra and Probability",
-    "course_descr":"MATH UN2015 features linear algebra with a focus on probability and statistics. The course covers the standard linear algebra topics: systems of linear equations, matrices, determinants, vector spaces, bases, dimension, eigenvalues and eigenvectors. It also teaches applications of linear algebra to probability, statistics and dynamical systems giving a background sufficient for higher level courses in probability and statistics. The topics covered in the probability theory part include conditional probability, discrete and continuous random variables, probability distributions and the limit theorems, as well as Markov chains, curve fitting, regression, and pattern analysis. The course contains applications to life sciences, chemistry, and environmental life sciences. No a prior i background in the life sciences is assumed.  This course is best suited for students who wish to focus on applications and practical approach to problem solving, rather than abstract mathematics and mathematical proofs. It is recommended to students majoring in engineering, technology, life sciences, social sciences, and economics. Students majoring in mathematics should take MATH UN2010 - Linear Algebra, which focuses on linear algebra concepts, and provides an introduction to writing mathematical proofs.\n",
+    "course_descr":"Linear algebra with a focus on probability and statistics. The course covers the standard linear algebra topics: systems of linear equations, matrices, determinants, vector spaces, bases, dimension, eigenvalues and eigenvectors, the Spectral Theorem and singular value decompositions. It also teaches applications of linear algebra to probability, statistics and dynamical systems giving a background sufficient for higher level courses in probability and statistics. The topics covered in the probability theory part include conditional probability, discrete and continuous random variables, probability distributions and the limit theorems, as well as Markov chains, curve fitting, regression, and pattern analysis. The course contains applications to life sciences, chemistry, and environmental life sciences. No a prior i background in the life sciences is assumed.  This course is best suited for students who wish to focus on applications and practical approaches to problem solving. It is recommended to students majoring in engineering, technology, life sciences, social sciences, and economics. Math majors, joint majors, and math concentrators must take MATH UN2010 Linear Algebra, which focuses on linear algebra concepts\u00a0and foundations that are needed for upper-level math courses. MATH UN2015 (Linear Algebra and Probability) does NOT replace MATH UN2010 (Linear Algebra) as prerequisite requirements of math courses. Students may not receive full credit for both courses MATH UN2010 and MATH UN2015.\n",
     "instructor":"George Dragomir",
     "scheduled_time_start":"10:45am",
     "scheduled_time_end":"12:20pm",
@@ -31638,8 +31638,15 @@
     "points":"3",
     "prerequisites":[
       [
-        "MATH UN2015",
+        "MATH UN2010",
         "MATH UN2010"
+      ],
+      [
+        "MATH UN2010",
+        "MATH UN2015"
+      ],
+      [
+        "MATH UN2015"
       ]
     ],
     "scheduled_days":"MTWR",
@@ -34680,8 +34687,8 @@
   },
   {
     "course_code":"NOPM PS5170",
-    "course_title":"PUBLIC\/PRIVATE PARTNERSHIPS: COMBATING G",
-    "course_descr":null,
+    "course_title":"PUBLIC\/PRIVATE PARTNERSHIPS",
+    "course_descr":"No one organization or sector has the full suite of capabilities, relationships or assets to tackle persistent and escalating social problems such as poverty, homelessness, food insecurity, equitable access to education and health care, among others. As public resources dedicated to societal benefit become scarcer and calls for accountability become more urgent, the public sector increasingly is turning to public-private partnership (P3) models. Consequently, these models and approaches are becoming as multi-faceted, systemic and global as the challenges they aim to address, with increased opportunities for philanthropy and the non-profit sector.  \u00a0  The term \u201cpublic-private partnership\u201d is often misused to identify mostly a shifting of risk from government to a private partner in exchange for an up-front payment. A true or \u201cauthentic\u201d P3s generates collective benefits that exceed what individual partners could achieve on their own. This course will examine, through readings and case histories, P3 partnerships that involve the sharing of risks and rewards between public, private and nonprofit partners, where the sector-specific expertise and assets of multiple stakeholders are tapped and valued for innovation in the design, delivery and management of cross-sector projects and services. The emphasis will be on the role of philanthropy and the nonprofit sector as equal partners in all aspects of these shared-value partnerships. Students will consider questions about entrepreneurship, nonprofit leadership, and service: How should core public services be financed? What is the most effective way to manage day-to-day operations of public services? What does it mean to be accountable to the public? Examples are drawn from public health, education, international development, urban renewal, and others.\u00a0  \u00a0  This is an elective that builds on the Nonprofit Management Program\u2019s core curriculum and is designed for all Nonprofit Management Program students and, space permitting, is open to cross-registrants from other fields and\/or Columbia University programs (other SPS programs; Teachers College; Business School; Mailman School of Public Health; SIPA). Students should have a strong understanding of the nonprofit development sector in the US; familiarity with international fundraising practices also is welcome.  \u00a0\n",
     "instructor":"Richard T Feiner",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"8:30pm",
