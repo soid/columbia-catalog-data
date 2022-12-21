@@ -352,7 +352,7 @@
   {
     "course_code":"ANTH S3722",
     "course_title":"THE ANTHROPOLOGY OF VIOLENCE",
-    "course_descr":null,
+    "course_descr":"This course will explore contemporary anthropological approaches to the issue of violence with an exploration of three particular themes. Our main focus will be on the idea of representation, ethnographically and theoretically, of the concept of violence. First, we will look at how violence has been situated as an object of study within anthropology, as a theoretical concept as well as in practice. We will then look at the issue of terrorism and how anthropology as a discipline contributes to understanding this particular form of violence. Finally, we will consider gender-based violence with close attention to the colonial\/post-colonial settings where Islam is a salient factor. Gender based violence is one of the main forces producing and reproducing gender inequality. We will pay particular attention to the concept of the 'Muslim woman' in both the colonial and colonized imagination.\n",
     "instructor":"Juan C Mazariegos",
     "scheduled_time_start":"9:00am",
     "scheduled_time_end":"12:10pm",
@@ -594,6 +594,56 @@
     "scheduled_days":null,
     "section_key":"20232BIOL4515S002",
     "type":"LABORATORY"
+  },
+  {
+    "course_code":"CHEM S0001",
+    "course_title":"PREPARATION-COLLEGE CHEMISTRY",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"6:15pm",
+    "scheduled_time_end":"7:50pm",
+    "call_number":"10283",
+    "campus":"Morningside",
+    "class_id":"S0001-20232-001",
+    "course_subtitle":"PREPARATION-COLLEGE CHEMI",
+    "department":"Summer Session (SUMM)",
+    "department_code":"CHEM",
+    "link":"http:\/\/www.columbia.edu\/\/cu\/bulletin\/uwb\/subj\/CHEM\/S0001-20232-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MTWR",
+    "section_key":"20232CHEM0001S001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"CHEM S1403",
+    "course_title":"GENERAL CHEMISTRY I-LECTURES",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"9:30am",
+    "scheduled_time_end":"12:20pm",
+    "call_number":"10284",
+    "campus":"Morningside",
+    "class_id":"S1403-20232-001",
+    "course_subtitle":"GENERAL CHEMISTRY I-LECTU",
+    "department":"Summer Session (SUMM)",
+    "department_code":"CHEM",
+    "link":"http:\/\/www.columbia.edu\/\/cu\/bulletin\/uwb\/subj\/CHEM\/S1403-20232-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MTWR",
+    "section_key":"20232CHEM1403S001",
+    "type":"LECTURE"
   },
   {
     "course_code":"CHEM S1404",
@@ -2123,7 +2173,7 @@
   {
     "course_code":"FREN S1101",
     "course_title":"ELEMENTARY FRENCH I",
-    "course_descr":null,
+    "course_descr":"Equivalent to FREN UN1101. Designed to help students understand, speak, read, and write French, and to recognize cultural features of French-speaking communities, now with the help of a newly digitized audio program. Students learn to provide information in French about their feelings, environment, families, and daily activities. Daily assignments, quizzes, laboratory work, and screening of video material.\n",
     "instructor":null,
     "scheduled_time_start":"10:00am",
     "scheduled_time_end":"12:05pm",
@@ -2139,7 +2189,9 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "FREN UN1101"
+      ]
     ],
     "scheduled_days":"MTWR",
     "section_key":"20232FREN1101S001",
@@ -2148,7 +2200,7 @@
   {
     "course_code":"FREN S1101",
     "course_title":"ELEMENTARY FRENCH I",
-    "course_descr":null,
+    "course_descr":"Equivalent to FREN UN1101. Designed to help students understand, speak, read, and write French, and to recognize cultural features of French-speaking communities, now with the help of a newly digitized audio program. Students learn to provide information in French about their feelings, environment, families, and daily activities. Daily assignments, quizzes, laboratory work, and screening of video material.\n",
     "instructor":null,
     "scheduled_time_start":"10:00am",
     "scheduled_time_end":"12:05pm",
@@ -2164,7 +2216,9 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "FREN UN1101"
+      ]
     ],
     "scheduled_days":"MTWR",
     "section_key":"20232FREN1101S002",
@@ -2173,7 +2227,7 @@
   {
     "course_code":"FREN S1102",
     "course_title":"ELEMENTARY FRENCH II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: one term of college French or one year of secondary school French. $15.00= Language Resource Fee, $15.00 = Materials Fee , Equivalent to FREN UN1102. Continues the work of French S1101D and completes the study of elementary French. Students continue to develop communicative skills, narrating recent events (past, present, and future), describing daily life activities, and learning about cultural features of France and of the wider Francophone world. Following the communicative approach, students, with the help of the instructor, learn to solve problems using the language, to communicate their feelings and opinions, and to obtain information from others. Daily assignments, quizzes, laboratory work, and screening of video materials.\n",
     "instructor":null,
     "scheduled_time_start":"10:00am",
     "scheduled_time_end":"12:05pm",
@@ -2189,7 +2243,10 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "FREN UN1102",
+        "S1101"
+      ]
     ],
     "scheduled_days":"MTWR",
     "section_key":"20232FREN1102S001",
@@ -2198,7 +2255,7 @@
   {
     "course_code":"FREN S1102",
     "course_title":"ELEMENTARY FRENCH II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: one term of college French or one year of secondary school French. $15.00= Language Resource Fee, $15.00 = Materials Fee , Equivalent to FREN UN1102. Continues the work of French S1101D and completes the study of elementary French. Students continue to develop communicative skills, narrating recent events (past, present, and future), describing daily life activities, and learning about cultural features of France and of the wider Francophone world. Following the communicative approach, students, with the help of the instructor, learn to solve problems using the language, to communicate their feelings and opinions, and to obtain information from others. Daily assignments, quizzes, laboratory work, and screening of video materials.\n",
     "instructor":null,
     "scheduled_time_start":"10:00am",
     "scheduled_time_end":"12:05pm",
@@ -2214,7 +2271,10 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "FREN UN1102",
+        "S1101"
+      ]
     ],
     "scheduled_days":"MTWR",
     "section_key":"20232FREN1102S002",
@@ -2298,7 +2358,7 @@
   {
     "course_code":"FREN S2106",
     "course_title":"RAPID READING AND TRANSLATION",
-    "course_descr":null,
+    "course_descr":"Primarily for graduate students in other departments who have some background in French and who wish to meet the French reading requirement for the Ph.D. degree, or for scholars whose research involves references in the French language. Intensive reading and translation, both prepared and at sight, in works drawn from literature, criticism, philosophy, and history. Brief review of grammar; vocabulary exercises.\n",
     "instructor":null,
     "scheduled_time_start":"10:00am",
     "scheduled_time_end":"12:05pm",
