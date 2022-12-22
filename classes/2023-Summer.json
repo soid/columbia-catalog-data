@@ -598,7 +598,7 @@
   {
     "course_code":"CHEM S0001",
     "course_title":"PREPARATION-COLLEGE CHEMISTRY",
-    "course_descr":null,
+    "course_descr":"Prerequisites: High school algebra or the instructor's permission. Recommended: high school physics and chemistry. This course is preparation for CHEM UN1403 General Chemistry I Lecture or the equivalent, as well as for other science courses. It is intended for students who have not attended school for sometime or who do not have a firm grasp of high school chemistry. Topics include inorganic nomenclature, chemical reactions, chemical bonding and its relation to molecular structure, stoichiometry, periodic properties of elements, chemical equilibrium, gas laws, acids and bases, and electrochemistry. Please note that students must attend a recitation section.\n",
     "instructor":null,
     "scheduled_time_start":"6:15pm",
     "scheduled_time_end":"7:50pm",
@@ -614,7 +614,9 @@
     "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "CHEM UN1403"
+      ]
     ],
     "scheduled_days":"MTWR",
     "section_key":"20232CHEM0001S001",
@@ -623,7 +625,7 @@
   {
     "course_code":"CHEM S1403",
     "course_title":"GENERAL CHEMISTRY I-LECTURES",
-    "course_descr":null,
+    "course_descr":"Prerequisites: high school chemistry and algebra, CHEM S0001, or the department's permission. Topics include stoichiometry, states of matter, nuclear properties, electronic structures of atoms, periodic properties, chemical bonding, molecular geometry, introduction to quantum mechanics and atomic theory, introduction to organic, biological chemistry and inorganic coordination chemistry. Topical subjects may include spectroscopy, solid state and materials science, polymer science and macromolecular structures. The order of presentation of topics may differ from the order presented here. Students are required to attend the separate daily morning recitations which accompany the lectures (total time block: MTWR 9:30-12:20). Registering for CHEM S1403D will automatically register students for the recitation section. Students who wish to take the full sequence of General Chemistry Lectures and General Chemistry Laboratory should also register for CHEM S1404Q and CHEM S1500 (see below). This course is equivalent to CHEM W1403 General Chemistry I Lecture.\n",
     "instructor":null,
     "scheduled_time_start":"9:30am",
     "scheduled_time_end":"12:20pm",
@@ -639,7 +641,17 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "CHEM S0001",
+        "CHEM S1403",
+        "CHEM S1404"
+      ],
+      [
+        "CHEM S1500"
+      ],
+      [
+        "CHEM W1403"
+      ]
     ],
     "scheduled_days":"MTWR",
     "section_key":"20232CHEM1403S001",
