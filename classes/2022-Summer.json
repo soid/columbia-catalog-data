@@ -7349,7 +7349,7 @@
   {
     "course_code":"CHNS OC1101",
     "course_title":"FIRST YEAR CHINESE I",
-    "course_descr":"Prerequisites: \nNone.  \nEligibility: \nThis course is open to undergraduates, graduate students, and visiting students  Introduces basic sentence structures and vocabulary in colloquial Chinese and focuses on developing basic skills in listening, speaking, reading, and writing. The Pinyin system and traditional characters are used.  To enroll in\u00a0this course, you must apply to the \nVirtual Columbia Summer:\u00a0Chinese Language Program\n \nthrough the Center for\u00a0Undergraduate Global Engagement (UGE). \nTuition charges apply; scholarships available. \n  \nPlease note the program dates\u00a0are different from the Summer Term A & B\u00a0dates.\u00a0\n  \u00a0  \u00a0\n",
+    "course_descr":"First Year Chinese I, CHNS1101UN, 4 points. You are required to take First Year Chinese II, CHNS1102UN, 4 points with this course.\n  \nInstructor: TBD\n  \nPrerequisites\n: None  \nTexts\n: Approaching China (Columbia University staff, published by Peking University Press)  Introduces basic sentence structures and vocabulary in colloquial Chinese and focuses on developing basic skills in listening, speaking, reading, and writing. The Pinyin system and traditional characters are used.  To enroll in\u00a0this course, you must apply to the\n \nVirtual Columbia Summer Chinese Language\n program through the Center for\u00a0Undergraduate Global Engagement (UGE).\n \nGlobal Learning Scholarships \navailable. \nTuition\n charges apply.  \nPlease note the program dates\u00a0are different from the Summer Term A & B\u00a0dates.\u00a0\n  \u00a0\n",
     "instructor":"Ling Yan",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -7366,7 +7366,12 @@
     "open_to":null,
     "points":"5",
     "prerequisites":[
-
+      [
+        "NS1101"
+      ],
+      [
+        "NS1102"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20222CHNS1101O001",
@@ -7401,7 +7406,7 @@
   {
     "course_code":"CHNS OC4015",
     "course_title":"FOURTH YEAR CHINESE I",
-    "course_descr":"Prerequisites\n: At least three years of college-level Chinese or the equivalent.  \nEligibility:\u00a0\nThis course is open to undergraduates, graduate students, and visiting students.  Furthers students' language skills in semi-formal, formal, or written styles through reading and writing, while improving fluency in oral communication. Weekly individual oral presentations and written reports are required.  To enroll in\u00a0this course, you must apply to the \nVirtual Columbia Summer:\u00a0Chinese Language Program\n through the Center for\u00a0Undergraduate Global Engagement (UGE) \u00a0You are required to take Reading in Modern Chinese II (Fourth-Year Level), CHNS4016OC\u00a0with this course.\nTuition charges apply; scholarships available.\n  \u00a0\nPlease note the program dates\u00a0are \n \ndifferent from the Summer Term A & B\u00a0dates.\u00a0\n\n",
+    "course_descr":"Fourth Year Chinese I, CHNS4015UN, 5 points. You are required to take Fourth Year Chinese II, CHNS4016UN, 5 points with this course.\n  \nInstructor\n: \nLing Yan\n  \nPrerequisites\n: Three (3) years of college-level Chinese or the equivalent, at least.  \nTexts\n: Articles by contemporary and modern writers; Readings from current newspapers and magazines; Simplified characters used.  Furthers students' language skills in semi-formal, formal, or written styles through reading and writing, while improving fluency in oral communication. Weekly individual oral presentations and written reports are required.  To enroll in\u00a0this course, you must apply to the\n \nVirtual Columbia Summer Chinese Language\n program through the Center for\u00a0Undergraduate Global Engagement (UGE).\n \nGlobal Learning Scholarships \navailable. \nTuition\n charges apply.  \nPlease note the program dates\u00a0are different from the Summer Term A & B\u00a0dates.\u00a0\n  \u00a0  \u00a0  \u00a0\n",
     "instructor":"Ling Yan",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -7419,6 +7424,9 @@
     "points":"5",
     "prerequisites":[
       [
+        "NS4015"
+      ],
+      [
         "NS4016"
       ]
     ],
@@ -7429,7 +7437,7 @@
   {
     "course_code":"CHNS OC4016",
     "course_title":"FOURTH YEAR CHINESE II",
-    "course_descr":"Prerequisites\n: At least three years of college-level Chinese or the equivalent.  \nEligibility:\u00a0\nThis course is open to undergraduates, graduate students, and visiting students.  Furthers students' language skills in semi-formal, formal, or written styles through reading and writing, while improving fluency in oral communication. Weekly individual oral presentations and written reports are required.  To enroll in\u00a0this course, you must apply to the \nVirtual Columbia Summer:\u00a0Chinese Language Program \nthrough the Center for\u00a0Undergraduate Global Engagement (UGE).\u00a0You are required to take Reading in Modern Chinese I (Fourth-Year Level), CHNS4015OC\u00a0with this course.\nTuition charges apply; scholarships available.\n  \nPlease note the program dates\u00a0are different from the Summer Term A & B\u00a0dates.\u00a0\n\n",
+    "course_descr":"\u00a0  \nFourth Year Chinese II, CHNS4016UN, 5 points. You are required to take Fourth Year Chinese I, CHNS4015UN, 5 points with this course.\n  \nInstructor\n: \nLing Yan\n  \nPrerequisites\n: Three (3) years of college-level Chinese or the equivalent, at least.  \nTexts\n: Articles by contemporary and modern writers; Readings from current newspapers and magazines; Simplified characters used.  Furthers students' language skills in semi-formal, formal, or written styles through reading and writing, while improving fluency in oral communication. Weekly individual oral presentations and written reports are required.  To enroll in\u00a0this course, you must apply to the\n \nVirtual Columbia Summer Chinese Language\n program through the Center for\u00a0Undergraduate Global Engagement (UGE).\n \nGlobal Learning Scholarships \navailable. \nTuition\n charges apply.  \nPlease note the program dates\u00a0are different from the Summer Term A & B\u00a0dates.\u00a0\n\n",
     "instructor":"Ling Yan",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -7448,6 +7456,9 @@
     "prerequisites":[
       [
         "NS4015"
+      ],
+      [
+        "NS4016"
       ]
     ],
     "scheduled_days":null,
@@ -7457,7 +7468,7 @@
   {
     "course_code":"CHNS UN2201",
     "course_title":"SECOND YEAR CHINESE I",
-    "course_descr":"Prerequisites\n: One year of college-level Chinese or the equivalent.\n Texts: \nJingua Chinese (Columbia University staff, published by Peking University Press; traditional and simplified characters)\n  Consolidates and develops language skills used in everyday communication. Texts are presented in the form of a narrative that provides language situations, sentence patterns, word usage, and cultural information. Comprehensive exercises rely on highly structured practice in vocabulary, grammar, listening, speaking, reading, and writing. Semi-formal and literary styles are introduced in later lessons as transition to more advanced levels of Chinese language study. The first half of the course emphasizes skills for conducting everyday tasks such as shopping, making telephone calls, seeing a doctor, or looking for a job. The second half focuses on aspects of Chinese culture: the social norms of politeness and gift-giving, traditions such as inter-generational relationships and marriage ceremonies, customs such as special foods and holidays. While providing practical training, the course aims to raise the student's linguistic competence in preparation for advanced studies in Mandarin.  To enroll in\u00a0this course, you must apply to the \nVirtual Columbia Summer:\u00a0Chinese Language Program \nthrough the Center for\u00a0Undergraduate Global Engagement (UGE).\n Tuition charges apply; scholarships available. \n  \nPlease note the program dates\u00a0are different from the Summer Term A & B\u00a0dates.\u00a0\n  \u00a0  \u00a0  \u00a0\n",
+    "course_descr":"Second Year Chinese I, CHNS2201UN, 4 points. You are required to take First Year Chinese II, CHNS2202UN, 4 points with this course.\n  \nInstructor: \nLingjun Hu\n  \nPrerequisites\n: One (1) year of college-level Chinese or the equivalent  \nTexts\n: Jingua Chinese (Columbia University staff, published by Peking University Press; traditional and simplified characters)  Consolidates and develops language skills used in everyday communication. Texts are presented in the form of a narrative that provides language situations, sentence patterns, word usage, and cultural information. Comprehensive exercises rely on highly structured practice in vocabulary, grammar, listening, speaking, reading, and writing. Semi-formal and literary styles are introduced in later lessons as transition to more advanced levels of Chinese language study. The first half of the course emphasizes skills for conducting everyday tasks such as shopping, making telephone calls, seeing a doctor, or looking for a job. The second half focuses on aspects of Chinese culture: the social norms of politeness and gift-giving, traditions such as inter-generational relationships and marriage ceremonies, customs such as special foods and holidays. While providing practical training, the course aims to raise the student's linguistic competence in preparation for advanced studies in Mandarin.  To enroll in\u00a0this course, you must apply to the\n \nVirtual Columbia Summer Chinese Language\n program through the Center for\u00a0Undergraduate Global Engagement (UGE).\n \nGlobal Learning Scholarships \navailable. \nTuition\n charges apply.  \nPlease note the program dates\u00a0are different from the Summer Term A & B\u00a0dates.\u00a0\n\n",
     "instructor":"Lingjun Hu",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -7474,7 +7485,12 @@
     "open_to":null,
     "points":"5",
     "prerequisites":[
-
+      [
+        "NS2201"
+      ],
+      [
+        "NS2202"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20222CHNS2201C001",
@@ -7483,7 +7499,7 @@
   {
     "course_code":"CHNS UN2202",
     "course_title":"SECOND YEAR CHINESE II",
-    "course_descr":"CHNS2201UN\n.\u00a0\nSecond Year\u00a0Chinese I\n  \nInstructor:\u00a0\nLingjun Hu\n  \nPrerequisites\n: One\u00a0(1) year of college-level Chinese or the equivalent\n \nTexts\n:\u00a0Jingua Chinese (Columbia University staff, published by Peking University Press; traditional and simplified characters)  \n Consolidates and develops language skills used in everyday communication. Texts are presented in the form of a narrative that provides language situations, sentence patterns, word usage, and cultural information. Comprehensive exercises rely on highly structured practice in vocabulary, grammar, listening, speaking, reading, and writing. Semi-formal and literary styles are introduced in later lessons as transition to more advanced levels of Chinese language study. The first half of the course emphasizes skills for conducting everyday tasks such as shopping, making telephone calls, seeing a doctor, or looking for a job. The second half focuses on aspects of Chinese culture: the social norms of politeness and gift-giving, traditions such as inter-generational relationships and marriage ceremonies, customs such as special foods and holidays. While providing practical training, the course aims to raise the student's linguistic competence in preparation for advanced studies in Mandarin.  To enroll in\u00a0this course, you must apply to the\n \nVirtual Columbia Summer: Chinese Language\n \nprogram through the Center for\u00a0Undergraduate Global Engagement (UGE).\u00a0\nGlobal Learning Scholarships \navailable. \nTuition\n charges apply.  \nPlease note the program dates\u00a0are different from the Summer Term A & B\u00a0dates.\u00a0\n  \u00a0  \u00a0\n",
+    "course_descr":"Second Year Chinese II,\u00a0 CHNS2202UN, 4 points. You are required to take First Year Chinese I, CHNS2201UN, 4 points with this course.\n  \nInstructor:\u00a0\nLingjun Hu\n  \nPrerequisites\n: One\u00a0(1) year of college-level Chinese or the equivalent  \nTexts\n:\u00a0Jingua Chinese (Columbia University staff, published by Peking University Press; traditional and simplified characters)  Consolidates and develops language skills used in everyday communication. Texts are presented in the form of a narrative that provides language situations, sentence patterns, word usage, and cultural information. Comprehensive exercises rely on highly structured practice in vocabulary, grammar, listening, speaking, reading, and writing. Semi-formal and literary styles are introduced in later lessons as transition to more advanced levels of Chinese language study. The first half of the course emphasizes skills for conducting everyday tasks such as shopping, making telephone calls, seeing a doctor, or looking for a job. The second half focuses on aspects of Chinese culture: the social norms of politeness and gift-giving, traditions such as inter-generational relationships and marriage ceremonies, customs such as special foods and holidays. While providing practical training, the course aims to raise the student's linguistic competence in preparation for advanced studies in Mandarin.  To enroll in\u00a0this course, you must apply to the\n \nVirtual Columbia Summer: Chinese Language\n \nprogram through the Center for\u00a0Undergraduate Global Engagement (UGE).\u00a0\nGlobal Learning Scholarships \navailable. \nTuition\n charges apply.  \nPlease note the program dates\u00a0are different from the Summer Term A & B\u00a0dates.\u00a0\n  \u00a0  \u00a0\n",
     "instructor":"Lingjun Hu",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -7502,6 +7518,9 @@
     "prerequisites":[
       [
         "NS2201"
+      ],
+      [
+        "NS2202"
       ]
     ],
     "scheduled_days":null,
@@ -7511,7 +7530,7 @@
   {
     "course_code":"CHNS UN3003",
     "course_title":"THIRD YEAR CHINESE I",
-    "course_descr":"Prerequisites\n: Two years of college-level Chinese or the equivalent\n Texts: Jingua Chinese (Columbia University staff, published by Peking University Press; simplified characters)\n \n Introduces Chinese social values and attitudes, focusing on the rapid changes now taking place in China. Uses materials from Chinese newspapers and modern short stories to teach essential elements of semi-formal and formal writing. Reading and writing are routine tasks and oral discussion and debate are important components of the class, allowing students to integrate and improve their communication skills in Chinese.  To enroll in\u00a0this course, you must apply to the \nVirtual Columbia Summer:\u00a0Chinese Language Program \nthrough the Center for\u00a0Undergraduate Global Engagement (UGE).\n Tuition charges apply; scholarships available. \n  \nPlease note the program dates\u00a0are different from the Summer Term A & B\u00a0dates.\u00a0\n  \u00a0\n",
+    "course_descr":"Third Year Chinese I, CHNS3003UN, 5 points. You are required to take Third Year Chinese II, CHNS3004UN, 5 points with this course.\n  \nInstructor\n: \nZhirong Wang\n  \nPrerequisites\n: Two (2) years of college-level Chinese or the equivalent  \nTexts\n: Jingua Chinese (Columbia University staff, published by Peking University Press; simplified characters)  Introduces Chinese social values and attitudes, focusing on the rapid changes now taking place in China. Uses materials from Chinese newspapers and modern short stories to teach essential elements of semi-formal and formal writing. Reading and writing are routine tasks, and oral discussion and debate are important components of the class, allowing students to integrate and improve their communication skills in Chinese.  To enroll in\u00a0this course, you must apply to the\n \nVirtual Columbia Summer Chinese Language\n program through the Center for\u00a0Undergraduate Global Engagement (UGE).\n \nGlobal Learning Scholarships \navailable. \nTuition\n charges apply.  \nPlease note the program dates\u00a0are different from the Summer Term A & B\u00a0dates.\u00a0\n\n",
     "instructor":"Zhirong Wang",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -7528,7 +7547,12 @@
     "open_to":null,
     "points":"5",
     "prerequisites":[
-
+      [
+        "NS3003"
+      ],
+      [
+        "NS3004"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20222CHNS3003W001",
@@ -7537,7 +7561,7 @@
   {
     "course_code":"CHNS UN3004",
     "course_title":"THIRD YEAR CHINESE II",
-    "course_descr":"Prerequisites\n: Two years of college-level Chinese or the equivalent\n Texts: Jingua Chinese (Columbia University staff, published by Peking University Press; simplified characters)\n \n Introduces Chinese social values and attitudes, focusing on the rapid changes now taking place in China. Uses materials from Chinese newspapers and modern short stories to teach essential elements of semi-formal and formal writing. Reading and writing are routine tasks and oral discussion and debate are important components of the class, allowing students to integrate and improve their communication skills in Chinese.  To enroll in\u00a0this course, you must apply to the \nVirtual Columbia Summer:\u00a0Chinese Language Program \nthrough the Center for\u00a0Undergraduate Global Engagement (UGE).\n Tuition charges apply; scholarships available. \n  \nPlease note the program dates\u00a0are different from the Summer Term A & B\u00a0dates.\u00a0\n  \u00a0  \u00a0  \u00a0\n",
+    "course_descr":"Third Year Chinese II, CHNS3004UN, 5 points. You are required to take Third Year Chinese I, CHNS3003UN, 5 points with this course.\n  \nInstructor\n: \nZhirong Wang\n  \nPrerequisites\n: Two (2) years of college-level Chinese or the equivalent  \nTexts\n: Jingua Chinese (Columbia University staff, published by Peking University Press; simplified characters)\n \n Introduces Chinese social values and attitudes, focusing on the rapid changes now taking place in China. Uses materials from Chinese newspapers and modern short stories to teach essential elements of semi-formal and formal writing. Reading and writing are routine tasks, and oral discussion and debate are important components of the class, allowing students to integrate and improve their communication skills in Chinese.  To enroll in\u00a0this course, you must apply to the\n \nVirtual Columbia Summer Chinese Language\n program through the Center for\u00a0Undergraduate Global Engagement (UGE).\n \nGlobal Learning Scholarships \navailable. \nTuition\n charges apply.  \nPlease note the program dates\u00a0are different from the Summer Term A & B\u00a0dates.\u00a0\n\n",
     "instructor":"Zhirong Wang",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -7554,7 +7578,12 @@
     "open_to":null,
     "points":"5",
     "prerequisites":[
-
+      [
+        "NS3003"
+      ],
+      [
+        "NS3004"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20222CHNS3004W001",
@@ -29575,7 +29604,7 @@
   {
     "course_code":"JPNS OC4007",
     "course_title":"CLASSICAL JAPANESE I",
-    "course_descr":"Introduction to \nClassical Japanese I JPNS4007OC, 4 points\n. \nYou are required to take Introduction to\n Classical Japanese II, JPNS4008OC, 4 points with this course\n  \nPrerequisites:\n Three years of college-level Japanese or the equivalent.  \nEligibility:\n \nThis course is open to undergraduates, graduate students, and visiting students  \nInstructor:\u00a0\nMatthew Fraleigh  This course is intended primarily for beginning students who have no prior knowledge of Classical Japanese (bungo \u6587\u8a9e \/ kobun \u53e4\u6587 \/ kogo \u53e4\u8a9e, etc.). It is designed to give students a systematic and intensive introduction to the grammar of classical Japanese. Texts are taken mainly from the Heian and medieval periods, though texts from later periods will also be introduced. It is expected that by the end of the course students will have acquired a firm foundation in classical Japanese grammar and will be able to read classical Japanese texts with the aid of a dictionary. Students will generally find that they also have an improved grasp of modern Japanese grammar and will also gain experience in using Japanese-Japanese dictionaries. The course will also include some instruction in reading cursive Japanese, primarily variant kana (hentaigana).  A\u00a0\nsample syllabus\n\u00a0is available for reference.  To enroll in\u00a0this course, you must apply to the\u00a0\nVirtual Kyoto Consortium (KCJS) Summer:\u00a0 Classical Japanese Program\n through the Center for\u00a0Undergraduate Global (UGE).\u00a0 \nGlobal Learning Scholarships\n available.\u00a0 \nTuition\n charges apply.  \nPlease note the program dates\u00a0are different from the Summer Term A & B\u00a0dates.\u00a0\n\n",
+    "course_descr":"Introduction to \nClassical Japanese I JPNS4007OC, 4 points\n. \nYou are required to take Introduction to\n Classical Japanese II, JPNS4008OC, 4 points with this course.\n  \nInstructor:\u00a0\nMatthew Fraleigh  This course is intended primarily for beginning students who have no prior knowledge of Classical Japanese (bungo \u6587\u8a9e \/ kobun \u53e4\u6587 \/ kogo \u53e4\u8a9e, etc.). It is designed to give students a systematic and intensive introduction to the grammar of classical Japanese. Texts are taken mainly from the Heian and medieval periods, though texts from later periods will also be introduced. It is expected that by the end of the course students will have acquired a firm foundation in classical Japanese grammar and will be able to read classical Japanese texts with the aid of a dictionary. Students will generally find that they also have an improved grasp of modern Japanese grammar and will also gain experience in using Japanese-Japanese dictionaries. The course will also include some instruction in reading cursive Japanese, primarily variant kana (hentaigana).  A\u00a0\nsample syllabus\n\u00a0is available for reference.  To enroll in\u00a0this course, you must apply to the\u00a0\nVirtual Kyoto Consortium (KCJS) Summer:\u00a0 Classical Japanese Program\n through the Center for\u00a0Undergraduate Global Engagement (UGE).\u00a0 \nGlobal Learning Scholarships\n available. \nTuition\n charges apply.  \nPlease note the program dates\u00a0are different from the Summer Term A & B\u00a0dates.\u00a0\n\n",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -29606,7 +29635,7 @@
   {
     "course_code":"JPNS OC4008",
     "course_title":"CLASSICAL JAPANESE II",
-    "course_descr":"Introduction to \nClassical Japanese II JPNS4008OC, 4 points\n. \nYou are required to take Introduction to\n Classical Japanese 1I, JPNS4007OC, 4 points with this course\n  \nPrerequisites:\n Three years of college-level Japanese or the equivalent.  \nEligibility: \nThis course is open to undergraduates, graduate students, and visiting students.  This course is intended primarily for beginning students who have no prior knowledge of Classical Japanese (bungo \u6587\u8a9e \/ kobun \u53e4\u6587 \/ kogo \u53e4\u8a9e, etc.). It is designed to give students a systematic and intensive introduction to the grammar of classical Japanese. Texts are taken mainly from the Heian and medieval periods, though texts from later periods will also be introduced. It is expected that by the end of the course students will have acquired a firm foundation in classical Japanese grammar and will be able to read classical Japanese texts with the aid of a dictionary. Students will generally find that they also have an improved grasp of modern Japanese grammar and will also gain experience in using Japanese-Japanese dictionaries. The course will also include some instruction in reading cursive Japanese, primarily variant kana (hentaigana).  A \nsample syllabus\n is available for reference.  \nCourse Schedule: \nThe course will be taught Monday-Friday in a four hour block (with two short breaks), and the current plan is to hold class from 8 am to 12 noon EST. As part of the application process, applicants will be surveyed about their schedules and it is possible that some adjustments will be made to the class meeting time to accommodate participants in different time zones. The final course schedule will be determined and shared with potential students prior to when students need to confirm participation in the course.  To enroll in\u00a0this course, you must apply to the \nVirtual Kyoto Consortium (KCJS) Summer: Classical Japanese Program\n through the Center for\u00a0Undergraduate Global Engagement (UGE). \nGlobal Learning Scholarships\n\u00a0available.\u00a0\u00a0\nTuition\n\u00a0charges apply.  \nPlease note the",
+    "course_descr":"Introduction to \nClassical Japanese II JPNS4008OC, 4 points\n. \nYou are required to take Introduction to\n Classical Japanese 1I, JPNS4007OC, 4 points with this course\n  \nInstructor: Matthew Fraleigh \n  This course is intended primarily for beginning students who have no prior knowledge of Classical Japanese (bungo \u6587\u8a9e \/ kobun \u53e4\u6587 \/ kogo \u53e4\u8a9e, etc.). It is designed to give students a systematic and intensive introduction to the grammar of classical Japanese. Texts are taken mainly from the Heian and medieval periods, though texts from later periods will also be introduced. It is expected that by the end of the course students will have acquired a firm foundation in classical Japanese grammar and will be able to read classical Japanese texts with the aid of a dictionary. Students will generally find that they also have an improved grasp of modern Japanese grammar and will also gain experience in using Japanese-Japanese dictionaries. The course will also include some instruction in reading cursive Japanese, primarily variant kana (hentaigana).  A \nsample syllabus\n is available for reference.  \nCourse Schedule: \nThe course will be taught Monday-Friday in a four hour block (with two short breaks), and the current plan is to hold class from 8 am to 12 noon EST. As part of the application process, applicants will be surveyed about their schedules and it is possible that some adjustments will be made to the class meeting time to accommodate participants in different time zones. The final course schedule will be determined and shared with potential students prior to when students need to confirm participation in the course.  To enroll in\u00a0this course, you must apply to the \nVirtual Kyoto Consortium (KCJS) Summer: Classical Japanese Program\n through the Center for\u00a0Undergraduate Global Engagement (UGE). \nGlobal Learning Scholarships\n\u00a0available.\u00a0\u00a0\nTuition\n\u00a0charges apply.  \nPlease note the program dates\u00a0are different from the Summer Term A & B\u00a0dates.\u00a0\n\n",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -29637,7 +29666,7 @@
   {
     "course_code":"JPNS OC4201",
     "course_title":"SECOND YEAR JAPANESE",
-    "course_descr":"Second Year Japanese I, JPNS4201OC, 4 points. You are required to take Second Year Japanese II, JPNS4202OC with this course.\n  The 2nd year Japanese program (JPNS4201 & JPNS4202; 8 points or 2 semesters) is designed for those who have completed at least one year of college-level Japanese or the equivalent (around 150 hours of Japanese study).  Students who want to take this course are expected to be at least at the \nNovice-High level\n of \nthe ACTFL (American Council on the Teaching of Foreign Languages) Proficiency Guidelines\n at the beginning of the course.  For a more detailed description, please follow the links provided: ACTFL Proficiency Guidelines Novice:\u00a0\nSpeaking\n\u00a0|\u00a0\nWriting\n\u00a0|\u00a0\nListening\n\u00a0|\u00a0\nReading\n (see the section of \u201cNOVICE HIGH\u201d)  This class will cover the entire \nGenki II\n \n(The Japan Times) and intermediate materials such as \nHiyaku\n (Routledge). The coverage and materials will be contingent on the levels of students and finalized by the instructors.  The goal of this course is to achieve Intermediate-Mid level or higher proficiency according to the ACTFL Proficiency Guidelines. Upon successful completion of the course, the students will:  \n  \nhave a command of basic Japanese grammar and vocabulary (equivalent to JLPT N5-N4);\n  \nbe able to communicate with others effectively in Japanese in familiar situations\/about familiar topics at a sentence-level;\n  \nunderstand written texts about familiar topics related to everyday life and personal interests in Japanese.\n \n  To enroll in\u00a0this course, you must apply to \nKyoto Consortium Summer: Modern Japanese (KCJS)\n progr",
+    "course_descr":"Second Year Japanese I, JPNS4201OC, 4 points. You are required to take Second Year Japanese II, JPNS4202OC with this course.\n  \nInstructor: Kaori Nakata\n  The 2nd year Japanese program (JPNS4201 & JPNS4202; 8 points or 2 semesters) is designed for those who have completed at least one year of college-level Japanese or the equivalent (around 150 hours of Japanese study).  Students who want to take this course are expected to be at least at the \nNovice-High level\n of \nthe ACTFL (American Council on the Teaching of Foreign Languages) Proficiency Guidelines\n at the beginning of the course.  For a more detailed description, please follow the links provided: ACTFL Proficiency Guidelines Novice:\u00a0\nSpeaking\n\u00a0|\u00a0\nWriting\n\u00a0|\u00a0\nListening\n\u00a0|\u00a0\nReading\n (see the section of \u201cNOVICE HIGH\u201d)  This class will cover the entire \nGenki II\n \n(The Japan Times) and intermediate materials such as \nHiyaku\n (Routledge). The coverage and materials will be contingent on the levels of students and finalized by the instructors.  The goal of this course is to achieve Intermediate-Mid level or higher proficiency according to the ACTFL Proficiency Guidelines. Upon successful completion of the course, the students will:  \n  \nhave a command of basic Japanese grammar and vocabulary (equivalent to JLPT N5-N4);\n  \nbe able to communicate with others effectively in Japanese in familiar situations\/about familiar topics at a sentence-level;\n  \nunderstand written texts about familiar topics related to everyday life and personal interests in Japanese.\n \n  To enroll in\u00a0this course, you must apply to \nKyoto Consortium Summe",
     "instructor":"Kaori Nakata",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -29658,13 +29687,11 @@
         "NS4201"
       ],
       [
+        "NS4202"
+      ],
+      [
+        "NS4202",
         "NS4201"
-      ],
-      [
-        "NS4202"
-      ],
-      [
-        "NS4202"
       ]
     ],
     "scheduled_days":null,
@@ -29674,7 +29701,7 @@
   {
     "course_code":"JPNS OC4202",
     "course_title":"SECOND YEAR JAPANESE",
-    "course_descr":"Second Year Japanese II, JPNS4202OC, 4 points. You are required to take Second Year Japanese I, JPNS4201OC with this course.\n  \nEligibility\n: This course is open to undergraduates, graduate students, and visiting students.  The 2nd year Japanese program (JPNS4201OC & JPNS4202OC); 8 points or 2 semesters) is designed for those who have completed at least one year of college-level Japanese or the equivalent (around 150 hours of Japanese study).  Students who want to take this course are expected to be at least at the \nNovice-High level\n of \nthe ACTFL (American Council on the Teaching of Foreign Languages) Proficiency Guidelines\n at the beginning of the course.\u00a0  For a more detailed description, please follow the links provided:\u00a0 ACTFL Proficiency Guidelines Novice:\u00a0\nSpeaking\n\u00a0|\u00a0\nWriting\n\u00a0|\u00a0\nListening\n\u00a0|\u00a0\nReading\n (see the section of \u201cNOVICE HIGH\u201d)  This class will cover the entire \nGenki II\n \n(The Japan Times) and intermediate materials such as \nHiyaku\n (Routledge). The coverage and materials will be contingent on the levels of students and finalized by the instructors.  The goal of this course is to achieve Intermediate-Mid level or higher proficiency according to the ACTFL Proficiency Guidelines. Upon successful completion of the course, the students will:  \n  \nhave a command of basic Japanese grammar and vocabulary (equivalent to JLPT N5-N4);\n  \nbe able to communicate with others effectively in Japanese in familiar situations\/about familiar topics at a sentence-level;\n  \nunderstand written texts about familiar topics related to everyday life and personal interests in Japanese.\n \n  This class will cover the entire ",
+    "course_descr":"Second Year Japanese II, JPNS4202OC, 4 points. You are required to take Second Year Japanese I, JPNS4201OC with this course.\n  \nInstructor: Kaori Nakata\n  The 2nd year Japanese program (JPNS4201OC & JPNS4202OC); 8 points or 2 semesters) is designed for those who have completed at least one year of college-level Japanese or the equivalent (around 150 hours of Japanese study).  Students who want to take this course are expected to be at least at the \nNovice-High level\n of \nthe ACTFL (American Council on the Teaching of Foreign Languages) Proficiency Guidelines\n at the beginning of the course.\u00a0  For a more detailed description, please follow the links provided:\u00a0 ACTFL Proficiency Guidelines Novice:\u00a0\nSpeaking\n\u00a0|\u00a0\nWriting\n\u00a0|\u00a0\nListening\n\u00a0|\u00a0\nReading\n (see the section of \u201cNOVICE HIGH\u201d)  This class will cover the entire \nGenki II\n \n(The Japan Times) and intermediate materials such as \nHiyaku\n (Routledge). The coverage and materials will be contingent on the levels of students and finalized by the instructors.  The goal of this course is to achieve Intermediate-Mid level or higher proficiency according to the ACTFL Proficiency Guidelines. Upon successful completion of the course, the students will:  \n  \nhave a command of basic Japanese grammar and vocabulary (equivalent to JLPT N5-N4);\n  \nbe able to communicate with others effectively in Japanese in familiar situations\/about familiar topics at a sentence-level;\n  \nunderstand written texts about familiar topics related to everyday life and personal interests in Japanese.\n \n  This class will cover the entire \nGenki II\n \n(The Japan Times) and intermediate materials such a",
     "instructor":"Kaori Nakata",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -29692,9 +29719,7 @@
     "points":"4",
     "prerequisites":[
       [
-        "NS4201"
-      ],
-      [
+        "NS4201",
         "NS4201"
       ],
       [
@@ -29767,7 +29792,7 @@
   {
     "course_code":"JPNS OC4206",
     "course_title":"THIRD YEAR JAPANESE",
-    "course_descr":"Third Year Japanese II, JPNS4206OC, 4 points. You are required to take Second Year Japanese I, JPNS4205OC with this course.\n  \nEligibility: \nThis course is open to undergraduates, graduate students, and visiting students.  The 3rd Year Japanese program (JPNS4205OC & JPNS4206OC; 8 points\/2 semesters) is designed for those who have completed at least two years of college-level Japanese or the equivalent (around 300 hours of Japanese study).  Students who want to take this course are expected to be at least at the\u00a0\nIntermediate-Mid level\n\u00a0of\u00a0\nthe ACTFL (American Council on the Teaching of Foreign Languages) Proficiency Guidelines\n\u00a0at the beginning of the course. Please note that depending on the results of the placement test, the students may be placed in a different level than they apply for.  For a more detailed description, please follow the links provided: ACTFL Proficiency Guidelines Intermediate:\u00a0\nSpeaking\n\u00a0|\u00a0\nWriting\n\u00a0|\u00a0\nListening\n\u00a0|\u00a0\nReading\n (see the section of \u201cINTERMEDIATE MID\u201d)  This class will cover most of the chapters in\u00a0\nTobira\n\u00a0(Kuroshio). The coverage and materials will be contingent on the levels of students.  The goal of this course is to achieve Intermediate-High or above of the ACTFL Proficiency Guidelines. Upon successful completion of the course, the students will:  \n  \nhave a command of intermediate-level grammar and vocabulary (equivalent to JLPT N3-N2);\n  \nunderstand both spoken and written Japanese correctly about a variety of topics;\n  \nbe able to express his\/her opinions at the paragraph level in socially appropriate manner.\n \n  To enroll in\u00a0this course, you must apply to the\n \nVergil",
+    "course_descr":"Third Year Japanese II, JPNS4206OC, 4 points. You are required to take Second Year Japanese I, JPNS4205OC with this course.\n  \nInstructor: Orie Maeguchi\n  The 3rd Year Japanese program (JPNS4205OC & JPNS4206OC; 8 points\/2 semesters) is designed for those who have completed at least two years of college-level Japanese or the equivalent (around 300 hours of Japanese study).  Students who want to take this course are expected to be at least at the\u00a0\nIntermediate-Mid level\n\u00a0of\u00a0\nthe ACTFL (American Council on the Teaching of Foreign Languages) Proficiency Guidelines\n\u00a0at the beginning of the course. Please note that depending on the results of the placement test, the students may be placed in a different level than they apply for.  For a more detailed description, please follow the links provided: ACTFL Proficiency Guidelines Intermediate:\u00a0\nSpeaking\n\u00a0|\u00a0\nWriting\n\u00a0|\u00a0\nListening\n\u00a0|\u00a0\nReading\n (see the section of \u201cINTERMEDIATE MID\u201d)  This class will cover most of the chapters in\u00a0\nTobira\n\u00a0(Kuroshio). The coverage and materials will be contingent on the levels of students.  The goal of this course is to achieve Intermediate-High or above of the ACTFL Proficiency Guidelines. Upon successful completion of the course, the students will:  \n  \nhave a command of intermediate-level grammar and vocabulary (equivalent to JLPT N3-N2);\n  \nunderstand both spoken and written Japanese correctly about a variety of topics;\n  \nbe able to express his\/her opinions at the paragraph level in socially appropriate manner.\n \n  To enroll in\u00a0this course, you must apply to the\n \nKyoto Consortium Summer: Modern Japane",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -29785,9 +29810,7 @@
     "points":"4",
     "prerequisites":[
       [
-        "NS4205"
-      ],
-      [
+        "NS4205",
         "NS4205"
       ],
       [
@@ -29804,7 +29827,7 @@
   {
     "course_code":"JPNS OC4206",
     "course_title":"THIRD YEAR JAPANESE",
-    "course_descr":"Third Year Japanese II, JPNS4206OC, 4 points. You are required to take Second Year Japanese I, JPNS4205OC with this course.\n  \nEligibility: \nThis course is open to undergraduates, graduate students, and visiting students.  The 3rd Year Japanese program (JPNS4205OC & JPNS4206OC; 8 points\/2 semesters) is designed for those who have completed at least two years of college-level Japanese or the equivalent (around 300 hours of Japanese study).  Students who want to take this course are expected to be at least at the\u00a0\nIntermediate-Mid level\n\u00a0of\u00a0\nthe ACTFL (American Council on the Teaching of Foreign Languages) Proficiency Guidelines\n\u00a0at the beginning of the course. Please note that depending on the results of the placement test, the students may be placed in a different level than they apply for.  For a more detailed description, please follow the links provided: ACTFL Proficiency Guidelines Intermediate:\u00a0\nSpeaking\n\u00a0|\u00a0\nWriting\n\u00a0|\u00a0\nListening\n\u00a0|\u00a0\nReading\n (see the section of \u201cINTERMEDIATE MID\u201d)  This class will cover most of the chapters in\u00a0\nTobira\n\u00a0(Kuroshio). The coverage and materials will be contingent on the levels of students.  The goal of this course is to achieve Intermediate-High or above of the ACTFL Proficiency Guidelines. Upon successful completion of the course, the students will:  \n  \nhave a command of intermediate-level grammar and vocabulary (equivalent to JLPT N3-N2);\n  \nunderstand both spoken and written Japanese correctly about a variety of topics;\n  \nbe able to express his\/her opinions at the paragraph level in socially appropriate manner.\n \n  To enroll in\u00a0this course, you must apply to the\n \nVergil",
+    "course_descr":"Third Year Japanese II, JPNS4206OC, 4 points. You are required to take Second Year Japanese I, JPNS4205OC with this course.\n  \nInstructor: Orie Maeguchi\n  The 3rd Year Japanese program (JPNS4205OC & JPNS4206OC; 8 points\/2 semesters) is designed for those who have completed at least two years of college-level Japanese or the equivalent (around 300 hours of Japanese study).  Students who want to take this course are expected to be at least at the\u00a0\nIntermediate-Mid level\n\u00a0of\u00a0\nthe ACTFL (American Council on the Teaching of Foreign Languages) Proficiency Guidelines\n\u00a0at the beginning of the course. Please note that depending on the results of the placement test, the students may be placed in a different level than they apply for.  For a more detailed description, please follow the links provided: ACTFL Proficiency Guidelines Intermediate:\u00a0\nSpeaking\n\u00a0|\u00a0\nWriting\n\u00a0|\u00a0\nListening\n\u00a0|\u00a0\nReading\n (see the section of \u201cINTERMEDIATE MID\u201d)  This class will cover most of the chapters in\u00a0\nTobira\n\u00a0(Kuroshio). The coverage and materials will be contingent on the levels of students.  The goal of this course is to achieve Intermediate-High or above of the ACTFL Proficiency Guidelines. Upon successful completion of the course, the students will:  \n  \nhave a command of intermediate-level grammar and vocabulary (equivalent to JLPT N3-N2);\n  \nunderstand both spoken and written Japanese correctly about a variety of topics;\n  \nbe able to express his\/her opinions at the paragraph level in socially appropriate manner.\n \n  To enroll in\u00a0this course, you must apply to the\n \nKyoto Consortium Summer: Modern Japane",
     "instructor":"Tomomi Sato",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -29822,9 +29845,7 @@
     "points":"4",
     "prerequisites":[
       [
-        "NS4205"
-      ],
-      [
+        "NS4205",
         "NS4205"
       ],
       [
@@ -29841,7 +29862,7 @@
   {
     "course_code":"JPNS OC4217",
     "course_title":"FOURTH YEAR JAPANESE",
-    "course_descr":"Fourth Year Japanese I, JPNS4217OC, 4 points. You are required to take Fourth Year Japanese II, JPNS4218OC with this course.\n  \nEligibility: \nThis course is open to undergraduates, graduate students, and visiting students.  The 4th Year+ Japanese program (4217OC & 4218OC; 8 points\/ 2 semesters) is designed for those who have completed at least three years of college-level Japanese or the equivalent (around 450 hours of Japanese study).  Students who want to take this course are expected to be at the\u00a0\nIntermediate-High level\n\u00a0or above of\u00a0\nthe ACTFL (American Council on the Teaching of Foreign Languages) Proficiency Guidelines\n\u00a0at the beginning of the course. Please note that depending on the results of the placement test, the students may be placed in a different level than they apply for.  For a more detailed description, please follow the links provided: ACTFL Proficiency Guidelines Intermediate:\u00a0\nSpeaking\n\u00a0|\u00a0\nWriting\n\u00a0|\u00a0\nListening\n\u00a0|\u00a0\nReading\n (see the section of \u201cINTERMEDIATE HIGH\u201d)  Authentic materials such as newspaper, novels, and TV news will be used alongside\u00a0\nDonna toki Doo tsukau Nihongo Hyoogen Bunkei 500\n\u00a0(ALC)\u00a0and\u00a0\nGoidon\n\u00a0\n(Kurosio Publishers). In addition, the students will have the opportunity to pursue an individualized project based on their own interests and give a presentation about their project at the end of the program.  The goal of this course is to achieve Advanced-Low or above of the ACTFL Proficiency Guidelines. Upon successful completion of the course, the students will:  \n  \nhave a command of advanced-level grammar and vocabulary including\u00a0\nkango\n\u00a0vocabulary and idiomatic expressions",
+    "course_descr":"Fourth Year Japanese I, JPNS4217OC, 4 points. You are required to take Fourth Year Japanese II, JPNS4218OC with this course.\n  \nInstructor: Orie Maeguchi\n  The 4th Year+ Japanese program (4217OC & 4218OC; 8 points\/ 2 semesters) is designed for those who have completed at least three years of college-level Japanese or the equivalent (around 450 hours of Japanese study).  Students who want to take this course are expected to be at the\u00a0\nIntermediate-High level\n\u00a0or above of\u00a0\nthe ACTFL (American Council on the Teaching of Foreign Languages) Proficiency Guidelines\n\u00a0at the beginning of the course. Please note that depending on the results of the placement test, the students may be placed in a different level than they apply for.  For a more detailed description, please follow the links provided: ACTFL Proficiency Guidelines Intermediate:\u00a0\nSpeaking\n\u00a0|\u00a0\nWriting\n\u00a0|\u00a0\nListening\n\u00a0|\u00a0\nReading\n (see the section of \u201cINTERMEDIATE HIGH\u201d)  Authentic materials such as newspaper, novels, and TV news will be used alongside\u00a0\nDonna toki Doo tsukau Nihongo Hyoogen Bunkei 500\n\u00a0(ALC)\u00a0and\u00a0\nGoidon\n\u00a0\n(Kurosio Publishers). In addition, the students will have the opportunity to pursue an individualized project based on their own interests and give a presentation about their project at the end of the program.  The goal of this course is to achieve Advanced-Low or above of the ACTFL Proficiency Guidelines. Upon successful completion of the course, the students will:  \n  \nhave a command of advanced-level grammar and vocabulary including\u00a0\nkango\n\u00a0vocabulary and idiomatic expressions (equivalent to JLPT N2-N1);\n  \nunderstand more abstract and ",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -29872,7 +29893,7 @@
   {
     "course_code":"JPNS OC4218",
     "course_title":"FOURTH YEAR JAPANESE",
-    "course_descr":"Fourth Year Japanese I, JPNS4217OC, 4 points. You are required to take Fourth Year Japanese II, JPNS4218OC with this course.\n  \nEligibility: \nThis course is open to undergraduates, graduate students, and visiting students.  The 4th Year+ Japanese program (4217OC & 4218OC; 8 points\/ 2 semesters) is designed for those who have completed at least three years of college-level Japanese or the equivalent (around 450 hours of Japanese study).  Students who want to take this course are expected to be at the\u00a0\nIntermediate-High level\n\u00a0or above of\u00a0\nthe ACTFL (American Council on the Teaching of Foreign Languages) Proficiency Guidelines\n\u00a0at the beginning of the course. Please note that depending on the results of the placement test, the students may be placed in a different level than they apply for.  For a more detailed description, please follow the links provided: ACTFL Proficiency Guidelines Intermediate:\u00a0\nSpeaking\n\u00a0|\u00a0\nWriting\n\u00a0|\u00a0\nListening\n\u00a0|\u00a0\nReading\n (see the section of \u201cINTERMEDIATE HIGH\u201d)  Authentic materials such as newspaper, novels, and TV news will be used alongside\u00a0\nDonna toki Doo tsukau Nihongo Hyoogen Bunkei 500\n\u00a0(ALC)\u00a0and\u00a0\nGoidon\n\u00a0\n(Kurosio Publishers). In addition, the students will have the opportunity to pursue an individualized project based on their own interests and give a presentation about their project at the end of the program.  The goal of this course is to achieve Advanced-Low or above of the ACTFL Proficiency Guidelines. Upon successful completion of the course, the students will:  \n  \nhave a command of advanced-level grammar and vocabulary including\u00a0\nkango\n\u00a0vocabulary and idiomatic expressions",
+    "course_descr":"Fourth Year Japanese I, JPNS4217OC, 4 points. You are required to take Fourth Year Japanese II, JPNS4218OC with this course.\n  \nInstructor: Itsuko Nakamura \n  The 4th Year+ Japanese program (4217OC & 4218OC; 8 points\/ 2 semesters) is designed for those who have completed at least three years of college-level Japanese or the equivalent (around 450 hours of Japanese study).  Students who want to take this course are expected to be at the\u00a0\nIntermediate-High level\n\u00a0or above of\u00a0\nthe ACTFL (American Council on the Teaching of Foreign Languages) Proficiency Guidelines\n\u00a0at the beginning of the course. Please note that depending on the results of the placement test, the students may be placed in a different level than they apply for.  For a more detailed description, please follow the links provided: ACTFL Proficiency Guidelines Intermediate:\u00a0\nSpeaking\n\u00a0|\u00a0\nWriting\n\u00a0|\u00a0\nListening\n\u00a0|\u00a0\nReading\n (see the section of \u201cINTERMEDIATE HIGH\u201d)  Authentic materials such as newspaper, novels, and TV news will be used alongside\u00a0\nDonna toki Doo tsukau Nihongo Hyoogen Bunkei 500\n\u00a0(ALC)\u00a0and\u00a0\nGoidon\n\u00a0\n(Kurosio Publishers). In addition, the students will have the opportunity to pursue an individualized project based on their own interests and give a presentation about their project at the end of the program.  The goal of this course is to achieve Advanced-Low or above of the ACTFL Proficiency Guidelines. Upon successful completion of the course, the students will:  \n  \nhave a command of advanced-level grammar and vocabulary including\u00a0\nkango\n\u00a0vocabulary and idiomatic expressions (equivalent to JLPT N2-N1);\n  \nunderstand more abstract a",
     "instructor":"Itsuko Nakamura",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -32988,6 +33009,7 @@
       "Nursing",
       "Professional Studies",
       "SIPA",
+      "Schools of the Arts",
       "Social Work"
     ],
     "points":"3",
@@ -33078,6 +33100,7 @@
       "Law",
       "Professional Studies",
       "SIPA",
+      "Schools of the Arts",
       "Social Work"
     ],
     "points":"3",
