@@ -7595,7 +7595,7 @@
     "course_code":"CIEN E3999",
     "course_title":"FIELDWORK",
     "course_descr":"CEEM undergraduate students only. Written application must be made prior to registration outlining proposed internship\/study program. Final reports required. May not be taken for pass\/fail credit or audited. International students must also consult with the International Students and Scholars Office.\n",
-    "instructor":"Jacob Fish",
+    "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"11045",
@@ -7604,7 +7604,7 @@
     "course_subtitle":null,
     "department":"Civil Engineering and Engineering Mechanics",
     "department_code":"CIEN",
-    "instructor_wikipedia_link":"https:\/\/en.wikipedia.org\/wiki\/Jacob_Fish",
+    "instructor_wikipedia_link":null,
     "link":"http:\/\/www.columbia.edu\/\/cu\/bulletin\/uwb\/subj\/CIEN\/E3999-20222-001\/",
     "location":null,
     "method_of_instruction":"In-Person",
@@ -27139,7 +27139,9 @@
     "link":"http:\/\/www.columbia.edu\/\/cu\/bulletin\/uwb\/subj\/IKNS\/K5995-20222-D01\/",
     "location":null,
     "method_of_instruction":"On-Line Only",
-    "open_to":null,
+    "open_to":[
+      "Professional Studies"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -41892,7 +41894,7 @@
   },
   {
     "course_code":"PLAN A6840",
-    "course_title":"RE VALUATION + INVESTMENT ANALYSIS",
+    "course_title":"RE INVESTMENT FUNDAMENTALS",
     "course_descr":null,
     "instructor":"Clarence A Radin",
     "scheduled_time_start":"6:30pm",
