@@ -738,6 +738,34 @@
     "type":"SEMINAR"
   },
   {
+    "course_code":"APAM E3999",
+    "course_title":"UNDERGRADUATE FIELDWORK",
+    "course_descr":"May be repeated for credit, but no more than 3 total points may be used toward the 128credit degree requirement. Only for APAM undergraduate students who include relevant off-campus work experience as part of their approved program of study. Final report and letter of evaluation required. Fieldwork credits may not count toward any major core, technical, elective, and nontechnical requirements. May not be taken for pass\/fail credit or audited.\n",
+    "instructor":"Adam H Sobel",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11095",
+    "campus":"Morningside",
+    "class_id":"E3999-20232-001",
+    "course_subtitle":null,
+    "department":"Applied Physics and Applied Mathematics",
+    "department_code":"APAM",
+    "instructor_wikipedia_link":"https:\/\/en.wikipedia.org\/wiki\/Adam_Sobel",
+    "link":"http:\/\/www.columbia.edu\/\/cu\/bulletin\/uwb\/subj\/APAM\/E3999-20232-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Engineering:Undergraduate"
+    ],
+    "points":"1-2",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20232APAM3999E001",
+    "type":"FIELD WORK"
+  },
+  {
     "course_code":"APAM E4999",
     "course_title":"SUPERVISED INTERNSHIP",
     "course_descr":"Only for masters students in the Department of Applied Physics and Applied Mathematics who may need relevant work experience a part of their program of study. Final report required. May not be taken for pass\/fail or audited.\n",
@@ -3375,7 +3403,7 @@
   {
     "course_code":"BIET PS5992",
     "course_title":"MASTER THESIS (2 CREDIT)",
-    "course_descr":null,
+    "course_descr":"Thesis requirement for Bioethics program. Taken with the Thesis Workshop (BIET K5991).\u00a0\n",
     "instructor":"Sameer H Ladha",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -3392,7 +3420,9 @@
     "open_to":null,
     "points":"2",
     "prerequisites":[
-
+      [
+        "BIET K5991"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20232BIET5992KD01",
@@ -6432,6 +6462,34 @@
     "scheduled_days":"W",
     "section_key":"20232CNAD5141K001",
     "type":"LECTURE"
+  },
+  {
+    "course_code":"CNAD PS5500",
+    "course_title":"CAPSTONE PROJECT",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11094",
+    "campus":"Morningside",
+    "class_id":"K5500-20232-001",
+    "course_subtitle":"CONSTRUCTION CAPSTONE PROJECT",
+    "department":"Construction Administration",
+    "department_code":"CNAD",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/\/cu\/bulletin\/uwb\/subj\/CNAD\/K5500-20232-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20232CNAD5500K001",
+    "type":"INDEPENDENT"
   },
   {
     "course_code":"CNAD PS5995",
@@ -16640,6 +16698,32 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"INAF S6540",
+    "course_title":"The U.N. and World Politics",
+    "course_descr":"The purpose of this six-week course is to provide a greater understanding of the complex role the United Nations plays in world politics and the maintenance of peace and security through multilateral decision making.\u00a0 In this uncertain political climate, it is even more important to understand global institutions, their strengths and weaknesses and how they function.\u00a0 The United Nations with its 193 member states provides a mirror onto the world and if that world is fractured, the UN body will reflect those fissures.\n",
+    "instructor":"Jean Krasno",
+    "scheduled_time_start":"2:00pm",
+    "scheduled_time_end":"5:10pm",
+    "call_number":"11091",
+    "campus":"Morningside",
+    "class_id":"S6540-20232-001",
+    "course_subtitle":"The U.N. and World Politi",
+    "department":"Summer Session (SUMM)",
+    "department_code":"INAF",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/\/cu\/bulletin\/uwb\/subj\/INAF\/S6540-20232-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20232INAF6540S001",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"INAF S6552",
     "course_title":"UNITED NATIONS & HUMAN RIGHTS",
     "course_descr":"What is the UN track record in promoting and protecting human rights? This intense six-week course will examine the UN human rights standards, mechanisms, institutions and procedures established over the past sixty years and question their effectiveness. With a particular focus on the actions (or lack thereof) of the UN Security Council, the UN Human Rights Council and diverse international judicial institutions like the International Tribunal for Rwanda and the International Criminal Court, the course will illustrate, through practical case studies, the inherent challenges associated with the protection of human dignity, the enforcement of human rights and the fight against impunity.\n",
@@ -23508,34 +23592,6 @@
     "type":"LECTURE"
   },
   {
-    "course_code":"PSYC UN1021",
-    "course_title":"Science of Psychology: Explorations and",
-    "course_descr":"UN1021 offers a broad introductory survey of psychological science, discussing relations between the brain, behavior, and experience, with regard to topics including: sensation and perception; learning, memory, language, and cognition; emotions and motivation; development, personality, health and well-being, and social behavior. The course emphasizes science as a process of discovering both new ideas and new empirical results -- and the ways in which psychological research can be used to address real-world challenges.\n",
-    "instructor":"Caroline B Marvin",
-    "scheduled_time_start":"1:00pm",
-    "scheduled_time_end":"4:10pm",
-    "call_number":"10064",
-    "campus":"Morningside",
-    "class_id":"W1021-20232-001",
-    "course_subtitle":"Science of Psych: Expl &",
-    "department":"Summer Session (SUMM)",
-    "department_code":"PSYC",
-    "instructor_wikipedia_link":null,
-    "link":"http:\/\/www.columbia.edu\/\/cu\/bulletin\/uwb\/subj\/PSYC\/W1021-20232-001\/",
-    "location":"To be announced",
-    "method_of_instruction":"In-Person",
-    "open_to":null,
-    "points":"3",
-    "prerequisites":[
-      [
-        "UN1021"
-      ]
-    ],
-    "scheduled_days":"TR",
-    "section_key":"20232PSYC1021W001",
-    "type":"LECTURE"
-  },
-  {
     "course_code":"PSYC UN1991",
     "course_title":"GLOBAL BEHAVORIAL SCIENCE",
     "course_descr":"PSYC1991OC, Global Behavioral Science, 4 credits\n  \nEligibility:\u00a0\nThis course is open to undergraduates, graduate students, and visiting students.  Students will participate in a practicum hosted at the University of Cambridge (UCAM). They will work with 20 to 30 psychology students on the \nJunior Research Programme\n from multiple universities and countries who will join the practicum, along with over 100 other research collaborators. The objective is for students to get hands-on experience in carrying out behavioral science research, from study development to dissemination, while participating in a large, international collaboration. Specific skills to be acquired include multicultural teamwork, research design, data collection (internationally), data analysis, scientific writing, and academic presentation. Students are encouraged to engage in the publication and revision process, subject to feasibility. All contributors will receive authorship credit.  \nAcademic Schedule\n:  The program is scheduled for students to arrive in the UK on July 25th, 2023 and leave on August 15th, 2023. Students will be expected to complete some assignments prior to the program start and occasionally will be expected to be available outside of regularly schedule course times in to support collaborators who are in different time zones. Outside of course meetings, students will be expected to complete independent tasks, training, group work, and maintain some flexibility in their schedule as needed.  To enroll in\u00a0this course, you must apply to the \nColumbia Summer Research Practice in Global Behavioral Science\u200b\u200b\u200b\u200b\u200b Program\n through the Center for\u00a0Undergraduate Global Engagement (UGE). ).\n \nGlobal Learning Scholarships \navailable. \nTuition\n charges apply.  \u00a0\nPlease note that the program dates are different from the Summer Term A & B\u00a0dates.\u00a0\n  \u00a0  \u00a0\n",
@@ -26145,6 +26201,34 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"SUMA PS5470",
+    "course_title":"CIRCULAR ECONOMY FOR SUSTAINABILITY PROF",
+    "course_descr":"Throughout history, societies have discovered resources, designed and developed them into textiles,  tools and structures, and bartered and exchanged these goods based on their respective values.  Economies emerged, driven by each society\u2019s needs and limited by the resources and technology  available to them. Over the last two centuries, global development accelerated due in large part to the  overextraction and use of finite resources, whether for energy or materials, and supported by vast  technological advancements. However, this economic model did not account for the long-term impacts of  the disposal or depletion of these finite resources and instead, carried on unreservedly in a \u201ctake-make\u2019-  waste\u201d manner, otherwise known as a linear economy. Despite a more profound understanding of our  planet\u2019s available resources, the environmental impact of disposal and depletion, and the technological  advancements of the last several decades, the economic heritage of the last two centuries persists today;  which begs the question: what alternatives are there to a linear economy?  The premise of this course is that through systems-thinking, interdisciplinary solutions for an alternative  economic future are available to us. By looking at resources\u2019 potential, we can shape alternative methods  of procurement, design, application, and create new market demands that aim to keep materials,  products and components in rotation at their highest utility and value. This elective course will delve into  both the theory of a circular economy - which would be a state of complete systemic regeneration and  restoration as well as an optimized use of resources and zero waste - and the practical applications  required in order to achieve this economic model. Achieving perfect circularity represents potentially  transformative systemic change and requires a fundamental re-think of many of our current economic  structures, systems and processes.  This is a full-semester elective course which is designed to create awareness among sustainability  leaders that those structures, systems and processes which exist today are not those which will carry us  (as rapidly as we need) into a more sustaining future. The class will be comprised of a series of lectures,  supported by readings and case-studies on business models, design thinking and material development  and use, that will familiarize students with the concepts and principles that a circular economy presents.  In so doing, we will also explore the ch",
+    "instructor":"Diana A Trushell",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"11093",
+    "campus":"Morningside",
+    "class_id":"K5470-20232-001",
+    "course_subtitle":"CIRC ECON FOR SUST PROFS",
+    "department":"Sustainability Management",
+    "department_code":"SUMA",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/\/cu\/bulletin\/uwb\/subj\/SUMA\/K5470-20232-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20232SUMA5470K001",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"SUMA PS5770",
     "course_title":"SUSTAINABLE FOREST MANAGEMENT",
     "course_descr":"The course intends to give an overview of forests \u2013 how they function, and how they can be managed sustainably. The course addresses both the ecology and economics of forests. Combining the study of these two disciplines is necessary to understand and develop management actions and solutions to deforestation.\u00a0 The emphasis in integrating ecology and economics is going to be on learning tools and techniques for managing forests. The course accounts both for North American and forests in other countries, including tropical ones. Current typical conceptions of forests are somewhat paradoxical: forests are considered marginal in sustainability, and yet they connect with many issues of central concern such as biodiversity, climate change, household energy for the poor, homelands for indigenous people, water and human shelter, to name a few. More specifically, forests provide a fruitful line of inquiry into many environmental issues, such as the complex balances within ecosystems, global cycling of elements, such as carbon, the nature of sustainability, and interactions between economic development and the conservation of nature.\u00a0 For example, we will study biodiversity in forests. Much biodiversity is found outside of forests, but our study will provide an understanding of the ecological dynamics involved with biodiversity, the possible management options, and its importance for human survival. The course is going to emphasize the role of forests in the carbon cycle and the contribution of deforestation to climate change.\n",
@@ -26612,6 +26696,32 @@
     ],
     "scheduled_days":null,
     "section_key":"20232TEST2112ASDL",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"THEA S4215",
+    "course_title":"THE NEW YORK THEATRE EVENT",
+    "course_descr":"We will be looking at the rich legacy of the Off-Broadway theater \u2013 the groups, writers, directors, actors and other theater artists who were nurtured and sustained in its fertile soil, and who continue to shape the landscape of contemporary theater: Off-Broadway, regional theater, and Broadway itself.\u00a0We will look at the two churches and two cafes where the movement in the 60\u2019s kickstarted as well as the numerous venues, theaters, producing organizations, and producers who continue to sustain the Off Broadway innovative sensibility.\u00a0We also read and view examples of seminal theater artists and their works: Maria Irene Fornes, David Greenspan, Ntozake Shange, Larry Kramer, Tony Kushner and others. This is a whirlwind journey through Off-Broadway history taught by someone\u00a0who has been a part of it since the 1970s and has worked with and known many of its players!\n",
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"10640",
+    "campus":"Morningside",
+    "class_id":"S4215-20232-001",
+    "course_subtitle":"THE NEW YORK THEATRE EVEN",
+    "department":"Summer Session (SUMM)",
+    "department_code":"THEA",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/\/cu\/bulletin\/uwb\/subj\/THEA\/S4215-20232-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20232THEA4215S001",
     "type":"SEMINAR"
   },
   {
@@ -27221,6 +27331,84 @@
     "scheduled_days":"MTWRF",
     "section_key":"20232VIAR4106S001",
     "type":"WORKSHOP"
+  },
+  {
+    "course_code":"VIAR UN1701",
+    "course_title":"Intro Darkroom Photography",
+    "course_descr":"Introductory course to analog photographic tools, techniques, and photo criticism. This class explores black & white, analog camera photography and darkroom processing and printing.\u00a0 Areascovered include camera operations, black and white darkroom work, 8x10 print production, and critique. With an emphasis on the student\u2019s own creative practice, this course will explore the basics of photography and its history through regular shooting assignments, demonstrations, critique, lectures, and readings. No prior photography experience is required.\n",
+    "instructor":"Joao Pina",
+    "scheduled_time_start":"6:15pm",
+    "scheduled_time_end":"9:25pm",
+    "call_number":"11079",
+    "campus":"Morningside",
+    "class_id":"R1701-20232-001",
+    "course_subtitle":"Intro Darkroom Photograph",
+    "department":"Summer Session (SUMM)",
+    "department_code":"VIAR",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/\/cu\/bulletin\/uwb\/subj\/VIAR\/R1701-20232-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20232VIAR1701R001",
+    "type":"STUDIO"
+  },
+  {
+    "course_code":"VIAR UN1701",
+    "course_title":"Intro Darkroom Photography",
+    "course_descr":"Introductory course to analog photographic tools, techniques, and photo criticism. This class explores black & white, analog camera photography and darkroom processing and printing.\u00a0 Areascovered include camera operations, black and white darkroom work, 8x10 print production, and critique. With an emphasis on the student\u2019s own creative practice, this course will explore the basics of photography and its history through regular shooting assignments, demonstrations, critique, lectures, and readings. No prior photography experience is required.\n",
+    "instructor":"Elisheva Gavra",
+    "scheduled_time_start":"6:15pm",
+    "scheduled_time_end":"9:25pm",
+    "call_number":"11080",
+    "campus":"Morningside",
+    "class_id":"R1701-20232-002",
+    "course_subtitle":"Intro Darkroom Photograph",
+    "department":"Summer Session (SUMM)",
+    "department_code":"VIAR",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/\/cu\/bulletin\/uwb\/subj\/VIAR\/R1701-20232-002\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20232VIAR1701R002",
+    "type":"STUDIO"
+  },
+  {
+    "course_code":"VIAR UN1701",
+    "course_title":"Intro Darkroom Photography",
+    "course_descr":"Introductory course to analog photographic tools, techniques, and photo criticism. This class explores black & white, analog camera photography and darkroom processing and printing.\u00a0 Areascovered include camera operations, black and white darkroom work, 8x10 print production, and critique. With an emphasis on the student\u2019s own creative practice, this course will explore the basics of photography and its history through regular shooting assignments, demonstrations, critique, lectures, and readings. No prior photography experience is required.\n",
+    "instructor":"Motohiro Takeda",
+    "scheduled_time_start":"6:15pm",
+    "scheduled_time_end":"9:25pm",
+    "call_number":"11081",
+    "campus":"Morningside",
+    "class_id":"R1701-20232-003",
+    "course_subtitle":"Intro Darkroom Photograph",
+    "department":"Summer Session (SUMM)",
+    "department_code":"VIAR",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/\/cu\/bulletin\/uwb\/subj\/VIAR\/R1701-20232-003\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20232VIAR1701R003",
+    "type":"STUDIO"
   },
   {
     "course_code":"WARS PS0100",
