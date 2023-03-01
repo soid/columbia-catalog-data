@@ -794,6 +794,34 @@
     "type":"INTERNSHIP"
   },
   {
+    "course_code":"APAM E4999",
+    "course_title":"SUPERVISED INTERNSHIP",
+    "course_descr":"Only for masters students in the Department of Applied Physics and Applied Mathematics who may need relevant work experience a part of their program of study. Final report required. May not be taken for pass\/fail or audited.\n",
+    "instructor":"Carlos Paz Soldan",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11148",
+    "campus":"Morningside",
+    "class_id":"E4999-20232-002",
+    "course_subtitle":null,
+    "department":"Applied Physics and Applied Mathematics",
+    "department_code":"APAM",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/\/cu\/bulletin\/uwb\/subj\/APAM\/E4999-20232-002\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Engineering:Graduate"
+    ],
+    "points":"1-3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20232APAM4999E002",
+    "type":"INTERNSHIP"
+  },
+  {
     "course_code":"APAN PS5160",
     "course_title":"DATA MODELING",
     "course_descr":null,
@@ -3629,34 +3657,6 @@
     "course_title":"Big Data, Machine Learning, and their Re",
     "course_descr":"The exponential growth of data, advances in cloud computing, and machine learning have transformed every industry from retail and banking to healthcare and education. This introductory-level course enables participants to navigate the new reality of the \u201cdata economy,\u201d in which data is the \u201cthe new oil\u201d\u2014a ubiquitous and invaluable asset.  We focus on the strategic use of data and innovative technologies to derive actionable business insights. Participants develop a strong foundation in data-driven thinking for solving real-world problems. They are introduced to a variety of popular technologies for data analytics and gain a familiarity with programming in R, a software environment for statistical computing and graphics. Much of the in-class work involves working with R. Students learn how to import, export, manipulate, transform, and visualize data; use statistical summaries; and run and evaluate machine learning models.  From the start of the course participants are immersed in the world of data: they are introduced to the concepts of big data, artificial intelligence, the internet of things, cloud computing, and data ethics in the context of real-world business scenarios. Through hands-on experience and practice they study data harvesting and exploration, as well as the basics of data visualization. After they get comfortable with data manipulation and transformation, they gain familiarity with statistical frameworks and methods designed to extract practical insights from data. Participants learn and implement common machine-learning techniques and develop and evaluate analytical solutions.  Toward the conclusion of the course, students work in groups on a final project and presentation, thereby (a) solidify their newly acquired analytical and programming skills and (b) practicing storytelling with data.  Participants should expect a dynamic and interactive environment: hands-on exercises, teamwork, continuous in-class dialogue, demonstrations, and interactive presentations. The course features real-world applications of data analytics across industries and challenges students to think in terms of the business value of data and machine learning.\n",
     "instructor":null,
-    "scheduled_time_start":"12:00pm",
-    "scheduled_time_end":"3:00pm",
-    "call_number":"10448",
-    "campus":"Morningside",
-    "class_id":"N0101-20232-D04",
-    "course_subtitle":"Big Data, Machine Learnin",
-    "department":"Pre-College Programs (SHSP)",
-    "department_code":"BIGD",
-    "instructor_wikipedia_link":null,
-    "link":"http:\/\/www.columbia.edu\/\/cu\/bulletin\/uwb\/subj\/BIGD\/N0101-20232-D04\/",
-    "location":"ONLINE ONLY",
-    "method_of_instruction":"On-Line Only",
-    "open_to":[
-      "Pre-College Programs"
-    ],
-    "points":"0",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"MTWRF",
-    "section_key":"20232BIGD0101ND04",
-    "type":"LECTURE"
-  },
-  {
-    "course_code":"BIGD PS0101",
-    "course_title":"Big Data, Machine Learning, and their Re",
-    "course_descr":"The exponential growth of data, advances in cloud computing, and machine learning have transformed every industry from retail and banking to healthcare and education. This introductory-level course enables participants to navigate the new reality of the \u201cdata economy,\u201d in which data is the \u201cthe new oil\u201d\u2014a ubiquitous and invaluable asset.  We focus on the strategic use of data and innovative technologies to derive actionable business insights. Participants develop a strong foundation in data-driven thinking for solving real-world problems. They are introduced to a variety of popular technologies for data analytics and gain a familiarity with programming in R, a software environment for statistical computing and graphics. Much of the in-class work involves working with R. Students learn how to import, export, manipulate, transform, and visualize data; use statistical summaries; and run and evaluate machine learning models.  From the start of the course participants are immersed in the world of data: they are introduced to the concepts of big data, artificial intelligence, the internet of things, cloud computing, and data ethics in the context of real-world business scenarios. Through hands-on experience and practice they study data harvesting and exploration, as well as the basics of data visualization. After they get comfortable with data manipulation and transformation, they gain familiarity with statistical frameworks and methods designed to extract practical insights from data. Participants learn and implement common machine-learning techniques and develop and evaluate analytical solutions.  Toward the conclusion of the course, students work in groups on a final project and presentation, thereby (a) solidify their newly acquired analytical and programming skills and (b) practicing storytelling with data.  Participants should expect a dynamic and interactive environment: hands-on exercises, teamwork, continuous in-class dialogue, demonstrations, and interactive presentations. The course features real-world applications of data analytics across industries and challenges students to think in terms of the business value of data and machine learning.\n",
-    "instructor":null,
     "scheduled_time_start":"5:00pm",
     "scheduled_time_end":"8:00pm",
     "call_number":"10449",
@@ -4828,7 +4828,9 @@
     "link":"http:\/\/www.columbia.edu\/\/cu\/bulletin\/uwb\/subj\/BUSI\/K4007-20232-001\/",
     "location":"To be announced",
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "Professional Studies"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -4854,7 +4856,9 @@
     "link":"http:\/\/www.columbia.edu\/\/cu\/bulletin\/uwb\/subj\/BUSI\/K5001-20232-001\/",
     "location":"To be announced",
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "Professional Studies"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -4880,7 +4884,9 @@
     "link":"http:\/\/www.columbia.edu\/\/cu\/bulletin\/uwb\/subj\/BUSI\/K5001-20232-002\/",
     "location":"To be announced",
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "Professional Studies"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -4906,7 +4912,9 @@
     "link":"http:\/\/www.columbia.edu\/\/cu\/bulletin\/uwb\/subj\/BUSI\/K5003-20232-001\/",
     "location":"To be announced",
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "Professional Studies"
+    ],
     "points":"3",
     "prerequisites":[
       [
@@ -4934,7 +4942,9 @@
     "link":"http:\/\/www.columbia.edu\/\/cu\/bulletin\/uwb\/subj\/BUSI\/K5003-20232-D02\/",
     "location":"ONLINE ONLY",
     "method_of_instruction":"On-Line Only",
-    "open_to":null,
+    "open_to":[
+      "Professional Studies"
+    ],
     "points":"3",
     "prerequisites":[
       [
@@ -4962,7 +4972,9 @@
     "link":"http:\/\/www.columbia.edu\/\/cu\/bulletin\/uwb\/subj\/BUSI\/K5009-20232-D01\/",
     "location":"ONLINE ONLY",
     "method_of_instruction":"On-Line Only",
-    "open_to":null,
+    "open_to":[
+      "Professional Studies"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -4988,7 +5000,9 @@
     "link":"http:\/\/www.columbia.edu\/\/cu\/bulletin\/uwb\/subj\/BUSI\/K5009-20232-D02\/",
     "location":"ONLINE ONLY",
     "method_of_instruction":"On-Line Only",
-    "open_to":null,
+    "open_to":[
+      "Professional Studies"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -5014,7 +5028,9 @@
     "link":"http:\/\/www.columbia.edu\/\/cu\/bulletin\/uwb\/subj\/BUSI\/K5010-20232-D01\/",
     "location":"ONLINE ONLY",
     "method_of_instruction":"On-Line Only",
-    "open_to":null,
+    "open_to":[
+      "Professional Studies"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -5040,7 +5056,9 @@
     "link":"http:\/\/www.columbia.edu\/\/cu\/bulletin\/uwb\/subj\/BUSI\/K5010-20232-002\/",
     "location":"To be announced",
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "Professional Studies"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -5066,7 +5084,9 @@
     "link":"http:\/\/www.columbia.edu\/\/cu\/bulletin\/uwb\/subj\/BUSI\/K5020-20232-D01\/",
     "location":"ONLINE ONLY",
     "method_of_instruction":"On-Line Only",
-    "open_to":null,
+    "open_to":[
+      "Professional Studies"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -5092,7 +5112,9 @@
     "link":"http:\/\/www.columbia.edu\/\/cu\/bulletin\/uwb\/subj\/BUSI\/K5025-20232-001\/",
     "location":"To be announced",
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "Professional Studies"
+    ],
     "points":"3",
     "prerequisites":[
       [
@@ -5120,7 +5142,9 @@
     "link":"http:\/\/www.columbia.edu\/\/cu\/bulletin\/uwb\/subj\/BUSI\/K5030-20232-001\/",
     "location":"To be announced",
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "Professional Studies"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -5146,7 +5170,9 @@
     "link":"http:\/\/www.columbia.edu\/\/cu\/bulletin\/uwb\/subj\/BUSI\/K5040-20232-001\/",
     "location":"To be announced",
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "Professional Studies"
+    ],
     "points":"3",
     "prerequisites":[
       [
@@ -5179,7 +5205,9 @@
     "link":"http:\/\/www.columbia.edu\/\/cu\/bulletin\/uwb\/subj\/BUSI\/K5040-20232-002\/",
     "location":"To be announced",
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "Professional Studies"
+    ],
     "points":"3",
     "prerequisites":[
       [
@@ -5212,7 +5240,9 @@
     "link":"http:\/\/www.columbia.edu\/\/cu\/bulletin\/uwb\/subj\/BUSI\/K5120-20232-D01\/",
     "location":"ONLINE ONLY",
     "method_of_instruction":"On-Line Only",
-    "open_to":null,
+    "open_to":[
+      "Professional Studies"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -20923,8 +20953,8 @@
     "course_title":"THE ART AND CRAFT OF PRACTICE",
     "course_descr":"The required \u201cThe Art and Craft of Practice\n\u201d\n\u00a0\ncourse is designed to introduce students to key practical insights, tips, and professional skills necessary for any successful conflict resolution practitioner. In this course, students will be required to practically apply some of the tools and techniques of NECR, and appreciate the importance of combining and reformulating the basic NECR concepts in order to serve their exact needs in the field.\u00a0  Through this course, students have the opportunity to apply what they have learned in the classroom, learn additional practical research skills, and adjust them to their own very specific professional aspirations in the field. This course also helps students strategize their next professional steps in the field in a concise, methodical way.\u00a0  It is important to keep in mind that the Conflict Resolution field at large is quite diverse, and our students have unique backgrounds and future aspirations. Therefore, this course is customized in coordination with each student during 1-on-1 sessions that take place at the beginning of the semester, in order for each student to be working on something that is clear, and has practical value for his\/her very specific professional interests.\u00a0  As with many things in life, proactiveness, creativity, and an entrepreneurial spirit are keys to success for our very challenging field.\u00a0 Each student will be having a required 1-on-1 session with the instructor, where the instructor will help the student explore ways to creatively strategize their next professional steps as practitioners and also develop the instructions for the final paper that match the needs of the student.\u00a0  Overall, the goal is to provide students with an enriching, personal experience that helps them rethink their role as practitioners and strategize better their short\/ long term goals in Negotiation and Conflict Resolution.\n",
     "instructor":"Nikolas Katsimpras",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"1:30pm",
     "call_number":"11032",
     "campus":"Morningside",
     "class_id":"K5250-20232-H01",
@@ -20933,8 +20963,8 @@
     "department_code":"NECR",
     "instructor_wikipedia_link":null,
     "link":"http:\/\/www.columbia.edu\/\/cu\/bulletin\/uwb\/subj\/NECR\/K5250-20232-H01\/",
-    "location":null,
-    "method_of_instruction":"Hybrid 20-79",
+    "location":"ONLINE ONLY",
+    "method_of_instruction":"On-Line Only",
     "open_to":[
       "Professional Studies"
     ],
@@ -20942,7 +20972,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"U",
     "section_key":"20232NECR5250KH01",
     "type":"LECTURE"
   },
@@ -27642,7 +27672,7 @@
   {
     "course_code":"SUSC PS5995",
     "course_title":"Internship and Industry",
-    "course_descr":null,
+    "course_descr":"\u00a0 \u00a0 \u00a0  This course requires you to experience firsthand a program-related job in a real working environment. You will engage in personal, environmental and organizational reflection. The ideal Internship will provide you an opportunity to gain tangible and practical knowledge in your chosen field by taking on a position that is closely aligned with your coursework and professional interests. Before registering for this course, you must have completed the Internship Application Form in which you will describe your internship sponsor and provide details about the work that you will be doing. This form must be signed by your internship supervisor and approved by your program director BEFORE you register for this course.  \u00a0  To receive instructor approval, the internship:  \u25cf Must provide an opportunity for the student to apply course concepts, either at the organizational or team level  \u25cf Must fit into the planned future program-related career path of the student  You must identify your own internship opportunities. The internship must involve a commitment to completing a minimum of 210 hours over the semester.  \u00a0  At the end of your course, you will submit an evaluation form to your internship supervisor. The evaluation form should be returned directly to the instructor\n",
     "instructor":"Diane M Spizzirro",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -27988,6 +28018,32 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"TMGT PS5127",
+    "course_title":"RAISING CAPITAL",
+    "course_descr":"An in-depth understanding of how to market a business plan and raise capital to launch new ventures. Topics include capital alternatives, confidentiality, meeting analysis, finalizing agreements, and shareholder alternatives. The course requires the design of a venture that contains multiple approaches for investment. Workshop exercises cover methods of negotiating initial investment, management control, and forecasted return-on-investment.\n",
+    "instructor":"Ashifi Gogo",
+    "scheduled_time_start":"12:00pm",
+    "scheduled_time_end":"1:30pm",
+    "call_number":"11145",
+    "campus":"Morningside",
+    "class_id":"K5127-20232-001",
+    "course_subtitle":null,
+    "department":"Technology Management",
+    "department_code":"TMGT",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/\/cu\/bulletin\/uwb\/subj\/TMGT\/K5127-20232-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20232TMGT5127K001",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"TMGT PS5135",
     "course_title":"ENTERPRISE INFORMATION SECURITY: THREATS",
     "course_descr":"Competition, espionage, theft, sabotage, and warfare, traditionally carried out \u201cin the field\u201d have erupted online. State-sponsored cyber-attacks target critical infrastructure, financial systems, government agencies, political adversaries, retail, and consumer databases, and the intellectual property of technology firms. This course covers the defensive techniques that address perimeter and data security. Business model relationships to security architecture are examined, in particular managing vulnerability introduced through mergers and acquisitions, and Active Directory migrations. Service and Administrative account management and other aspects of network design will be analyzed. Students will investigate recent newsworthy cases and devise countermeasures aimed at both incident prevention and effective CIRT (Cyber Incident Response) management.\n",
@@ -28118,6 +28174,58 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"TMGT PS5260",
+    "course_title":"NEXT-GEN TECHNOLOGIES AND ANALYSIS FOR T",
+    "course_descr":"Technology leaders and managers are strategists who set the compass for technological and cultural transformation. They often do not perform hands on development or architecture design, yet they still need to know enough about them to understand, converse, and not be misled when their business and technology partners make proposals and seek direction. While they need the knowledge, the closer they rise towards leadership roles, the less likely they are to be in contact with new technologies.  \u00a0  Students enter the study of technology management with a wide but shallow range of technology experience or may have worked in a limited but deep range. Still others enter with technology related experience such as marketing. No matter the background, they may each require additional breadth in their understanding of new technologies while not needing the knowledge depth of computer scientists and engineers. This six-week in-person summer elective provides that breadth through a survey of key next-generation technologies. Highlighted themes include: Cloud, Connected Devices, and Databases.  \u00a0  Students are guided through learning of next-gen technologies through these applied questions: is this new technology needed (e.g. does it support the business case), is it implementable in my environment (e.g. complexity, analysis, build v. buy), and technology architecture (e.g. how does it fit into my current platform). They will explore these themes individually and in teams to develop a business case and devise an L0 strategy around implementation with focus on the intersection of technology, business need, and culture.\n",
+    "instructor":"Douglas M Scherer",
+    "scheduled_time_start":"12:00pm",
+    "scheduled_time_end":"1:30pm",
+    "call_number":"11147",
+    "campus":"Morningside",
+    "class_id":"K5260-20232-001",
+    "course_subtitle":"NEXT-GEN TECHNOLOGIES",
+    "department":"Technology Management",
+    "department_code":"TMGT",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/\/cu\/bulletin\/uwb\/subj\/TMGT\/K5260-20232-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"S",
+    "section_key":"20232TMGT5260K001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"TMGT PS5270",
+    "course_title":"EXECUTIVE PRESENCE NOW",
+    "course_descr":"This elective course that will enable Technology Management Master\u2019s students to develop the confidence and skills\n in communication, self-reflection, emotional intelligence, and decision-making that are at the core of executive\n presence. More specifically, honing executive presence in today\u2019s work environments requires leaders to actively\n engage with issues of difference, inclusion, and diversity and develop a working knowledge of power dynamics,\n personal and organizational identities, and articulation of one\u2019s vision and values. This course situates executive\n presence alongside diversity equity and inclusion issues that arise in the technology management workplace. Core\n topics in Executive Presence Today include: 1) establishing trust and credibility as an executive; 2) interpreting and\n disrupting racism, exclusion, and bias; 3) communicating authentically; 4) driving internal and external change; and\n 5) making sound decisions in ambiguous, complex, high-stakes contexts.\n Throughout the course, you will study executive presence through the lens of technology professionals, learning\n from case studies and executives in the field from varied technology industries in corporate, mission-driven or non-\n profit, and education contexts. You will explore how to lead with poise and confidence in a technology management\n context where constant digital innovation and disruption are the norm. You will examine issues of cyber security\n decision-making where establishing credibility among senior officials may present conflicts to your values,\n identities, and closely held relationships. You will articulate a vision for how technology can be leveraged to\n innovate and improve products, services, and company bottom lines while deepening your communication skills.\n In this course, you will be learning about yourself as a leader and hone the skills of executive presence\n through work in the field with mentor executives and peers, in-class collaborative learning experiences, regular\n reflective writing, weekly public speaking assignments with immediate feedback, and written assignments.\n",
+    "instructor":"Sarah Benis Scheier-Dolberg",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"11146",
+    "campus":"Morningside",
+    "class_id":"K5270-20232-001",
+    "course_subtitle":null,
+    "department":"Technology Management",
+    "department_code":"TMGT",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/\/cu\/bulletin\/uwb\/subj\/TMGT\/K5270-20232-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20232TMGT5270K001",
+    "type":"SEMINAR"
+  },
+  {
     "course_code":"TMGT PS5400",
     "course_title":"MODERN DATABASE ARCHITECTURE",
     "course_descr":"This course provides coverage of modern database architecture and how organizations extract, transform, and load data to set the foundation for deep analytics within their organization. Students will develop a broad understanding of cloud-based computing environments such as Amazon\u2019s AWS and Microsoft\u2019s Azure, MapReduce and data parallel applications using Hadoop, noSQL databases such as MongoDB. Students will learn how to develop a strong working knowledge of relational and non-relational databases, structured and unstructured data, as well as scalability and performance issues as they relate to modern applied analytics. Students will cover different types and scales of data and how to apply the best database framework for their organization\u2019s analytic needs. The course will provide case studies from industry and students will apply their knowledge to architect real business solutions, not only the optimal architectural framework but the total costs, including hardware, software and human costs, to implement such a solution.\n",
@@ -28186,7 +28294,9 @@
     "link":"http:\/\/www.columbia.edu\/\/cu\/bulletin\/uwb\/subj\/TMGT\/K5470-20232-D01\/",
     "location":"ONLINE ONLY",
     "method_of_instruction":"On-Line Only",
-    "open_to":null,
+    "open_to":[
+      "Professional Studies"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -28843,32 +28953,6 @@
     ],
     "scheduled_days":"TR",
     "section_key":"20232WRIT1001S002",
-    "type":"WORKSHOP"
-  },
-  {
-    "course_code":"WRIT S1100",
-    "course_title":"BEGINNING FICTION WORKSHOP",
-    "course_descr":"The beginning workshop in fiction is designed for students who have little or no previous experience writing literary texts in fiction. Students are introduced to a range of technical and imaginative concerns through creative exercises and discussions, and eventually produce their own writing for the critical analysis of the class. The focus of the course is on the rudiments of voice, character, setting, point of view, plot, and the lyrical use of language. Students will begin to develop the critical skills that will allow them to read like writers and understand, on a technical level, how accomplished creative writing is produced. Outside readings of a wide range of fiction supplement and inform the exercises and longer written projects.\n",
-    "instructor":"Jean K Frazier",
-    "scheduled_time_start":"10:00am",
-    "scheduled_time_end":"1:10pm",
-    "call_number":"10146",
-    "campus":"Morningside",
-    "class_id":"K1100-20232-001",
-    "course_subtitle":"BEGINNING FICTION WORKSHO",
-    "department":"Summer Session (SUMM)",
-    "department_code":"WRIT",
-    "instructor_wikipedia_link":null,
-    "link":"http:\/\/www.columbia.edu\/\/cu\/bulletin\/uwb\/subj\/WRIT\/K1100-20232-001\/",
-    "location":"To be announced",
-    "method_of_instruction":"In-Person",
-    "open_to":null,
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"MW",
-    "section_key":"20232WRIT1100K001",
     "type":"WORKSHOP"
   },
   {
