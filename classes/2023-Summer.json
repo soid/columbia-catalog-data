@@ -14782,6 +14782,58 @@
     "type":"INDEPENDENT"
   },
   {
+    "course_code":"ELEN E6001",
+    "course_title":"ADVANCED PROJECTS",
+    "course_descr":"May be repeated for up to 6 points of credit. Graduate-level projects in various areas of electrical engineering and computer science. In consultation with an instructor, each student designs his or her project depending on the students previous training and experience. Students should consult with a professor in their area for detailed arrangements no later than the last day of registration.\n",
+    "instructor":"Zoran Kostic",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"13170",
+    "campus":"Morningside",
+    "class_id":"E6001-20232-011",
+    "course_subtitle":null,
+    "department":"Electrical Engineering",
+    "department_code":"ELEN",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/ELEN\/E6001-20232-011\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"1-4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20232ELEN6001E011",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"ELEN E6001",
+    "course_title":"ADVANCED PROJECTS",
+    "course_descr":"May be repeated for up to 6 points of credit. Graduate-level projects in various areas of electrical engineering and computer science. In consultation with an instructor, each student designs his or her project depending on the students previous training and experience. Students should consult with a professor in their area for detailed arrangements no later than the last day of registration.\n",
+    "instructor":"Xiaofan Jiang",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"13173",
+    "campus":"Morningside",
+    "class_id":"E6001-20232-007",
+    "course_subtitle":null,
+    "department":"Electrical Engineering",
+    "department_code":"ELEN",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/ELEN\/E6001-20232-007\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"1-4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20232ELEN6001E007",
+    "type":"INDEPENDENT"
+  },
+  {
     "course_code":"ELEN E6999",
     "course_title":"FIELDWORK",
     "course_descr":"May be repeated for credit, but no more than 3 total points may be used for degree credit. Only for electrical engineering and computer engineering graduate students who include relevant off-campus work experience as part of their approved program of study. Final report required. May not be taken for pass\/fail credit or audited.\n",
@@ -21719,34 +21771,6 @@
     ],
     "scheduled_days":"MTWR",
     "section_key":"20232FREN1101S001",
-    "type":"LANGUAGE"
-  },
-  {
-    "course_code":"FREN S1101",
-    "course_title":"ELEMENTARY FRENCH I",
-    "course_descr":"Equivalent to FREN UN1101. Designed to help students understand, speak, read, and write French, and to recognize cultural features of French-speaking communities, now with the help of a newly digitized audio program. Students learn to provide information in French about their feelings, environment, families, and daily activities. Daily assignments, quizzes, laboratory work, and screening of video material.\n",
-    "instructor":null,
-    "scheduled_time_start":"10:00am",
-    "scheduled_time_end":"12:05pm",
-    "call_number":"10275",
-    "campus":"Morningside",
-    "class_id":"S1101-20232-002",
-    "course_subtitle":null,
-    "department":"Summer Session (SUMM)",
-    "department_code":"FREN",
-    "instructor_wikipedia_link":null,
-    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/FREN\/S1101-20232-002\/",
-    "location":null,
-    "method_of_instruction":"In-Person",
-    "open_to":null,
-    "points":"4",
-    "prerequisites":[
-      [
-        "FREN UN1101"
-      ]
-    ],
-    "scheduled_days":"MTWR",
-    "section_key":"20232FREN1101S002",
     "type":"LANGUAGE"
   },
   {
@@ -29435,8 +29459,8 @@
     "course_title":"Data, Computation & Innovation II",
     "course_descr":null,
     "instructor":"Aisvarya Chandrasekar",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"12:00pm",
+    "scheduled_time_end":"3:00pm",
     "call_number":"13024",
     "campus":"Morningside",
     "class_id":"J4002-20232-001",
@@ -29452,7 +29476,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"W",
     "section_key":"20232JOUR4002J001",
     "type":"LECTURE"
   },
@@ -29461,8 +29485,8 @@
     "course_title":"Data, Computation & Innovation II",
     "course_descr":null,
     "instructor":"Adiel S Kaplan",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"4:30pm",
+    "scheduled_time_end":"7:30pm",
     "call_number":"13025",
     "campus":"Morningside",
     "class_id":"J4002-20232-002",
@@ -29478,7 +29502,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"W",
     "section_key":"20232JOUR4002J002",
     "type":"LECTURE"
   },
@@ -29487,8 +29511,8 @@
     "course_title":"SEMINAR & PRODUCTION",
     "course_descr":null,
     "instructor":"Larry Buchanan",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"10:00am",
+    "scheduled_time_end":"2:00pm",
     "call_number":"13023",
     "campus":"Morningside",
     "class_id":"J6002-20232-001",
@@ -29504,7 +29528,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"T",
     "section_key":"20232JOUR6002J001",
     "type":"SEMINAR"
   },
@@ -29902,32 +29926,6 @@
     "course_code":"JOUR J6045",
     "course_title":"MASTERS PROJECT",
     "course_descr":"The master\u2019s project will be your most sustained effort during your time at the journalism school, encompassing both fall and spring semesters. It\u2019s not a thesis in the traditional academic sense; think of it instead as an in-depth exploration of a topic as a journalist would pursue it. Master\u2019s projects can take a variety of forms, some of them incorporating elements from more than one medium: print, photo, audio, video, data. Regardless of format, you\u2019ll work on your project under the guidance of an experienced advisor, who will help you to hone your topic, figure out your reporting strategy and serve as your editor for the duration of the project.\n\n",
-    "instructor":"Ari L Goldman",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
-    "call_number":"13038",
-    "campus":"Morningside",
-    "class_id":"J6045-20232-003",
-    "course_subtitle":null,
-    "department":"Journalism",
-    "department_code":"JOUR",
-    "instructor_wikipedia_link":"https:\/\/en.wikipedia.org\/wiki\/Ari_L._Goldman",
-    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/JOUR\/J6045-20232-003\/",
-    "location":null,
-    "method_of_instruction":"In-Person",
-    "open_to":null,
-    "points":"6",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":null,
-    "section_key":"20232JOUR6045J003",
-    "type":"SEMINAR"
-  },
-  {
-    "course_code":"JOUR J6045",
-    "course_title":"MASTERS PROJECT",
-    "course_descr":"The master\u2019s project will be your most sustained effort during your time at the journalism school, encompassing both fall and spring semesters. It\u2019s not a thesis in the traditional academic sense; think of it instead as an in-depth exploration of a topic as a journalist would pursue it. Master\u2019s projects can take a variety of forms, some of them incorporating elements from more than one medium: print, photo, audio, video, data. Regardless of format, you\u2019ll work on your project under the guidance of an experienced advisor, who will help you to hone your topic, figure out your reporting strategy and serve as your editor for the duration of the project.\n\n",
     "instructor":"Paula Span",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -30110,7 +30108,7 @@
     "course_code":"JOUR J6045",
     "course_title":"MASTERS PROJECT",
     "course_descr":"The master\u2019s project will be your most sustained effort during your time at the journalism school, encompassing both fall and spring semesters. It\u2019s not a thesis in the traditional academic sense; think of it instead as an in-depth exploration of a topic as a journalist would pursue it. Master\u2019s projects can take a variety of forms, some of them incorporating elements from more than one medium: print, photo, audio, video, data. Regardless of format, you\u2019ll work on your project under the guidance of an experienced advisor, who will help you to hone your topic, figure out your reporting strategy and serve as your editor for the duration of the project.\n\n",
-    "instructor":"Sally W Herships",
+    "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"13101",
@@ -30188,7 +30186,7 @@
     "course_code":"JOUR PS0101",
     "course_title":"Creative Journalism",
     "course_descr":"What creative possibilities do true stories hold? How can truth telling and storytelling work together? This class helps students build interviewing and reporting skills while learning about journalistic ethics and exploring forms such as feature writing, profiles, op-eds, and audio pieces. Participants read a wide variety of articles and compose a new story draft every night. Through in-class workshops, students develop their skills in ways that allow them to serve as editors and peer readers for each other and for classmates and publications at their home schools.\n \n Courses in creative writing are offered in conjunction with the Writing Program at Columbia University\u2019s School of the Arts. Overseen by Chair of Creative Writing Lis Harris, Professor Alan Ziegler, and Director of Creative Writing for Pre-College Programs Christina Rumpf, the creative writing courses are designed to challenge and engage students interested in literary creation, providing them with a substantial foundation for further exploration of their creative work.\n",
-    "instructor":null,
+    "instructor":"Jessica A Colley Clarke",
     "scheduled_time_start":"3:10pm",
     "scheduled_time_end":"5:00pm",
     "call_number":"10734",
@@ -30216,7 +30214,7 @@
     "course_code":"JOUR PS0101",
     "course_title":"Creative Journalism",
     "course_descr":"What creative possibilities do true stories hold? How can truth telling and storytelling work together? This class helps students build interviewing and reporting skills while learning about journalistic ethics and exploring forms such as feature writing, profiles, op-eds, and audio pieces. Participants read a wide variety of articles and compose a new story draft every night. Through in-class workshops, students develop their skills in ways that allow them to serve as editors and peer readers for each other and for classmates and publications at their home schools.\n \n Courses in creative writing are offered in conjunction with the Writing Program at Columbia University\u2019s School of the Arts. Overseen by Chair of Creative Writing Lis Harris, Professor Alan Ziegler, and Director of Creative Writing for Pre-College Programs Christina Rumpf, the creative writing courses are designed to challenge and engage students interested in literary creation, providing them with a substantial foundation for further exploration of their creative work.\n",
-    "instructor":null,
+    "instructor":"Sophie M Dess",
     "scheduled_time_start":"3:10pm",
     "scheduled_time_end":"5:00pm",
     "call_number":"10735",
@@ -32197,58 +32195,6 @@
     ],
     "scheduled_days":"MTWRF",
     "section_key":"20232MDES1215S001",
-    "type":"LANGUAGE"
-  },
-  {
-    "course_code":"MDES S1610",
-    "course_title":"ELEMENTARY HINDI-URDU I",
-    "course_descr":"As of academic year 2016-17, this course is now MDES 1601. An introduction to the most widely spoken language of South Asia. Along with an understanding of the grammar, the course offers practice in listening and speaking. The Hindi (Devanagari) script is used for reading and writing. No P\/D\/F or R credit is allowed for this class.\n",
-    "instructor":"Rakesh Ranjan",
-    "scheduled_time_start":"9:00am",
-    "scheduled_time_end":"1:00pm",
-    "call_number":"10222",
-    "campus":"Morningside",
-    "class_id":"S1610-20232-001",
-    "course_subtitle":null,
-    "department":"Summer Session (SUMM)",
-    "department_code":"MDES",
-    "instructor_wikipedia_link":null,
-    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/MDES\/S1610-20232-001\/",
-    "location":null,
-    "method_of_instruction":"In-Person",
-    "open_to":null,
-    "points":"4",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"MTWR",
-    "section_key":"20232MDES1610S001",
-    "type":"LANGUAGE"
-  },
-  {
-    "course_code":"MDES S1611",
-    "course_title":"ELEMENTARY HINDI-URDU II",
-    "course_descr":"As of academic year 2016-17, this course is now MDES 1602. An introduction to the most widely spoken language of South Asia. Along with an understanding of the grammar, the course offers practice in listening and speaking. The Hindi (Devanagari) script is used for reading and writing. No P\/D\/F or R credit is allowed for this class.\n",
-    "instructor":"Rakesh Ranjan",
-    "scheduled_time_start":"9:00am",
-    "scheduled_time_end":"1:00pm",
-    "call_number":"10223",
-    "campus":"Morningside",
-    "class_id":"S1611-20232-001",
-    "course_subtitle":null,
-    "department":"Summer Session (SUMM)",
-    "department_code":"MDES",
-    "instructor_wikipedia_link":null,
-    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/MDES\/S1611-20232-001\/",
-    "location":null,
-    "method_of_instruction":"In-Person",
-    "open_to":null,
-    "points":"4",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"MTWR",
-    "section_key":"20232MDES1611S001",
     "type":"LANGUAGE"
   },
   {
@@ -34662,7 +34608,7 @@
     "course_code":"NOVI PS0101",
     "course_title":"Novel-Writing Intensive",
     "course_descr":"This intensive, one-week course is designed to teach students the ins-and-outs of novel writing, from conception to outlining to the writing itself. Whether interests lie in literary fiction, young adult, fantasy, or any other genre, we focus on how to structure and plot a successful novel. We also touch on establishing conflict, world-building, character work, pacing, and how to create an effective scene.\n \n Course participants share their writing in a workshop setting and receive in-depth feedback from both their peers and the instructor. By the end of the week, students will have completed an original outline and at least one full chapter of their novel. Not only does this course impart a greater understanding of what it means to craft a long-form work of fiction, it will also help students become stronger and more confident in their overall writing skills.\n \n Courses in creative writing are offered in conjunction with the Writing Program at Columbia University\u2019s School of the Arts. Overseen by Chair of Creative Writing Lis Harris, Professor Alan Ziegler, and Director of Creative Writing for Pre-College Programs Christina Rumpf, the creative writing courses are designed to challenge and engage students interested in literary creation, providing them with a substantial foundation for further exploration of their creative work.\n",
-    "instructor":null,
+    "instructor":"Rachel E Carter",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"3:00pm",
     "call_number":"10737",
@@ -34690,7 +34636,7 @@
     "course_code":"NOVI PS0101",
     "course_title":"Novel-Writing Intensive",
     "course_descr":"This intensive, one-week course is designed to teach students the ins-and-outs of novel writing, from conception to outlining to the writing itself. Whether interests lie in literary fiction, young adult, fantasy, or any other genre, we focus on how to structure and plot a successful novel. We also touch on establishing conflict, world-building, character work, pacing, and how to create an effective scene.\n \n Course participants share their writing in a workshop setting and receive in-depth feedback from both their peers and the instructor. By the end of the week, students will have completed an original outline and at least one full chapter of their novel. Not only does this course impart a greater understanding of what it means to craft a long-form work of fiction, it will also help students become stronger and more confident in their overall writing skills.\n \n Courses in creative writing are offered in conjunction with the Writing Program at Columbia University\u2019s School of the Arts. Overseen by Chair of Creative Writing Lis Harris, Professor Alan Ziegler, and Director of Creative Writing for Pre-College Programs Christina Rumpf, the creative writing courses are designed to challenge and engage students interested in literary creation, providing them with a substantial foundation for further exploration of their creative work.\n",
-    "instructor":null,
+    "instructor":"Melissa Larsen",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"3:00pm",
     "call_number":"10738",
@@ -34746,7 +34692,7 @@
     "course_code":"NOVL PS0101",
     "course_title":"Crafting the Novel",
     "course_descr":"Whether you are interested in writing literary fiction, young adult, fantasy, sci-fi, or mystery, certain truths about crafting a novel hold true across genres. This course is designed to teach students the ins-and-outs of novel writing, from conception to outlining to the writing itself. We focus on how to structure a novel as well as establishing conflict, world-building, character work, pacing, and how to create an effective scene.  Course participants share their writing in a workshop setting and receive in-depth feedback from both their peers and the instructor. By the end of the three weeks, they will have completed an original outline and the first three chapters of their novel. They leave with a greater understanding of what it means to craft a long-form work of fiction\u2014and having become stronger and more confident in their overall writing skills.  \nCourses in creative writing are offered in conjunction with the Writing Program at Columbia University\u2019s School of the Arts. Overseen by Chair of Creative Writing Timothy Donnelly, Professor Alan Ziegler, and Director of Creative Writing for Pre-College Programs Christina Rumpf, the creative writing courses are designed to challenge and engage students interested in literary creation, providing them with a substantial foundation for further exploration of their creative work.\n\n",
-    "instructor":null,
+    "instructor":"Melissa Larsen",
     "scheduled_time_start":"3:10pm",
     "scheduled_time_end":"5:00pm",
     "call_number":"10739",
@@ -34802,7 +34748,7 @@
     "course_code":"NOVL PS0101",
     "course_title":"Crafting the Novel",
     "course_descr":"Whether you are interested in writing literary fiction, young adult, fantasy, sci-fi, or mystery, certain truths about crafting a novel hold true across genres. This course is designed to teach students the ins-and-outs of novel writing, from conception to outlining to the writing itself. We focus on how to structure a novel as well as establishing conflict, world-building, character work, pacing, and how to create an effective scene.  Course participants share their writing in a workshop setting and receive in-depth feedback from both their peers and the instructor. By the end of the three weeks, they will have completed an original outline and the first three chapters of their novel. They leave with a greater understanding of what it means to craft a long-form work of fiction\u2014and having become stronger and more confident in their overall writing skills.  \nCourses in creative writing are offered in conjunction with the Writing Program at Columbia University\u2019s School of the Arts. Overseen by Chair of Creative Writing Timothy Donnelly, Professor Alan Ziegler, and Director of Creative Writing for Pre-College Programs Christina Rumpf, the creative writing courses are designed to challenge and engage students interested in literary creation, providing them with a substantial foundation for further exploration of their creative work.\n\n",
-    "instructor":null,
+    "instructor":"Melissa Larsen",
     "scheduled_time_start":"3:10pm",
     "scheduled_time_end":"5:00pm",
     "call_number":"10741",
@@ -47512,8 +47458,8 @@
     "course_title":"Theoretical Statistics",
     "course_descr":".\n",
     "instructor":"Bodhisattva Sen",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"10:00am",
+    "scheduled_time_end":"12:00pm",
     "call_number":"10594",
     "campus":"Morningside",
     "class_id":"G8201-20232-001",
@@ -47531,7 +47477,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"MTWRF",
     "section_key":"20232STAT8201G001",
     "type":"COLLOQUIA"
   },
@@ -47540,8 +47486,8 @@
     "course_title":"Theoretical Statistics",
     "course_descr":".\n",
     "instructor":"Bodhisattva Sen",
-    "scheduled_time_start":"10:30am",
-    "scheduled_time_end":"11:45am",
+    "scheduled_time_start":"10:45am",
+    "scheduled_time_end":"1:00pm",
     "call_number":"10596",
     "campus":"Morningside",
     "class_id":"G8201-20232-002",
@@ -49752,8 +49698,8 @@
     "course_title":"Creative Writing: Master Class in Fictio",
     "course_descr":"For students who seek intensive experience with the writing of fiction. Students explore diverse styles of and approaches to fiction, and learn essential skills for writing their own short stories and novels. They participate in rigorous daily workshops and discussions on craft, as well as one-on-one teacher conferences.  \nCourses in creative writing are offered in conjunction with the Writing Program at Columbia University\u2019s School of the Arts. Overseen by Chair of Creative Writing Lis Harris, Professor Alan Ziegler, and Director of Creative Writing for Pre-College Programs Christina Rumpf, the creative writing courses are designed to challenge and engage students interested in literary creation, providing them with a substantial foundation for further exploration of their creative work.\n\n",
     "instructor":null,
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"3:15pm",
+    "scheduled_time_end":"4:45pm",
     "call_number":"10743",
     "campus":"Morningside",
     "class_id":"K0100-20232-001",
@@ -49771,7 +49717,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"MTWRF",
     "section_key":"20232WFIC0100K001",
     "type":"REGISTRATION"
   },
@@ -49780,8 +49726,8 @@
     "course_title":"Creative Writing: Master Class in Fictio",
     "course_descr":"For students who seek intensive experience with the writing of fiction. Students explore diverse styles of and approaches to fiction, and learn essential skills for writing their own short stories and novels. They participate in rigorous daily workshops and discussions on craft, as well as one-on-one teacher conferences.  \nCourses in creative writing are offered in conjunction with the Writing Program at Columbia University\u2019s School of the Arts. Overseen by Chair of Creative Writing Lis Harris, Professor Alan Ziegler, and Director of Creative Writing for Pre-College Programs Christina Rumpf, the creative writing courses are designed to challenge and engage students interested in literary creation, providing them with a substantial foundation for further exploration of their creative work.\n\n",
     "instructor":null,
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"3:15pm",
+    "scheduled_time_end":"4:45pm",
     "call_number":"10744",
     "campus":"Morningside",
     "class_id":"K0100-20232-002",
@@ -49799,7 +49745,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"MTWRF",
     "section_key":"20232WFIC0100K002",
     "type":"REGISTRATION"
   },
@@ -50373,9 +50319,9 @@
     "course_code":"WRJN PS0100",
     "course_title":"Creative Writing: Journalism and Nonfict",
     "course_descr":"What creative possibilities do true stories hold? How can truth telling and storytelling work together? How can we turn ourselves\u2014and other real people\u2014into compelling characters? This class considers the possibilities of journalism and creative nonfiction. We will explore sub-genres ranging from news and magazine writing to memoir and personal essay; from science writing and profiles to humor, food writing, and lyric essay. Students will learn research and reporting skills essential to all forms of nonfiction writing, as well as how to incorporate techniques traditionally associated with fiction writing into journalism and nonfiction. We will engage with a range of nonfiction prose and quality journalism, and use workshops to develop skills as editors and as writers.  \nCourses in creative writing are offered in conjunction with the Writing Program at Columbia University\u2019s School of the Arts. Overseen by Chair of Creative Writing Lis Harris, Professor Alan Ziegler, and Director of Creative Writing for Pre-College Programs Christina Rumpf, the creative writing courses are designed to challenge and engage students interested in literary creation, providing them with a substantial foundation for further exploration of their creative work.\n\n",
-    "instructor":null,
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "instructor":"Sabrina L Qiao",
+    "scheduled_time_start":"3:15pm",
+    "scheduled_time_end":"4:45pm",
     "call_number":"10745",
     "campus":"Morningside",
     "class_id":"K0100-20232-001",
@@ -50393,7 +50339,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"MTWRF",
     "section_key":"20232WRJN0100K001",
     "type":"REGISTRATION"
   },
@@ -50402,8 +50348,8 @@
     "course_title":"Creative Writing: Journalism and Nonfict",
     "course_descr":"What creative possibilities do true stories hold? How can truth telling and storytelling work together? How can we turn ourselves\u2014and other real people\u2014into compelling characters? This class considers the possibilities of journalism and creative nonfiction. We will explore sub-genres ranging from news and magazine writing to memoir and personal essay; from science writing and profiles to humor, food writing, and lyric essay. Students will learn research and reporting skills essential to all forms of nonfiction writing, as well as how to incorporate techniques traditionally associated with fiction writing into journalism and nonfiction. We will engage with a range of nonfiction prose and quality journalism, and use workshops to develop skills as editors and as writers.  \nCourses in creative writing are offered in conjunction with the Writing Program at Columbia University\u2019s School of the Arts. Overseen by Chair of Creative Writing Lis Harris, Professor Alan Ziegler, and Director of Creative Writing for Pre-College Programs Christina Rumpf, the creative writing courses are designed to challenge and engage students interested in literary creation, providing them with a substantial foundation for further exploration of their creative work.\n\n",
     "instructor":null,
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"3:15pm",
+    "scheduled_time_end":"4:45pm",
     "call_number":"10746",
     "campus":"Morningside",
     "class_id":"K0100-20232-002",
@@ -50421,7 +50367,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"MTWRF",
     "section_key":"20232WRJN0100K002",
     "type":"REGISTRATION"
   },
@@ -50429,9 +50375,9 @@
     "course_code":"WRJN PS0100",
     "course_title":"Creative Writing: Journalism and Nonfict",
     "course_descr":"What creative possibilities do true stories hold? How can truth telling and storytelling work together? How can we turn ourselves\u2014and other real people\u2014into compelling characters? This class considers the possibilities of journalism and creative nonfiction. We will explore sub-genres ranging from news and magazine writing to memoir and personal essay; from science writing and profiles to humor, food writing, and lyric essay. Students will learn research and reporting skills essential to all forms of nonfiction writing, as well as how to incorporate techniques traditionally associated with fiction writing into journalism and nonfiction. We will engage with a range of nonfiction prose and quality journalism, and use workshops to develop skills as editors and as writers.  \nCourses in creative writing are offered in conjunction with the Writing Program at Columbia University\u2019s School of the Arts. Overseen by Chair of Creative Writing Lis Harris, Professor Alan Ziegler, and Director of Creative Writing for Pre-College Programs Christina Rumpf, the creative writing courses are designed to challenge and engage students interested in literary creation, providing them with a substantial foundation for further exploration of their creative work.\n\n",
-    "instructor":null,
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "instructor":"Sabrina L Qiao",
+    "scheduled_time_start":"3:15pm",
+    "scheduled_time_end":"4:45pm",
     "call_number":"10747",
     "campus":"Morningside",
     "class_id":"K0100-20232-003",
@@ -50449,7 +50395,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"MTWRF",
     "section_key":"20232WRJN0100K003",
     "type":"REGISTRATION"
   },
@@ -50457,9 +50403,9 @@
     "course_code":"WRJN PS0100",
     "course_title":"Creative Writing: Journalism and Nonfict",
     "course_descr":"What creative possibilities do true stories hold? How can truth telling and storytelling work together? How can we turn ourselves\u2014and other real people\u2014into compelling characters? This class considers the possibilities of journalism and creative nonfiction. We will explore sub-genres ranging from news and magazine writing to memoir and personal essay; from science writing and profiles to humor, food writing, and lyric essay. Students will learn research and reporting skills essential to all forms of nonfiction writing, as well as how to incorporate techniques traditionally associated with fiction writing into journalism and nonfiction. We will engage with a range of nonfiction prose and quality journalism, and use workshops to develop skills as editors and as writers.  \nCourses in creative writing are offered in conjunction with the Writing Program at Columbia University\u2019s School of the Arts. Overseen by Chair of Creative Writing Lis Harris, Professor Alan Ziegler, and Director of Creative Writing for Pre-College Programs Christina Rumpf, the creative writing courses are designed to challenge and engage students interested in literary creation, providing them with a substantial foundation for further exploration of their creative work.\n\n",
-    "instructor":null,
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "instructor":"Laura J Palmer",
+    "scheduled_time_start":"3:15pm",
+    "scheduled_time_end":"4:45pm",
     "call_number":"10748",
     "campus":"Morningside",
     "class_id":"K0100-20232-004",
@@ -50477,7 +50423,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"MTWRF",
     "section_key":"20232WRJN0100K004",
     "type":"REGISTRATION"
   },
@@ -50486,8 +50432,8 @@
     "course_title":"Creative Writing: Advanced Workshop",
     "course_descr":"This workshop is geared toward students who have considerable experience in creative writing or who demonstrate unusual talent. Students read and write free verse poetry, short prose, drama, fiction, and creative nonfiction with the goal of developing a final portfolio of revised work.  Daily workshops and seminars expose students to many aspects of the writing process, including generating ideas, writing and revising drafts, and editing. Participants practice their literary craft with an attentive group of their peers, under the guidance of an experienced instructor. They write extensively, read and respond to excerpts from outstanding works of literature, and participate in candid, helpful critiques of their own work and that of their peers. Students are expected to come to the workshops with an openness to various approaches toward literature and writing. Classes are supplemented by weekly one-on-one conferences with instructors as well as optional electives.  \nCourses in creative writing are offered in conjunction with the Writing Program at Columbia University\u2019s School of the Arts. Overseen by Chair of Creative Writing Lis Harris, Professor Alan Ziegler, and Director of Creative Writing for Pre-College Programs Christina Rumpf, the creative writing courses are designed to challenge and engage students interested in literary creation, providing them with a substantial foundation for further exploration of their creative work.\n\n",
     "instructor":null,
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"3:15pm",
+    "scheduled_time_end":"4:45pm",
     "call_number":"10749",
     "campus":"Morningside",
     "class_id":"K0100-20232-001",
@@ -50505,7 +50451,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"MTWRF",
     "section_key":"20232WRTA0100K001",
     "type":"REGISTRATION"
   },
@@ -50514,8 +50460,8 @@
     "course_title":"Creative Writing: Advanced Workshop",
     "course_descr":"This workshop is geared toward students who have considerable experience in creative writing or who demonstrate unusual talent. Students read and write free verse poetry, short prose, drama, fiction, and creative nonfiction with the goal of developing a final portfolio of revised work.  Daily workshops and seminars expose students to many aspects of the writing process, including generating ideas, writing and revising drafts, and editing. Participants practice their literary craft with an attentive group of their peers, under the guidance of an experienced instructor. They write extensively, read and respond to excerpts from outstanding works of literature, and participate in candid, helpful critiques of their own work and that of their peers. Students are expected to come to the workshops with an openness to various approaches toward literature and writing. Classes are supplemented by weekly one-on-one conferences with instructors as well as optional electives.  \nCourses in creative writing are offered in conjunction with the Writing Program at Columbia University\u2019s School of the Arts. Overseen by Chair of Creative Writing Lis Harris, Professor Alan Ziegler, and Director of Creative Writing for Pre-College Programs Christina Rumpf, the creative writing courses are designed to challenge and engage students interested in literary creation, providing them with a substantial foundation for further exploration of their creative work.\n\n",
     "instructor":null,
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"3:15pm",
+    "scheduled_time_end":"4:45pm",
     "call_number":"10750",
     "campus":"Morningside",
     "class_id":"K0100-20232-002",
@@ -50533,7 +50479,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"MTWRF",
     "section_key":"20232WRTA0100K002",
     "type":"REGISTRATION"
   },
@@ -50542,8 +50488,8 @@
     "course_title":"Creative Writing: Advanced Workshop",
     "course_descr":"This workshop is geared toward students who have considerable experience in creative writing or who demonstrate unusual talent. Students read and write free verse poetry, short prose, drama, fiction, and creative nonfiction with the goal of developing a final portfolio of revised work.  Daily workshops and seminars expose students to many aspects of the writing process, including generating ideas, writing and revising drafts, and editing. Participants practice their literary craft with an attentive group of their peers, under the guidance of an experienced instructor. They write extensively, read and respond to excerpts from outstanding works of literature, and participate in candid, helpful critiques of their own work and that of their peers. Students are expected to come to the workshops with an openness to various approaches toward literature and writing. Classes are supplemented by weekly one-on-one conferences with instructors as well as optional electives.  \nCourses in creative writing are offered in conjunction with the Writing Program at Columbia University\u2019s School of the Arts. Overseen by Chair of Creative Writing Lis Harris, Professor Alan Ziegler, and Director of Creative Writing for Pre-College Programs Christina Rumpf, the creative writing courses are designed to challenge and engage students interested in literary creation, providing them with a substantial foundation for further exploration of their creative work.\n\n",
     "instructor":null,
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"3:15pm",
+    "scheduled_time_end":"4:45pm",
     "call_number":"10751",
     "campus":"Morningside",
     "class_id":"K0100-20232-003",
@@ -50561,7 +50507,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"MTWRF",
     "section_key":"20232WRTA0100K003",
     "type":"REGISTRATION"
   },
@@ -50569,9 +50515,9 @@
     "course_code":"WRTA PS0100",
     "course_title":"Creative Writing: Advanced Workshop",
     "course_descr":"This workshop is geared toward students who have considerable experience in creative writing or who demonstrate unusual talent. Students read and write free verse poetry, short prose, drama, fiction, and creative nonfiction with the goal of developing a final portfolio of revised work.  Daily workshops and seminars expose students to many aspects of the writing process, including generating ideas, writing and revising drafts, and editing. Participants practice their literary craft with an attentive group of their peers, under the guidance of an experienced instructor. They write extensively, read and respond to excerpts from outstanding works of literature, and participate in candid, helpful critiques of their own work and that of their peers. Students are expected to come to the workshops with an openness to various approaches toward literature and writing. Classes are supplemented by weekly one-on-one conferences with instructors as well as optional electives.  \nCourses in creative writing are offered in conjunction with the Writing Program at Columbia University\u2019s School of the Arts. Overseen by Chair of Creative Writing Lis Harris, Professor Alan Ziegler, and Director of Creative Writing for Pre-College Programs Christina Rumpf, the creative writing courses are designed to challenge and engage students interested in literary creation, providing them with a substantial foundation for further exploration of their creative work.\n\n",
-    "instructor":null,
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "instructor":"Emily E Weitzman",
+    "scheduled_time_start":"3:15pm",
+    "scheduled_time_end":"4:45pm",
     "call_number":"10752",
     "campus":"Morningside",
     "class_id":"K0100-20232-004",
@@ -50589,7 +50535,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"MTWRF",
     "section_key":"20232WRTA0100K004",
     "type":"REGISTRATION"
   },
@@ -50737,9 +50683,9 @@
     "course_code":"WRTG PS0100",
     "course_title":"Introduction to Creative Writing",
     "course_descr":"This course serves as an exploration of the creative writing process, including idea generation, creation and development of drafts, and basic editing skills. Through frequent and diverse exercises, students develop their use of voice, imagery, characterization, dialogue, and narration. Students work in poetry, prose poetry, drama, and fiction. Works produced by professional writers as well as by students in the class form the basis of discussion in the workshop process.  \nCourses in creative writing are offered in conjunction with the Writing Program at Columbia University\u2019s School of the Arts. Overseen by Chair of Creative Writing Lis Harris, Professor Alan Ziegler, and Director of Creative Writing for Pre-College Programs Christina Rumpf, the creative writing courses are designed to challenge and engage students interested in literary creation, providing them with a substantial foundation for further exploration of their creative work.\n\n",
-    "instructor":null,
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "instructor":"Claudia J Arevalo",
+    "scheduled_time_start":"3:15pm",
+    "scheduled_time_end":"4:45pm",
     "call_number":"10753",
     "campus":"Morningside",
     "class_id":"K0100-20232-001",
@@ -50757,7 +50703,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"MTWRF",
     "section_key":"20232WRTG0100K001",
     "type":"REGISTRATION"
   },
@@ -50766,8 +50712,8 @@
     "course_title":"Introduction to Creative Writing",
     "course_descr":"This course serves as an exploration of the creative writing process, including idea generation, creation and development of drafts, and basic editing skills. Through frequent and diverse exercises, students develop their use of voice, imagery, characterization, dialogue, and narration. Students work in poetry, prose poetry, drama, and fiction. Works produced by professional writers as well as by students in the class form the basis of discussion in the workshop process.  \nCourses in creative writing are offered in conjunction with the Writing Program at Columbia University\u2019s School of the Arts. Overseen by Chair of Creative Writing Lis Harris, Professor Alan Ziegler, and Director of Creative Writing for Pre-College Programs Christina Rumpf, the creative writing courses are designed to challenge and engage students interested in literary creation, providing them with a substantial foundation for further exploration of their creative work.\n\n",
     "instructor":"Elly M Graff",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"3:15pm",
+    "scheduled_time_end":"4:45pm",
     "call_number":"10754",
     "campus":"Morningside",
     "class_id":"K0100-20232-002",
@@ -50785,7 +50731,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"MTWRF",
     "section_key":"20232WRTG0100K002",
     "type":"REGISTRATION"
   },
@@ -50794,8 +50740,8 @@
     "course_title":"Introduction to Creative Writing",
     "course_descr":"This course serves as an exploration of the creative writing process, including idea generation, creation and development of drafts, and basic editing skills. Through frequent and diverse exercises, students develop their use of voice, imagery, characterization, dialogue, and narration. Students work in poetry, prose poetry, drama, and fiction. Works produced by professional writers as well as by students in the class form the basis of discussion in the workshop process.  \nCourses in creative writing are offered in conjunction with the Writing Program at Columbia University\u2019s School of the Arts. Overseen by Chair of Creative Writing Lis Harris, Professor Alan Ziegler, and Director of Creative Writing for Pre-College Programs Christina Rumpf, the creative writing courses are designed to challenge and engage students interested in literary creation, providing them with a substantial foundation for further exploration of their creative work.\n\n",
     "instructor":null,
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"3:15pm",
+    "scheduled_time_end":"4:45pm",
     "call_number":"10755",
     "campus":"Morningside",
     "class_id":"K0100-20232-003",
@@ -50813,7 +50759,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"MTWRF",
     "section_key":"20232WRTG0100K003",
     "type":"REGISTRATION"
   },
@@ -50822,8 +50768,8 @@
     "course_title":"Creative Writing: Introductory Workshop",
     "course_descr":"A course designed for students who have not had extensive experience in creative writing. Through frequent writing exercises, participants develop such writing resources as voice, imagery, characterization, dialogue, and narration. Experimentation is encouraged.  Daily workshops and seminars expose students to many aspects of the writing process, including generating ideas, writing and revising drafts, and editing. Participants practice their literary craft with an attentive group of their peers, under the guidance of an experienced instructor. They write extensively, read and respond to excerpts from outstanding works of literature, and participate in candid, helpful critiques of their own work and that of their peers. Students are expected to come to the workshops with an openness to various approaches toward literature and writing. Classes are supplemented by weekly one-on-one conferences with instructors as well as optional electives.  \nCourses in creative writing are offered in conjunction with the Writing Program at Columbia University\u2019s School of the Arts. Overseen by Chair of Creative Writing Lis Harris, Professor Alan Ziegler, and Director of Creative Writing for Pre-College Programs Christina Rumpf, the creative writing courses are designed to challenge and engage students interested in literary creation, providing them with a substantial foundation for further exploration of their creative work.\n\n",
     "instructor":null,
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"3:15pm",
+    "scheduled_time_end":"4:45pm",
     "call_number":"10756",
     "campus":"Morningside",
     "class_id":"K0100-20232-001",
@@ -50841,7 +50787,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"MTWRF",
     "section_key":"20232WRTI0100K001",
     "type":"REGISTRATION"
   },
@@ -50850,8 +50796,8 @@
     "course_title":"Creative Writing: Introductory Workshop",
     "course_descr":"A course designed for students who have not had extensive experience in creative writing. Through frequent writing exercises, participants develop such writing resources as voice, imagery, characterization, dialogue, and narration. Experimentation is encouraged.  Daily workshops and seminars expose students to many aspects of the writing process, including generating ideas, writing and revising drafts, and editing. Participants practice their literary craft with an attentive group of their peers, under the guidance of an experienced instructor. They write extensively, read and respond to excerpts from outstanding works of literature, and participate in candid, helpful critiques of their own work and that of their peers. Students are expected to come to the workshops with an openness to various approaches toward literature and writing. Classes are supplemented by weekly one-on-one conferences with instructors as well as optional electives.  \nCourses in creative writing are offered in conjunction with the Writing Program at Columbia University\u2019s School of the Arts. Overseen by Chair of Creative Writing Lis Harris, Professor Alan Ziegler, and Director of Creative Writing for Pre-College Programs Christina Rumpf, the creative writing courses are designed to challenge and engage students interested in literary creation, providing them with a substantial foundation for further exploration of their creative work.\n\n",
     "instructor":null,
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"3:15pm",
+    "scheduled_time_end":"4:45pm",
     "call_number":"10757",
     "campus":"Morningside",
     "class_id":"K0100-20232-002",
@@ -50869,7 +50815,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"MTWRF",
     "section_key":"20232WRTI0100K002",
     "type":"REGISTRATION"
   },
@@ -50877,9 +50823,9 @@
     "course_code":"WRTI PS0100",
     "course_title":"Creative Writing: Introductory Workshop",
     "course_descr":"A course designed for students who have not had extensive experience in creative writing. Through frequent writing exercises, participants develop such writing resources as voice, imagery, characterization, dialogue, and narration. Experimentation is encouraged.  Daily workshops and seminars expose students to many aspects of the writing process, including generating ideas, writing and revising drafts, and editing. Participants practice their literary craft with an attentive group of their peers, under the guidance of an experienced instructor. They write extensively, read and respond to excerpts from outstanding works of literature, and participate in candid, helpful critiques of their own work and that of their peers. Students are expected to come to the workshops with an openness to various approaches toward literature and writing. Classes are supplemented by weekly one-on-one conferences with instructors as well as optional electives.  \nCourses in creative writing are offered in conjunction with the Writing Program at Columbia University\u2019s School of the Arts. Overseen by Chair of Creative Writing Lis Harris, Professor Alan Ziegler, and Director of Creative Writing for Pre-College Programs Christina Rumpf, the creative writing courses are designed to challenge and engage students interested in literary creation, providing them with a substantial foundation for further exploration of their creative work.\n\n",
-    "instructor":null,
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "instructor":"Audrey L Summers",
+    "scheduled_time_start":"3:15pm",
+    "scheduled_time_end":"4:45pm",
     "call_number":"10758",
     "campus":"Morningside",
     "class_id":"K0100-20232-003",
@@ -50897,7 +50843,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"MTWRF",
     "section_key":"20232WRTI0100K003",
     "type":"REGISTRATION"
   },
