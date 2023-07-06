@@ -147,7 +147,7 @@
     "course_descr":null,
     "instructor":"Benjamin Segal",
     "scheduled_time_start":"9:00am",
-    "scheduled_time_end":"5:00pm",
+    "scheduled_time_end":"5:30pm",
     "call_number":"12135",
     "campus":"Morningside",
     "class_id":"B8009-20232-001",
@@ -4446,7 +4446,7 @@
     "department_code":"BIOL",
     "instructor_wikipedia_link":null,
     "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/BIOL\/G4501-20232-001\/",
-    "location":"614 Schermerhorn Hall [SCH]",
+    "location":"800 Sherman Fairchild Life Sciences Building",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"4",
@@ -15807,6 +15807,32 @@
     ],
     "scheduled_days":"MW",
     "section_key":"20232ELAW7052L001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ELEN E1201",
+    "course_title":"INTRO-ELECTRICAL ENGINEERING",
+    "course_descr":"Basic concepts of electrical engineering. Exploration of selected topics and their application. Electrical variables, circuit laws, nonlinear and linear elements, ideal and real sources, transducers, operational amplifiers in simple circuits, external behavior of diodes and transistors, first order RC and RL circuits. Digital representation of a signal, digital logic gates, flipflops. A lab is an integral part of the course. Required of electrical engineering and computer engineering majors.\n\n",
+    "instructor":"David G Vallancourt",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"14222",
+    "campus":"Morningside",
+    "class_id":"E1201-20232-001",
+    "course_subtitle":"INTRO-ELECTRICAL ENGINEER",
+    "department":"Electrical Engineering",
+    "department_code":"ELEN",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/ELEN\/E1201-20232-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3.5",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20232ELEN1201E001",
     "type":"LECTURE"
   },
   {
@@ -45009,34 +45035,6 @@
     "type":"SEMINAR"
   },
   {
-    "course_code":"PLAN A6888",
-    "course_title":"REAL ESTATE IN THE SHARING ECONOMY",
-    "course_descr":null,
-    "instructor":"Josh Kahr",
-    "scheduled_time_start":"1:00pm",
-    "scheduled_time_end":"3:00pm",
-    "call_number":"10767",
-    "campus":"Morningside",
-    "class_id":"A6888-20232-001",
-    "course_subtitle":"RE IN THE SHARING ECONOMY",
-    "department":"Architecture, Planning and Preservation",
-    "department_code":"PLAN",
-    "instructor_wikipedia_link":null,
-    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/PLAN\/A6888-20232-001\/",
-    "location":"113 Avery Hall",
-    "method_of_instruction":"In-Person",
-    "open_to":[
-      "Architecture"
-    ],
-    "points":"1.5",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"M",
-    "section_key":"20232PLAN6888A001",
-    "type":"LECTURE"
-  },
-  {
     "course_code":"PLAN A8792",
     "course_title":"INDIVIDUAL RESEARCH",
     "course_descr":null,
@@ -47148,6 +47146,32 @@
     "type":"SEMINAR"
   },
   {
+    "course_code":"REGI E0002",
+    "course_title":"SUMMER RESIDENCE",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"14232",
+    "campus":"Morningside",
+    "class_id":"E0002-20232-001",
+    "course_subtitle":null,
+    "department":"Engineering",
+    "department_code":"REGI",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/REGI\/E0002-20232-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20232REGI0002E001",
+    "type":"DUMMY COURSE"
+  },
+  {
     "course_code":"REGI L0002",
     "course_title":"REGISTERED FOR LAW SCHOOL",
     "course_descr":null,
@@ -47197,6 +47221,32 @@
     ],
     "scheduled_days":null,
     "section_key":"20232REGI0002M001",
+    "type":"DUMMY COURSE"
+  },
+  {
+    "course_code":"REGI UN0002",
+    "course_title":"SUMMER RESIDENCE",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"14231",
+    "campus":"Morningside",
+    "class_id":"C0002-20232-001",
+    "course_subtitle":null,
+    "department":"Columbia College",
+    "department_code":"REGI",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/REGI\/C0002-20232-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20232REGI0002C001",
     "type":"DUMMY COURSE"
   },
   {
@@ -51637,7 +51687,7 @@
     "department_code":"SUMA",
     "instructor_wikipedia_link":null,
     "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/SUMA\/K5470-20232-001\/",
-    "location":"To be announced",
+    "location":"602 Northwest Corner Building",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"3",
