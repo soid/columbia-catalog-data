@@ -817,6 +817,144 @@
     "type":"SEMINAR"
   },
   {
+    "course_code":"INAF U6334",
+    "course_title":"Conduct of War",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"11:00am",
+    "scheduled_time_end":"12:50pm",
+    "call_number":"10266",
+    "campus":"Morningside",
+    "class_id":"U6334-20241-001",
+    "course_subtitle":null,
+    "department":"International and Public Affairs",
+    "department_code":"INAF",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/INAF\/U6334-20241-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20241INAF6334U001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"INAF U6344",
+    "course_title":"Military Technology Assessment",
+    "course_descr":null,
+    "instructor":"Stephen Biddle",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"10267",
+    "campus":"Morningside",
+    "class_id":"U6344-20241-001",
+    "course_subtitle":null,
+    "department":"International and Public Affairs",
+    "department_code":"INAF",
+    "instructor_wikipedia_link":"https:\/\/en.wikipedia.org\/wiki\/Stephen_Biddle",
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/INAF\/U6344-20241-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20241INAF6344U001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"INAF U6347",
+    "course_title":"US Role In World Affairs II",
+    "course_descr":null,
+    "instructor":"Stuart M Gottlieb",
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"10268",
+    "campus":"Morningside",
+    "class_id":"U6347-20241-001",
+    "course_subtitle":null,
+    "department":"International and Public Affairs",
+    "department_code":"INAF",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/INAF\/U6347-20241-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20241INAF6347U001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"INAF U6383",
+    "course_title":"Foundations of Cyber Conflict",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"6:00pm",
+    "call_number":"10269",
+    "campus":"Morningside",
+    "class_id":"U6383-20241-001",
+    "course_subtitle":"Found. of Cyber Conflict",
+    "department":"International and Public Affairs",
+    "department_code":"INAF",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/INAF\/U6383-20241-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20241INAF6383U001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"INAF U6387",
+    "course_title":"Terrorism & Counterterrorism",
+    "course_descr":null,
+    "instructor":"Michael O'Hanlon",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"6:00pm",
+    "call_number":"10270",
+    "campus":"Morningside",
+    "class_id":"U6387-20241-001",
+    "course_subtitle":"Terrorism & Counterterror",
+    "department":"International and Public Affairs",
+    "department_code":"INAF",
+    "instructor_wikipedia_link":"https:\/\/en.wikipedia.org\/wiki\/Michael_E._O%27Hanlon",
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/INAF\/U6387-20241-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20241INAF6387U001",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"INAF U6425",
     "course_title":"Energy Transition in Europe",
     "course_descr":"The course is intended to provide students with an understanding of the issues and dynamics underlying the European Union\u2019s (EU\u2019s) efforts to lead the worldwide transition to low- and zero-greenhouse gas energy systems. The energy transition is unfolding around the globe with features that reflect each country\u2019s distinct energy endowments, economic strengths and weaknesses, political priorities, and governance systems. In this course, we will examine the drivers of the European debate over the energy transition, from public pressure to protect the environment and avoid climate change, to technology innovations that are impacting all aspects of energy use \u2013 in power generation, industrial energy systems, buildings and transportation.\n\n",
@@ -1442,7 +1580,7 @@
   {
     "course_code":"INAF U6614",
     "course_title":"Data Analysis for Policy Research Using",
-    "course_descr":null,
+    "course_descr":"This course will develop the skills to prepare, analyze, and present data for policy analysis and program evaluation using R. In Quant I and II, students are introduced to probability and statistics, regression analysis and causal inference. In this course we focus on the practical application of these skills to explore data and policy questions on your own. The goal is to help students become effective analysts and policy researchers:\u00a0 given available data, what sort of analysis would best inform our policy questions? How do we prepare data and implement statistical methods using R? How can we begin to draw conclusions about the causal effects of policies, not just correlation? We\u2019ll learn these skills by exploring data on a range of policy topics: COVID-19 cases; racial bias in NYPD subway fare evasion enforcement; the distribution of Village Fund grants in Indonesia; US police shootings; wage gaps by gender\/race; and student projects on topics of your choosing.\n\n",
     "instructor":"Harold B Stolper",
     "scheduled_time_start":"11:00am",
     "scheduled_time_end":"12:00pm",
@@ -1470,7 +1608,7 @@
   {
     "course_code":"INAF U6614",
     "course_title":"Data Analysis for Policy Research Using",
-    "course_descr":null,
+    "course_descr":"This course will develop the skills to prepare, analyze, and present data for policy analysis and program evaluation using R. In Quant I and II, students are introduced to probability and statistics, regression analysis and causal inference. In this course we focus on the practical application of these skills to explore data and policy questions on your own. The goal is to help students become effective analysts and policy researchers:\u00a0 given available data, what sort of analysis would best inform our policy questions? How do we prepare data and implement statistical methods using R? How can we begin to draw conclusions about the causal effects of policies, not just correlation? We\u2019ll learn these skills by exploring data on a range of policy topics: COVID-19 cases; racial bias in NYPD subway fare evasion enforcement; the distribution of Village Fund grants in Indonesia; US police shootings; wage gaps by gender\/race; and student projects on topics of your choosing.\n\n",
     "instructor":"Harold B Stolper",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -1498,7 +1636,7 @@
   {
     "course_code":"INAF U6614",
     "course_title":"Data Analysis for Policy Research Using",
-    "course_descr":null,
+    "course_descr":"This course will develop the skills to prepare, analyze, and present data for policy analysis and program evaluation using R. In Quant I and II, students are introduced to probability and statistics, regression analysis and causal inference. In this course we focus on the practical application of these skills to explore data and policy questions on your own. The goal is to help students become effective analysts and policy researchers:\u00a0 given available data, what sort of analysis would best inform our policy questions? How do we prepare data and implement statistical methods using R? How can we begin to draw conclusions about the causal effects of policies, not just correlation? We\u2019ll learn these skills by exploring data on a range of policy topics: COVID-19 cases; racial bias in NYPD subway fare evasion enforcement; the distribution of Village Fund grants in Indonesia; US police shootings; wage gaps by gender\/race; and student projects on topics of your choosing.\n\n",
     "instructor":null,
     "scheduled_time_start":"11:00am",
     "scheduled_time_end":"12:50pm",
@@ -1526,7 +1664,7 @@
   {
     "course_code":"INAF U6614",
     "course_title":"Data Analysis for Policy Research Using",
-    "course_descr":null,
+    "course_descr":"This course will develop the skills to prepare, analyze, and present data for policy analysis and program evaluation using R. In Quant I and II, students are introduced to probability and statistics, regression analysis and causal inference. In this course we focus on the practical application of these skills to explore data and policy questions on your own. The goal is to help students become effective analysts and policy researchers:\u00a0 given available data, what sort of analysis would best inform our policy questions? How do we prepare data and implement statistical methods using R? How can we begin to draw conclusions about the causal effects of policies, not just correlation? We\u2019ll learn these skills by exploring data on a range of policy topics: COVID-19 cases; racial bias in NYPD subway fare evasion enforcement; the distribution of Village Fund grants in Indonesia; US police shootings; wage gaps by gender\/race; and student projects on topics of your choosing.\n\n",
     "instructor":null,
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -1554,7 +1692,7 @@
   {
     "course_code":"INAF U6617",
     "course_title":"Environmental, Social & Governance Inves",
-    "course_descr":null,
+    "course_descr":"ESG (Environmental, Social and Governance) investment addresses sustainability and ethical impact of investments. In this course, we cover the real reasons to introduce ESG investment and the emerging practices of ESG investment at private financial institutions and MDBs as navigators. Since the practice is still at the nascent stage, we will first learn from cases studies. We will identify the real reasons why each private financial institution started to apply ESG investment such as increasing their clients\/customers satisfaction to maintain current fee system or recruiting smart millenniums, the relationship between the application of ESG investment and its impact on financial returns, how they are applying it including analytical frameworks and their challenges. We will also discuss where the practices of ESG investment at private financial institutions is heading. Additionally, we will understand the roles of MDBs has been playing such as 1) clarifying strategy of each country and navigate private investors to right areas, 2) standardization of ESG including defining green bonds, E&S performance standards including monitoring and 3) offering some blended finance and discuss what are working and where they face challenges.\n",
     "instructor":"Keiko Honda",
     "scheduled_time_start":"11:00am",
     "scheduled_time_end":"12:50pm",
@@ -1620,7 +1758,7 @@
   {
     "course_code":"INAF U6690",
     "course_title":"Sustainable Finance I: Foundations of ES",
-    "course_descr":null,
+    "course_descr":"This course discusses how Environmental, Social, and Governance (ESG) information and objectives can be incorporated in investment portfolios. ESG objectives are important for investors representing trillions of dollars, and may affect their portfolios\u2019 risk and return. We will consider ways in which investors can articulate their financial and non-financial portfolio goals across a variety of asset classes, and the potential for ESG-minded asset owners to impact the issuers whose securities they invest in. The course will blend academic research with case studies from investment practice.\n\n",
     "instructor":"Lukasz Pomorski",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -1648,7 +1786,7 @@
   {
     "course_code":"INAF U6692",
     "course_title":"Sustainable Finance II: System-level Inv",
-    "course_descr":null,
+    "course_descr":"The social and environmental challenges of the 21st\u202fcentury are new, different, and fundamentally destabilizing. Many of these challenges are systemic in nature; they are complex, interconnected global issues with multiple contributing factors. They impact entire societies and economies and threaten the global financial system, corporate value, and long-term investment returns across all asset classes. To finance a more sustainable world, investing needs to take into account the interplay and interdependencies between investment and the most complex challenges facing our world. System-level investing sets out to do just that.\n \n Building on and going well beyond sustainable investing practices, system-level investing\u00a0recognizes both the potential of investments to impact social, financial, and environmental systems and the complexity of the times we live in.\u00a0Indeed, system-level investors intentionally set out to manage their impacts on the global systems and adopt investment strategies that seek to minimize systemic risks,\u00a0such as racial and gender injustice, income inequality, food and health systems fragility and climate change, as well as\u00a0promote opportunities for system-wide rewards.\n \n In this course, students will learn the fundamentals of system-level investing,\u00a0including:\u00a0what it means to manage system-level risks and rewards, why it is imperative to do so now, and how to integrate this new way of thinking into current investing practice.\n\n",
     "instructor":null,
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -1676,7 +1814,7 @@
   {
     "course_code":"INAF U6695",
     "course_title":"Climate Finance, Policy, and the Just Tr",
-    "course_descr":null,
+    "course_descr":"The field of responsible investment has grown rapidly over the last twenty years, with the climate crisis serving as the paradigmatic ESG issue for investors. In the private sector, investors pledge to decarbonize their portfolios, ask for carbon reporting to manage that task, join together to engage corporations on their transition plans. As activity has grown, questions about the effectiveness and limitations of climate finance approaches to the climate crisis have grown along with them. A narrow focus on decarbonization has begun to give way to broader considerations of the transition and the risks and opportunities it poses for affected workers and communities, on the belief that social cohesion is a precondition for successful transition.\n  \nPrivate sector initiatives have been complemented with public policy and public investment efforts to shape environmental, social, and economic outcomes. Climate finance is in a moment of reflection, change, and doubt.\n  \nThis course will survey and analyze the ways that public and private investment are being or could be directed in support of a Just Transition (i.e., a low-carbon transition that does not worsen social inequalities), and various ways to think about how effective climate finance can be. We will look at investors\u2019 approaches to the decarbonization of the economy in political and social context, asking: how do or should investors integrate concerns for workers, communities, and environment into climate finance? what kinds of public policies are needed to ensure that investment points towards a Just Transition?\u00a0The result, we hope, will lead both to a better understanding of the roles public and private investment in a\u00a0Just Transition, climate policy, and an expanded critical capacity to analyze how well it\u2019s working.\n\n",
     "instructor":"David C Wood",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -1704,7 +1842,7 @@
   {
     "course_code":"INAF U6705",
     "course_title":"Environmental, Social and Governance Rep",
-    "course_descr":null,
+    "course_descr":"The ESG Reporting course explores the ever\u2010evolving global Environmental, Social and Governance (\u201cESG\u201d \u2014 also referred to as Corporate Sustainability\/Responsibility) reporting environment and the standards and frameworks used by companies to report on ESG performance, or non\u2010Financial Reporting.\u00a0We will explore the market drivers that generate the demand for ESG reporting, key areas of focus for investors and other capital providers, regulatory activities and the intersection of ESG reporting with traditional corporate financial reporting.\u00a0This course will provide an understanding of the various frameworks for sustainability reporting and how reported ESG information can be used to inform investment decisions and direct corporate strategic and capital allocation choices.\u00a0We will cover the main reporting frameworks, including the Task Force for Climate\u2010Related Financial Disclosures (TCFD), the Global Reporting Initiative (GRI) and the ISSB, among others, as well as regulatory mandates that govern sustainability reporting. The course will focus on reporting used for investment and business strategy decisions as contrasted with public policy decisions.\n\n",
     "instructor":"Avner Bukspan",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -1808,7 +1946,7 @@
   {
     "course_code":"INAF U6742",
     "course_title":"Gender and International Security",
-    "course_descr":null,
+    "course_descr":"Gender has important implications for international security policy. Gender bias influences policy choices. It can lead to misunderstandings of military capability, especially for nonstate armed groups whose members include women combatants and supporters. It can aggravate the causes of war and lead to increased incidence of internal and interstate violence in settings where women are systematically mistreated or where sex imbalances create instability. And gender bias can discourage talented women from pursuing careers in security policy, denying states access to the talent and abilities in half their populations. The intersection between gender and international security has been codified internationally since at least 2000 with the passage of United Nations Security Council Resolution 1325 on Women, Peace and Security (WPS).\u00a0 Other international security organizations, including NATO, have created leadership positions and devised plans related to WPS. Finally, the United States passed the Women, Peace, and Security Act in 2017 and created associated policies focused on integrating gender into the work of the U.S. Department of State and the U.S. Department of Defense.\n  \nThe course will be a sustained exploration of the ways in which gender identities and associated identity power dynamics influence international conflict, internal conflict, and international security policy. Students will gain this knowledge through specific examples and case studies and will learn how to conduct their own gender analyses of situations and environments. During the semester, students will practice their gender analysis skills through research, writing, and presentations related to gender and security. The course will be a discussion-based seminar enabling students to work through ideas and concepts collaboratively.\n  \nTo begin the exploration of the topic, the class will work to craft definitions of international security and gender and discuss why these concepts can be challenging to define or understand. Subsequent classes will build upon these definitions and discuss how gender intersects with other identity factors. The course will focus on the ways in which security institutions themselves are gendered and how to create gender responsive policies. After examining the gender dynamics of security institutions, students will examine gendered strategies in conflict and in state responses to conflict dynamics.\n\n",
     "instructor":"Phoebe Donnelly",
     "scheduled_time_start":"9:00am",
     "scheduled_time_end":"10:50am",
@@ -1874,7 +2012,7 @@
   {
     "course_code":"INAF U6792",
     "course_title":"Foreign Policy Crisis Decision-Making",
-    "course_descr":null,
+    "course_descr":"When we talk about the successes and failures of U.S. foreign policy in managing international crises\u2014in the media, in classrooms, in everyday conversations\u2014we inevitably focus on the individuals making decisions in Washington. While the president, the secretary of state, and other top officials are routinely viewed as key shapers of U.S. actions abroad, we rarely take the time to think carefully and analytically about how these actors view the world, how they arrive at their decisions, and how various psychological factors such as identity, belief, and emotion shape the policies they devise to promote U.S. interests abroad.\n\n",
     "instructor":"Laura R Samotin",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -1902,7 +2040,7 @@
   {
     "course_code":"INAF U6832",
     "course_title":"International Intelligence Systems",
-    "course_descr":null,
+    "course_descr":"The collection and use of intelligence have been functions of the state for thousands of years and an essential element of the national security and foreign policy systems of the modern nation-state. However, it has long been apparent that different states conduct intelligence activities differently. What accounts for these differences? Until recently, the secrecy surrounding the activities, structure, and impact of the specialized organizations involved in the intelligence process has made them difficult to study on a comparative basis. Recent advances in the unclassified literature have now made the such study possible.\u00a0\u00a0 The comparative study of foreign intelligence systems provides important insights into the foreign policy priorities and goals of the states in question, relevant to the work of both the national security and wider foreign policy communities in the U.S. and elsewhere.\n  \nMoreover, the extent to which intelligence systems reflect the political culture of their host societies is also a subject of interest.\u00a0\u00a0 This course will begin with an introduction to intelligence systems as an academic subject.\u00a0\u00a0 It will continue with a comparative treatment of several Western and non-Western intelligence systems, including those of major international actors and small powers. For each intelligence system, we will examine the historical, institutional, and cultural factors that make it unique. Finally, the course will examine several functional intelligence challenges and compare how different states address these. Particular attention will be paid to the identification of pathologies that can have a negative impact on the role of intelligence organizations within a given state and the reform of intelligence systems to facilitate an appropriate role within a democratic or democratizing society.\n \n  \nIn addition to acquiring a strong factual grounding in the status and role of intelligence systems in a wide range of countries, students will become acquainted with salient questions in the field of intelligence studies through the application of comparative methodologies. Future practitioners will gain a grounding in the structure of intelligence organizations and steps of the intelligence cycle\u00a0as applied across countries with different political systems. This foundation will facilitate an informed understanding of the roles and impact of these intelligence systems in the national security process\/decision-making of these countries. This foundation",
     "instructor":"David Gutschmit",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -1930,7 +2068,7 @@
   {
     "course_code":"INAF U6861",
     "course_title":"Global Monetary Policy in the 21st Centu",
-    "course_descr":null,
+    "course_descr":"This SIPA seminar will study, analyze, and assess global monetary policy since 2000 with a primary focus on the challenges faced, policies pursued, and repercussions flowing from the actions taken by Federal Reserve, the ECB, and the Bank of England during the first two decades of the 21st century. These twenty plus years have been marked by the two deepest global downturns since the Great Depression, a Eurozone sovereign debt crisis, a global pandemic, and recently, the largest sustained surge in inflation since the 1970s. Confronting these challenges subject to the constraint of an effective lower bound on interest rates , major central banks introduced a number of unconventional \u2013 and controversial \u2013 policy tools and expanded substantially their presence in financial markets and in their economies.\n  \nThe format of the course will combine lectures by the instructor with student presentation on recent central bank policy decisions and will conclude in the final weeks within class seminar presentations by teams of students of term papers that critically assesses the pandemic policy reponse and the post pandemic policy normalization plans pursued by a major central bank.\n\n",
     "instructor":"Richard H Clarida",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -1958,7 +2096,7 @@
   {
     "course_code":"INAF U6862",
     "course_title":"Unconventional Monetary Policy",
-    "course_descr":null,
+    "course_descr":"Prerequisites: SIPA U6401 Corequisites: INAF U6018 & INAF U6022 The course begins with a review of central banks monetary policy goals and objectives, followed by an overview of how central banks set and implement monetary policy in normal economic and financial market conditions. The bulk of the course will focus on how central banks adapt their policy rules and tools in the face of extraordinary financial market or economic turmoil. Different types of unconventional tools will be discussed and analyzed, with particular focus on the design and the effectiveness of various unconventional policy tools. Examples of the use unconventional policy tools - both more and less successful - across jurisdictions will be discussed in the latter half of the course. The course finishes with discussions of several important, and timely dilemmas: where is the ;line; between unconventional monetary policies and traditional fiscal policy actions; what difficulties do central banks face in handling economic side effects and the political consequences of extraordinary policy, and what are the challenges of returning monetary policy to (a new) normal.\n\n",
     "instructor":"Patricia C Mosser",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -1977,7 +2115,13 @@
     ],
     "points":"3",
     "prerequisites":[
-
+      [
+        "INAF U6022"
+      ],
+      [
+        "SIPA U6401",
+        "INAF U6018"
+      ]
     ],
     "scheduled_days":"M",
     "section_key":"20241INAF6862U001",
@@ -1986,7 +2130,7 @@
   {
     "course_code":"INAF U6886",
     "course_title":"Social Impact: Business, Society, and th",
-    "course_descr":null,
+    "course_descr":"The Social Impact: Business, Society, and the Natural Environment course explores the relationship between corporations, society, and the natural environment. Specifically, it examines the ways in which governments, (for-profit and non-profit) organizations, and investors (fail to) have positive impact and manage issues where the pursuit of private goals is deemed inconsistent with the public interest.\n\n",
     "instructor":"Caroline Flammer",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -2080,7 +2224,7 @@
   {
     "course_code":"INAF U6950",
     "course_title":"English for International and Public Aff",
-    "course_descr":null,
+    "course_descr":"The overall goal of this course is to improve the writing skills of international students in the MIA and MPA degree programs. The course requirements will include weekly short exercises (definitions of key terms and abstract concepts, summaries of statistical data, summaries and critiques of seminal concepts and theories, and descriptions of processes and procedures) and longer assignments (an argumentative essay, case study and short research paper). Students will also learn to revise and edit their work as well as to integrate sophisticated rhetorical and syntactic structures. To improve the accuracy and clarity of their writing, the course will review the aspects of grammar that pose particular problems for international students.\n\n",
     "instructor":null,
     "scheduled_time_start":"11:00am",
     "scheduled_time_end":"12:50pm",
@@ -2146,7 +2290,7 @@
   {
     "course_code":"INAF U8142",
     "course_title":"Intelligence & US Foreign Policy",
-    "course_descr":null,
+    "course_descr":"The major national security controversies during the last decade have all concerned intelligence. Critics blamed U.S. intelligence agencies for failing to prevent the 9\/11 attacks, and then for missing the mark on Iraqi capabilities before the war. In response, Congress ordered a sweeping reorganization of the intelligence community, and scholars began to revisit basic questions: What is the relationship between intelligence and national security? How does it influence foreign policy and strategic decisions? Why does it succeed or fail? This seminar provides an overview of the theory and practice of U.S. intelligence. It details the sources and methods used by collectors, the nature of intelligence analysis, and the relationship between intelligence agencies and policymakers. It also contains a short history of the U.S. intelligence community and evaluates the ongoing efforts to reform it. Finally, it discusses the uneasy role of secret intelligence in a modern democracy.\n\n",
     "instructor":"Peter Clement",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -2324,7 +2468,7 @@
   {
     "course_code":"INAF U8201",
     "course_title":"Public Education: New Strategies for a N",
-    "course_descr":null,
+    "course_descr":"In this course we will explore distinct challenges along with precise remedies\u00a0inherent in policy setting and implementation of 21st century public Pre-K -12 and higher education. This course has been designed to be responsive to issues arising in this COVID era as well as within the framework of newfound acknowledgements of the role of race and poverty in every aspect of learning and education policy. These issues will be probed through a solutions-based, case-study approach. Relying upon guest speakers, class discussion and readings, we will examine a specific individual, systemic or organization-based solution to a clearly articulated gap or need.\n\n",
     "instructor":"Lisa Belzberg",
     "scheduled_time_start":"9:00am",
     "scheduled_time_end":"10:50am",
@@ -2350,9 +2494,37 @@
     "type":"SEMINAR"
   },
   {
+    "course_code":"INAF U8354",
+    "course_title":"Micro, Small, and Medium Enterprise (MSM",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"1:30pm",
+    "scheduled_time_end":"4:20pm",
+    "call_number":"10271",
+    "campus":"Morningside",
+    "class_id":"U8354-20241-001",
+    "course_subtitle":"Micro,Small,Med Enterprise Dev",
+    "department":"International and Public Affairs",
+    "department_code":"INAF",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/INAF\/U8354-20241-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"F",
+    "section_key":"20241INAF8354U001",
+    "type":"SEMINAR"
+  },
+  {
     "course_code":"INAF U8685",
     "course_title":"Asian Financial Markets",
-    "course_descr":null,
+    "course_descr":"Prerequisites: SIPA U6401 This course will give an overview of history, function, and future prospects of the financial markets in Asian countries (mainly ASEAN-10, Japan, Korea, China, and India). How financial supervision and regulation should be formed will be examined too. The financial crisis, as well as financial development, will be covered as an instrumental event for reforms. The stages of financial and economic development will be explained and Asian countries will be placed on the development stages. Economic and financial policies will be examined from efficiency point of view.\n\n",
     "instructor":"Takatoshi Ito",
     "scheduled_time_start":"9:00am",
     "scheduled_time_end":"10:50am",
@@ -2371,7 +2543,9 @@
     ],
     "points":"3",
     "prerequisites":[
-
+      [
+        "SIPA U6401"
+      ]
     ],
     "scheduled_days":"T",
     "section_key":"20241INAF8685U001",
@@ -2380,7 +2554,7 @@
   {
     "course_code":"INAF U8686",
     "course_title":"Japanese Financial Policy & Economy",
-    "course_descr":null,
+    "course_descr":"Prerequisites: SIPA U6401 The objective of this course provides students with deep knowledge on developments of financial policy in Japan and interactions between financial markets and economic development. Financial policy extends from regulation and supervision of the banking sector, to capital markets and international capital flows as well as monetary policy and exchange rate policy. Policy lessons are derived from analyses of the past banking problems and crises. An impact of switching from the fixed exchange rate regime to floating exchange rate regime and subsequent attempts to manage the exchange rate movements will be reviewed with event analyses and case studies. Economic growth rate of Japan was high in the 1950s and 1960s and later declined; how financial market developments contributed to economic growth; how quickly its markets were opened to international trade and finance; why the Japanese economy has suffered stagnation and deflation due to a burst of a financial bubble in the 1990s and 2000s; and what kinds of policy reforms, known as Abenomics, have been implemented since 2013. The description and explanation are based on intermediate microeconomic and macroeconomic analyses and empirical evidences. The role of economic policies\u2014monetary policy, fiscal policy, financial supervision and regulation, industrial policy\u2014will be carefully examined.\n\n",
     "instructor":"Takatoshi Ito",
     "scheduled_time_start":"9:00am",
     "scheduled_time_end":"10:50am",
@@ -2399,16 +2573,46 @@
     ],
     "points":"3",
     "prerequisites":[
-
+      [
+        "SIPA U6401"
+      ]
     ],
     "scheduled_days":"W",
     "section_key":"20241INAF8686U001",
     "type":"SEMINAR"
   },
   {
+    "course_code":"INAF U8785",
+    "course_title":"Gender, Politics and Development: Theory",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"10272",
+    "campus":"Morningside",
+    "class_id":"U8785-20241-001",
+    "course_subtitle":"Gender, Politics & Development",
+    "department":"International and Public Affairs",
+    "department_code":"INAF",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/INAF\/U8785-20241-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20241INAF8785U001",
+    "type":"SEMINAR"
+  },
+  {
     "course_code":"INAF U8908",
     "course_title":"Sustainable Investing Research Consultin",
-    "course_descr":null,
+    "course_descr":"The Sustainable Investing Research Consulting Project course aims to foster the next generation of systems-thinkers in sustainable investing. Through engaging in a live sustainable investing research consulting project with a global client, students will gain first-hand experience in the sustainable investing field. The course provides an action-based learning experience to students interested in sustainable investing, covering both sustainable investing in the financial sector (impact investing and sustainable finance) and the real economy (fo profit and non-profit organizations). For example, students will learn about the opportunities, challenges, and limitations faced by sustainable and impact investors to finance a more sustainable world. Moreover, they will learn how (for-profit and non-profit) organizations develop innovative products and services that help mitigate grand challenges\u2015such as climate change, biodiversity loss, social inequality, poverty, etc.\u2015and enable them to grow their business and sustain their competitive advantage over time.\u00a0Throughout the semester, students will work on a live sustainable investing research consulting project for a client from across the world. They will (e-)meet with the client on a regular basis, discuss their progress, obtain feedback, and present their recommendation to the client. Furthermore, students will conduct research and interviews to learn about the broader business environment and institutional context (including cultural, political, economic, and social factors, etc.) to better understand the opportunities and challenges the clients face. This course is ideal for students interested in pursuing careers in sustainable finance, impact investing, ESG, corporate sustainability, social entrepreneurship, and sustainable development.\n\n",
     "instructor":"Caroline Flammer",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -8437,7 +8641,7 @@
   {
     "course_code":"PUAF U6226",
     "course_title":"History for Future Policymakers",
-    "course_descr":null,
+    "course_descr":"Leaders often invoke the lessons of history, but rarely talk about anything but a few familiar episodes. Even if we can all agree that we should avoid another attack on Pearl Harbor or war in Vietnam, does this actually help us make decisions about the future? In this course, students will explore both the problems and the opportunities with using historical analysis to grapple with present and future challenges. They will develop a deeper understanding of the most often cited historical episodes, but also learn how to avoid using analogies in the place of more original thinking. That means thinking like a historian, and the course will introduce key concepts that can be used to analyze a range of complex challenges, including continuity and change, contingency and inevitability, human agency and structural constraints. But they will also learn how NOT to think like a historian, such as using history as a weapon, and extrapolating into the future.\n\n",
     "instructor":"Sarah C Kovner",
     "scheduled_time_start":"11:00am",
     "scheduled_time_end":"12:50pm",
@@ -8465,7 +8669,7 @@
   {
     "course_code":"PUAF U6228",
     "course_title":"Comparative Social Welfare Policy",
-    "course_descr":null,
+    "course_descr":"This core course explores welfare systems from a comparative perspective and analyzes the political, economic, socio-cultural, and historical factors that shape and sustain them in advanced industrialized countries. It pays particular attention to the development of key national social welfare policies, such as social security, health care, unemployment insurance, social assistance, childcare, tax expenditure, and public employment and training, and emerging best practice in these areas. The course also identifies pressing global\/regional trends (e.g. greying of societies, labor market stratification, and persistent gender inequality) and compares how developed and developing countries address them through policy.\n",
     "instructor":"Yumiko T Shimabukuro",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -8493,7 +8697,7 @@
   {
     "course_code":"PUAF U6312",
     "course_title":"Campaign Management",
-    "course_descr":null,
+    "course_descr":"Together we are going to learn how to plan, manage, and execute the major elements of a modern American campaign using skills that can be applied to all levels of the electoral process. What are the\u00a0elements of a modern political campaign? How are those pieces executed? How do we get the people elected (or un-elected) which impacts Public Policy for decades? If you are interested in political\u00a0campaigns, this is your chance to learn directly from top experts in the field about the various tools and strategies used in all aspects of American politics and campaigns today.\n \u00a0\n Although this is a course focusing on practical competence, empirical political theory and relevant political science will be applied to our work. Guest lecturers, simulations, and additional materials such as\u00a0videos and handouts will augment the course. When we are done, you will know what you need to do, and where you need to turn, in order to effectively organize an election campaign. The curriculum is\u00a0ambitious, specialized, and task-specific. This is not a course in political science, but rather a hands-on, intensive training seminar in campaign skills. By May, you will be able to write a campaign plan, structure\u00a0a fundraising effort, hire and work with consultants, plan a media campaign (both paid and unpaid), research and target a district, structure individual voter contact, use polling data, understand the utility of focus\u00a0groups, write press releases, conduct advance work on behalf of your candidate, manage crises, hire and fire your staff, and tell your candidate when he or she is wrong. Our aim is to make you competent and\u00a0eminently employable in the modern era of advanced campaign technology. For the purposes of this class, you will design a campaign plan for a political race. To make this more interesting (and realistic), you\u00a0will be provided with information and situations throughout the semester that will require you to plan, anticipate, and adapt your campaign plan to the changing realities inherent to every campaign.\n \u00a0\n The course will be co-taught by Jefrey Pollock, the Founding Partner and President of Global Strategy Group, a premier strategic research and communications firm, who has advised numerous local and\u00a0national political candidates and organizations; as well as, Camille Rivera, Partner at New Deal Strategies, an experienced policy and political legislative director with a demonstrated history of working in the\u00a0non-profit organization managem",
     "instructor":null,
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -8521,7 +8725,7 @@
   {
     "course_code":"PUAF U6325",
     "course_title":"Critical Issues in Urban Public Policy",
-    "course_descr":null,
+    "course_descr":"This course is designed to prepare future policymakers to critically analyze and evaluate key urban policy issues in US cities. It is unique in offering exposure to both practical leadership experience and urban affairs scholarship that will equip students to meet the challenges that face urban areas. Students will read academic articles and chapters from books dealing with urban politics and policy, and will hear from an exciting array of guest lecturers from the governmental, not-for-profit, and private sectors. Drawing from his experiences as former Mayor of Philadelphia, Mayor Michael Nutter will lay out the basic elements of urban government and policymaking, emphasizing the most important demographic, economic, and political trends facing urban areas.\n\n",
     "instructor":"Michael A Nutter",
     "scheduled_time_start":"11:00am",
     "scheduled_time_end":"12:50pm",
@@ -8549,7 +8753,7 @@
   {
     "course_code":"PUAF U6411",
     "course_title":"Universal Food Security",
-    "course_descr":null,
+    "course_descr":"This course addresses the challenges and opportunities for achieving a productive, profitable, inclusive, healthy, sustainable, resilient, and ethical global food system. Our first class will provide a brief historical perspective of the global food system, highlighting relevant developments over the past 10,000 years and will explain key concepts, critical challenges, and opportunities ahead. For the ensuing few weeks, we will cover the core biophysical requirements for food production: soil and land, water and climate, and genetic resources. We include an introduction to human nutrition \u2013\u00a0\nNutrition Week\n\u00a0\u2013 that focuses on dietary change and food-based solutions to malnutrition. Building on this, the course will survey a selection of important food systems and trends across Asia, Africa, and Latin America that provide food security and livelihoods for more than half of the world\u2019s population. Case studies and classroom debates throughout the course will explore the roles of science, technology, policies, politics, institutions, business, finance, aid, trade, and human behavior in advancing sustainable agriculture, and achieving food and nutritional security. We will probe the interactions of food systems with global issues including poverty and inequality, the persistence of chronic hunger and malnutrition, climate change, environmental degradation, international food business and value chains, biotechnology (GMOs), post-harvest losses, and food waste. With a sharp eye for credible evidence, we will confront controversies, reflect on historical trends, identify common myths, and surface little-known but important truths about agriculture and food systems. In our final sessions, we address the ultimate question: can we feed and nourish the world without wrecking it for future generations?\n\n",
     "instructor":"Glenn Denning",
     "scheduled_time_start":"9:00am",
     "scheduled_time_end":"10:50am",
@@ -8577,7 +8781,7 @@
   {
     "course_code":"PUAF U6411",
     "course_title":"Universal Food Security",
-    "course_descr":null,
+    "course_descr":"This course addresses the challenges and opportunities for achieving a productive, profitable, inclusive, healthy, sustainable, resilient, and ethical global food system. Our first class will provide a brief historical perspective of the global food system, highlighting relevant developments over the past 10,000 years and will explain key concepts, critical challenges, and opportunities ahead. For the ensuing few weeks, we will cover the core biophysical requirements for food production: soil and land, water and climate, and genetic resources. We include an introduction to human nutrition \u2013\u00a0\nNutrition Week\n\u00a0\u2013 that focuses on dietary change and food-based solutions to malnutrition. Building on this, the course will survey a selection of important food systems and trends across Asia, Africa, and Latin America that provide food security and livelihoods for more than half of the world\u2019s population. Case studies and classroom debates throughout the course will explore the roles of science, technology, policies, politics, institutions, business, finance, aid, trade, and human behavior in advancing sustainable agriculture, and achieving food and nutritional security. We will probe the interactions of food systems with global issues including poverty and inequality, the persistence of chronic hunger and malnutrition, climate change, environmental degradation, international food business and value chains, biotechnology (GMOs), post-harvest losses, and food waste. With a sharp eye for credible evidence, we will confront controversies, reflect on historical trends, identify common myths, and surface little-known but important truths about agriculture and food systems. In our final sessions, we address the ultimate question: can we feed and nourish the world without wrecking it for future generations?\n\n",
     "instructor":null,
     "scheduled_time_start":"9:00am",
     "scheduled_time_end":"10:50am",
@@ -8661,7 +8865,7 @@
   {
     "course_code":"PUAF U8250",
     "course_title":"Governing the 21st Century City",
-    "course_descr":null,
+    "course_descr":"This course will examine the linkages between urban governance structures and an economically successful democratic city. We will consider the particular policy challenges that confront both developed and developing cities in the 21st century. It will be important to understand the institutional political causes of urban economic decline, the unique fiscal and legal constraints on city governments as well as the opportunities that only cities offer for democratic participation and sustainable economic growth. The course will draw on case material from primarily American cities and from other developing and developed cities around the globe. It is important to keep in mind that creative policy solutions to the problems of urban economic sustainability may be found in small towns, in rural areas, in private businesses or in other global cities. The utility of importing ideas and programs rests on a practical understanding of politics in that city or community and an effective implementation strategy. Our objective in this course is not simply to understand the challenges to governing the 21st century city but also the policies that promote effective urban governance and economic sustainability.\n\n",
     "instructor":"Ester Fuchs",
     "scheduled_time_start":"11:00am",
     "scheduled_time_end":"12:50pm",
@@ -8689,7 +8893,7 @@
   {
     "course_code":"PUAF U8351",
     "course_title":"Race, Gender and Political Change",
-    "course_descr":null,
+    "course_descr":"This course will examine the impact that the current social and racial justice awakening (or reckoning), at the intersection of race and gender, is having on the US politics and policy. We will look at this along several dimensions, including politics, voting rights and voter suppression, governing and philanthropy. Ultimately, political change is the natural consequence of social and economic disruption, but will the change that is to come be of the kind that activists in movements such as the Me Too movement, Black Lives Matter, and gender equity leaders have envisioned? If the US has yet to fulfill the promise of a truly representative government, what solutions might there be to address systemic barriers to power its citizens face on the basis of race and gender? There is an opportunity to influence the broader national conversation with the very best ideas and work to implement them, but this unique moment in history and the opportunity that comes with it will not last forever.\u00a0 Our goal will be to critically examine and explain these systemic barriers to political power found along racial and gender lines. We will look at the causes and consequences of racial, economic and social inequality, and how that plays out in different systems, policies and spaces. In addition to readings, students will benefit from the practical knowledge of guest lecturers drawn from the political sphere. This course will help prepare policy makers and elected officials in their efforts to create an equitable government for all citizens regardless of race or gender.\n\n",
     "instructor":"Jeri E Powell",
     "scheduled_time_start":"11:00am",
     "scheduled_time_end":"12:50pm",
@@ -8715,9 +8919,37 @@
     "type":"SEMINAR"
   },
   {
+    "course_code":"PUAF U8359",
+    "course_title":"Debate over US Racial Reparations",
+    "course_descr":null,
+    "instructor":"Linda Mann",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"6:00pm",
+    "call_number":"10345",
+    "campus":"Morningside",
+    "class_id":"U8359-20241-001",
+    "course_subtitle":"Debate-US Racial Reparatn",
+    "department":"International and Public Affairs",
+    "department_code":"PUAF",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/PUAF\/U8359-20241-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20241PUAF8359U001",
+    "type":"SEMINAR"
+  },
+  {
     "course_code":"PUAF U8362",
     "course_title":"Democracy, Movements & Public Policy in",
-    "course_descr":null,
+    "course_descr":"This course will explore the relationship between representative and direct democracy, movement strategy and public policy development in the United States.\u00a0The course will begin by defining movements and their relationship to power and democratic institutions. This course will examine three movements (1) civil rights, (2) Black Lives Matter\/policing reform, and (3) disability rights and the relationship between policy development and governance. We will then examine limitations and opportunities for movement and protest strategies overall. The final two classes will focus on the principles of protest and governance and visioning. Student presentation will consider 21st century strategies for mobilizing popular movements and future opportunities for local and national governance change. And the final course will address scenario planning for the near future.\n\n",
     "instructor":"Keesha Gaskins-Nathan",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -8745,7 +8977,7 @@
   {
     "course_code":"PUAF U8516",
     "course_title":"Time Series Analysis",
-    "course_descr":null,
+    "course_descr":"Prerequisites: SIPA U6500 This course will introduce students to the basic concepts of Time Series Analysis (in the Time Domain) thereby allowing them to develop an appreciation for the range of available methods, their strengths and limitations, and their use in a research context. After completing the course, students will be able to examine critically the use of these methods in the technical literature and be capable of selecting, using and interpreting appropriate statistical methods for describing and analyzing time series data sets, in the context of their own work.\n",
     "instructor":"Flavio C Bartmann",
     "scheduled_time_start":"9:00am",
     "scheduled_time_end":"10:50am",
@@ -8764,7 +8996,9 @@
     ],
     "points":"3",
     "prerequisites":[
-
+      [
+        "SIPA U6500"
+      ]
     ],
     "scheduled_days":"W",
     "section_key":"20241PUAF8516U001",
@@ -8773,7 +9007,7 @@
   {
     "course_code":"PUAF U8516",
     "course_title":"Time Series Analysis",
-    "course_descr":null,
+    "course_descr":"Prerequisites: SIPA U6500 This course will introduce students to the basic concepts of Time Series Analysis (in the Time Domain) thereby allowing them to develop an appreciation for the range of available methods, their strengths and limitations, and their use in a research context. After completing the course, students will be able to examine critically the use of these methods in the technical literature and be capable of selecting, using and interpreting appropriate statistical methods for describing and analyzing time series data sets, in the context of their own work.\n",
     "instructor":null,
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -8792,7 +9026,9 @@
     ],
     "points":"0",
     "prerequisites":[
-
+      [
+        "SIPA U6500"
+      ]
     ],
     "scheduled_days":"R",
     "section_key":"20241PUAF8516UR01",
@@ -8801,7 +9037,7 @@
   {
     "course_code":"PUAF U9015",
     "course_title":"MPA-DP: Field Study",
-    "course_descr":null,
+    "course_descr":"Students are required to register a total of 3-points.\n  \nStarting with the Class of 2023, students have six registration options for \u201cField Study for MPA-DP\u201d (PUAF U9015), with some restrictions for international students seeking CPT:\u00a0\n  \n  \n3 units in the Spring 2023 semester*\u00a0\n  \n1.5 units in the Spring 2023 semester and 1.5 units in the Fall 2023 semester*\u00a0\n  \n3 units in the Fall 2023 semester \u00a0\n  \n3 units in the Spring 2024 semester \u00a0\n  \n1.5 units in the Fall 2023 semester and 1.5 units in the Spring 2024 semester\u00a0\n  \n1.5 units in the Spring 2023 semester and 1.5 units in the Spring 2024 semester\n \n  \n*For international students on F-1 visa who conduct their summer placement in the United States and secure CPT, the \nONLY \navailable options for registration are noted with an asterisk, to ensure compliance with CPT policies and regulations. (All six\u00a0registration\u00a0options for U9015 are available to J-1 students using AT).\u00a0\n\n",
     "instructor":"Glenn Denning",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -8820,7 +9056,10 @@
     ],
     "points":"1.5",
     "prerequisites":[
-
+      [
+        "PUAF U9015",
+        "U9015"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20241PUAF9015U001",
@@ -8829,7 +9068,7 @@
   {
     "course_code":"PUAF U9015",
     "course_title":"MPA-DP: Field Study",
-    "course_descr":null,
+    "course_descr":"Students are required to register a total of 3-points.\n  \nStarting with the Class of 2023, students have six registration options for \u201cField Study for MPA-DP\u201d (PUAF U9015), with some restrictions for international students seeking CPT:\u00a0\n  \n  \n3 units in the Spring 2023 semester*\u00a0\n  \n1.5 units in the Spring 2023 semester and 1.5 units in the Fall 2023 semester*\u00a0\n  \n3 units in the Fall 2023 semester \u00a0\n  \n3 units in the Spring 2024 semester \u00a0\n  \n1.5 units in the Fall 2023 semester and 1.5 units in the Spring 2024 semester\u00a0\n  \n1.5 units in the Spring 2023 semester and 1.5 units in the Spring 2024 semester\n \n  \n*For international students on F-1 visa who conduct their summer placement in the United States and secure CPT, the \nONLY \navailable options for registration are noted with an asterisk, to ensure compliance with CPT policies and regulations. (All six\u00a0registration\u00a0options for U9015 are available to J-1 students using AT).\u00a0\n\n",
     "instructor":"Glenn Denning",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -8848,7 +9087,10 @@
     ],
     "points":"3",
     "prerequisites":[
-
+      [
+        "PUAF U9015",
+        "U9015"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20241PUAF9015U002",
@@ -8857,7 +9099,7 @@
   {
     "course_code":"REGN U6149",
     "course_title":"Energy, Corporate Responsibility & Human",
-    "course_descr":null,
+    "course_descr":"This class examines how to reconcile the differing\/conflicting interests\/goals of energy, and mining, companies and the public interest (e.g. governments); how to negotiate PPP agreements; understand the function\/impact of laws and international trade agreements; and determine how CSR, especially environment and anti-corruption, and human rights apply. Case studies of multi-billion international energy pipeline projects, including TAP in Albania and Greece, TAPI in Turkmenistan, Afghanistan, Pakistan and India, BTC in Georgian and the Caucasus and , for comparative purposes, the controversial Keystone in US and Canada, will be the prism\/focus for analysis. The class is dynamic and cross-disciplinary.\u00a0\n\n",
     "instructor":"Jenik Radon",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:25pm",
@@ -8883,7 +9125,7 @@
   {
     "course_code":"REGN U6300",
     "course_title":"Economics of European Integration",
-    "course_descr":null,
+    "course_descr":"A policy-oriented but theory-based course on the current state of economic integration in the European Union.\u00a0\u00a0Topics include: macroeconomic policy responses to the Covid-19 crisis; the impact of Brexit; design failures of the Eurozone and steps to completing the Banking Union and Monetary Union; monetary policy of the ECB; fiscal policies and fiscal rules; EU labor markets; the Common Agricultural Policy and environmental policy; tax and competition policy for high tech firms in a digital economy; EU trade policy particularly relations with the U.S. and with China.\n\n",
     "instructor":"Seamus C O'Cleireacain",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -8909,7 +9151,7 @@
   {
     "course_code":"REGN U6315",
     "course_title":"Politics in the European Union",
-    "course_descr":null,
+    "course_descr":"This course offers an overview of recent and contemporary politics in the European Union. On the basis of the assumption that the latter is inextricably determined by both supra-national and infra-national dynamics, it examines the European Union as a whole, as well as the politics of certain key member states. Classes are based on readings from foundational texts in the recent comparative politics and history literature on the European Union and its member states. They will involve initial lectures by the instructor and leave ample time for seminar-style discussion. In addition, students will be required to participate in a number of structured class debates, which will form an integral part of the pedagogy, and serve as one of the bases for individual evaluation. Throughout the duration of the course, students will also be working on a final research paper, whose topic will be determined individually with the instructor.\n\n",
     "instructor":"Carlo E Invernizzi Accetti",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -8935,7 +9177,7 @@
   {
     "course_code":"REGN U6538",
     "course_title":"Global Reliance on Russian Energy",
-    "course_descr":null,
+    "course_descr":"Russian unprovoked war in Ukraine dramatically changed the world energy landscape and created one of the primary energy crises in the world.\u00a0Russian Federation is the world's largest energy exporter of fossil fuels. However, shocked by the war, the West imposed sanctions on the Russian energy sector. The course will discuss a significant energy geopolitical shift happening worldwide because of the war. We\u00a0will focus on how the EU navigates this crisis and how Russia tries to escape sanctions. What new energy alliances appear, and what disappear because of this war?\u00a0\n\n",
     "instructor":"Natasha Udensiva",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -8961,7 +9203,7 @@
   {
     "course_code":"REGN U6562",
     "course_title":"Politics of the Caucasus",
-    "course_descr":null,
+    "course_descr":"This course tracks the trajectories of politics in the Caucasus, focusing on the political development of the independent states of the South Caucasus: Armenia, Azerbaijan, and Georgia. While the focus is on contemporary political dynamics, the course considers the mechanisms through which the legacies of Imperial Russian expansion and Soviet structures interact with current mechanisms of interest articulation and power. Students in this course will examine the contours and mechanisms of the collapse of Soviet hegemony in the South Caucasus, spending some time examining the conflicts that accompanied this process and persist today. The course will address the country contexts both individually and comparatively, thereby encouraging students to delve deeply into the politics of each state, but then also enabling them to find continuities and contrasts across major thematic considerations.\n\n",
     "instructor":"Julie George",
     "scheduled_time_start":"11:00am",
     "scheduled_time_end":"12:50pm",
@@ -8987,7 +9229,7 @@
   {
     "course_code":"REGN U8588",
     "course_title":"Modern Iran: From Monarchy to Islamic Re",
-    "course_descr":null,
+    "course_descr":"An introduction to the culture, politics and international relations of Iran which will explore the countrys transition from the 19th to the 21st century. Topics include continuity and change in traditional social structure, the conflict between clergy and state and the modernization of Iran under the Pahlavi shahs (1925-79). The role of women will be explored. The roots of the Iranian revolution will be examined, and an assessment made of the present Islamic Republic. The role of Iran in international affairs, including the course of U.S.-Iranian relations, will also be considered. Sources will be multidisciplinary and include historical works, literature and films.\n\n",
     "instructor":"Lawrence G Potter",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -9013,7 +9255,7 @@
   {
     "course_code":"REGN U8755",
     "course_title":"Ukraine: Power Politics & Diplomacy",
-    "course_descr":null,
+    "course_descr":"The seminar like course consists of three parts: Historical Background, Thematic and Political Issues and Conclusions. It provides historical perspectives on the development of today\u2019s Ukraine, analyses the evolution of its politics since Independence and its quest for Euroatlantic integration. While providing an assessment of political, social and economic transformations, the course examines major causes of Euromaidan and the Revolution of Dignity The current political situation in the country and an ongoing military conflict are thoroughly investigated. The results of the 2019 Presidential and Parliamentary election and it's impact will also be analyzed in detail.\u00a0What are the chances by the new Government to reach a \"peaceful solution\" in the Donbass, eradicate corruption, improve economic situation and implement \u00a0reforms ? Is there a future for the Minsk accords? What's the significance of the Normandy Summit?\u00a0These and other issues, including behind-the scenes activities, power struggle and diplomatic activities, are dealt with in the newly revised course delivered by a career diplomat. The format of the course will encourage active dialogue and analytical reflection on the part of the students. The professor regularly provides additional articles and analytical reviews on current political situation to be discussed at each session. During the course each student is to prepare a mid-term and final papers exploring the prospects of Ukraine becoming a free, prosperous, democratic state and a member of European institutions or staying in the zone of Russian influence and the consequences thereoff.\n\n",
     "instructor":"Valerii Kuchynskyi",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -9039,7 +9281,7 @@
   {
     "course_code":"SDEV U9201",
     "course_title":"Sustainable Development Seminar II",
-    "course_descr":null,
+    "course_descr":"This course is restricted to PhD in Sustainable Development\n\n",
     "instructor":null,
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -9067,7 +9309,7 @@
   {
     "course_code":"SDEV U9201",
     "course_title":"Sustainable Development Seminar II",
-    "course_descr":null,
+    "course_descr":"This course is restricted to PhD in Sustainable Development\n\n",
     "instructor":null,
     "scheduled_time_start":"10:00am",
     "scheduled_time_end":"11:30am",
@@ -9095,7 +9337,7 @@
   {
     "course_code":"SDEV U9240",
     "course_title":"Human Ecology & Sustainable Development",
-    "course_descr":null,
+    "course_descr":"This course has two primary objectives: first, to provide a structured way to think about\u2014and conduct research in\u2014the field of sustainable development. Second, to introduce formal models of dynamic, coupled human and environmental systems.\n\n",
     "instructor":"Jeffrey G Jr Shrader",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -9123,7 +9365,7 @@
   {
     "course_code":"SDEV U9248",
     "course_title":"Collective Action for Global Sustainable",
-    "course_descr":null,
+    "course_descr":"When externalities go uncorrected, and public goods go undersupplied, the reason is not that the market fails; the reason is that governments are unable or unwilling to intervene effectively. The biggest problem is with transnational externalities and regional and global public goods. This is partly because of the scale of these problems, but it is also because the institutional arrangements at this level make effective intervention difficult. There is no World Government. Instead, there are around 200 sovereign states. To support sustainable development globally, states must cooperate, and yet states' self-interests often conflict with their collective interests. This is why all countries agree that collective action must be taken to limit climate change, and yet, though they try and try again, countries seem unable to muster the individual action needed to meet their own collective goal. The aim of this course is to develop an apparatus for understanding international collective action for sustainable development. By an apparatus, I mean a theory, a structured way of looking at and understanding the world. Rather than just present the theory, my aim is to show you why theory is needed, how it has been constructed, and what its strengths and weaknesses are. Basically, in addition to teaching you principles and tools, I want you to come to see how this field has developed, what it has achieved, and where it has fallen short. Throughout the course, we shall also be looking at tests and applications of the theory-empirical and experimental papers in addition to case studies. The course draws from a number of disciplines, especially economics, game theory (analytical and experimental), and international relations-but also international law, philosophy, history, the natural and physical sciences, and engineering. The focus will be on institutions, and the way that they restructure the relations among states to cause states to behave differently-that is, to cause them to undertake collective action. In terms of applications, the course will address not only climate change but also depletion of the ozone layer, trans-boundary air pollution, pollution of the oceans, over-fishing, biodiversity loss, and the emergence and spread of infectious diseases.\n\n",
     "instructor":"Scott Barrett",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -9151,7 +9393,7 @@
   {
     "course_code":"SDEV U9280",
     "course_title":"Causal Inference Workshop",
-    "course_descr":null,
+    "course_descr":"This 14-week workshop designed for the students in the PhD program in Sustainable Development covers the fundamental theory and techniques of causal inference. \u00a0Specifically tailored to \u00a0students trained \u00a0in econometrics and positioned to conduct interdisciplinary research, it systematically ties back the econometrics approaches covered to the underlying statistical framework and provides the students with \u00a0the tools to conduct rigorous empirical analyses, and share and defend their approach in front of both economics and non-economics audiences. Lower-year students \u00a0learn the fundamental methods for observational studies, upper-year students discuss how they employ them in their own current research. Participants are presented with the most common methods in the field, their limitations, and best practices, and introduced to underused statistical methods for causal inference.\n  \n\u00a0\n\n",
     "instructor":"Suresh Naidu",
     "scheduled_time_start":"9:00am",
     "scheduled_time_end":"10:50am",
