@@ -16917,7 +16917,7 @@
   {
     "course_code":"ENGI E4201",
     "course_title":"Global Engineering Fieldwork",
-    "course_descr":null,
+    "course_descr":"Global Engineering Fieldwork E4201\n  \n1 credit\u00a0\u00a00 tuition\n  \nPrerequisites: Students must be enrolled in the Global Engineering Track (GET) specialization. Instructor's written approval. Final reports required. May not be audited. International students must consult with the International Students and Scholars Office.\n\n",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -16936,7 +16936,9 @@
     ],
     "points":"1",
     "prerequisites":[
-
+      [
+        "E4201"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20232ENGI4201E001",
@@ -42797,7 +42799,7 @@
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"12969",
-    "campus":"Health Science",
+    "campus":"Presbyterian Hospital",
     "class_id":"M6554-20232-083",
     "course_subtitle":null,
     "department":"Rehabilitation Medicine (RMED)",
