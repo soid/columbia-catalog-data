@@ -2,7 +2,7 @@
   {
     "course_code":"BCHM GR6270",
     "course_title":"NMR SPECTROSCPY\/MACROMOLECULES",
-    "course_descr":null,
+    "course_descr":"Prerequisites: instructor's permission or Biophysical Chemistry G4170. Theoretical principles and applications of NMR spectroscopy for the study of biological macromolecules, including proteins, nucleic acids and carbohydrates, in solution.\n",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -19,7 +19,9 @@
     "open_to":null,
     "points":"4.5",
     "prerequisites":[
-
+      [
+        "G4170"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20241BCHM6270G001",
@@ -2241,9 +2243,7 @@
     "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/INAF\/U6692-20241-001\/",
     "location":"To be announced",
     "method_of_instruction":"In-Person",
-    "open_to":[
-      "SIPA"
-    ],
+    "open_to":null,
     "points":"1.5",
     "prerequisites":[
 
