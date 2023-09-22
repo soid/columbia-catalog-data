@@ -14161,7 +14161,7 @@
   {
     "course_code":"EAEE E9800",
     "course_title":"DOCTORAL RESEARCH INSTRUCTION",
-    "course_descr":null,
+    "course_descr":"A candidate for the Eng.Sc.D. degree in mineral engineering must register for 12 points of doctoral research instruction. Registration in EAEE E9800 may not be used to satisfy the minimum residence requirement for the degree.\n\n",
     "instructor":"Vasilis Fthenakis",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -14178,7 +14178,9 @@
     "open_to":null,
     "points":"0-12",
     "prerequisites":[
-
+      [
+        "EAEE E9800"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20232EAEE9800E001",

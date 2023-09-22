@@ -59,7 +59,7 @@
   {
     "course_code":"BIOL GR5031",
     "course_title":"Genetics",
-    "course_descr":null,
+    "course_descr":"Prerequisites: BIOL UN2005 and BIOL UN2006 or the equivalent. General genetics course focused on basic principles of transmission genetics and the application of genetic approaches to the study of biological function. Principles will be illustrated using classical and contemporary examples from prokaryote and eukaryote organisms, and the experimental discoveries at their foundation will be featured. Applications will include genetic approaches to studying animal development and human diseases. \u00a0All students must get permission from the instructor to be added from the waitlist.\n\n",
     "instructor":null,
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -76,11 +76,42 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "BIOL UN2005"
+      ],
+      [
+        "BIOL UN2006"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20241BIOL5031G001",
     "type":"LECTURE"
+  },
+  {
+    "course_code":"BIOL GR6580",
+    "course_title":"Readings in Evolutionary Genomics",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"10499",
+    "campus":"Morningside",
+    "class_id":"G6580-20241-001",
+    "course_subtitle":"Readings Evolutionary Gen",
+    "department":"Biological Sciences",
+    "department_code":"BIOL",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/BIOL\/G6580-20241-001\/",
+    "location":"800 Sherman Fairchild Life Sciences Building",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20241BIOL6580G001",
+    "type":"SEMINAR"
   },
   {
     "course_code":"BIOL GU4512",
@@ -97,7 +128,7 @@
     "department_code":"BIOL",
     "instructor_wikipedia_link":null,
     "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/BIOL\/W4512-20241-001\/",
-    "location":"To be announced",
+    "location":"601 Sherman Fairchild Life Sciences Building",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"3",
@@ -109,9 +140,35 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"BIOL GU4551",
+    "course_title":"A Structural View of Biology",
+    "course_descr":null,
+    "instructor":"Liang Tong",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"11:25am",
+    "call_number":"10501",
+    "campus":"Morningside",
+    "class_id":"W4551-20241-001",
+    "course_subtitle":"A Structural View of Biol",
+    "department":"Biological Sciences",
+    "department_code":"BIOL",
+    "instructor_wikipedia_link":"https:\/\/en.wikipedia.org\/wiki\/Liang_Tong",
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/BIOL\/W4551-20241-001\/",
+    "location":"1000 Sherman Fairchild Life Sciences Building",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20241BIOL4551W001",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"BIOL UN3031",
     "course_title":"GENETICS",
-    "course_descr":null,
+    "course_descr":"Prerequisites: BIOL UN2005 and BIOL UN2006. General genetics course focused on basic principles of transmission genetics and the application of genetic approaches to the study of biological function. Principles will be illustrated using classical and contemporary examples from prokaryote and eukaryote organisms, and the experimental discoveries at their foundation will be featured. Applications will include genetic approaches to studying animal development and human diseases. SPS and TC students must obtain the written permission from the instructor, by filling out a Registration Adjustment Form (Add\/Drop form). https:\/\/www.registrar.columbia.edu\/sites\/default\/files\/content\/reg-adjustment.pdf\n\n",
     "instructor":null,
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -128,7 +185,12 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "BIOL UN2005"
+      ],
+      [
+        "BIOL UN2006"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20241BIOL3031W001",
@@ -137,7 +199,7 @@
   {
     "course_code":"BIOL UN3052",
     "course_title":"PROJECT LAB-MOLECULAR GENETICS",
-    "course_descr":null,
+    "course_descr":"Multicellular animals contain a diverse array of cell types, yet start from a single cell. How do cells decide what kind of cell to be? In this lab course, we will use the tools of molecular biology and genetics to explore this fascinating question. We will use the nematode \nCaenorhabditis elegans\n, a powerful model organism used in hundreds of research labs. The course will be divided into three modules: \nC. elegans\n genetics, molecular cloning, and genetic screening. Laboratory techniques will include PCR, gel electrophoresis, restriction digest, ligation, transformation, RNAi, and \nC. elegans\n maintenance. Students will pursue original projects; emphasis will be placed on scientific thinking and scientific communication. SPS and TC students may register for this course, but they must first obtain the written permission of the instructor, by filling out a paper Registration Adjustment Form (Add\/Drop form).\u00a0Prerequisites: UN2005\/UN2401 and UN2006\/UN2402, or the equivalent at a different institution.\n\n",
     "instructor":"Michelle Attner",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"5:00pm",
@@ -154,7 +216,18 @@
     "open_to":null,
     "points":"5",
     "prerequisites":[
-
+      [
+        "UN2005"
+      ],
+      [
+        "UN2006"
+      ],
+      [
+        "UN2401"
+      ],
+      [
+        "UN2402"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20241BIOL3052C001",
@@ -184,6 +257,32 @@
     ],
     "scheduled_days":"F",
     "section_key":"20241BIOT5170G001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"BIOT GU4161",
+    "course_title":"ETHICS IN BIOPHARM PAT\/REG LAW",
+    "course_descr":null,
+    "instructor":"Alan J Morrison",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"10498",
+    "campus":"Morningside",
+    "class_id":"W4161-20241-001",
+    "course_subtitle":null,
+    "department":"Biological Sciences",
+    "department_code":"BIOT",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/BIOT\/W4161-20241-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20241BIOT4161W001",
     "type":"SEMINAR"
   },
   {
