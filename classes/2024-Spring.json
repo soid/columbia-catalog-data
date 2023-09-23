@@ -90,7 +90,7 @@
   {
     "course_code":"BIOL GR6300",
     "course_title":"WRITING FOR THE BIOLOGICAL SCI",
-    "course_descr":null,
+    "course_descr":"This is a required science writing course for the PhD in Biological Sciences, open only to second year PhD. candidates in Biological Sciences. In this course, we will read examples of science writing from the recent literature, consider the strategies used by successful writers, and workshop student writing. The course will emphasize techniques for achieving clarity of thought and clear prose style while communicating science to other scientists. Students will write three short papers and two longer papers culminating in a Proposed Research Plan.\n",
     "instructor":"Meehan J Crist",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:25pm",
@@ -116,7 +116,7 @@
   {
     "course_code":"BIOL GR6580",
     "course_title":"Readings in Evolutionary Genomics",
-    "course_descr":null,
+    "course_descr":"The course covers a range of current topics in evolutionary and quantitative genetics, with two main aims:\u00a01)\u00a0to expose students to important, open questions in the field and\u00a02)\u00a0to help them learn how to read research papers carefully and critically. This year we will focus on the genetic basis of adaptation.\u00a0Adaptation is the dynamic evolutionary process by which an organism\u2019s fitness increases in a particular environment via changes in the\u00a0frequencies of alleles contributing to\u00a0heritable phenotypic trait variation.\u00a0Recent\u00a0evidence from human genetics, and past evidence in quantitative genetics in a variety of organisms,\u00a0indicate the heritable variation in\u00a0many traits\u00a0is highly polygenic, suggesting that when selection pressures change, adaptation should be highly polygenic as well. At the same time, there appear to be many examples in which adaptation occured\u00a0by large effect changes in few genes. We will review the theory and evidence, with the goal of understanding when we should expect adaptation to proceed by these different modes. \u00a0\n\n",
     "instructor":null,
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -142,7 +142,7 @@
   {
     "course_code":"BIOL GU4305",
     "course_title":"SEMINAR IN BIOTECHNOLOGY",
-    "course_descr":null,
+    "course_descr":"Prerequisites: BIOL W4300 or the instructors permission. A weekly seminar and discussion course focusing on the most recent development in biotechnology. Professionals of the pharmaceutical, biotechnology, and related industries will be invited to present and lead discussions.\n",
     "instructor":"Lili Yamasaki",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -159,7 +159,9 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "BIOL W4300"
+      ]
     ],
     "scheduled_days":"W",
     "section_key":"20241BIOL4305G001",
@@ -168,7 +170,7 @@
   {
     "course_code":"BIOL GU4310",
     "course_title":"VIROLOGY",
-    "course_descr":null,
+    "course_descr":"The basic thesis of the course is that all viruses adopt a common strategy. The strategy is simple:\n  \n1. Viral genomes are contained in metastable particles.\n  \n2. Genomes encode gene products that promote an infectious cycle (mechanisms for genomes to enter cells, replicate, and exit in particles).\n  \n3. Infection patterns range from benign to lethal; infections can overcome or co-exist with host defenses.\n  \nDespite the apparent simplicity, the tactics evolved by particular virus families to survive and prosper are remarkable. This rich set of solutions to common problems in host\/parasite interactions provides significant insight and powerful research tools. Virology has enabled a more detailed understanding of the structure and function of molecules, cells and organisms and has provided fundamental understanding of disease and virus evolution.\n  \nThe course will emphasize the common reactions that must be completed by all viruses for successful reproduction within a host cell and survival and spread within a host population. The molecular basis of alternative reproductive cycles, the interactions of viruses with host organisms, and how these lead to disease are presented with examples drawn from a set of representative animal and human viruses, although selected bacterial viruses will be discussed.\n\n",
     "instructor":"Vincent R Racaniello",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:25pm",
@@ -220,7 +222,7 @@
   {
     "course_code":"BIOL GU4551",
     "course_title":"A Structural View of Biology",
-    "course_descr":null,
+    "course_descr":"The course covers a general introduction to the theory and experimental techniques of structural biology (protein expression and purification, protein crystallography, cryo-electron microscopy, nuclear magnetic resonance) and then how to use the structural information to understand biochemical and biological processes. The first part of the course will cover the general introduction to structural biology. The second part of the course will involve discussions and explorations of various structures, led by the instructor but with substantial participation from the students, to understand the molecular mechanisms of selected biochemical and biological processes. In the final part of the course, each student will select and lead discussions on a primary structural biology paper. The overall goal of the course is to increase the understanding of how protein structures are determined, what protein structures look like, and how to use the structures to understand biology.\n\n",
     "instructor":"Liang Tong",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -246,7 +248,7 @@
   {
     "course_code":"BIOL UN2501",
     "course_title":"CONTEMPORARY BIOLOGY LAB",
-    "course_descr":null,
+    "course_descr":"Prerequisites: Strongly recommended prerequisite or corequisite: BIOL UN2005 or BIOL UN2401. Experiments focus on genetics and molecular biology, with an emphasis on data analysis and experimental techniques. The class also includes a study of mammalian anatomy and histology. SPS and TC students may register for this course, but they must first obtain the written permission of the instructor, by filling out a paper Registration Adjustment Form (Add\/Drop form). The form can be downloaded at the URL below, but must be signed by the instructor and returned to the office of the registrar. http:\/\/registrar.columbia.edu\/sites\/default\/files\/content\/reg-adjustment.pdf\n",
     "instructor":null,
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"5:00pm",
@@ -263,7 +265,10 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "BIOL UN2005",
+        "BIOL UN2401"
+      ]
     ],
     "scheduled_days":"M",
     "section_key":"20241BIOL2501W001",
@@ -272,7 +277,7 @@
   {
     "course_code":"BIOL UN2501",
     "course_title":"CONTEMPORARY BIOLOGY LAB",
-    "course_descr":null,
+    "course_descr":"Prerequisites: Strongly recommended prerequisite or corequisite: BIOL UN2005 or BIOL UN2401. Experiments focus on genetics and molecular biology, with an emphasis on data analysis and experimental techniques. The class also includes a study of mammalian anatomy and histology. SPS and TC students may register for this course, but they must first obtain the written permission of the instructor, by filling out a paper Registration Adjustment Form (Add\/Drop form). The form can be downloaded at the URL below, but must be signed by the instructor and returned to the office of the registrar. http:\/\/registrar.columbia.edu\/sites\/default\/files\/content\/reg-adjustment.pdf\n",
     "instructor":null,
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"5:00pm",
@@ -289,7 +294,10 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "BIOL UN2005",
+        "BIOL UN2401"
+      ]
     ],
     "scheduled_days":"T",
     "section_key":"20241BIOL2501W002",
@@ -298,7 +306,7 @@
   {
     "course_code":"BIOL UN2501",
     "course_title":"CONTEMPORARY BIOLOGY LAB",
-    "course_descr":null,
+    "course_descr":"Prerequisites: Strongly recommended prerequisite or corequisite: BIOL UN2005 or BIOL UN2401. Experiments focus on genetics and molecular biology, with an emphasis on data analysis and experimental techniques. The class also includes a study of mammalian anatomy and histology. SPS and TC students may register for this course, but they must first obtain the written permission of the instructor, by filling out a paper Registration Adjustment Form (Add\/Drop form). The form can be downloaded at the URL below, but must be signed by the instructor and returned to the office of the registrar. http:\/\/registrar.columbia.edu\/sites\/default\/files\/content\/reg-adjustment.pdf\n",
     "instructor":null,
     "scheduled_time_start":"5:40pm",
     "scheduled_time_end":"9:30pm",
@@ -315,7 +323,10 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "BIOL UN2005",
+        "BIOL UN2401"
+      ]
     ],
     "scheduled_days":"R",
     "section_key":"20241BIOL2501W004",
@@ -324,7 +335,7 @@
   {
     "course_code":"BIOL UN2501",
     "course_title":"CONTEMPORARY BIOLOGY LAB",
-    "course_descr":null,
+    "course_descr":"Prerequisites: Strongly recommended prerequisite or corequisite: BIOL UN2005 or BIOL UN2401. Experiments focus on genetics and molecular biology, with an emphasis on data analysis and experimental techniques. The class also includes a study of mammalian anatomy and histology. SPS and TC students may register for this course, but they must first obtain the written permission of the instructor, by filling out a paper Registration Adjustment Form (Add\/Drop form). The form can be downloaded at the URL below, but must be signed by the instructor and returned to the office of the registrar. http:\/\/registrar.columbia.edu\/sites\/default\/files\/content\/reg-adjustment.pdf\n",
     "instructor":null,
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"5:00pm",
@@ -341,7 +352,10 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "BIOL UN2005",
+        "BIOL UN2401"
+      ]
     ],
     "scheduled_days":"F",
     "section_key":"20241BIOL2501W005",
@@ -350,7 +364,7 @@
   {
     "course_code":"BIOL UN3006",
     "course_title":"PHYSIOLOGY",
-    "course_descr":null,
+    "course_descr":"Prerequisites: (BIOL UN2005 and BIOL UN2006) or (BIOL UN2401 and BIOL UN2402) or the instructors permission. Major physiological systems of vertebrates (circulatory, digestive, hormonal, etc.) with emphasis on cellular and molecular mechanisms and regulation. Readings include research articles from the scientific literature. SCE and TC students may register for this course, but they must first obtain the written permission of the instructor, by filling out a paper Registration Adjustment Form (Add\/Drop form). The form can be downloaded at the URL below, but must be signed by the instructor and returned to the office of the registrar. http:\/\/registrar.columbia.edu\/sites\/default\/files\/content\/reg-adjustment.pdf\n",
     "instructor":"Ava E Brent",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:25pm",
@@ -367,7 +381,16 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "BIOL UN2005"
+      ],
+      [
+        "BIOL UN2006",
+        "BIOL UN2401"
+      ],
+      [
+        "BIOL UN2402"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20241BIOL3006F001",
@@ -470,7 +493,7 @@
   {
     "course_code":"BIOT GU4161",
     "course_title":"ETHICS IN BIOPHARM PAT\/REG LAW",
-    "course_descr":null,
+    "course_descr":"This course \u2013 the first of its kind at Columbia \u2013 introduces students to a vital subfield of ethics focusing on patent and regulatory law in the biotech and pharmaceutical sectors. \u00a0The course combines lectures, structured debate, and research to best present this fascinating and nuanced subject. \u00a0Properly exploring this branch of bioethics requires an in-depth understanding of biotech and pharmaceutical patent and regulatory law. \u00a0Students can gain this understanding by\u00a0first completing Biotechnology Law (BIOT GU4160), formerly the\u00a0prerequisite for this course. \u00a0Now, they can also gain it by reading the appropriate chapters of\u00a0\nBiotechnology Law: A Primer for Scientists\n\u00a0(the textbook for BIOT GU4160 published earlier this year) prior to each class. \u00a0A number of students in the biotechnology fields (such as those in biotechnology, biomedical engineering,\u00a0and bioethics programs) have shown a keen interest over the years in taking this course, yet were unable to do so because they\u00a0hadn\u2019t taken BIOT GU4160. \u00a0Given the recent publication of\u00a0\nBiotechnology Law\n\u00a0and the\u00a0desirability of making BIOT GU4161 accessible to more students having the appropriate science background, BIOT GU4160 has been removed as a prerequisite.\n\n",
     "instructor":"Alan J Morrison",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -487,7 +510,17 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "BIOT GU4160"
+      ],
+      [
+        "BIOT GU4160",
+        "BIOT GU4160"
+      ],
+      [
+        "BIOT GU4161",
+        "BIOT GU4160"
+      ]
     ],
     "scheduled_days":"T",
     "section_key":"20241BIOT4161W001",
@@ -9865,7 +9898,7 @@
   {
     "course_code":"MICR G4020",
     "course_title":"GRADUATE IMMUNOLOGY",
-    "course_descr":null,
+    "course_descr":"Survey of the major topics in basic immunology with an emphasis on the molecular basis for immune recognition and regulation.\n",
     "instructor":"Steven Reiner",
     "scheduled_time_start":"1:30pm",
     "scheduled_time_end":"3:15pm",
@@ -9917,7 +9950,7 @@
   {
     "course_code":"MICR G9302",
     "course_title":"SEM-MICROBIOL & IMMUNOLOGY II",
-    "course_descr":null,
+    "course_descr":"Each week invited speakers present seminars and have conferences with graduate students after each presentation.\n",
     "instructor":null,
     "scheduled_time_start":"12:00pm",
     "scheduled_time_end":"1:00pm",
@@ -9943,7 +9976,7 @@
   {
     "course_code":"MICR G9502",
     "course_title":"RES-MICROBIOL & IMMUNOLOGY II",
-    "course_descr":null,
+    "course_descr":"Open only to microbiology students. Students doing dissertation research register for this course, as well as students who are rotating through laboratories of staff members.\n",
     "instructor":"Lorraine S Symington",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
