@@ -28,7 +28,7 @@
   {
     "course_code":"ANTH GR6192",
     "course_title":"EXHIBITION PRAC-GLOBAL CONTEXT",
-    "course_descr":null,
+    "course_descr":"Prerequisites: ANTH G6352 Museum Anthropology: history and theory \/ ANTH G6353 Politics and Practice of Museum Exhibitions; G9110, G9111 and the instructors permission. Corequisites: ANTH G6353. This course addresses the practical challenges entailed in the process of creating a successful exhibition. Developing an actual curatorial project, students will get an opportunity to apply the museum anthropology theory they are exposed to throughout the program. They will be given a hands-on approach to the different stages involved in the curation of a show, from the in-depth researching of a topic to the writing, editing and design of an exhibition that will be effective for specific audiences.\n",
     "instructor":"Cine Ostrow",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -45,7 +45,17 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "ANTH G6352",
+        "ANTH G6353"
+      ],
+      [
+        "G9110"
+      ],
+      [
+        "G9111",
+        "ANTH G6353"
+      ]
     ],
     "scheduled_days":"T",
     "section_key":"20241ANTH6192G001",
@@ -111,7 +121,7 @@
   {
     "course_code":"ANTH GR6365",
     "course_title":"EXHIBITION CULTURES",
-    "course_descr":null,
+    "course_descr":"Laurel Kendall and Ming Xue (Co-Instructor). This course is a continuation of Museum Anthropology G6352 (not a prerequisite). Through the study of museum exhibitions, this course explores a series of debates about the representation of culture in museums, the politics of identity, and the significance of objects. We will consider the museum as a contemporary and variable form, as a site for the expression of national, group, and individual identity and as a site of performance and consumption. We will consider how exhibits are developed, what they aim to convey, what makes them effective (or not), and how they sometimes become flashpoints of controversy. Because the work of museums is visual, enacted through the display of material forms, we will also consider the transformation of objects into artifacts and as part of exhibitions, addressing questions of meaning, ownership, value, and magic. We will look at this range of issues from the point of view of practitioners, critics, and audiences. G6365 works in tandem with the exhibition project that will be developed in \u201cExhibition Practice in Global Culture\u201d to produce a small exhibit.\u00a0\u00a0 This year we will use a Tibetan Thangka painting (AMNH #70.3\/8090) as the focal point for an exhibit that explores contemporary Thangkas and those who paint them. The instructor\u2019s permission is required.\u00a0\n\n",
     "instructor":"Laurel Kendall",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -128,7 +138,12 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "G6352"
+      ],
+      [
+        "G6365"
+      ]
     ],
     "scheduled_days":"T",
     "section_key":"20241ANTH6365G001",
@@ -137,7 +152,7 @@
   {
     "course_code":"ANTH GR9110",
     "course_title":"MUSEUM ANTHROPOL INTERNSHIP I",
-    "course_descr":null,
+    "course_descr":"An internship arranged through the Museum Anthropology program of 10 hrs\/week (for 3 credits) or 20 hrs\/week (for 6). Involves meaningful work, requires keeping a journal and writing a paper at the completion of the semester. Not to be taken without permission of the program directors, usually after completing the Museum Anthropology core courses.\n",
     "instructor":"Brian Boyd",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -163,7 +178,7 @@
   {
     "course_code":"ANTH GR9111",
     "course_title":"MUSEUM ANTHROPOL INTERNSHIP II",
-    "course_descr":null,
+    "course_descr":"An internship arranged through the Museum Anthropology program of 10 hrs\/week (for 3 credits) or 20 hrs\/week (for 6). Involves meaningful work, requires keeping a journal and writing a paper at the completion of the semester. Not to be taken without permission of the program directors, usually after completing the Museum Anthropology core courses.\n",
     "instructor":"Brian Boyd",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -241,7 +256,7 @@
   {
     "course_code":"ANTH UN2028",
     "course_title":"THINK LIKE AN ARCHAEOLOGIST",
-    "course_descr":null,
+    "course_descr":"This course provides a comprehensive introduction to methods and theory in archaeology \u2013 by exploring how archaeologists work to create narratives about the past (and the present) on the basis on the material remains of the past. The course begins with a consideration of how archaeologists deal with the remains of the past in the present: What are archaeological sites and how do we \u2018discover\u2019 them? How do archaeologists \u2018read\u2019 or analyze sites and artifacts? From there, we will turn to the question of how archaeologists interpret these materials traces, in order to create narratives about life in the past. After a review of the historical development of theoretical approaches in archaeological interpretation, the course will consider contemporary approaches to interpreting the past.\n",
     "instructor":"Hannah Chazin",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -454,7 +469,7 @@
   {
     "course_code":"BCRS GU4332",
     "course_title":"ADV BOSNIAN\/CROATIAN\/SERBIAN",
-    "course_descr":null,
+    "course_descr":"Prerequisites: BCRS UN2102 Further develops skills in speaking, reading, and writing, using essays, short stories, films, and fragments of larger works. Reinforces basic grammar and introduces more complete structures.\n",
     "instructor":"Aleksandar Boskovic",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:25pm",
@@ -471,7 +486,9 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "BCRS UN2102"
+      ]
     ],
     "scheduled_days":"TW",
     "section_key":"20241BCRS4332W001",
@@ -480,7 +497,7 @@
   {
     "course_code":"BCRS UN1102",
     "course_title":"ELEM BOSNIAN\/CROATIAN\/SERBIAN",
-    "course_descr":null,
+    "course_descr":"Essentials of the spoken and written language. Prepares students to read texts of moderate difficulty by the end of the first year.\n",
     "instructor":"Aleksandar Boskovic",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -506,7 +523,7 @@
   {
     "course_code":"BCRS UN2102",
     "course_title":"INTER BOSNIAN\/CROATIAN\/SERBIAN",
-    "course_descr":null,
+    "course_descr":"Prerequisites: BCRS UN1102 or the equivalent. Readings in Serbian\/Croatian\/Bosnian literature in the original, with emphasis depending upon the needs of individual students. This course number has been changed to BCRS 2102\n",
     "instructor":"Aleksandar Boskovic",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -523,7 +540,9 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "BCRS UN1102"
+      ]
     ],
     "scheduled_days":"TWF",
     "section_key":"20241BCRS2102W001",
@@ -3046,6 +3065,32 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"CPLS GR6111",
+    "course_title":"The Hybrid Voice: Comparative Diasporas",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"10882",
+    "campus":"Morningside",
+    "class_id":"G6111-20241-001",
+    "course_subtitle":"COMP DIASPORAS & TRANSLATION",
+    "department":"Comparative Literature and Society, Institute for",
+    "department_code":"CPLS",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/CPLS\/G6111-20241-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20241CPLS6111G001",
+    "type":"SEMINAR"
+  },
+  {
     "course_code":"CPLS GR8866",
     "course_title":"S CONTEMP CRITICAL THOUGHT",
     "course_descr":null,
@@ -3126,7 +3171,7 @@
   {
     "course_code":"ENGI E4000",
     "course_title":"PROF DEVELOPMENT&LEADERSHIP",
-    "course_descr":null,
+    "course_descr":"The PDL course aims to enhance and expand Columbia Engineering graduate students' interpersonal, professional, and leadership skills, through five core sessions, covering (1) in-person communication skills; (2) resume; (3) business writing; (4) social media and the job search; and (5) academic and professional ethics and integrity. ENGI E4000 also requires 5 elective sessions to further students' development based on their personal interests. Students must select at least one life management elective and one interview elective. This course is offered at the Pass\/D\/Fail grading option.\n\n",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -3143,7 +3188,9 @@
     "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "ENGI E4000"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20241ENGI4000E015",
@@ -3458,174 +3505,6 @@
     "type":"WORKSHOP"
   },
   {
-    "course_code":"ENGL PS0810",
-    "course_title":"THESIS WRITING",
-    "course_descr":null,
-    "instructor":"Shelley Saltzman",
-    "scheduled_time_start":"12:10pm",
-    "scheduled_time_end":"2:00pm",
-    "call_number":"10847",
-    "campus":"Morningside",
-    "class_id":"Z0810-20241-001",
-    "course_subtitle":null,
-    "department":"American Language Program",
-    "department_code":"ENGL",
-    "instructor_wikipedia_link":null,
-    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/ENGL\/Z0810-20241-001\/",
-    "location":"To be announced",
-    "method_of_instruction":"In-Person",
-    "open_to":[
-      "GSAS"
-    ],
-    "points":"0",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"R",
-    "section_key":"20241ENGL0810Z001",
-    "type":"LANGUAGE"
-  },
-  {
-    "course_code":"ENGL PS1007",
-    "course_title":"ADV ACAD WRITING FOR GS",
-    "course_descr":null,
-    "instructor":null,
-    "scheduled_time_start":"9:10am",
-    "scheduled_time_end":"11:00am",
-    "call_number":"10848",
-    "campus":"Morningside",
-    "class_id":"Z1007-20241-001",
-    "course_subtitle":null,
-    "department":"American Language Program",
-    "department_code":"ENGL",
-    "instructor_wikipedia_link":null,
-    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/ENGL\/Z1007-20241-001\/",
-    "location":"To be announced",
-    "method_of_instruction":"In-Person",
-    "open_to":[
-      "General Studies"
-    ],
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"TR",
-    "section_key":"20241ENGL1007Z001",
-    "type":"LANGUAGE"
-  },
-  {
-    "course_code":"ENGL PS1007",
-    "course_title":"ADV ACAD WRITING FOR GS",
-    "course_descr":null,
-    "instructor":null,
-    "scheduled_time_start":"11:10am",
-    "scheduled_time_end":"1:00pm",
-    "call_number":"10849",
-    "campus":"Morningside",
-    "class_id":"Z1007-20241-002",
-    "course_subtitle":null,
-    "department":"American Language Program",
-    "department_code":"ENGL",
-    "instructor_wikipedia_link":null,
-    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/ENGL\/Z1007-20241-002\/",
-    "location":"To be announced",
-    "method_of_instruction":"In-Person",
-    "open_to":[
-      "General Studies"
-    ],
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"TR",
-    "section_key":"20241ENGL1007Z002",
-    "type":"LANGUAGE"
-  },
-  {
-    "course_code":"ENGL PS1007",
-    "course_title":"ADV ACAD WRITING FOR GS",
-    "course_descr":null,
-    "instructor":null,
-    "scheduled_time_start":"6:10pm",
-    "scheduled_time_end":"8:00pm",
-    "call_number":"10850",
-    "campus":"Morningside",
-    "class_id":"Z1007-20241-003",
-    "course_subtitle":null,
-    "department":"American Language Program",
-    "department_code":"ENGL",
-    "instructor_wikipedia_link":null,
-    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/ENGL\/Z1007-20241-003\/",
-    "location":"To be announced",
-    "method_of_instruction":"In-Person",
-    "open_to":[
-      "General Studies"
-    ],
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"MW",
-    "section_key":"20241ENGL1007Z003",
-    "type":"LANGUAGE"
-  },
-  {
-    "course_code":"ENGL PS1007",
-    "course_title":"ADV ACAD WRITING FOR GS",
-    "course_descr":null,
-    "instructor":null,
-    "scheduled_time_start":"6:10pm",
-    "scheduled_time_end":"8:00pm",
-    "call_number":"10851",
-    "campus":"Morningside",
-    "class_id":"Z1007-20241-004",
-    "course_subtitle":null,
-    "department":"American Language Program",
-    "department_code":"ENGL",
-    "instructor_wikipedia_link":null,
-    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/ENGL\/Z1007-20241-004\/",
-    "location":"To be announced",
-    "method_of_instruction":"In-Person",
-    "open_to":[
-      "General Studies"
-    ],
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"MW",
-    "section_key":"20241ENGL1007Z004",
-    "type":"LANGUAGE"
-  },
-  {
-    "course_code":"ENGL PS1007",
-    "course_title":"ADV ACAD WRITING FOR GS",
-    "course_descr":null,
-    "instructor":null,
-    "scheduled_time_start":"9:10am",
-    "scheduled_time_end":"11:00am",
-    "call_number":"10852",
-    "campus":"Morningside",
-    "class_id":"Z1007-20241-005",
-    "course_subtitle":null,
-    "department":"American Language Program",
-    "department_code":"ENGL",
-    "instructor_wikipedia_link":null,
-    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/ENGL\/Z1007-20241-005\/",
-    "location":"To be announced",
-    "method_of_instruction":"In-Person",
-    "open_to":[
-      "General Studies"
-    ],
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"TR",
-    "section_key":"20241ENGL1007Z005",
-    "type":"LANGUAGE"
-  },
-  {
     "course_code":"ENVP U6239",
     "course_title":"Politics & Policy of Urban Sustainabilit",
     "course_descr":"This is a course for thoughtful people who wish to influence actual policy outcomes related to sustainability challenges in major cities. Its objective is not to provide a primer on urban sustainability solutions; this is readily available from textbooks and will change by the time you are in a position to act. Rather, the course\u2019s objective is to prepare you for the kind of challenges that will face you as a policy practitioner in the field of urban sustainability. Cities are increasingly recognized as a key level of government for environmental and sustainability policy. As at all levels, politics and policy are intensely intertwined, and perhaps more so at the local level because the decisions involved often affect constituents directly and intimately --in their neighborhoods, in their homes, in their commutes. This reading-heavy colloquium explores the politics and the policy of urban sustainability from the perspective of someone who wishes to effect change. It culminates in a team project in which students act as a sustainability policy team in a mayoral (or equivalent) office in one of the world\u2019s major cities. The course considers key components of the city itself, with the objective of understanding what shapes the city and its impact on the environment. It mainly uses case studies from the twentieth-century United States, paired with international readings to allow a comparison with other experiences. The focus on deep case studies allows the consideration of the situations, constraints, and political dynamics of specific situations. It is intended to provide students with the ability to recognize patterns in urban political and policy dynamics related to sustainability. These are paired with an overview of leading solutions and how the professor believes practitioners should evaluate them for their own cities. The course also prominently features in-class presentations and discussions of the students\u2019 main project: a team-based memo making a specific recommendation to solve a problem in a specific major world city, which is presented twice, once for a diagnosis of the problem in a given city and a second time with a policy recommendation. This project is the major portion of the overall grade for the class, and is used to allow the students to wrestle with the challenge of turning ideas from past and present into successful urban sustainability policies that can get implemented in a political and institutional world. In order to cover issues in depth, this course is not exhaustive; ",
@@ -3666,7 +3545,7 @@
   {
     "course_code":"ERMC PS5001",
     "course_title":"INTRODUCTION TO FINANCE",
-    "course_descr":null,
+    "course_descr":"This elective is available to and highly recommended for students without a strong\u00a0finance\u00a0background. It introduces students to the fundamental\u00a0financial\u00a0issues of the modern corporation. By the end of this course, students will understand the basic concepts of\u00a0financial\u00a0planning, growth management, debt\u00a0financing, equity valuation, and capital budgeting.\u00a0 (This course is not automatically available for all students; students must contact their Advisor to determine eligibility to register.)\n\n",
     "instructor":"Christakis Droussiotis",
     "scheduled_time_start":"8:10pm",
     "scheduled_time_end":"10:00pm",
@@ -3694,7 +3573,7 @@
   {
     "course_code":"ERMC PS5001",
     "course_title":"INTRODUCTION TO FINANCE",
-    "course_descr":null,
+    "course_descr":"This elective is available to and highly recommended for students without a strong\u00a0finance\u00a0background. It introduces students to the fundamental\u00a0financial\u00a0issues of the modern corporation. By the end of this course, students will understand the basic concepts of\u00a0financial\u00a0planning, growth management, debt\u00a0financing, equity valuation, and capital budgeting.\u00a0 (This course is not automatically available for all students; students must contact their Advisor to determine eligibility to register.)\n\n",
     "instructor":"Seydina Fall",
     "scheduled_time_start":"8:10pm",
     "scheduled_time_end":"10:00pm",
@@ -3722,7 +3601,7 @@
   {
     "course_code":"ERMC PS5010",
     "course_title":"MANAGING HUMAN BEHAVIOR IN THE ORGANIZAT",
-    "course_descr":null,
+    "course_descr":"In this course, students will gain an overview of major concepts of management and organization theory, concentrating on understanding human behavior in organizational contexts, with a heavy emphasis on the application of concepts to solve managerial problems. Students will work in a combination of conceptual and experiential activities, including case studies, discussions, lectures, simulations, videos, and small group exercises.\n  \nBy the end of this course students will:\n  \n  \nDevelop the skills to motivate employees\n  \nEstablish professional interpersonal relationships\n  \nTake a leadership role\n  \nConduct performance appraisals\n \n\n",
     "instructor":"Raymond Lamanna",
     "scheduled_time_start":"8:10pm",
     "scheduled_time_end":"10:00pm",
@@ -3750,7 +3629,7 @@
   {
     "course_code":"ERMC PS5010",
     "course_title":"MANAGING HUMAN BEHAVIOR IN THE ORGANIZAT",
-    "course_descr":null,
+    "course_descr":"In this course, students will gain an overview of major concepts of management and organization theory, concentrating on understanding human behavior in organizational contexts, with a heavy emphasis on the application of concepts to solve managerial problems. Students will work in a combination of conceptual and experiential activities, including case studies, discussions, lectures, simulations, videos, and small group exercises.\n  \nBy the end of this course students will:\n  \n  \nDevelop the skills to motivate employees\n  \nEstablish professional interpersonal relationships\n  \nTake a leadership role\n  \nConduct performance appraisals\n \n\n",
     "instructor":"Patti Ippoliti",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -3778,7 +3657,7 @@
   {
     "course_code":"ERMC PS5100",
     "course_title":"VALUE-BASED ENTERPRISE RISK MANAGEMENT",
-    "course_descr":null,
+    "course_descr":"Foundational ERM course. Addresses all major ERM activities: risk framework; risk governance; risk identification; risk quantification; risk decision making; and risk messaging. Introduces an advanced yet practical ERM approach based on the integration of ERM and value-based management that supports integration of ERM into decision making. Provides a context to understand the differences between (a) value-based ERM; (b) traditional ERM; and (c) traditional \"silo\" risk management.\n\n",
     "instructor":"Sim Segal",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -3806,7 +3685,7 @@
   {
     "course_code":"ERMC PS5100",
     "course_title":"VALUE-BASED ENTERPRISE RISK MANAGEMENT",
-    "course_descr":null,
+    "course_descr":"Foundational ERM course. Addresses all major ERM activities: risk framework; risk governance; risk identification; risk quantification; risk decision making; and risk messaging. Introduces an advanced yet practical ERM approach based on the integration of ERM and value-based management that supports integration of ERM into decision making. Provides a context to understand the differences between (a) value-based ERM; (b) traditional ERM; and (c) traditional \"silo\" risk management.\n\n",
     "instructor":"Rich Lauria",
     "scheduled_time_start":"8:10pm",
     "scheduled_time_end":"10:00pm",
@@ -3834,7 +3713,7 @@
   {
     "course_code":"ERMC PS5100",
     "course_title":"VALUE-BASED ENTERPRISE RISK MANAGEMENT",
-    "course_descr":null,
+    "course_descr":"Foundational ERM course. Addresses all major ERM activities: risk framework; risk governance; risk identification; risk quantification; risk decision making; and risk messaging. Introduces an advanced yet practical ERM approach based on the integration of ERM and value-based management that supports integration of ERM into decision making. Provides a context to understand the differences between (a) value-based ERM; (b) traditional ERM; and (c) traditional \"silo\" risk management.\n\n",
     "instructor":"Duncan Campbell",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -3862,7 +3741,7 @@
   {
     "course_code":"ERMC PS5100",
     "course_title":"VALUE-BASED ENTERPRISE RISK MANAGEMENT",
-    "course_descr":null,
+    "course_descr":"Foundational ERM course. Addresses all major ERM activities: risk framework; risk governance; risk identification; risk quantification; risk decision making; and risk messaging. Introduces an advanced yet practical ERM approach based on the integration of ERM and value-based management that supports integration of ERM into decision making. Provides a context to understand the differences between (a) value-based ERM; (b) traditional ERM; and (c) traditional \"silo\" risk management.\n\n",
     "instructor":"Duncan Campbell",
     "scheduled_time_start":"8:10pm",
     "scheduled_time_end":"10:00pm",
@@ -3890,7 +3769,7 @@
   {
     "course_code":"ERMC PS5100",
     "course_title":"VALUE-BASED ENTERPRISE RISK MANAGEMENT",
-    "course_descr":null,
+    "course_descr":"Foundational ERM course. Addresses all major ERM activities: risk framework; risk governance; risk identification; risk quantification; risk decision making; and risk messaging. Introduces an advanced yet practical ERM approach based on the integration of ERM and value-based management that supports integration of ERM into decision making. Provides a context to understand the differences between (a) value-based ERM; (b) traditional ERM; and (c) traditional \"silo\" risk management.\n\n",
     "instructor":"James S Kim",
     "scheduled_time_start":"8:10pm",
     "scheduled_time_end":"10:00pm",
@@ -3918,7 +3797,7 @@
   {
     "course_code":"ERMC PS5100",
     "course_title":"VALUE-BASED ENTERPRISE RISK MANAGEMENT",
-    "course_descr":null,
+    "course_descr":"Foundational ERM course. Addresses all major ERM activities: risk framework; risk governance; risk identification; risk quantification; risk decision making; and risk messaging. Introduces an advanced yet practical ERM approach based on the integration of ERM and value-based management that supports integration of ERM into decision making. Provides a context to understand the differences between (a) value-based ERM; (b) traditional ERM; and (c) traditional \"silo\" risk management.\n\n",
     "instructor":"Narae Lee",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -3946,7 +3825,7 @@
   {
     "course_code":"ERMC PS5100",
     "course_title":"VALUE-BASED ENTERPRISE RISK MANAGEMENT",
-    "course_descr":null,
+    "course_descr":"Foundational ERM course. Addresses all major ERM activities: risk framework; risk governance; risk identification; risk quantification; risk decision making; and risk messaging. Introduces an advanced yet practical ERM approach based on the integration of ERM and value-based management that supports integration of ERM into decision making. Provides a context to understand the differences between (a) value-based ERM; (b) traditional ERM; and (c) traditional \"silo\" risk management.\n\n",
     "instructor":"Bruce Fox",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -3974,7 +3853,7 @@
   {
     "course_code":"ERMC PS5100",
     "course_title":"VALUE-BASED ENTERPRISE RISK MANAGEMENT",
-    "course_descr":null,
+    "course_descr":"Foundational ERM course. Addresses all major ERM activities: risk framework; risk governance; risk identification; risk quantification; risk decision making; and risk messaging. Introduces an advanced yet practical ERM approach based on the integration of ERM and value-based management that supports integration of ERM into decision making. Provides a context to understand the differences between (a) value-based ERM; (b) traditional ERM; and (c) traditional \"silo\" risk management.\n\n",
     "instructor":"Benjamin M Perlman",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -4002,7 +3881,7 @@
   {
     "course_code":"ERMC PS5100",
     "course_title":"VALUE-BASED ENTERPRISE RISK MANAGEMENT",
-    "course_descr":null,
+    "course_descr":"Foundational ERM course. Addresses all major ERM activities: risk framework; risk governance; risk identification; risk quantification; risk decision making; and risk messaging. Introduces an advanced yet practical ERM approach based on the integration of ERM and value-based management that supports integration of ERM into decision making. Provides a context to understand the differences between (a) value-based ERM; (b) traditional ERM; and (c) traditional \"silo\" risk management.\n\n",
     "instructor":"Benjamin M Perlman",
     "scheduled_time_start":"8:10pm",
     "scheduled_time_end":"10:00pm",
@@ -4030,7 +3909,7 @@
   {
     "course_code":"ERMC PS5100",
     "course_title":"VALUE-BASED ENTERPRISE RISK MANAGEMENT",
-    "course_descr":null,
+    "course_descr":"Foundational ERM course. Addresses all major ERM activities: risk framework; risk governance; risk identification; risk quantification; risk decision making; and risk messaging. Introduces an advanced yet practical ERM approach based on the integration of ERM and value-based management that supports integration of ERM into decision making. Provides a context to understand the differences between (a) value-based ERM; (b) traditional ERM; and (c) traditional \"silo\" risk management.\n\n",
     "instructor":"Sa Gong",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -4058,7 +3937,7 @@
   {
     "course_code":"ERMC PS5100",
     "course_title":"VALUE-BASED ENTERPRISE RISK MANAGEMENT",
-    "course_descr":null,
+    "course_descr":"Foundational ERM course. Addresses all major ERM activities: risk framework; risk governance; risk identification; risk quantification; risk decision making; and risk messaging. Introduces an advanced yet practical ERM approach based on the integration of ERM and value-based management that supports integration of ERM into decision making. Provides a context to understand the differences between (a) value-based ERM; (b) traditional ERM; and (c) traditional \"silo\" risk management.\n\n",
     "instructor":"Matthew Dorin",
     "scheduled_time_start":"8:10pm",
     "scheduled_time_end":"10:00pm",
@@ -4086,7 +3965,7 @@
   {
     "course_code":"ERMC PS5100",
     "course_title":"VALUE-BASED ENTERPRISE RISK MANAGEMENT",
-    "course_descr":null,
+    "course_descr":"Foundational ERM course. Addresses all major ERM activities: risk framework; risk governance; risk identification; risk quantification; risk decision making; and risk messaging. Introduces an advanced yet practical ERM approach based on the integration of ERM and value-based management that supports integration of ERM into decision making. Provides a context to understand the differences between (a) value-based ERM; (b) traditional ERM; and (c) traditional \"silo\" risk management.\n\n",
     "instructor":"Sim Segal",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -4114,7 +3993,7 @@
   {
     "course_code":"ERMC PS5100",
     "course_title":"VALUE-BASED ENTERPRISE RISK MANAGEMENT",
-    "course_descr":null,
+    "course_descr":"Foundational ERM course. Addresses all major ERM activities: risk framework; risk governance; risk identification; risk quantification; risk decision making; and risk messaging. Introduces an advanced yet practical ERM approach based on the integration of ERM and value-based management that supports integration of ERM into decision making. Provides a context to understand the differences between (a) value-based ERM; (b) traditional ERM; and (c) traditional \"silo\" risk management.\n\n",
     "instructor":"David A. Bartholomew",
     "scheduled_time_start":"8:10pm",
     "scheduled_time_end":"10:00pm",
@@ -4142,7 +4021,7 @@
   {
     "course_code":"ERMC PS5200",
     "course_title":"TRADITIONAL ERM PRACTICES",
-    "course_descr":null,
+    "course_descr":"This course provides an overview of the\u00a0traditional ERM\u00a0frameworks\u00a0used to identify, assess,\u00a0manage, and disclose key organizational risks.\u00a0The traditional ERM frameworks are those that are more commonly in use and include COSO ERM, ISO 31000, and the Basel Accords.\u00a0This\u00a0course also provides an understanding of the methods, tools, techniques, and terminology\u00a0most\u00a0organizations use to manage their key\u00a0risks, presented in the context of the foundational elements of an ERM process. This will enable\u00a0students\u00a0to navigate\u00a0the ERM landscape\u00a0within\u00a0most\u00a0organizations,\u00a0and, along with the second-semester course Value-Based ERM,\u00a0evaluate opportunities to enhance the\u00a0existing ERM\u00a0practices and evolve their ERM programs over time.\n\n",
     "instructor":"Marianna Belyavskiy",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -4170,7 +4049,7 @@
   {
     "course_code":"ERMC PS5200",
     "course_title":"TRADITIONAL ERM PRACTICES",
-    "course_descr":null,
+    "course_descr":"This course provides an overview of the\u00a0traditional ERM\u00a0frameworks\u00a0used to identify, assess,\u00a0manage, and disclose key organizational risks.\u00a0The traditional ERM frameworks are those that are more commonly in use and include COSO ERM, ISO 31000, and the Basel Accords.\u00a0This\u00a0course also provides an understanding of the methods, tools, techniques, and terminology\u00a0most\u00a0organizations use to manage their key\u00a0risks, presented in the context of the foundational elements of an ERM process. This will enable\u00a0students\u00a0to navigate\u00a0the ERM landscape\u00a0within\u00a0most\u00a0organizations,\u00a0and, along with the second-semester course Value-Based ERM,\u00a0evaluate opportunities to enhance the\u00a0existing ERM\u00a0practices and evolve their ERM programs over time.\n\n",
     "instructor":"Chris Magno",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -4198,7 +4077,7 @@
   {
     "course_code":"ERMC PS5250",
     "course_title":"EXTERNAL STAKEHOLDER REQUIREMENTS",
-    "course_descr":null,
+    "course_descr":"Provides a global review of ERM requirements of regulators, rating agencies, and shareholders. Addresses three industry sectors: (1) insurance; (2) banking; and (3) corporate.\n\n",
     "instructor":"Rich Lauria",
     "scheduled_time_start":"8:10pm",
     "scheduled_time_end":"10:00pm",
@@ -4226,7 +4105,7 @@
   {
     "course_code":"ERMC PS5250",
     "course_title":"EXTERNAL STAKEHOLDER REQUIREMENTS",
-    "course_descr":null,
+    "course_descr":"Provides a global review of ERM requirements of regulators, rating agencies, and shareholders. Addresses three industry sectors: (1) insurance; (2) banking; and (3) corporate.\n\n",
     "instructor":"Fenton Aylmer",
     "scheduled_time_start":"8:10pm",
     "scheduled_time_end":"10:00pm",
@@ -4254,7 +4133,7 @@
   {
     "course_code":"ERMC PS5250",
     "course_title":"EXTERNAL STAKEHOLDER REQUIREMENTS",
-    "course_descr":null,
+    "course_descr":"Provides a global review of ERM requirements of regulators, rating agencies, and shareholders. Addresses three industry sectors: (1) insurance; (2) banking; and (3) corporate.\n\n",
     "instructor":"Rajat Baijal",
     "scheduled_time_start":"8:10pm",
     "scheduled_time_end":"10:00pm",
@@ -4282,7 +4161,7 @@
   {
     "course_code":"ERMC PS5250",
     "course_title":"EXTERNAL STAKEHOLDER REQUIREMENTS",
-    "course_descr":null,
+    "course_descr":"Provides a global review of ERM requirements of regulators, rating agencies, and shareholders. Addresses three industry sectors: (1) insurance; (2) banking; and (3) corporate.\n\n",
     "instructor":"Muriel Rachid Campomizzi",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -4310,7 +4189,7 @@
   {
     "course_code":"ERMC PS5250",
     "course_title":"EXTERNAL STAKEHOLDER REQUIREMENTS",
-    "course_descr":null,
+    "course_descr":"Provides a global review of ERM requirements of regulators, rating agencies, and shareholders. Addresses three industry sectors: (1) insurance; (2) banking; and (3) corporate.\n\n",
     "instructor":"Alan Cheung",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -4338,7 +4217,7 @@
   {
     "course_code":"ERMC PS5250",
     "course_title":"EXTERNAL STAKEHOLDER REQUIREMENTS",
-    "course_descr":null,
+    "course_descr":"Provides a global review of ERM requirements of regulators, rating agencies, and shareholders. Addresses three industry sectors: (1) insurance; (2) banking; and (3) corporate.\n\n",
     "instructor":"Alan Cheung",
     "scheduled_time_start":"8:10pm",
     "scheduled_time_end":"10:00pm",
@@ -4366,7 +4245,7 @@
   {
     "course_code":"ERMC PS5250",
     "course_title":"EXTERNAL STAKEHOLDER REQUIREMENTS",
-    "course_descr":null,
+    "course_descr":"Provides a global review of ERM requirements of regulators, rating agencies, and shareholders. Addresses three industry sectors: (1) insurance; (2) banking; and (3) corporate.\n\n",
     "instructor":"David Chitty",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -4394,7 +4273,7 @@
   {
     "course_code":"ERMC PS5250",
     "course_title":"EXTERNAL STAKEHOLDER REQUIREMENTS",
-    "course_descr":null,
+    "course_descr":"Provides a global review of ERM requirements of regulators, rating agencies, and shareholders. Addresses three industry sectors: (1) insurance; (2) banking; and (3) corporate.\n\n",
     "instructor":"Anthony Wong",
     "scheduled_time_start":"8:10pm",
     "scheduled_time_end":"10:00pm",
@@ -4422,7 +4301,7 @@
   {
     "course_code":"ERMC PS5250",
     "course_title":"EXTERNAL STAKEHOLDER REQUIREMENTS",
-    "course_descr":null,
+    "course_descr":"Provides a global review of ERM requirements of regulators, rating agencies, and shareholders. Addresses three industry sectors: (1) insurance; (2) banking; and (3) corporate.\n\n",
     "instructor":"Jean Michel Ngalikpima",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -4450,7 +4329,7 @@
   {
     "course_code":"ERMC PS5250",
     "course_title":"EXTERNAL STAKEHOLDER REQUIREMENTS",
-    "course_descr":null,
+    "course_descr":"Provides a global review of ERM requirements of regulators, rating agencies, and shareholders. Addresses three industry sectors: (1) insurance; (2) banking; and (3) corporate.\n\n",
     "instructor":null,
     "scheduled_time_start":"8:10pm",
     "scheduled_time_end":"10:00pm",
@@ -4478,7 +4357,7 @@
   {
     "course_code":"ERMC PS5250",
     "course_title":"EXTERNAL STAKEHOLDER REQUIREMENTS",
-    "course_descr":null,
+    "course_descr":"Provides a global review of ERM requirements of regulators, rating agencies, and shareholders. Addresses three industry sectors: (1) insurance; (2) banking; and (3) corporate.\n\n",
     "instructor":"Juan Echeverri",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -4506,7 +4385,7 @@
   {
     "course_code":"ERMC PS5250",
     "course_title":"EXTERNAL STAKEHOLDER REQUIREMENTS",
-    "course_descr":null,
+    "course_descr":"Provides a global review of ERM requirements of regulators, rating agencies, and shareholders. Addresses three industry sectors: (1) insurance; (2) banking; and (3) corporate.\n\n",
     "instructor":"R S Forston",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -4534,7 +4413,7 @@
   {
     "course_code":"ERMC PS5300",
     "course_title":"STRATEGIC COMMUNICATIONS FOR RISK PROFES",
-    "course_descr":null,
+    "course_descr":"Workshop-like course that addresses a variety of communication skills, including listening skills, presentation skills, leadership communications, conflict resolution, management interactions, and professional communication techniques.\n\n",
     "instructor":"Joseph Cina",
     "scheduled_time_start":"8:10pm",
     "scheduled_time_end":"10:00pm",
@@ -4562,7 +4441,7 @@
   {
     "course_code":"ERMC PS5300",
     "course_title":"STRATEGIC COMMUNICATIONS FOR RISK PROFES",
-    "course_descr":null,
+    "course_descr":"Workshop-like course that addresses a variety of communication skills, including listening skills, presentation skills, leadership communications, conflict resolution, management interactions, and professional communication techniques.\n\n",
     "instructor":"Mobarka F Ansari-Sheikh",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -4590,7 +4469,7 @@
   {
     "course_code":"ERMC PS5300",
     "course_title":"STRATEGIC COMMUNICATIONS FOR RISK PROFES",
-    "course_descr":null,
+    "course_descr":"Workshop-like course that addresses a variety of communication skills, including listening skills, presentation skills, leadership communications, conflict resolution, management interactions, and professional communication techniques.\n\n",
     "instructor":"Merci Decker",
     "scheduled_time_start":"8:10pm",
     "scheduled_time_end":"10:00pm",
@@ -4618,7 +4497,7 @@
   {
     "course_code":"ERMC PS5320",
     "course_title":"STRATEGIC RISK MANAGEMENT",
-    "course_descr":null,
+    "course_descr":"Review of the types of strategic risks, such as a flawed strategy, inability to execute the strategy, competitor risk, supply chain risk, governance risk, regulatory risk, M&A risk, international risk, etc. Includes case studies, research, and common mitigation techniques, such as strategic planning practices, management techniques, governance practices, supply-chain management, etc.\n\n",
     "instructor":"H.S. Bob Kostakopoulos",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -4646,7 +4525,7 @@
   {
     "course_code":"ERMC PS5320",
     "course_title":"STRATEGIC RISK MANAGEMENT",
-    "course_descr":null,
+    "course_descr":"Review of the types of strategic risks, such as a flawed strategy, inability to execute the strategy, competitor risk, supply chain risk, governance risk, regulatory risk, M&A risk, international risk, etc. Includes case studies, research, and common mitigation techniques, such as strategic planning practices, management techniques, governance practices, supply-chain management, etc.\n\n",
     "instructor":"Violet Diamant",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -4674,7 +4553,7 @@
   {
     "course_code":"ERMC PS5320",
     "course_title":"STRATEGIC RISK MANAGEMENT",
-    "course_descr":null,
+    "course_descr":"Review of the types of strategic risks, such as a flawed strategy, inability to execute the strategy, competitor risk, supply chain risk, governance risk, regulatory risk, M&A risk, international risk, etc. Includes case studies, research, and common mitigation techniques, such as strategic planning practices, management techniques, governance practices, supply-chain management, etc.\n\n",
     "instructor":"Raj Mittal",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -4702,7 +4581,7 @@
   {
     "course_code":"ERMC PS5320",
     "course_title":"STRATEGIC RISK MANAGEMENT",
-    "course_descr":null,
+    "course_descr":"Review of the types of strategic risks, such as a flawed strategy, inability to execute the strategy, competitor risk, supply chain risk, governance risk, regulatory risk, M&A risk, international risk, etc. Includes case studies, research, and common mitigation techniques, such as strategic planning practices, management techniques, governance practices, supply-chain management, etc.\n\n",
     "instructor":"Yvonne Pytlik",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -4730,7 +4609,7 @@
   {
     "course_code":"ERMC PS5320",
     "course_title":"STRATEGIC RISK MANAGEMENT",
-    "course_descr":null,
+    "course_descr":"Review of the types of strategic risks, such as a flawed strategy, inability to execute the strategy, competitor risk, supply chain risk, governance risk, regulatory risk, M&A risk, international risk, etc. Includes case studies, research, and common mitigation techniques, such as strategic planning practices, management techniques, governance practices, supply-chain management, etc.\n\n",
     "instructor":"Carlo Di Florio",
     "scheduled_time_start":"8:10pm",
     "scheduled_time_end":"10:00pm",
@@ -4758,7 +4637,7 @@
   {
     "course_code":"ERMC PS5340",
     "course_title":"OPERATIONAL RISK MANAGEMENT",
-    "course_descr":null,
+    "course_descr":"Review of the types of operational risks, such as technology risk (e.g., cyber-security), human resources risk, disasters, etc. Includes case studies, risk analysis frameworks and metrics, and common mitigation techniques, such as insurance, IT mitigation, business continuing planning, etc.\n\n",
     "instructor":"Prasad Kodali",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -4786,7 +4665,7 @@
   {
     "course_code":"ERMC PS5340",
     "course_title":"OPERATIONAL RISK MANAGEMENT",
-    "course_descr":null,
+    "course_descr":"Review of the types of operational risks, such as technology risk (e.g., cyber-security), human resources risk, disasters, etc. Includes case studies, risk analysis frameworks and metrics, and common mitigation techniques, such as insurance, IT mitigation, business continuing planning, etc.\n\n",
     "instructor":"Francis Tobin",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -4814,7 +4693,7 @@
   {
     "course_code":"ERMC PS5340",
     "course_title":"OPERATIONAL RISK MANAGEMENT",
-    "course_descr":null,
+    "course_descr":"Review of the types of operational risks, such as technology risk (e.g., cyber-security), human resources risk, disasters, etc. Includes case studies, risk analysis frameworks and metrics, and common mitigation techniques, such as insurance, IT mitigation, business continuing planning, etc.\n\n",
     "instructor":"Penny Cagan",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -4842,7 +4721,7 @@
   {
     "course_code":"ERMC PS5340",
     "course_title":"OPERATIONAL RISK MANAGEMENT",
-    "course_descr":null,
+    "course_descr":"Review of the types of operational risks, such as technology risk (e.g., cyber-security), human resources risk, disasters, etc. Includes case studies, risk analysis frameworks and metrics, and common mitigation techniques, such as insurance, IT mitigation, business continuing planning, etc.\n\n",
     "instructor":"Mark Jankiewicz",
     "scheduled_time_start":"8:10pm",
     "scheduled_time_end":"10:00pm",
@@ -4870,7 +4749,7 @@
   {
     "course_code":"ERMC PS5340",
     "course_title":"OPERATIONAL RISK MANAGEMENT",
-    "course_descr":null,
+    "course_descr":"Review of the types of operational risks, such as technology risk (e.g., cyber-security), human resources risk, disasters, etc. Includes case studies, risk analysis frameworks and metrics, and common mitigation techniques, such as insurance, IT mitigation, business continuing planning, etc.\n\n",
     "instructor":"Penny Cagan",
     "scheduled_time_start":"8:10pm",
     "scheduled_time_end":"10:00pm",
@@ -4898,7 +4777,7 @@
   {
     "course_code":"ERMC PS5340",
     "course_title":"OPERATIONAL RISK MANAGEMENT",
-    "course_descr":null,
+    "course_descr":"Review of the types of operational risks, such as technology risk (e.g., cyber-security), human resources risk, disasters, etc. Includes case studies, risk analysis frameworks and metrics, and common mitigation techniques, such as insurance, IT mitigation, business continuing planning, etc.\n\n",
     "instructor":"Saba Zahid",
     "scheduled_time_start":"8:10pm",
     "scheduled_time_end":"10:00pm",
@@ -4926,7 +4805,7 @@
   {
     "course_code":"ERMC PS5350",
     "course_title":"INTRO TO QUANTITATIVE RISK MANAGEMENT",
-    "course_descr":null,
+    "course_descr":"Students without a strong math background will require significant additional time and effort to achieve the learning objectives and work through the course assignments. This course builds a foundation in the mathematics and statistics of risk management. Students are empowered to understand the output of quantitative analysts and to do their own analytics. Concepts are presented in Excel and students will have the opportunity to practice those concepts in Excel, R or Python. This course is a required prerequisite for registering for the following courses: Financial Risk Management, Insurance Risk Management, ERM Modeling.\n\n",
     "instructor":"David Weltz",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -4954,7 +4833,7 @@
   {
     "course_code":"ERMC PS5350",
     "course_title":"INTRO TO QUANTITATIVE RISK MANAGEMENT",
-    "course_descr":null,
+    "course_descr":"Students without a strong math background will require significant additional time and effort to achieve the learning objectives and work through the course assignments. This course builds a foundation in the mathematics and statistics of risk management. Students are empowered to understand the output of quantitative analysts and to do their own analytics. Concepts are presented in Excel and students will have the opportunity to practice those concepts in Excel, R or Python. This course is a required prerequisite for registering for the following courses: Financial Risk Management, Insurance Risk Management, ERM Modeling.\n\n",
     "instructor":"Arun B Venkatarangan",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -4982,7 +4861,7 @@
   {
     "course_code":"ERMC PS5350",
     "course_title":"INTRO TO QUANTITATIVE RISK MANAGEMENT",
-    "course_descr":null,
+    "course_descr":"Students without a strong math background will require significant additional time and effort to achieve the learning objectives and work through the course assignments. This course builds a foundation in the mathematics and statistics of risk management. Students are empowered to understand the output of quantitative analysts and to do their own analytics. Concepts are presented in Excel and students will have the opportunity to practice those concepts in Excel, R or Python. This course is a required prerequisite for registering for the following courses: Financial Risk Management, Insurance Risk Management, ERM Modeling.\n\n",
     "instructor":"Michael Ding",
     "scheduled_time_start":"8:10pm",
     "scheduled_time_end":"10:00pm",
@@ -5010,7 +4889,7 @@
   {
     "course_code":"ERMC PS5355",
     "course_title":"CODING FOR RISK MANAGEMENT",
-    "course_descr":null,
+    "course_descr":"Equips students with the ability to adopt the programming culture typically present in the ERM\/risk areas of most financial organizations. By studying Python, SQL, R, git, and AWS, students gain exposure to different syntaxes. Students apply these skills by coding up market risk and credit risk models. Students also gain familiarity with working in the cloud.\n\n",
     "instructor":"David Weltz",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -5024,9 +4903,7 @@
     "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/ERMC\/K5355-20241-001\/",
     "location":"To be announced",
     "method_of_instruction":"In-Person",
-    "open_to":[
-      "Professional Studies"
-    ],
+    "open_to":null,
     "points":"3",
     "prerequisites":[
 
@@ -5038,7 +4915,7 @@
   {
     "course_code":"ERMC PS5355",
     "course_title":"CODING FOR RISK MANAGEMENT",
-    "course_descr":null,
+    "course_descr":"Equips students with the ability to adopt the programming culture typically present in the ERM\/risk areas of most financial organizations. By studying Python, SQL, R, git, and AWS, students gain exposure to different syntaxes. Students apply these skills by coding up market risk and credit risk models. Students also gain familiarity with working in the cloud.\n\n",
     "instructor":"Marcus Eich",
     "scheduled_time_start":"8:10pm",
     "scheduled_time_end":"10:00pm",
@@ -5052,9 +4929,7 @@
     "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/ERMC\/K5355-20241-D02\/",
     "location":"ONLINE ONLY",
     "method_of_instruction":"On-Line Only",
-    "open_to":[
-      "Professional Studies"
-    ],
+    "open_to":null,
     "points":"3",
     "prerequisites":[
 
@@ -5066,7 +4941,7 @@
   {
     "course_code":"ERMC PS5360",
     "course_title":"FINANCIAL RISK MANAGEMENT",
-    "course_descr":null,
+    "course_descr":"A survey of market, credit, liquidity, and systemic risk. Includes case studies, risk quantification methods, and common mitigation techniques using portfolio management, hedging, and derivatives. Also addresses traditional risk management practices at banking institutions.\n\n",
     "instructor":"Ben Steiner",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -5094,7 +4969,7 @@
   {
     "course_code":"ERMC PS5360",
     "course_title":"FINANCIAL RISK MANAGEMENT",
-    "course_descr":null,
+    "course_descr":"A survey of market, credit, liquidity, and systemic risk. Includes case studies, risk quantification methods, and common mitigation techniques using portfolio management, hedging, and derivatives. Also addresses traditional risk management practices at banking institutions.\n\n",
     "instructor":"Justin Hon",
     "scheduled_time_start":"8:10pm",
     "scheduled_time_end":"10:00pm",
@@ -5122,7 +4997,7 @@
   {
     "course_code":"ERMC PS5360",
     "course_title":"FINANCIAL RISK MANAGEMENT",
-    "course_descr":null,
+    "course_descr":"A survey of market, credit, liquidity, and systemic risk. Includes case studies, risk quantification methods, and common mitigation techniques using portfolio management, hedging, and derivatives. Also addresses traditional risk management practices at banking institutions.\n\n",
     "instructor":"Igor Axenov",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -5150,7 +5025,7 @@
   {
     "course_code":"ERMC PS5360",
     "course_title":"FINANCIAL RISK MANAGEMENT",
-    "course_descr":null,
+    "course_descr":"A survey of market, credit, liquidity, and systemic risk. Includes case studies, risk quantification methods, and common mitigation techniques using portfolio management, hedging, and derivatives. Also addresses traditional risk management practices at banking institutions.\n\n",
     "instructor":null,
     "scheduled_time_start":"8:10pm",
     "scheduled_time_end":"10:00pm",
@@ -5178,7 +5053,7 @@
   {
     "course_code":"ERMC PS5360",
     "course_title":"FINANCIAL RISK MANAGEMENT",
-    "course_descr":null,
+    "course_descr":"A survey of market, credit, liquidity, and systemic risk. Includes case studies, risk quantification methods, and common mitigation techniques using portfolio management, hedging, and derivatives. Also addresses traditional risk management practices at banking institutions.\n\n",
     "instructor":"Fabrice Fiol",
     "scheduled_time_start":"8:10pm",
     "scheduled_time_end":"10:00pm",
@@ -5206,7 +5081,7 @@
   {
     "course_code":"ERMC PS5380",
     "course_title":"INSURANCE RISK MANAGEMENT",
-    "course_descr":null,
+    "course_descr":"Review of types of insurance risk, such as pricing risk, underwriting risk, reserving risk, etc. Includes case studies, risk quantification methods (e.g., market-consistent economic capital models, dynamic financial analysis (DFA) models, catastrophe models, etc.), and common mitigation techniques, such as asset-liability management (ALM), reinsurance, etc. Also addresses traditional risk management at insurance companies and ERM actuarial standards of practice (ASOPs).\n\n",
     "instructor":"Melissa Miller",
     "scheduled_time_start":"8:10pm",
     "scheduled_time_end":"10:00pm",
@@ -5234,7 +5109,7 @@
   {
     "course_code":"ERMC PS5390",
     "course_title":"CREDIT RISK MANAGEMENT",
-    "course_descr":null,
+    "course_descr":"Credit Risk Management requires business acumen, the monitoring of internal and external data, disciplined execution, and organizational intelligence. A solid understanding of this enables a credit risk manager to help organizations achieve their objectives. Through readings, case studies, and modeling projects, students learn how risk managers decide on credit risk management strategy applied throughout the client lifecycle.\n\n",
     "instructor":"Rahmi E Aktug",
     "scheduled_time_start":"8:10pm",
     "scheduled_time_end":"10:00pm",
@@ -5262,7 +5137,7 @@
   {
     "course_code":"ERMC PS5390",
     "course_title":"CREDIT RISK MANAGEMENT",
-    "course_descr":null,
+    "course_descr":"Credit Risk Management requires business acumen, the monitoring of internal and external data, disciplined execution, and organizational intelligence. A solid understanding of this enables a credit risk manager to help organizations achieve their objectives. Through readings, case studies, and modeling projects, students learn how risk managers decide on credit risk management strategy applied throughout the client lifecycle.\n\n",
     "instructor":"Weijun Weng",
     "scheduled_time_start":"8:10pm",
     "scheduled_time_end":"10:00pm",
@@ -5290,7 +5165,7 @@
   {
     "course_code":"ERMC PS5410",
     "course_title":"MARKET RISK MANAGEMENT",
-    "course_descr":null,
+    "course_descr":"This course provides the tools to measure and manage market risk in the context of large financial institutions. The volume and complexity of the data itself, at large institutions, makes it a challenge to generate actionable information. We will take on this challenge to master the path from data to decisions.\n  \nWe cover the essential inputs to the engines of financial risk management: VaR, Expected Exposure, Potential Exposure, Expected Shortfall, backtesting, and stress testing as they apply to asset management and trading. We explore the strengths and weaknesses of these different metrics and the tradeoffs between them. We also cover how regulatory frameworks impact both the details and the strategy of building these engines. Lastly, we cover counterparty-credit methodologies, mainly as they apply to Trading Book risk.\n\n",
     "instructor":"Michael Zwecher",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -5318,7 +5193,7 @@
   {
     "course_code":"ERMC PS5410",
     "course_title":"MARKET RISK MANAGEMENT",
-    "course_descr":null,
+    "course_descr":"This course provides the tools to measure and manage market risk in the context of large financial institutions. The volume and complexity of the data itself, at large institutions, makes it a challenge to generate actionable information. We will take on this challenge to master the path from data to decisions.\n  \nWe cover the essential inputs to the engines of financial risk management: VaR, Expected Exposure, Potential Exposure, Expected Shortfall, backtesting, and stress testing as they apply to asset management and trading. We explore the strengths and weaknesses of these different metrics and the tradeoffs between them. We also cover how regulatory frameworks impact both the details and the strategy of building these engines. Lastly, we cover counterparty-credit methodologies, mainly as they apply to Trading Book risk.\n\n",
     "instructor":"Deniz Ozenbas",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -5346,7 +5221,7 @@
   {
     "course_code":"ERMC PS5420",
     "course_title":"CREDIT RISK ANALYTICS",
-    "course_descr":null,
+    "course_descr":"The field of credit risk management is undergoing a quiet revolution as subjective and manually-intensive methods give way to digitization, algorithmic management, and decision-making. This course provides a practical overview and hands-on experience with different methods, and it also provides a view of future technologies and discussions of potential future directions. Participants in this course should be well-positioned to take entry-level analytic positions and help drive strategic decisions.\n  \nThe first half of the course explores analytics used today for credit risk management. You will learn to create rating and scoring models and a macro scenario-based stress testing model. In the second half of the course, we explore more advanced tools used by the more prominent organizations and fintech firms, including neural net and XGBoost decision tree models.\n\n",
     "instructor":"Douglas W Dwyer",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -5374,7 +5249,7 @@
   {
     "course_code":"ERMC PS5420",
     "course_title":"CREDIT RISK ANALYTICS",
-    "course_descr":null,
+    "course_descr":"The field of credit risk management is undergoing a quiet revolution as subjective and manually-intensive methods give way to digitization, algorithmic management, and decision-making. This course provides a practical overview and hands-on experience with different methods, and it also provides a view of future technologies and discussions of potential future directions. Participants in this course should be well-positioned to take entry-level analytic positions and help drive strategic decisions.\n  \nThe first half of the course explores analytics used today for credit risk management. You will learn to create rating and scoring models and a macro scenario-based stress testing model. In the second half of the course, we explore more advanced tools used by the more prominent organizations and fintech firms, including neural net and XGBoost decision tree models.\n\n",
     "instructor":"Christopher Mann",
     "scheduled_time_start":"8:10pm",
     "scheduled_time_end":"10:00pm",
@@ -5402,7 +5277,7 @@
   {
     "course_code":"ERMC PS5430",
     "course_title":"LIQUIDITY RISK MANAGEMENT",
-    "course_descr":null,
+    "course_descr":"Indicators of companies running into hard times typically include revenue volatility, loss of key personnel, reputational damage, and increased litigation. However, company failures are frequently marked by insufficient liquidity, or the lack of cash to meet obligations. Liquidity risk is the unexpected change in a company\u2019s cash resources or demands on such resources that results in the untimely sale of assets, and\/or an inability to meet contractual demands and\/or default. In extreme cases, the lack of sufficient cash creates severe losses and results in company bankruptcy.\n  \nAn institution\u2019s cash resources and obligations can and must be managed. Indeed, the field of liquidity risk management is an established part of treasury departments at sizable institutions. The regularity of cash flows and the turbulence of business and markets must be assessed and quantified. This course provides students the tools and techniques to manage all types of liquidity challenges including the need to sell assets unexpectedly in the market, or work through \u2018\u2018run\u2010on-the\u2010bank\u2019\u2019 situations for financial services companies.\n\n",
     "instructor":"Joseph Dziwura",
     "scheduled_time_start":"8:10pm",
     "scheduled_time_end":"10:00pm",
@@ -5430,7 +5305,7 @@
   {
     "course_code":"ERMC PS5440",
     "course_title":"BLOCKCHAIN AND ERM",
-    "course_descr":null,
+    "course_descr":"Using Blockchain, decisions can be made without relying on a single centralized authority, allowing for greater transparency and trust between participants. By using smart contracts and distributed ledgers, users can easily create, modify, and manage agreements between stakeholders, ensuring that all parties have access to the same information and can make informed decisions. As a result, Blockchain technology reduces the risks associated with decision-making, and improves efficiency and accuracy. This course first examines the risks and rewards of implementing Blockchain at large organizations engaging in decentralized decision-making processes. The course then explores the Blockchain as a tool for risk management.\n\n",
     "instructor":"Ivan Bakrac",
     "scheduled_time_start":"8:10pm",
     "scheduled_time_end":"10:00pm",
@@ -5458,7 +5333,7 @@
   {
     "course_code":"ERMC PS5455",
     "course_title":"APPLIED CODING FOR RISK MANAGEMENT",
-    "course_descr":null,
+    "course_descr":"Applied Coding for Risk Management takes your ability to use code to the next level. This\u00a0course\u00a0is for students who have taken Coding for Risk Management. The goal of that\u00a0course\u00a0is to give you the ability to get risk management related work done with code. The goal of this\u00a0course\u00a0is to give you the ability to code in collaboration with teams in order to build and deploy risk models on large data sets. The\u00a0course\u00a0is highly structured and organized by topic into semester long learning threads. Each week, readings and assignments will take another step forward along these threads: Python and collaborative coding, SQL for business intelligence, data analysis and visualization, cloud-based infrastructure, simulation for risk management, financial data processing, and API\u2019s.\n\n",
     "instructor":"David J Romoff",
     "scheduled_time_start":"8:10pm",
     "scheduled_time_end":"10:00pm",
@@ -5486,7 +5361,7 @@
   {
     "course_code":"ERMC PS5510",
     "course_title":"COMPANY FAILURES",
-    "course_descr":null,
+    "course_descr":"Examination of areas critical to an organization\u2019s success from strategic, operational, financial, and insurance perspectives, and examines why many companies fail in spite of the vast knowledge of factors driving success. Several case studies examined in depth.\n\n",
     "instructor":"Adam H Litke",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -5514,7 +5389,7 @@
   {
     "course_code":"ERMC PS5510",
     "course_title":"COMPANY FAILURES",
-    "course_descr":null,
+    "course_descr":"Examination of areas critical to an organization\u2019s success from strategic, operational, financial, and insurance perspectives, and examines why many companies fail in spite of the vast knowledge of factors driving success. Several case studies examined in depth.\n\n",
     "instructor":"Steve Lindo",
     "scheduled_time_start":"8:10pm",
     "scheduled_time_end":"10:00pm",
@@ -5542,7 +5417,7 @@
   {
     "course_code":"ERMC PS5515",
     "course_title":"GLOBAL FINANCIAL SERVICES IN THE 21ST CE",
-    "course_descr":null,
+    "course_descr":"With an orientation more towards practical application, the intent of this course is to provide a strategic framework with which students can evaluate and understand the global financial services industry of both today and tomorrow. In this course we are defining global financial services as encompassing central banks, commercial and investment banks, asset\/wealth management institutions and financial regulators. Via case studies, proprietary materials, class based problem solving exercises, and guest lectures, we will examine and discuss the i) current and future role of the major financial service participants, (ii) key drivers influencing an industry that has always been characterized by significant change (e.g., regulatory, technology, risk, globalization, and client needs), and (iii) challenges and opportunities facing today's financial services' CEOs post the 2008\/09 financial crisis. Furthermore, this course is designed for students who want to be financial \u201carchitects and leaders\u201d, not financial \u201ctechnicians\u201d.\n\n",
     "instructor":"Richard Goldberg",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -5570,7 +5445,7 @@
   {
     "course_code":"ERMC PS5520",
     "course_title":"RISK REGULATIONS IN FINANCE",
-    "course_descr":null,
+    "course_descr":"This course examines post-financial crisis regulations including Basel III, Fundamental Review of the Trading Book (FRTB), Dodd-Frank Act, Supervision and Regulation Letter 11-7 (SR 11-7), and others.\u00a0 Case studies will explore the technical details of these new rules; and guest lectures from industry experts will bring the material to life.\u00a0 Areas of focus include: model risk management, stress testing, derivatives, and insurance.\u00a0 By the end of this course students will be able to:\n  \n  \nEvaluate the purpose and limitations of risk regulations in finance.\n  \nIdentify and communicate weaknesses in a financial firm.\n  \nCommunicate with regulators.\n  \nUnderstand Recovery and Resolution Plans or \u201cLiving Wills\u201d for a financial firm.\n \n\n",
     "instructor":null,
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -5598,7 +5473,7 @@
   {
     "course_code":"ERMC PS5520",
     "course_title":"RISK REGULATIONS IN FINANCE",
-    "course_descr":null,
+    "course_descr":"This course examines post-financial crisis regulations including Basel III, Fundamental Review of the Trading Book (FRTB), Dodd-Frank Act, Supervision and Regulation Letter 11-7 (SR 11-7), and others.\u00a0 Case studies will explore the technical details of these new rules; and guest lectures from industry experts will bring the material to life.\u00a0 Areas of focus include: model risk management, stress testing, derivatives, and insurance.\u00a0 By the end of this course students will be able to:\n  \n  \nEvaluate the purpose and limitations of risk regulations in finance.\n  \nIdentify and communicate weaknesses in a financial firm.\n  \nCommunicate with regulators.\n  \nUnderstand Recovery and Resolution Plans or \u201cLiving Wills\u201d for a financial firm.\n \n\n",
     "instructor":"Michael Leibrock",
     "scheduled_time_start":"8:10pm",
     "scheduled_time_end":"10:00pm",
@@ -5626,7 +5501,7 @@
   {
     "course_code":"ERMC PS5525",
     "course_title":"ESG  AND  ERM",
-    "course_descr":null,
+    "course_descr":"ESG will be a driving force in risk management in upcoming years. ERM \/ Risk professionals need a solid understanding of emerging ESG trends and regulations and\u00a0how they apply to day-to-day job responsibilities.\u00a0The ESG and ERM course begins with an overview of the ESG landscape and\u00a0framework. After a foundational understanding is established, the course focuses on\u00a0incorporating\u00a0ESG into enterprise risk management, including identification, quantification, decision making,\u00a0and reporting of ESG-related risks.\n\n",
     "instructor":"Helda Rock",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -5654,7 +5529,7 @@
   {
     "course_code":"ERMC PS5525",
     "course_title":"ESG  AND  ERM",
-    "course_descr":null,
+    "course_descr":"ESG will be a driving force in risk management in upcoming years. ERM \/ Risk professionals need a solid understanding of emerging ESG trends and regulations and\u00a0how they apply to day-to-day job responsibilities.\u00a0The ESG and ERM course begins with an overview of the ESG landscape and\u00a0framework. After a foundational understanding is established, the course focuses on\u00a0incorporating\u00a0ESG into enterprise risk management, including identification, quantification, decision making,\u00a0and reporting of ESG-related risks.\n\n",
     "instructor":"Yana Parfenyuk",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -5682,7 +5557,7 @@
   {
     "course_code":"ERMC PS5530",
     "course_title":"DERIVATIVES RISK MANAGEMENT",
-    "course_descr":null,
+    "course_descr":"This course explores financial derivatives across different asset classes with in-depth analysis of several popular trades including block trades, program trades, vanilla options, digital options, and variance swaps. Their dynamics and risks are explored through Monte Carlo simulation using Excel and Python. The daily decisions and tasks of a frontline risk manager are recreated and students have the opportunity to see which trades they would approve or reject. Students will gain a working knowledge of financial derivatives and acquire technical skills to answer complex questions on the trading floor.\n\n",
     "instructor":"Alberto Scalari",
     "scheduled_time_start":"8:10pm",
     "scheduled_time_end":"10:00pm",
@@ -5710,7 +5585,7 @@
   {
     "course_code":"ERMC PS5540",
     "course_title":"TOOLS FOR RISK MANAGEMENT",
-    "course_descr":null,
+    "course_descr":"Tools for Risk Management examines how risk technology platforms assess risks. These platforms gather, store, and analyze data; and transform that data to actionable information. This course explores how the platforms are implemented, customized, and evaluated. Topics include business requirements specification, data modeling, risk analytics and reporting, systems integration, regulatory issues, visualization, and change processes. Hands-on exercises using selected vendor tools will give students the opportunity to see what these tools can offer.\n\n",
     "instructor":"Barney Baldwin",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -5738,7 +5613,7 @@
   {
     "course_code":"ERMC PS5540",
     "course_title":"TOOLS FOR RISK MANAGEMENT",
-    "course_descr":null,
+    "course_descr":"Tools for Risk Management examines how risk technology platforms assess risks. These platforms gather, store, and analyze data; and transform that data to actionable information. This course explores how the platforms are implemented, customized, and evaluated. Topics include business requirements specification, data modeling, risk analytics and reporting, systems integration, regulatory issues, visualization, and change processes. Hands-on exercises using selected vendor tools will give students the opportunity to see what these tools can offer.\n\n",
     "instructor":"Viktor Ziskin",
     "scheduled_time_start":"8:10pm",
     "scheduled_time_end":"10:00pm",
@@ -5766,7 +5641,7 @@
   {
     "course_code":"ERMC PS5545",
     "course_title":"MODEL RISK MANAGEMENT",
-    "course_descr":null,
+    "course_descr":"Given the ever growing reliance on models, Model risk affects financial institutions at almost every level of their organization including pricing, risk, finance, and marketing. Model risk management (MRM) is now one of the primary focuses of operational risk management at modern financial institutions. In this class, the ERM skill sets of risk identification, risk quantification, and risk decision making are applied to the kinds of models seen in large, complex financial institutions. Through readings, lecture, assignments, and in-class discussions, students learn the principles and concepts that a robust MRM function uses to manage model risk.\n\n",
     "instructor":"Peter L Russo",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -5794,7 +5669,7 @@
   {
     "course_code":"ERMC PS5550",
     "course_title":"ERM MODELING",
-    "course_descr":null,
+    "course_descr":"Equips students with the basics of risk measurement and simulation using a hands-on approach to ERM modeling. Using industry-standard simulation software, students build systems of risk drivers for finance and insurance companies. Topics include risk correlations, VaR and TVaR, capital modeling, capital allocation, and parameter, process, and model Risk. Students acquire both quantitative experience building models and qualitative appreciation for model weaknesses.\n\n",
     "instructor":"Julian Horky",
     "scheduled_time_start":"8:10pm",
     "scheduled_time_end":"10:00pm",
@@ -5822,7 +5697,7 @@
   {
     "course_code":"ERMC PS5550",
     "course_title":"ERM MODELING",
-    "course_descr":null,
+    "course_descr":"Equips students with the basics of risk measurement and simulation using a hands-on approach to ERM modeling. Using industry-standard simulation software, students build systems of risk drivers for finance and insurance companies. Topics include risk correlations, VaR and TVaR, capital modeling, capital allocation, and parameter, process, and model Risk. Students acquire both quantitative experience building models and qualitative appreciation for model weaknesses.\n\n",
     "instructor":"Tom Passante",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -5850,7 +5725,7 @@
   {
     "course_code":"ERMC PS5555",
     "course_title":"MACHINE LEARNING FOR RISK MANAGEMENT",
-    "course_descr":null,
+    "course_descr":"The exponentially increasing availability of data and the rapid development of information technology and computing power have inevitably made Machine Learning part of the risk manager\u2019s toolkit. But, what are these tools? This class provides the driving intuitions for machine learning. Students will see how many of the algorithms are extensions of what we already do with our human minds. These algorithms include regularized regression, cluster analysis, naive bayes, apriori algorithm, decision trees, random forests, and boosted ensembles.\n  \nThrough practical and real-life applications of ML to Risk Management, students will learn to identify the best technique to apply to a particular risk management problem, from credit risk measurement, fraud detection, portfolio selection to climate change, and ESG applications.\n\n",
     "instructor":"Zeyu Zhang",
     "scheduled_time_start":"8:10pm",
     "scheduled_time_end":"10:00pm",
@@ -5878,7 +5753,7 @@
   {
     "course_code":"ERMC PS5560",
     "course_title":"SYSTEMIC RISK",
-    "course_descr":null,
+    "course_descr":"A study of financial, economic, and engineering disasters from a common systems engineering perspective, to better understand and model risk in complex process systems. Course topics will introduce process systems engineering concepts and tools such as digraphs, fault trees, probabilistic risk assessment, HAZOP, FMEA, etc., for modeling enterprise-wide risk. We will develop risk models and analyze them for real-life inspired examples and case studies. Several disaster case studies will also be discussed.\n\n",
     "instructor":"Venkat Venkatasubramanian",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -5906,7 +5781,7 @@
   {
     "course_code":"ERMC PS5570",
     "course_title":"INFORMATION TECHNOLOGY RISK MANAGEMENT",
-    "course_descr":null,
+    "course_descr":"Students will learn how to better identify and manage a wide range of IT risks as well as better inform IT investment decisions that support the business strategy. Students will develop an instinct for where to look for technological risks, and how IT risks may be contributing factors toward key business risks. This course includes a review of IT risks, including those related to governance, general controls, compliance, cybersecurity, data privacy, and project management. Students will learn how to use a risk-based approach to identify and mitigate cybersecurity and privacy related risks and vulnerabilities. No prior experience or technical skills required to successfully complete this course.\n\n",
     "instructor":"Shahryar Shaghaghi",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -5934,7 +5809,7 @@
   {
     "course_code":"ERMC PS5570",
     "course_title":"INFORMATION TECHNOLOGY RISK MANAGEMENT",
-    "course_descr":null,
+    "course_descr":"Students will learn how to better identify and manage a wide range of IT risks as well as better inform IT investment decisions that support the business strategy. Students will develop an instinct for where to look for technological risks, and how IT risks may be contributing factors toward key business risks. This course includes a review of IT risks, including those related to governance, general controls, compliance, cybersecurity, data privacy, and project management. Students will learn how to use a risk-based approach to identify and mitigate cybersecurity and privacy related risks and vulnerabilities. No prior experience or technical skills required to successfully complete this course.\n\n",
     "instructor":"Shahryar Shaghaghi",
     "scheduled_time_start":"8:10pm",
     "scheduled_time_end":"10:00pm",
@@ -5962,7 +5837,7 @@
   {
     "course_code":"ERMC PS5570",
     "course_title":"INFORMATION TECHNOLOGY RISK MANAGEMENT",
-    "course_descr":null,
+    "course_descr":"Students will learn how to better identify and manage a wide range of IT risks as well as better inform IT investment decisions that support the business strategy. Students will develop an instinct for where to look for technological risks, and how IT risks may be contributing factors toward key business risks. This course includes a review of IT risks, including those related to governance, general controls, compliance, cybersecurity, data privacy, and project management. Students will learn how to use a risk-based approach to identify and mitigate cybersecurity and privacy related risks and vulnerabilities. No prior experience or technical skills required to successfully complete this course.\n\n",
     "instructor":"Ondrej Krehel",
     "scheduled_time_start":"8:10pm",
     "scheduled_time_end":"10:00pm",
@@ -5990,7 +5865,7 @@
   {
     "course_code":"ERMC PS5570",
     "course_title":"INFORMATION TECHNOLOGY RISK MANAGEMENT",
-    "course_descr":null,
+    "course_descr":"Students will learn how to better identify and manage a wide range of IT risks as well as better inform IT investment decisions that support the business strategy. Students will develop an instinct for where to look for technological risks, and how IT risks may be contributing factors toward key business risks. This course includes a review of IT risks, including those related to governance, general controls, compliance, cybersecurity, data privacy, and project management. Students will learn how to use a risk-based approach to identify and mitigate cybersecurity and privacy related risks and vulnerabilities. No prior experience or technical skills required to successfully complete this course.\n\n",
     "instructor":"Adam Ely",
     "scheduled_time_start":"8:10pm",
     "scheduled_time_end":"10:00pm",
@@ -6018,7 +5893,7 @@
   {
     "course_code":"ERMC PS5590",
     "course_title":"COGNITIVE BIAS & ERM",
-    "course_descr":null,
+    "course_descr":"Explores key concepts of behavioral economics and cognitive psychology, how to identify key cognitive biases in ERM activities, and how to apply techniques to address these, enhancing the quality and integrity of an ERM program. The course also includes best practices in leveraging analytic models to improve decision making.\n\n",
     "instructor":"Zava Aydemir",
     "scheduled_time_start":"8:10pm",
     "scheduled_time_end":"10:00pm",
@@ -6046,7 +5921,7 @@
   {
     "course_code":"ERMC PS5900",
     "course_title":"ERM CAPSTONE",
-    "course_descr":null,
+    "course_descr":"Teams will work through a case assignment, demonstrating mastery of key learnings gained throughout the program on an integrated basis. A simulated case study is used: this is a combination of publicly-available information of an actual company and simulated ERM program details, based on a blend of current ERM programs and practices in the marketplace. Each team will assess the case study and recommend enhancements.\n\n",
     "instructor":"Xue Bai",
     "scheduled_time_start":"8:10pm",
     "scheduled_time_end":"10:00pm",
@@ -6074,7 +5949,7 @@
   {
     "course_code":"ERMC PS5900",
     "course_title":"ERM CAPSTONE",
-    "course_descr":null,
+    "course_descr":"Teams will work through a case assignment, demonstrating mastery of key learnings gained throughout the program on an integrated basis. A simulated case study is used: this is a combination of publicly-available information of an actual company and simulated ERM program details, based on a blend of current ERM programs and practices in the marketplace. Each team will assess the case study and recommend enhancements.\n\n",
     "instructor":"Rich Lauria",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -6098,6 +5973,245 @@
     "scheduled_days":"M",
     "section_key":"20241ERMC5900KD02",
     "type":"LECTURE"
+  },
+  {
+    "course_code":"HRTS GR6800",
+    "course_title":"INTERNATIONAL HUMAN RIGHTS LAW",
+    "course_descr":null,
+    "instructor":"Jacqueline Dugard",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"10865",
+    "campus":"Morningside",
+    "class_id":"G6800-20241-001",
+    "course_subtitle":"INTERNATIONAL HUMAN RIGHT",
+    "department":"Institute for Study of Human Rights",
+    "department_code":"HRTS",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/HRTS\/G6800-20241-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20241HRTS6800G001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"HRTS GR6990",
+    "course_title":"HUMAN RIGHTS RESEARCH SEM",
+    "course_descr":null,
+    "instructor":"Timothy Wyman-McCarthy",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"6:00pm",
+    "call_number":"10869",
+    "campus":"Morningside",
+    "class_id":"G6990-20241-001",
+    "course_subtitle":"HUMAN RIGHTS GRAD RES SEMINAR",
+    "department":"Institute for Study of Human Rights",
+    "department_code":"HRTS",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/HRTS\/G6990-20241-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "GSAS"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20241HRTS6990G001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"HRTS GU4195",
+    "course_title":"Topics in History, Memory and Transition",
+    "course_descr":null,
+    "instructor":"Nanci Adler",
+    "scheduled_time_start":"12:10pm",
+    "scheduled_time_end":"2:00pm",
+    "call_number":"10871",
+    "campus":"Morningside",
+    "class_id":"W4195-20241-001",
+    "course_subtitle":"HIST, MEMORY&TRANS JUSTIC",
+    "department":"Institute for Study of Human Rights",
+    "department_code":"HRTS",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/HRTS\/W4195-20241-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20241HRTS4195W001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"HRTS GU4270",
+    "course_title":"SOCIAL MEDIA AND HUMAN RIGHTS",
+    "course_descr":null,
+    "instructor":"Ted Perlmutter",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"10862",
+    "campus":"Morningside",
+    "class_id":"G4270-20241-001",
+    "course_subtitle":null,
+    "department":"Institute for Study of Human Rights",
+    "department_code":"HRTS",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/HRTS\/G4270-20241-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20241HRTS4270G001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"HRTS GU4460",
+    "course_title":"Climate Justice",
+    "course_descr":null,
+    "instructor":"Jacqueline Dugard",
+    "scheduled_time_start":"12:10pm",
+    "scheduled_time_end":"2:00pm",
+    "call_number":"10863",
+    "campus":"Morningside",
+    "class_id":"W4460-20241-001",
+    "course_subtitle":null,
+    "department":"Institute for Study of Human Rights",
+    "department_code":"HRTS",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/HRTS\/W4460-20241-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20241HRTS4460W001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"HRTS GU4915",
+    "course_title":"HUMAN RIGHTS & URBAN PUB SPACE",
+    "course_descr":null,
+    "instructor":"Noah B Chasin",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"12:00pm",
+    "call_number":"10875",
+    "campus":"Morningside",
+    "class_id":"W4915-20241-011",
+    "course_subtitle":"HUMAN RIGHTS & URBAN PUB",
+    "department":"Institute for Study of Human Rights",
+    "department_code":"HRTS",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/HRTS\/W4915-20241-011\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20241HRTS4915W011",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"HRTS GU4930",
+    "course_title":"INT'L HUMANITARIAN LAW\/HUM RGTS",
+    "course_descr":null,
+    "instructor":"Bruce L Cronin",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"12:00pm",
+    "call_number":"10864",
+    "campus":"Morningside",
+    "class_id":"W4930-20241-001",
+    "course_subtitle":"INT'L HUMANITARIAN LAW\/HU",
+    "department":"Institute for Study of Human Rights",
+    "department_code":"HRTS",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/HRTS\/W4930-20241-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20241HRTS4930W001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"HRTS UN3995",
+    "course_title":"HUMAN RIGHTS SENIOR SEMINAR",
+    "course_descr":null,
+    "instructor":"Shourideh Molavi",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"12:00pm",
+    "call_number":"10872",
+    "campus":"Morningside",
+    "class_id":"W3995-20241-001",
+    "course_subtitle":"HUMAN RIGHTS SEMINAR",
+    "department":"Institute for Study of Human Rights",
+    "department_code":"HRTS",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/HRTS\/W3995-20241-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20241HRTS3995W001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"HRTS UN3996",
+    "course_title":"HUMAN RIGHTS THESIS SEMINAR",
+    "course_descr":null,
+    "instructor":"Tracey Holland",
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"10861",
+    "campus":"Morningside",
+    "class_id":"W3996-20241-001",
+    "course_subtitle":"HUMAN RIGHTS THESIS SEMIN",
+    "department":"Institute for Study of Human Rights",
+    "department_code":"HRTS",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/HRTS\/W3996-20241-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "General Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20241HRTS3996W001",
+    "type":"SEMINAR"
   },
   {
     "course_code":"HUMA CC1002",
@@ -9592,6 +9706,34 @@
     "type":"SEMINAR"
   },
   {
+    "course_code":"INAF U6089",
+    "course_title":"Environmental Justice and Climate Resili",
+    "course_descr":null,
+    "instructor":"Annel M Hernandez",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"10866",
+    "campus":"Morningside",
+    "class_id":"U6089-20241-001",
+    "course_subtitle":"Enviro Justice & Climate Resil",
+    "department":"International and Public Affairs",
+    "department_code":"INAF",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/INAF\/U6089-20241-001\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20241INAF6089U001",
+    "type":"SEMINAR"
+  },
+  {
     "course_code":"INAF U6095",
     "course_title":"Theory and Principles of Financial Regul",
     "course_descr":"In this course we will study financial market failures due to externalities, incomplete information and financial fragility and we will investigate the ways that a benevolent government might use regulation to improve matters. We will also consider theories about the behavior of regulators drawn from political and behavioral economics. We will examine the difficulties associated with designing financial regulation. We will analyze how regulatory failures contributed to the recent financial crises and discuss post-crises attempts at regulatory reform.\n",
@@ -9628,6 +9770,34 @@
     "scheduled_days":"W",
     "section_key":"20241INAF6095U001",
     "type":"LECTURE"
+  },
+  {
+    "course_code":"INAF U6120",
+    "course_title":"Visual Storytelling",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"10867",
+    "campus":"Morningside",
+    "class_id":"U6120-20241-001",
+    "course_subtitle":null,
+    "department":"International and Public Affairs",
+    "department_code":"INAF",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/INAF\/U6120-20241-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20241INAF6120U001",
+    "type":"SEMINAR"
   },
   {
     "course_code":"INAF U6123",
@@ -10030,6 +10200,62 @@
     "type":"SEMINAR"
   },
   {
+    "course_code":"INAF U6198",
+    "course_title":"Technology for Intl Crisis Response & Go",
+    "course_descr":null,
+    "instructor":"Nicholas Martin",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"10870",
+    "campus":"Morningside",
+    "class_id":"U6198-20241-001",
+    "course_subtitle":"Tech for Intl Crisis Response",
+    "department":"International and Public Affairs",
+    "department_code":"INAF",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/INAF\/U6198-20241-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"1.5",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20241INAF6198U001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"INAF U6202",
+    "course_title":"Internet Governance and Human Rights",
+    "course_descr":null,
+    "instructor":"Peter Micek",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"10873",
+    "campus":"Morningside",
+    "class_id":"U6202-20241-001",
+    "course_subtitle":"Internet Governance",
+    "department":"International and Public Affairs",
+    "department_code":"INAF",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/INAF\/U6202-20241-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20241INAF6202U001",
+    "type":"SEMINAR"
+  },
+  {
     "course_code":"INAF U6226",
     "course_title":"Leadership & Innovative Policy Making",
     "course_descr":"In this course the students will (a) master key themes in leadership development and policy making, (b) increase their own leadership and policy making capacities through reflection and discussion and (c) evaluate the leadership record of an extraordinary policy leader. The goal of the three-pronged approach is to prepare students for understanding and exercising leadership-executive ability in government, non-governmental organizations, and business. Leadership is the ability to influence people towards achieving a goal. An important part of the SIPA mission is to prepare students for leadership and innovative policy making. In this course we will examine leadership and policy making out of the box as well as inside the box by having students tackle several key themes and some specific questions. The themes include issues such as, are leaders born or made? What kind of leaders design and implement good versus bad policies? Can nudging and innovative policy making substitute for forceful policy intervention? To what extent are economic and political outcomes products of leadership as opposed to external environment?\n\n",
@@ -10184,7 +10410,7 @@
   {
     "course_code":"INAF U6272",
     "course_title":"Introduction to Data Analytics for Publi",
-    "course_descr":null,
+    "course_descr":"This course aims to establish a first-principles understanding of qualitative and quantitative techniques, tools, and processes used to wield data for effective decision-making. Its approach focuses on pragmatic, interactive learning using logical methods, basic tools, and publicly available data to practice extracting insights and building recommendations. It is designed for students with little prior statistical or mathematical training and no prior pre-exposure to statistical software.\n\n",
     "instructor":"Poranee Kingpetcharat",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -10199,7 +10425,17 @@
     "location":null,
     "method_of_instruction":"In-Person",
     "open_to":[
-      "SIPA"
+      "Architecture",
+      "Business",
+      "Engineering:Graduate",
+      "GSAS",
+      "Journalism",
+      "Law",
+      "Professional Studies",
+      "Public Health",
+      "SIPA",
+      "Schools of the Arts",
+      "Social Work"
     ],
     "points":"1.5",
     "prerequisites":[
@@ -10212,7 +10448,7 @@
   {
     "course_code":"INAF U6274",
     "course_title":"Introduction to Database Design, Managem",
-    "course_descr":null,
+    "course_descr":"The goal of this course is to train advanced students on the principles, practices, and technologies required for good database design, management, and security. An introduction to the concepts and issues relating to data warehousing, governance, administration, security, privacy, and alternative database structures will be provided. The course concentrates on building a firm foundation in information organization, storage, management, and security.\u00a0Students planning to enroll in this course should be comfortable with the fundamentals of programming and basic data structures. This course prepares students to build and administer a database and covers representing information with the relational database model, manipulating data with Structured Query Language (SQL), database design, and database security, integrity, and privacy issues.\n\n",
     "instructor":"Poranee Kingpetcharat",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -10227,7 +10463,17 @@
     "location":null,
     "method_of_instruction":"In-Person",
     "open_to":[
-      "SIPA"
+      "Architecture",
+      "Business",
+      "Engineering:Graduate",
+      "GSAS",
+      "Journalism",
+      "Law",
+      "Professional Studies",
+      "Public Health",
+      "SIPA",
+      "Schools of the Arts",
+      "Social Work"
     ],
     "points":"1.5",
     "prerequisites":[
@@ -11202,6 +11448,32 @@
     ],
     "scheduled_days":null,
     "section_key":"20241INAF6511U001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"INAF U6512",
+    "course_title":"Data Driven Approaches for Campaigns and",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"10874",
+    "campus":"Morningside",
+    "class_id":"U6512-20241-001",
+    "course_subtitle":"Data Driven Approaches-Campaig",
+    "department":"International and Public Affairs",
+    "department_code":"INAF",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/INAF\/U6512-20241-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20241INAF6512U001",
     "type":"SEMINAR"
   },
   {
@@ -20053,6 +20325,34 @@
     "type":"SEMINAR"
   },
   {
+    "course_code":"RESI U0003",
+    "course_title":"1\/4 Residence Unit, SIPA",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"10881",
+    "campus":"Morningside",
+    "class_id":"U0003-20241-001",
+    "course_subtitle":null,
+    "department":"International and Public Affairs",
+    "department_code":"RESI",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/RESI\/U0003-20241-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20241RESI0003U001",
+    "type":"RESIDENCY"
+  },
+  {
     "course_code":"RSRH M7208",
     "course_title":"PRECISION MEDICINE       NG",
     "course_descr":null,
@@ -20107,7 +20407,7 @@
   {
     "course_code":"RUSS GR6142",
     "course_title":"RUSSIAN ORTHODOX CULTURE",
-    "course_descr":null,
+    "course_descr":"From Prince Valdimir\u2019s Rus\u2019 to the Post-Soviet Russia of Vladimir Putin, religion has remained a key factor in the making and remaking of Russian polity and culture. This course will explore how Orthodox Christianity\u2014whether privileged or persecuted\u2014came to dominate the Russian religious scene and shape Russian institutions, discourses, and lived experiences. Students will draw from a variety of primary and secondary sources\u2014chronicles, saints\u2019 lives, travel narratives, memoirs, letters, legal documents, icons and other ritual objects, films and fictional texts, as well as a large body of scholarly works and contemporary media materials\u2014to examine how Russia\u2019s Orthodox past and its rewriting into competing \u201chistories\u201d have been used over time as \u201clegacies\u201d shaping the present and the future.\n",
     "instructor":"Valentina Izmirlieva",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -20159,7 +20459,7 @@
   {
     "course_code":"RUSS UN3221",
     "course_title":"LIT & REVOLUTION (20TH C LIT)",
-    "course_descr":null,
+    "course_descr":"The revolutionary period (1905-1938) in Russia was not only one of extreme social upheaval but also of exceptional creativity. Established ideas about individuality and collectivity, about how to depict reality, about language, gender, authority, and violence, were all thrown open to radical questioning. Out of this chaos came ideas about literature and film (just for example) which have shaped Western thought on these subjects to this day. In this course we will study a variety of media and genres (poetry, manifestos, film, painting, photomontage, the novel, theoretical essays) in an effort to gain a deep understanding of this complex and fascinating period in Russian cultural history.\n\n",
     "instructor":"Jessica E Merrill",
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:55pm",
@@ -20211,7 +20511,7 @@
   {
     "course_code":"RUSS UN3230",
     "course_title":"Tricksters in World Culture: Mockery, Su",
-    "course_descr":null,
+    "course_descr":"Tricksters constitute one of the universal themes or tropes in mythology and folklore of many cultures. Through the discussions of ancient Greek, North-American, African, Paleo- Asiatic, Scandinavian, African-American, Muslim and Jewish myths and folklore about tricksters, the course will telescope the cultural functions of the comedic transgression as a form of social critique; it will also highlight cynicism, its productive and dangerous aspects. Then we\u2019ll introduce different historical subtypes of tricksters, such as buffoon, fool, jester, holy fool, kynik, picaro, adventurer, imposter, con artist, female and transgender tricksters, thus moving through premodern and early modern periods. Each type of the trickster is illustrated by literary examples from different world cultures (European and non-European alike) as well as theoretical works of Mikhail Bakhtin, Michel Foucault, Giorgio Agamben, and Peter Sloterdijk. Finally, the role of the trickster in modernity will be discussed through the case of Soviet tricksters, who had become true superstars manifesting the resistance to repressive political ideology by the means of \u201ccynical reason\u201d. The course will culminate in the trial of the most popular and important trickster in Soviet culture, Ostap Bender from Ilf and Petrov\u2019s satirical novels. In the course\u2019s finale will discuss the role of tricksters in contemporary politics.\n\n",
     "instructor":"Mark Lipovetsky",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -20620,6 +20920,90 @@
     ],
     "scheduled_days":null,
     "section_key":"20241SIPA6015U001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"SIPA U6016",
+    "course_title":"Leading & Managing in Moments of Adversi",
+    "course_descr":null,
+    "instructor":"Kirsti Samuels",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"10876",
+    "campus":"Morningside",
+    "class_id":"U6016-20241-001",
+    "course_subtitle":"Leading & Managing",
+    "department":"International and Public Affairs",
+    "department_code":"SIPA",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/SIPA\/U6016-20241-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20241SIPA6016U001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"SIPA U6200",
+    "course_title":"Accounting for International and Public",
+    "course_descr":null,
+    "instructor":"Norman Bartczak",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"10877",
+    "campus":"Morningside",
+    "class_id":"U6200-20241-001",
+    "course_subtitle":"Accounting",
+    "department":"International and Public Affairs",
+    "department_code":"SIPA",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/SIPA\/U6200-20241-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20241SIPA6200U001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"SIPA U6200",
+    "course_title":"Accounting for International and Public",
+    "course_descr":null,
+    "instructor":"Norman Bartczak",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"10878",
+    "campus":"Morningside",
+    "class_id":"U6200-20241-002",
+    "course_subtitle":"Accounting",
+    "department":"International and Public Affairs",
+    "department_code":"SIPA",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/SIPA\/U6200-20241-002\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20241SIPA6200U002",
     "type":"LECTURE"
   },
   {
