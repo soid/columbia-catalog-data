@@ -2,7 +2,7 @@
   {
     "course_code":"AFCV UN1020",
     "course_title":"AFRICAN CIVILIZATION",
-    "course_descr":null,
+    "course_descr":"This course provides a general introduction to some of the key intellectual debates in Africa by Africans through primary sources, including scholarly works, political tracts, fiction, art, and film. Beginning with an exploration of African notions of spiritual and philosophical uniqueness and ending with contemporary debates on the meaning and historical viability of an African Renaissance, this course explores the meanings of \u2018Africa and \u2018being African. Field(s): AFR*. NO FIRST YEAR STUDENTS PERMITTED.\n",
     "instructor":"Thomas B Zuber",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -32,7 +32,7 @@
   {
     "course_code":"ANTH GR5115",
     "course_title":"Political Human-Animal Studies",
-    "course_descr":null,
+    "course_descr":"In a number of academic disciplines the concern with relationships between humans and non-humans has recently resulted in a radical revision of the ways in which we think people and animals construct their social worlds. This course addresses how humans and animals enter into, and interact within, each other's worlds. It draws upon perspectives from anthropology, geography, (political) philosophy, ethics, literary theory, and the sciences, placing current debates within the context of the deep history of human-animal relations. Topics to be discussed include \"wildness\", domestication, classification, animal rights, biotechnology, \"nature\/culture\", food\/cooking, fabulous\/mythical animals, the portrayal of animals in popular culture, and human-animal sexualities.\n\n",
     "instructor":"Brian Boyd",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -2734,6 +2734,62 @@
     "type":"STUDIO"
   },
   {
+    "course_code":"ARCH A4033",
+    "course_title":"CCCP COLLOQUIUM",
+    "course_descr":null,
+    "instructor":"Mark Wasiuta",
+    "scheduled_time_start":"3:00pm",
+    "scheduled_time_end":"5:00pm",
+    "call_number":"11071",
+    "campus":"Morningside",
+    "class_id":"A4033-20241-001",
+    "course_subtitle":null,
+    "department":"Architecture, Planning and Preservation",
+    "department_code":"ARCH",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/ARCH\/A4033-20241-001\/",
+    "location":"300 S Buell Hall",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20241ARCH4033A001",
+    "type":"COLLOQUIA"
+  },
+  {
+    "course_code":"ARCH A4041",
+    "course_title":"CCCP THESIS II",
+    "course_descr":null,
+    "instructor":"Joanna R Joseph",
+    "scheduled_time_start":"2:00pm",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"11072",
+    "campus":"Morningside",
+    "class_id":"A4041-20241-001",
+    "course_subtitle":null,
+    "department":"Architecture, Planning and Preservation",
+    "department_code":"ARCH",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/ARCH\/A4041-20241-001\/",
+    "location":"203 Fayerweather",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture"
+    ],
+    "points":"9",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20241ARCH4041A001",
+    "type":"COLLOQUIA"
+  },
+  {
     "course_code":"ARCH A4047",
     "course_title":"IMMEASURABLE SITES",
     "course_descr":null,
@@ -3742,6 +3798,683 @@
     "type":"TUTORIAL"
   },
   {
+    "course_code":"ARCH A4112",
+    "course_title":"TECH II STRUCTURES IN ARCHITECTURE",
+    "course_descr":null,
+    "instructor":"Zak Kostura",
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"12:00pm",
+    "call_number":"11073",
+    "campus":"Morningside",
+    "class_id":"A4112-20241-001",
+    "course_subtitle":"TECH II STRUCTURES IN ARC",
+    "department":"Architecture, Planning and Preservation",
+    "department_code":"ARCH",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/ARCH\/A4112-20241-001\/",
+    "location":"114 Avery Hall",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20241ARCH4112A001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ARCH A4115",
+    "course_title":"TECH V CONSTRUCTION AND LIFE CYCLE SYSTE",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"1:30pm",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"11074",
+    "campus":"Morningside",
+    "class_id":"A4115-20241-001",
+    "course_subtitle":"TECH V CNSTRCTN & LIFE CY",
+    "department":"Architecture, Planning and Preservation",
+    "department_code":"ARCH",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/ARCH\/A4115-20241-001\/",
+    "location":"114 Avery Hall",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20241ARCH4115A001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ARCH A4349",
+    "course_title":"QUES IN ARCH HISTORY II",
+    "course_descr":null,
+    "instructor":"Mark Wigley",
+    "scheduled_time_start":"11:00am",
+    "scheduled_time_end":"1:00pm",
+    "call_number":"11078",
+    "campus":"Morningside",
+    "class_id":"A4349-20241-001",
+    "course_subtitle":null,
+    "department":"Architecture, Planning and Preservation",
+    "department_code":"ARCH",
+    "instructor_wikipedia_link":"https:\/\/en.wikipedia.org\/wiki\/Mark_Wigley",
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/ARCH\/A4349-20241-001\/",
+    "location":"600 Avery Hall",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20241ARCH4349A001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ARCH A4349",
+    "course_title":"QUES IN ARCH HISTORY II",
+    "course_descr":null,
+    "instructor":"Felicity Scott",
+    "scheduled_time_start":"11:00am",
+    "scheduled_time_end":"1:00pm",
+    "call_number":"11079",
+    "campus":"Morningside",
+    "class_id":"A4349-20241-002",
+    "course_subtitle":null,
+    "department":"Architecture, Planning and Preservation",
+    "department_code":"ARCH",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/ARCH\/A4349-20241-002\/",
+    "location":"300 S Buell Hall",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20241ARCH4349A002",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ARCH A4349",
+    "course_title":"QUES IN ARCH HISTORY II",
+    "course_descr":null,
+    "instructor":"Ateya A Khorakiwala",
+    "scheduled_time_start":"11:00am",
+    "scheduled_time_end":"1:00pm",
+    "call_number":"11080",
+    "campus":"Morningside",
+    "class_id":"A4349-20241-003",
+    "course_subtitle":null,
+    "department":"Architecture, Planning and Preservation",
+    "department_code":"ARCH",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/ARCH\/A4349-20241-003\/",
+    "location":"115 Avery Hall",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20241ARCH4349A003",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ARCH A4385",
+    "course_title":"ARAB MODERNISM(S)",
+    "course_descr":null,
+    "instructor":"Yasser Elsheshtawy",
+    "scheduled_time_start":"11:00am",
+    "scheduled_time_end":"1:00pm",
+    "call_number":"11081",
+    "campus":"Morningside",
+    "class_id":"A4385-20241-001",
+    "course_subtitle":null,
+    "department":"Architecture, Planning and Preservation",
+    "department_code":"ARCH",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/ARCH\/A4385-20241-001\/",
+    "location":"200 N Buell Hall",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture",
+      "GSAS"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20241ARCH4385A001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ARCH A4432",
+    "course_title":"NERVOUS SYSTEMS",
+    "course_descr":null,
+    "instructor":"Lindy Roy",
+    "scheduled_time_start":"11:00am",
+    "scheduled_time_end":"1:00pm",
+    "call_number":"11061",
+    "campus":"Morningside",
+    "class_id":"A4432-20241-001",
+    "course_subtitle":null,
+    "department":"Architecture, Planning and Preservation",
+    "department_code":"ARCH",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/ARCH\/A4432-20241-001\/",
+    "location":"504 Avery Hall",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture",
+      "GSAS"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20241ARCH4432A001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ARCH A4507",
+    "course_title":"UNORTHODOX ARCH PRACTICES",
+    "course_descr":null,
+    "instructor":"Juan Herreros",
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"11:00am",
+    "call_number":"11062",
+    "campus":"Morningside",
+    "class_id":"A4507-20241-001",
+    "course_subtitle":null,
+    "department":"Architecture, Planning and Preservation",
+    "department_code":"ARCH",
+    "instructor_wikipedia_link":"https:\/\/en.wikipedia.org\/wiki\/Juan_Herreros",
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/ARCH\/A4507-20241-001\/",
+    "location":"408 Avery Hall",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20241ARCH4507A001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"ARCH A4618",
+    "course_title":"ARCHITECTURE CONCEPTS FROM 1968 TO THE P",
+    "course_descr":null,
+    "instructor":"Bernard Tschumi",
+    "scheduled_time_start":"11:00am",
+    "scheduled_time_end":"1:00pm",
+    "call_number":"11083",
+    "campus":"Morningside",
+    "class_id":"A4618-20241-001",
+    "course_subtitle":"ARCH:CONTEMP-1968 TO THE",
+    "department":"Architecture, Planning and Preservation",
+    "department_code":"ARCH",
+    "instructor_wikipedia_link":"https:\/\/en.wikipedia.org\/wiki\/Bernard_Tschumi",
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/ARCH\/A4618-20241-001\/",
+    "location":"412 Avery Hall",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture",
+      "GSAS"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20241ARCH4618A001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"ARCH A4678",
+    "course_title":"RE-SCALING HOUSING: ENERGY, ECONOMY, POL",
+    "course_descr":null,
+    "instructor":"Michael Bell",
+    "scheduled_time_start":"7:00pm",
+    "scheduled_time_end":"9:00pm",
+    "call_number":"11066",
+    "campus":"Morningside",
+    "class_id":"A4678-20241-001",
+    "course_subtitle":"RE-SCALING HOUSING",
+    "department":"Architecture, Planning and Preservation",
+    "department_code":"ARCH",
+    "instructor_wikipedia_link":"https:\/\/en.wikipedia.org\/wiki\/Michael_Levin",
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/ARCH\/A4678-20241-001\/",
+    "location":"300 S Buell Hall",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture",
+      "GSAS"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20241ARCH4678A001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"ARCH A4688",
+    "course_title":"RECOMBINANT URBANISM",
+    "course_descr":null,
+    "instructor":"David G Shane",
+    "scheduled_time_start":"11:00am",
+    "scheduled_time_end":"1:00pm",
+    "call_number":"11067",
+    "campus":"Morningside",
+    "class_id":"A4688-20241-001",
+    "course_subtitle":null,
+    "department":"Architecture, Planning and Preservation",
+    "department_code":"ARCH",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/ARCH\/A4688-20241-001\/",
+    "location":"504 Avery Hall",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20241ARCH4688A001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"ARCH A4696",
+    "course_title":"ADVANCED PROF PRACTICE",
+    "course_descr":null,
+    "instructor":"Robert Herrmann",
+    "scheduled_time_start":"11:00am",
+    "scheduled_time_end":"1:00pm",
+    "call_number":"11063",
+    "campus":"Morningside",
+    "class_id":"A4696-20241-001",
+    "course_subtitle":null,
+    "department":"Architecture, Planning and Preservation",
+    "department_code":"ARCH",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/ARCH\/A4696-20241-001\/",
+    "location":"115 Avery Hall",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20241ARCH4696A001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"ARCH A4861",
+    "course_title":"FOOTPRINT: CARBON & DESIGN",
+    "course_descr":null,
+    "instructor":"David E Benjamin",
+    "scheduled_time_start":"11:00am",
+    "scheduled_time_end":"1:00pm",
+    "call_number":"11075",
+    "campus":"Morningside",
+    "class_id":"A4861-20241-001",
+    "course_subtitle":"FOOTPRINT: CARBON & DESIG",
+    "department":"Architecture, Planning and Preservation",
+    "department_code":"ARCH",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/ARCH\/A4861-20241-001\/",
+    "location":"409 Avery Hall",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20241ARCH4861A001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"ARCH A4866",
+    "course_title":"MODERNISM + THE VERNACULAR",
+    "course_descr":null,
+    "instructor":"Mary C McLeod",
+    "scheduled_time_start":"11:00am",
+    "scheduled_time_end":"1:00pm",
+    "call_number":"11085",
+    "campus":"Morningside",
+    "class_id":"A4866-20241-001",
+    "course_subtitle":"MODERNISM + THE VERNACULA",
+    "department":"Architecture, Planning and Preservation",
+    "department_code":"ARCH",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/ARCH\/A4866-20241-001\/",
+    "location":"300 S Buell Hall",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20241ARCH4866A001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"ARCH A4890",
+    "course_title":"CONFLICT URBANISM",
+    "course_descr":null,
+    "instructor":"Laura J Kurgan",
+    "scheduled_time_start":"11:00am",
+    "scheduled_time_end":"1:00pm",
+    "call_number":"11086",
+    "campus":"Morningside",
+    "class_id":"A4890-20241-001",
+    "course_subtitle":null,
+    "department":"Architecture, Planning and Preservation",
+    "department_code":"ARCH",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/ARCH\/A4890-20241-001\/",
+    "location":"300 S Buell Hall",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture",
+      "GSAS"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20241ARCH4890A001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ARCH A6451",
+    "course_title":"RECOMBINANT RENAISSANCE",
+    "course_descr":null,
+    "instructor":"Mark Rakatansky",
+    "scheduled_time_start":"11:00am",
+    "scheduled_time_end":"1:00pm",
+    "call_number":"11087",
+    "campus":"Morningside",
+    "class_id":"A6451-20241-001",
+    "course_subtitle":null,
+    "department":"Architecture, Planning and Preservation",
+    "department_code":"ARCH",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/ARCH\/A6451-20241-001\/",
+    "location":"409 Avery Hall",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20241ARCH6451A001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"ARCH A6455",
+    "course_title":"MILITARY URBANISM",
+    "course_descr":null,
+    "instructor":"Victoria Sanger",
+    "scheduled_time_start":"1:30pm",
+    "scheduled_time_end":"3:30pm",
+    "call_number":"11088",
+    "campus":"Morningside",
+    "class_id":"A6455-20241-001",
+    "course_subtitle":null,
+    "department":"Architecture, Planning and Preservation",
+    "department_code":"ARCH",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/ARCH\/A6455-20241-001\/",
+    "location":"409 Avery Hall",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20241ARCH6455A001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ARCH A6676",
+    "course_title":"CARTOGRAPHY + PROPERTY",
+    "course_descr":null,
+    "instructor":"Molly Burhans",
+    "scheduled_time_start":"1:00pm",
+    "scheduled_time_end":"3:00pm",
+    "call_number":"11068",
+    "campus":"Morningside",
+    "class_id":"A6676-20241-001",
+    "course_subtitle":null,
+    "department":"Architecture, Planning and Preservation",
+    "department_code":"ARCH",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/ARCH\/A6676-20241-001\/",
+    "location":"300 S Buell Hall",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"F",
+    "section_key":"20241ARCH6676A001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"ARCH A6682",
+    "course_title":"SUBJECT_OBJECT",
+    "course_descr":null,
+    "instructor":"Suchi Reddy",
+    "scheduled_time_start":"11:00am",
+    "scheduled_time_end":"1:00pm",
+    "call_number":"11076",
+    "campus":"Morningside",
+    "class_id":"A6682-20241-001",
+    "course_subtitle":null,
+    "department":"Architecture, Planning and Preservation",
+    "department_code":"ARCH",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/ARCH\/A6682-20241-001\/",
+    "location":"203 Fayerweather",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20241ARCH6682A001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"ARCH A6815",
+    "course_title":"PUBLIC SPACE: RHETORICS & PRACTICES",
+    "course_descr":null,
+    "instructor":"David J Smiley",
+    "scheduled_time_start":"11:00am",
+    "scheduled_time_end":"1:00pm",
+    "call_number":"11069",
+    "campus":"Morningside",
+    "class_id":"A6815-20241-001",
+    "course_subtitle":"PUBLIC SPACE: RHETORICS &",
+    "department":"Architecture, Planning and Preservation",
+    "department_code":"ARCH",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/ARCH\/A6815-20241-001\/",
+    "location":"408 Avery Hall",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20241ARCH6815A001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"ARCH A6851",
+    "course_title":"URBAN DESIGN STUDIO III",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"3:30pm",
+    "scheduled_time_end":"5:30pm",
+    "call_number":"11070",
+    "campus":"Morningside",
+    "class_id":"A6851-20241-001",
+    "course_subtitle":"COLUMBIA URBAN DESGN STUDIO II",
+    "department":"Architecture, Planning and Preservation",
+    "department_code":"ARCH",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/ARCH\/A6851-20241-001\/",
+    "location":"114 Avery Hall",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture"
+    ],
+    "points":"9",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"F",
+    "section_key":"20241ARCH6851A001",
+    "type":"STUDIO"
+  },
+  {
+    "course_code":"ARCH A6892",
+    "course_title":"1:1 CRAFTING AND FABRICATION OF DETAILS",
+    "course_descr":null,
+    "instructor":"Zachary E Mulitauaopele",
+    "scheduled_time_start":"7:00pm",
+    "scheduled_time_end":"9:00pm",
+    "call_number":"11077",
+    "campus":"Morningside",
+    "class_id":"A6892-20241-001",
+    "course_subtitle":"1:1 CRAFTING & FAB OF DET",
+    "department":"Architecture, Planning and Preservation",
+    "department_code":"ARCH",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/ARCH\/A6892-20241-001\/",
+    "location":"200 N Buell Hall",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20241ARCH6892A001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"ARCH OC4050",
+    "course_title":"ARCH ELECTIVE INTERNSHIP",
+    "course_descr":null,
+    "instructor":"Karen Cover",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11060",
+    "campus":"Reid Hall Paris Programs",
+    "class_id":"A4050-20241-001",
+    "course_subtitle":null,
+    "department":"Architecture, Planning and Preservation",
+    "department_code":"ARCH",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/ARCH\/A4050-20241-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture"
+    ],
+    "points":"1.5",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20241ARCH4050A001",
+    "type":"INTERNSHIP"
+  },
+  {
+    "course_code":"ARCH S6900",
+    "course_title":"RESEARCH I",
+    "course_descr":null,
+    "instructor":"Danielle S Smoller",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11064",
+    "campus":"Morningside",
+    "class_id":"S6900-20241-001",
+    "course_subtitle":null,
+    "department":"Architecture, Planning and Preservation",
+    "department_code":"ARCH",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/ARCH\/S6900-20241-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture"
+    ],
+    "points":"2-3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20241ARCH6900S001",
+    "type":"INDEPENDENT"
+  },
+  {
     "course_code":"BCHM GR6270",
     "course_title":"NMR SPECTROSCPY\/MACROMOLECULES",
     "course_descr":"Prerequisites: instructor's permission or Biophysical Chemistry G4170. Theoretical principles and applications of NMR spectroscopy for the study of biological macromolecules, including proteins, nucleic acids and carbohydrates, in solution.\n",
@@ -3897,7 +4630,10 @@
     "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/BIOL\/G5031-20241-001\/",
     "location":"To be announced",
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "Engineering:Graduate",
+      "GSAS"
+    ],
     "points":"3",
     "prerequisites":[
       [
@@ -4067,6 +4803,32 @@
     ],
     "scheduled_days":"W",
     "section_key":"20241BIOL4512W001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"BIOL GU4551",
+    "course_title":"A Structural View of Biology",
+    "course_descr":null,
+    "instructor":"Liang Tong",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"11:25am",
+    "call_number":"11082",
+    "campus":"Morningside",
+    "class_id":"W4551-20241-001",
+    "course_subtitle":"A Structural View of Biol",
+    "department":"Biological Sciences",
+    "department_code":"BIOL",
+    "instructor_wikipedia_link":"https:\/\/en.wikipedia.org\/wiki\/Liang_Tong",
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/BIOL\/W4551-20241-001\/",
+    "location":"1000 Sherman Fairchild Life Sciences Building",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20241BIOL4551W001",
     "type":"LECTURE"
   },
   {
@@ -4408,7 +5170,11 @@
     "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/BIOL\/C3052-20241-001\/",
     "location":"743 Seeley W. Mudd Building",
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "General Studies"
+    ],
     "points":"5",
     "prerequisites":[
       [
@@ -4427,6 +5193,32 @@
     "scheduled_days":"TR",
     "section_key":"20241BIOL3052C001",
     "type":"LABORATORY"
+  },
+  {
+    "course_code":"BIOL UN3300",
+    "course_title":"Biochemistry",
+    "course_descr":null,
+    "instructor":"Danny N Ho",
+    "scheduled_time_start":"7:00pm",
+    "scheduled_time_end":"9:30pm",
+    "call_number":"11084",
+    "campus":"Morningside",
+    "class_id":"W3300-20241-001",
+    "course_subtitle":null,
+    "department":"Biological Sciences",
+    "department_code":"BIOL",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/BIOL\/W3300-20241-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20241BIOL3300W001",
+    "type":"LECTURE"
   },
   {
     "course_code":"BIOT GR5170",
@@ -4493,7 +5285,7 @@
   {
     "course_code":"CLCZ GU4035",
     "course_title":"THE WRITERS OF PRAGUE",
-    "course_descr":null,
+    "course_descr":"After providing an overview of the history of Prague and the Czech lands from earliest times, the course will focus on works by Prague writers from the years 1895-1938, when the city was a truly multicultural urban center. Special attention will be given to each of the groups that contributed to Prague\u2019s cultural diversity in this period: the Austro-German minority, which held disproportionate social, political and economic influence until 1918; the Czech majority, which made Prague the capital of the democratic First Czechoslovak Republic (1918-1938); the German- and Czech-speaking Jewish communities, which were almost entirely wiped out between 1938 and 1945; and the Russian and Ukrainian \u00e9migr\u00e9 community, which\u2014thanks in large part to support from the Czechoslovak government\u2014maintained a robust, independent cultural presence through the 1920s and early 1930s. Through close reading and analysis of works of poetry, drama, prose fiction, reportage, literary correspondence and essays, the course will trace common themes that preoccupied more than one Prague writer of this period. In compiling and comparing different versions of cultural myth, it will consider the applicability of various possible definitions of the literary genius loci of Prague.\u00a0\n\n",
     "instructor":"Christopher W Harwood",
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:55pm",
@@ -4571,7 +5363,7 @@
   {
     "course_code":"CLST GR9000",
     "course_title":"CLASSICAL STUDIES RESEARCH SEM",
-    "course_descr":null,
+    "course_descr":"The Classical Studies Research Seminar offers students of the Classical Studies Graduate Program the opportunity to present their research and receive feedback on it. It is mandatory for CLST students who are in their dissertation phase to present their work once every academic year in the CLST Research Seminar or CLST Research Group.\n\n",
     "instructor":"Dhananjay Jagannathan",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -4597,7 +5389,7 @@
   {
     "course_code":"CLST UN3035",
     "course_title":"The Ancient Art of Emotions",
-    "course_descr":null,
+    "course_descr":"\u2018This Greek stuff does not move me one bit.\u2019 So confesses a young man in front of the Parthenon sculptures to the scholar E. R. Dodds in the opening anecdote of Dodds\u2019 \u2018Greeks and the Irrational\u2019. Why is the art in Greco-Roman galleries often perceived as cold and emotionless? Is a lack of emotional expression a marked feature of Greek art or is this impression due to the fact that, in our world of cinematic close-ups and emojis, we are not attuned to ancient ways of communicating emotions? The central thesis of this seminar is that there was a sophisticated ancient \u2018art\u2019 (in the ancient sense of \u2018craft\u2019) of creating feelings through non-verbal means, one shared across different visual media from sculpture and painting to theatrical and oratorical performances. Our main sources to uncover this craft will be visual representations in ancient art, from Archaic Greek art to Roman Imperial art. We will bring artistic representations into dialogue with textual sources, such ancient plays often hinting at non-verbal means of communication or rhetorical handbooks teaching how to move the audience during a political speech.\n\n",
     "instructor":"Giulia Bertoni",
     "scheduled_time_start":"5:40pm",
     "scheduled_time_end":"6:55pm",
@@ -6609,7 +7401,7 @@
   {
     "course_code":"CZCH GU4334",
     "course_title":"READINGS IN CZECH LITERATURE II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: two years of college Czech or the equivalent. A close study in the original of representative works of Czech literature. Discussion and writing assignments in Czech aimed at developing advanced language proficiency.\n",
     "instructor":"Christopher W Harwood",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:25pm",
@@ -6635,7 +7427,7 @@
   {
     "course_code":"CZCH UN1102",
     "course_title":"ELEMENTARY CZECH II",
-    "course_descr":null,
+    "course_descr":"Essentials of the spoken and written language. Prepare students to read texts of moderate difficulty by the end of the first year.\n",
     "instructor":"Christopher W Harwood",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -6661,7 +7453,7 @@
   {
     "course_code":"CZCH UN2102",
     "course_title":"INTERMEDIATE CZECH II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: CZCH UN1102 or the equivalent. Rapid review of grammar. Readings in contemporary fiction and nonfiction, depending upon the interests of individual students.\n",
     "instructor":"Christopher W Harwood",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -6678,7 +7470,9 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "CZCH UN1102"
+      ]
     ],
     "scheduled_days":"TRF",
     "section_key":"20241CZCH2102W001",
@@ -9514,6 +10308,32 @@
     ],
     "scheduled_days":"T",
     "section_key":"20241HRTS6800G001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"HRTS GR6800",
+    "course_title":"INTERNATIONAL HUMAN RIGHTS LAW",
+    "course_descr":null,
+    "instructor":"Belinda Cooper",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"6:00pm",
+    "call_number":"11065",
+    "campus":"Morningside",
+    "class_id":"G6800-20241-002",
+    "course_subtitle":"INTERNATIONAL HUMAN RIGHT",
+    "department":"Institute for Study of Human Rights",
+    "department_code":"HRTS",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/HRTS\/G6800-20241-002\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20241HRTS6800G002",
     "type":"SEMINAR"
   },
   {
@@ -12749,7 +13569,7 @@
   {
     "course_code":"HUMA UN2000",
     "course_title":"Core as Praxis\/Fieldwork",
-    "course_descr":null,
+    "course_descr":"\"The Core as Praxis\/Fieldwork\u201d provides students with the opportunity to explore the connections among texts from the Core Curriculum, their work in their major field of study, and their work in a professional environment outside of Columbia\u2019s campus. Students will be guided through a process of reflection on the ideas and approaches that they develop in Core classes and in the courses in their major, to think about how they can apply theory to practice in the context of an internship or other experiential learning environment. Students will reread and revisit a text that they have studied previously in Literature Humanities or in Contemporary Civilization as the basis for their reading and writing assignments over the semester.\u00a0\nTo be eligible, students must (1) be engaged during the semester in an internship or other experiential learning opportunity,\u00a0(2) have completed the sophomore year, and (3) have declared their major (or concentration)\n. HUMAUN2000 may not be taken with the Pass\/D\/Fail option. All students will receive a letter grade for the course. Students can take HUMAUN2000 twice.\n\n",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -12768,7 +13588,10 @@
     ],
     "points":"1",
     "prerequisites":[
-
+      [
+        "UN2000",
+        "UN2000"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20241HUMA2000S001",
@@ -12777,7 +13600,7 @@
   {
     "course_code":"HUMA UN2000",
     "course_title":"Core as Praxis\/Fieldwork",
-    "course_descr":null,
+    "course_descr":"\"The Core as Praxis\/Fieldwork\u201d provides students with the opportunity to explore the connections among texts from the Core Curriculum, their work in their major field of study, and their work in a professional environment outside of Columbia\u2019s campus. Students will be guided through a process of reflection on the ideas and approaches that they develop in Core classes and in the courses in their major, to think about how they can apply theory to practice in the context of an internship or other experiential learning environment. Students will reread and revisit a text that they have studied previously in Literature Humanities or in Contemporary Civilization as the basis for their reading and writing assignments over the semester.\u00a0\nTo be eligible, students must (1) be engaged during the semester in an internship or other experiential learning opportunity,\u00a0(2) have completed the sophomore year, and (3) have declared their major (or concentration)\n. HUMAUN2000 may not be taken with the Pass\/D\/Fail option. All students will receive a letter grade for the course. Students can take HUMAUN2000 twice.\n\n",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -12796,7 +13619,10 @@
     ],
     "points":"1",
     "prerequisites":[
-
+      [
+        "UN2000",
+        "UN2000"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20241HUMA2000S002",
@@ -16986,7 +17812,7 @@
   {
     "course_code":"INAF U8822",
     "course_title":"Global Political Thought",
-    "course_descr":null,
+    "course_descr":"The seminar begins with a reexamination of major traditions in international political theory and jurisprudence as seen through the eyes of classical and modern political philosophers both from the global \u201cNorth\u201d and \u201cSouth.\u201d\u00a0 We also consider the political writings of \u201cNorthern\u201d and \u201cSouthern\u201d politicians \u2013 democratic, populist, fascist and communist.\u00a0 We will discuss their insights into the issues of law, order and justice,: identity and legitimacy; peace and war; cooperation and conflict; intervention and independence and international equality and inequality.\u00a0 Students will prepare a question for each class and submit them prior to the relevant class.\u00a0 In the last quarter of the seminar, students will prepare an outline and discuss their papers with the instructor prior to handing the completed papers in at the beginning of the exam period.\u00a0 Papers should consider the insights of a particular philosopher or politician or should address the differences and similarities across philosophers or philosophies, focusing on questions that explore global issues.\n\n",
     "instructor":"Michael Doyle",
     "scheduled_time_start":"2:50pm",
     "scheduled_time_end":"4:40pm",
@@ -17001,7 +17827,22 @@
     "location":"To be announced",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "SIPA"
+      "Architecture",
+      "Barnard College",
+      "Business",
+      "Columbia College",
+      "Engineering:Graduate",
+      "GSAS",
+      "General Studies",
+      "Journalism",
+      "Law",
+      "Medicine",
+      "Nursing",
+      "Professional Studies",
+      "Public Health",
+      "SIPA",
+      "Schools of the Arts",
+      "Social Work"
     ],
     "points":"3",
     "prerequisites":[
@@ -17090,7 +17931,7 @@
   {
     "course_code":"LACV UN1020",
     "course_title":"PRIM TEXTS OF LATIN AMER CIV",
-    "course_descr":null,
+    "course_descr":"It focuses on key texts from Latin America in their historical and intellectual context and seeks to understand their structure and the practical purposes they served using close reading and, when possible, translations. The course seeks to establish a counterpoint to the list of canonical texts of Contemporary Civilization. The selections are not intended to be compared directly to those in CC but to raise questions about the different contexts in which ideas are used, the critical exchanges and influences (within and beyond Latin America) that shaped ideas in the region, and the long-term intellectual, political, and cultural pursuits that have defined Latin American history. The active engagement of students toward these texts is the most important aspect of class work and assignments. NO FIRST YEAR STUDENTS PERMITTED.\n",
     "instructor":"Amy E Chazkel",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -17120,7 +17961,7 @@
   {
     "course_code":"LACV UN1020",
     "course_title":"PRIM TEXTS OF LATIN AMER CIV",
-    "course_descr":null,
+    "course_descr":"It focuses on key texts from Latin America in their historical and intellectual context and seeks to understand their structure and the practical purposes they served using close reading and, when possible, translations. The course seeks to establish a counterpoint to the list of canonical texts of Contemporary Civilization. The selections are not intended to be compared directly to those in CC but to raise questions about the different contexts in which ideas are used, the critical exchanges and influences (within and beyond Latin America) that shaped ideas in the region, and the long-term intellectual, political, and cultural pursuits that have defined Latin American history. The active engagement of students toward these texts is the most important aspect of class work and assignments. NO FIRST YEAR STUDENTS PERMITTED.\n",
     "instructor":"Alfonso Salgado",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -23845,7 +24686,7 @@
   {
     "course_code":"POLI GU4102",
     "course_title":"ADVANCED POLISH II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: two years of college Polish or the instructors permission. Extensive readings from 19th- and 20th-century texts in the original. Both fiction and nonfiction, with emphasis depending on the interests and needs of individual students.\n",
     "instructor":"Christopher Caes",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -23871,7 +24712,7 @@
   {
     "course_code":"POLI UN1102",
     "course_title":"ELEMENTARY POLISH II",
-    "course_descr":null,
+    "course_descr":"Essentials of the spoken and written language. Prepares students to read texts of moderate difficulty by the end of the first year.\n",
     "instructor":"Christopher Caes",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:25pm",
@@ -23897,7 +24738,7 @@
   {
     "course_code":"POLI UN2102",
     "course_title":"INTERMEDIATE POLISH II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: POLI UN1102 or the equivalent. Rapid review of grammar; readings in contemporary nonfiction or fiction, depending on the interests of individual students.\n",
     "instructor":"Christopher Caes",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -23914,7 +24755,9 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "POLI UN1102"
+      ]
     ],
     "scheduled_days":"TRF",
     "section_key":"20241POLI2102W001",
@@ -24673,7 +25516,7 @@
   {
     "course_code":"REGN U6885",
     "course_title":"Economic and Technological Rise of China",
-    "course_descr":null,
+    "course_descr":"This course examines the causes and consequences of China\u2019s rise as an economic and technological great power over the past four decades. It provides a theoretically- informed introduction to the political economy of contemporary China and to major debates surrounding China\u2019s relations with the United States and its allies and partners. Topics covered include Chinese industrial and innovation policies, China\u2019s capabilities in core technologies like semiconductors and artificial intelligence, the prospects for U.S.-China economic decoupling, the risk of conflict over Taiwan, and more.\u00a0At the end of this course, students will have a strong understanding of the main features of modern Chinese political economy and how China\u2019s positions in the global economy and international system have changed in recent decades. They will also have learned to critically evaluate prominent theories in political science and international relations as they apply to China.\n\n",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -25013,7 +25856,7 @@
   {
     "course_code":"SCNC CC1000",
     "course_title":"FRONTIERS OF SCIENCE",
-    "course_descr":null,
+    "course_descr":"Corequisites: SCNC CC1100 The principal objectives of Frontiers of Science are to engage students in the process of discovery by exploring topics at the forefront of science and to inculcate or reinforce the specific habits of mind that inform a scientific perspective on the world. Sample topics include the brain and behavior, global climate change, relativity, and biodiversity, among others. Taught by members of natural science departments and Columbia Science Fellows.\n\n",
     "instructor":"Ivana N Hughes",
     "scheduled_time_start":"10:30am",
     "scheduled_time_end":"12:00pm",
@@ -25032,7 +25875,9 @@
     ],
     "points":"4",
     "prerequisites":[
-
+      [
+        "SCNC CC1100"
+      ]
     ],
     "scheduled_days":"M",
     "section_key":"20241SCNC1000C001",
@@ -26296,7 +27141,7 @@
   {
     "course_code":"UKRN GU4007",
     "course_title":"Advanced Ukrainian Through Literature, M",
-    "course_descr":null,
+    "course_descr":"This course is organized around a number of thematic centers or modules. Each is focused on stylistic peculiarities typical of a given functional style of the Ukrainian language. Each is designed to assist the student in acquiring an active command of lexical, grammatical, discourse, and stylistic traits that distinguish one style from the others and actively using them in real-life communicative settings in contemporary Ukraine. The styles include literary fiction, scholarly prose, and journalism, both printed and broadcast\n",
     "instructor":"Yuri Shevchuk",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:25pm",
@@ -26348,7 +27193,7 @@
   {
     "course_code":"UKRN UN1102",
     "course_title":"ELEMENTARY UKRAINIAN II",
-    "course_descr":null,
+    "course_descr":"Designed for students with little or no knowledge of Ukrainian. Basic grammar structures are introduced and reinforced, with equal emphasis on developing oral and written communication skills. Specific attention to acquisition of high-frequency vocabulary and its optimal use in real-life settings.\n",
     "instructor":"Yuri Shevchuk",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -26374,7 +27219,7 @@
   {
     "course_code":"UKRN UN2102",
     "course_title":"INTERMEDIATE UKRAINIAN II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: UKRN UN1102 or the equivalent. Reviews and reinforces the fundamentals of grammar and a core vocabulary from daily life. Principal emphasis is placed on further development of communicative skills (oral and written). Verbal aspect and verbs of motion receive special attention.\n",
     "instructor":"Yuri Shevchuk",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:40am",
@@ -26391,7 +27236,9 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "UKRN UN1102"
+      ]
     ],
     "scheduled_days":"MWR",
     "section_key":"20241UKRN2102W001",
