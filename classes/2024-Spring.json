@@ -5901,7 +5901,7 @@
   {
     "course_code":"BIGD PS0104",
     "course_title":"Big Data, Machine Learning, and Their Re",
-    "course_descr":null,
+    "course_descr":"What is big data? What is machine learning? Participants in this course gain a hands-on understanding of these concepts, how they are shaping the world we live in, and how they can be applied to real-world business and social ventures.\n  \nThe course focuses on the strategic use of data, through innovative technologies and strategies, to derive actionable business insights. Students gain a familiarity with fundamental data analytics concepts, learn techniques for harvesting big data, evaluate statistical models, and convert knowledge into action by effectively presenting data analytics in compelling narratives useful to organizations in decision-making.\n  \nIn the process of designing and developing analytics solutions, students gain exposure to tools, technologies, and methodologies such as R, Tableau, MicroStrategy, augmented reality, and artificial intelligence.\n  \nIn-class activities include lectures, small-group work, class discussions, and interactive case studies applying analytical concepts and methodologies. The course includes asynchronous work, which students are expected to complete between class sessions.\n\n",
     "instructor":null,
     "scheduled_time_start":"10:00am",
     "scheduled_time_end":"12:00pm",
@@ -5915,7 +5915,9 @@
     "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/BIGD\/K0104-20241-D01\/",
     "location":"ONLINE ONLY",
     "method_of_instruction":null,
-    "open_to":null,
+    "open_to":[
+      "Pre-College Programs"
+    ],
     "points":"0",
     "prerequisites":[
 
@@ -5927,7 +5929,7 @@
   {
     "course_code":"BIME PS0104",
     "course_title":"Medical Diagnostic Device Engineering",
-    "course_descr":null,
+    "course_descr":"\u00a0 \u00a0\n\n",
     "instructor":"Cel Welch",
     "scheduled_time_start":"10:00am",
     "scheduled_time_end":"12:00pm",
@@ -6438,7 +6440,7 @@
   {
     "course_code":"BIOL UN3005",
     "course_title":"NEUROBIO II: DEVPT & SYSTEMS",
-    "course_descr":null,
+    "course_descr":"Prerequisites: BIOL UN3004, one year of biology, or the instructors permission. This course is the capstone course for the Neurobiology and Behavior undergraduate major at Columbia University and will be taught by the faculty of the Kavli Institute of Brain Science: http:\/\/www.kavli.columbia.edu\/ Science: http:\/\/www.kavli.columbia.edu\/. It is designed for advanced undergraduate and graduate students. Knowledge of Cellular Neuroscience (how an action potential is generated and how a synapse works) will be assumed. It is strongly recommended that students take BIOL UN3004 Neurobiology I: Molecular and Cellular Neuroscience, or a similar course, before enrolling in BIOL UN3005. Students unsure about their backgrounds should check a representative syllabus of BIOL UN3004 on the BIOL UN3004 website (http:\/\/www.columbia.edu\/cu\/biology\/courses\/w3004\/). Website for BIOL UN3005: http:\/\/www.columbia.edu\/cu\/biology\/courses\/w3005\/index.html\n",
     "instructor":"Darcy B Kelley",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -6455,7 +6457,18 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "BIOL UN3004"
+      ],
+      [
+        "BIOL UN3004",
+        "BIOL UN3004",
+        "BIOL UN3005"
+      ],
+      [
+        "BIOL UN3004",
+        "BIOL UN3005"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20241BIOL3005W001",
@@ -6588,7 +6601,7 @@
   {
     "course_code":"BIOL UN3500",
     "course_title":"INDEP BIOLOGICAL RESEARCH",
-    "course_descr":null,
+    "course_descr":"Prerequisites: Concurrent with registering for this course, a student must register with the department and provide a written invitation from a mentor; details of this procedure are available at http:\/\/www.columbia.edu\/cu\/biology\/courses\/w3500\/index.htm. Students must register for recitations UN3510 or consult the instructor. Corequisites: BIOL UN3510 The course involves independent study, faculty-supervised laboratory projects in contemporary biology. Concurrent with registering for this course, a student must register with the department, provide a written invitation from a mentor and submit a research proposal; details of this procedure are available at http:\/\/www.columbia.edu\/cu\/biology\/courses\/w3500\/index.htm. A paper summarizing results of the work is required by the last day of finals for a letter grade; no late papers will be accepted. See the course web site (above) for more details. Students can take anywhere from 2-4 points for this course.\n\n",
     "instructor":"Jellert T Gaublomme",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -6605,7 +6618,10 @@
     "open_to":null,
     "points":"2-4",
     "prerequisites":[
-
+      [
+        "UN3510",
+        "BIOL UN3510"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20241BIOL3500W001",
@@ -6614,7 +6630,7 @@
   {
     "course_code":"BIOS PS0301",
     "course_title":"Cell and Molecular Biology of Medicine",
-    "course_descr":null,
+    "course_descr":"At the core of most modern medical treatments is an understanding of how cells and biological molecules work. In this course we examine how medications such as antibiotics, anti-viral drugs, chemotherapy, and psychiatric drugs work. We also look at the molecular biology and treatment of conditions such as cancer, heart disease, diabetes, and auto-immune disorders, for example, Lupus.\n  \nClass time is devoted to interactive lectures and in-class assignments designed to help students understand the connections between science and medical treatments. Outside of class, participants are expected to write a number of short essays exploring how various modern medical treatments work on a cellular and molecular level.\n\n",
     "instructor":"Meena Lail",
     "scheduled_time_start":"8:00pm",
     "scheduled_time_end":"10:00pm",
@@ -6642,7 +6658,7 @@
   {
     "course_code":"BIOS PS0301",
     "course_title":"Cell and Molecular Biology of Medicine",
-    "course_descr":null,
+    "course_descr":"At the core of most modern medical treatments is an understanding of how cells and biological molecules work. In this course we examine how medications such as antibiotics, anti-viral drugs, chemotherapy, and psychiatric drugs work. We also look at the molecular biology and treatment of conditions such as cancer, heart disease, diabetes, and auto-immune disorders, for example, Lupus.\n  \nClass time is devoted to interactive lectures and in-class assignments designed to help students understand the connections between science and medical treatments. Outside of class, participants are expected to write a number of short essays exploring how various modern medical treatments work on a cellular and molecular level.\n\n",
     "instructor":"Lashon Pringle",
     "scheduled_time_start":"1:00pm",
     "scheduled_time_end":"3:00pm",
@@ -6914,7 +6930,7 @@
   {
     "course_code":"CHEM GR9307",
     "course_title":"RESEARCH FOR THE DOCTORATE",
-    "course_descr":null,
+    "course_descr":"Departments permission.\n",
     "instructor":"Gerard F Parkin",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -6944,7 +6960,7 @@
   {
     "course_code":"CHEM GU4071",
     "course_title":"INORGANIC CHEMISTRY",
-    "course_descr":null,
+    "course_descr":"Prerequisites: (CHEM UN1403 and CHEM UN1404) or (CHEM UN1604) or (CHEM UN2045 and CHEM UN2046) , or the equivalent. Principles governing the structure and reactivity of inorganic compounds surveyed from experimental and theoretical viewpoints. Topics include inorganic solids, aqueous and nonaqueous solutions, the chemistry of selected main group elements, transition metal chemistry, metal clusters, metal carbonyls, and organometallic chemistry, bonding and resonance, symmetry and molecular orbitals, and spectroscopy.\n",
     "instructor":"Jonathan S Owen",
     "scheduled_time_start":"8:40am",
     "scheduled_time_end":"9:55am",
@@ -6961,7 +6977,17 @@
     "open_to":null,
     "points":"4.5",
     "prerequisites":[
-
+      [
+        "CHEM UN1403"
+      ],
+      [
+        "CHEM UN1404",
+        "CHEM UN1604",
+        "CHEM UN2045"
+      ],
+      [
+        "CHEM UN2046"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20241CHEM4071G001",
@@ -6970,7 +6996,7 @@
   {
     "course_code":"CHEM GU4102",
     "course_title":"CHEMISTRY FOR THE BRAIN",
-    "course_descr":null,
+    "course_descr":"Prerequisites: Organic chemistry and biology courses, neuroscience or neurobiology recommended, but not required. The study of the brain is one of the most exciting frontiers in science and medicine today. Although neuroscience is by nature a multi-disciplinary effort, chemistry has played many critical roles in the development of modern neuroscience, neuropharmacology, and brain imaging. Chemistry, and the chemical probes it generates, such as molecular modulators, therapeutics, imaging agents, sensors, or actuators, will continue to impact neuroscience on both preclinical and clinical levels. In this course, two major themes will be discussed. In the first one, titled Imaging brain function with chemical tools, we will discuss molecular designs and functional parameters of widely used fluorescent sensors in neuroscience (calcium, voltage, and neurotransmitter sensors), their impact on neuroscience, pros and cons of genetically encoded sensors versus chemical probes, and translatability of these approaches to the human brain. In the second major theme, titled Perturbation of the brain function with chemical tools, we will examine psychoactive substances, the basics of medicinal chemistry, brain receptor activation mechanisms and coupled signaling pathways, and their effects on circuit and brain function. We will also discuss recent approaches, failures and successes in the treatment of neurodegenerative and psychiatric disorders. Recent advances in precise brain function perturbation by light (optogenetics and photopharmacology) will also be introduced. In the context of both themes we will discuss the current and future possibilities for the design of novel materials, drawing on the wide molecular structural space (small molecules, proteins, polymers, nanomaterials), aimed at monitoring, modulating, and repairing human brain function. This course is intended for students (undergraduate and graduate) from the science, engineering and medical departments.\n",
     "instructor":"Dalibor Sames",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -6996,7 +7022,7 @@
   {
     "course_code":"CHEM GU4111",
     "course_title":"APPLICATIONS OF NMR SPECTROSCOPY TO INOR",
-    "course_descr":null,
+    "course_descr":"The use of multinuclear NMR spectroscopy in the determination of the structures of inorganic molecules and the use of dynamic NMR spectroscopy (variable temperature NMR and magnetization transfer techniques) to provide information concerned with reaction mechanisms.\n\n",
     "instructor":"Gerard F Parkin",
     "scheduled_time_start":"8:40am",
     "scheduled_time_end":"9:55am",
@@ -7022,7 +7048,7 @@
   {
     "course_code":"CHEM GU4145",
     "course_title":"NMR SPECTROSCOPY",
-    "course_descr":null,
+    "course_descr":"Prerequisites: elementary organic chemistry. Introduction to theory and practice of NMR spectroscopy. Instrumental aspects, basic NMR theory, NOE, and a survey of 2D methods are covered.\n",
     "instructor":"John D Decatur",
     "scheduled_time_start":"11:00am",
     "scheduled_time_end":"11:50am",
@@ -7059,7 +7085,7 @@
   {
     "course_code":"CHEM GU4313",
     "course_title":"Peptide and Protein Chemistry",
-    "course_descr":null,
+    "course_descr":"The goal of this course is to explore how chemical methods and concepts have impacted our ability to understand and manipulate protein structure and function. We will navigate this subject through a combination of lectures and structured discussions on research articles from the literature. The course is divided into three segments: (1) In the first part, we will review the rudiments of protein structure and function, then delve into various aspects of enzyme chemistry and polypeptide biosynthesis. (2) In the second part of the course, we will cover synthetic methods to produce and chemically modify peptides and proteins. (3) In the final part, we will discuss chemical approaches to control protein function and monitor protein activity, focusing on methods that use small molecules and mass spectrometry proteomics.\u00a0\n\n",
     "instructor":"Neel H Shah",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:25pm",
@@ -9078,7 +9104,7 @@
   {
     "course_code":"CHEM UN2448",
     "course_title":"ORGANIC CHEMISTRY - REC",
-    "course_descr":null,
+    "course_descr":"Corequisites: CHEM UN2444 Chemistry UN2448 ORGANIC CHEMISTRY RECITATIONORGANIC CHEMISTRY II-LECTURESTO BE ENROLLED IN UN2444 SECTION 2, YOU MUST REGISTER FOR UN2448 RECITATION\n",
     "instructor":"Charles E Jr Doubleday",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:00pm",
@@ -9102,7 +9128,14 @@
     ],
     "points":"0",
     "prerequisites":[
-
+      [
+        "CHEM UN2444"
+      ],
+      [
+        "UN2448",
+        "UN2444",
+        "UN2448"
+      ]
     ],
     "scheduled_days":"M",
     "section_key":"20241CHEM2448W001",
@@ -9111,7 +9144,7 @@
   {
     "course_code":"CHEM UN2448",
     "course_title":"ORGANIC CHEMISTRY - REC",
-    "course_descr":null,
+    "course_descr":"Corequisites: CHEM UN2444 Chemistry UN2448 ORGANIC CHEMISTRY RECITATIONORGANIC CHEMISTRY II-LECTURESTO BE ENROLLED IN UN2444 SECTION 2, YOU MUST REGISTER FOR UN2448 RECITATION\n",
     "instructor":"Charles E Jr Doubleday",
     "scheduled_time_start":"5:10pm",
     "scheduled_time_end":"6:00pm",
@@ -9135,7 +9168,14 @@
     ],
     "points":"0",
     "prerequisites":[
-
+      [
+        "CHEM UN2444"
+      ],
+      [
+        "UN2448",
+        "UN2444",
+        "UN2448"
+      ]
     ],
     "scheduled_days":"M",
     "section_key":"20241CHEM2448W002",
@@ -9144,7 +9184,7 @@
   {
     "course_code":"CHEM UN2448",
     "course_title":"ORGANIC CHEMISTRY - REC",
-    "course_descr":null,
+    "course_descr":"Corequisites: CHEM UN2444 Chemistry UN2448 ORGANIC CHEMISTRY RECITATIONORGANIC CHEMISTRY II-LECTURESTO BE ENROLLED IN UN2444 SECTION 2, YOU MUST REGISTER FOR UN2448 RECITATION\n",
     "instructor":"Charles E Jr Doubleday",
     "scheduled_time_start":"8:10pm",
     "scheduled_time_end":"9:00pm",
@@ -9168,7 +9208,14 @@
     ],
     "points":"0",
     "prerequisites":[
-
+      [
+        "CHEM UN2444"
+      ],
+      [
+        "UN2448",
+        "UN2444",
+        "UN2448"
+      ]
     ],
     "scheduled_days":"M",
     "section_key":"20241CHEM2448W003",
@@ -9177,7 +9224,7 @@
   {
     "course_code":"CHEM UN2448",
     "course_title":"ORGANIC CHEMISTRY - REC",
-    "course_descr":null,
+    "course_descr":"Corequisites: CHEM UN2444 Chemistry UN2448 ORGANIC CHEMISTRY RECITATIONORGANIC CHEMISTRY II-LECTURESTO BE ENROLLED IN UN2444 SECTION 2, YOU MUST REGISTER FOR UN2448 RECITATION\n",
     "instructor":"Charles E Jr Doubleday",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:00pm",
@@ -9201,7 +9248,14 @@
     ],
     "points":"0",
     "prerequisites":[
-
+      [
+        "CHEM UN2444"
+      ],
+      [
+        "UN2448",
+        "UN2444",
+        "UN2448"
+      ]
     ],
     "scheduled_days":"W",
     "section_key":"20241CHEM2448W004",
@@ -9210,7 +9264,7 @@
   {
     "course_code":"CHEM UN2448",
     "course_title":"ORGANIC CHEMISTRY - REC",
-    "course_descr":null,
+    "course_descr":"Corequisites: CHEM UN2444 Chemistry UN2448 ORGANIC CHEMISTRY RECITATIONORGANIC CHEMISTRY II-LECTURESTO BE ENROLLED IN UN2444 SECTION 2, YOU MUST REGISTER FOR UN2448 RECITATION\n",
     "instructor":"Charles E Jr Doubleday",
     "scheduled_time_start":"5:10pm",
     "scheduled_time_end":"6:00pm",
@@ -9234,7 +9288,14 @@
     ],
     "points":"0",
     "prerequisites":[
-
+      [
+        "CHEM UN2444"
+      ],
+      [
+        "UN2448",
+        "UN2444",
+        "UN2448"
+      ]
     ],
     "scheduled_days":"W",
     "section_key":"20241CHEM2448W005",
@@ -9243,7 +9304,7 @@
   {
     "course_code":"CHEM UN2448",
     "course_title":"ORGANIC CHEMISTRY - REC",
-    "course_descr":null,
+    "course_descr":"Corequisites: CHEM UN2444 Chemistry UN2448 ORGANIC CHEMISTRY RECITATIONORGANIC CHEMISTRY II-LECTURESTO BE ENROLLED IN UN2444 SECTION 2, YOU MUST REGISTER FOR UN2448 RECITATION\n",
     "instructor":"Charles E Jr Doubleday",
     "scheduled_time_start":"8:10pm",
     "scheduled_time_end":"9:00pm",
@@ -9267,7 +9328,14 @@
     ],
     "points":"0",
     "prerequisites":[
-
+      [
+        "CHEM UN2444"
+      ],
+      [
+        "UN2448",
+        "UN2444",
+        "UN2448"
+      ]
     ],
     "scheduled_days":"W",
     "section_key":"20241CHEM2448W006",
@@ -9976,7 +10044,7 @@
   {
     "course_code":"CHEM UN3080",
     "course_title":"PHYSICAL CHEMISTRY II-LECTURES",
-    "course_descr":null,
+    "course_descr":"Prerequisites: CHEM UN3079 Corequisites: CHEM UN3086 CHEM UN3080 covers the quantum mechanics of atoms and molecules, the quantum statistical mechanics of chemical systems, and the connection of statistical mechanics to thermodynamics. Although CHEM UN3079 and CHEM UN3080 are separate courses, students are expected to take both terms sequentially. A recitation section is required. Please check the Directory of Classes for details and also speak with the TA for the course.\n",
     "instructor":"Milan Delor",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -10000,7 +10068,19 @@
     ],
     "points":"4",
     "prerequisites":[
-
+      [
+        "CHEM UN3079"
+      ],
+      [
+        "CHEM UN3079",
+        "CHEM UN3086"
+      ],
+      [
+        "CHEM UN3080"
+      ],
+      [
+        "CHEM UN3080"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20241CHEM3080W001",
@@ -10171,7 +10251,7 @@
   {
     "course_code":"CLCV GR5010",
     "course_title":"GRADUATE RESEARCH COLLOQUIUM",
-    "course_descr":null,
+    "course_descr":"The Graduate Research Colloquium is a forum that offers two types of research seminars over the course of the semester. In the first, formerly the Graduate Colloquium, up to six outside speakers are invited by the graduate organizers to present research papers to an audience of graduates, faculty and others interested within the larger NYC Classics community, and afterwards to engage in discussion. The second is a Work-in-Progress seminar in which Columbia Classics graduate students present their research to their graduate peers in whatever format they deem most conducive to conveying their research to their audience and receiving feedback. The audience for these eight seminars is restricted to graduate students, the instructor who presides over the course, and any faculty the graduate student presenters choose should choose to invite. At least one semester of the Graduate Research Colloquium is required for MAO students and PhD students must attend the course in both the Fall and Spring semesters of their first year.\n",
     "instructor":"John T Ma",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -10277,7 +10357,7 @@
   {
     "course_code":"CLPH GR5000",
     "course_title":"MA THESIS",
-    "course_descr":null,
+    "course_descr":"This course will enable students to complete a research study of considerable length that will (i) enable them to explore a given area of research in substantive detail; (ii) put them on the path to true competence as independent researchers; and (iii) provide those who go on to apply to PhD programs with a substantial writing sample that shows off their technical abilities to the best advantage.\n",
     "instructor":"Gareth Williams",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -12317,7 +12397,7 @@
   {
     "course_code":"COMS W1004",
     "course_title":"INTRO-COMPUT SCI\/PROG IN JAVA",
-    "course_descr":null,
+    "course_descr":"A general introduction to computer science for science and engineering students interested in majoring in computer science or engineering. Covers fundamental concepts of computer science, algorithmic problem-solving capabilities, and introductory Java programming skills. Assumes no prior programming background. Columbia University students may receive credit for only one of the following two courses: 1004 or 1005.\n\n",
     "instructor":"Adam H Cannon",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -12527,7 +12607,7 @@
   {
     "course_code":"DOCT PS0104",
     "course_title":"Medicine as a Career Choice: Thinking Li",
-    "course_descr":null,
+    "course_descr":"Becoming a physician\u2014mastering the intricacies of the human body and working to heal when illness occurs\u2014has long been considered a noble pursuit, but it\u2019s not all guts and glory. It takes a particular kind of mind; one that can focus on the smallest details while keeping the big picture in sight. A doctor must see the forest\u00a0\nand\n\u00a0the trees.\n  \nThis course is an investigation into how a physician thinks. Discussion also covers what it takes to get into medical school, what it\u2019s like to go through medical school and residency, and what it means to be a doctor in today\u2019s society. The course includes asynchronous work, which students are expected to complete between class sessions.\n  \nPotential topics to be discussed include the following:\n  \n  \nLogic and reasoning\n  \nEvidence-based medicine\n  \nHuman psychology and its influence\n  \nThe crossroads of media, myth, and medicine\n  \nEthics\n  \nMalpractice\n  \nMedicine's history and future\n \n  \nParticipants gain a deeper knowledge of the medical world as well as what it takes to think like a doctor\u2014and acquire mental tools that can be utilized in any aspect of life.\n\n",
     "instructor":null,
     "scheduled_time_start":"10:00am",
     "scheduled_time_end":"12:00pm",
@@ -12541,7 +12621,9 @@
     "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/DOCT\/K0104-20241-D01\/",
     "location":"ONLINE ONLY",
     "method_of_instruction":null,
-    "open_to":null,
+    "open_to":[
+      "Pre-College Programs"
+    ],
     "points":"0",
     "prerequisites":[
 
@@ -12553,7 +12635,7 @@
   {
     "course_code":"EESJ PS0104",
     "course_title":"Economics, Entrepreneurship, and Social",
-    "course_descr":null,
+    "course_descr":"Can economic growth be reconciled with sustainability? Can social entrepreneurs find solutions to climate adaptation challenges? How do we incentivize fishermen to conserve the world\u2019s fisheries? Can microfinance loans to the entrepreneurial poor reduce global poverty? What practices can businesses adopt to align their bottom lines with sustainability? How can we do well while doing good \u2013 and while embracing principles of equity, access, participation, and human rights?\n  \nIn the context of policies, course participants are introduced to key concepts and skills associated with social entrepreneurship, finance, and economics and are consequently enabled to think proactively about solving some of the world\u2019s biggest problems \u2013 while also probing how profitability and social justice might intersect and at times come into conflict.\n  \nStudents are introduced to economic concepts such as supply and demand, utility, macro- and microeconomics, the time value of money, and the use of indicators. They also engage with key concepts relating to business formation and management, raising funds using debt or equity, and financial accounting.\n  \nParticipants begin to see some of the largest social problems we face today as essentially economic challenges \u2013 and are then asked to come up with potential solutions. The course includes asynchronous work, which students are expected to complete between class sessions.\n  \n\u00a0\n\n",
     "instructor":null,
     "scheduled_time_start":"1:00pm",
     "scheduled_time_end":"3:00pm",
@@ -12609,7 +12691,7 @@
   {
     "course_code":"ENGI PS0104",
     "course_title":"Introduction to Engineering",
-    "course_descr":null,
+    "course_descr":"In this Introduction to Engineering course, you will gain exposure to one of the fastest growing fields today. From areas ranging from Mechanical Engineering to Biomedical Engineering, students will be exposed to the growing number of disciplines within the field of engineering through guest lectures and group activities. The course will also examine the professional ethics of engineering and evaluate accountability that engineers have to society and the environment. At the conclusion of this course, students will have an overall understanding of the engineering field, the different career paths available, and the ethics involved in the profession.\n  \n\u00a0\n\n",
     "instructor":"Zahraa Issa",
     "scheduled_time_start":"1:00pm",
     "scheduled_time_end":"3:00pm",
@@ -12945,7 +13027,7 @@
   {
     "course_code":"ENIN PS0104",
     "course_title":"Entrepreneurship & Innovation: Changing",
-    "course_descr":null,
+    "course_descr":"Intended for students interested in creating new business or social enterprises, this hands-on course focuses on the creation, evaluation, development, and launch-readiness of new business or social ventures. Participants are guided through the new venture creation process as applied to student team-selected venture ideas. Through interactive lectures, short case studies, and structured peer activities, students explore the elements of the new venture planning process in an innovative modular format.\n  \nFor each student venture, key issues are addressed in a fashion highly consistent with other formal venture-planning processes including: business model development, customer discovery, product-market validation, in-depth industry and market analysis, product or service innovation, brand development and go-to-market strategies, team selection and management, profit models, financing, and legal considerations.\n  \nStudents work through a series of structured activities and assignments that correspond with each phase of new venture planning. Throughout the class they refine their venture\u2019s hypothesized business model on the basis of instructor and peer feedback. At each stage of venture plan development, they learn critical terms, apply tools that support research and decision making, and develop a deep understanding of how each major planning activity fits into formal venture creation. Additionally, they hone critical professional skills including creative problem-solving, communication and negotiation, project management, financial analysis, and collaborative leadership. By the end of the class, participants have generated robust business models, with supportive venture plan documents, investor pitches, websites, and crowd-funding videos. The course includes asynchronous work, which students are expected to complete between class sessions.\n\n",
     "instructor":null,
     "scheduled_time_start":"10:00am",
     "scheduled_time_end":"12:00pm",
@@ -12959,7 +13041,9 @@
     "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/ENIN\/K0104-20241-D01\/",
     "location":"ONLINE ONLY",
     "method_of_instruction":null,
-    "open_to":null,
+    "open_to":[
+      "Pre-College Programs"
+    ],
     "points":"0",
     "prerequisites":[
 
@@ -15634,7 +15718,7 @@
   {
     "course_code":"GREK GR5139",
     "course_title":"ELEMENTS OF GREEK PROSE STYLE",
-    "course_descr":null,
+    "course_descr":"Prerequisites: at least four terms of Greek, or the equivalent. An intensive review of Greek syntax with translation of English sentences and paragraphs into Attic Greek.\n\n",
     "instructor":"Elizabeth W Scharffenberger",
     "scheduled_time_start":"8:40am",
     "scheduled_time_end":"9:55am",
@@ -15686,7 +15770,7 @@
   {
     "course_code":"GREK GU4010",
     "course_title":"SELECTIONS FROM GREEK LIT",
-    "course_descr":null,
+    "course_descr":"Prerequisites: GREK UN2101 - GREK UN2102 or the equivalent. Since the content of this course changes each year, it may be repeated for credit.\n",
     "instructor":"Marcus Folch",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:25pm",
@@ -15714,7 +15798,12 @@
     ],
     "points":"3",
     "prerequisites":[
-
+      [
+        "GREK UN2101"
+      ],
+      [
+        "GREK UN2102"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20241GREK4010W001",
@@ -15723,7 +15812,7 @@
   {
     "course_code":"GREK GU4106",
     "course_title":"HISTORY OF GREEK LITERATURE II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: at least two terms of Greek at the 3000-level or higher. Greek literature of the 4th century B.C. and of the Hellenistic and Imperial Ages.\n\n",
     "instructor":"Elizabeth W Scharffenberger",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -15749,7 +15838,7 @@
   {
     "course_code":"GREK UN1102",
     "course_title":"ELEMENTARY GREEK II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: GREK UN1101 or the equivalent, or the instructor or the director of undergraduate studies permission. Continuation of grammar study begun in GREK UN1101; selections from Attic prose.\n",
     "instructor":"Abigail R Breuker",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -15775,7 +15864,10 @@
     ],
     "points":"4",
     "prerequisites":[
-
+      [
+        "GREK UN1101",
+        "GREK UN1101"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20241GREK1102V002",
@@ -15784,7 +15876,7 @@
   {
     "course_code":"GREK UN1121",
     "course_title":"INTENSIVE ELEMENTARY GREEK",
-    "course_descr":null,
+    "course_descr":"Covers all of Greek grammar and syntax in one term. Prepares the student to enter second-year Greek (GREK UN2101 or GREK UN2102).\n",
     "instructor":"Elizabeth K Irwin",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -15810,7 +15902,10 @@
     ],
     "points":"4",
     "prerequisites":[
-
+      [
+        "GREK UN2101",
+        "GREK UN2102"
+      ]
     ],
     "scheduled_days":"TRF",
     "section_key":"20241GREK1121V001",
@@ -15819,7 +15914,7 @@
   {
     "course_code":"GREK UN2102",
     "course_title":"INTERMEDIATE GREEK II: HOMER",
-    "course_descr":null,
+    "course_descr":"Prerequisites: GREK UN1101- GREK UN1102 or GREK UN1121 or the equivalent. Detailed grammatical and literary study of several books of the Iliad and introduction to the techniques or oral poetry, to the Homeric hexameter, and to the historical background of Homer.\n",
     "instructor":"Deborah Steiner",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -15845,7 +15940,13 @@
     ],
     "points":"4",
     "prerequisites":[
-
+      [
+        "GREK UN1101"
+      ],
+      [
+        "GREK UN1102",
+        "GREK UN1121"
+      ]
     ],
     "scheduled_days":"TRF",
     "section_key":"20241GREK2102V001",
@@ -15854,7 +15955,7 @@
   {
     "course_code":"GREK UN3310",
     "course_title":"GREEK LITERATURE SELECTIONS II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: GREK UN2101 - GREK UN2102 or the equivalent. Since the content of this course changes from year to year, it may be repeated for credit.\n\n",
     "instructor":"Deborah Steiner",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:25pm",
@@ -15878,7 +15979,12 @@
     ],
     "points":"3",
     "prerequisites":[
-
+      [
+        "GREK UN2101"
+      ],
+      [
+        "GREK UN2102"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20241GREK3310V001",
@@ -16381,7 +16487,7 @@
   {
     "course_code":"HRTS GU4380",
     "course_title":"Advocating and Campaigning for Social an",
-    "course_descr":null,
+    "course_descr":"This course will examine practical issues, opportunities, tactics and strategies to advocate for economic and social rights. The course will incorporate central debates about economic and social rights, such as how to identify violators and define state responsibility, whether these rights can be litigated, and how to make implementable recommendations for change, measure implementation and measure impact. The course will also look more in depth at the standards and fulfillment challenges on several of the key rights including health, housing, education, and labor.\u00a0\u00a0\n  \nThroughout the course, you will focus on one economic and social rights topic of your choice. Through the lens of your chosen topic, you will review how organizations and social movements have engaged to affect change on similar issues, and use that research to explore many of the practical skills of advocacy and campaigning: framing recommendations and calls to action; drafting policy briefs; crafting media pitches and social media content; and designing and evaluating an overall advocacy strategy.\u00a0\u00a0\n\n",
     "instructor":"Mila H Rosenthal",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -16433,7 +16539,7 @@
   {
     "course_code":"HRTS GU4880",
     "course_title":"HUMAN RIGHTS IN THE UNITED STATES",
-    "course_descr":null,
+    "course_descr":"The United States has a long complex relationship with the international human rights system. Although its founding was grounded in fundamental norms of inalienable rights, equality and freedom, U.S. history is characterized by divisive and sometimes violent disagreements about who counts as human, what is fundamental to the human condition, and which\/how rights should be protected. How has this history contributed to our contemporary struggles? Through engaging with issues related to racial justice, criminal justice, reproductive justice, disability justice, gender justice, and indigenous people\u2019s rights, students are asked to consider how certain rights are sites of contestation within the U.S. political system and within U.S. society.\n  \nThis course offers a multidisciplinary survey of urgent contemporary human rights issues in the United States and seeks to advance students\u2019 skills to examine human rights research and analysis through intersectional approaches. Part of the inquiry of this course is ensuring that students understand existing tensions among several key concepts (1) human rights as a body of international human rights law and institutions; (2) human rights movements using human rights discourse to further their aspirations; (3) constitutional rights in the U.S. as interpreted by U.S. courts that may or may not allude to\/be contained in international law; and (4) political rhetoric that use the language of \u201crights\u201d for political ends.\n  \nCoursework will ground current human rights debates in their social, legal, and political contexts. It will outline the different actors in the human rights landscape, focusing on mobilization strategies of human rights movements and the policy reforms that they seek to advance human rights agendas. Students will engage with legal cases and legislation in the United States. By the end of this course, you should expect to be able to:\n  \n  \nUnderstand critical human rights issues in the United States, and apply international and domestic human rights principles and practice to these contemporary human rights debates;\n  \nUnderstand the role of social movements in shaping narratives around human rights;\n  \nAnalyze (through case studies) the real-life application and effects of human rights policies, as well as how they contribute to the promotion, progressive enforcement, and internalization of international human rights.\n \n\n",
     "instructor":"Joy L Chia",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -19721,7 +19827,7 @@
   {
     "course_code":"IFIN PS0104",
     "course_title":"Introduction to Finance & Investment Man",
-    "course_descr":null,
+    "course_descr":"Participants learn the principles of finance and investment management, to include interest rates and compound interest, the time value of money, risk and reward, how stocks and bonds are valued, how the stock market functions, how the international financial market functions, and how to approach stock selection and portfolio management.\n  \nWe explore the structure of the financial system, to include the role of individual participants, investment banks, asset managers, the Central Bank, and other players in the global economy. The course connects foundations of economics to financial markets. What is the role of risk in investment? How does the environment of the market and the broader world drive return on investments? Why have some investments done well in memorable history? Why have others not done well? How are the winners and losers of past investments explained by financial theory? What is the role of traditional investments, such as mutual funds, and of alternative investments, such as venture capital, private equity and hedge funds?\n  \nStudents generate their own investment strategies and portfolios. The course includes some asynchronous work, which students are expected to complete between class sessions.\n  \n\u00a0\n\n",
     "instructor":"Matthew S Cantwell",
     "scheduled_time_start":"10:00am",
     "scheduled_time_end":"12:00pm",
@@ -24378,7 +24484,7 @@
   {
     "course_code":"IPTH PS0114",
     "course_title":"Intro to Programming with Python 2",
-    "course_descr":null,
+    "course_descr":"This course, intended for students have completed the Introduction to Programming with Python course or have the prerequisite knowledge of the course topics discussed in that class. \u00a0Entry level programming experience is required. \u00a0The course provides a further look at the Python programming,\u00a0\n  \nParticipants become familiar with intermediate and advanced programming concepts and are challenged through the use of logic games, programming problems, and hands-on assignments to develop logical reasoning and problem-solving skills. The course includes asynchronous work, which students are expected to complete between class sessions.\n  \nBy the end of this course, students should have a solid understanding of program classes, objects, iterators, inheritance, lambda functions, try\/except, regex, file handling, database modules, graphical modules, numerical analysis modules. This knowledge will support them in future ventures in computer science programming.\n  \n\u00a0\n\n",
     "instructor":null,
     "scheduled_time_start":"10:00am",
     "scheduled_time_end":"12:00pm",
@@ -24581,7 +24687,7 @@
   {
     "course_code":"LATN GR6154",
     "course_title":"LATIN PALEOGRAPHY",
-    "course_descr":null,
+    "course_descr":"This course will survey the history of Latin manuscript books and Latin scripts from late Antiquity to the early years of printing (4th -15th century). Students will study the questions that have driven the field of paleography since its inception, and the canonical history of the main scripts used in Western Europe through the end of the Middle Ages. We will consider the manuscript book as a physical artifact, in a codicological approach; and we will look at the production of books in their social and political settings. Students will develop practical skills in reading and transcription, and will begin to recognize the features that allow localization and dating of manuscripts. We will use original materials from the Rare Book and Manuscript Library whenever possible.\n",
     "instructor":null,
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"2:00pm",
@@ -24607,7 +24713,7 @@
   {
     "course_code":"LATN GR8020",
     "course_title":"The Argonautic Tradition",
-    "course_descr":null,
+    "course_descr":"In this seminar, we will read a number of texts in and around the Roman side of the Argonautic tradition\u2014the voyage of the world\u2019s first ship \nArgo\n, and its tragic aftermath\u2014from the Republic through the Late Empire; and we will end with W.E.B. Du Bois\u2019 first novel, \nThe Quest of the Silver Fleece\n.\n\n",
     "instructor":"Darcy Krasne",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -24633,7 +24739,7 @@
   {
     "course_code":"LATN GU4010",
     "course_title":"SELECTIONS FROM LATIN LITERATURE",
-    "course_descr":null,
+    "course_descr":"Prerequisites: LATN UN3012 or the equivalent. Since the content of this course changes from year to year, it may be repeated for credit.\n\n",
     "instructor":"Gareth Williams",
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:55pm",
@@ -24661,7 +24767,9 @@
     ],
     "points":"3",
     "prerequisites":[
-
+      [
+        "LATN UN3012"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20241LATN4010W001",
@@ -24670,7 +24778,7 @@
   {
     "course_code":"LATN GU4106",
     "course_title":"HISTORY OF LATIN LIT II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: at least two terms of Latin at the 3000-level or higher. Latin literature from Augustus to 600 C.E.\n\n",
     "instructor":"Gareth Williams",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -24707,7 +24815,7 @@
   {
     "course_code":"LATN GU4152",
     "course_title":"MEDIEVAL LATIN LITERATURE",
-    "course_descr":null,
+    "course_descr":"Prerequisites: the instructors permission. This course covers various topics in Medieval Latin Literature.\n\n",
     "instructor":"Carmela V Franklin",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -24733,7 +24841,7 @@
   {
     "course_code":"LATN UN1101",
     "course_title":"ELEMENTARY LATIN I",
-    "course_descr":null,
+    "course_descr":"For students who have never studied Latin. An intensive study of grammar with reading of simple prose and poetry.\n",
     "instructor":"Geoffrey Harmsworth",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -24768,7 +24876,7 @@
   {
     "course_code":"LATN UN1102",
     "course_title":"ELEMENTARY LATIN II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: LATN UN1101. A continuation of LATN UN1101, including a review of grammar and syntax for students whose study of Latin has been interrupted.\n\n",
     "instructor":"John T Ma",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -24794,7 +24902,12 @@
     ],
     "points":"4",
     "prerequisites":[
-
+      [
+        "LATN UN1101"
+      ],
+      [
+        "LATN UN1101"
+      ]
     ],
     "scheduled_days":"TRF",
     "section_key":"20241LATN1102V001",
@@ -24803,7 +24916,7 @@
   {
     "course_code":"LATN UN1102",
     "course_title":"ELEMENTARY LATIN II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: LATN UN1101. A continuation of LATN UN1101, including a review of grammar and syntax for students whose study of Latin has been interrupted.\n\n",
     "instructor":"Erin J Petrella",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -24829,7 +24942,12 @@
     ],
     "points":"4",
     "prerequisites":[
-
+      [
+        "LATN UN1101"
+      ],
+      [
+        "LATN UN1101"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20241LATN1102V002",
@@ -24838,7 +24956,7 @@
   {
     "course_code":"LATN UN1121",
     "course_title":"INTENSIVE ELEMENTARY LATIN",
-    "course_descr":null,
+    "course_descr":"Equivalent to Latin 1101 and 1102. Covers all of Latin grammar and syntax in one term to prepare the student to enter Latin 1201 or 1202. This is an intensive course with substantial preparation time outside of class.\n\n",
     "instructor":"Emma Ianni",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -24864,7 +24982,7 @@
   {
     "course_code":"LATN UN2101",
     "course_title":"INTERMEDIATE LATIN I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: LATN UN2101 or the equivalent. Selections from Ovids Metamorphoses and from Sallust, Livy, Seneca, or Pliny.\n\n",
     "instructor":"Jose Antonio Cancino Alfaro",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -24890,7 +25008,9 @@
     ],
     "points":"4",
     "prerequisites":[
-
+      [
+        "LATN UN2101"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20241LATN2101V001",
@@ -24899,7 +25019,7 @@
   {
     "course_code":"LATN UN2102",
     "course_title":"INTERMEDIATE LATIN II",
-    "course_descr":null,
+    "course_descr":"This course condenses the second semester of Intermediate Latin (2102) into a sixweek summer session. Its goal is to further develop reading and interpretation skills in Classical Latin through engagement with Roman authors while continuing to review the essentials of Latin grammar. In the first half of the course, we cover selections from Ovid\u2019s epic poem, the Metamorphoses; in the second, we take up the prose writings of Seneca the Younger including selections from his Epistulae Morales and the philosophical dialogue De vita beata.\n  \nPrerequisites: LATN UN2101 or the equivalent. Selections from Ovids Metamorphoses and from Sallust, Livy, Seneca, or Pliny.\n\n",
     "instructor":"Lien Van Geel",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -24925,7 +25045,9 @@
     ],
     "points":"4",
     "prerequisites":[
-
+      [
+        "LATN UN2101"
+      ]
     ],
     "scheduled_days":"TRF",
     "section_key":"20241LATN2102V001",
@@ -24934,7 +25056,7 @@
   {
     "course_code":"LATN UN2102",
     "course_title":"INTERMEDIATE LATIN II",
-    "course_descr":null,
+    "course_descr":"This course condenses the second semester of Intermediate Latin (2102) into a sixweek summer session. Its goal is to further develop reading and interpretation skills in Classical Latin through engagement with Roman authors while continuing to review the essentials of Latin grammar. In the first half of the course, we cover selections from Ovid\u2019s epic poem, the Metamorphoses; in the second, we take up the prose writings of Seneca the Younger including selections from his Epistulae Morales and the philosophical dialogue De vita beata.\n  \nPrerequisites: LATN UN2101 or the equivalent. Selections from Ovids Metamorphoses and from Sallust, Livy, Seneca, or Pliny.\n\n",
     "instructor":null,
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -24960,7 +25082,9 @@
     ],
     "points":"4",
     "prerequisites":[
-
+      [
+        "LATN UN2101"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20241LATN2102V002",
@@ -24969,7 +25093,7 @@
   {
     "course_code":"LATN UN3013",
     "course_title":"CLASSICAL LATIN PROSE",
-    "course_descr":null,
+    "course_descr":"Prerequisites: LATN W2202 or equivalent This course is intended to complement Latin V3012: Augustan Poetry in providing students I a transition between the elementary, grammatical study of Latin texts to a more fluent understanding of complex literary style. Latin V3013 will largely concentrate on different styles of writing, particularly narrative, invective, and argument. Text will be drawn primarily from Ciceros orations, with some readings form his rhetorical works.\n\n",
     "instructor":"Lien Van Geel",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -24992,7 +25116,13 @@
     ],
     "points":"3",
     "prerequisites":[
-
+      [
+        "LATN W2202",
+        "V3012"
+      ],
+      [
+        "V3013"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20241LATN3013V001",
@@ -25001,7 +25131,7 @@
   {
     "course_code":"LATN UN3310",
     "course_title":"LATIN LITERATURE SELECTIONS",
-    "course_descr":null,
+    "course_descr":"Prerequisites: LATN UN2102 or the equivalent. Since the content of this course changes from year to year, it may be repeated for credit.\n\n",
     "instructor":"Darcy Krasne",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -25025,7 +25155,9 @@
     ],
     "points":"3",
     "prerequisites":[
-
+      [
+        "LATN UN2102"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20241LATN3310V001",
@@ -31047,7 +31179,7 @@
   {
     "course_code":"MATS PS0104",
     "course_title":"Math Modeling and Statistics Application",
-    "course_descr":null,
+    "course_descr":"\u00a0 \u00a0\n\n",
     "instructor":null,
     "scheduled_time_start":"10:00am",
     "scheduled_time_end":"12:00pm",
@@ -31061,7 +31193,9 @@
     "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/MATS\/K0104-20241-D01\/",
     "location":"ONLINE ONLY",
     "method_of_instruction":null,
-    "open_to":null,
+    "open_to":[
+      "Pre-College Programs"
+    ],
     "points":"0",
     "prerequisites":[
 
@@ -31307,7 +31441,7 @@
   {
     "course_code":"NESC PS0104",
     "course_title":"Neuroscience of Psychiatric Disorders",
-    "course_descr":null,
+    "course_descr":"Neuroscience is the study of the neural processes and mechanisms underlying human function and behavior. It is an interdisciplinary field that combines the ideas explored in the field of psychology with the science that governs the brain and body. In order to understand the etiology of disorders such as addiction, post-traumatic stress disorder, and schizophrenia, it is crucial to understand how molecular, cellular, and endocrine changes contribute to disease progression.\n  \nIn this course, students learn about how the laws of neurons and neurotransmitters direct brain processes. Classes include interactive lectures, discussions, and assignments designed to help students understand the neuroscience of addiction, major depressive disorder, post-traumatic stress disorder, and schizophrenia. Outside of class, students explore case studies of neuropsychiatric disorders so as to fully understand the extent of debilitation and possibilities for recovery. The course includes asynchronous work, which students are expected to complete between class sessions.\n\n",
     "instructor":null,
     "scheduled_time_start":"10:00am",
     "scheduled_time_end":"12:00pm",
@@ -31321,7 +31455,9 @@
     "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/NESC\/K0104-20241-D01\/",
     "location":"ONLINE ONLY",
     "method_of_instruction":null,
-    "open_to":null,
+    "open_to":[
+      "Pre-College Programs"
+    ],
     "points":"0",
     "prerequisites":[
 
@@ -31885,7 +32021,7 @@
   {
     "course_code":"NURO PS0104",
     "course_title":"Introduction to Neuroscience: Understand",
-    "course_descr":null,
+    "course_descr":"This course is designed for students interested in the science of the brain, including its evolutionary origins, early development, and role in generating behavior. We explore theories of the brain as the seat of the self from ancient Greece to modern times, and investigate systems that make up the brain from the individual neuron to the entire central nervous system. We also look into how sensation, perception, and decision making work at the physiological level. The course blends historical trends in neuroscience with modern experiments and findings, and touches on major areas of research including animal studies, recording and imaging techniques, computational neuroscience, and neuropharmacology.\n  \nIn-class small-group exercises, in addition to lectures, allow students to tangibly explore the ideas presented in class. Participants construct various models of the brain, critique professional neuroscientific papers as \u201cpeer-reviewers,\u201d and visualize actual neural data with instructor guidance. The course includes asynchronous work, which students are expected to complete between class sessions.\n\n",
     "instructor":"Timothy Myers",
     "scheduled_time_start":"10:00am",
     "scheduled_time_end":"12:00pm",
@@ -31913,7 +32049,7 @@
   {
     "course_code":"NURO PS0104",
     "course_title":"Introduction to Neuroscience: Understand",
-    "course_descr":null,
+    "course_descr":"This course is designed for students interested in the science of the brain, including its evolutionary origins, early development, and role in generating behavior. We explore theories of the brain as the seat of the self from ancient Greece to modern times, and investigate systems that make up the brain from the individual neuron to the entire central nervous system. We also look into how sensation, perception, and decision making work at the physiological level. The course blends historical trends in neuroscience with modern experiments and findings, and touches on major areas of research including animal studies, recording and imaging techniques, computational neuroscience, and neuropharmacology.\n  \nIn-class small-group exercises, in addition to lectures, allow students to tangibly explore the ideas presented in class. Participants construct various models of the brain, critique professional neuroscientific papers as \u201cpeer-reviewers,\u201d and visualize actual neural data with instructor guidance. The course includes asynchronous work, which students are expected to complete between class sessions.\n\n",
     "instructor":"Nicholas Santiago",
     "scheduled_time_start":"8:00pm",
     "scheduled_time_end":"10:00pm",
@@ -31941,7 +32077,7 @@
   {
     "course_code":"ORGN PS0104",
     "course_title":"Organic Chemistry",
-    "course_descr":null,
+    "course_descr":"Organic Chemistry is one of the foundational subjects for students who want to be biology, chemistry, or pre-medical majors in college. This course will introduce students to many of the very interesting and useful concepts found in a typical college organic chemistry curriculum but at a level that is accessible to most high school students. The course covers the properties, reactions, structural shape, and synthesis of various \u201cclassic\u201d organic compounds like alcohols. The course also includes the basic organic reaction types and mechanisms like elimination, substitution, and addition. Students will learn how to use data to determine the reaction mechanism for a synthesis and the structural formula of an organic compound. There is an emphasis on three types of spectroscopies: infrared, nuclear magnetic resonance, and mass spectroscopy and on the three-dimensional aspect (isomers) of organic molecules. Biochemical pathways like the Kreb\u2019s Cycle and the synthesis of a nucleotide are analyzed in detail to show students that all life - including their own - is a series of organic chemistry reactions.\n \n Class time is devoted to interactive lectures, short videos and in-class assignments designed to help students understand the material. Outside of class, students are expected to either write short essays or work on a series of assignments that use the ideas taught in class. Simple organic molecules are used as examples in this course to help students more easily learn the material, but there is an option for students to work with more complex reactions and molecules.\u00a0\u00a0\n\n",
     "instructor":null,
     "scheduled_time_start":"1:00pm",
     "scheduled_time_end":"3:00pm",
@@ -31969,7 +32105,7 @@
   {
     "course_code":"PHYS GR6011",
     "course_title":"ASTROPHYSICS I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: a strong undergraduate background in E-M and classical mechanics. Qualified undergraduates may be admitted with the instructors permission. The basic physics of high energy astrophysical phenomena. Protostars, equations of stellar structure; radiative transfer theory; stellar nucleosynthesis; radiative emission processes; equations of state and cooling theory for neutron stars and white dwarfs, Oppenheimer-Volkoff equation; Chandrasekhar limit; shocks and fluids; accretion theory for both disks and hard surfaces; black hole orbits and light bending.\n",
     "instructor":"Charles J Hailey",
     "scheduled_time_start":"5:40pm",
     "scheduled_time_end":"6:55pm",
@@ -32025,7 +32161,7 @@
   {
     "course_code":"PHYS GR6038",
     "course_title":"QUANTUM MECHANICS II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: PHYS W4021-W4022, or their equivalents. Applications to atoms and molecules, including Thomas-Fermi and Hartree-Fock atoms; interaction of radiation with matter; collision theory; second quantization.\n",
     "instructor":"Emlyn W Hughes",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -32046,7 +32182,12 @@
     ],
     "points":"4.5",
     "prerequisites":[
-
+      [
+        "PHYS W4021"
+      ],
+      [
+        "W4022"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20241PHYS6038G001",
@@ -32055,7 +32196,7 @@
   {
     "course_code":"PHYS GR6047",
     "course_title":"QUANTUM FIELD THEORY I",
-    "course_descr":null,
+    "course_descr":"Lagrangian density formalism of Lorentz scalar, Dirac and Weyl spinor, and vector gauge fields. Action variations, symmetries, conservation laws. Canonical quantization, Fock space. Interacting local fields, temporal evolution. Wicks theorem, propagators, and vertex functions, Feynman rules and diagrams. Scattering S matrix examples with tree level amplitudes. Path quantization. 1-loop intro to renormalization.\n",
     "instructor":"Alberto Nicolis",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -32085,7 +32226,7 @@
   {
     "course_code":"PHYS GR6065",
     "course_title":"Quantum Optics: Atoms and Photons",
-    "course_descr":null,
+    "course_descr":"Quantum optics, including: quantiziation of the electromagnetic\u00a0field, open quantum systems, light-matter interaction, coherent control, collective phenomena, measurement theory and decoherence, and applications in quantum information science.\n\n",
     "instructor":"Ana Asenjo Garcia",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -32111,7 +32252,7 @@
   {
     "course_code":"PHYS GR6082",
     "course_title":"CONDENSED MATTER PHYSICS I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: PHYS E6081 or the instructors permission. Semiclassical and quantum mechanical electron dynamics and conduction; dielectric properties of insulators; semiconductors; defects; magnetism; superconductivity; low-dimensional structures; soft matter.\n",
     "instructor":"Raquel Pinheiro D Quieroz",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -32132,7 +32273,9 @@
     ],
     "points":"3",
     "prerequisites":[
-
+      [
+        "PHYS E6081"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20241PHYS6082G001",
@@ -32141,7 +32284,7 @@
   {
     "course_code":"PHYS GR6094",
     "course_title":"CLASSICAL FIELDS & WAVES",
-    "course_descr":null,
+    "course_descr":"Prerequisites: PHYS G6092. This course will study the classical field theories used in electromagnetism, fluid dynamics, plasma physics, and elastic solid dynamics. General field theoretic concepts will be discussed, including the action, symmetries, conservation laws, and dissipation. In addition, classical field equations will be analyzed from the viewpoint of macroscopic averaging and small-parameter expansions of the fundamental microscopic dynamics. The course will also investigate the production and propagation of linear and nonlinear waves; with topics including linearized small-amplitude waves, ordinary and extraordinary waves, waves in a plasma, surface waves, nonlinear optics, wave-wave mixing, solitons, shock waves, and turbulence.\n",
     "instructor":"Andrei Beloborodov",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -32162,7 +32305,9 @@
     ],
     "points":"4.5",
     "prerequisites":[
-
+      [
+        "PHYS G6092"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20241PHYS6094G001",
@@ -32171,7 +32316,7 @@
   {
     "course_code":"PHYS GR8040",
     "course_title":"GENERAL RELATIVITY",
-    "course_descr":null,
+    "course_descr":".\n\n",
     "instructor":"Andrei Beloborodov",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -32201,7 +32346,7 @@
   {
     "course_code":"PHYS GR8069",
     "course_title":"PARTICLE PHYSICS I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: PHYS G6037-G6038. Basic aspects of particle physics, focusing on the Standard Model.\n",
     "instructor":"Robert D Mawhinney",
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:55pm",
@@ -32221,7 +32366,12 @@
     ],
     "points":"3",
     "prerequisites":[
-
+      [
+        "G6038"
+      ],
+      [
+        "PHYS G6037"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20241PHYS8069G001",
@@ -32230,7 +32380,7 @@
   {
     "course_code":"PHYS GU4003",
     "course_title":"ADVANCED MECHANICS",
-    "course_descr":null,
+    "course_descr":"Prerequisites: differential and integral calculus, differential equations, and PHYS UN3003 or the equivalent. Lagranges formulation of mechanics, calculus of variations and the Action Principle, Hamiltons formulation of mechanics, rigid body motion, Euler angles, continuum mechanics, introduction to chaotic dynamics.\n",
     "instructor":"Frederik Denef",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:25pm",
@@ -32258,7 +32408,9 @@
     ],
     "points":"3",
     "prerequisites":[
-
+      [
+        "PHYS UN3003"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20241PHYS4003W001",
@@ -32267,7 +32419,7 @@
   {
     "course_code":"PHYS GU4018",
     "course_title":"SOLID STATE PHYSICS",
-    "course_descr":null,
+    "course_descr":"Prerequisites: PHYS GU4021 and PHYS GU4023 or the equivalent. Introduction to solid-state physics: crystal structures, properties of periodic lattices, electrons in metals, band structure, transport properties, semiconductors, magnetism, and superconductivity.\n",
     "instructor":"James W McIver",
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:55pm",
@@ -32295,7 +32447,12 @@
     ],
     "points":"3",
     "prerequisites":[
-
+      [
+        "PHYS GU4021"
+      ],
+      [
+        "PHYS GU4023"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20241PHYS4018W001",
@@ -32304,7 +32461,7 @@
   {
     "course_code":"PHYS GU4022",
     "course_title":"QUANTUM MECHANICS II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: PHYS GU4021. Formulation of quantum mechanics in terms of state vectors and linear operators, three-dimensional spherically symmetric potentials, the theory of angular momentum and spin, time-independent and time-dependent perturbation theory, scattering theory, and identical particles. Selected phenomena from atomic physics, nuclear physics, and elementary particle physics are described and then interpreted using quantum mechanical models.\n",
     "instructor":"Alfred H Mueller",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -32332,7 +32489,9 @@
     ],
     "points":"3",
     "prerequisites":[
-
+      [
+        "PHYS GU4021"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20241PHYS4022W001",
@@ -32341,7 +32500,7 @@
   {
     "course_code":"PHYS GU4040",
     "course_title":"INTRO TO GENERAL RELATIVITY",
-    "course_descr":null,
+    "course_descr":"Prerequisites: PHYS UN3003 and PHYS UN3007 or the equivalent. Tensor algebra, tensor analysis, introduction to Riemann geometry. Motion of particles, fluid, and fields in curved spacetime. Einstein equation. Schwarzschild solution; test-particle orbits and light bending. Introduction to black holes, gravitational waves, and cosmological models.\n",
     "instructor":"James C Hill",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -32358,7 +32517,12 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "PHYS UN3003"
+      ],
+      [
+        "PHYS UN3007"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20241PHYS4040W001",
@@ -32367,7 +32531,7 @@
   {
     "course_code":"PHYS UN1001",
     "course_title":"PHYSICS FOR POETS",
-    "course_descr":null,
+    "course_descr":"Prerequisites: high school algebra. This course does not fulfill the physics requirement for admission to medical school. No previous background in physics is expected. An introduction to physics taught through the exploration of the scientific method, and the application of physical principles to a wide range of topics from quantum mechanics to cosmology.\n",
     "instructor":"Szabolcs Marka",
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:55pm",
@@ -32393,7 +32557,7 @@
   {
     "course_code":"PHYS UN1018",
     "course_title":"WEAPONS OF MASS DESTRUCTION",
-    "course_descr":null,
+    "course_descr":"Prerequisites: high school science and math. A review of the history and environmental consequences of nuclear, chemical, and biological weapons of mass destruction (WMD); of how these weapons work, what they cost, how they have spread, how they might be used, how they are currently controlled by international treaties and domestic legislation, and what issues of policy and technology arise in current debates on WMD. What aspects of the manufacture of WMD are easily addressed, and what aspects are technically challenging? It may be expected that current events\/headlines will be discussed in class.\n",
     "instructor":"Szabolcs Marka",
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:55pm",
@@ -32419,7 +32583,7 @@
   {
     "course_code":"PHYS UN1201",
     "course_title":"GENERAL PHYSICS I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: some basic background in calculus or be concurrently taking MATH UN1101 Calculus I. The accompanying laboratory is PHYS UN1291-UN1292 The course will use elementary concepts from calculus. The accompanying laboratory is PHYS UN1291 - UN1292. Basic introduction to the study of mechanics, fluids, thermodynamics, electricity, magnetism, optics, special relativity, quantum mechanics, atomic physics, and nuclear physics.\n",
     "instructor":"Eric Raymer",
     "scheduled_time_start":"5:40pm",
     "scheduled_time_end":"6:55pm",
@@ -32444,7 +32608,17 @@
     ],
     "points":"3",
     "prerequisites":[
-
+      [
+        "MATH UN1101",
+        "PHYS UN1291"
+      ],
+      [
+        "UN1292"
+      ],
+      [
+        "UN1292",
+        "PHYS UN1291"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20241PHYS1201W001",
@@ -32453,7 +32627,7 @@
   {
     "course_code":"PHYS UN1202",
     "course_title":"GENERAL PHYSICS II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: This course will use elementary concepts from calculus. Students should therefore have had some high school calculus, or be concurrently enrolled in MATH UN1101. Taken with accompanying lab PHYS UN1291- PHYS UN1292, the sequence PHYS UN1201- PHYS UN1202 satisfies requirements for medical school. Electricity, magnetism, optics, and modern physics.\n",
     "instructor":"P. Michael Tuts",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -32478,7 +32652,21 @@
     ],
     "points":"3",
     "prerequisites":[
-
+      [
+        "MATH UN1101"
+      ],
+      [
+        "PHYS UN1201"
+      ],
+      [
+        "PHYS UN1202"
+      ],
+      [
+        "PHYS UN1291"
+      ],
+      [
+        "PHYS UN1292"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20241PHYS1202W001",
@@ -32487,7 +32675,7 @@
   {
     "course_code":"PHYS UN1202",
     "course_title":"GENERAL PHYSICS II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: This course will use elementary concepts from calculus. Students should therefore have had some high school calculus, or be concurrently enrolled in MATH UN1101. Taken with accompanying lab PHYS UN1291- PHYS UN1292, the sequence PHYS UN1201- PHYS UN1202 satisfies requirements for medical school. Electricity, magnetism, optics, and modern physics.\n",
     "instructor":"Michael H Shaevitz",
     "scheduled_time_start":"5:40pm",
     "scheduled_time_end":"6:55pm",
@@ -32512,7 +32700,21 @@
     ],
     "points":"3",
     "prerequisites":[
-
+      [
+        "MATH UN1101"
+      ],
+      [
+        "PHYS UN1201"
+      ],
+      [
+        "PHYS UN1202"
+      ],
+      [
+        "PHYS UN1291"
+      ],
+      [
+        "PHYS UN1292"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20241PHYS1202W003",
@@ -32521,7 +32723,7 @@
   {
     "course_code":"PHYS UN1291",
     "course_title":"GENERAL PHYSICS I LAB",
-    "course_descr":null,
+    "course_descr":"Corequisites: PHYS UN1201 This course is the laboratory for the corequisite lecture course and can be taken only during the same term as the corresponding lecture.\n",
     "instructor":"Giuseppina C Cambareri",
     "scheduled_time_start":"1:00pm",
     "scheduled_time_end":"4:00pm",
@@ -32547,7 +32749,9 @@
     ],
     "points":"1",
     "prerequisites":[
-
+      [
+        "PHYS UN1201"
+      ]
     ],
     "scheduled_days":"M",
     "section_key":"20241PHYS1291W001",
@@ -32556,7 +32760,7 @@
   {
     "course_code":"PHYS UN1291",
     "course_title":"GENERAL PHYSICS I LAB",
-    "course_descr":null,
+    "course_descr":"Corequisites: PHYS UN1201 This course is the laboratory for the corequisite lecture course and can be taken only during the same term as the corresponding lecture.\n",
     "instructor":"Giuseppina C Cambareri",
     "scheduled_time_start":"7:30pm",
     "scheduled_time_end":"10:30pm",
@@ -32582,7 +32786,9 @@
     ],
     "points":"1",
     "prerequisites":[
-
+      [
+        "PHYS UN1201"
+      ]
     ],
     "scheduled_days":"M",
     "section_key":"20241PHYS1291W002",
@@ -32591,7 +32797,7 @@
   {
     "course_code":"PHYS UN1291",
     "course_title":"GENERAL PHYSICS I LAB",
-    "course_descr":null,
+    "course_descr":"Corequisites: PHYS UN1201 This course is the laboratory for the corequisite lecture course and can be taken only during the same term as the corresponding lecture.\n",
     "instructor":null,
     "scheduled_time_start":"1:00pm",
     "scheduled_time_end":"4:00pm",
@@ -32617,7 +32823,9 @@
     ],
     "points":"1",
     "prerequisites":[
-
+      [
+        "PHYS UN1201"
+      ]
     ],
     "scheduled_days":"T",
     "section_key":"20241PHYS1291W003",
@@ -32626,7 +32834,7 @@
   {
     "course_code":"PHYS UN1291",
     "course_title":"GENERAL PHYSICS I LAB",
-    "course_descr":null,
+    "course_descr":"Corequisites: PHYS UN1201 This course is the laboratory for the corequisite lecture course and can be taken only during the same term as the corresponding lecture.\n",
     "instructor":null,
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"7:10pm",
@@ -32652,7 +32860,9 @@
     ],
     "points":"1",
     "prerequisites":[
-
+      [
+        "PHYS UN1201"
+      ]
     ],
     "scheduled_days":"T",
     "section_key":"20241PHYS1291W004",
@@ -32661,7 +32871,7 @@
   {
     "course_code":"PHYS UN1291",
     "course_title":"GENERAL PHYSICS I LAB",
-    "course_descr":null,
+    "course_descr":"Corequisites: PHYS UN1201 This course is the laboratory for the corequisite lecture course and can be taken only during the same term as the corresponding lecture.\n",
     "instructor":"Giuseppina C Cambareri",
     "scheduled_time_start":"1:00pm",
     "scheduled_time_end":"4:00pm",
@@ -32687,7 +32897,9 @@
     ],
     "points":"1",
     "prerequisites":[
-
+      [
+        "PHYS UN1201"
+      ]
     ],
     "scheduled_days":"W",
     "section_key":"20241PHYS1291W005",
@@ -32696,7 +32908,7 @@
   {
     "course_code":"PHYS UN1291",
     "course_title":"GENERAL PHYSICS I LAB",
-    "course_descr":null,
+    "course_descr":"Corequisites: PHYS UN1201 This course is the laboratory for the corequisite lecture course and can be taken only during the same term as the corresponding lecture.\n",
     "instructor":"Giuseppina C Cambareri",
     "scheduled_time_start":"7:30pm",
     "scheduled_time_end":"10:30pm",
@@ -32722,7 +32934,9 @@
     ],
     "points":"1",
     "prerequisites":[
-
+      [
+        "PHYS UN1201"
+      ]
     ],
     "scheduled_days":"W",
     "section_key":"20241PHYS1291W006",
@@ -32731,7 +32945,7 @@
   {
     "course_code":"PHYS UN1291",
     "course_title":"GENERAL PHYSICS I LAB",
-    "course_descr":null,
+    "course_descr":"Corequisites: PHYS UN1201 This course is the laboratory for the corequisite lecture course and can be taken only during the same term as the corresponding lecture.\n",
     "instructor":"Giuseppina C Cambareri",
     "scheduled_time_start":"1:00pm",
     "scheduled_time_end":"4:00pm",
@@ -32757,7 +32971,9 @@
     ],
     "points":"1",
     "prerequisites":[
-
+      [
+        "PHYS UN1201"
+      ]
     ],
     "scheduled_days":"R",
     "section_key":"20241PHYS1291W007",
@@ -32766,7 +32982,7 @@
   {
     "course_code":"PHYS UN1291",
     "course_title":"GENERAL PHYSICS I LAB",
-    "course_descr":null,
+    "course_descr":"Corequisites: PHYS UN1201 This course is the laboratory for the corequisite lecture course and can be taken only during the same term as the corresponding lecture.\n",
     "instructor":"Giuseppina C Cambareri",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"7:10pm",
@@ -32792,7 +33008,9 @@
     ],
     "points":"1",
     "prerequisites":[
-
+      [
+        "PHYS UN1201"
+      ]
     ],
     "scheduled_days":"R",
     "section_key":"20241PHYS1291W008",
@@ -32801,7 +33019,7 @@
   {
     "course_code":"PHYS UN1292",
     "course_title":"GENERAL PHYSICS II LABORATORY",
-    "course_descr":null,
+    "course_descr":"Corequisites: PHYS UN1201,PHYS UN1202 This course is the laboratory for the corequisite lecture course (PHYS UN1201 - PHYS UN1202) and can be taken only during the same term as the corresponding lecture.\n",
     "instructor":"Giuseppina C Cambareri",
     "scheduled_time_start":"1:00pm",
     "scheduled_time_end":"4:00pm",
@@ -32827,7 +33045,16 @@
     ],
     "points":"1",
     "prerequisites":[
-
+      [
+        "PHYS UN1201"
+      ],
+      [
+        "PHYS UN1202"
+      ],
+      [
+        "PHYS UN1202",
+        "PHYS UN1201"
+      ]
     ],
     "scheduled_days":"M",
     "section_key":"20241PHYS1292W001",
@@ -32836,7 +33063,7 @@
   {
     "course_code":"PHYS UN1292",
     "course_title":"GENERAL PHYSICS II LABORATORY",
-    "course_descr":null,
+    "course_descr":"Corequisites: PHYS UN1201,PHYS UN1202 This course is the laboratory for the corequisite lecture course (PHYS UN1201 - PHYS UN1202) and can be taken only during the same term as the corresponding lecture.\n",
     "instructor":"Giuseppina C Cambareri",
     "scheduled_time_start":"1:00pm",
     "scheduled_time_end":"4:00pm",
@@ -32862,7 +33089,16 @@
     ],
     "points":"1",
     "prerequisites":[
-
+      [
+        "PHYS UN1201"
+      ],
+      [
+        "PHYS UN1202"
+      ],
+      [
+        "PHYS UN1202",
+        "PHYS UN1201"
+      ]
     ],
     "scheduled_days":"M",
     "section_key":"20241PHYS1292W002",
@@ -32871,7 +33107,7 @@
   {
     "course_code":"PHYS UN1292",
     "course_title":"GENERAL PHYSICS II LABORATORY",
-    "course_descr":null,
+    "course_descr":"Corequisites: PHYS UN1201,PHYS UN1202 This course is the laboratory for the corequisite lecture course (PHYS UN1201 - PHYS UN1202) and can be taken only during the same term as the corresponding lecture.\n",
     "instructor":"Giuseppina C Cambareri",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"7:10pm",
@@ -32897,7 +33133,16 @@
     ],
     "points":"1",
     "prerequisites":[
-
+      [
+        "PHYS UN1201"
+      ],
+      [
+        "PHYS UN1202"
+      ],
+      [
+        "PHYS UN1202",
+        "PHYS UN1201"
+      ]
     ],
     "scheduled_days":"M",
     "section_key":"20241PHYS1292W003",
@@ -32906,7 +33151,7 @@
   {
     "course_code":"PHYS UN1292",
     "course_title":"GENERAL PHYSICS II LABORATORY",
-    "course_descr":null,
+    "course_descr":"Corequisites: PHYS UN1201,PHYS UN1202 This course is the laboratory for the corequisite lecture course (PHYS UN1201 - PHYS UN1202) and can be taken only during the same term as the corresponding lecture.\n",
     "instructor":"Giuseppina C Cambareri",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"7:10pm",
@@ -32932,7 +33177,16 @@
     ],
     "points":"1",
     "prerequisites":[
-
+      [
+        "PHYS UN1201"
+      ],
+      [
+        "PHYS UN1202"
+      ],
+      [
+        "PHYS UN1202",
+        "PHYS UN1201"
+      ]
     ],
     "scheduled_days":"M",
     "section_key":"20241PHYS1292W004",
@@ -32941,7 +33195,7 @@
   {
     "course_code":"PHYS UN1292",
     "course_title":"GENERAL PHYSICS II LABORATORY",
-    "course_descr":null,
+    "course_descr":"Corequisites: PHYS UN1201,PHYS UN1202 This course is the laboratory for the corequisite lecture course (PHYS UN1201 - PHYS UN1202) and can be taken only during the same term as the corresponding lecture.\n",
     "instructor":null,
     "scheduled_time_start":"7:30pm",
     "scheduled_time_end":"10:30pm",
@@ -32967,7 +33221,16 @@
     ],
     "points":"1",
     "prerequisites":[
-
+      [
+        "PHYS UN1201"
+      ],
+      [
+        "PHYS UN1202"
+      ],
+      [
+        "PHYS UN1202",
+        "PHYS UN1201"
+      ]
     ],
     "scheduled_days":"M",
     "section_key":"20241PHYS1292W005",
@@ -32976,7 +33239,7 @@
   {
     "course_code":"PHYS UN1292",
     "course_title":"GENERAL PHYSICS II LABORATORY",
-    "course_descr":null,
+    "course_descr":"Corequisites: PHYS UN1201,PHYS UN1202 This course is the laboratory for the corequisite lecture course (PHYS UN1201 - PHYS UN1202) and can be taken only during the same term as the corresponding lecture.\n",
     "instructor":"Giuseppina C Cambareri",
     "scheduled_time_start":"1:00pm",
     "scheduled_time_end":"4:00pm",
@@ -33002,7 +33265,16 @@
     ],
     "points":"1",
     "prerequisites":[
-
+      [
+        "PHYS UN1201"
+      ],
+      [
+        "PHYS UN1202"
+      ],
+      [
+        "PHYS UN1202",
+        "PHYS UN1201"
+      ]
     ],
     "scheduled_days":"T",
     "section_key":"20241PHYS1292W007",
@@ -33011,7 +33283,7 @@
   {
     "course_code":"PHYS UN1292",
     "course_title":"GENERAL PHYSICS II LABORATORY",
-    "course_descr":null,
+    "course_descr":"Corequisites: PHYS UN1201,PHYS UN1202 This course is the laboratory for the corequisite lecture course (PHYS UN1201 - PHYS UN1202) and can be taken only during the same term as the corresponding lecture.\n",
     "instructor":"Giuseppina C Cambareri",
     "scheduled_time_start":"1:00pm",
     "scheduled_time_end":"4:00pm",
@@ -33037,7 +33309,16 @@
     ],
     "points":"1",
     "prerequisites":[
-
+      [
+        "PHYS UN1201"
+      ],
+      [
+        "PHYS UN1202"
+      ],
+      [
+        "PHYS UN1202",
+        "PHYS UN1201"
+      ]
     ],
     "scheduled_days":"T",
     "section_key":"20241PHYS1292W008",
@@ -33046,7 +33327,7 @@
   {
     "course_code":"PHYS UN1292",
     "course_title":"GENERAL PHYSICS II LABORATORY",
-    "course_descr":null,
+    "course_descr":"Corequisites: PHYS UN1201,PHYS UN1202 This course is the laboratory for the corequisite lecture course (PHYS UN1201 - PHYS UN1202) and can be taken only during the same term as the corresponding lecture.\n",
     "instructor":"Giuseppina C Cambareri",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"7:10pm",
@@ -33072,7 +33353,16 @@
     ],
     "points":"1",
     "prerequisites":[
-
+      [
+        "PHYS UN1201"
+      ],
+      [
+        "PHYS UN1202"
+      ],
+      [
+        "PHYS UN1202",
+        "PHYS UN1201"
+      ]
     ],
     "scheduled_days":"T",
     "section_key":"20241PHYS1292W009",
@@ -33081,7 +33371,7 @@
   {
     "course_code":"PHYS UN1292",
     "course_title":"GENERAL PHYSICS II LABORATORY",
-    "course_descr":null,
+    "course_descr":"Corequisites: PHYS UN1201,PHYS UN1202 This course is the laboratory for the corequisite lecture course (PHYS UN1201 - PHYS UN1202) and can be taken only during the same term as the corresponding lecture.\n",
     "instructor":"Giuseppina C Cambareri",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"7:10pm",
@@ -33107,7 +33397,16 @@
     ],
     "points":"1",
     "prerequisites":[
-
+      [
+        "PHYS UN1201"
+      ],
+      [
+        "PHYS UN1202"
+      ],
+      [
+        "PHYS UN1202",
+        "PHYS UN1201"
+      ]
     ],
     "scheduled_days":"T",
     "section_key":"20241PHYS1292W010",
@@ -33116,7 +33415,7 @@
   {
     "course_code":"PHYS UN1292",
     "course_title":"GENERAL PHYSICS II LABORATORY",
-    "course_descr":null,
+    "course_descr":"Corequisites: PHYS UN1201,PHYS UN1202 This course is the laboratory for the corequisite lecture course (PHYS UN1201 - PHYS UN1202) and can be taken only during the same term as the corresponding lecture.\n",
     "instructor":null,
     "scheduled_time_start":"7:30pm",
     "scheduled_time_end":"10:30pm",
@@ -33142,7 +33441,16 @@
     ],
     "points":"1",
     "prerequisites":[
-
+      [
+        "PHYS UN1201"
+      ],
+      [
+        "PHYS UN1202"
+      ],
+      [
+        "PHYS UN1202",
+        "PHYS UN1201"
+      ]
     ],
     "scheduled_days":"T",
     "section_key":"20241PHYS1292W011",
@@ -33151,7 +33459,7 @@
   {
     "course_code":"PHYS UN1292",
     "course_title":"GENERAL PHYSICS II LABORATORY",
-    "course_descr":null,
+    "course_descr":"Corequisites: PHYS UN1201,PHYS UN1202 This course is the laboratory for the corequisite lecture course (PHYS UN1201 - PHYS UN1202) and can be taken only during the same term as the corresponding lecture.\n",
     "instructor":"Giuseppina C Cambareri",
     "scheduled_time_start":"1:00pm",
     "scheduled_time_end":"4:00pm",
@@ -33177,7 +33485,16 @@
     ],
     "points":"1",
     "prerequisites":[
-
+      [
+        "PHYS UN1201"
+      ],
+      [
+        "PHYS UN1202"
+      ],
+      [
+        "PHYS UN1202",
+        "PHYS UN1201"
+      ]
     ],
     "scheduled_days":"W",
     "section_key":"20241PHYS1292W013",
@@ -33186,7 +33503,7 @@
   {
     "course_code":"PHYS UN1292",
     "course_title":"GENERAL PHYSICS II LABORATORY",
-    "course_descr":null,
+    "course_descr":"Corequisites: PHYS UN1201,PHYS UN1202 This course is the laboratory for the corequisite lecture course (PHYS UN1201 - PHYS UN1202) and can be taken only during the same term as the corresponding lecture.\n",
     "instructor":"Giuseppina C Cambareri",
     "scheduled_time_start":"1:00pm",
     "scheduled_time_end":"4:00pm",
@@ -33212,7 +33529,16 @@
     ],
     "points":"1",
     "prerequisites":[
-
+      [
+        "PHYS UN1201"
+      ],
+      [
+        "PHYS UN1202"
+      ],
+      [
+        "PHYS UN1202",
+        "PHYS UN1201"
+      ]
     ],
     "scheduled_days":"W",
     "section_key":"20241PHYS1292W014",
@@ -33221,7 +33547,7 @@
   {
     "course_code":"PHYS UN1292",
     "course_title":"GENERAL PHYSICS II LABORATORY",
-    "course_descr":null,
+    "course_descr":"Corequisites: PHYS UN1201,PHYS UN1202 This course is the laboratory for the corequisite lecture course (PHYS UN1201 - PHYS UN1202) and can be taken only during the same term as the corresponding lecture.\n",
     "instructor":"Giuseppina C Cambareri",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"7:10pm",
@@ -33247,7 +33573,16 @@
     ],
     "points":"1",
     "prerequisites":[
-
+      [
+        "PHYS UN1201"
+      ],
+      [
+        "PHYS UN1202"
+      ],
+      [
+        "PHYS UN1202",
+        "PHYS UN1201"
+      ]
     ],
     "scheduled_days":"W",
     "section_key":"20241PHYS1292W015",
@@ -33256,7 +33591,7 @@
   {
     "course_code":"PHYS UN1292",
     "course_title":"GENERAL PHYSICS II LABORATORY",
-    "course_descr":null,
+    "course_descr":"Corequisites: PHYS UN1201,PHYS UN1202 This course is the laboratory for the corequisite lecture course (PHYS UN1201 - PHYS UN1202) and can be taken only during the same term as the corresponding lecture.\n",
     "instructor":"Giuseppina C Cambareri",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"7:10pm",
@@ -33282,7 +33617,16 @@
     ],
     "points":"1",
     "prerequisites":[
-
+      [
+        "PHYS UN1201"
+      ],
+      [
+        "PHYS UN1202"
+      ],
+      [
+        "PHYS UN1202",
+        "PHYS UN1201"
+      ]
     ],
     "scheduled_days":"W",
     "section_key":"20241PHYS1292W016",
@@ -33291,7 +33635,7 @@
   {
     "course_code":"PHYS UN1292",
     "course_title":"GENERAL PHYSICS II LABORATORY",
-    "course_descr":null,
+    "course_descr":"Corequisites: PHYS UN1201,PHYS UN1202 This course is the laboratory for the corequisite lecture course (PHYS UN1201 - PHYS UN1202) and can be taken only during the same term as the corresponding lecture.\n",
     "instructor":"Giuseppina C Cambareri",
     "scheduled_time_start":"7:30pm",
     "scheduled_time_end":"10:30pm",
@@ -33317,7 +33661,16 @@
     ],
     "points":"1",
     "prerequisites":[
-
+      [
+        "PHYS UN1201"
+      ],
+      [
+        "PHYS UN1202"
+      ],
+      [
+        "PHYS UN1202",
+        "PHYS UN1201"
+      ]
     ],
     "scheduled_days":"W",
     "section_key":"20241PHYS1292W017",
@@ -33326,7 +33679,7 @@
   {
     "course_code":"PHYS UN1292",
     "course_title":"GENERAL PHYSICS II LABORATORY",
-    "course_descr":null,
+    "course_descr":"Corequisites: PHYS UN1201,PHYS UN1202 This course is the laboratory for the corequisite lecture course (PHYS UN1201 - PHYS UN1202) and can be taken only during the same term as the corresponding lecture.\n",
     "instructor":"Giuseppina C Cambareri",
     "scheduled_time_start":"1:00pm",
     "scheduled_time_end":"4:00pm",
@@ -33352,7 +33705,16 @@
     ],
     "points":"1",
     "prerequisites":[
-
+      [
+        "PHYS UN1201"
+      ],
+      [
+        "PHYS UN1202"
+      ],
+      [
+        "PHYS UN1202",
+        "PHYS UN1201"
+      ]
     ],
     "scheduled_days":"R",
     "section_key":"20241PHYS1292W018",
@@ -33361,7 +33723,7 @@
   {
     "course_code":"PHYS UN1292",
     "course_title":"GENERAL PHYSICS II LABORATORY",
-    "course_descr":null,
+    "course_descr":"Corequisites: PHYS UN1201,PHYS UN1202 This course is the laboratory for the corequisite lecture course (PHYS UN1201 - PHYS UN1202) and can be taken only during the same term as the corresponding lecture.\n",
     "instructor":"Giuseppina C Cambareri",
     "scheduled_time_start":"1:00pm",
     "scheduled_time_end":"4:00pm",
@@ -33387,7 +33749,16 @@
     ],
     "points":"1",
     "prerequisites":[
-
+      [
+        "PHYS UN1201"
+      ],
+      [
+        "PHYS UN1202"
+      ],
+      [
+        "PHYS UN1202",
+        "PHYS UN1201"
+      ]
     ],
     "scheduled_days":"R",
     "section_key":"20241PHYS1292W019",
@@ -33396,7 +33767,7 @@
   {
     "course_code":"PHYS UN1292",
     "course_title":"GENERAL PHYSICS II LABORATORY",
-    "course_descr":null,
+    "course_descr":"Corequisites: PHYS UN1201,PHYS UN1202 This course is the laboratory for the corequisite lecture course (PHYS UN1201 - PHYS UN1202) and can be taken only during the same term as the corresponding lecture.\n",
     "instructor":"Giuseppina C Cambareri",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"7:10pm",
@@ -33422,7 +33793,16 @@
     ],
     "points":"1",
     "prerequisites":[
-
+      [
+        "PHYS UN1201"
+      ],
+      [
+        "PHYS UN1202"
+      ],
+      [
+        "PHYS UN1202",
+        "PHYS UN1201"
+      ]
     ],
     "scheduled_days":"R",
     "section_key":"20241PHYS1292W020",
@@ -33431,7 +33811,7 @@
   {
     "course_code":"PHYS UN1292",
     "course_title":"GENERAL PHYSICS II LABORATORY",
-    "course_descr":null,
+    "course_descr":"Corequisites: PHYS UN1201,PHYS UN1202 This course is the laboratory for the corequisite lecture course (PHYS UN1201 - PHYS UN1202) and can be taken only during the same term as the corresponding lecture.\n",
     "instructor":"Giuseppina C Cambareri",
     "scheduled_time_start":"7:30pm",
     "scheduled_time_end":"10:30pm",
@@ -33457,7 +33837,16 @@
     ],
     "points":"1",
     "prerequisites":[
-
+      [
+        "PHYS UN1201"
+      ],
+      [
+        "PHYS UN1202"
+      ],
+      [
+        "PHYS UN1202",
+        "PHYS UN1201"
+      ]
     ],
     "scheduled_days":"R",
     "section_key":"20241PHYS1292W022",
@@ -33466,7 +33855,7 @@
   {
     "course_code":"PHYS UN1292",
     "course_title":"GENERAL PHYSICS II LABORATORY",
-    "course_descr":null,
+    "course_descr":"Corequisites: PHYS UN1201,PHYS UN1202 This course is the laboratory for the corequisite lecture course (PHYS UN1201 - PHYS UN1202) and can be taken only during the same term as the corresponding lecture.\n",
     "instructor":"Giuseppina C Cambareri",
     "scheduled_time_start":"1:00pm",
     "scheduled_time_end":"4:00pm",
@@ -33492,7 +33881,16 @@
     ],
     "points":"1",
     "prerequisites":[
-
+      [
+        "PHYS UN1201"
+      ],
+      [
+        "PHYS UN1202"
+      ],
+      [
+        "PHYS UN1202",
+        "PHYS UN1201"
+      ]
     ],
     "scheduled_days":"F",
     "section_key":"20241PHYS1292W025",
@@ -33501,7 +33899,7 @@
   {
     "course_code":"PHYS UN1402",
     "course_title":"INTRO ELEC\/MAGNETSM & OPTCS",
-    "course_descr":null,
+    "course_descr":"Prerequisites: PHYS W1401. Corequisites: MATH V1102 or the equivalent. Electric fields, direct currents, magnetic fields, alternating currents, electromagnetic waves, polarization, geometrical optics, interference, and diffraction.\n\n",
     "instructor":"Hector Ochoa",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -33518,7 +33916,10 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "PHYS W1401",
+        "MATH V1102"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20241PHYS1402W002",
@@ -33527,7 +33928,7 @@
   {
     "course_code":"PHYS UN1402",
     "course_title":"INTRO ELEC\/MAGNETSM & OPTCS",
-    "course_descr":null,
+    "course_descr":"Prerequisites: PHYS W1401. Corequisites: MATH V1102 or the equivalent. Electric fields, direct currents, magnetic fields, alternating currents, electromagnetic waves, polarization, geometrical optics, interference, and diffraction.\n\n",
     "instructor":"Eric Raymer",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -33544,7 +33945,10 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "PHYS W1401",
+        "MATH V1102"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20241PHYS1402W003",
@@ -33553,7 +33957,7 @@
   {
     "course_code":"PHYS UN1494",
     "course_title":"INTRO TO EXPERIMENTAL PHYS-LAB",
-    "course_descr":null,
+    "course_descr":"Prerequisites: PHYS W1401 and W1402. Laboratory work associated with the two prerequisite lecture courses. Experiments in mechanics, thermodynamics, electricity, magnetism, optics, wave motion, atomic physics, and nuclear physics. Note: Students cannot receive credit for both PHYS W1493 and W1494.\n",
     "instructor":null,
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:40pm",
@@ -33570,7 +33974,16 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "PHYS W1401"
+      ],
+      [
+        "W1402",
+        "PHYS W1493"
+      ],
+      [
+        "W1494"
+      ]
     ],
     "scheduled_days":"M",
     "section_key":"20241PHYS1494W001",
@@ -33579,7 +33992,7 @@
   {
     "course_code":"PHYS UN1494",
     "course_title":"INTRO TO EXPERIMENTAL PHYS-LAB",
-    "course_descr":null,
+    "course_descr":"Prerequisites: PHYS W1401 and W1402. Laboratory work associated with the two prerequisite lecture courses. Experiments in mechanics, thermodynamics, electricity, magnetism, optics, wave motion, atomic physics, and nuclear physics. Note: Students cannot receive credit for both PHYS W1493 and W1494.\n",
     "instructor":null,
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:40pm",
@@ -33596,7 +34009,16 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "PHYS W1401"
+      ],
+      [
+        "W1402",
+        "PHYS W1493"
+      ],
+      [
+        "W1494"
+      ]
     ],
     "scheduled_days":"M",
     "section_key":"20241PHYS1494W002",
@@ -33605,7 +34027,7 @@
   {
     "course_code":"PHYS UN1494",
     "course_title":"INTRO TO EXPERIMENTAL PHYS-LAB",
-    "course_descr":null,
+    "course_descr":"Prerequisites: PHYS W1401 and W1402. Laboratory work associated with the two prerequisite lecture courses. Experiments in mechanics, thermodynamics, electricity, magnetism, optics, wave motion, atomic physics, and nuclear physics. Note: Students cannot receive credit for both PHYS W1493 and W1494.\n",
     "instructor":null,
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:40pm",
@@ -33622,7 +34044,16 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "PHYS W1401"
+      ],
+      [
+        "W1402",
+        "PHYS W1493"
+      ],
+      [
+        "W1494"
+      ]
     ],
     "scheduled_days":"M",
     "section_key":"20241PHYS1494W003",
@@ -33631,7 +34062,7 @@
   {
     "course_code":"PHYS UN1494",
     "course_title":"INTRO TO EXPERIMENTAL PHYS-LAB",
-    "course_descr":null,
+    "course_descr":"Prerequisites: PHYS W1401 and W1402. Laboratory work associated with the two prerequisite lecture courses. Experiments in mechanics, thermodynamics, electricity, magnetism, optics, wave motion, atomic physics, and nuclear physics. Note: Students cannot receive credit for both PHYS W1493 and W1494.\n",
     "instructor":null,
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:40pm",
@@ -33648,7 +34079,16 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "PHYS W1401"
+      ],
+      [
+        "W1402",
+        "PHYS W1493"
+      ],
+      [
+        "W1494"
+      ]
     ],
     "scheduled_days":"M",
     "section_key":"20241PHYS1494W004",
@@ -33657,7 +34097,7 @@
   {
     "course_code":"PHYS UN1494",
     "course_title":"INTRO TO EXPERIMENTAL PHYS-LAB",
-    "course_descr":null,
+    "course_descr":"Prerequisites: PHYS W1401 and W1402. Laboratory work associated with the two prerequisite lecture courses. Experiments in mechanics, thermodynamics, electricity, magnetism, optics, wave motion, atomic physics, and nuclear physics. Note: Students cannot receive credit for both PHYS W1493 and W1494.\n",
     "instructor":null,
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:40pm",
@@ -33674,7 +34114,16 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "PHYS W1401"
+      ],
+      [
+        "W1402",
+        "PHYS W1493"
+      ],
+      [
+        "W1494"
+      ]
     ],
     "scheduled_days":"M",
     "section_key":"20241PHYS1494W005",
@@ -33683,7 +34132,7 @@
   {
     "course_code":"PHYS UN1494",
     "course_title":"INTRO TO EXPERIMENTAL PHYS-LAB",
-    "course_descr":null,
+    "course_descr":"Prerequisites: PHYS W1401 and W1402. Laboratory work associated with the two prerequisite lecture courses. Experiments in mechanics, thermodynamics, electricity, magnetism, optics, wave motion, atomic physics, and nuclear physics. Note: Students cannot receive credit for both PHYS W1493 and W1494.\n",
     "instructor":null,
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:40pm",
@@ -33700,7 +34149,16 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "PHYS W1401"
+      ],
+      [
+        "W1402",
+        "PHYS W1493"
+      ],
+      [
+        "W1494"
+      ]
     ],
     "scheduled_days":"M",
     "section_key":"20241PHYS1494W006",
@@ -33709,7 +34167,7 @@
   {
     "course_code":"PHYS UN1494",
     "course_title":"INTRO TO EXPERIMENTAL PHYS-LAB",
-    "course_descr":null,
+    "course_descr":"Prerequisites: PHYS W1401 and W1402. Laboratory work associated with the two prerequisite lecture courses. Experiments in mechanics, thermodynamics, electricity, magnetism, optics, wave motion, atomic physics, and nuclear physics. Note: Students cannot receive credit for both PHYS W1493 and W1494.\n",
     "instructor":null,
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:40pm",
@@ -33726,7 +34184,16 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "PHYS W1401"
+      ],
+      [
+        "W1402",
+        "PHYS W1493"
+      ],
+      [
+        "W1494"
+      ]
     ],
     "scheduled_days":"M",
     "section_key":"20241PHYS1494W007",
@@ -33735,7 +34202,7 @@
   {
     "course_code":"PHYS UN1494",
     "course_title":"INTRO TO EXPERIMENTAL PHYS-LAB",
-    "course_descr":null,
+    "course_descr":"Prerequisites: PHYS W1401 and W1402. Laboratory work associated with the two prerequisite lecture courses. Experiments in mechanics, thermodynamics, electricity, magnetism, optics, wave motion, atomic physics, and nuclear physics. Note: Students cannot receive credit for both PHYS W1493 and W1494.\n",
     "instructor":null,
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:40pm",
@@ -33752,7 +34219,16 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "PHYS W1401"
+      ],
+      [
+        "W1402",
+        "PHYS W1493"
+      ],
+      [
+        "W1494"
+      ]
     ],
     "scheduled_days":"M",
     "section_key":"20241PHYS1494W008",
@@ -33761,7 +34237,7 @@
   {
     "course_code":"PHYS UN1494",
     "course_title":"INTRO TO EXPERIMENTAL PHYS-LAB",
-    "course_descr":null,
+    "course_descr":"Prerequisites: PHYS W1401 and W1402. Laboratory work associated with the two prerequisite lecture courses. Experiments in mechanics, thermodynamics, electricity, magnetism, optics, wave motion, atomic physics, and nuclear physics. Note: Students cannot receive credit for both PHYS W1493 and W1494.\n",
     "instructor":null,
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:40pm",
@@ -33778,7 +34254,16 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "PHYS W1401"
+      ],
+      [
+        "W1402",
+        "PHYS W1493"
+      ],
+      [
+        "W1494"
+      ]
     ],
     "scheduled_days":"M",
     "section_key":"20241PHYS1494W009",
@@ -33787,7 +34272,7 @@
   {
     "course_code":"PHYS UN1494",
     "course_title":"INTRO TO EXPERIMENTAL PHYS-LAB",
-    "course_descr":null,
+    "course_descr":"Prerequisites: PHYS W1401 and W1402. Laboratory work associated with the two prerequisite lecture courses. Experiments in mechanics, thermodynamics, electricity, magnetism, optics, wave motion, atomic physics, and nuclear physics. Note: Students cannot receive credit for both PHYS W1493 and W1494.\n",
     "instructor":null,
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:40pm",
@@ -33804,7 +34289,16 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "PHYS W1401"
+      ],
+      [
+        "W1402",
+        "PHYS W1493"
+      ],
+      [
+        "W1494"
+      ]
     ],
     "scheduled_days":"M",
     "section_key":"20241PHYS1494W010",
@@ -33813,7 +34307,7 @@
   {
     "course_code":"PHYS UN1494",
     "course_title":"INTRO TO EXPERIMENTAL PHYS-LAB",
-    "course_descr":null,
+    "course_descr":"Prerequisites: PHYS W1401 and W1402. Laboratory work associated with the two prerequisite lecture courses. Experiments in mechanics, thermodynamics, electricity, magnetism, optics, wave motion, atomic physics, and nuclear physics. Note: Students cannot receive credit for both PHYS W1493 and W1494.\n",
     "instructor":null,
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:40pm",
@@ -33830,7 +34324,16 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "PHYS W1401"
+      ],
+      [
+        "W1402",
+        "PHYS W1493"
+      ],
+      [
+        "W1494"
+      ]
     ],
     "scheduled_days":"M",
     "section_key":"20241PHYS1494W011",
@@ -33839,7 +34342,7 @@
   {
     "course_code":"PHYS UN1494",
     "course_title":"INTRO TO EXPERIMENTAL PHYS-LAB",
-    "course_descr":null,
+    "course_descr":"Prerequisites: PHYS W1401 and W1402. Laboratory work associated with the two prerequisite lecture courses. Experiments in mechanics, thermodynamics, electricity, magnetism, optics, wave motion, atomic physics, and nuclear physics. Note: Students cannot receive credit for both PHYS W1493 and W1494.\n",
     "instructor":null,
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:40pm",
@@ -33856,7 +34359,16 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "PHYS W1401"
+      ],
+      [
+        "W1402",
+        "PHYS W1493"
+      ],
+      [
+        "W1494"
+      ]
     ],
     "scheduled_days":"M",
     "section_key":"20241PHYS1494W012",
@@ -33865,7 +34377,7 @@
   {
     "course_code":"PHYS UN1602",
     "course_title":"PHYSICS II: THERMO, ELEC & MAG",
-    "course_descr":null,
+    "course_descr":"Prerequisites: PHYS UN1601 Corequisite: MATH UN1201 or equivalent. Temperature and heat, gas laws, the first and second laws of thermodynamics, kinetic theory of gases, electric fields, direct currents, magnetic fields, alternating currents, electromagnetic waves. The course is preparatory for advanced work in physics and related fields.\n\n",
     "instructor":"Kerstin M Perez",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -33890,7 +34402,10 @@
     ],
     "points":"3.5",
     "prerequisites":[
-
+      [
+        "PHYS UN1601",
+        "MATH UN1201"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20241PHYS1602W001",
@@ -33899,7 +34414,7 @@
   {
     "course_code":"PHYS UN2802",
     "course_title":"ACCELERATED PHYSICS II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: PHYS UN2801 This accelerated two-semester sequence covers the subject matter of PHYS UN1601, PHYS UN1602 and PHYS UN2601, and is intended for those students who have an exceptionally strong background in both physics and mathematics. The course is preparatory for advanced work in physics and related fields. There is no accompanying laboratory; however, students are encouraged to take the intermediate laboratory, PHYS UN3081, in the following year.\n",
     "instructor":"Yury Levin",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -33927,7 +34442,19 @@
     ],
     "points":"4.5",
     "prerequisites":[
-
+      [
+        "PHYS UN1601"
+      ],
+      [
+        "PHYS UN1602"
+      ],
+      [
+        "PHYS UN2601",
+        "PHYS UN3081"
+      ],
+      [
+        "PHYS UN2801"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20241PHYS2802W001",
@@ -33936,7 +34463,7 @@
   {
     "course_code":"PHYS UN3003",
     "course_title":"MECHANICS",
-    "course_descr":null,
+    "course_descr":"Prerequisites: general physics, and differential and integral calculus. Newtonian mechanics, oscillations and resonance, conservative forces and potential energy, central forces, non-inertial frames of reference, rigid body motion, an introduction to Lagranges formulation of mechanics, coupled oscillators, and normal modes.\n",
     "instructor":"Cory Dean",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -33973,7 +34500,7 @@
   {
     "course_code":"PHYS UN3008",
     "course_title":"ELECTROMAGNETIC WAVES & OPTICS",
-    "course_descr":null,
+    "course_descr":"Prerequisites: PHYS UN3008 Maxwells equations and electromagnetic potentials, the wave equation, propagation of plane waves, reflection and refraction, geometrical optics, transmission lines, wave guides, resonant cavities, radiation, interference of waves, and diffraction.\n",
     "instructor":"William A Zajc",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -34001,7 +34528,9 @@
     ],
     "points":"3",
     "prerequisites":[
-
+      [
+        "PHYS UN3008"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20241PHYS3008W001",
@@ -34010,7 +34539,7 @@
   {
     "course_code":"PHYS UN3081",
     "course_title":"INTERMEDIATE LABORATORY WORK",
-    "course_descr":null,
+    "course_descr":"Prerequisites: phys UN2601 or phys un2802 Primarily for junior and senior physics majors; other majors must obtain the instructors permission. Each experiment is chosen by the student in consultation with the instructor. Each section meets one afternoon per week, with registration in each section limited by the laboratory capacity. Experiments (classical and modern) cover topics in electricity, magnetism, optics, atomic physics, and nuclear physics.\n\n",
     "instructor":"Morgan May",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"5:00pm",
@@ -34038,7 +34567,9 @@
     ],
     "points":"2",
     "prerequisites":[
-
+      [
+        "UN2601"
+      ]
     ],
     "scheduled_days":"F",
     "section_key":"20241PHYS3081W003",
@@ -34047,7 +34578,7 @@
   {
     "course_code":"PHYS UN3083",
     "course_title":"ELECTRONICS LABORATORY",
-    "course_descr":null,
+    "course_descr":"Prerequisites: PHYS UN3003 or PHYS UN3007 May be taken before or concurrently with this course. A sequence of experiments in solid-state electronics, with introductory lectures.\n",
     "instructor":"John Parsons",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"4:00pm",
@@ -34075,7 +34606,10 @@
     ],
     "points":"3",
     "prerequisites":[
-
+      [
+        "PHYS UN3003",
+        "PHYS UN3007"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20241PHYS3083W001",
@@ -34084,7 +34618,7 @@
   {
     "course_code":"PHYS UN3500",
     "course_title":"SUPERVISED READINGS IN PHYSICS",
-    "course_descr":null,
+    "course_descr":"Prerequisites: the written permission of the faculty member who agrees to act as supervisor, and the director of undergraduate studies permission. Readings in a selected field of physics under the supervision of a faculty member. Written reports and periodic conferences with the instructor.\n",
     "instructor":"Jeremy R Dodd",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -34110,7 +34644,7 @@
   {
     "course_code":"PHYS UN3900",
     "course_title":"SUPERVISED INDIVIDUAL RESEARCH",
-    "course_descr":null,
+    "course_descr":"Prerequisites: Permission of the departmental representative required. For specially selected students, the opportunity to do a research problem in contemporary physics under the supervision of a faculty member. Each year several juniors are chosen in the spring to carry out such a project beginning in the autumn term. A detailed report on the research is presented by the student when the project is complete.\n",
     "instructor":"Jeremy R Dodd",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -34190,7 +34724,7 @@
   {
     "course_code":"PLAN A4151",
     "course_title":"ECONOMICS FOR PLANNERS",
-    "course_descr":null,
+    "course_descr":"Formal background in economics is not required. A review of the basic concepts and methods of urban economics, with a major emphasis on location and land-use economics. Examination of both equilibrium-based models and the new critical models derived from analyses of the production process and spatial organization.\n",
     "instructor":"Jon Meyers",
     "scheduled_time_start":"6:30pm",
     "scheduled_time_end":"8:30pm",
@@ -34725,7 +35259,7 @@
   {
     "course_code":"PNTG PS0104",
     "course_title":"Painting Intensive",
-    "course_descr":null,
+    "course_descr":"Studio arts courses are offered in conjunction with Columbia University's School of the Arts.\n  \nThis course is aimed at introducing students to basic acrylic painting techniques. Each assignment is complemented by a short art history lecture, which aids the students in thinking about content alongside studio progress. Students receive guidance from the instructor as they work from home on their paintings.\n  \nStudents present their results to the class; the online platform serves as a virtual group crit. The works are reviewed by the instructor, and each student receives comments as to how to proceed with their work. Participants also learn how to prepare a final portfolio for college applications. The course includes asynchronous work, which students are expected to complete between class sessions.\n\n",
     "instructor":"Miguel Cardenas",
     "scheduled_time_start":"10:00am",
     "scheduled_time_end":"12:00pm",
@@ -34859,7 +35393,7 @@
   {
     "course_code":"PSYC PS0104",
     "course_title":"Social Psychology: Understanding Human B",
-    "course_descr":null,
+    "course_descr":"This course introduces students to major psychological theories and research on human social behavior. We look at why humans often help each other but also why they hurt each other. Topics covered include empathy, prejudice, helping, compliance, bullying, conformity, and the development of personality. A variety of psychological methods for predicting and preventing anti-social behavior are discussed.\n  \nThe course establishes a strong grounding in scientific principles and methodology. Students are encouraged to think about how empirical methods can be used to measure complex social phenomena, to recognize and appreciate experimental rigor, and ultimately to question common assumptions about human behavior found in ordinary discourse and the popular press. The course includes asynchronous work, which students are expected to complete between class sessions.\n\n",
     "instructor":"Starlett R Hartley",
     "scheduled_time_start":"1:00pm",
     "scheduled_time_end":"3:00pm",
@@ -37031,7 +37565,7 @@
   {
     "course_code":"SCNC UN1800",
     "course_title":"ENERGY & ENERGY CONSERVATION",
-    "course_descr":null,
+    "course_descr":"Prerequisites: No prior scientific knowledge is required, but facility with high school?level algebra and comfort with quantitative computations is important. What is energy, really, and how do we conserve it? What does energy conservation have in common with Humpty Dumpty, Buddha\u2019s Second Noble Truth, and the Arrow of Time? How is an \u201calternative energy\u201d alternative? How do you know how much energy you actually use every day? This course presents the development of the concept of energy, links the development to the social and historical contexts in which it took place, and describes the contributions of the people who propelled the development. Students gain an understanding of the scientific concept of energy, and the ability to apply that understanding in quantitative analysis of contemporary issues in energy sources, utilization, efficiency, and conservation, through individual or group projects.\n",
     "instructor":"James J Valentini",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:25pm",
@@ -39738,8 +40272,428 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":"R",
+    "scheduled_days":"T",
     "section_key":"20241SIPA9000U051",
+    "type":"WORKSHOP"
+  },
+  {
+    "course_code":"SIPA U9000",
+    "course_title":"Capstone Workshop",
+    "course_descr":"Capstone workshops apply the practical skills and analytical knowledge learned at SIPA to a real-world issue. Students are organized into small consulting teams (typically 6 students per team) and assigned a substantive, policy-oriented project with an external client. Student teams, working under the supervision of a faculty expert, answer a carefully defined problem posed by the client. Each team produces an actionable report and an oral briefing of their findings at the close of the workshop that is designed to translate into real change on the ground. The Capstone is a graduation requirement for all Masters of Public Administration and Masters of International Affairs students; it is typically taken in the final semester at SIPA. Registration in this course requires an application, please visit: sipa.columbia.edu\/academics\/workshops\/workshop-students for more information.\u00a0A course fee of $400 will be applied to students traveling internationally for the Capstone Workshop.\n\n",
+    "instructor":"Damian Busch",
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"10:50am",
+    "call_number":"10431",
+    "campus":"Morningside",
+    "class_id":"U9000-20241-052",
+    "course_subtitle":null,
+    "department":"International and Public Affairs",
+    "department_code":"SIPA",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/SIPA\/U9000-20241-052\/",
+    "location":"501 International Affairs Building",
+    "method_of_instruction":null,
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"F",
+    "section_key":"20241SIPA9000U052",
+    "type":"WORKSHOP"
+  },
+  {
+    "course_code":"SIPA U9000",
+    "course_title":"Capstone Workshop",
+    "course_descr":"Capstone workshops apply the practical skills and analytical knowledge learned at SIPA to a real-world issue. Students are organized into small consulting teams (typically 6 students per team) and assigned a substantive, policy-oriented project with an external client. Student teams, working under the supervision of a faculty expert, answer a carefully defined problem posed by the client. Each team produces an actionable report and an oral briefing of their findings at the close of the workshop that is designed to translate into real change on the ground. The Capstone is a graduation requirement for all Masters of Public Administration and Masters of International Affairs students; it is typically taken in the final semester at SIPA. Registration in this course requires an application, please visit: sipa.columbia.edu\/academics\/workshops\/workshop-students for more information.\u00a0A course fee of $400 will be applied to students traveling internationally for the Capstone Workshop.\n\n",
+    "instructor":"Daniel Shemie",
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"10:50am",
+    "call_number":"10432",
+    "campus":"Morningside",
+    "class_id":"U9000-20241-053",
+    "course_subtitle":null,
+    "department":"International and Public Affairs",
+    "department_code":"SIPA",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/SIPA\/U9000-20241-053\/",
+    "location":"405A International Affairs Building",
+    "method_of_instruction":null,
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20241SIPA9000U053",
+    "type":"WORKSHOP"
+  },
+  {
+    "course_code":"SIPA U9000",
+    "course_title":"Capstone Workshop",
+    "course_descr":"Capstone workshops apply the practical skills and analytical knowledge learned at SIPA to a real-world issue. Students are organized into small consulting teams (typically 6 students per team) and assigned a substantive, policy-oriented project with an external client. Student teams, working under the supervision of a faculty expert, answer a carefully defined problem posed by the client. Each team produces an actionable report and an oral briefing of their findings at the close of the workshop that is designed to translate into real change on the ground. The Capstone is a graduation requirement for all Masters of Public Administration and Masters of International Affairs students; it is typically taken in the final semester at SIPA. Registration in this course requires an application, please visit: sipa.columbia.edu\/academics\/workshops\/workshop-students for more information.\u00a0A course fee of $400 will be applied to students traveling internationally for the Capstone Workshop.\n\n",
+    "instructor":null,
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"10:50am",
+    "call_number":"10433",
+    "campus":"Morningside",
+    "class_id":"U9000-20241-054",
+    "course_subtitle":null,
+    "department":"International and Public Affairs",
+    "department_code":"SIPA",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/SIPA\/U9000-20241-054\/",
+    "location":"823 International Affairs Building",
+    "method_of_instruction":null,
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"F",
+    "section_key":"20241SIPA9000U054",
+    "type":"WORKSHOP"
+  },
+  {
+    "course_code":"SIPA U9000",
+    "course_title":"Capstone Workshop",
+    "course_descr":"Capstone workshops apply the practical skills and analytical knowledge learned at SIPA to a real-world issue. Students are organized into small consulting teams (typically 6 students per team) and assigned a substantive, policy-oriented project with an external client. Student teams, working under the supervision of a faculty expert, answer a carefully defined problem posed by the client. Each team produces an actionable report and an oral briefing of their findings at the close of the workshop that is designed to translate into real change on the ground. The Capstone is a graduation requirement for all Masters of Public Administration and Masters of International Affairs students; it is typically taken in the final semester at SIPA. Registration in this course requires an application, please visit: sipa.columbia.edu\/academics\/workshops\/workshop-students for more information.\u00a0A course fee of $400 will be applied to students traveling internationally for the Capstone Workshop.\n\n",
+    "instructor":null,
+    "scheduled_time_start":"11:00am",
+    "scheduled_time_end":"12:50pm",
+    "call_number":"10434",
+    "campus":"Morningside",
+    "class_id":"U9000-20241-055",
+    "course_subtitle":null,
+    "department":"International and Public Affairs",
+    "department_code":"SIPA",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/SIPA\/U9000-20241-055\/",
+    "location":"501 International Affairs Building",
+    "method_of_instruction":null,
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20241SIPA9000U055",
+    "type":"WORKSHOP"
+  },
+  {
+    "course_code":"SIPA U9000",
+    "course_title":"Capstone Workshop",
+    "course_descr":"Capstone workshops apply the practical skills and analytical knowledge learned at SIPA to a real-world issue. Students are organized into small consulting teams (typically 6 students per team) and assigned a substantive, policy-oriented project with an external client. Student teams, working under the supervision of a faculty expert, answer a carefully defined problem posed by the client. Each team produces an actionable report and an oral briefing of their findings at the close of the workshop that is designed to translate into real change on the ground. The Capstone is a graduation requirement for all Masters of Public Administration and Masters of International Affairs students; it is typically taken in the final semester at SIPA. Registration in this course requires an application, please visit: sipa.columbia.edu\/academics\/workshops\/workshop-students for more information.\u00a0A course fee of $400 will be applied to students traveling internationally for the Capstone Workshop.\n\n",
+    "instructor":"Markus H Jaeger",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"10435",
+    "campus":"Morningside",
+    "class_id":"U9000-20241-056",
+    "course_subtitle":null,
+    "department":"International and Public Affairs",
+    "department_code":"SIPA",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/SIPA\/U9000-20241-056\/",
+    "location":"823 International Affairs Building",
+    "method_of_instruction":null,
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20241SIPA9000U056",
+    "type":"WORKSHOP"
+  },
+  {
+    "course_code":"SIPA U9000",
+    "course_title":"Capstone Workshop",
+    "course_descr":"Capstone workshops apply the practical skills and analytical knowledge learned at SIPA to a real-world issue. Students are organized into small consulting teams (typically 6 students per team) and assigned a substantive, policy-oriented project with an external client. Student teams, working under the supervision of a faculty expert, answer a carefully defined problem posed by the client. Each team produces an actionable report and an oral briefing of their findings at the close of the workshop that is designed to translate into real change on the ground. The Capstone is a graduation requirement for all Masters of Public Administration and Masters of International Affairs students; it is typically taken in the final semester at SIPA. Registration in this course requires an application, please visit: sipa.columbia.edu\/academics\/workshops\/workshop-students for more information.\u00a0A course fee of $400 will be applied to students traveling internationally for the Capstone Workshop.\n\n",
+    "instructor":null,
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"6:00pm",
+    "call_number":"10436",
+    "campus":"Morningside",
+    "class_id":"U9000-20241-057",
+    "course_subtitle":null,
+    "department":"International and Public Affairs",
+    "department_code":"SIPA",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/SIPA\/U9000-20241-057\/",
+    "location":"823 International Affairs Building",
+    "method_of_instruction":null,
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20241SIPA9000U057",
+    "type":"WORKSHOP"
+  },
+  {
+    "course_code":"SIPA U9000",
+    "course_title":"Capstone Workshop",
+    "course_descr":"Capstone workshops apply the practical skills and analytical knowledge learned at SIPA to a real-world issue. Students are organized into small consulting teams (typically 6 students per team) and assigned a substantive, policy-oriented project with an external client. Student teams, working under the supervision of a faculty expert, answer a carefully defined problem posed by the client. Each team produces an actionable report and an oral briefing of their findings at the close of the workshop that is designed to translate into real change on the ground. The Capstone is a graduation requirement for all Masters of Public Administration and Masters of International Affairs students; it is typically taken in the final semester at SIPA. Registration in this course requires an application, please visit: sipa.columbia.edu\/academics\/workshops\/workshop-students for more information.\u00a0A course fee of $400 will be applied to students traveling internationally for the Capstone Workshop.\n\n",
+    "instructor":"Thomas Byrne",
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"10437",
+    "campus":"Morningside",
+    "class_id":"U9000-20241-058",
+    "course_subtitle":null,
+    "department":"International and Public Affairs",
+    "department_code":"SIPA",
+    "instructor_wikipedia_link":"https:\/\/en.wikipedia.org\/wiki\/Thomas_B._Edsall",
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/SIPA\/U9000-20241-058\/",
+    "location":"418 International Affairs Building",
+    "method_of_instruction":null,
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"F",
+    "section_key":"20241SIPA9000U058",
+    "type":"WORKSHOP"
+  },
+  {
+    "course_code":"SIPA U9000",
+    "course_title":"Capstone Workshop",
+    "course_descr":"Capstone workshops apply the practical skills and analytical knowledge learned at SIPA to a real-world issue. Students are organized into small consulting teams (typically 6 students per team) and assigned a substantive, policy-oriented project with an external client. Student teams, working under the supervision of a faculty expert, answer a carefully defined problem posed by the client. Each team produces an actionable report and an oral briefing of their findings at the close of the workshop that is designed to translate into real change on the ground. The Capstone is a graduation requirement for all Masters of Public Administration and Masters of International Affairs students; it is typically taken in the final semester at SIPA. Registration in this course requires an application, please visit: sipa.columbia.edu\/academics\/workshops\/workshop-students for more information.\u00a0A course fee of $400 will be applied to students traveling internationally for the Capstone Workshop.\n\n",
+    "instructor":"David V Bonfili",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"10438",
+    "campus":"Morningside",
+    "class_id":"U9000-20241-059",
+    "course_subtitle":null,
+    "department":"International and Public Affairs",
+    "department_code":"SIPA",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/SIPA\/U9000-20241-059\/",
+    "location":"405A International Affairs Building",
+    "method_of_instruction":null,
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20241SIPA9000U059",
+    "type":"WORKSHOP"
+  },
+  {
+    "course_code":"SIPA U9000",
+    "course_title":"Capstone Workshop",
+    "course_descr":"Capstone workshops apply the practical skills and analytical knowledge learned at SIPA to a real-world issue. Students are organized into small consulting teams (typically 6 students per team) and assigned a substantive, policy-oriented project with an external client. Student teams, working under the supervision of a faculty expert, answer a carefully defined problem posed by the client. Each team produces an actionable report and an oral briefing of their findings at the close of the workshop that is designed to translate into real change on the ground. The Capstone is a graduation requirement for all Masters of Public Administration and Masters of International Affairs students; it is typically taken in the final semester at SIPA. Registration in this course requires an application, please visit: sipa.columbia.edu\/academics\/workshops\/workshop-students for more information.\u00a0A course fee of $400 will be applied to students traveling internationally for the Capstone Workshop.\n\n",
+    "instructor":"Daniel A Zarrilli",
+    "scheduled_time_start":"11:00am",
+    "scheduled_time_end":"12:50pm",
+    "call_number":"10439",
+    "campus":"Morningside",
+    "class_id":"U9000-20241-060",
+    "course_subtitle":null,
+    "department":"International and Public Affairs",
+    "department_code":"SIPA",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/SIPA\/U9000-20241-060\/",
+    "location":"823 International Affairs Building",
+    "method_of_instruction":null,
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20241SIPA9000U060",
+    "type":"WORKSHOP"
+  },
+  {
+    "course_code":"SIPA U9000",
+    "course_title":"Capstone Workshop",
+    "course_descr":"Capstone workshops apply the practical skills and analytical knowledge learned at SIPA to a real-world issue. Students are organized into small consulting teams (typically 6 students per team) and assigned a substantive, policy-oriented project with an external client. Student teams, working under the supervision of a faculty expert, answer a carefully defined problem posed by the client. Each team produces an actionable report and an oral briefing of their findings at the close of the workshop that is designed to translate into real change on the ground. The Capstone is a graduation requirement for all Masters of Public Administration and Masters of International Affairs students; it is typically taken in the final semester at SIPA. Registration in this course requires an application, please visit: sipa.columbia.edu\/academics\/workshops\/workshop-students for more information.\u00a0A course fee of $400 will be applied to students traveling internationally for the Capstone Workshop.\n\n",
+    "instructor":"Luisa Palacios Alzuru",
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"10440",
+    "campus":"Morningside",
+    "class_id":"U9000-20241-061",
+    "course_subtitle":null,
+    "department":"International and Public Affairs",
+    "department_code":"SIPA",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/SIPA\/U9000-20241-061\/",
+    "location":"405A International Affairs Building",
+    "method_of_instruction":null,
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20241SIPA9000U061",
+    "type":"WORKSHOP"
+  },
+  {
+    "course_code":"SIPA U9000",
+    "course_title":"Capstone Workshop",
+    "course_descr":"Capstone workshops apply the practical skills and analytical knowledge learned at SIPA to a real-world issue. Students are organized into small consulting teams (typically 6 students per team) and assigned a substantive, policy-oriented project with an external client. Student teams, working under the supervision of a faculty expert, answer a carefully defined problem posed by the client. Each team produces an actionable report and an oral briefing of their findings at the close of the workshop that is designed to translate into real change on the ground. The Capstone is a graduation requirement for all Masters of Public Administration and Masters of International Affairs students; it is typically taken in the final semester at SIPA. Registration in this course requires an application, please visit: sipa.columbia.edu\/academics\/workshops\/workshop-students for more information.\u00a0A course fee of $400 will be applied to students traveling internationally for the Capstone Workshop.\n\n",
+    "instructor":"Evan Wolff",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"6:00pm",
+    "call_number":"10441",
+    "campus":"Morningside",
+    "class_id":"U9000-20241-062",
+    "course_subtitle":null,
+    "department":"International and Public Affairs",
+    "department_code":"SIPA",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/SIPA\/U9000-20241-062\/",
+    "location":"501 International Affairs Building",
+    "method_of_instruction":null,
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20241SIPA9000U062",
+    "type":"WORKSHOP"
+  },
+  {
+    "course_code":"SIPA U9000",
+    "course_title":"Capstone Workshop",
+    "course_descr":"Capstone workshops apply the practical skills and analytical knowledge learned at SIPA to a real-world issue. Students are organized into small consulting teams (typically 6 students per team) and assigned a substantive, policy-oriented project with an external client. Student teams, working under the supervision of a faculty expert, answer a carefully defined problem posed by the client. Each team produces an actionable report and an oral briefing of their findings at the close of the workshop that is designed to translate into real change on the ground. The Capstone is a graduation requirement for all Masters of Public Administration and Masters of International Affairs students; it is typically taken in the final semester at SIPA. Registration in this course requires an application, please visit: sipa.columbia.edu\/academics\/workshops\/workshop-students for more information.\u00a0A course fee of $400 will be applied to students traveling internationally for the Capstone Workshop.\n\n",
+    "instructor":"Andrew C Heinrich",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"10442",
+    "campus":"Morningside",
+    "class_id":"U9000-20241-063",
+    "course_subtitle":null,
+    "department":"International and Public Affairs",
+    "department_code":"SIPA",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/SIPA\/U9000-20241-063\/",
+    "location":"405A International Affairs Building",
+    "method_of_instruction":null,
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20241SIPA9000U063",
+    "type":"WORKSHOP"
+  },
+  {
+    "course_code":"SIPA U9000",
+    "course_title":"Capstone Workshop",
+    "course_descr":"Capstone workshops apply the practical skills and analytical knowledge learned at SIPA to a real-world issue. Students are organized into small consulting teams (typically 6 students per team) and assigned a substantive, policy-oriented project with an external client. Student teams, working under the supervision of a faculty expert, answer a carefully defined problem posed by the client. Each team produces an actionable report and an oral briefing of their findings at the close of the workshop that is designed to translate into real change on the ground. The Capstone is a graduation requirement for all Masters of Public Administration and Masters of International Affairs students; it is typically taken in the final semester at SIPA. Registration in this course requires an application, please visit: sipa.columbia.edu\/academics\/workshops\/workshop-students for more information.\u00a0A course fee of $400 will be applied to students traveling internationally for the Capstone Workshop.\n\n",
+    "instructor":"Isabelle Marie  F Delalex",
+    "scheduled_time_start":"11:00am",
+    "scheduled_time_end":"12:50pm",
+    "call_number":"10443",
+    "campus":"Morningside",
+    "class_id":"U9000-20241-064",
+    "course_subtitle":null,
+    "department":"International and Public Affairs",
+    "department_code":"SIPA",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/SIPA\/U9000-20241-064\/",
+    "location":"402 International Affairs Building",
+    "method_of_instruction":null,
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"F",
+    "section_key":"20241SIPA9000U064",
+    "type":"WORKSHOP"
+  },
+  {
+    "course_code":"SIPA U9000",
+    "course_title":"Capstone Workshop",
+    "course_descr":"Capstone workshops apply the practical skills and analytical knowledge learned at SIPA to a real-world issue. Students are organized into small consulting teams (typically 6 students per team) and assigned a substantive, policy-oriented project with an external client. Student teams, working under the supervision of a faculty expert, answer a carefully defined problem posed by the client. Each team produces an actionable report and an oral briefing of their findings at the close of the workshop that is designed to translate into real change on the ground. The Capstone is a graduation requirement for all Masters of Public Administration and Masters of International Affairs students; it is typically taken in the final semester at SIPA. Registration in this course requires an application, please visit: sipa.columbia.edu\/academics\/workshops\/workshop-students for more information.\u00a0A course fee of $400 will be applied to students traveling internationally for the Capstone Workshop.\n\n",
+    "instructor":"Elana Broitman",
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"10:50am",
+    "call_number":"10444",
+    "campus":"Morningside",
+    "class_id":"U9000-20241-065",
+    "course_subtitle":null,
+    "department":"International and Public Affairs",
+    "department_code":"SIPA",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/SIPA\/U9000-20241-065\/",
+    "location":"405A International Affairs Building",
+    "method_of_instruction":null,
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"F",
+    "section_key":"20241SIPA9000U065",
+    "type":"WORKSHOP"
+  },
+  {
+    "course_code":"SIPA U9000",
+    "course_title":"Capstone Workshop",
+    "course_descr":"Capstone workshops apply the practical skills and analytical knowledge learned at SIPA to a real-world issue. Students are organized into small consulting teams (typically 6 students per team) and assigned a substantive, policy-oriented project with an external client. Student teams, working under the supervision of a faculty expert, answer a carefully defined problem posed by the client. Each team produces an actionable report and an oral briefing of their findings at the close of the workshop that is designed to translate into real change on the ground. The Capstone is a graduation requirement for all Masters of Public Administration and Masters of International Affairs students; it is typically taken in the final semester at SIPA. Registration in this course requires an application, please visit: sipa.columbia.edu\/academics\/workshops\/workshop-students for more information.\u00a0A course fee of $400 will be applied to students traveling internationally for the Capstone Workshop.\n\n",
+    "instructor":"Daniel T Dobrygowski",
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"10445",
+    "campus":"Morningside",
+    "class_id":"U9000-20241-066",
+    "course_subtitle":null,
+    "department":"International and Public Affairs",
+    "department_code":"SIPA",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/SIPA\/U9000-20241-066\/",
+    "location":"823 International Affairs Building",
+    "method_of_instruction":null,
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20241SIPA9000U066",
     "type":"WORKSHOP"
   },
   {
@@ -39749,14 +40703,14 @@
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
-    "call_number":"10431",
+    "call_number":"10446",
     "campus":"Morningside",
-    "class_id":"U9000-20241-052",
+    "class_id":"U9000-20241-067",
     "course_subtitle":null,
     "department":"International and Public Affairs",
     "department_code":"SIPA",
     "instructor_wikipedia_link":null,
-    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/SIPA\/U9000-20241-052\/",
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/SIPA\/U9000-20241-067\/",
     "location":null,
     "method_of_instruction":null,
     "open_to":[
@@ -39767,7 +40721,231 @@
 
     ],
     "scheduled_days":null,
-    "section_key":"20241SIPA9000U052",
+    "section_key":"20241SIPA9000U067",
+    "type":"WORKSHOP"
+  },
+  {
+    "course_code":"SIPA U9000",
+    "course_title":"Capstone Workshop",
+    "course_descr":"Capstone workshops apply the practical skills and analytical knowledge learned at SIPA to a real-world issue. Students are organized into small consulting teams (typically 6 students per team) and assigned a substantive, policy-oriented project with an external client. Student teams, working under the supervision of a faculty expert, answer a carefully defined problem posed by the client. Each team produces an actionable report and an oral briefing of their findings at the close of the workshop that is designed to translate into real change on the ground. The Capstone is a graduation requirement for all Masters of Public Administration and Masters of International Affairs students; it is typically taken in the final semester at SIPA. Registration in this course requires an application, please visit: sipa.columbia.edu\/academics\/workshops\/workshop-students for more information.\u00a0A course fee of $400 will be applied to students traveling internationally for the Capstone Workshop.\n\n",
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"10447",
+    "campus":"Morningside",
+    "class_id":"U9000-20241-068",
+    "course_subtitle":null,
+    "department":"International and Public Affairs",
+    "department_code":"SIPA",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/SIPA\/U9000-20241-068\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20241SIPA9000U068",
+    "type":"WORKSHOP"
+  },
+  {
+    "course_code":"SIPA U9000",
+    "course_title":"Capstone Workshop",
+    "course_descr":"Capstone workshops apply the practical skills and analytical knowledge learned at SIPA to a real-world issue. Students are organized into small consulting teams (typically 6 students per team) and assigned a substantive, policy-oriented project with an external client. Student teams, working under the supervision of a faculty expert, answer a carefully defined problem posed by the client. Each team produces an actionable report and an oral briefing of their findings at the close of the workshop that is designed to translate into real change on the ground. The Capstone is a graduation requirement for all Masters of Public Administration and Masters of International Affairs students; it is typically taken in the final semester at SIPA. Registration in this course requires an application, please visit: sipa.columbia.edu\/academics\/workshops\/workshop-students for more information.\u00a0A course fee of $400 will be applied to students traveling internationally for the Capstone Workshop.\n\n",
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"10448",
+    "campus":"Morningside",
+    "class_id":"U9000-20241-069",
+    "course_subtitle":null,
+    "department":"International and Public Affairs",
+    "department_code":"SIPA",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/SIPA\/U9000-20241-069\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20241SIPA9000U069",
+    "type":"WORKSHOP"
+  },
+  {
+    "course_code":"SIPA U9000",
+    "course_title":"Capstone Workshop",
+    "course_descr":"Capstone workshops apply the practical skills and analytical knowledge learned at SIPA to a real-world issue. Students are organized into small consulting teams (typically 6 students per team) and assigned a substantive, policy-oriented project with an external client. Student teams, working under the supervision of a faculty expert, answer a carefully defined problem posed by the client. Each team produces an actionable report and an oral briefing of their findings at the close of the workshop that is designed to translate into real change on the ground. The Capstone is a graduation requirement for all Masters of Public Administration and Masters of International Affairs students; it is typically taken in the final semester at SIPA. Registration in this course requires an application, please visit: sipa.columbia.edu\/academics\/workshops\/workshop-students for more information.\u00a0A course fee of $400 will be applied to students traveling internationally for the Capstone Workshop.\n\n",
+    "instructor":"Andre Correa D'Almeida",
+    "scheduled_time_start":"11:00am",
+    "scheduled_time_end":"12:50pm",
+    "call_number":"10449",
+    "campus":"Morningside",
+    "class_id":"U9000-20241-070",
+    "course_subtitle":null,
+    "department":"International and Public Affairs",
+    "department_code":"SIPA",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/SIPA\/U9000-20241-070\/",
+    "location":"418 International Affairs Building",
+    "method_of_instruction":null,
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20241SIPA9000U070",
+    "type":"WORKSHOP"
+  },
+  {
+    "course_code":"SIPA U9000",
+    "course_title":"Capstone Workshop",
+    "course_descr":"Capstone workshops apply the practical skills and analytical knowledge learned at SIPA to a real-world issue. Students are organized into small consulting teams (typically 6 students per team) and assigned a substantive, policy-oriented project with an external client. Student teams, working under the supervision of a faculty expert, answer a carefully defined problem posed by the client. Each team produces an actionable report and an oral briefing of their findings at the close of the workshop that is designed to translate into real change on the ground. The Capstone is a graduation requirement for all Masters of Public Administration and Masters of International Affairs students; it is typically taken in the final semester at SIPA. Registration in this course requires an application, please visit: sipa.columbia.edu\/academics\/workshops\/workshop-students for more information.\u00a0A course fee of $400 will be applied to students traveling internationally for the Capstone Workshop.\n\n",
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"10450",
+    "campus":"Morningside",
+    "class_id":"U9000-20241-071",
+    "course_subtitle":null,
+    "department":"International and Public Affairs",
+    "department_code":"SIPA",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/SIPA\/U9000-20241-071\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20241SIPA9000U071",
+    "type":"WORKSHOP"
+  },
+  {
+    "course_code":"SIPA U9000",
+    "course_title":"Capstone Workshop",
+    "course_descr":"Capstone workshops apply the practical skills and analytical knowledge learned at SIPA to a real-world issue. Students are organized into small consulting teams (typically 6 students per team) and assigned a substantive, policy-oriented project with an external client. Student teams, working under the supervision of a faculty expert, answer a carefully defined problem posed by the client. Each team produces an actionable report and an oral briefing of their findings at the close of the workshop that is designed to translate into real change on the ground. The Capstone is a graduation requirement for all Masters of Public Administration and Masters of International Affairs students; it is typically taken in the final semester at SIPA. Registration in this course requires an application, please visit: sipa.columbia.edu\/academics\/workshops\/workshop-students for more information.\u00a0A course fee of $400 will be applied to students traveling internationally for the Capstone Workshop.\n\n",
+    "instructor":"Samantha M McCann",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"6:00pm",
+    "call_number":"10451",
+    "campus":"Morningside",
+    "class_id":"U9000-20241-072",
+    "course_subtitle":null,
+    "department":"International and Public Affairs",
+    "department_code":"SIPA",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/SIPA\/U9000-20241-072\/",
+    "location":"418 International Affairs Building",
+    "method_of_instruction":null,
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20241SIPA9000U072",
+    "type":"WORKSHOP"
+  },
+  {
+    "course_code":"SIPA U9000",
+    "course_title":"Capstone Workshop",
+    "course_descr":"Capstone workshops apply the practical skills and analytical knowledge learned at SIPA to a real-world issue. Students are organized into small consulting teams (typically 6 students per team) and assigned a substantive, policy-oriented project with an external client. Student teams, working under the supervision of a faculty expert, answer a carefully defined problem posed by the client. Each team produces an actionable report and an oral briefing of their findings at the close of the workshop that is designed to translate into real change on the ground. The Capstone is a graduation requirement for all Masters of Public Administration and Masters of International Affairs students; it is typically taken in the final semester at SIPA. Registration in this course requires an application, please visit: sipa.columbia.edu\/academics\/workshops\/workshop-students for more information.\u00a0A course fee of $400 will be applied to students traveling internationally for the Capstone Workshop.\n\n",
+    "instructor":null,
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"10452",
+    "campus":"Morningside",
+    "class_id":"U9000-20241-073",
+    "course_subtitle":null,
+    "department":"International and Public Affairs",
+    "department_code":"SIPA",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/SIPA\/U9000-20241-073\/",
+    "location":"405A International Affairs Building",
+    "method_of_instruction":null,
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20241SIPA9000U073",
+    "type":"WORKSHOP"
+  },
+  {
+    "course_code":"SIPA U9000",
+    "course_title":"Capstone Workshop",
+    "course_descr":"Capstone workshops apply the practical skills and analytical knowledge learned at SIPA to a real-world issue. Students are organized into small consulting teams (typically 6 students per team) and assigned a substantive, policy-oriented project with an external client. Student teams, working under the supervision of a faculty expert, answer a carefully defined problem posed by the client. Each team produces an actionable report and an oral briefing of their findings at the close of the workshop that is designed to translate into real change on the ground. The Capstone is a graduation requirement for all Masters of Public Administration and Masters of International Affairs students; it is typically taken in the final semester at SIPA. Registration in this course requires an application, please visit: sipa.columbia.edu\/academics\/workshops\/workshop-students for more information.\u00a0A course fee of $400 will be applied to students traveling internationally for the Capstone Workshop.\n\n",
+    "instructor":null,
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"10:50am",
+    "call_number":"10453",
+    "campus":"Morningside",
+    "class_id":"U9000-20241-074",
+    "course_subtitle":null,
+    "department":"International and Public Affairs",
+    "department_code":"SIPA",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/SIPA\/U9000-20241-074\/",
+    "location":"418 International Affairs Building",
+    "method_of_instruction":null,
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20241SIPA9000U074",
+    "type":"WORKSHOP"
+  },
+  {
+    "course_code":"SIPA U9000",
+    "course_title":"Capstone Workshop",
+    "course_descr":"Capstone workshops apply the practical skills and analytical knowledge learned at SIPA to a real-world issue. Students are organized into small consulting teams (typically 6 students per team) and assigned a substantive, policy-oriented project with an external client. Student teams, working under the supervision of a faculty expert, answer a carefully defined problem posed by the client. Each team produces an actionable report and an oral briefing of their findings at the close of the workshop that is designed to translate into real change on the ground. The Capstone is a graduation requirement for all Masters of Public Administration and Masters of International Affairs students; it is typically taken in the final semester at SIPA. Registration in this course requires an application, please visit: sipa.columbia.edu\/academics\/workshops\/workshop-students for more information.\u00a0A course fee of $400 will be applied to students traveling internationally for the Capstone Workshop.\n\n",
+    "instructor":null,
+    "scheduled_time_start":"11:00am",
+    "scheduled_time_end":"12:50pm",
+    "call_number":"10454",
+    "campus":"Morningside",
+    "class_id":"U9000-20241-075",
+    "course_subtitle":null,
+    "department":"International and Public Affairs",
+    "department_code":"SIPA",
+    "instructor_wikipedia_link":null,
+    "link":"http:\/\/www.columbia.edu\/cu\/bulletin\/uwb\/subj\/SIPA\/U9000-20241-075\/",
+    "location":"405A International Affairs Building",
+    "method_of_instruction":null,
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20241SIPA9000U075",
     "type":"WORKSHOP"
   },
   {
@@ -40193,7 +41371,7 @@
   {
     "course_code":"WRIT PS0110",
     "course_title":"Columbia Writing Academy: Writing for Co",
-    "course_descr":null,
+    "course_descr":"\u00a0 \u00a0 \u00a0 \u00a0\n\n",
     "instructor":null,
     "scheduled_time_start":"7:00pm",
     "scheduled_time_end":"8:15pm",
