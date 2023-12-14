@@ -5362,7 +5362,7 @@
     "course_code":"BMEN E3899",
     "course_title":"Research Training",
     "course_descr":"Research training course. Recommended in preparation for laboratory related research.\n\n",
-    "instructor":"Jose McFaline-Figuero",
+    "instructor":"Jose McFaline-Figueroa",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"12407",
@@ -6454,7 +6454,7 @@
     "course_code":"BMEN E4899",
     "course_title":"Research Training",
     "course_descr":"Research training course. Recommended in preparation for laboratory related research.\n\n",
-    "instructor":"Jose McFaline-Figuero",
+    "instructor":"Jose McFaline-Figueroa",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"12465",
@@ -42091,7 +42091,13 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/PHIL\/S3350-20232-001\/",
     "location":"716 Philosophy Hall",
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "General Studies",
+      "Professional Studies"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -42117,7 +42123,13 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/PHIL\/S3411-20232-001\/",
     "location":"716 Philosophy Hall",
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "General Studies",
+      "Professional Studies"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -42143,7 +42155,13 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/PHIL\/S3601-20232-001\/",
     "location":"716 Philosophy Hall",
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "General Studies",
+      "Professional Studies"
+    ],
     "points":"3",
     "prerequisites":[
 
