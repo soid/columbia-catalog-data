@@ -1059,7 +1059,7 @@
   {
     "course_code":"ECON GU4911",
     "course_title":"MICROECONOMICS SEMINAR",
-    "course_descr":null,
+    "course_descr":"Prerequisites: ECON UN3211 and ECON UN3213 and ECON UN3412\u00a0 Selected topics in microeconomics.\u00a0\n\n",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -1076,7 +1076,15 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "ECON UN3211"
+      ],
+      [
+        "ECON UN3213"
+      ],
+      [
+        "ECON UN3412"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20242ECON4911W001",
@@ -4097,7 +4105,7 @@
   {
     "course_code":"MDES S1210",
     "course_title":"FIRST YEAR ARABIC I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: Students that are not registering for MDES S1211 will be required to request professor permission (tb46@columbia.edu) to enroll.\n",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -4114,7 +4122,9 @@
     "open_to":null,
     "points":"5",
     "prerequisites":[
-
+      [
+        "MDES S1211"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20242MDES1210S001",
@@ -4123,7 +4133,7 @@
   {
     "course_code":"MDES S1211",
     "course_title":"FIRST YEAR ARABIC II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: MDES S1210, or the equivalent.\n",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -4140,7 +4150,9 @@
     "open_to":null,
     "points":"5",
     "prerequisites":[
-
+      [
+        "MDES S1210"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20242MDES1211S001",
@@ -4149,7 +4161,7 @@
   {
     "course_code":"MDES S1214",
     "course_title":"SECOND YEAR ARABIC I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: MDES UN1211-UN1212, or the equivalent.\n",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -4166,7 +4178,12 @@
     "open_to":null,
     "points":"5",
     "prerequisites":[
-
+      [
+        "MDES UN1211"
+      ],
+      [
+        "UN1212"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20242MDES1214S001",
@@ -4175,7 +4192,7 @@
   {
     "course_code":"MDES S1215",
     "course_title":"SECOND YEAR ARABIC II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: Prerequisites: MDES UN1211-UN1212 and UN1214 or the equivalent.\n",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -4192,7 +4209,15 @@
     "open_to":null,
     "points":"5",
     "prerequisites":[
-
+      [
+        "MDES UN1211"
+      ],
+      [
+        "UN1212"
+      ],
+      [
+        "UN1214"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20242MDES1215S001",
@@ -4227,7 +4252,7 @@
   {
     "course_code":"MDES S4210",
     "course_title":"THIRD YEAR ARABIC I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: MDES UN1214-UN1215, or the equivalent $15.00= Language Resource Fee, $10.00 = Materials Fee Improvement of writing and speaking skills through compositions, class discussions, and presentations in Arabic on topics such as areas and cultures of the Middle East; classical and modern Arabic literature; and current, authentic materials available from Middle Eastern sources. Review of grammatical and syntactic rules as needed.\n",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -4244,7 +4269,12 @@
     "open_to":null,
     "points":"5",
     "prerequisites":[
-
+      [
+        "MDES UN1214"
+      ],
+      [
+        "UN1215"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20242MDES4210S001",
@@ -4253,7 +4283,7 @@
   {
     "course_code":"MDES S4211",
     "course_title":"THIRD YEAR ARABIC II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: MDES UN1214-UN1215, or the equivalent. $15.00= Language Resource Fee, $10.00 = Materials Fee The continuation of S4210, above.\n",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -4270,7 +4300,13 @@
     "open_to":null,
     "points":"5",
     "prerequisites":[
-
+      [
+        "MDES UN1214"
+      ],
+      [
+        "UN1215",
+        "S4210"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20242MDES4211S001",
