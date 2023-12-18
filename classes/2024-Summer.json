@@ -1650,6 +1650,32 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"EXSC GR0001",
+    "course_title":"EXCHANGE SCHOLAR PROGRAM",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"10255",
+    "campus":"Morningside",
+    "class_id":"G0001-20242-001",
+    "course_subtitle":null,
+    "department":"Graduate School of Arts and Sciences",
+    "department_code":"EXSC",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/EXSC\/G0001-20242-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242EXSC0001G001",
+    "type":"RESIDENCY"
+  },
+  {
     "course_code":"FILM S3001",
     "course_title":"INTRO-STUDY AND THEORY OF FILM",
     "course_descr":"The nature of cinema as a technology, a business, a cultural product, an entertainment medium, and most especially an art form. Study of cinematic genres, stylistics, and nationalities; outstanding film artists and artisans; the relationship of cinema to other art forms and media, as well as to society.\n\n",
@@ -4106,9 +4132,9 @@
     "course_code":"MDES S1210",
     "course_title":"FIRST YEAR ARABIC I",
     "course_descr":"Prerequisites: Students that are not registering for MDES S1211 will be required to request professor permission (tb46@columbia.edu) to enroll.\n",
-    "instructor":null,
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "instructor":"May Ahmar",
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"1:00pm",
     "call_number":"10253",
     "campus":"Morningside",
     "class_id":"S1210-20242-001",
@@ -4117,7 +4143,7 @@
     "department_code":"MDES",
     "instructor_wikipedia_link":null,
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/MDES\/S1210-20242-001\/",
-    "location":null,
+    "location":"To be announced",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"5",
@@ -4126,7 +4152,7 @@
         "MDES S1211"
       ]
     ],
-    "scheduled_days":null,
+    "scheduled_days":"MTWRF",
     "section_key":"20242MDES1210S001",
     "type":"LANGUAGE"
   },
@@ -4134,9 +4160,9 @@
     "course_code":"MDES S1211",
     "course_title":"FIRST YEAR ARABIC II",
     "course_descr":"Prerequisites: MDES S1210, or the equivalent.\n",
-    "instructor":null,
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "instructor":"Nasr Abdo",
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"1:00pm",
     "call_number":"10252",
     "campus":"Morningside",
     "class_id":"S1211-20242-001",
@@ -4145,7 +4171,7 @@
     "department_code":"MDES",
     "instructor_wikipedia_link":null,
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/MDES\/S1211-20242-001\/",
-    "location":null,
+    "location":"To be announced",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"5",
@@ -4154,7 +4180,7 @@
         "MDES S1210"
       ]
     ],
-    "scheduled_days":null,
+    "scheduled_days":"MTWRF",
     "section_key":"20242MDES1211S001",
     "type":"LANGUAGE"
   },
@@ -4162,9 +4188,9 @@
     "course_code":"MDES S1214",
     "course_title":"SECOND YEAR ARABIC I",
     "course_descr":"Prerequisites: MDES UN1211-UN1212, or the equivalent.\n",
-    "instructor":null,
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "instructor":"Rym Bettaieb",
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"1:00pm",
     "call_number":"10251",
     "campus":"Morningside",
     "class_id":"S1214-20242-001",
@@ -4173,7 +4199,7 @@
     "department_code":"MDES",
     "instructor_wikipedia_link":null,
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/MDES\/S1214-20242-001\/",
-    "location":null,
+    "location":"To be announced",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"5",
@@ -4185,7 +4211,7 @@
         "UN1212"
       ]
     ],
-    "scheduled_days":null,
+    "scheduled_days":"MTWRF",
     "section_key":"20242MDES1214S001",
     "type":"LANGUAGE"
   },
@@ -4193,9 +4219,9 @@
     "course_code":"MDES S1215",
     "course_title":"SECOND YEAR ARABIC II",
     "course_descr":"Prerequisites: Prerequisites: MDES UN1211-UN1212 and UN1214 or the equivalent.\n",
-    "instructor":null,
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "instructor":"Ouijdane Absi",
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"1:00pm",
     "call_number":"10250",
     "campus":"Morningside",
     "class_id":"S1215-20242-001",
@@ -4204,7 +4230,7 @@
     "department_code":"MDES",
     "instructor_wikipedia_link":null,
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/MDES\/S1215-20242-001\/",
-    "location":null,
+    "location":"To be announced",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"5",
@@ -4219,7 +4245,7 @@
         "UN1214"
       ]
     ],
-    "scheduled_days":null,
+    "scheduled_days":"MTWRF",
     "section_key":"20242MDES1215S001",
     "type":"LANGUAGE"
   },
@@ -4253,9 +4279,9 @@
     "course_code":"MDES S4210",
     "course_title":"THIRD YEAR ARABIC I",
     "course_descr":"Prerequisites: MDES UN1214-UN1215, or the equivalent $15.00= Language Resource Fee, $10.00 = Materials Fee Improvement of writing and speaking skills through compositions, class discussions, and presentations in Arabic on topics such as areas and cultures of the Middle East; classical and modern Arabic literature; and current, authentic materials available from Middle Eastern sources. Review of grammatical and syntactic rules as needed.\n",
-    "instructor":null,
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "instructor":"Reem Faraj",
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"1:00pm",
     "call_number":"10249",
     "campus":"Morningside",
     "class_id":"S4210-20242-001",
@@ -4264,7 +4290,7 @@
     "department_code":"MDES",
     "instructor_wikipedia_link":null,
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/MDES\/S4210-20242-001\/",
-    "location":null,
+    "location":"To be announced",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"5",
@@ -4276,7 +4302,7 @@
         "UN1215"
       ]
     ],
-    "scheduled_days":null,
+    "scheduled_days":"MTWRF",
     "section_key":"20242MDES4210S001",
     "type":"LANGUAGE"
   },
@@ -4284,9 +4310,9 @@
     "course_code":"MDES S4211",
     "course_title":"THIRD YEAR ARABIC II",
     "course_descr":"Prerequisites: MDES UN1214-UN1215, or the equivalent. $15.00= Language Resource Fee, $10.00 = Materials Fee The continuation of S4210, above.\n",
-    "instructor":null,
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "instructor":"Youssef Nouhi",
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"1:00pm",
     "call_number":"10248",
     "campus":"Morningside",
     "class_id":"S4211-20242-001",
@@ -4295,7 +4321,7 @@
     "department_code":"MDES",
     "instructor_wikipedia_link":null,
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/MDES\/S4211-20242-001\/",
-    "location":null,
+    "location":"To be announced",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"5",
@@ -4308,7 +4334,7 @@
         "S4210"
       ]
     ],
-    "scheduled_days":null,
+    "scheduled_days":"MTWRF",
     "section_key":"20242MDES4211S001",
     "type":"LANGUAGE"
   },
