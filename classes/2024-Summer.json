@@ -210,7 +210,7 @@
   {
     "course_code":"AHIS S3442",
     "course_title":"American Art in a Global Context: 1750",
-    "course_descr":null,
+    "course_descr":"Through an examination of painting, sculpture, decorative arts, photography. fashion and visual culture of the United States from 1750 to 1914, the course will explore how American artists responded to and operated within the wider world,\u00a0while grappling with issues of identity at home. Addressing themes shared in common across national boundaries, the class will consider how American art participated in the revolutions and reforms of the \"long\" nineteenth century,\u00a0and how events of the period continue to impact our country today. The period witnessed the emergence of new technologies for creating, using and circulating images and objects, the expansion and transformation of exhibition and viewing practices, and the rise of new artistic institutions, as well as the metamorphosis of the United States from its colonial origins to that of a world power, including the radical changes that occurred during the Civil War.\u00a0 With many sessions taking place at the Metropolitan Museum of Art, the class will investigate how American art engaged with international movements while constructing national identity during a period of radical transformation both at home and abroad.\n\n",
     "instructor":"Page S Knox",
     "scheduled_time_start":"9:00am",
     "scheduled_time_end":"12:10pm",
@@ -314,7 +314,7 @@
   {
     "course_code":"AHUM S2901",
     "course_title":"MASTERPIECES-INDIAN ART & ARCH",
-    "course_descr":null,
+    "course_descr":"Introduction to 2000 years of art on the Indian subcontinent. The course covers the early art of Buddhism, rock-cut architecture of the Buddhists and Hindus, the development of the Hindu temple, Mughal and Rajput painting and architecture, art of the colonial period, and the emergence of the Modern.\n\n",
     "instructor":"Kalyani M Ramachandran",
     "scheduled_time_start":"5:30pm",
     "scheduled_time_end":"8:40pm",
@@ -362,6 +362,32 @@
     "scheduled_days":"R",
     "section_key":"20242AHUM1399V001",
     "type":"COLLOQUIA"
+  },
+  {
+    "course_code":"ANTH GU4181",
+    "course_title":"QUALITATIVE METHODS OF ANTHROPOLOGY",
+    "course_descr":null,
+    "instructor":"Maxine Weisgrau",
+    "scheduled_time_start":"1:00pm",
+    "scheduled_time_end":"4:10pm",
+    "call_number":"10313",
+    "campus":"Morningside",
+    "class_id":"S4181-20242-001",
+    "course_subtitle":"QUALITATIVE METHODS OF AN",
+    "department":"Summer Session (SUMM)",
+    "department_code":"ANTH",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ANTH\/S4181-20242-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20242ANTH4181S001",
+    "type":"LECTURE"
   },
   {
     "course_code":"ANTH S1002",
@@ -522,6 +548,34 @@
     ],
     "scheduled_days":null,
     "section_key":"20242BIOL4502S001",
+    "type":"LABORATORY"
+  },
+  {
+    "course_code":"BIOL S4502",
+    "course_title":"SUPERVISED RES IN BIOTECHNOLGY",
+    "course_descr":null,
+    "instructor":"Lili Yamasaki",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"10312",
+    "campus":"Morningside",
+    "class_id":"S4502-20242-002",
+    "course_subtitle":"SUPERVISED RES IN BIOTECH",
+    "department":"Summer Session (SUMM)",
+    "department_code":"BIOL",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/BIOL\/S4502-20242-002\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "GSAS"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242BIOL4502S002",
     "type":"LABORATORY"
   },
   {
@@ -2312,7 +2366,7 @@
   {
     "course_code":"EXSC GR0001",
     "course_title":"EXCHANGE SCHOLAR PROGRAM",
-    "course_descr":null,
+    "course_descr":"N\/A\n",
     "instructor":"Yinghui Mao",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -3315,7 +3369,7 @@
   {
     "course_code":"HUMA S1121",
     "course_title":"MASTERPIECES OF WESTERN ART",
-    "course_descr":null,
+    "course_descr":"Equivalent to HUMA C1121 and F1121. Not a historical survey but an analytical study of masterpieces, including originals available in the metropolitan area. The chief purpose is to acquaint students with the experience of a work of art. A series of topics in the development of Western art, selected to afford a sense of the range of expressive possibilities in painting, sculpture, and architecture, such as the Parthenon, the Gothic cathedral, and works of Michelangelo, Bruegel, Picasso, and others. Space is limited. Columbia University undergraduates who need this course for graduation are encouraged to register during early registration.\n",
     "instructor":"Jeiran Jahani",
     "scheduled_time_start":"9:00am",
     "scheduled_time_end":"12:10pm",
@@ -3332,7 +3386,12 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "F1121"
+      ],
+      [
+        "HUMA C1121"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20242HUMA1121S001",
@@ -3341,7 +3400,7 @@
   {
     "course_code":"HUMA S1121",
     "course_title":"MASTERPIECES OF WESTERN ART",
-    "course_descr":null,
+    "course_descr":"Equivalent to HUMA C1121 and F1121. Not a historical survey but an analytical study of masterpieces, including originals available in the metropolitan area. The chief purpose is to acquaint students with the experience of a work of art. A series of topics in the development of Western art, selected to afford a sense of the range of expressive possibilities in painting, sculpture, and architecture, such as the Parthenon, the Gothic cathedral, and works of Michelangelo, Bruegel, Picasso, and others. Space is limited. Columbia University undergraduates who need this course for graduation are encouraged to register during early registration.\n",
     "instructor":"Kanako Tajima",
     "scheduled_time_start":"9:00am",
     "scheduled_time_end":"12:10pm",
@@ -3358,7 +3417,12 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "F1121"
+      ],
+      [
+        "HUMA C1121"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20242HUMA1121S002",
@@ -3367,7 +3431,7 @@
   {
     "course_code":"HUMA S1121",
     "course_title":"MASTERPIECES OF WESTERN ART",
-    "course_descr":null,
+    "course_descr":"Equivalent to HUMA C1121 and F1121. Not a historical survey but an analytical study of masterpieces, including originals available in the metropolitan area. The chief purpose is to acquaint students with the experience of a work of art. A series of topics in the development of Western art, selected to afford a sense of the range of expressive possibilities in painting, sculpture, and architecture, such as the Parthenon, the Gothic cathedral, and works of Michelangelo, Bruegel, Picasso, and others. Space is limited. Columbia University undergraduates who need this course for graduation are encouraged to register during early registration.\n",
     "instructor":"Rebecca M Yuste-Golob",
     "scheduled_time_start":"9:00am",
     "scheduled_time_end":"12:10pm",
@@ -3384,7 +3448,12 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "F1121"
+      ],
+      [
+        "HUMA C1121"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20242HUMA1121S003",
@@ -3393,7 +3462,7 @@
   {
     "course_code":"HUMA S1121",
     "course_title":"MASTERPIECES OF WESTERN ART",
-    "course_descr":null,
+    "course_descr":"Equivalent to HUMA C1121 and F1121. Not a historical survey but an analytical study of masterpieces, including originals available in the metropolitan area. The chief purpose is to acquaint students with the experience of a work of art. A series of topics in the development of Western art, selected to afford a sense of the range of expressive possibilities in painting, sculpture, and architecture, such as the Parthenon, the Gothic cathedral, and works of Michelangelo, Bruegel, Picasso, and others. Space is limited. Columbia University undergraduates who need this course for graduation are encouraged to register during early registration.\n",
     "instructor":"Denise M Budd",
     "scheduled_time_start":"1:00pm",
     "scheduled_time_end":"4:10pm",
@@ -3410,7 +3479,12 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "F1121"
+      ],
+      [
+        "HUMA C1121"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20242HUMA1121S005",
@@ -3419,7 +3493,7 @@
   {
     "course_code":"HUMA S1121",
     "course_title":"MASTERPIECES OF WESTERN ART",
-    "course_descr":null,
+    "course_descr":"Equivalent to HUMA C1121 and F1121. Not a historical survey but an analytical study of masterpieces, including originals available in the metropolitan area. The chief purpose is to acquaint students with the experience of a work of art. A series of topics in the development of Western art, selected to afford a sense of the range of expressive possibilities in painting, sculpture, and architecture, such as the Parthenon, the Gothic cathedral, and works of Michelangelo, Bruegel, Picasso, and others. Space is limited. Columbia University undergraduates who need this course for graduation are encouraged to register during early registration.\n",
     "instructor":"Anne S Ochmanek",
     "scheduled_time_start":"1:00pm",
     "scheduled_time_end":"4:10pm",
@@ -3436,7 +3510,12 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "F1121"
+      ],
+      [
+        "HUMA C1121"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20242HUMA1121S006",
@@ -3445,7 +3524,7 @@
   {
     "course_code":"HUMA S1121",
     "course_title":"MASTERPIECES OF WESTERN ART",
-    "course_descr":null,
+    "course_descr":"Equivalent to HUMA C1121 and F1121. Not a historical survey but an analytical study of masterpieces, including originals available in the metropolitan area. The chief purpose is to acquaint students with the experience of a work of art. A series of topics in the development of Western art, selected to afford a sense of the range of expressive possibilities in painting, sculpture, and architecture, such as the Parthenon, the Gothic cathedral, and works of Michelangelo, Bruegel, Picasso, and others. Space is limited. Columbia University undergraduates who need this course for graduation are encouraged to register during early registration.\n",
     "instructor":"Anna R Hetherington",
     "scheduled_time_start":"5:30pm",
     "scheduled_time_end":"8:40pm",
@@ -3462,7 +3541,12 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "F1121"
+      ],
+      [
+        "HUMA C1121"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20242HUMA1121S007",
@@ -3471,7 +3555,7 @@
   {
     "course_code":"HUMA S1121",
     "course_title":"MASTERPIECES OF WESTERN ART",
-    "course_descr":null,
+    "course_descr":"Equivalent to HUMA C1121 and F1121. Not a historical survey but an analytical study of masterpieces, including originals available in the metropolitan area. The chief purpose is to acquaint students with the experience of a work of art. A series of topics in the development of Western art, selected to afford a sense of the range of expressive possibilities in painting, sculpture, and architecture, such as the Parthenon, the Gothic cathedral, and works of Michelangelo, Bruegel, Picasso, and others. Space is limited. Columbia University undergraduates who need this course for graduation are encouraged to register during early registration.\n",
     "instructor":"Matthew N Peebles",
     "scheduled_time_start":"5:30pm",
     "scheduled_time_end":"8:40pm",
@@ -3488,7 +3572,12 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "F1121"
+      ],
+      [
+        "HUMA C1121"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20242HUMA1121S008",
@@ -3497,7 +3586,7 @@
   {
     "course_code":"HUMA S1121",
     "course_title":"MASTERPIECES OF WESTERN ART",
-    "course_descr":null,
+    "course_descr":"Equivalent to HUMA C1121 and F1121. Not a historical survey but an analytical study of masterpieces, including originals available in the metropolitan area. The chief purpose is to acquaint students with the experience of a work of art. A series of topics in the development of Western art, selected to afford a sense of the range of expressive possibilities in painting, sculpture, and architecture, such as the Parthenon, the Gothic cathedral, and works of Michelangelo, Bruegel, Picasso, and others. Space is limited. Columbia University undergraduates who need this course for graduation are encouraged to register during early registration.\n",
     "instructor":"Alessandra Di Croce",
     "scheduled_time_start":"9:00am",
     "scheduled_time_end":"12:10pm",
@@ -3514,7 +3603,12 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "F1121"
+      ],
+      [
+        "HUMA C1121"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20242HUMA1121S009",
@@ -3523,7 +3617,7 @@
   {
     "course_code":"HUMA S1121",
     "course_title":"MASTERPIECES OF WESTERN ART",
-    "course_descr":null,
+    "course_descr":"Equivalent to HUMA C1121 and F1121. Not a historical survey but an analytical study of masterpieces, including originals available in the metropolitan area. The chief purpose is to acquaint students with the experience of a work of art. A series of topics in the development of Western art, selected to afford a sense of the range of expressive possibilities in painting, sculpture, and architecture, such as the Parthenon, the Gothic cathedral, and works of Michelangelo, Bruegel, Picasso, and others. Space is limited. Columbia University undergraduates who need this course for graduation are encouraged to register during early registration.\n",
     "instructor":"Rachel L Hutcheson",
     "scheduled_time_start":"9:00am",
     "scheduled_time_end":"12:10pm",
@@ -3540,7 +3634,12 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "F1121"
+      ],
+      [
+        "HUMA C1121"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20242HUMA1121S010",
@@ -3549,7 +3648,7 @@
   {
     "course_code":"HUMA S1121",
     "course_title":"MASTERPIECES OF WESTERN ART",
-    "course_descr":null,
+    "course_descr":"Equivalent to HUMA C1121 and F1121. Not a historical survey but an analytical study of masterpieces, including originals available in the metropolitan area. The chief purpose is to acquaint students with the experience of a work of art. A series of topics in the development of Western art, selected to afford a sense of the range of expressive possibilities in painting, sculpture, and architecture, such as the Parthenon, the Gothic cathedral, and works of Michelangelo, Bruegel, Picasso, and others. Space is limited. Columbia University undergraduates who need this course for graduation are encouraged to register during early registration.\n",
     "instructor":"Martina Mims",
     "scheduled_time_start":"9:00am",
     "scheduled_time_end":"12:10pm",
@@ -3566,7 +3665,12 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "F1121"
+      ],
+      [
+        "HUMA C1121"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20242HUMA1121S011",
@@ -3575,7 +3679,7 @@
   {
     "course_code":"HUMA S1121",
     "course_title":"MASTERPIECES OF WESTERN ART",
-    "course_descr":null,
+    "course_descr":"Equivalent to HUMA C1121 and F1121. Not a historical survey but an analytical study of masterpieces, including originals available in the metropolitan area. The chief purpose is to acquaint students with the experience of a work of art. A series of topics in the development of Western art, selected to afford a sense of the range of expressive possibilities in painting, sculpture, and architecture, such as the Parthenon, the Gothic cathedral, and works of Michelangelo, Bruegel, Picasso, and others. Space is limited. Columbia University undergraduates who need this course for graduation are encouraged to register during early registration.\n",
     "instructor":"Janina P Marshall",
     "scheduled_time_start":"1:00pm",
     "scheduled_time_end":"4:10pm",
@@ -3592,7 +3696,12 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "F1121"
+      ],
+      [
+        "HUMA C1121"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20242HUMA1121S013",
@@ -3601,7 +3710,7 @@
   {
     "course_code":"HUMA S1121",
     "course_title":"MASTERPIECES OF WESTERN ART",
-    "course_descr":null,
+    "course_descr":"Equivalent to HUMA C1121 and F1121. Not a historical survey but an analytical study of masterpieces, including originals available in the metropolitan area. The chief purpose is to acquaint students with the experience of a work of art. A series of topics in the development of Western art, selected to afford a sense of the range of expressive possibilities in painting, sculpture, and architecture, such as the Parthenon, the Gothic cathedral, and works of Michelangelo, Bruegel, Picasso, and others. Space is limited. Columbia University undergraduates who need this course for graduation are encouraged to register during early registration.\n",
     "instructor":"Sandrine S Larrive-Bass",
     "scheduled_time_start":"1:00pm",
     "scheduled_time_end":"4:10pm",
@@ -3618,7 +3727,12 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "F1121"
+      ],
+      [
+        "HUMA C1121"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20242HUMA1121S014",
@@ -3627,7 +3741,7 @@
   {
     "course_code":"HUMA S1121",
     "course_title":"MASTERPIECES OF WESTERN ART",
-    "course_descr":null,
+    "course_descr":"Equivalent to HUMA C1121 and F1121. Not a historical survey but an analytical study of masterpieces, including originals available in the metropolitan area. The chief purpose is to acquaint students with the experience of a work of art. A series of topics in the development of Western art, selected to afford a sense of the range of expressive possibilities in painting, sculpture, and architecture, such as the Parthenon, the Gothic cathedral, and works of Michelangelo, Bruegel, Picasso, and others. Space is limited. Columbia University undergraduates who need this course for graduation are encouraged to register during early registration.\n",
     "instructor":"Sunmin Cha",
     "scheduled_time_start":"5:30pm",
     "scheduled_time_end":"8:40pm",
@@ -3644,7 +3758,12 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "F1121"
+      ],
+      [
+        "HUMA C1121"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20242HUMA1121S015",
@@ -3653,7 +3772,7 @@
   {
     "course_code":"HUMA S1121",
     "course_title":"MASTERPIECES OF WESTERN ART",
-    "course_descr":null,
+    "course_descr":"Equivalent to HUMA C1121 and F1121. Not a historical survey but an analytical study of masterpieces, including originals available in the metropolitan area. The chief purpose is to acquaint students with the experience of a work of art. A series of topics in the development of Western art, selected to afford a sense of the range of expressive possibilities in painting, sculpture, and architecture, such as the Parthenon, the Gothic cathedral, and works of Michelangelo, Bruegel, Picasso, and others. Space is limited. Columbia University undergraduates who need this course for graduation are encouraged to register during early registration.\n",
     "instructor":"Holger A Klein",
     "scheduled_time_start":"1:00pm",
     "scheduled_time_end":"4:10pm",
@@ -3670,7 +3789,12 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "F1121"
+      ],
+      [
+        "HUMA C1121"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20242HUMA1121S004",
@@ -3679,7 +3803,7 @@
   {
     "course_code":"HUMA S1121",
     "course_title":"MASTERPIECES OF WESTERN ART",
-    "course_descr":null,
+    "course_descr":"Equivalent to HUMA C1121 and F1121. Not a historical survey but an analytical study of masterpieces, including originals available in the metropolitan area. The chief purpose is to acquaint students with the experience of a work of art. A series of topics in the development of Western art, selected to afford a sense of the range of expressive possibilities in painting, sculpture, and architecture, such as the Parthenon, the Gothic cathedral, and works of Michelangelo, Bruegel, Picasso, and others. Space is limited. Columbia University undergraduates who need this course for graduation are encouraged to register during early registration.\n",
     "instructor":"Tara Kuruvilla",
     "scheduled_time_start":"1:00pm",
     "scheduled_time_end":"4:10pm",
@@ -3696,7 +3820,12 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "F1121"
+      ],
+      [
+        "HUMA C1121"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20242HUMA1121S012",
@@ -3705,7 +3834,7 @@
   {
     "course_code":"HUMA S1121",
     "course_title":"MASTERPIECES OF WESTERN ART",
-    "course_descr":null,
+    "course_descr":"Equivalent to HUMA C1121 and F1121. Not a historical survey but an analytical study of masterpieces, including originals available in the metropolitan area. The chief purpose is to acquaint students with the experience of a work of art. A series of topics in the development of Western art, selected to afford a sense of the range of expressive possibilities in painting, sculpture, and architecture, such as the Parthenon, the Gothic cathedral, and works of Michelangelo, Bruegel, Picasso, and others. Space is limited. Columbia University undergraduates who need this course for graduation are encouraged to register during early registration.\n",
     "instructor":"Sunmin Cha",
     "scheduled_time_start":"9:00am",
     "scheduled_time_end":"12:10pm",
@@ -3722,7 +3851,12 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "F1121"
+      ],
+      [
+        "HUMA C1121"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20242HUMA1121S016",
@@ -3731,7 +3865,7 @@
   {
     "course_code":"HUMA S1121",
     "course_title":"MASTERPIECES OF WESTERN ART",
-    "course_descr":null,
+    "course_descr":"Equivalent to HUMA C1121 and F1121. Not a historical survey but an analytical study of masterpieces, including originals available in the metropolitan area. The chief purpose is to acquaint students with the experience of a work of art. A series of topics in the development of Western art, selected to afford a sense of the range of expressive possibilities in painting, sculpture, and architecture, such as the Parthenon, the Gothic cathedral, and works of Michelangelo, Bruegel, Picasso, and others. Space is limited. Columbia University undergraduates who need this course for graduation are encouraged to register during early registration.\n",
     "instructor":"Denise M Budd",
     "scheduled_time_start":"1:00pm",
     "scheduled_time_end":"4:10pm",
@@ -3748,7 +3882,12 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "F1121"
+      ],
+      [
+        "HUMA C1121"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20242HUMA1121S017",
@@ -3757,7 +3896,7 @@
   {
     "course_code":"HUMA S1121",
     "course_title":"MASTERPIECES OF WESTERN ART",
-    "course_descr":null,
+    "course_descr":"Equivalent to HUMA C1121 and F1121. Not a historical survey but an analytical study of masterpieces, including originals available in the metropolitan area. The chief purpose is to acquaint students with the experience of a work of art. A series of topics in the development of Western art, selected to afford a sense of the range of expressive possibilities in painting, sculpture, and architecture, such as the Parthenon, the Gothic cathedral, and works of Michelangelo, Bruegel, Picasso, and others. Space is limited. Columbia University undergraduates who need this course for graduation are encouraged to register during early registration.\n",
     "instructor":"Suhyun Choi",
     "scheduled_time_start":"1:00pm",
     "scheduled_time_end":"4:10pm",
@@ -3774,7 +3913,12 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "F1121"
+      ],
+      [
+        "HUMA C1121"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20242HUMA1121S018",
@@ -3783,7 +3927,7 @@
   {
     "course_code":"HUMA S1121",
     "course_title":"MASTERPIECES OF WESTERN ART",
-    "course_descr":null,
+    "course_descr":"Equivalent to HUMA C1121 and F1121. Not a historical survey but an analytical study of masterpieces, including originals available in the metropolitan area. The chief purpose is to acquaint students with the experience of a work of art. A series of topics in the development of Western art, selected to afford a sense of the range of expressive possibilities in painting, sculpture, and architecture, such as the Parthenon, the Gothic cathedral, and works of Michelangelo, Bruegel, Picasso, and others. Space is limited. Columbia University undergraduates who need this course for graduation are encouraged to register during early registration.\n",
     "instructor":"Nicole E Sarto",
     "scheduled_time_start":"1:00pm",
     "scheduled_time_end":"4:10pm",
@@ -3800,7 +3944,12 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "F1121"
+      ],
+      [
+        "HUMA C1121"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20242HUMA1121S019",
@@ -3809,7 +3958,7 @@
   {
     "course_code":"HUMA S1121",
     "course_title":"MASTERPIECES OF WESTERN ART",
-    "course_descr":null,
+    "course_descr":"Equivalent to HUMA C1121 and F1121. Not a historical survey but an analytical study of masterpieces, including originals available in the metropolitan area. The chief purpose is to acquaint students with the experience of a work of art. A series of topics in the development of Western art, selected to afford a sense of the range of expressive possibilities in painting, sculpture, and architecture, such as the Parthenon, the Gothic cathedral, and works of Michelangelo, Bruegel, Picasso, and others. Space is limited. Columbia University undergraduates who need this course for graduation are encouraged to register during early registration.\n",
     "instructor":"Matthew N Peebles",
     "scheduled_time_start":"5:30pm",
     "scheduled_time_end":"8:40pm",
@@ -3826,7 +3975,12 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "F1121"
+      ],
+      [
+        "HUMA C1121"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20242HUMA1121S020",
@@ -3835,7 +3989,7 @@
   {
     "course_code":"HUMA S1121",
     "course_title":"MASTERPIECES OF WESTERN ART",
-    "course_descr":null,
+    "course_descr":"Equivalent to HUMA C1121 and F1121. Not a historical survey but an analytical study of masterpieces, including originals available in the metropolitan area. The chief purpose is to acquaint students with the experience of a work of art. A series of topics in the development of Western art, selected to afford a sense of the range of expressive possibilities in painting, sculpture, and architecture, such as the Parthenon, the Gothic cathedral, and works of Michelangelo, Bruegel, Picasso, and others. Space is limited. Columbia University undergraduates who need this course for graduation are encouraged to register during early registration.\n",
     "instructor":"Janina P Marshall",
     "scheduled_time_start":"1:00pm",
     "scheduled_time_end":"4:10pm",
@@ -3852,7 +4006,12 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "F1121"
+      ],
+      [
+        "HUMA C1121"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20242HUMA1121S021",
@@ -3861,7 +4020,7 @@
   {
     "course_code":"HUMA S1121",
     "course_title":"MASTERPIECES OF WESTERN ART",
-    "course_descr":null,
+    "course_descr":"Equivalent to HUMA C1121 and F1121. Not a historical survey but an analytical study of masterpieces, including originals available in the metropolitan area. The chief purpose is to acquaint students with the experience of a work of art. A series of topics in the development of Western art, selected to afford a sense of the range of expressive possibilities in painting, sculpture, and architecture, such as the Parthenon, the Gothic cathedral, and works of Michelangelo, Bruegel, Picasso, and others. Space is limited. Columbia University undergraduates who need this course for graduation are encouraged to register during early registration.\n",
     "instructor":"Kasiet Toktomusheva",
     "scheduled_time_start":"1:00pm",
     "scheduled_time_end":"4:10pm",
@@ -3878,7 +4037,12 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "F1121"
+      ],
+      [
+        "HUMA C1121"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20242HUMA1121S022",
@@ -3887,7 +4051,7 @@
   {
     "course_code":"HUMA S1121",
     "course_title":"MASTERPIECES OF WESTERN ART",
-    "course_descr":null,
+    "course_descr":"Equivalent to HUMA C1121 and F1121. Not a historical survey but an analytical study of masterpieces, including originals available in the metropolitan area. The chief purpose is to acquaint students with the experience of a work of art. A series of topics in the development of Western art, selected to afford a sense of the range of expressive possibilities in painting, sculpture, and architecture, such as the Parthenon, the Gothic cathedral, and works of Michelangelo, Bruegel, Picasso, and others. Space is limited. Columbia University undergraduates who need this course for graduation are encouraged to register during early registration.\n",
     "instructor":"Laura E Biascoechea",
     "scheduled_time_start":"9:00am",
     "scheduled_time_end":"12:10pm",
@@ -3904,7 +4068,12 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "F1121"
+      ],
+      [
+        "HUMA C1121"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20242HUMA1121S023",
@@ -3913,7 +4082,7 @@
   {
     "course_code":"HUMA S1121",
     "course_title":"MASTERPIECES OF WESTERN ART",
-    "course_descr":null,
+    "course_descr":"Equivalent to HUMA C1121 and F1121. Not a historical survey but an analytical study of masterpieces, including originals available in the metropolitan area. The chief purpose is to acquaint students with the experience of a work of art. A series of topics in the development of Western art, selected to afford a sense of the range of expressive possibilities in painting, sculpture, and architecture, such as the Parthenon, the Gothic cathedral, and works of Michelangelo, Bruegel, Picasso, and others. Space is limited. Columbia University undergraduates who need this course for graduation are encouraged to register during early registration.\n",
     "instructor":"Nicholas S Fitch",
     "scheduled_time_start":"1:00pm",
     "scheduled_time_end":"4:10pm",
@@ -3930,7 +4099,12 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "F1121"
+      ],
+      [
+        "HUMA C1121"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20242HUMA1121S024",
@@ -6469,7 +6643,7 @@
   {
     "course_code":"POLS UN3108",
     "course_title":"Democracy: Theory & Practice",
-    "course_descr":null,
+    "course_descr":"The goal of this course is to provide students with an overview of constitutive debates over the theory and practice of democracy along three major lines: democracy as a word (with a time-honored ancestry and a tortuous trajectory across the centuries); democracy as a constellation of principles and values; and democracy as an array of institutions and procedures that instantiate the word and pursue the foundational principles of popular sovereignty and democratic self-rule. In doing so, we will read the work of major representatives of historical and contemporary political thought who assessed democracy\u2019s shortcomings and potential, examined the relationship between its theory and its practice, and offered prominent resources for thinking about democracy\u2019s future in our present. \u00a0\u00a0\n  \n\u00a0\n\n",
     "instructor":"David Ragazzoni",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -6987,6 +7161,110 @@
     "type":"SEMINAR"
   },
   {
+    "course_code":"QMSS GR5066",
+    "course_title":"Entrepreneurial Principles and Quantitat",
+    "course_descr":null,
+    "instructor":"Gregory M Eirich",
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"12:10pm",
+    "call_number":"10315",
+    "campus":"Morningside",
+    "class_id":"G5066-20242-001",
+    "course_subtitle":"Entrepren & Quant Reasoni",
+    "department":"Summer Session (SUMM)",
+    "department_code":"QMSS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/QMSS\/G5066-20242-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20242QMSS5066G001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"QMSS GR5067",
+    "course_title":"NATURAL LANG PROCESSING SOCIAL SCIENCES",
+    "course_descr":null,
+    "instructor":"Patrick Houlihan",
+    "scheduled_time_start":"5:30pm",
+    "scheduled_time_end":"8:40pm",
+    "call_number":"10316",
+    "campus":"Morningside",
+    "class_id":"G5067-20242-001",
+    "course_subtitle":"NATURAL LANG PROCESSING S",
+    "department":"Summer Session (SUMM)",
+    "department_code":"QMSS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/QMSS\/G5067-20242-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MT",
+    "section_key":"20242QMSS5067G001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"QMSS GR5997",
+    "course_title":"INDEPENDENT STUDY",
+    "course_descr":null,
+    "instructor":"Gregory M Eirich",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"10317",
+    "campus":"Morningside",
+    "class_id":"G5997-20242-001",
+    "course_subtitle":null,
+    "department":"Summer Session (SUMM)",
+    "department_code":"QMSS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/QMSS\/G5997-20242-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"1-4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242QMSS5997G001",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"QMSS S5019",
+    "course_title":"DATA ANALYSIS WITH PYTHON",
+    "course_descr":null,
+    "instructor":"Gregory M Eirich",
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"12:10pm",
+    "call_number":"10314",
+    "campus":"Morningside",
+    "class_id":"S5019-20242-001",
+    "course_subtitle":null,
+    "department":"Summer Session (SUMM)",
+    "department_code":"QMSS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/QMSS\/S5019-20242-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20242QMSS5019S001",
+    "type":"SEMINAR"
+  },
+  {
     "course_code":"RELI S2305",
     "course_title":"ISLAM",
     "course_descr":"This course is designed as an introduction to the Islamic religion, both in its pre-modern and modern manifestations. The semester begins with a survey of the central elements that unite a diverse community of Muslim peoples from a variety of geographical and cultural backgrounds. This includes a look at the Prophet and the Qur'an and the ways in which both were actualized in the development of ritual, jurisprudence, theology, and sufism\/mysticism. The course then shifts to the modern period, examining the impact of colonization and the rise of liberal secularism on the Muslim world. The tension between traditional Sunni and Shi'i systems of authority and movements for 'modernization' and\/or 'reform' feature prominently in these readings. Topics range from intellectual attempts at societal\/religious reform (e.g. Islamic Revivalism, Modernism, Progressivism) and political re-interpretations of traditional Islamic motifs (e.g. Third-Worldism and Jihadist discourse) to efforts at accommodating scientific and technological innovations (e.g. evolution, bioethics ). The class ends by examining the efforts of American and European Muslim communities to carve out distinct spheres of identity in the larger global Muslim community ( umma) through expressions of popular culture (e.g. Hip-Hop).\n\n",
@@ -7221,7 +7499,7 @@
   {
     "course_code":"SOCI S1000",
     "course_title":"THE SOCIAL WORLD",
-    "course_descr":null,
+    "course_descr":"Identification of the distinctive elements of sociological perspectives on society. Readings confront classical and contemporary approaches with key social issues that include power and authority, culture and communication, poverty and discrimination, social change, and popular uses of sociological concepts.\n",
     "instructor":"Monika Yadav",
     "scheduled_time_start":"9:00am",
     "scheduled_time_end":"12:10pm",
@@ -7247,7 +7525,7 @@
   {
     "course_code":"SOCI S2220",
     "course_title":"EVALUATION OF EVIDENCE",
-    "course_descr":null,
+    "course_descr":"Discussion of the logic and procedures of social science research and standards for the critical evaluation of that research based on a careful reading and analysis of significant studies exemplifying the use of different kinds of social science data and methods (field observations, historical archives, surveys, and experiments). No mathematical or statistical background is required.\n",
     "instructor":"Timothy J Ittner",
     "scheduled_time_start":"1:00pm",
     "scheduled_time_end":"4:10pm",
@@ -7273,7 +7551,7 @@
   {
     "course_code":"SOCI S3225",
     "course_title":"SOCIOLOGY OF EDUCATION",
-    "course_descr":null,
+    "course_descr":"All of us have spent many years in school and understand that schools impact our lives in important ways. But how exactly does formal schooling shape young people? And how do students make sense of their lives in the context of schools and educational systems more broadly? In this class we will examine education as a central institution in modern society, and we will grapple with an important question: What role does education play in reinforcing or challenging broader patterns of social inequality and mobility? Particular emphasis will be placed on higher education as a critical site in which these processes take shape.\n",
     "instructor":"Dominic T Walker",
     "scheduled_time_start":"1:00pm",
     "scheduled_time_end":"4:10pm",
@@ -8503,7 +8781,7 @@
   {
     "course_code":"VIAR UN1702",
     "course_title":"INTRO DIGITAL PHOTOGRAPHY",
-    "course_descr":null,
+    "course_descr":"Since Walter Benjamin\u2019s concept of \u201cwork of art in the age of mechanical reproduction\u201d (1935), photography has been continuously changed by mechanical, and then digital, means of image capture and processing. This class explores the history of the image, as a global phenomenon that accompanied industrialization, conflict, racial reckonings, and decolonization. Students will study case studies, read critical essays, and get hands-on training in capture, workflow, editing, output, and display formats using digital equipment (e.g., DSLR camera) and software (e.g., Lightroom, Photoshop, Scanning Software). Students will complete weekly assignments, a midterm project, and a final project based on research and shooting assignments. No Prerequisites and no equipment needed. All enrolled students will be able to check out Canon EOS 5D DSLR Camera; receive an Adobe Creative Cloud license; and get access to Large Format Print service.\n\n",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
