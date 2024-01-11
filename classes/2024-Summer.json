@@ -2616,7 +2616,7 @@
   {
     "course_code":"FILM S3022",
     "course_title":"Flying Above the Towers: New York and th",
-    "course_descr":null,
+    "course_descr":"In \nThe Super Mario Bros. Movie\n, plumes of dust fill the New York City streets as the monster Bowser attacks the city. Mario, seemingly beaten, hides in a pizzeria. What inspires him to keep fighting? He sees himself in a TV ad for his plumbing business, wearing a superhero cape and flying next to the Freedom Tower. He finds solace in the representation of himself as a superhero and in a city that refused to concede that the game was over after 9\/11. Such a scene is emblematic of a seminar that will explore the superhero\u2019s relationship to the city\u2019s history and its traumas. Our eye will move between Hollywood blockbusters and global art cinema to help us mull how the superhero exemplifies, for some, the excesses of the U.S. during the global War on Terror. We will see Batman\u2019s alter-ego Bruce Wayne run towards what looks like an imploding World Trade Center on 9\/11 (\nBatman v Superman: Dawn of Justice\n) and witness the superhero framed as an ideological smokescreen for the callous administration of George W. Bush who used the attacks to justify an endless war (\nThe Broken Circle Breakdown\n).\n  \nWhile strongly focused on the post-9\/11 superhero and its links to New York City, the cross-media seminar will track the superhero\u2019s initial rise in popularity during the trauma of World War II. It will mobilize the archival resources of Columbia's Rare Book & Manuscript Library collections around the papers of noted \nX-Men \nwriter Chris Claremont, so students can read how the artist conceived of bringing histories around the Holocaust into his spectacular stories. Such dips into the archives will help us assess how such empowered figures offer surprising routes of representation for the disenfranchised. We will also consider the authoritarian possibilities of the vigilante Batman, situating Frank Miller\u2019s \nThe Dark Knight Returns\n against a cultural study that draws links between the comic and Bernhard Goetz who killed four black teenagers in a Manhattan subway in 1984. To further frame how the superhero serves as a potent means of socio-political critique, acclaimed artists and writers will be invited into the classroom. These include Paul Pope whose \nBatman: Year 100\n (2006) presents a dystopian superhero that allegorizes the oppressive aspects of the War on Terror\u2019s surveillance regime. A culminating field trip to the National September 11 Memorial Museum will be organized. There, students will visit \u201cThe World Trade Center ",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -2642,7 +2642,7 @@
   {
     "course_code":"FILM S3023",
     "course_title":"Comparative Study: Cinema and Video Game",
-    "course_descr":null,
+    "course_descr":"Cinema and videogames are moving-image-based media, and, especially over the past two decades, they have been credited with influencing each other. But how deep do their similarities actually go? In what way do the possibilities available to game developers differ from those available to filmmakers? How does each medium segment and present space, time, and action? What aesthetic effects are open to games that are not open to cinema, and vice versa? This course offers a comprehensive exploration of the dynamic relationship between cinema and video games. Through a combination of film screenings, gameplay, theoretical reading\/discussions, and practical assignments, students will examine the historical, cultural, aesthetic, and narrative connections between these two influential media forms. The course aims to foster an understanding of how cinema and video games intersect, inform, and influence one another, providing a unique perspective on storytelling techniques within these mediums. The course will culminate in a final presentation where students will adapt an existing intellectual property, preferably a film or TV show, into a video game (or vice versa), justifying their creative choices.\n\n",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -2668,7 +2668,7 @@
   {
     "course_code":"FILM S3815",
     "course_title":"Developing The Low Budget Film",
-    "course_descr":null,
+    "course_descr":"This class focuses on the role of a creative producer during development of low budget film. Students will learn the framework for identifying good stories and developing them into a 3-5 minute short screenplay. We will explore the fundamental aspects of script development and the collaborative relationship between a producer and writer during the development phase. Students will learn critical elements such as writing an effective logline, treatment, and screenplay, and how to provide constructive notes and script analysis thereafter. Through lectures, screenings, writing assignments, and discussions, students will complete the course having written a first draft of a\u00a0 short screenplay, revision and set of written notes as a producer.\n\n",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -4389,7 +4389,7 @@
   {
     "course_code":"HUMA S1121",
     "course_title":"MASTERPIECES OF WESTERN ART",
-    "course_descr":null,
+    "course_descr":"Equivalent to HUMA C1121 and F1121. Not a historical survey but an analytical study of masterpieces, including originals available in the metropolitan area. The chief purpose is to acquaint students with the experience of a work of art. A series of topics in the development of Western art, selected to afford a sense of the range of expressive possibilities in painting, sculpture, and architecture, such as the Parthenon, the Gothic cathedral, and works of Michelangelo, Bruegel, Picasso, and others. Space is limited. Columbia University undergraduates who need this course for graduation are encouraged to register during early registration.\n",
     "instructor":"Leslie Tait",
     "scheduled_time_start":"9:00am",
     "scheduled_time_end":"12:10pm",
@@ -4406,7 +4406,12 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "F1121"
+      ],
+      [
+        "HUMA C1121"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20242HUMA1121S025",
@@ -8958,7 +8963,7 @@
   {
     "course_code":"SUMA PS4190",
     "course_title":"ECONOMICS OF SUSTAINABILITY MANAGEMENT",
-    "course_descr":null,
+    "course_descr":"This course builds on core economics courses and addresses issues of environmental, resource and sustainable economics. It focuses on the interaction between markets and the environment; policy issues related to optimal extraction and pricing; property rights in industrial and developing countries and how they affect international trade in goods such as timber, wood pulp, and oil. An important goal of the class is to have students work in groups to apply economic concepts to current public policy issues having to do with urban environmental and earth systems. The use of the worlds water bodies and the atmosphere as economic inputs to production are also examined. The economics of renewable resources is described and sustainable economic development models are discussed and analyzed. Some time will also be devoted to international trade and regulation, and industrial organization issues. Students not only learn economic concepts, but they will also learn how to explain them to decision-makers. The instructor will tailor this course to the skill level of the students in order to most effectively suit the needs of the class.\n\n",
     "instructor":"Alexander Heil",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -8972,7 +8977,9 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SUMA\/K4190-20242-AU1\/",
     "location":"OTHR OTHER",
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "Audit Program"
+    ],
     "points":"3",
     "prerequisites":[
 
