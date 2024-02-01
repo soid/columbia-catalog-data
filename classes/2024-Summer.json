@@ -4502,7 +4502,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":"MTWR",
+    "scheduled_days":"TWR",
     "section_key":"20242FREN2106S001",
     "type":"LECTURE"
   },
@@ -5972,7 +5972,7 @@
   {
     "course_code":"HUMA S1121",
     "course_title":"MASTERPIECES OF WESTERN ART",
-    "course_descr":null,
+    "course_descr":"Equivalent to HUMA C1121 and F1121. Not a historical survey but an analytical study of masterpieces, including originals available in the metropolitan area. The chief purpose is to acquaint students with the experience of a work of art. A series of topics in the development of Western art, selected to afford a sense of the range of expressive possibilities in painting, sculpture, and architecture, such as the Parthenon, the Gothic cathedral, and works of Michelangelo, Bruegel, Picasso, and others. Space is limited. Columbia University undergraduates who need this course for graduation are encouraged to register during early registration.\n",
     "instructor":"Rachel F Himes",
     "scheduled_time_start":"9:00am",
     "scheduled_time_end":"12:10pm",
@@ -5989,7 +5989,12 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "F1121"
+      ],
+      [
+        "HUMA C1121"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20242HUMA1121S027",
