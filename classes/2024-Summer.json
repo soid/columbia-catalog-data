@@ -1423,7 +1423,7 @@
   {
     "course_code":"BUSI PS5010",
     "course_title":"MANAGING HUMAN BEHAVIOR IN THE ORGANIZAT",
-    "course_descr":null,
+    "course_descr":"Students will gain an overview of major concepts of management and organization theory, concentrating on understanding human behavior in organizational contexts, with heavy emphasis on the application of concepts to solve managerial problems. By the end of this course students will have developed the skills to motivate employees, establish professional interpersonal relationships, take a leadership role, and conduct performance appraisal.\n\n",
     "instructor":"Jacqueline Strayer",
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"2:00pm",
@@ -1451,7 +1451,7 @@
   {
     "course_code":"BUSI PS5010",
     "course_title":"MANAGING HUMAN BEHAVIOR IN THE ORGANIZAT",
-    "course_descr":null,
+    "course_descr":"Students will gain an overview of major concepts of management and organization theory, concentrating on understanding human behavior in organizational contexts, with heavy emphasis on the application of concepts to solve managerial problems. By the end of this course students will have developed the skills to motivate employees, establish professional interpersonal relationships, take a leadership role, and conduct performance appraisal.\n\n",
     "instructor":"Young Mi Park",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -1479,7 +1479,7 @@
   {
     "course_code":"BUSI PS5020",
     "course_title":"INTRODUCTION TO MARKETING",
-    "course_descr":null,
+    "course_descr":"Students will learn fundamental marketing concepts and their application. By the end of this class you will know: the elements of a market, company strategy, how to identify customers and competition, the fundamental elements of the marketing mix (product, price, placement and promotion) how to research consumer behavior, and pricing strategies. Students will have extensive use of case study projects. Please note that there are separate online and in-person versions of the course, and the modalities offered may vary by semester. Be sure to check the modalities of the sections offered and enroll in the correct modality for your situation.\u00a0\n\n",
     "instructor":"Andrew Blum",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -1507,7 +1507,7 @@
   {
     "course_code":"BUSI PS5025",
     "course_title":"MARKETING STRATEGY",
-    "course_descr":null,
+    "course_descr":"Prerequisites: BUSI PS5020 Introduction to Marketing\/or Professor Approval is required Students will develop analytical skills used to formulate and implement marketing driven strategies for an organization. Students will develop a deeper understanding of marketing strategies and how to implement tactics to achieve desired goals. Students will work on case study projects in both individual and a team based projects. By the end of this course you will be able to develop a marketing strategy based market assessments and company needs.\n\n",
     "instructor":"Sandy Becker",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -1526,7 +1526,9 @@
     ],
     "points":"3",
     "prerequisites":[
-
+      [
+        "BUSI PS5020"
+      ]
     ],
     "scheduled_days":"M",
     "section_key":"20242BUSI5025K001",
@@ -1535,7 +1537,7 @@
   {
     "course_code":"BUSI PS5030",
     "course_title":"ENTREPRENEURSHIP: DEVELOP\/IMPLEMENT NEW",
-    "course_descr":null,
+    "course_descr":"This course is designed for students interested in entrepreneurship and becoming CEO\/Founders or leaders in industry as innovators and operators. The class is appropriate for those with a strong interest in new ventures or innovation at the corporate level, or for those who want to develop an entrepreneurial mindset even if you have no plans to start a business. This includes potential entrepreneurs, those interested in the financing of new ventures, working in new ventures, or a portfolio company, or in broader general management of entrepreneurial firms. Entrepreneurial topics include: the entrepreneurial journey, founders & co-founders, the art of the pitch, shaping opportunities, traditional business models, business models for the greater good, the lean startup method and the hypothesis-driven approach, technology strategy, product testing, marketing strategy, entrepreneurial marketing, venture financing and emerging developments. Academic readings, analysis of case studies, class discussions, independent exercises, reading assessments, team work, guest speakers, investor panels, weekly deliverable options and a final investor pitch are the main modalities used to help you learn and assist you on your entrepreneurial path. There are no prerequisites for this course.\n\n",
     "instructor":"Michael E Jr McGuire",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -1563,7 +1565,7 @@
   {
     "course_code":"BUSI PS5040",
     "course_title":"SECURITY ANALYSIS",
-    "course_descr":null,
+    "course_descr":"Prerequisites: BUSI PS5001 Intro to Finance and BUSI PS5003 Corporate Finance or Professor Approval required. If you have not taken PS5001 or PS5003 at Columbia University, please contact the course instructor for approval. Students will learn about the valuation of publicly traded equity securities. By the end of the semester students will be able to perform fundamental analysis (bottoms-up, firm-level, business and financial analysis), prepare pro forma financial statements, estimate free cash flows and apply valuation models.\n\n",
     "instructor":"Mario Gonzalez-Corzo",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -1582,7 +1584,14 @@
     ],
     "points":"3",
     "prerequisites":[
-
+      [
+        "BUSI PS5001"
+      ],
+      [
+        "BUSI PS5003",
+        "PS5001",
+        "PS5003"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20242BUSI5040K001",
