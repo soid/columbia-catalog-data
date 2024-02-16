@@ -16,7 +16,11 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ACCT\/B8007-20242-001\/",
     "location":"640 GEFFEN HALL",
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "Business",
+      "Engineering:Graduate",
+      "Journalism"
+    ],
     "points":"1.5",
     "prerequisites":[
 
@@ -43,7 +47,9 @@
     "location":"390 GEFFEN HALL",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Business"
+      "Business",
+      "Engineering:Graduate",
+      "Journalism"
     ],
     "points":"3",
     "prerequisites":[
@@ -1296,6 +1302,34 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"ARCH A1003",
+    "course_title":"INTRODUCTION TO ARCHITECTURE",
+    "course_descr":null,
+    "instructor":"Danielle S Smoller",
+    "scheduled_time_start":"2:00pm",
+    "scheduled_time_end":"5:00pm",
+    "call_number":"11872",
+    "campus":"Morningside",
+    "class_id":"A1003-20242-001",
+    "course_subtitle":"INTRODUCTION TO ARCHITECT",
+    "department":"Architecture, Planning and Preservation",
+    "department_code":"ARCH",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ARCH\/A1003-20242-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MTWR",
+    "section_key":"20242ARCH1003A001",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"ARCH A4050",
     "course_title":"ARCH ELECTIVE INTERNSHIP",
     "course_descr":null,
@@ -1350,6 +1384,174 @@
     "scheduled_days":null,
     "section_key":"20242ARCH4080A001",
     "type":"INTERNSHIP"
+  },
+  {
+    "course_code":"ARCH A4126",
+    "course_title":"COMPUTATIONAL DRAWING",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11865",
+    "campus":"Morningside",
+    "class_id":"A4126-20242-001",
+    "course_subtitle":null,
+    "department":"Architecture, Planning and Preservation",
+    "department_code":"ARCH",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ARCH\/A4126-20242-001\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Architecture"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242ARCH4126A001",
+    "type":"ONLINE COURS"
+  },
+  {
+    "course_code":"ARCH A4128",
+    "course_title":"PROGRAMMING FOR DESIGN PRACTICES",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11866",
+    "campus":"Morningside",
+    "class_id":"A4128-20242-001",
+    "course_subtitle":"PROGRAMMING FOR DESIGN PR",
+    "department":"Architecture, Planning and Preservation",
+    "department_code":"ARCH",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ARCH\/A4128-20242-001\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Architecture"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242ARCH4128A001",
+    "type":"ONLINE COURS"
+  },
+  {
+    "course_code":"ARCH A4144",
+    "course_title":"METHODS AS PRACTICES",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"12:00pm",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"11868",
+    "campus":"Morningside",
+    "class_id":"A4144-20242-001",
+    "course_subtitle":null,
+    "department":"Architecture, Planning and Preservation",
+    "department_code":"ARCH",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ARCH\/A4144-20242-001\/",
+    "location":"300 S Buell Hall",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture"
+    ],
+    "points":"6",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MR",
+    "section_key":"20242ARCH4144A001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ARCH A4162",
+    "course_title":"COMPUTATIONAL MODELING",
+    "course_descr":null,
+    "instructor":"Luc B Wilson",
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"11:00am",
+    "call_number":"11869",
+    "campus":"Morningside",
+    "class_id":"A4162-20242-001",
+    "course_subtitle":null,
+    "department":"Architecture, Planning and Preservation",
+    "department_code":"ARCH",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ARCH\/A4162-20242-001\/",
+    "location":"600 Avery Hall",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TF",
+    "section_key":"20242ARCH4162A001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"ARCH A4163",
+    "course_title":"COMPUTATIONAL DESIGN WORKFLOWS",
+    "course_descr":null,
+    "instructor":"Celeste S Layne",
+    "scheduled_time_start":"6:30pm",
+    "scheduled_time_end":"8:30pm",
+    "call_number":"11870",
+    "campus":"Morningside",
+    "class_id":"A4163-20242-001",
+    "course_subtitle":"COMPUTATIONAL DESIGN WORK",
+    "department":"Architecture, Planning and Preservation",
+    "department_code":"ARCH",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ARCH\/A4163-20242-001\/",
+    "location":"300 S Buell Hall",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20242ARCH4163A001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"ARCH A4165",
+    "course_title":"MAPPING SYSTEMS",
+    "course_descr":null,
+    "instructor":"Carlo D Bailey",
+    "scheduled_time_start":"6:00pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"11871",
+    "campus":"Morningside",
+    "class_id":"A4165-20242-001",
+    "course_subtitle":null,
+    "department":"Architecture, Planning and Preservation",
+    "department_code":"ARCH",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ARCH\/A4165-20242-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20242ARCH4165A001",
+    "type":"SEMINAR"
   },
   {
     "course_code":"ARCH A4402",
@@ -1742,6 +1944,34 @@
     "scheduled_days":null,
     "section_key":"20242ARCH4853A010",
     "type":"TUTORIAL"
+  },
+  {
+    "course_code":"ARCH A6805",
+    "course_title":"MAPPING AND DATA",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11867",
+    "campus":"Morningside",
+    "class_id":"A6805-20242-001",
+    "course_subtitle":null,
+    "department":"Architecture, Planning and Preservation",
+    "department_code":"ARCH",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ARCH\/A6805-20242-001\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Architecture"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242ARCH6805A001",
+    "type":"ONLINE COURS"
   },
   {
     "course_code":"ARCH A6824",
@@ -2764,6 +2994,36 @@
     "type":"LABORATORY"
   },
   {
+    "course_code":"BUEC B8216",
+    "course_title":"ECONOMICS OF STRATEGIC BEHAVIOR",
+    "course_descr":"This course examines the underlying economics of successful business strategy: the strategic imperatives of competitive markets, the sources and dynamics of competitive advantage, managing competitive interactions, and the organizational implementation of business strategy.\nThe course combines case discussion and analysis (approximately two thirds) with lectures (one third).  The emphasis is on the ability to apply a small number of principles effectively and creatively, not the mastery of detailed aspects of the theory.  The course offers excellent background for all consultants, managers and corporate finance generalists.\n",
+    "instructor":"Wouter Dessein",
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"5:00pm",
+    "call_number":"11874",
+    "campus":"Morningside",
+    "class_id":"B8216-20242-001",
+    "course_subtitle":"ECONOMICS OF STRATEGIC BE",
+    "department":"Business Economics",
+    "department_code":"BUEC",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/BUEC\/B8216-20242-001\/",
+    "location":"390 GEFFEN HALL",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Business",
+      "Engineering:Graduate",
+      "Journalism"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MTWRU",
+    "section_key":"20242BUEC8216B001",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"BUEC B8776",
     "course_title":"Blockchain, Cryptocurrencies a",
     "course_descr":"Given the impact of technological tools and advancements in todays modern economy, it has become increasingly imperative for business professionals and professional graduate students to have a top-down understanding of some of the most relevant, applicable, and highly technical topics such as blockchain, cryptocurrencies, and digital tokens (among others). This course offers a comprehensive primer for those without any prior technical knowledge on the aforementioned subject matters, with a special focus on theory and practice and covering introductory- to intermediate-level content coverage. We will start by covering the basics and fundamental building blocks of the technological developments and innovations that made distributed systems and digital currencies such as blockchain and Bitcoin, respectively, possible. We will ultimately end the course on more complex topics and the latest research in the field, including the fundamental challenges to our existing economics and financial frameworks and the incumbent firms as well as potential solutions to such matters. Please note absence from the first day of class will result in automatic forfeiture of students' registration. Auditing is not permitted (no exceptions).\n",
@@ -2781,7 +3041,9 @@
     "location":"590 GEFFEN HALL",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Business"
+      "Business",
+      "Engineering:Graduate",
+      "Journalism"
     ],
     "points":"3",
     "prerequisites":[
@@ -3088,7 +3350,10 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/BUSI\/B8704-20242-001\/",
     "location":"440 GEFFEN HALL",
     "method_of_instruction":null,
-    "open_to":null,
+    "open_to":[
+      "Business",
+      "Journalism"
+    ],
     "points":"1.5",
     "prerequisites":[
 
@@ -3115,7 +3380,8 @@
     "location":"420 Kravis Hall",
     "method_of_instruction":null,
     "open_to":[
-      "Business"
+      "Business",
+      "Journalism"
     ],
     "points":"1.5",
     "prerequisites":[
@@ -3143,7 +3409,8 @@
     "location":"520 GEFFEN HALL",
     "method_of_instruction":null,
     "open_to":[
-      "Business"
+      "Business",
+      "Journalism"
     ],
     "points":"1.5",
     "prerequisites":[
@@ -4685,8 +4952,8 @@
     "course_title":"CAPSTONE",
     "course_descr":null,
     "instructor":"Gabriel Amor",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"5:10pm",
+    "scheduled_time_end":"7:00pm",
     "call_number":"11697",
     "campus":"Morningside",
     "class_id":"K5600-20242-D01",
@@ -4695,7 +4962,7 @@
     "department_code":"COMM",
     "instructor_wikipedia_link":null,
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMM\/K5600-20242-D01\/",
-    "location":null,
+    "location":"ONLINE ONLY",
     "method_of_instruction":"On-Line Only",
     "open_to":[
       "Professional Studies"
@@ -4704,7 +4971,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"T",
     "section_key":"20242COMM5600KD01",
     "type":"INDEPENDENT"
   },
@@ -4713,8 +4980,8 @@
     "course_title":"CAPSTONE",
     "course_descr":null,
     "instructor":"Patricia J Bauman",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"5:10pm",
+    "scheduled_time_end":"7:00pm",
     "call_number":"11698",
     "campus":"Morningside",
     "class_id":"K5600-20242-H01",
@@ -4723,7 +4990,7 @@
     "department_code":"COMM",
     "instructor_wikipedia_link":null,
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMM\/K5600-20242-H01\/",
-    "location":null,
+    "location":"ONLINE ONLY",
     "method_of_instruction":"Hybrid 20-79",
     "open_to":[
       "Professional Studies"
@@ -4732,7 +4999,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"W",
     "section_key":"20242COMM5600KH01",
     "type":"INDEPENDENT"
   },
@@ -5448,7 +5715,9 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/DROM\/B6102-20242-002\/",
     "location":"390 GEFFEN HALL",
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "Business"
+    ],
     "points":"1.5",
     "prerequisites":[
 
@@ -5474,13 +5743,71 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/DROM\/B6102-20242-001\/",
     "location":"390 GEFFEN HALL",
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "Business"
+    ],
     "points":"1.5",
     "prerequisites":[
 
     ],
     "scheduled_days":"TR",
     "section_key":"20242DROM6102B001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"DROM B6102",
+    "course_title":"OPERATIONS MANAGEMENT",
+    "course_descr":null,
+    "instructor":"Hannah Q Li",
+    "scheduled_time_start":"2:20pm",
+    "scheduled_time_end":"3:50pm",
+    "call_number":"11850",
+    "campus":"Morningside",
+    "class_id":"B6102-20242-003",
+    "course_subtitle":null,
+    "department":"Decision, Risk and Operations",
+    "department_code":"DROM",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/DROM\/B6102-20242-003\/",
+    "location":"520 GEFFEN HALL",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Business"
+    ],
+    "points":"1.5",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20242DROM6102B003",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"DROM B6102",
+    "course_title":"OPERATIONS MANAGEMENT",
+    "course_descr":null,
+    "instructor":"Hannah Q Li",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"5:40pm",
+    "call_number":"11851",
+    "campus":"Morningside",
+    "class_id":"B6102-20242-004",
+    "course_subtitle":null,
+    "department":"Decision, Risk and Operations",
+    "department_code":"DROM",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/DROM\/B6102-20242-004\/",
+    "location":"520 GEFFEN HALL",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Business"
+    ],
+    "points":"1.5",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20242DROM6102B004",
     "type":"LECTURE"
   },
   {
@@ -5513,6 +5840,36 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"DROM B8101",
+    "course_title":"Business Analytics II (Full Term)",
+    "course_descr":"This course extends and deepens the material you learned in business analytics. We will apply these methods in more unstructured and diverse situations, introduce new analytics tools and methods (including Tableau Visualization, text mining, and random forests), and study a modern framework for overfitting reduction called regularization that underlies much of modern machine learning. This course does not require coding or knowledge beyond Business Analytics, but the mathematical sophistication level will be somewhat more advanced.\n\n",
+    "instructor":"Charles R Guetta",
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"5:00pm",
+    "call_number":"11879",
+    "campus":"Morningside",
+    "class_id":"B8101-20242-001",
+    "course_subtitle":"Business Analytics II (FT",
+    "department":"Decision, Risk and Operations",
+    "department_code":"DROM",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/DROM\/B8101-20242-001\/",
+    "location":"590 GEFFEN HALL",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Business",
+      "Engineering:Graduate",
+      "Journalism"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MTWRU",
+    "section_key":"20242DROM8101B001",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"DROM B8106",
     "course_title":"Operations Strategy",
     "course_descr":"A firm's operations encompass all the activities that are performed in order to produce and deliver a product or a service. An operations strategy refers to a set of operational decisions that a firm makes to achieve a long-term competitive advantage. These decisions may be about the firms facilities, its technology\/process choices, its relationships with both upstream and downstream business partners etc. The goal of this course is to provide students with an understanding of how and why operational decisions are integral to a firms success. The course builds on concepts from the core Operations Management course and the core Strategy Formulation course. It is highly relevant to anyone whose work requires the strategic analysis of a firms operations, including those interested in consulting, entrepreneurship, mergers and acquisitions, private equity, investment analysis, and general management. The course consists of four modules. The first module, Strategic Alignment,\" explores the question of how a firms operations should be structured so as to be consistent with the firms chosen way to compete. The second module, \"Firm Boundaries,\" considers the question of what operational activities should remain in house and what should be done by a business partner and the long-term implications of these decisions on competitive advantage. This module also addresses the issue of managing the business relationships with supply chain partners. The third module, \"Internal Operations,\" considers key decision categories in operations, e.g., capacity decisions, process choices, IT implementation, and managing networks, and shows how these decisions can lead to distinctive capabilities. The final module, \"New Challenges,\" is set aside to address new topics that reflect the current trends in the business environment.\"\n",
@@ -5530,7 +5887,8 @@
     "location":"640 GEFFEN HALL",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Business"
+      "Business",
+      "Journalism"
     ],
     "points":"3",
     "prerequisites":[
@@ -5558,7 +5916,9 @@
     "location":"390 GEFFEN HALL",
     "method_of_instruction":null,
     "open_to":[
-      "Business"
+      "Business",
+      "Engineering:Graduate",
+      "Journalism"
     ],
     "points":"3",
     "prerequisites":[
@@ -5586,7 +5946,9 @@
     "location":"390 GEFFEN HALL",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Business"
+      "Business",
+      "Engineering:Graduate",
+      "Journalism"
     ],
     "points":"3",
     "prerequisites":[
@@ -5614,7 +5976,23 @@
     "location":"390 GEFFEN HALL",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Business"
+      "Architecture",
+      "Business",
+      "Columbia College",
+      "Dental Medicine",
+      "Dental Medicine:Post-Grad",
+      "Engineering:Graduate",
+      "Engineering:Undergraduate",
+      "GSAS",
+      "General Studies",
+      "Journalism",
+      "Medicine",
+      "Nursing",
+      "Professional Studies",
+      "Public Health",
+      "SIPA",
+      "Schools of the Arts",
+      "Social Work"
     ],
     "points":"1.5",
     "prerequisites":[
@@ -5642,7 +6020,9 @@
     "location":"420 GEFFEN HALL",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Business"
+      "Business",
+      "Engineering:Graduate",
+      "Journalism"
     ],
     "points":"1.5",
     "prerequisites":[
@@ -9978,8 +10358,8 @@
     "course_title":"TV WRITING",
     "course_descr":null,
     "instructor":"Danielle T Douge",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"1:00pm",
+    "scheduled_time_end":"4:10pm",
     "call_number":"10022",
     "campus":"Morningside",
     "class_id":"S4030-20242-001",
@@ -9988,14 +10368,14 @@
     "department_code":"FILM",
     "instructor_wikipedia_link":null,
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/FILM\/S4030-20242-001\/",
-    "location":null,
+    "location":"To be announced",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"3",
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"TR",
     "section_key":"20242FILM4030S001",
     "type":"WORKSHOP"
   },
@@ -10004,8 +10384,8 @@
     "course_title":"TV WRITING",
     "course_descr":null,
     "instructor":"Matthew R Fennell",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"1:00pm",
+    "scheduled_time_end":"4:10pm",
     "call_number":"10023",
     "campus":"Morningside",
     "class_id":"S4030-20242-002",
@@ -10014,14 +10394,14 @@
     "department_code":"FILM",
     "instructor_wikipedia_link":null,
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/FILM\/S4030-20242-002\/",
-    "location":null,
+    "location":"To be announced",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"3",
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"TR",
     "section_key":"20242FILM4030S002",
     "type":"WORKSHOP"
   },
@@ -10056,8 +10436,8 @@
     "course_title":"History of American Independent Film",
     "course_descr":"In this twice a week lecture, students will explore the history of independent film production and distribution in America, from the early 20th Century to the present. The course will look at all aspects and genres of independent cinema, from art films to exploitation films, and will examine the work of numerous filmmakers whose work either sprang from the independent world or remained there.\n  \nWe will pay particular attention to the unique things independent films can do, but studio films can't, such as: subject matter that addresses politics, race, or religion; unconventional approaches to form and structure; boldness in casting; storytelling that eschews formula; extremes of sexuality, violence, and language; representation of minorities and subcultures; and appeal to niche audiences.\u00a0\n  \nThe result will be a shadow history of the entire film industry, as students learn how innumerable innovations have migrated from independent experimentation to the cinematic mainstream. It's also a shadow history of the last 125 years, due to the immediacy of independent cinema, which often reflects the world with far less artifice and mediation than studio-produced movies.\n\n",
     "instructor":"Jack Lechner",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"10:00am",
+    "scheduled_time_end":"2:10pm",
     "call_number":"11504",
     "campus":"Morningside",
     "class_id":"S4040-20242-001",
@@ -10066,16 +10446,68 @@
     "department_code":"FILM",
     "instructor_wikipedia_link":null,
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/FILM\/S4040-20242-001\/",
-    "location":null,
+    "location":"To be announced",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"3",
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"MW",
     "section_key":"20242FILM4040S001",
     "type":"LECTURE"
+  },
+  {
+    "course_code":"FILM S4042",
+    "course_title":"Tech Arts | Post Production with Davinci",
+    "course_descr":"Tech Arts: Post Production delivers a practical introduction to the post production process, a vital part of filmmaking. The course will look at the process of moving efficiently from production to post production, the techniques of non-linear editing and ultimately the process of professionally finishing a film for modern distribution. Students will learn foundational post terminology, how to create the best workflow for your film, how to manage data\/footage in the edit room, and offline and online editing. Additionally, the class will cover other key steps in the post production process including audio syncing, transcoding, exporting and mastering. The hands-on lessons and exercises will be conducted using the industry-standard Non-Linear Editing System, Davinci Resolve, and will serve as a primer for other professional systems, including Adobe Premiere and Davinci Resolve. Each lecture will consist of hands-on demonstrations and self-paced practice using content created by the students and\/ or content provided by the program.\n\n",
+    "instructor":"Michael J Cacioppo Belantara",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11860",
+    "campus":"Morningside",
+    "class_id":"S4042-20242-001",
+    "course_subtitle":"Tech Arts: Post Prod Davi",
+    "department":"Summer Session (SUMM)",
+    "department_code":"FILM",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FILM\/S4042-20242-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"1.5",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242FILM4042S001",
+    "type":"WORKSHOP"
+  },
+  {
+    "course_code":"FILM S4043",
+    "course_title":"Tech Arts | Post Production with Avid Me",
+    "course_descr":"Tech Arts: Post Production delivers a practical introduction to the post production process, a vital part of filmmaking. The course will look at the process of moving efficiently from production to post production, the techniques of non-linear editing and ultimately the process of professionally finishing a film for modern distribution. Students will learn foundational post terminology, how to create the best workflow for your film, how to manage data\/footage in the edit room, and offline and online editing. Additionally, the class will cover other key steps in the post production process including audio syncing, transcoding, exporting and mastering. The hands-on lessons and exercises will be conducted using the industry-standard Non-Linear Editing System, Avid Media Composer, and will serve as a primer for other professional systems, including Adobe Premiere and Davinci Resolve. Each lecture will consist of hands-on demonstrations and self-paced practice using content created by the students and\/ or content provided by the program.\n\n",
+    "instructor":"Michael J Cacioppo Belantara",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11861",
+    "campus":"Morningside",
+    "class_id":"S4043-20242-001",
+    "course_subtitle":"Tech Arts: Post Prod Avid",
+    "department":"Summer Session (SUMM)",
+    "department_code":"FILM",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FILM\/S4043-20242-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"1.5",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242FILM4043S001",
+    "type":"WORKSHOP"
   },
   {
     "course_code":"FILM S4215",
@@ -10148,7 +10580,10 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/FINC\/B8306-20242-001\/",
     "location":"590 GEFFEN HALL",
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "Business",
+      "Journalism"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -10174,7 +10609,10 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/FINC\/B8306-20242-002\/",
     "location":"590 GEFFEN HALL",
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "Business",
+      "Journalism"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -10200,13 +10638,47 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/FINC\/B8307-20242-001\/",
     "location":"620 GEFFEN HALL",
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "Business",
+      "Engineering:Graduate",
+      "Journalism"
+    ],
     "points":"3",
     "prerequisites":[
 
     ],
     "scheduled_days":"FFMW",
     "section_key":"20242FINC8307B001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"FINC B8325",
+    "course_title":"Mergers & Acquisitions",
+    "course_descr":"This course is designed to be an applications oriented course and will draw heavily upon real world change of control case studies. The course builds on the prior courses in corporate finance. The course will not introduce significantly new finance principles or analytical techniques other than those to which the student has been exposed to previously in the prerequisite introductory courses in finance at Columbia. The course will seek to apply basic finance principles and analytical techniques to actual problems likely to be encountered by senior management of major corporations or those who are the advisors to such management in the context of an M&A transaction. At the conclusion of the course, the student will have gained an appreciation for the role M&A plays on today's corporate landscape and have formed an opinion as to whether or not an M&A transaction makes sense\" for the firm. The student should expect at the conclusion of this course to have gained a level of competency in M&A commensurate with an entry-level investment banking associate in M&A. Whether or not the student \"practices\" M&A, the course will afford the student with an insider's look into what is an undeniable major force on today's corporate landscape. Accordingly, students who are interested in investment banking, consulting, equity research, corporate development, corporate lending, strategic planning, private equity, leveraged finance, or proprietary trading many wish to consider this course.\"\n",
+    "instructor":"Donna M Hitscherich",
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"5:00pm",
+    "call_number":"11875",
+    "campus":"Morningside",
+    "class_id":"B8325-20242-001",
+    "course_subtitle":null,
+    "department":"Finance",
+    "department_code":"FINC",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FINC\/B8325-20242-001\/",
+    "location":"520 GEFFEN HALL",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Business",
+      "Engineering:Graduate",
+      "Journalism"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MTWRU",
+    "section_key":"20242FINC8325B001",
     "type":"LECTURE"
   },
   {
@@ -10226,7 +10698,11 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/FINC\/B8331-20242-001\/",
     "location":"590 GEFFEN HALL",
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "Business",
+      "Engineering:Graduate",
+      "Journalism"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -10252,7 +10728,10 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/FINC\/B8345-20242-001\/",
     "location":"390 GEFFEN HALL",
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "Business",
+      "Journalism"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -12994,6 +13473,62 @@
     "scheduled_days":null,
     "section_key":"20242IKNS5999K001",
     "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"IMGT PS5700",
+    "course_title":"DATA, TECHNOLOGY AND AI IN INSURANCE",
+    "course_descr":"Data AI and Technology in Insurance\u00a0\n\n",
+    "instructor":"Alejandro Zarate Santovena",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11880",
+    "campus":"Morningside",
+    "class_id":"K5700-20242-D01",
+    "course_subtitle":"DATA, TECH & AI IN INSURA",
+    "department":"Insurance Management",
+    "department_code":"IMGT",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/IMGT\/K5700-20242-D01\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242IMGT5700KD01",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"IMGT PS5800",
+    "course_title":"EMERGING RISK & INSURANCE TOPICS",
+    "course_descr":"Review current trendds in risk management and insurance.\u00a0\n\n",
+    "instructor":"Teresa W Chan",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11881",
+    "campus":"Morningside",
+    "class_id":"K5800-20242-D01",
+    "course_subtitle":"EMERGING RSK & INSURNCE T",
+    "department":"Insurance Management",
+    "department_code":"IMGT",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/IMGT\/K5800-20242-D01\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242IMGT5800KD01",
+    "type":"LECTURE"
   },
   {
     "course_code":"INPS PS0115",
@@ -17552,6 +18087,314 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"PLAN A4543",
+    "course_title":"DEVELOPMENT PROCESS LAB",
+    "course_descr":null,
+    "instructor":"Aaron A Zeligs",
+    "scheduled_time_start":"2:00pm",
+    "scheduled_time_end":"5:00pm",
+    "call_number":"11852",
+    "campus":"Morningside",
+    "class_id":"A4543-20242-001",
+    "course_subtitle":null,
+    "department":"Architecture, Planning and Preservation",
+    "department_code":"PLAN",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PLAN\/A4543-20242-001\/",
+    "location":"113 Avery Hall",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20242PLAN4543A001",
+    "type":"LABORATORY"
+  },
+  {
+    "course_code":"PLAN A6050",
+    "course_title":"RED ELECTIVE INTERNSHIP",
+    "course_descr":null,
+    "instructor":"Rebecca A Andersen Polimeda",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11853",
+    "campus":"Morningside",
+    "class_id":"A6050-20242-001",
+    "course_subtitle":null,
+    "department":"Architecture, Planning and Preservation",
+    "department_code":"PLAN",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PLAN\/A6050-20242-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture"
+    ],
+    "points":"1.5",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242PLAN6050A001",
+    "type":"INTERNSHIP"
+  },
+  {
+    "course_code":"PLAN A6244",
+    "course_title":"IN THE FIELD",
+    "course_descr":null,
+    "instructor":"Robert O Garneau",
+    "scheduled_time_start":"12:00pm",
+    "scheduled_time_end":"2:00pm",
+    "call_number":"11854",
+    "campus":"Morningside",
+    "class_id":"A6244-20242-001",
+    "course_subtitle":null,
+    "department":"Architecture, Planning and Preservation",
+    "department_code":"PLAN",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PLAN\/A6244-20242-001\/",
+    "location":"209 Fayerweather",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture"
+    ],
+    "points":"1.5",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20242PLAN6244A001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"PLAN A6330",
+    "course_title":"SITE PLAN-SUPPRT SYSTM-DVLPMNT",
+    "course_descr":null,
+    "instructor":"Adam F Lubinsky",
+    "scheduled_time_start":"3:00pm",
+    "scheduled_time_end":"5:00pm",
+    "call_number":"11855",
+    "campus":"Morningside",
+    "class_id":"A6330-20242-001",
+    "course_subtitle":"SITE PLAN-SUPPRT SYSTM-DV",
+    "department":"Architecture, Planning and Preservation",
+    "department_code":"PLAN",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PLAN\/A6330-20242-001\/",
+    "location":"113 Avery Hall",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20242PLAN6330A001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"PLAN A6350",
+    "course_title":"DESIGN FOR DEVELOPMENT",
+    "course_descr":null,
+    "instructor":"William B McDaniel",
+    "scheduled_time_start":"6:00pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"11856",
+    "campus":"Morningside",
+    "class_id":"A6350-20242-001",
+    "course_subtitle":null,
+    "department":"Architecture, Planning and Preservation",
+    "department_code":"PLAN",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PLAN\/A6350-20242-001\/",
+    "location":"113 Avery Hall",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20242PLAN6350A001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"PLAN A6354",
+    "course_title":"POLTCL ENVIRONMNT OF DEVLOPMNT",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"6:00pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"11857",
+    "campus":"Morningside",
+    "class_id":"A6354-20242-001",
+    "course_subtitle":"POLTCL ENVIRONMNT OF DEVL",
+    "department":"Architecture, Planning and Preservation",
+    "department_code":"PLAN",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PLAN\/A6354-20242-001\/",
+    "location":"113 Avery Hall",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20242PLAN6354A001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"PLAN A6376",
+    "course_title":"THE DEALMAKING PROCESS",
+    "course_descr":null,
+    "instructor":"Mitchell D Adelstein",
+    "scheduled_time_start":"4:00pm",
+    "scheduled_time_end":"6:00pm",
+    "call_number":"11858",
+    "campus":"Morningside",
+    "class_id":"A6376-20242-001",
+    "course_subtitle":null,
+    "department":"Architecture, Planning and Preservation",
+    "department_code":"PLAN",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PLAN\/A6376-20242-001\/",
+    "location":"113 Avery Hall",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture"
+    ],
+    "points":"1.5",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20242PLAN6376A001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"PLAN A6753",
+    "course_title":"AFFORDABLE HOUSING IN THE US",
+    "course_descr":null,
+    "instructor":"Paul Weech",
+    "scheduled_time_start":"2:00pm",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"11859",
+    "campus":"Morningside",
+    "class_id":"A6753-20242-001",
+    "course_subtitle":"AFFORDABLE HOUSING IN THE",
+    "department":"Architecture, Planning and Preservation",
+    "department_code":"PLAN",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PLAN\/A6753-20242-001\/",
+    "location":"209 Fayerweather",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture"
+    ],
+    "points":"1.5",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20242PLAN6753A001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"PLAN A6793",
+    "course_title":"THE BUSINESS OF DEVELOPMENT",
+    "course_descr":null,
+    "instructor":"Shai Shamir",
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"11:00am",
+    "call_number":"11862",
+    "campus":"Morningside",
+    "class_id":"A6793-20242-001",
+    "course_subtitle":"THE BUSINESS OF DEVELOPME",
+    "department":"Architecture, Planning and Preservation",
+    "department_code":"PLAN",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PLAN\/A6793-20242-001\/",
+    "location":"113 Avery Hall",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture"
+    ],
+    "points":"1.5",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20242PLAN6793A001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"PLAN A6802",
+    "course_title":"ENVIRONMENTAL SUSTAINABILITY",
+    "course_descr":"In this course, students will study the drivers, goals, and market\u2019s progress in the evolution of green real estate development, investment, and operations. By acknowledging society\u2019s environmental priorities and real estate\u2019s financial prerequisites, this course teaches students to adopt a critical and value-enhancing approach to the use of the tools and strategies the industry is deploying to transform real estate markets to sustainability.\u00a0 Through this course, students will be able to distinguish between the tangible and intangible benefits\u2014from financial and environmental perspectives\u2014of green buildings. Students will learn how the widely adopted global and regional approaches to building green are evolving, and how a next-generation of innovates practices are advancing sustainability in real estate in the US and around the world.\n\n",
+    "instructor":"Stuart Brodsky",
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"11:00am",
+    "call_number":"11863",
+    "campus":"Morningside",
+    "class_id":"A6802-20242-001",
+    "course_subtitle":"ENVIRONMENTAL SUSTAINABIL",
+    "department":"Architecture, Planning and Preservation",
+    "department_code":"PLAN",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PLAN\/A6802-20242-001\/",
+    "location":"113 Avery Hall",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture"
+    ],
+    "points":"1.5",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20242PLAN6802A001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"PLAN A6835",
+    "course_title":"INTRO TO CAPITAL MARKETS",
+    "course_descr":null,
+    "instructor":"Brandon S Cook",
+    "scheduled_time_start":"3:00pm",
+    "scheduled_time_end":"5:00pm",
+    "call_number":"11864",
+    "campus":"Morningside",
+    "class_id":"A6835-20242-001",
+    "course_subtitle":null,
+    "department":"Architecture, Planning and Preservation",
+    "department_code":"PLAN",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PLAN\/A6835-20242-001\/",
+    "location":"209 Fayerweather",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture"
+    ],
+    "points":"1.5",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"F",
+    "section_key":"20242PLAN6835A001",
+    "type":"SEMINAR"
+  },
+  {
     "course_code":"PNTG PS0100",
     "course_title":"Painting Intensive",
     "course_descr":"\u00a0\u00a0\n\n",
@@ -17792,6 +18635,32 @@
     "scheduled_days":null,
     "section_key":"20242POLS1611S001",
     "type":"DISCUSSION"
+  },
+  {
+    "course_code":"POLS S3527",
+    "course_title":"CONTEMPORARY EUROPEAN POLITICS",
+    "course_descr":"Since WWII, in a stunning historical turnaround, much of Europe has gone from centuries of war to an increasingly inclusive project of peaceful and innovative regional cooperation. Yet, despite such apparent success, the EU has recently come to face countless challenges: the European democratic deficit, the Eurozone crisis, Brexit, Euro-skepticism, the Russian invasion of Ukraine. Some observers have even come to question the limits of European integration.\n  \n In this course, we will focus on the contemporary chapter of European politics, asking crucial questions of the integration process. How do national, intergovernmental, and supranational dynamics play out across policy areas? What are the colonial and neocolonial roots of European politics? How have European politics evolved in response to the many recent crises? What further developments should we expect? Will member states follow the path of ever-greater integration and eventually form a federation? Will the European Union fall apart? Will the integration project develop into a multi-speed, modular governance system?\n  \n With these questions in mind, this course will explore the politics of the European Union across a diverse array of policy domains. Building on a foundational two sessions on the history and structure of the EU, each week will tackle a core policy realm: the economy, migration, common security, foreign policy, the environment \u2013 to name a few. In doing so, the class reviews state-of-the-art political science research with the double objective of understanding the theoretical and empirical substance of academic studies and applying their insights to real-world political issues.\n\n",
+    "instructor":"Simone Paci",
+    "scheduled_time_start":"1:00pm",
+    "scheduled_time_end":"4:10pm",
+    "call_number":"11873",
+    "campus":"Morningside",
+    "class_id":"S3527-20242-001",
+    "course_subtitle":"CONTEMPORARY EUROPEAN POL",
+    "department":"Summer Session (SUMM)",
+    "department_code":"POLS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/POLS\/S3527-20242-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20242POLS3527S001",
+    "type":"LECTURE"
   },
   {
     "course_code":"POLS S3628",
@@ -20185,34 +21054,6 @@
     "type":"LANGUAGE"
   },
   {
-    "course_code":"SPRT O5250",
-    "course_title":"EMERGING AND NICHE SPORTS LEAGUES",
-    "course_descr":"The creation and maintenance of sports leagues is a nuanced and complex endeavor. This course examines the format, hierarchy, membership, governance, and operational efficiencies of several sports leagues that have been launched with varying levels of success. Through a combination of lectures, case studies and guest speakers, students will learn about the ideation, funding, legal aspects, marketing, media strategy and monetization of these businesses, both domestically and globally. Students will gather data about emerging sports leagues of the past and present and conduct research on the leagues of their choice. The culminating project in this course will be an original proposal by student groups of a new sports league, addressing all of the aforementioned dimensions in a formal presentation to potential \u2018investors.\u2019 Students will present their proposal via online video conference for instructor feedback following the block week. This course is ideal for students who have an interest in the structural and operational decisions that affect the success and sustainability of sports leagues and their members.\n \n This is an elective course for the M.S. program in Sports Management; students in the program may take this course when allowed by their curriculum requirements. Students outside of the Sports Management program may take this course upon approval of the Academic Program Director.\n\n",
-    "instructor":"Scott Rosner",
-    "scheduled_time_start":"9:00am",
-    "scheduled_time_end":"5:00pm",
-    "call_number":"11597",
-    "campus":"Morningside",
-    "class_id":"K5250-20242-001",
-    "course_subtitle":"EMERGING & NICHE SPORTS L",
-    "department":"Sports Management",
-    "department_code":"SPRT",
-    "instructor_wikipedia_link":null,
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SPRT\/K5250-20242-001\/",
-    "location":"To be announced",
-    "method_of_instruction":"In-Person",
-    "open_to":[
-      "Professional Studies"
-    ],
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"MTWRF",
-    "section_key":"20242SPRT5250K001",
-    "type":"LECTURE"
-  },
-  {
     "course_code":"SPRT PS5200",
     "course_title":"APPLIED BUSINESS INTEL FRAMEWORKS IN SPR",
     "course_descr":"This course will build on the topics and tactics covered in Business Intelligence in Sports to create a real-life learning lab where students can apply key concepts and expand their techniques against real data from a partner professional sports team. More advanced skills around SQL, Tableau, and R will be developed and applied to relevant scenarios using available data such as customer demographics, behaviors, tickets, attendance, social media, marketing, surveys, and sponsorships. Students will leave the class prepared to join a team\u2019s business intelligence department and make immediate contributions.\n\n",
@@ -20238,32 +21079,6 @@
     ],
     "scheduled_days":"W",
     "section_key":"20242SPRT5200KD01",
-    "type":"LECTURE"
-  },
-  {
-    "course_code":"SPRT PS5250",
-    "course_title":"EMERGING AND NICHE SPORTS LEAGUES",
-    "course_descr":"The creation and maintenance of sports leagues is a nuanced and complex endeavor. This course examines the format, hierarchy, membership, governance, and operational efficiencies of several sports leagues that have been launched with varying levels of success. Through a combination of lectures, case studies and guest speakers, students will learn about the ideation, funding, legal aspects, marketing, media strategy and monetization of these businesses, both domestically and globally. Students will gather data about emerging sports leagues of the past and present and conduct research on the leagues of their choice. The culminating project in this course will be an original proposal by student groups of a new sports league, addressing all of the aforementioned dimensions in a formal presentation to potential \u2018investors.\u2019 Students will present their proposal via online video conference for instructor feedback following the block week. This course is ideal for students who have an interest in the structural and operational decisions that affect the success and sustainability of sports leagues and their members.\n \n This is an elective course for the M.S. program in Sports Management; students in the program may take this course when allowed by their curriculum requirements. Students outside of the Sports Management program may take this course upon approval of the Academic Program Director.\n\n",
-    "instructor":null,
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
-    "call_number":"11849",
-    "campus":"Morningside",
-    "class_id":"K5250-20242-000",
-    "course_subtitle":"EMERGING & NICHE SPORTS L",
-    "department":"Sports Management",
-    "department_code":"SPRT",
-    "instructor_wikipedia_link":null,
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SPRT\/K5250-20242-000\/",
-    "location":null,
-    "method_of_instruction":"In-Person",
-    "open_to":null,
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":null,
-    "section_key":"20242SPRT5250K000",
     "type":"LECTURE"
   },
   {
@@ -21947,6 +22762,62 @@
     ],
     "scheduled_days":"MTWRF",
     "section_key":"20242WARS0100K001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"WMGT PS5500",
+    "course_title":"RETIREMENT PLANNING AND INSURANCE",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11882",
+    "campus":"Morningside",
+    "class_id":"K5500-20242-D01",
+    "course_subtitle":"RETIREMENT PLANNG & INSUR",
+    "department":"Wealth Management",
+    "department_code":"WMGT",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/WMGT\/K5500-20242-D01\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242WMGT5500KD01",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"WMGT PS5600",
+    "course_title":"Communication and the Client Experience",
+    "course_descr":null,
+    "instructor":"Aaron E Alley",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11883",
+    "campus":"Morningside",
+    "class_id":"K5600-20242-D01",
+    "course_subtitle":"Communication and the Cli",
+    "department":"Wealth Management",
+    "department_code":"WMGT",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/WMGT\/K5600-20242-D01\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242WMGT5600KD01",
     "type":"LECTURE"
   },
   {
