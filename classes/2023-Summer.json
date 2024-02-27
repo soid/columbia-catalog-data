@@ -5725,7 +5725,9 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/BMEN\/E3998-20232-001\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "Engineering:Undergraduate"
+    ],
     "points":"1-3",
     "prerequisites":[
 
@@ -5777,7 +5779,9 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/BMEN\/E3999-20232-001\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "Engineering:Undergraduate"
+    ],
     "points":"1-2",
     "prerequisites":[
 
@@ -6687,7 +6691,9 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/BMEN\/E4999-20232-001\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "Engineering:Graduate"
+    ],
     "points":"1-2",
     "prerequisites":[
 
@@ -6713,7 +6719,9 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/BMEN\/E9100-20232-002\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "Engineering:Graduate"
+    ],
     "points":"1-6",
     "prerequisites":[
 
@@ -6739,7 +6747,9 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/BMEN\/E9100-20232-001\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "Engineering:Graduate"
+    ],
     "points":"1-6",
     "prerequisites":[
 
@@ -6765,7 +6775,9 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/BMEN\/E9100-20232-003\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "Engineering:Graduate"
+    ],
     "points":"1-6",
     "prerequisites":[
 
@@ -6791,7 +6803,9 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/BMEN\/E9100-20232-004\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "Engineering:Graduate"
+    ],
     "points":"1-6",
     "prerequisites":[
 
@@ -45318,7 +45332,7 @@
   {
     "course_code":"PSYC S3950",
     "course_title":"SUPERVISED INDIVIDUAL RESEARCH",
-    "course_descr":"1-4 points. May be repeated for credit. Prerequisites: the instructors permission. Except by special permission of the director of undergraduate studies, no more than 4 points of individual research may be taken in any one term. This includes both PSYC UN3950 and PSYC UN3920. No more than 8 points ofPSYC UN3950 may be applied toward the psychology major, and no more than 4 points toward the concentration. Readings, special laboratory projects, reports, and special seminars on contemporary issues in psychological research and theory.\n",
+    "course_descr":"1-4 points. May be repeated for credit. Prerequisites: the instructors permission. Except by special permission of the director of undergraduate studies, no more than 4 points of individual research may be taken in any one term. This includes both PSYC UN3950 and PSYC UN3920. No more than 8 points ofPSYC UN3950 may be applied toward the psychology major, and no more than 4 points toward the concentration. Readings, special laboratory projects, reports, and special seminars on contemporary issues in psychological research and theory.\n\n",
     "instructor":"Patricia G Lindemann",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -45350,7 +45364,7 @@
   {
     "course_code":"PSYC S3950",
     "course_title":"SUPERVISED INDIVIDUAL RESEARCH",
-    "course_descr":"1-4 points. May be repeated for credit. Prerequisites: the instructors permission. Except by special permission of the director of undergraduate studies, no more than 4 points of individual research may be taken in any one term. This includes both PSYC UN3950 and PSYC UN3920. No more than 8 points ofPSYC UN3950 may be applied toward the psychology major, and no more than 4 points toward the concentration. Readings, special laboratory projects, reports, and special seminars on contemporary issues in psychological research and theory.\n",
+    "course_descr":"1-4 points. May be repeated for credit. Prerequisites: the instructors permission. Except by special permission of the director of undergraduate studies, no more than 4 points of individual research may be taken in any one term. This includes both PSYC UN3950 and PSYC UN3920. No more than 8 points ofPSYC UN3950 may be applied toward the psychology major, and no more than 4 points toward the concentration. Readings, special laboratory projects, reports, and special seminars on contemporary issues in psychological research and theory.\n\n",
     "instructor":"Patricia G Lindemann",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -49573,7 +49587,9 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/STAT\/G5398-20232-001\/",
     "location":null,
     "method_of_instruction":"On-Line Only",
-    "open_to":null,
+    "open_to":[
+      "GSAS"
+    ],
     "points":"0-1",
     "prerequisites":[
 
@@ -49599,7 +49615,9 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/STAT\/G5399-20232-001\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "GSAS"
+    ],
     "points":"1",
     "prerequisites":[
       [
@@ -50151,7 +50169,12 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/STAT\/W3107-20232-001\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "General Studies"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -51276,7 +51299,7 @@
     ],
     "scheduled_days":"S",
     "section_key":"20232TMGT5136KD01",
-    "type":"SEMINAR"
+    "type":"LECTURE"
   },
   {
     "course_code":"TMGT PS5139",

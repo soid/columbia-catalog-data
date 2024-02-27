@@ -685,7 +685,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":"MTW",
+    "scheduled_days":"MW",
     "section_key":"20242AHUM2901S001",
     "type":"LECTURE"
   },
@@ -3811,8 +3811,8 @@
     "course_title":"MANAGING HUMAN BEHAVIOR IN THE ORGANIZAT",
     "course_descr":"Students will gain an overview of major concepts of management and organization theory, concentrating on understanding human behavior in organizational contexts, with heavy emphasis on the application of concepts to solve managerial problems. By the end of this course students will have developed the skills to motivate employees, establish professional interpersonal relationships, take a leadership role, and conduct performance appraisal.\n\n",
     "instructor":"Jacqueline Strayer",
-    "scheduled_time_start":"12:10pm",
-    "scheduled_time_end":"2:00pm",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
     "call_number":"11506",
     "campus":"Morningside",
     "class_id":"K5010-20242-D01",
@@ -4642,6 +4642,136 @@
     "type":"LABORATORY"
   },
   {
+    "course_code":"CHEN E3899",
+    "course_title":"Research Training",
+    "course_descr":null,
+    "instructor":"Vivian F McNeill",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11946",
+    "campus":"Morningside",
+    "class_id":"E3899-20242-001",
+    "course_subtitle":null,
+    "department":"Chemical Engineering",
+    "department_code":"CHEN",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CHEN\/E3899-20242-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242CHEN3899E001",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"CHEN E3999",
+    "course_title":"UNDERGRADUATE FIELDWORK",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11943",
+    "campus":"Morningside",
+    "class_id":"E3999-20242-001",
+    "course_subtitle":null,
+    "department":"Chemical Engineering",
+    "department_code":"CHEN",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CHEN\/E3999-20242-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"1-2",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242CHEN3999E001",
+    "type":"FIELD WORK"
+  },
+  {
+    "course_code":"CHEN E4899",
+    "course_title":"Research Training",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11944",
+    "campus":"Morningside",
+    "class_id":"E4899-20242-001",
+    "course_subtitle":null,
+    "department":"Chemical Engineering",
+    "department_code":"CHEN",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CHEN\/E4899-20242-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242CHEN4899E001",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"CHEN E4999",
+    "course_title":"FIELDWORK",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11945",
+    "campus":"Morningside",
+    "class_id":"E4999-20242-001",
+    "course_subtitle":null,
+    "department":"Chemical Engineering",
+    "department_code":"CHEN",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CHEN\/E4999-20242-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"1-3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242CHEN4999E001",
+    "type":"FIELD WORK"
+  },
+  {
+    "course_code":"CHEN S3900",
+    "course_title":"UNDERGRADUATE RESEARCH PROJECT",
+    "course_descr":null,
+    "instructor":"Vivian F McNeill",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11947",
+    "campus":"Morningside",
+    "class_id":"S3900-20242-001",
+    "course_subtitle":"UNDERGRADUATE RESEARCH PR",
+    "department":"Chemical Engineering",
+    "department_code":"CHEN",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CHEN\/S3900-20242-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0-6",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242CHEN3900S001",
+    "type":"INDEPENDENT"
+  },
+  {
     "course_code":"CIEN E3999",
     "course_title":"FIELDWORK",
     "course_descr":"CEEM undergraduate students only. Written application must be made prior to registration outlining proposed internship\/study program. Final reports required. May not be taken for pass\/fail credit or audited. International students must also consult with the International Students and Scholars Office.\n\n",
@@ -5120,7 +5250,7 @@
     "department_code":"COMM",
     "instructor_wikipedia_link":null,
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMM\/K5245-20242-H01\/",
-    "location":"To be announced",
+    "location":"ONLINE ONLY",
     "method_of_instruction":"Hybrid 20-79",
     "open_to":[
       "Professional Studies"
@@ -5135,15 +5265,15 @@
   },
   {
     "course_code":"COMM PS5265",
-    "course_title":"STRATEGIC VISUAL COMMUNICATION",
-    "course_descr":"This course focuses on exploring and clarifying the value and role of strategic visual communications within today\u2019s broad business context. Through a combination of readings, case studies, class discussions, simulations, and media, students will recognize the importance visuals play in effective communications, gain insight into how visuals can help them to communicate more clearly and effectively, and understand the role of visuals in developing brands and marketing messages. In addition, students will build practical competencies in \u201cthe language of design\u201d that will increase their effectiveness in selecting, briefing, leading, and evaluating design resources and their creative work.\n\n",
+    "course_title":"VISUAL COMMUNICATION",
+    "course_descr":"This course gives students the foundational notions and design methods needed to collaborate with designers and amplify their work. Through practical assignments and workshops, students evaluate contemporary design practices and create their own design strategies. The course starts with the evolution of design and then transitions to a detailed review of principles of visual perception and core design elements within a contemporary framework. Through lectures, readings, and hands-on workshops, students learn about shape and form, color, font, imagery, and layout and practice their systematic application to branding, communications, and innovation.\n\n",
     "instructor":"Diego Kolsky",
     "scheduled_time_start":"8:10pm",
     "scheduled_time_end":"10:00pm",
     "call_number":"11696",
     "campus":"Morningside",
     "class_id":"K5265-20242-D01",
-    "course_subtitle":"STRATEGIC VISUAL COMMUNIC",
+    "course_subtitle":null,
     "department":"Strategic Communication",
     "department_code":"COMM",
     "instructor_wikipedia_link":null,
@@ -6594,7 +6724,7 @@
     "course_code":"ECON S3025",
     "course_title":"FINANCIAL ECONOMICS",
     "course_descr":"Prerequisites: STAT UN1201, ECON UN3211 Intermediate Microeconomics and ECON UN3213 Intermediate Macroeconomics. Equivalent to ECON UN3025. Institutional nature and economic function of financial markets. Emphasis on both domestic and international markets (debt, stock, foreign exchange, Eurobond, Eurocurrency, futures, options, and others). Principles of security pricing and portfolio management; the capital asset pricing model and the efficient markets hypothesis.\n\n",
-    "instructor":"Tamrat Gashaw",
+    "instructor":"A. Vivette Ancona",
     "scheduled_time_start":"9:00am",
     "scheduled_time_end":"12:10pm",
     "call_number":"10080",
@@ -6700,8 +6830,8 @@
     "course_title":"INDUSTRIAL ORGANIZATION",
     "course_descr":"Prerequisites: ECON UN3211 and ECON UN3213 The study of industrial behavior based on game-theoretic oligopoly models. Topics include pricing models, strategic aspects of business practice, vertical integration, and technological innovation.\n\n",
     "instructor":null,
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"12:10pm",
     "call_number":"10219",
     "campus":"Morningside",
     "class_id":"S4251-20242-001",
@@ -6710,7 +6840,7 @@
     "department_code":"ECON",
     "instructor_wikipedia_link":null,
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ECON\/S4251-20242-001\/",
-    "location":null,
+    "location":"To be announced",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"3",
@@ -6722,7 +6852,7 @@
         "ECON UN3213"
       ]
     ],
-    "scheduled_days":null,
+    "scheduled_days":"TR",
     "section_key":"20242ECON4251S001",
     "type":"LECTURE"
   },
@@ -6826,9 +6956,9 @@
     "course_code":"ECON S4500",
     "course_title":"INTERNATIONAL TRADE",
     "course_descr":"Prerequisites: ECON UN3211 and ECON UN3213. Equivalent to ECON UN4500. The theory of international trade, comparative advantage and the factor endowments explanation of trade, analysis of the theory and practice of commercial policy, economic integration. International mobility of capital and labor, the North-South debate.\n\n",
-    "instructor":null,
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "instructor":"Thu H Pham",
+    "scheduled_time_start":"1:00pm",
+    "scheduled_time_end":"4:10pm",
     "call_number":"10088",
     "campus":"Morningside",
     "class_id":"S4500-20242-001",
@@ -6837,7 +6967,7 @@
     "department_code":"ECON",
     "instructor_wikipedia_link":null,
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ECON\/S4500-20242-001\/",
-    "location":null,
+    "location":"To be announced",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"3",
@@ -6852,7 +6982,7 @@
         "ECON UN4500"
       ]
     ],
-    "scheduled_days":null,
+    "scheduled_days":"TR",
     "section_key":"20242ECON4500S001",
     "type":"LECTURE"
   },
@@ -6919,9 +7049,9 @@
     "course_code":"ECON UN3265",
     "course_title":"MONEY AND BANKING",
     "course_descr":"Prerequisites: ECON UN3211 and ECON UN3213\u00a0or the equivalent. Introduction to the principles of money and banking. The intermediary institutions of the American economy and their historical developments, current issues in monetary and financial reform.\n\n",
-    "instructor":null,
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "instructor":"Thu H Pham",
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"12:10pm",
     "call_number":"10083",
     "campus":"Morningside",
     "class_id":"V3265-20242-002",
@@ -6930,7 +7060,7 @@
     "department_code":"ECON",
     "instructor_wikipedia_link":null,
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ECON\/V3265-20242-002\/",
-    "location":null,
+    "location":"To be announced",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"3",
@@ -6942,7 +7072,7 @@
         "ECON UN3213"
       ]
     ],
-    "scheduled_days":null,
+    "scheduled_days":"MW",
     "section_key":"20242ECON3265V002",
     "type":"LECTURE"
   },
@@ -7029,8 +7159,8 @@
     "course_title":"Dinosaurs and the History of Life",
     "course_descr":"Dinosaurs \u00a0\nexplores how science works and provide practical knowledge about the history of life and how we have come to understand it. We learn how to analyze the evolutionary relationships of organisms and examine how dinosaurs came to be exemplars of a very successful group of organisms dominant on land for 140 million years. We will delve deeply into how direct descendants of small carnivorous theropod dinosaurs evolved into birds, still more diverse than mammals, dominating the air. The Mesozoic, a \u201chot-house world\u201d, with no ice caps and was the kind of world we are hurtling towards because of our input of greenhouse gases into the atmosphere, and we will look at how their time is a natural experiment for our future. The non-avian dinosaur met their end in a remarkable cataclysm discovered by detective work that we will delve deeply into as a paradigm of the scientific method\u00a0 Finally, they are fun and spectacular - monsters more fantastic than any person has invented in legend or religion - and they are still with us!\u00a0\u00a0\n\n",
     "instructor":"Paul E Olsen",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"1:00pm",
+    "scheduled_time_end":"4:10pm",
     "call_number":"10089",
     "campus":"Morningside",
     "class_id":"S1004-20242-001",
@@ -7039,14 +7169,14 @@
     "department_code":"EESC",
     "instructor_wikipedia_link":"https:\/\/en.wikipedia.org\/wiki\/Paul_E._Olsen",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/EESC\/S1004-20242-001\/",
-    "location":null,
+    "location":"To be announced",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"3",
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"MW",
     "section_key":"20242EESC1004S001",
     "type":"LECTURE"
   },
@@ -10409,6 +10539,36 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"ERMC PS5575",
+    "course_title":"THIRD-PARTY RISK MANAGEMENT",
+    "course_descr":"As organizations increasingly rely on external vendors and service providers, managing third-party risks becomes paramount to ensure operational resilience, regulatory compliance, and strategic success. Challenges include:\n  \n  \nThe evolving nature of technology risks.\n  \nThe impact of geopolitical tensions.\n  \nThe lessons learned from disruptive events like pandemics.\n \n  \nBy offering a comprehensive curriculum covering everything from the basics of vendor management to advanced predictive TPRM models and emphasizing regulatory requirements specific to the financial services sector, the course equips professionals with the knowledge and tools needed to navigate the intricate web of third-party relationships.\u00a0\nStudents taking this course are prohibited from taking Supply Chain Risk Management for Non-Financials (ERMC PS5585) at any time. Contact your advisor for more information.\n\n",
+    "instructor":"Shahryar Shaghaghi",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"11938",
+    "campus":"Morningside",
+    "class_id":"K5575-20242-001",
+    "course_subtitle":"THIRD-PARTY RISK MGMT",
+    "department":"Enterprise Risk Management",
+    "department_code":"ERMC",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ERMC\/K5575-20242-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+      [
+        "ERMC PS5585"
+      ]
+    ],
+    "scheduled_days":"M",
+    "section_key":"20242ERMC5575K001",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"ERMC PS5585",
     "course_title":"SUPPLY CHAIN RISK MANAGEMENT FOR NON-FIN",
     "course_descr":"The Pandemic made us all aware of the fragility of supply chains and how significant the consequences of failure of our supply chains can be. It is paramount to note that global and local economies can break down, and scarcity of essential resources can foment wars. Risk professionals must know what best practices bring security to supply chains and related companies, governments, and other institutions.\u00a0\nStudents taking this course are prohibited from taking Third-Party Risk Management (ERMC PS5575) at any time. Contact your advisor for more information.\n\n",
@@ -11196,7 +11356,7 @@
     "course_code":"FINC B7360",
     "course_title":"Impact Investing Seminar",
     "course_descr":"Impact investing has emerged in recent years as a high potential approach to long-term sustainable social and financial value creation. Although its basic business and investment theories do not differ substantially from that typical in established capital markets, there are unique and specific challenges to successful investment in social ventures. This finance elective will provide a detailed introduction to this developing sector of impact investing, equipping students with vital, practitioner-focused skills in the following areas: Development of social impact business models and selection of appropriate entity type Techniques for capitalizing both for-profit and non-profit social ventures, including investment, grants and organic reinvestment approaches. Assessment and measurement of impact, using a competitive advantage framework to compare social enterprises and determine best growth strategy. Legal and governance strategies to preserve mission-focus throughout organizational scale. This course is suitable for students interested either in impact investing as an investor or in social enterprises as an entrepreneur. It is also suitable for students wishing to learn about the impact investing and social enterprise space in general. Course material is taught from the perspectives of the company and the investor over the full organizational lifecycle.All students must possess strong financial skills and solid competence in Microsoft Excel. Experience of venture equity and debt financing methods is beneficial, but not essential. By the end of the course, students will have acquired understanding and skills in investment structuring for small and large enterprises, evaluating deal opportunities from financial and social returns perspectives, and structuring and operating impact investment funds.\n",
-    "instructor":"Faculty",
+    "instructor":"Richard M Lipkin",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"11909",
@@ -14792,7 +14952,7 @@
     "course_code":"ITAL S1202",
     "course_title":"INTERMEDIATE ITALIAN II",
     "course_descr":"Prerequisites: ITAL V1201 or W1201, or the equivalent. If you did not take Elementary Italian at Columbia in the semester preceding the current one, you must take the placement test, offered by the Italian Department at the beginning of each semester. A review of grammar, intensive reading, composition, and practice in conversation. Exploration of literary and cultural material. Lab: hours to be arranged. ITAL V1202 fulfils the basic foreign language requirement and prepares students for advanced study in Italian language and literature.\n",
-    "instructor":null,
+    "instructor":"Patrizia Palumbo",
     "scheduled_time_start":"4:30pm",
     "scheduled_time_end":"6:35pm",
     "call_number":"10168",
@@ -16837,9 +16997,9 @@
     "course_code":"NECR PS5109",
     "course_title":"Negotiation for Everyday Use",
     "course_descr":"In this course, we will explore negotiation from several points of view and approaches. We will also look at characteristics that impact the quality of our negotiations and the outcomes, such as the role of emotions, cultural considerations, effectiveness of our communication, and opportunities to seek out negotiation to transform relationships. The course will be a blend of concepts and skills, theory and practice. On some occasions, you will be introduced to a concept and then asked to apply those concepts in an experiential activity. At other times, you will be asked to engage the activity or simulation and then the concepts will be elicited based on your experience. You will have several opportunities to practice developing your skills throughout the course, in terms of enhancing your practice and honing your analytical and conceptual understanding.\n\n",
-    "instructor":null,
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "instructor":"Yxa J Bazan",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
     "call_number":"11685",
     "campus":"Morningside",
     "class_id":"K5109-20242-001",
@@ -16848,7 +17008,7 @@
     "department_code":"NECR",
     "instructor_wikipedia_link":null,
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/NECR\/K5109-20242-001\/",
-    "location":null,
+    "location":"To be announced",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Business",
@@ -16865,7 +17025,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"TW",
     "section_key":"20242NECR5109K001",
     "type":"SEMINAR"
   },
@@ -17128,8 +17288,8 @@
     "course_title":"CAPSTONE: NETWORKING & SUSTAINABILITY",
     "course_descr":null,
     "instructor":"Mark A Whitlock",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"5:00pm",
     "call_number":"11690",
     "campus":"Morningside",
     "class_id":"K6350-20242-D01",
@@ -17138,7 +17298,7 @@
     "department_code":"NECR",
     "instructor_wikipedia_link":null,
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/NECR\/K6350-20242-D01\/",
-    "location":null,
+    "location":"ONLINE ONLY",
     "method_of_instruction":"On-Line Only",
     "open_to":[
       "Professional Studies"
@@ -17147,7 +17307,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"R",
     "section_key":"20242NECR6350KD01",
     "type":"LECTURE"
   },
@@ -17542,6 +17702,32 @@
     "type":"INDEPENDENT"
   },
   {
+    "course_code":"NMED PS5995",
+    "course_title":"NARRATIVE MEDICINE INDEP STUDY",
+    "course_descr":null,
+    "instructor":"Nellie G Hermann",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11942",
+    "campus":"Morningside",
+    "class_id":"K5995-20242-005",
+    "course_subtitle":"NARRATIVE MEDICINE INDEP",
+    "department":"Narrative Medicine",
+    "department_code":"NMED",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NMED\/K5995-20242-005\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"1-4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242NMED5995K005",
+    "type":"INDEPENDENT"
+  },
+  {
     "course_code":"NMED PS5996",
     "course_title":"NARRATIVE MEDICINE INDEP STUDY",
     "course_descr":"Narrative Medicine Independent Study may be taken for one to four points (credits) depending on the work involved as determined with the advisor. Students may propose an Independent Study topic based on their past experience and future professional or academic goals, providing the opportunity for in-depth investigation of a particular topic of interest. Examples include: curriculum, program design, or program evaluation projects; creative projects; publishable articles, etc. Independent Study is not required for completion of the program.\n\n",
@@ -17567,34 +17753,6 @@
     ],
     "scheduled_days":null,
     "section_key":"20242NMED5996K001",
-    "type":"INDEPENDENT"
-  },
-  {
-    "course_code":"NMED PS5996",
-    "course_title":"NARRATIVE MEDICINE INDEP STUDY",
-    "course_descr":"Narrative Medicine Independent Study may be taken for one to four points (credits) depending on the work involved as determined with the advisor. Students may propose an Independent Study topic based on their past experience and future professional or academic goals, providing the opportunity for in-depth investigation of a particular topic of interest. Examples include: curriculum, program design, or program evaluation projects; creative projects; publishable articles, etc. Independent Study is not required for completion of the program.\n\n",
-    "instructor":"Nellie G Hermann",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
-    "call_number":"11664",
-    "campus":"Morningside",
-    "class_id":"K5996-20242-002",
-    "course_subtitle":"NARRATIVE MEDICINE INDEP",
-    "department":"Narrative Medicine",
-    "department_code":"NMED",
-    "instructor_wikipedia_link":null,
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NMED\/K5996-20242-002\/",
-    "location":null,
-    "method_of_instruction":"In-Person",
-    "open_to":[
-      "Professional Studies"
-    ],
-    "points":"1-4",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":null,
-    "section_key":"20242NMED5996K002",
     "type":"INDEPENDENT"
   },
   {
@@ -19278,6 +19436,32 @@
     "type":"STUDIO"
   },
   {
+    "course_code":"POAN PS5900",
+    "course_title":"Capstone in Political Analytics",
+    "course_descr":"The capstone course is the culminating experience for students in the Political Analytics program. Students will have the opportunity to tackle a complex, real-world political analytics challenge for a sponsoring organization. The capstone provides students with analytics experience in a \u201clive\u201d setting and is intended to expose students to the problems, timelines, and communications needs of actual political decision-makers.\u00a0Working in small teams while being mentored by a program faculty member, students will apply core knowledge, concepts, and frameworks acquired during the program and practice the hands-on skills they have developed in their classes. Throughout the semester, student project teams will interact with the sponsoring organizations as virtual consultants, scoping the problem, acquiring the data, conducting analyses, and ultimately presenting their findings and recommendations to the project sponsor.\n\n",
+    "instructor":"Michael Schwam-Baird",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"11939",
+    "campus":"Morningside",
+    "class_id":"K5900-20242-001",
+    "course_subtitle":"Capstone Political Analyt",
+    "department":"Political Analytics",
+    "department_code":"POAN",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/POAN\/K5900-20242-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20242POAN5900K001",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"POAN PS5995",
     "course_title":"Internship In POAN",
     "course_descr":"This course requires you to experience firsthand a program-related job in a real working environment. You will engage in personal, environmental and organizational reflection. The ideal Internship will provide you an opportunity to gain tangible and practical knowledge in your chosen field by taking on a position that is closely aligned with your coursework and professional interests. Before registering for this course, you must have completed the Internship Application Form in which you will describe your internship sponsor and provide details about the work that you will be doing. This form must be signed by your internship supervisor and approved by your program director BEFORE you register for this course.\n  \n\u00a0\n  \nTo receive instructor approval, the internship:\n  \n\u25cf Must provide an opportunity for the student to apply course concepts, either at the organizational or team level\n  \n\u25cf Must fit into the planned future program-related career path of the student\n  \nYou must identify your own internship opportunities. The internship must involve a commitment to completing a minimum of 210 hours over the semester.\n  \n\u00a0\n  \nAt the end of your course, you will submit an evaluation form to your internship supervisor. The evaluation form should be returned directly to the instructor\n\n",
@@ -20442,7 +20626,7 @@
   {
     "course_code":"PSYC S3950",
     "course_title":"SUPERVISED INDIVIDUAL RESEARCH",
-    "course_descr":"1-4 points. May be repeated for credit. Prerequisites: the instructors permission. Except by special permission of the director of undergraduate studies, no more than 4 points of individual research may be taken in any one term. This includes both PSYC UN3950 and PSYC UN3920. No more than 8 points ofPSYC UN3950 may be applied toward the psychology major, and no more than 4 points toward the concentration. Readings, special laboratory projects, reports, and special seminars on contemporary issues in psychological research and theory.\n",
+    "course_descr":"1-4 points. May be repeated for credit. Prerequisites: the instructors permission. Except by special permission of the director of undergraduate studies, no more than 4 points of individual research may be taken in any one term. This includes both PSYC UN3950 and PSYC UN3920. No more than 8 points ofPSYC UN3950 may be applied toward the psychology major, and no more than 4 points toward the concentration. Readings, special laboratory projects, reports, and special seminars on contemporary issues in psychological research and theory.\n\n",
     "instructor":"Patricia G Lindemann",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -20474,7 +20658,7 @@
   {
     "course_code":"PSYC S3950",
     "course_title":"SUPERVISED INDIVIDUAL RESEARCH",
-    "course_descr":"1-4 points. May be repeated for credit. Prerequisites: the instructors permission. Except by special permission of the director of undergraduate studies, no more than 4 points of individual research may be taken in any one term. This includes both PSYC UN3950 and PSYC UN3920. No more than 8 points ofPSYC UN3950 may be applied toward the psychology major, and no more than 4 points toward the concentration. Readings, special laboratory projects, reports, and special seminars on contemporary issues in psychological research and theory.\n",
+    "course_descr":"1-4 points. May be repeated for credit. Prerequisites: the instructors permission. Except by special permission of the director of undergraduate studies, no more than 4 points of individual research may be taken in any one term. This includes both PSYC UN3950 and PSYC UN3920. No more than 8 points ofPSYC UN3950 may be applied toward the psychology major, and no more than 4 points toward the concentration. Readings, special laboratory projects, reports, and special seminars on contemporary issues in psychological research and theory.\n\n",
     "instructor":"Patricia G Lindemann",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -21287,6 +21471,32 @@
     ],
     "scheduled_days":null,
     "section_key":"20242RSRH0001E001",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"RSRH GR0001",
+    "course_title":"FULL-TIME SUMMER RESEARCH APPT",
+    "course_descr":".\n\n",
+    "instructor":"Richard Slusarczyk",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11940",
+    "campus":"Morningside",
+    "class_id":"G0001-20242-001",
+    "course_subtitle":"FULL-TIME SUMMER RESEARCH",
+    "department":"Graduate School of Arts and Sciences",
+    "department_code":"RSRH",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/RSRH\/G0001-20242-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242RSRH0001G001",
     "type":"INDEPENDENT"
   },
   {
@@ -23170,6 +23380,34 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"SUMA PS5475",
+    "course_title":"Illuminating Sustainable Pathways with M",
+    "course_descr":"Material flow analysis (MFA) is a foundational tool for aiding decisions concerned with the physical aspects of sustainability. MFA fills crucial data gaps on the state of society\u2019s resource use and provides insights such as inefficiencies in urban systems, misallocation of useful products into landfill, risks in resource security, and business opportunities for enterprises.\u00a0\n  \nThese qualities make MFA a premiere tool for enabling the transition to a circular economy at the local, regional, national, and global levels.\u00a0\n  \nAs a topic embraced by the International Resource Panel of the United Nations Environment Program, MFA will equip students with a systems view and a versatile skill that will be instrumental for working on many sustainability topics, including a connection with advanced life cycle assessments. Students may particularly be fascinated by the ability of MFA to derive the material footprints of nations and to inform environmental policies. The addition of an MFA course to the Sustainability Management curriculum will contribute greatly to the program\u2019s track record of producing students that \u201ctransform organizations by formulating and implementing the sustainability strategies necessary to compete and win in the 21st century.\u201d\u00a0\n  \nThe skill is sought after especially in the European Union, where annual reporting of material accounts by member states is mandated. There is also increasing demand of MFA practitioners from local entities, most recently the municipal governments of Portland and Copenhagen, in support of their circular economy and sustainability initiatives.\n  \n\u00a0\n\n",
+    "instructor":null,
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"11941",
+    "campus":"Morningside",
+    "class_id":"K5475-20242-001",
+    "course_subtitle":"Material Flow Analysis",
+    "department":"Sustainability Management",
+    "department_code":"SUMA",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SUMA\/K5475-20242-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20242SUMA5475K001",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"SUMA PS5650",
     "course_title":"SOLAR PROJECT DEVELOPMENT",
     "course_descr":"TBA\n\n",
@@ -23584,7 +23822,35 @@
     ],
     "scheduled_days":null,
     "section_key":"20242TMGT5136KD01",
-    "type":"SEMINAR"
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"TMGT PS5136",
+    "course_title":"CYBERSECURITY STRAT & EXECUTIVE RESPONSE",
+    "course_descr":"Cybersecurity Strategy and Executive Response\n\n",
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11937",
+    "campus":"Morningside",
+    "class_id":"K5136-20242-001",
+    "course_subtitle":"CYBERSECURITY STRAT & EXEC RES",
+    "department":"Technology Management",
+    "department_code":"TMGT",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/TMGT\/K5136-20242-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242TMGT5136K001",
+    "type":"LECTURE"
   },
   {
     "course_code":"TMGT PS5180",
@@ -23810,7 +24076,7 @@
     "course_code":"VIAR S3411",
     "course_title":"PRINTMAKING I",
     "course_descr":"Introduction to the fundamentals of silkscreen techniques. Students gain familiarity with the technical processes of silkscreen and are encouraged to use the processes to develop their visual language. Students are involved in a great deal of drawing for assigned projects. Portfolio required at end.\n\n",
-    "instructor":null,
+    "instructor":"Valeria Guillen",
     "scheduled_time_start":"6:15pm",
     "scheduled_time_end":"9:25pm",
     "call_number":"10042",
@@ -23836,7 +24102,7 @@
     "course_code":"VIAR S3411",
     "course_title":"PRINTMAKING I",
     "course_descr":"Introduction to the fundamentals of silkscreen techniques. Students gain familiarity with the technical processes of silkscreen and are encouraged to use the processes to develop their visual language. Students are involved in a great deal of drawing for assigned projects. Portfolio required at end.\n\n",
-    "instructor":null,
+    "instructor":"Johanna G Velasquez",
     "scheduled_time_start":"6:15pm",
     "scheduled_time_end":"9:25pm",
     "call_number":"10043",
