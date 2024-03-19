@@ -8575,7 +8575,11 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/CLMT\/G5016-20242-001\/",
     "location":"To be announced",
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "GSAS",
+      "Professional Studies",
+      "SIPA"
+    ],
     "points":"1.5",
     "prerequisites":[
 
@@ -8601,7 +8605,11 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/CLMT\/G5031-20242-001\/",
     "location":"To be announced",
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "GSAS",
+      "Professional Studies",
+      "SIPA"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -8627,7 +8635,11 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/CLMT\/G5032-20242-001\/",
     "location":"To be announced",
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "GSAS",
+      "Professional Studies",
+      "SIPA"
+    ],
     "points":"1.5",
     "prerequisites":[
 
@@ -8813,7 +8825,11 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/CLMT\/G5018-20242-001\/",
     "location":"To be announced",
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "GSAS",
+      "Professional Studies",
+      "SIPA"
+    ],
     "points":"1.5",
     "prerequisites":[
 
@@ -26787,6 +26803,34 @@
     "type":"CLINIC"
   },
   {
+    "course_code":"NURS N6638",
+    "course_title":"Pediatric Emergencies",
+    "course_descr":"This course focuses on the assessment and management of urgent and emergent care for the pediatric client. Assessment, pathophysiology, differential diagnosis, and management of the pediatric client will be discussed. Strategies for management of these clients will require a synthesis of knowledge from the bio-pyscho-social, behavioral, and nursing sciences. Emphasis will be placed on integrating and educating the family regarding the acute care needs of the child. The student will understand the need to maintain continuity of care with the primary care provider.\n\n",
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12310",
+    "campus":"Health Science",
+    "class_id":"N6638-20242-001",
+    "course_subtitle":"ED PEDIATRIC EMERGENCIES",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N6638-20242-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242NURS6638N001",
+    "type":"SIMULATIONS"
+  },
+  {
     "course_code":"NURS N7102",
     "course_title":"Advanced Pharmacology for Non-Prescriber",
     "course_descr":"The goals of this course are to provide students with an advanced knowledge and understanding of the actions of drugs in order to enable them to use therapeutic agents in a rational and responsible manner in patients.\u00a0 Initially, basic principles of pharmacology will be reviewed, including absorption, distribution, metabolism, and excretion of drugs by the body.\u00a0 Topics will follow regarding principles of advanced clinical pharmacology.\u00a0 The focus of these lectures will be to demonstrate the therapeutic application of these advanced pharmacologic principles and how this translates into efficacy and potential toxicity.\n\n",
@@ -31505,32 +31549,6 @@
     "type":"FIELD WORK"
   },
   {
-    "course_code":"SOCW T6205",
-    "course_title":"SW PRACTICE WITH CHILDREN",
-    "course_descr":null,
-    "instructor":"Morgan Ritacco",
-    "scheduled_time_start":"5:00pm",
-    "scheduled_time_end":"7:30pm",
-    "call_number":"12264",
-    "campus":"Morningside",
-    "class_id":"T6205-20242-001",
-    "course_subtitle":null,
-    "department":"Social Work",
-    "department_code":"SOCW",
-    "instructor_wikipedia_link":null,
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SOCW\/T6205-20242-001\/",
-    "location":"To be announced",
-    "method_of_instruction":"In-Person",
-    "open_to":null,
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"W",
-    "section_key":"20242SOCW6205T001",
-    "type":"LECTURE"
-  },
-  {
     "course_code":"SOCW T6214",
     "course_title":"SW PRACTICE WITH FAMILIES",
     "course_descr":null,
@@ -31554,32 +31572,6 @@
     ],
     "scheduled_days":"T",
     "section_key":"20242SOCW6214TD20",
-    "type":"LECTURE"
-  },
-  {
-    "course_code":"SOCW T6416",
-    "course_title":"PROGRAM EVAL IN SOCIAL SVCS",
-    "course_descr":null,
-    "instructor":"David B Howard",
-    "scheduled_time_start":"7:00pm",
-    "scheduled_time_end":"9:30pm",
-    "call_number":"12266",
-    "campus":"Morningside",
-    "class_id":"T6416-20242-001",
-    "course_subtitle":"PROGRAM EVAL IN SOCIAL SV",
-    "department":"Social Work",
-    "department_code":"SOCW",
-    "instructor_wikipedia_link":null,
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SOCW\/T6416-20242-001\/",
-    "location":"To be announced",
-    "method_of_instruction":"In-Person",
-    "open_to":null,
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"W",
-    "section_key":"20242SOCW6416T001",
     "type":"LECTURE"
   },
   {
@@ -31817,32 +31809,6 @@
     "type":"LECTURE"
   },
   {
-    "course_code":"SOCW T660C",
-    "course_title":"TOPICS IN HUMAN BEHAVIOR AND THE SOCIAL",
-    "course_descr":null,
-    "instructor":"Zhanjie Si",
-    "scheduled_time_start":"8:00pm",
-    "scheduled_time_end":"10:30pm",
-    "call_number":"12277",
-    "campus":"Morningside",
-    "class_id":"T660C-20242-D20",
-    "course_subtitle":"MENTAL HEALTH STIGMA",
-    "department":"Social Work",
-    "department_code":"SOCW",
-    "instructor_wikipedia_link":null,
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SOCW\/T660C-20242-D20\/",
-    "location":"To be announced",
-    "method_of_instruction":"On-Line Only",
-    "open_to":null,
-    "points":"1.5",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"T",
-    "section_key":"20242SOCW660CTD20",
-    "type":"LECTURE"
-  },
-  {
     "course_code":"SOCW T7102",
     "course_title":"SOCIAL WORK PRACTICE II",
     "course_descr":null,
@@ -31918,32 +31884,6 @@
     ],
     "scheduled_days":"R",
     "section_key":"20242SOCW7102T003",
-    "type":"PRACTICA"
-  },
-  {
-    "course_code":"SOCW T7102",
-    "course_title":"SOCIAL WORK PRACTICE II",
-    "course_descr":null,
-    "instructor":"Gariy Livshits",
-    "scheduled_time_start":"1:30pm",
-    "scheduled_time_end":"5:00pm",
-    "call_number":"12281",
-    "campus":"Morningside",
-    "class_id":"T7102-20242-Z40",
-    "course_subtitle":null,
-    "department":"Social Work",
-    "department_code":"SOCW",
-    "instructor_wikipedia_link":null,
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SOCW\/T7102-20242-Z40\/",
-    "location":"To be announced",
-    "method_of_instruction":"On-Line Only",
-    "open_to":null,
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"R",
-    "section_key":"20242SOCW7102TZ40",
     "type":"PRACTICA"
   },
   {
@@ -32157,32 +32097,6 @@
     "type":"PRACTICA"
   },
   {
-    "course_code":"SOCW T7302",
-    "course_title":"SOCIAL WORK PRACTICE IN ALCOHOL AND SUBS",
-    "course_descr":null,
-    "instructor":"Andrew Hamid",
-    "scheduled_time_start":"1:00pm",
-    "scheduled_time_end":"3:30pm",
-    "call_number":"12290",
-    "campus":"Morningside",
-    "class_id":"T7302-20242-D20",
-    "course_subtitle":"SW PRAC ALCOHL & SUBSTANC",
-    "department":"Social Work",
-    "department_code":"SOCW",
-    "instructor_wikipedia_link":null,
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SOCW\/T7302-20242-D20\/",
-    "location":"To be announced",
-    "method_of_instruction":"On-Line Only",
-    "open_to":null,
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"M",
-    "section_key":"20242SOCW7302TD20",
-    "type":"LECTURE"
-  },
-  {
     "course_code":"SOCW T7305",
     "course_title":"HUMAN SEXUALITY",
     "course_descr":null,
@@ -32209,84 +32123,6 @@
     "type":"LECTURE"
   },
   {
-    "course_code":"SOCW T7311",
-    "course_title":"SW PRAC & GENDER-BASED VIOLENCE",
-    "course_descr":"Students examine the issue of violence against women and families. The demographics of the population, theories of domestic violence, crisis intervention, and short- and long-term clinical issues will be examined, as will service modalities for women victims and survivors, batterers, and their children.\n\n",
-    "instructor":"Carmen S Fajardo",
-    "scheduled_time_start":"8:00pm",
-    "scheduled_time_end":"10:30pm",
-    "call_number":"12292",
-    "campus":"Morningside",
-    "class_id":"T7311-20242-001",
-    "course_subtitle":"SW PRAC & GENDER-BASED VI",
-    "department":"Social Work",
-    "department_code":"SOCW",
-    "instructor_wikipedia_link":null,
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SOCW\/T7311-20242-001\/",
-    "location":"To be announced",
-    "method_of_instruction":"In-Person",
-    "open_to":null,
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"W",
-    "section_key":"20242SOCW7311T001",
-    "type":"LECTURE"
-  },
-  {
-    "course_code":"SOCW T7313",
-    "course_title":"DEMENTIA",
-    "course_descr":null,
-    "instructor":"Lia Marshall",
-    "scheduled_time_start":"7:00pm",
-    "scheduled_time_end":"9:30pm",
-    "call_number":"12293",
-    "campus":"Morningside",
-    "class_id":"T7313-20242-001",
-    "course_subtitle":null,
-    "department":"Social Work",
-    "department_code":"SOCW",
-    "instructor_wikipedia_link":null,
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SOCW\/T7313-20242-001\/",
-    "location":"To be announced",
-    "method_of_instruction":"In-Person",
-    "open_to":null,
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"R",
-    "section_key":"20242SOCW7313T001",
-    "type":"LECTURE"
-  },
-  {
-    "course_code":"SOCW T7320",
-    "course_title":"ADULT PSYCHPATH\/PATHWAY-WELLNS",
-    "course_descr":null,
-    "instructor":"Sarah E Strole",
-    "scheduled_time_start":"8:00pm",
-    "scheduled_time_end":"10:30pm",
-    "call_number":"12294",
-    "campus":"Morningside",
-    "class_id":"T7320-20242-D20",
-    "course_subtitle":"ADULT PSYCHPATH\/PATHWAY-W",
-    "department":"Social Work",
-    "department_code":"SOCW",
-    "instructor_wikipedia_link":null,
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SOCW\/T7320-20242-D20\/",
-    "location":"To be announced",
-    "method_of_instruction":"On-Line Only",
-    "open_to":null,
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"M",
-    "section_key":"20242SOCW7320TD20",
-    "type":"LECTURE"
-  },
-  {
     "course_code":"SOCW T7601",
     "course_title":"INTRODUCTION TO DBT SKILLS",
     "course_descr":"Dialectical Behavior Therapy (DBT) is an evidence-based treatment that was originally developed for chronically suicidal individuals and is now the gold standard treatment for Borderline Personality Disorder.\u00a0 The treatment and its adaptations have since been proven through research to be effective across a wide range of disorders and behavioral problems which have at their core the issue of Pervasive Emotion Dysregulation.\u00a0\u00a0 Students will be introduced to key theoretical concepts that inform the \u201cspirit\u201d of DBT, along with an overview of core treatment strategies as used within a DBT skills group.\u00a0This course is focused on DBT skills, and will provide students with a basic understanding of the four DBT skills modules (Core Mindfulness, Interpersonal Effectiveness, Emotional Regulation, Distress Tolerance). The focus will be on the revised and expanded DBT Skills Manual released in late 2014.\u00a0 Through course assignments and in-class activities, students will have an opportunity to learn the content of the skills, as well as how to structure and conduct a DBT skills group.\u00a0\u00a0 Students will develop a beginning understanding of standard comprehensive DBT, the particular function of each treatment component, (e.g., individual, group, consultation team, coaching) and how DBT skills relate to the other program components. The basic format of this\u00a0course will include the Instructor's presentation of concepts and principles, group discussion, modeling, role-plays, and technique coaching.\u00a0 As a practice elective, the major focus is on skill development.\u00a0 As such, students are expected participate fully in in-class practice exercises and be receptive to feedback from their classmates.\n\n",
@@ -32310,34 +32146,6 @@
     ],
     "scheduled_days":"T",
     "section_key":"20242SOCW7601T001",
-    "type":"SEMINAR"
-  },
-  {
-    "course_code":"SOCW T7602",
-    "course_title":"DIALECTICAL BEHAVIOR THERAPY PRACTICE",
-    "course_descr":"This class is the first required course in the Columbia University DBT Training Program and only open to students admitted to that program. It is designed to prepare students for intensive DBT training and for their DBT internships in the community and for ensuring that program interns are prepared for beginning DBT practice with client populations exhibiting a range of behavioral dysfunctions. These range from mild problems in living that may benefit from DBT skills training to more complex disorders, including suicidal behaviors, requiring comprehensive DBT. It is understood that students enter this program with varying levels of competence and experience in mental health practice and that ongoing individual assessment between the student and instructor play an ongoing role throughout the DBT Training Program, beginning in this class. Personal development as a clinician and personal practices that improve performance are an integral part of all these activities.\n\n",
-    "instructor":"John A Fredrickson",
-    "scheduled_time_start":"4:30pm",
-    "scheduled_time_end":"7:00pm",
-    "call_number":"12296",
-    "campus":"Morningside",
-    "class_id":"T7602-20242-001",
-    "course_subtitle":"DBT PRACTICE",
-    "department":"Social Work",
-    "department_code":"SOCW",
-    "instructor_wikipedia_link":null,
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SOCW\/T7602-20242-001\/",
-    "location":"To be announced",
-    "method_of_instruction":"In-Person",
-    "open_to":[
-      "Social Work"
-    ],
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"W",
-    "section_key":"20242SOCW7602T001",
     "type":"SEMINAR"
   },
   {
