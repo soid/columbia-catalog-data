@@ -9893,6 +9893,34 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"COMS W4701",
+    "course_title":"ARTIFICIAL INTELLIGENCE",
+    "course_descr":"Prior knowledge of Python is recommended. Provides a broad understanding of the basic techniques for building intelligent computer systems. Topics include state-space problem representations, problem reduction and and-or graphs, game playing and heuristic search, predicate calculus, and resolution theorem proving, AI systems and languages for knowledge representation, machine learning and concept formation and other topics such as natural language processing may be included as time permits.\n\n",
+    "instructor":"Tony B Dear",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12329",
+    "campus":"Video Network",
+    "class_id":"W4701-20242-V01",
+    "course_subtitle":null,
+    "department":"Video Network",
+    "department_code":"COMS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMS\/W4701-20242-V01\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Columbia Video Network"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242COMS4701WV01",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"COMS W4705",
     "course_title":"NATURAL LANGUAGE PROCESSING",
     "course_descr":"Computational approaches to natural language generation and understanding. Recommended preparation: some previous or concurrent exposure to AI or Machine Learning. Topics include information extraction, summarization, machine translation, dialogue systems, and emotional speech. Particular attention is given to robust techniques that can handle understanding and generation for the large amounts of text on the Web or in other large corpora. Programming exercises in several of these areas.\n\n",
@@ -9942,6 +9970,34 @@
     ],
     "scheduled_days":"TR",
     "section_key":"20242COMS4771W001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"COMS W4771",
+    "course_title":"MACHINE LEARNING",
+    "course_descr":"Topics from generative and discriminative machine learning including least squares methods, support vector machines, kernel methods, neural networks, Gaussian distributions, linear classification, linear regression, maximum likelihood, exponential family distributions, Bayesian networks, Bayesian inference, mixture models, the EM algorithm, graphical models and hidden Markov models. Algorithms implemented in MATLAB.\n\n",
+    "instructor":"Nakul Verma",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12330",
+    "campus":"Video Network",
+    "class_id":"W4771-20242-V01",
+    "course_subtitle":null,
+    "department":"Video Network",
+    "department_code":"COMS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMS\/W4771-20242-V01\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Columbia Video Network"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242COMS4771WV01",
     "type":"LECTURE"
   },
   {
@@ -10395,6 +10451,43 @@
     ],
     "scheduled_days":"TR",
     "section_key":"20242CSOR4231W001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"CSOR W4231",
+    "course_title":"ANALYSIS OF ALGORITHMS I",
+    "course_descr":"Prerequisites: (COMS W3134 or COMS W3136COMS W3137) and (COMS W3203) Introduction to the design and analysis of efficient algorithms. Topics include models of computation, efficient sorting and searching, algorithms for algebraic problems, graph algorithms, dynamic programming, probabilistic methods, approximation algorithms, and NP-completeness.\n\n",
+    "instructor":"Nakul Verma",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12331",
+    "campus":"Video Network",
+    "class_id":"W4231-20242-V01",
+    "course_subtitle":null,
+    "department":"Video Network",
+    "department_code":"CSOR",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CSOR\/W4231-20242-V01\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Columbia Video Network"
+    ],
+    "points":"3",
+    "prerequisites":[
+      [
+        "COMS W3134",
+        "COMS W3136"
+      ],
+      [
+        "COMS W3137"
+      ],
+      [
+        "COMS W3203"
+      ]
+    ],
+    "scheduled_days":null,
+    "section_key":"20242CSOR4231WV01",
     "type":"LECTURE"
   },
   {
@@ -12860,6 +12953,214 @@
     "scheduled_days":null,
     "section_key":"20242ELEN6999E008",
     "type":"FIELD WORK"
+  },
+  {
+    "course_code":"ENGI E0001",
+    "course_title":"Robotics and Autonomous Driving",
+    "course_descr":null,
+    "instructor":"Sinisa Vukelic",
+    "scheduled_time_start":"1:30pm",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"12332",
+    "campus":"Morningside",
+    "class_id":"E0001-20242-S01",
+    "course_subtitle":"ROBOTICS",
+    "department":"Engineering",
+    "department_code":"ENGI",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGI\/E0001-20242-S01\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MTWRF",
+    "section_key":"20242ENGI0001ES01",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGI E0001",
+    "course_title":"Robotics and Autonomous Driving",
+    "course_descr":null,
+    "instructor":"Sinisa Vukelic",
+    "scheduled_time_start":"1:30pm",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"12333",
+    "campus":"Morningside",
+    "class_id":"E0001-20242-S02",
+    "course_subtitle":"ROBOTICS",
+    "department":"Engineering",
+    "department_code":"ENGI",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGI\/E0001-20242-S02\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MTWRF",
+    "section_key":"20242ENGI0001ES02",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGI E0002",
+    "course_title":"Competitive Programming",
+    "course_descr":null,
+    "instructor":"Yongwhan Lim",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12334",
+    "campus":"Morningside",
+    "class_id":"E0002-20242-S01",
+    "course_subtitle":"Arts of Problem Solving",
+    "department":"Engineering",
+    "department_code":"ENGI",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGI\/E0002-20242-S01\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242ENGI0002ES01",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGI E0002",
+    "course_title":"Competitive Programming",
+    "course_descr":null,
+    "instructor":"Yongwhan Lim",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12335",
+    "campus":"Morningside",
+    "class_id":"E0002-20242-S02",
+    "course_subtitle":"Beyond the Basics",
+    "department":"Engineering",
+    "department_code":"ENGI",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGI\/E0002-20242-S02\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242ENGI0002ES02",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGI E0003",
+    "course_title":"Biomedical Engineering: Where Biology, M",
+    "course_descr":null,
+    "instructor":"Lauren N Heckelman",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12336",
+    "campus":"Morningside",
+    "class_id":"E0003-20242-S01",
+    "course_subtitle":"BIOMEDICAL ENGINEERING",
+    "department":"Engineering",
+    "department_code":"ENGI",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGI\/E0003-20242-S01\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242ENGI0003ES01",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGI E0003",
+    "course_title":"Biomedical Engineering: Where Biology, M",
+    "course_descr":null,
+    "instructor":"Lauren N Heckelman",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12337",
+    "campus":"Morningside",
+    "class_id":"E0003-20242-S02",
+    "course_subtitle":"BIOMEDICAL ENGINEERING",
+    "department":"Engineering",
+    "department_code":"ENGI",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGI\/E0003-20242-S02\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242ENGI0003ES02",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGI E0004",
+    "course_title":"Chemical Engineering: Material and Energ",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12338",
+    "campus":"Morningside",
+    "class_id":"E0004-20242-S02",
+    "course_subtitle":"CHEMICAL ENGINEERING",
+    "department":"Engineering",
+    "department_code":"ENGI",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGI\/E0004-20242-S02\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242ENGI0004ES02",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGI E0005",
+    "course_title":"Civil Engineering: Human Impact and the",
+    "course_descr":null,
+    "instructor":"Adrian Brugger",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12339",
+    "campus":"Morningside",
+    "class_id":"E0005-20242-S01",
+    "course_subtitle":"CIVIL ENGINEERING",
+    "department":"Engineering",
+    "department_code":"ENGI",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGI\/E0005-20242-S01\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242ENGI0005ES01",
+    "type":"LECTURE"
   },
   {
     "course_code":"ENGI E1006",
@@ -31574,7 +31875,7 @@
     "course_code":"SOCW T6012",
     "course_title":"Advanced Standing Practicum Seminar",
     "course_descr":"This seminar addresses the particular needs of Advanced Standing Students. The seminar provides a context and tools to deepen, critically reflect upon, and integrate each student's learning about the professional use of self in practice and the field. Also included is the review and exploration of professional social work identities within historical and current contexts, and an examination of the multiple professional identities that are inherent in all areas of social work practice.\n\n",
-    "instructor":null,
+    "instructor":"Richard T Hara",
     "scheduled_time_start":"2:00pm",
     "scheduled_time_end":"5:30pm",
     "call_number":"12261",
@@ -32236,7 +32537,7 @@
     "course_code":"SOCW T7105",
     "course_title":"Advanced Standing Integrative Seminar",
     "course_descr":null,
-    "instructor":null,
+    "instructor":"Janelle L Stanley",
     "scheduled_time_start":"9:00am",
     "scheduled_time_end":"12:30pm",
     "call_number":"12286",
@@ -34968,7 +35269,7 @@
     "course_code":"TMGT PS5136",
     "course_title":"CYBERSECURITY STRAT & EXECUTIVE RESPONSE",
     "course_descr":"Cybersecurity Strategy and Executive Response\n\n",
-    "instructor":"Lauren R Goodwin",
+    "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"11889",
