@@ -3932,34 +3932,6 @@
     "course_title":"Data Science and Machine Learning 2",
     "course_descr":"\u00a0 \u00a0\n\n",
     "instructor":null,
-    "scheduled_time_start":"8:00am",
-    "scheduled_time_end":"11:00am",
-    "call_number":"12140",
-    "campus":"Morningside",
-    "class_id":"K0105-20242-D02",
-    "course_subtitle":"Data Sci Machine Learning",
-    "department":"Pre-College Programs (SHSP)",
-    "department_code":"BIGD",
-    "instructor_wikipedia_link":null,
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/BIGD\/K0105-20242-D02\/",
-    "location":"To be announced",
-    "method_of_instruction":"On-Line Only",
-    "open_to":[
-      "Pre-College Programs"
-    ],
-    "points":"0",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"MTWRF",
-    "section_key":"20242BIGD0105KD02",
-    "type":"LECTURE"
-  },
-  {
-    "course_code":"BIGD PS0105",
-    "course_title":"Data Science and Machine Learning 2",
-    "course_descr":"\u00a0 \u00a0\n\n",
-    "instructor":null,
     "scheduled_time_start":"5:00pm",
     "scheduled_time_end":"8:00pm",
     "call_number":"12141",
@@ -11676,7 +11648,7 @@
   {
     "course_code":"ECON BC3033",
     "course_title":"INTERMEDTE MACROECONOMC THEORY",
-    "course_descr":null,
+    "course_descr":"(Description for summer and semester course)\n  \nPrerequisites: An introductory course in economics and a functioning knowledge of high school algebra and analytical geometry or permission of the instructor.\n  \nSystematic exposition of current macroeconomic theories of unemployment, inflation, and international financial adjustments.\n\n",
     "instructor":"Miguel Casares",
     "scheduled_time_start":"9:00am",
     "scheduled_time_end":"1:00pm",
@@ -11699,6 +11671,43 @@
     ],
     "scheduled_days":"MW",
     "section_key":"20242ECON3033X001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ECON BC3033",
+    "course_title":"INTERMEDTE MACROECONOMC THEORY",
+    "course_descr":null,
+    "instructor":"Miguel Casares",
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"1:00pm",
+    "call_number":"00083",
+    "campus":"Barnard College",
+    "class_id":"X3033-20242-002",
+    "course_subtitle":"INTERMEDTE MACROECONOMC T",
+    "department":"BARNARD SUMMER PROGRAMS",
+    "department_code":"ECON",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ECON\/X3033-20242-002\/",
+    "location":"To be announced",
+    "method_of_instruction":null,
+    "open_to":[
+      "Business",
+      "Columbia College",
+      "Engineering:Graduate",
+      "Engineering:Undergraduate",
+      "GSAS",
+      "General Studies",
+      "Professional Studies",
+      "SIPA",
+      "Schools of the Arts",
+      "Social Work"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20242ECON3033X002",
     "type":"LECTURE"
   },
   {
@@ -13394,7 +13403,7 @@
   {
     "course_code":"ENGI E0008",
     "course_title":"Data Science: Decoding the Secrets of Da",
-    "course_descr":null,
+    "course_descr":"DATA SCIENCE: Decoding the Secrets of Data\n\n",
     "instructor":"Yi Zhang",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -13416,6 +13425,58 @@
     "scheduled_days":null,
     "section_key":"20242ENGI0008ES02",
     "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGI E0010",
+    "course_title":"Moving Forward: Walking Robots",
+    "course_descr":null,
+    "instructor":"Yevgeniy Yesilevskiy",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12358",
+    "campus":"Morningside",
+    "class_id":"E0010-20242-S02",
+    "course_subtitle":"MOVING FORWARD: WALKING R",
+    "department":"Engineering",
+    "department_code":"ENGI",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGI\/E0010-20242-S02\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242ENGI0010ES02",
+    "type":"DISCUSSION"
+  },
+  {
+    "course_code":"ENGI E0010",
+    "course_title":"Moving Forward: Walking Robots",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12360",
+    "campus":"Morningside",
+    "class_id":"E0010-20242-S01",
+    "course_subtitle":"MOVING FORWARD: WALKING R",
+    "department":"Engineering",
+    "department_code":"ENGI",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGI\/E0010-20242-S01\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242ENGI0010ES01",
+    "type":"DISCUSSION"
   },
   {
     "course_code":"ENGI E1006",
