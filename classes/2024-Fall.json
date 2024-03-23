@@ -1308,7 +1308,7 @@
   {
     "course_code":"ANTH GR6171",
     "course_title":"PRE-ATLANTIC SLAVERY     AFRICA AND SOUT",
-    "course_descr":null,
+    "course_descr":"This seminar on pre-Atlantic Slavery in Africa and Asia will focus on the history of captivity and bondage in modern and the premodern Africa. Conceptually, what is the difference between a captive and a slave? How has captivity been central to the history of social difference and state formation in premodern Africa? By introducing the student to the history of trade in captives within Africa and across the Red Sea and the Indian Ocean, the student will be encouraged to rethink premodern Africa as central to premodern world history rather than marginal to it.\n\n",
     "instructor":"Mahmood Mamdani",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -13418,7 +13418,7 @@
   {
     "course_code":"ECON GR6211",
     "course_title":"MICROECONOMIC ANALYSIS I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: the director of graduate studies' permission. Corequisites: ECON G6410. Consumer and producer behavior; general competitive equilibrium, welfare and efficiency, behavior under uncertainty, intertemporal allocation and capital theory, imperfect competition, elements of game theory, problems of information, economies with price rigidities.\n",
     "instructor":null,
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:55pm",
@@ -13438,7 +13438,9 @@
     ],
     "points":"4",
     "prerequisites":[
-
+      [
+        "ECON G6410"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20243ECON6211G001",
@@ -13475,7 +13477,7 @@
   {
     "course_code":"ECON GR6215",
     "course_title":"MACROECONOMIC ANALYSIS I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: the director of graduate studies' permission. Concept of full employment. Models of underemployment and theory applicability, determinants of consumption and of investment, multiplier and accelerator analysis, an introduction to monetary macroeconomics, the supply side and inflation. Integration of macroeconomics with microeconomic and monetary analysis.\n",
     "instructor":null,
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -13637,7 +13639,7 @@
   {
     "course_code":"ECON GR6410",
     "course_title":"MATH METHODS FOR ECONOMISTS",
-    "course_descr":null,
+    "course_descr":"Prerequisites: multi-variable differential calculus, linear algebra and basic real analysis. Introduction to the mathematical techniques needed for the study of economics and econometric methods. Topics include the vector spaces, Hilbert spaces, Banach spaces, linear transformations; optimization theory, and linear differential and difference equations.\n",
     "instructor":"Hassan Afrouzi Khosroshahi",
     "scheduled_time_start":"8:40am",
     "scheduled_time_end":"9:55am",
@@ -13665,7 +13667,7 @@
   {
     "course_code":"ECON GR6411",
     "course_title":"INTRODUCTION TO ECONOMETRICS I",
-    "course_descr":null,
+    "course_descr":"Corequisites: ECON G6410 and the director of graduate studies' permission. Introduction to probability theory and statistical inference.\n",
     "instructor":null,
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:25pm",
@@ -13684,7 +13686,9 @@
     ],
     "points":"4",
     "prerequisites":[
-
+      [
+        "ECON G6410"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20243ECON6411G001",
@@ -14352,7 +14356,7 @@
   {
     "course_code":"ECON GU4213",
     "course_title":"ADVANCED MACROECONOMICS",
-    "course_descr":null,
+    "course_descr":"Prerequisites: ECON UN3211 and ECON UN3213 and ECON UN3412 and MATH UN2010 Required discussion section ECON GU4214 An introduction to the dynamic models used in the study of modern macroeconomics. Applications of the models will include theoretical issues such as optimal lifetime consumption decisions and policy issues such as inflation targeting. This course is strongly recommended for students considering graduate work in economics.\n",
     "instructor":"Hassan Afrouzi Khosroshahi",
     "scheduled_time_start":"5:40pm",
     "scheduled_time_end":"6:55pm",
@@ -14380,7 +14384,21 @@
     ],
     "points":"4",
     "prerequisites":[
-
+      [
+        "ECON GU4214"
+      ],
+      [
+        "ECON UN3211"
+      ],
+      [
+        "ECON UN3213"
+      ],
+      [
+        "ECON UN3412"
+      ],
+      [
+        "MATH UN2010"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20243ECON4213W001",
@@ -14389,7 +14407,7 @@
   {
     "course_code":"ECON GU4251",
     "course_title":"INDUSTRIAL ORGANIZATION",
-    "course_descr":null,
+    "course_descr":"Prerequisites: ECON UN3211 and ECON UN3213 The study of industrial behavior based on game-theoretic oligopoly models. Topics include pricing models, strategic aspects of business practice, vertical integration, and technological innovation.\n",
     "instructor":"Gautam Gowrisankaran",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:25pm",
@@ -14417,7 +14435,12 @@
     ],
     "points":"3",
     "prerequisites":[
-
+      [
+        "ECON UN3211"
+      ],
+      [
+        "ECON UN3213"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20243ECON4251W001",
@@ -14426,7 +14449,7 @@
   {
     "course_code":"ECON GU4260",
     "course_title":"MARKET DESIGN",
-    "course_descr":null,
+    "course_descr":"Prerequisites: ECON UN3211 and ECON UN3213 and STAT UN1201 This course uses modern microeconomic tools for understanding markets for indivisible resources and exploring ways to improve their design in terms of stability, efficiency and incentives. Lessons of market design will be applied to developing internet platforms for intermediating exchanges, for auctions to allocate sponsored search advertising, to allocate property rights such as public lands, radio spectrums, fishing rights, for assigning students to public schools, and for developing efficient kidney exchanges for transplantation.\n",
     "instructor":"Yeon-Koo Che",
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:55pm",
@@ -14443,7 +14466,15 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "ECON UN3211"
+      ],
+      [
+        "ECON UN3213"
+      ],
+      [
+        "STAT UN1201"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20243ECON4260W001",
@@ -14452,7 +14483,7 @@
   {
     "course_code":"ECON GU4280",
     "course_title":"CORPORATE FINANCE",
-    "course_descr":null,
+    "course_descr":"Prerequisites: ECON UN3211 and ECON UN3213 and STAT UN1201 An introduction to the economics principles underlying the financial decisions of firms. The topics covered include bond and stock valuations, capital budgeting, dividend policy, market efficiency, risk valuation, and risk management. For information regarding REGISTRATION for this course, go to: http:\/\/econ.columbia.edu\/registration-information.\n\n",
     "instructor":"Haran Segram",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -14475,7 +14506,15 @@
     ],
     "points":"3",
     "prerequisites":[
-
+      [
+        "ECON UN3211"
+      ],
+      [
+        "ECON UN3213"
+      ],
+      [
+        "STAT UN1201"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20243ECON4280W001",
@@ -14484,7 +14523,7 @@
   {
     "course_code":"ECON UN1105",
     "course_title":"PRINCIPLES OF ECONOMICS",
-    "course_descr":null,
+    "course_descr":"Corequisites: ECON UN1155 How a market economy determines the relative prices of goods, factors of production, and the allocation of resources and the circumstances under which it does it efficiently. Why such an economy has fluctuations and how they may becontrolled.\n",
     "instructor":"Sunil K Gulati",
     "scheduled_time_start":"8:40am",
     "scheduled_time_end":"9:55am",
@@ -14509,7 +14548,9 @@
     ],
     "points":"4",
     "prerequisites":[
-
+      [
+        "ECON UN1155"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20243ECON1105W001",
@@ -14518,7 +14559,7 @@
   {
     "course_code":"ECON UN1105",
     "course_title":"PRINCIPLES OF ECONOMICS",
-    "course_descr":null,
+    "course_descr":"Corequisites: ECON UN1155 How a market economy determines the relative prices of goods, factors of production, and the allocation of resources and the circumstances under which it does it efficiently. Why such an economy has fluctuations and how they may becontrolled.\n",
     "instructor":"Waseem Noor",
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:55pm",
@@ -14543,7 +14584,9 @@
     ],
     "points":"4",
     "prerequisites":[
-
+      [
+        "ECON UN1155"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20243ECON1105W002",
@@ -14552,7 +14595,7 @@
   {
     "course_code":"ECON UN1105",
     "course_title":"PRINCIPLES OF ECONOMICS",
-    "course_descr":null,
+    "course_descr":"Corequisites: ECON UN1155 How a market economy determines the relative prices of goods, factors of production, and the allocation of resources and the circumstances under which it does it efficiently. Why such an economy has fluctuations and how they may becontrolled.\n",
     "instructor":"Isaac B Bjorke",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -14577,7 +14620,9 @@
     ],
     "points":"4",
     "prerequisites":[
-
+      [
+        "ECON UN1155"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20243ECON1105W003",
@@ -14586,7 +14631,7 @@
   {
     "course_code":"ECON UN2105",
     "course_title":"THE AMERICAN ECONOMY",
-    "course_descr":null,
+    "course_descr":"Prerequisites: ECON UN1105 The course surveys issues of interest in the American economy, including economic measurement, well-being and income distribution, business cycles and recession, the labor and housing markets, saving and wealth, fiscal policy, banking and finance, and topics in central banking. We study historical issues, institutions, measurement, current performance and recent research.\n\n",
     "instructor":null,
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -14611,7 +14656,9 @@
     ],
     "points":"3",
     "prerequisites":[
-
+      [
+        "ECON UN1105"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20243ECON2105W001",
@@ -14646,7 +14693,7 @@
   {
     "course_code":"ECON UN3025",
     "course_title":"FINANCIAL ECONOMICS",
-    "course_descr":null,
+    "course_descr":"Prerequisites: ECON UN3211 and ECON UN3213 and STAT UN1201 Institutional nature and economic function of financial markets. Emphasis on both domestic and international markets (debt, stock, foreign exchange, eurobond, eurocurrency, futures, options, and others). Principles of security pricing and portfolio management; the Capital Asset Pricing Model and the Efficient Markets Hypothesis.\n",
     "instructor":null,
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:25pm",
@@ -14670,7 +14717,15 @@
     ],
     "points":"3",
     "prerequisites":[
-
+      [
+        "ECON UN3211"
+      ],
+      [
+        "ECON UN3213"
+      ],
+      [
+        "STAT UN1201"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20243ECON3025V001",
@@ -14679,7 +14734,7 @@
   {
     "course_code":"ECON UN3211",
     "course_title":"INTERMEDIATE MICROECONOMICS",
-    "course_descr":null,
+    "course_descr":"Prerequisites: ECON UN1105 and MATH UN1101 and (MATH UN1201 or MATH UN1207) The determination of the relative prices of goods and factors of production and the allocation of resources.\n",
     "instructor":"Susan M Elmes",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:25pm",
@@ -14707,7 +14762,16 @@
     ],
     "points":"4",
     "prerequisites":[
-
+      [
+        "ECON UN1105"
+      ],
+      [
+        "MATH UN1101"
+      ],
+      [
+        "MATH UN1201",
+        "MATH UN1207"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20243ECON3211W001",
@@ -14716,7 +14780,7 @@
   {
     "course_code":"ECON UN3211",
     "course_title":"INTERMEDIATE MICROECONOMICS",
-    "course_descr":null,
+    "course_descr":"Prerequisites: ECON UN1105 and MATH UN1101 and (MATH UN1201 or MATH UN1207) The determination of the relative prices of goods and factors of production and the allocation of resources.\n",
     "instructor":null,
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"7:25pm",
@@ -14744,7 +14808,16 @@
     ],
     "points":"4",
     "prerequisites":[
-
+      [
+        "ECON UN1105"
+      ],
+      [
+        "MATH UN1101"
+      ],
+      [
+        "MATH UN1201",
+        "MATH UN1207"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20243ECON3211W003",
@@ -14753,7 +14826,7 @@
   {
     "course_code":"ECON UN3213",
     "course_title":"INTERMEDIATE MACROECONOMICS",
-    "course_descr":null,
+    "course_descr":"Prerequisites: (MATH UN1101 or MATH UN1207) and ECON UN1105 or the equivalent. Corequisites: MATH UN1201 This course covers the determination of output, employment, inflation and interest rates. Topics include economic growth, business cycles, monetary and fiscal policy, consumption and savings and national income accounting.\n",
     "instructor":"Milien Gouin-Bonenfant",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:25pm",
@@ -14781,7 +14854,14 @@
     ],
     "points":"4",
     "prerequisites":[
-
+      [
+        "ECON UN1105",
+        "MATH UN1201"
+      ],
+      [
+        "MATH UN1101",
+        "MATH UN1207"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20243ECON3213W001",
@@ -14790,7 +14870,7 @@
   {
     "course_code":"ECON UN3213",
     "course_title":"INTERMEDIATE MACROECONOMICS",
-    "course_descr":null,
+    "course_descr":"Prerequisites: (MATH UN1101 or MATH UN1207) and ECON UN1105 or the equivalent. Corequisites: MATH UN1201 This course covers the determination of output, employment, inflation and interest rates. Topics include economic growth, business cycles, monetary and fiscal policy, consumption and savings and national income accounting.\n",
     "instructor":"Milien Gouin-Bonenfant",
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:55pm",
@@ -14818,7 +14898,14 @@
     ],
     "points":"4",
     "prerequisites":[
-
+      [
+        "ECON UN1105",
+        "MATH UN1201"
+      ],
+      [
+        "MATH UN1101",
+        "MATH UN1207"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20243ECON3213W002",
@@ -14858,7 +14945,7 @@
   {
     "course_code":"ECON UN3412",
     "course_title":"INTRODUCTION TO ECONOMETRICS",
-    "course_descr":null,
+    "course_descr":"Prerequisites: (ECON UN3211 or ECON UN3213) and (MATH UN1201 or MATH UN1207) and STAT UN1201 Modern econometric methods; the general linear statistical model and its extensions; simultaneous equations and the identification problem; time series problems; forecasting methods; extensive practice with the analysis of different types of data.\n",
     "instructor":"Seyhan Erden",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:25pm",
@@ -14886,7 +14973,17 @@
     ],
     "points":"4",
     "prerequisites":[
-
+      [
+        "ECON UN3211",
+        "ECON UN3213"
+      ],
+      [
+        "MATH UN1201",
+        "MATH UN1207"
+      ],
+      [
+        "STAT UN1201"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20243ECON3412W001",
@@ -14895,7 +14992,7 @@
   {
     "course_code":"ECON UN3412",
     "course_title":"INTRODUCTION TO ECONOMETRICS",
-    "course_descr":null,
+    "course_descr":"Prerequisites: (ECON UN3211 or ECON UN3213) and (MATH UN1201 or MATH UN1207) and STAT UN1201 Modern econometric methods; the general linear statistical model and its extensions; simultaneous equations and the identification problem; time series problems; forecasting methods; extensive practice with the analysis of different types of data.\n",
     "instructor":"Jushan Bai",
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:55pm",
@@ -14923,7 +15020,17 @@
     ],
     "points":"4",
     "prerequisites":[
-
+      [
+        "ECON UN3211",
+        "ECON UN3213"
+      ],
+      [
+        "MATH UN1201",
+        "MATH UN1207"
+      ],
+      [
+        "STAT UN1201"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20243ECON3412W002",
@@ -14932,7 +15039,7 @@
   {
     "course_code":"ECON UN3412",
     "course_title":"INTRODUCTION TO ECONOMETRICS",
-    "course_descr":null,
+    "course_descr":"Prerequisites: (ECON UN3211 or ECON UN3213) and (MATH UN1201 or MATH UN1207) and STAT UN1201 Modern econometric methods; the general linear statistical model and its extensions; simultaneous equations and the identification problem; time series problems; forecasting methods; extensive practice with the analysis of different types of data.\n",
     "instructor":"Sandra Black",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:25pm",
@@ -14960,7 +15067,17 @@
     ],
     "points":"4",
     "prerequisites":[
-
+      [
+        "ECON UN3211",
+        "ECON UN3213"
+      ],
+      [
+        "MATH UN1201",
+        "MATH UN1207"
+      ],
+      [
+        "STAT UN1201"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20243ECON3412W003",
@@ -26244,7 +26361,7 @@
   {
     "course_code":"MDES GU4710",
     "course_title":"ADVANCED PERSIAN I",
-    "course_descr":null,
+    "course_descr":"While helping students advance their levels of oral and written expression, this course focuses on literature of the modern and medieval periods, with particular emphasis on the development of the modern novella and traditional and new forms of poetry. In addition to literature, students are introduced to a wide variety of genres from political and cultural essays and blogs to newspaper translations of the early 20th century. They will be further exposed to ta\u00b4rof in reference to a wide variety of socio-cultural contexts and be expected to use ta\u00b4rof in class conversations. Students will be exposed to popular artists and their works and satirical websites for insight into contemporary Iranian culture and politics. No P\/D\/F or R credit is allowed for this class.\n\n",
     "instructor":"Saeed Honarmand",
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"2:00pm",
@@ -26452,7 +26569,7 @@
   {
     "course_code":"MDES UN1701",
     "course_title":"ELEMENTARY PERSIAN I",
-    "course_descr":null,
+    "course_descr":"An introduction to the spoken and written language of contemporary Iran. No P\/D\/F or R credit is allowed for this class.\n",
     "instructor":"Saeed Honarmand",
     "scheduled_time_start":"3:10pm",
     "scheduled_time_end":"4:00pm",
@@ -26717,7 +26834,7 @@
   {
     "course_code":"MDES UN2701",
     "course_title":"INTERMEDIATE PERSIAN I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: Elementary Persian II or the equivalent. This course involves reading, writing, translating, conversation and grammatical foundations for Persian Language (PL). The materials are selected from two books: \u0100muzesh-e F\u0101rsi: Intermediate Level (required) and English-Persian Dictionary, plus verb system and charts (recommended). These books are assigned and have to be available to every student. There are also handouts, which will be provided throughout the course. This course serves as intermediate and makes students able to read and compose proper Persian language as well as the colloquial one. No P\/D\/F or R credit is allowed for this class.\n\n",
     "instructor":"Saeed Honarmand",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -34261,7 +34378,7 @@
   {
     "course_code":"PLAN A6434",
     "course_title":"INTRO TO TRANSPORTATION PLAN",
-    "course_descr":null,
+    "course_descr":"Prerequisites: A4404: or the instructor's permission Discussion of major issues in transportation at several levels, from national to local, and covering the economic, political, and social implications of decision-making in transportation. Current topics and case studies are investigated.\\n \\n\n",
     "instructor":"Rachel Weinberger",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -34280,7 +34397,9 @@
     ],
     "points":"3",
     "prerequisites":[
-
+      [
+        "A4404"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20243PLAN6434A001",
@@ -34712,7 +34831,7 @@
   {
     "course_code":"PLAN A8902",
     "course_title":"DOCTORAL COLLOQUIUM III",
-    "course_descr":null,
+    "course_descr":"The colloquium, brings together all students at the same level within the Ph.D. program and enriches the work of defining the dissertation topic and subsequent research and writing.\n",
     "instructor":"Tom Slater",
     "scheduled_time_start":"11:00am",
     "scheduled_time_end":"1:00pm",
@@ -35904,7 +36023,7 @@
   {
     "course_code":"PSYC BC2124",
     "course_title":"PSYCH OF PERSONALITY - LAB",
-    "course_descr":null,
+    "course_descr":"Prerequisites: PSYC BC1001, BC1020, BC1101. Corequisites: PSYC BC2125 Psychology of Personality Lecture. Laboratory consists of experiments related to the principal approaches to personality and their implications for personality development, psychological adjustment, and everyday behavior. Students will participate in all stages of personality research: conceptualizing a personality construct, designing and administering tests, identifying individual differences, and carrying out a study.\n\n",
     "instructor":null,
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"1:00pm",
@@ -35921,7 +36040,16 @@
     "open_to":null,
     "points":"1.5",
     "prerequisites":[
-
+      [
+        "BC1020"
+      ],
+      [
+        "BC1101",
+        "PSYC BC2125"
+      ],
+      [
+        "PSYC BC1001"
+      ]
     ],
     "scheduled_days":"M",
     "section_key":"20243PSYC2124X001",
@@ -38913,7 +39041,7 @@
   {
     "course_code":"RUSS UN3220",
     "course_title":"LITERATURE & EMPIRE (19C LIT)",
-    "course_descr":null,
+    "course_descr":"Explores the aesthetic and formal developments in Russian prose, especially the rise of the monumental 19th-century novel, as one manifestation of a complex array of national and cultural aspirations, humanistic and imperialist ones alike. Works by Pushkin, Lermonotov, Gogol, Turgenev, Tolstoy, Dostoevsky, and Chekhov. Knowledge of Russian not required.\n",
     "instructor":"John C Wright",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -38965,7 +39093,7 @@
   {
     "course_code":"RUSS UN3595",
     "course_title":"SENIOR SEMINAR",
-    "course_descr":null,
+    "course_descr":"A research and writing workshop designed to help students plan and execute a major research project, and communicate their ideas in a common scholarly language that crosses disciplinary boundaries. Content is determined by students thesis topics, and includes general sessions on how to formulate a proposal and how to generate a bibliography. Students present the fruits of their research in class discussions, culminating in a full-length seminar presentation and the submission of the written thesis.\n\n",
     "instructor":"John C Wright",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -39481,6 +39609,32 @@
     "scheduled_days":"M",
     "section_key":"20243SOCI3956X001",
     "type":"SEMINAR"
+  },
+  {
+    "course_code":"SOCI UN1000",
+    "course_title":"THE SOCIAL WORLD",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"11:25am",
+    "call_number":"10902",
+    "campus":"Morningside",
+    "class_id":"W1000-20243-001",
+    "course_subtitle":null,
+    "department":"Sociology",
+    "department_code":"SOCI",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SOCI\/W1000-20243-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20243SOCI1000W001",
+    "type":"LECTURE"
   },
   {
     "course_code":"SOCI UN2208",
