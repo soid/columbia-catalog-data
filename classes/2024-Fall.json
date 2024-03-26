@@ -30,6 +30,32 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"AFEN BC3815",
+    "course_title":"SHANGE & DIGITAL STORYTELLING",
+    "course_descr":null,
+    "instructor":"Kim F Hall",
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"00138",
+    "campus":"Barnard College",
+    "class_id":"X3815-20243-001",
+    "course_subtitle":"SHANGE & DIGITAL STORYTEL",
+    "department":"Africana Studies (AFSB)",
+    "department_code":"AFEN",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/AFEN\/X3815-20243-001\/",
+    "location":"To be announced",
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20243AFEN3815X001",
+    "type":"SEMINAR"
+  },
+  {
     "course_code":"AFRS BC2004",
     "course_title":"INTRODUCTN TO AFRICAN STUDIES",
     "course_descr":"Interdisciplinary and thematic approach to the study of Africa, moving from pre-colonial through colonial and post-colonial periods to contemporary Africa. Focus will be on its history, societal relations, politics and the arts. The objective is to provide a critical survey of the history as well as the continuing debates in African Studies.\n",
@@ -1167,7 +1193,7 @@
     "location":"To be announced",
     "method_of_instruction":"In-Person",
     "open_to":null,
-    "points":"3",
+    "points":"4",
     "prerequisites":[
 
     ],
@@ -9279,6 +9305,35 @@
     "type":"INDEPENDENT"
   },
   {
+    "course_code":"BIOL GR5004",
+    "course_title":"NEUROBIO I:CELLULAR & MOLECULR",
+    "course_descr":null,
+    "instructor":"Ishmail J Abdus-Saboor",
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"2:25pm",
+    "call_number":"11025",
+    "campus":"Morningside",
+    "class_id":"W5004-20243-001",
+    "course_subtitle":"NEUROBIO I:CELLULAR & MOL",
+    "department":"Biological Sciences",
+    "department_code":"BIOL",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/BIOL\/W5004-20243-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Engineering:Graduate",
+      "GSAS"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MWF",
+    "section_key":"20243BIOL5004W001",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"BIOL GR5022",
     "course_title":"DEVELOPMENTAL BIOLOGY",
     "course_descr":null,
@@ -9305,6 +9360,88 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"BIOL GR5041",
+    "course_title":"CELL BIOLOGY",
+    "course_descr":null,
+    "instructor":"Erin L Barnhart",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"11:25am",
+    "call_number":"11048",
+    "campus":"Morningside",
+    "class_id":"W5041-20243-001",
+    "course_subtitle":null,
+    "department":"Biological Sciences",
+    "department_code":"BIOL",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/BIOL\/W5041-20243-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20243BIOL5041W001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"BIOL GR9301",
+    "course_title":"PRERESEARCH SEMINAR",
+    "course_descr":null,
+    "instructor":"Iva S Greenwald",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"11043",
+    "campus":"Morningside",
+    "class_id":"G9301-20243-001",
+    "course_subtitle":null,
+    "department":"Biological Sciences",
+    "department_code":"BIOL",
+    "instructor_wikipedia_link":"https:\/\/en.wikipedia.org\/wiki\/Iva_Greenwald",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/BIOL\/G9301-20243-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "GSAS"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20243BIOL9301G001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"BIOL GR9500",
+    "course_title":"SUPERVISED INDIVIDUAL RESEARCH",
+    "course_descr":null,
+    "instructor":"Songtao Jia",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11037",
+    "campus":"Morningside",
+    "class_id":"G9500-20243-001",
+    "course_subtitle":"SUPERVISED INDIVIDUAL RES",
+    "department":"Biological Sciences",
+    "department_code":"BIOL",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/BIOL\/G9500-20243-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "GSAS"
+    ],
+    "points":"1-12",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20243BIOL9500G001",
+    "type":"RESEARCH SEM"
+  },
+  {
     "course_code":"BIOL GU4034",
     "course_title":"BIOTECHNOLOGY",
     "course_descr":"Prerequisites: genetics or molecular biology. The course covers techniques currently used to explore and manipulate gene function and their applications in medicine and the environment. Part I covers key laboratory manipulations, including DNA cloning, gene characterization, association of genes with disease, and methods for studying gene regulation and activities of gene products. Part II also covers commercial applications, and includes animal cell culture, production of recombinant proteins, novel diagnostics, high throughput screening, and environmental biosensors.\n\n",
@@ -9328,6 +9465,58 @@
     ],
     "scheduled_days":"MW",
     "section_key":"20243BIOL4034W001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"BIOL GU4260",
+    "course_title":"PROTEOMICS LABORATORY",
+    "course_descr":null,
+    "instructor":"Lewis Brown",
+    "scheduled_time_start":"12:30pm",
+    "scheduled_time_end":"3:30pm",
+    "call_number":"11036",
+    "campus":"Morningside",
+    "class_id":"G4260-20243-001",
+    "course_subtitle":null,
+    "department":"Biological Sciences",
+    "department_code":"BIOL",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/BIOL\/G4260-20243-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20243BIOL4260G001",
+    "type":"LABORATORY"
+  },
+  {
+    "course_code":"BIOL GU4300",
+    "course_title":"DRUGS AND DISEASE",
+    "course_descr":null,
+    "instructor":"Lili Yamasaki",
+    "scheduled_time_start":"2:40pm",
+    "scheduled_time_end":"3:55pm",
+    "call_number":"11038",
+    "campus":"Morningside",
+    "class_id":"W4300-20243-001",
+    "course_subtitle":null,
+    "department":"Biological Sciences",
+    "department_code":"BIOL",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/BIOL\/W4300-20243-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20243BIOL4300W001",
     "type":"LECTURE"
   },
   {
@@ -9382,6 +9571,37 @@
     ],
     "scheduled_days":"TR",
     "section_key":"20243BIOL4501G001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"BIOL UN1360",
+    "course_title":"Science and Society",
+    "course_descr":null,
+    "instructor":"Harold Varmus",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"6:40pm",
+    "call_number":"11049",
+    "campus":"Morningside",
+    "class_id":"W1360-20243-001",
+    "course_subtitle":null,
+    "department":"Biological Sciences",
+    "department_code":"BIOL",
+    "instructor_wikipedia_link":"https:\/\/en.wikipedia.org\/wiki\/Harold_E._Varmus",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/BIOL\/W1360-20243-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "General Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20243BIOL1360W001",
     "type":"LECTURE"
   },
   {
@@ -9833,6 +10053,32 @@
     "type":"RECITATION"
   },
   {
+    "course_code":"BIOL UN2300",
+    "course_title":"Interpreting Scientific Evidence",
+    "course_descr":null,
+    "instructor":"Molly Przeworski",
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"11053",
+    "campus":"Morningside",
+    "class_id":"W2300-20243-001",
+    "course_subtitle":"Evaluating Scientific Evi",
+    "department":"Biological Sciences",
+    "department_code":"BIOL",
+    "instructor_wikipedia_link":"https:\/\/en.wikipedia.org\/wiki\/Molly_Przeworski",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/BIOL\/W2300-20243-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20243BIOL2300W001",
+    "type":"SEMINAR"
+  },
+  {
     "course_code":"BIOL UN2401",
     "course_title":"CONTEMPORARY BIOLOGY I",
     "course_descr":"Prerequisites: one year of college chemistry or the written permission of either the instructor or the premedical adviser is required. Recommended as the introductory biology course for science majors who have completed a year of college chemistry and premedical students. The fundamental principles of biochemistry, molecular biology, and genetics. Website: http:\/\/www.columbia.edu\/cu\/biology\/courses\/c2005\/index.html. SPS and TC students may register for this course, but they must first obtain the written permission of the instructor, by filling out a paper Registration Adjustment Form (Add\/Drop form). The form can be downloaded at the URL below, but must be signed by the instructor and returned to the office of the registrar. registrar. http:\/\/registrar.columbia.edu\/sites\/default\/files\/content\/reg-adjustment.pdf\n\n",
@@ -10214,6 +10460,37 @@
     "type":"LABORATORY"
   },
   {
+    "course_code":"BIOL UN3041",
+    "course_title":"CELL BIOLOGY",
+    "course_descr":null,
+    "instructor":"Erin L Barnhart",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"11:25am",
+    "call_number":"11047",
+    "campus":"Morningside",
+    "class_id":"W3041-20243-001",
+    "course_subtitle":null,
+    "department":"Biological Sciences",
+    "department_code":"BIOL",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/BIOL\/W3041-20243-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "General Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20243BIOL3041W001",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"BIOL UN3320",
     "course_title":"Regulation of Behaviors for Survival",
     "course_descr":"To maximize their survival animals must regulate their behavior in response to external environmental cues and their own internal state. A fundamental goal of neuroscience is to understand how neural circuits in the brain function to influence behavior. The aim of this course is to highlight the neural basis of neuropeptide regulation of innate behaviors that are critical for survival and discuss modern approaches to study the neuronal control of classically studied aspects of behavior. We will explore motor control (escape responses), sensory systems (vision, taste, and olfaction), and survival behaviors (feeding, drinking, mating, and aggression). Focus will be on recent and current research, the diversity of approaches for studying it, and how this knowledge can be applied to solve scientific questions. Students will read primary scientific literature and a significant portion of the course will be presentation and discussion-based.\n\n",
@@ -10238,6 +10515,170 @@
     "scheduled_days":"W",
     "section_key":"20243BIOL3320W001",
     "type":"SEMINAR"
+  },
+  {
+    "course_code":"BIOL UN3404",
+    "course_title":"The Global Threat of Antimicrobial Resis",
+    "course_descr":null,
+    "instructor":"Franklin Lowy",
+    "scheduled_time_start":"12:10pm",
+    "scheduled_time_end":"2:00pm",
+    "call_number":"11046",
+    "campus":"Morningside",
+    "class_id":"W3404-20243-001",
+    "course_subtitle":"Antimicrobial Resistance",
+    "department":"Biological Sciences",
+    "department_code":"BIOL",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/BIOL\/W3404-20243-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20243BIOL3404W001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"BIOT GR5500",
+    "course_title":"Supervised Research",
+    "course_descr":null,
+    "instructor":"Lili Yamasaki",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11040",
+    "campus":"Morningside",
+    "class_id":"G5500-20243-001",
+    "course_subtitle":null,
+    "department":"Biological Sciences",
+    "department_code":"BIOT",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/BIOT\/G5500-20243-001\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "GSAS"
+    ],
+    "points":"3-6",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20243BIOT5500G001",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"BIOT GR5500",
+    "course_title":"Supervised Research",
+    "course_descr":null,
+    "instructor":"Lili Yamasaki",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11041",
+    "campus":"Morningside",
+    "class_id":"G5500-20243-002",
+    "course_subtitle":null,
+    "department":"Biological Sciences",
+    "department_code":"BIOT",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/BIOT\/G5500-20243-002\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "GSAS"
+    ],
+    "points":"3-6",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20243BIOT5500G002",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"BIOT GR5501",
+    "course_title":"Supervised Independent Research",
+    "course_descr":null,
+    "instructor":"Lili Yamasaki",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11044",
+    "campus":"Morningside",
+    "class_id":"G5501-20243-001",
+    "course_subtitle":"Independent Research",
+    "department":"Biological Sciences",
+    "department_code":"BIOT",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/BIOT\/G5501-20243-001\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "GSAS"
+    ],
+    "points":"3-6",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20243BIOT5501G001",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"BIOT GR5501",
+    "course_title":"Supervised Independent Research",
+    "course_descr":null,
+    "instructor":"Lili Yamasaki",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11045",
+    "campus":"Morningside",
+    "class_id":"G5501-20243-002",
+    "course_subtitle":"Independent Research",
+    "department":"Biological Sciences",
+    "department_code":"BIOT",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/BIOT\/G5501-20243-002\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "GSAS"
+    ],
+    "points":"3-6",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20243BIOT5501G002",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"BIOT GU4160",
+    "course_title":"BIOTECHNOLOGY LAW",
+    "course_descr":null,
+    "instructor":"Alan J Morrison",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"11042",
+    "campus":"Morningside",
+    "class_id":"W4160-20243-001",
+    "course_subtitle":null,
+    "department":"Biological Sciences",
+    "department_code":"BIOT",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/BIOT\/W4160-20243-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20243BIOT4160W001",
+    "type":"LECTURE"
   },
   {
     "course_code":"CHEM BC2001",
@@ -11551,7 +11992,7 @@
   {
     "course_code":"CHEM UN0001",
     "course_title":"PREPARATION-COLLEGE CHEMISTRY",
-    "course_descr":null,
+    "course_descr":"Prerequisites: High school algebra or the instructor's permission. Recommended preparation: high school physics and chemistry. This course is preparation for Chemistry UN1403 or the equivalent, as well as for other science courses. It is intended for students who have not attended school for sometime or who do not have a firm grasp of high school chemistry. Topics include inorganic nomenclature, chemical reactions, chemical bonding and its relation to molecular structure, stoichiometry, periodic properties of elements, chemical equilibrium, gas laws, acids and bases, and electrochemistry.\n",
     "instructor":"Christopher Eckdahl",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"7:25pm",
@@ -11576,7 +12017,9 @@
     ],
     "points":"0",
     "prerequisites":[
-
+      [
+        "UN1403"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20243CHEM0001W001",
@@ -11765,9 +12208,35 @@
     "type":"SEMINAR"
   },
   {
+    "course_code":"CLME UN3928",
+    "course_title":"ARABIC PRISON WRITING",
+    "course_descr":null,
+    "instructor":"Muhsin Al-Musawi",
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"11052",
+    "campus":"Morningside",
+    "class_id":"W3928-20243-001",
+    "course_subtitle":null,
+    "department":"Middle Eastern, South Asian and African Studies",
+    "department_code":"CLME",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CLME\/W3928-20243-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20243CLME3928W001",
+    "type":"SEMINAR"
+  },
+  {
     "course_code":"CLSL GR6128",
     "course_title":"Women and Resistance: Ukraine, Belarus,",
-    "course_descr":null,
+    "course_descr":"A graduate seminar which invites students to re-read contemporary history of Eastern Europe through the lens of women\u2019s resistance. Women are no less effective history agents than men, but they usually act outside of dominant power structures, opposing and subverting them through imaginative strategies of resistance in the everyday. Focused on the Soviet Union and the contemporary states of Ukraine, Belarus and Russia, this course explores female resistance channeled through visual and performance art, fiction and documentary, poetry and film. Structured in reverse chronological order, it begins with current manifestations of women\u2019s resistance, from artistic interventions in the War in Ukraine to Pussy Riot\u2019s punk performances and the political activism of the Belarus Free Theater. It then investigates the genealogy of these contemporary forms of resistance in underground feminist and dissident activism during the late Soviet period, a whole range of resistance articulations through the female experiences of WW2, the GULAG and Stalinist purges, and female agency in subverting gender norms since the Bolshevik sexual Revolution of the 1920s. \nAll reading will be available in English\n.\n  \nOpen to graduate students. Advanced undergraduates can register with instructor\u2019s permission. No Russian, Ukrainian or Belarusian required.\n\n",
     "instructor":"Valentina Izmirlieva",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -11919,6 +12388,34 @@
     "scheduled_days":"W",
     "section_key":"20243COGS3901W001",
     "type":"SEMINAR"
+  },
+  {
+    "course_code":"COMM PS5020",
+    "course_title":"STRATEGIC STORYTELLER",
+    "course_descr":null,
+    "instructor":"Lauren R Glover",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"11039",
+    "campus":"Morningside",
+    "class_id":"K5020-20243-001",
+    "course_subtitle":null,
+    "department":"Strategic Communication",
+    "department_code":"COMM",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMM\/K5020-20243-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20243COMM5020K001",
+    "type":"LECTURE"
   },
   {
     "course_code":"COMS BC1016",
@@ -12184,7 +12681,7 @@
   },
   {
     "course_code":"COMS BC3997",
-    "course_title":"NEW DIRECTIONS",
+    "course_title":"NEW DIRECTIONS IN COMPUTING",
     "course_descr":"This is an undergraduate seminar for special topics in computing arranged as the need and availability arises. Topics are usually offered on a one-time basis. \u00a0Participation requires permission of the instructor.\u00a0 Since the content of this course changes each time it is offered, it may be repeated for credit.\u00a0\n  \nNOTE:\u00a0Please consult the Directory of Classes for information on the point value of the course for the current term.\n\n",
     "instructor":"Smaranda Muresan",
     "scheduled_time_start":"10:10am",
@@ -12499,7 +12996,7 @@
   {
     "course_code":"DNCE BC1137",
     "course_title":"BALLET II",
-    "course_descr":null,
+    "course_descr":"Ballet II\n\n",
     "instructor":"Kate A Glasner",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -12525,7 +13022,7 @@
   {
     "course_code":"DNCE BC1137",
     "course_title":"BALLET II",
-    "course_descr":null,
+    "course_descr":"Ballet II\n\n",
     "instructor":"Nicole D Robertson",
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:55pm",
@@ -12551,7 +13048,7 @@
   {
     "course_code":"DNCE BC1250",
     "course_title":"HIP HOP DANCE & CULTURE I",
-    "course_descr":null,
+    "course_descr":"This course introduces students to urban dance styles, focusing on the foundations and origins of hip-hop dance, street dance culture, and the physical vocabularies of hip-hop and freestyle dance. Classes are geared to condition the body for the rigors of hip-hop technique by developing strength, coordination, flexibility, stamina, and rhythmic awareness while developing an appreciation of choreographic movement and structures. Compositional elements of hip-hop will be introduced and students may compose brief movement sequences.\n\n",
     "instructor":"Jennifer Archibald",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -12577,7 +13074,7 @@
   {
     "course_code":"DNCE BC1332",
     "course_title":"MODERN II",
-    "course_descr":null,
+    "course_descr":"This course is designed for movers with some experience with dance, or who are unfamiliar with modern dance styles. It is intended to introduce modern dance techniques, terminology, and historical context, as well as improve anatomical and spatial awareness, and foster physical confidence moving to music. Students of this course will also cultivate comfort with watching, interpreting, and discussing modern dance. Love of dance is not a prerequisite, but is definitely a goal.\u00a0\n\n",
     "instructor":"Caitlin Trainor",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:25pm",
@@ -12603,7 +13100,7 @@
   {
     "course_code":"DNCE BC1332",
     "course_title":"MODERN II",
-    "course_descr":null,
+    "course_descr":"This course is designed for movers with some experience with dance, or who are unfamiliar with modern dance styles. It is intended to introduce modern dance techniques, terminology, and historical context, as well as improve anatomical and spatial awareness, and foster physical confidence moving to music. Students of this course will also cultivate comfort with watching, interpreting, and discussing modern dance. Love of dance is not a prerequisite, but is definitely a goal.\u00a0\n\n",
     "instructor":"Caroline Fermin",
     "scheduled_time_start":"9:00am",
     "scheduled_time_end":"10:00am",
@@ -12629,7 +13126,7 @@
   {
     "course_code":"DNCE BC1445",
     "course_title":"TAP I",
-    "course_descr":null,
+    "course_descr":"Tap I is a beginning level tap class for students with some previous dance or movement\u00a0experience.\u00a0 We will cover basic tap technique, proper use of the body to enhance sound quality and style, a variety of music styles and structures, and improvisation.\n\n",
     "instructor":"Dormeshia Sunbry-Edwards",
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:55pm",
@@ -12655,7 +13152,7 @@
   {
     "course_code":"DNCE BC2137",
     "course_title":"BALLET III",
-    "course_descr":null,
+    "course_descr":"This course is designed for intermediate dancers who are interested in maintaining their established ballet technique as well as advancing their knowledge and familiarity with the classical vocabulary. Students of Ballet III should have completed two semesters of Ballet II or it\u2019s equivalent, or one semester of Ballet III or its equivalent, and have a firm mental and physical understanding of barre exercises (pli\u00e9, battement tendu, battement d\u00e9gag\u00e9, rond de jambe \u00e0 terre, battement fondu, frapp\u00e9, and grand battement), as well as general center concepts such as adagio, waltz, pirouettes, and petit allegro (including changement, glissade, jet\u00e9, and assembl\u00e9). This is a graded, semester long, two credit course.\n\n",
     "instructor":"Cynthia Anderson",
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:55pm",
@@ -12681,7 +13178,7 @@
   {
     "course_code":"DNCE BC2137",
     "course_title":"BALLET III",
-    "course_descr":null,
+    "course_descr":"This course is designed for intermediate dancers who are interested in maintaining their established ballet technique as well as advancing their knowledge and familiarity with the classical vocabulary. Students of Ballet III should have completed two semesters of Ballet II or it\u2019s equivalent, or one semester of Ballet III or its equivalent, and have a firm mental and physical understanding of barre exercises (pli\u00e9, battement tendu, battement d\u00e9gag\u00e9, rond de jambe \u00e0 terre, battement fondu, frapp\u00e9, and grand battement), as well as general center concepts such as adagio, waltz, pirouettes, and petit allegro (including changement, glissade, jet\u00e9, and assembl\u00e9). This is a graded, semester long, two credit course.\n\n",
     "instructor":"Antonio Carmena",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -12707,7 +13204,7 @@
   {
     "course_code":"DNCE BC2137",
     "course_title":"BALLET III",
-    "course_descr":null,
+    "course_descr":"This course is designed for intermediate dancers who are interested in maintaining their established ballet technique as well as advancing their knowledge and familiarity with the classical vocabulary. Students of Ballet III should have completed two semesters of Ballet II or it\u2019s equivalent, or one semester of Ballet III or its equivalent, and have a firm mental and physical understanding of barre exercises (pli\u00e9, battement tendu, battement d\u00e9gag\u00e9, rond de jambe \u00e0 terre, battement fondu, frapp\u00e9, and grand battement), as well as general center concepts such as adagio, waltz, pirouettes, and petit allegro (including changement, glissade, jet\u00e9, and assembl\u00e9). This is a graded, semester long, two credit course.\n\n",
     "instructor":"Vincent McCloskey",
     "scheduled_time_start":"9:00am",
     "scheduled_time_end":"10:50am",
@@ -12733,7 +13230,7 @@
   {
     "course_code":"DNCE BC2139",
     "course_title":"BALLET IV",
-    "course_descr":null,
+    "course_descr":"This course is designed for advanced intermediate dancers who are interested in maintaining their established ballet technique as well as advancing their knowledge and familiarity with the classical vocabulary. Students of Ballet IV should have completed two semesters of Ballet III or its equivalent, or one semester of Ballet IV or its equivalent, and have a firm mental and physical understanding of ballet technical exercises. These include all barre exercises (pli\u00e9, battement tendu, battement d\u00e9gag\u00e9, rond de jambe \u00e0 terre, battement fondu, battement frapp\u00e9, and grand battement), as well as center exercises including adagio, waltz, pirouettes, petit allegro, and grand allegro. Focus of this class will be on how to practice ballet safely, efficiently, musically, and joyfully.\n  \nThis is a graded, semester long, two credit course. This class is offered in person only, and no remote learning option will be available.\n\n",
     "instructor":"Vincent McCloskey",
     "scheduled_time_start":"8:40am",
     "scheduled_time_end":"9:55am",
@@ -12759,7 +13256,7 @@
   {
     "course_code":"DNCE BC2139",
     "course_title":"BALLET IV",
-    "course_descr":null,
+    "course_descr":"This course is designed for advanced intermediate dancers who are interested in maintaining their established ballet technique as well as advancing their knowledge and familiarity with the classical vocabulary. Students of Ballet IV should have completed two semesters of Ballet III or its equivalent, or one semester of Ballet IV or its equivalent, and have a firm mental and physical understanding of ballet technical exercises. These include all barre exercises (pli\u00e9, battement tendu, battement d\u00e9gag\u00e9, rond de jambe \u00e0 terre, battement fondu, battement frapp\u00e9, and grand battement), as well as center exercises including adagio, waltz, pirouettes, petit allegro, and grand allegro. Focus of this class will be on how to practice ballet safely, efficiently, musically, and joyfully.\n  \nThis is a graded, semester long, two credit course. This class is offered in person only, and no remote learning option will be available.\n\n",
     "instructor":"Marjorie Folkman",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -12785,7 +13282,7 @@
   {
     "course_code":"DNCE BC2139",
     "course_title":"BALLET IV",
-    "course_descr":null,
+    "course_descr":"This course is designed for advanced intermediate dancers who are interested in maintaining their established ballet technique as well as advancing their knowledge and familiarity with the classical vocabulary. Students of Ballet IV should have completed two semesters of Ballet III or its equivalent, or one semester of Ballet IV or its equivalent, and have a firm mental and physical understanding of ballet technical exercises. These include all barre exercises (pli\u00e9, battement tendu, battement d\u00e9gag\u00e9, rond de jambe \u00e0 terre, battement fondu, battement frapp\u00e9, and grand battement), as well as center exercises including adagio, waltz, pirouettes, petit allegro, and grand allegro. Focus of this class will be on how to practice ballet safely, efficiently, musically, and joyfully.\n  \nThis is a graded, semester long, two credit course. This class is offered in person only, and no remote learning option will be available.\n\n",
     "instructor":"Juan Rodriguez",
     "scheduled_time_start":"11:00am",
     "scheduled_time_end":"12:50pm",
@@ -12811,7 +13308,7 @@
   {
     "course_code":"DNCE BC2248",
     "course_title":"JAZZ DANCE II",
-    "course_descr":null,
+    "course_descr":"This class explores contemporary jazz movement using music from both American and Diasporic pop culture.\n Students can expect to work on technique, performance, groove, musicality, and retention of choreography (additional emphasis on story-telling).\n There will be opportunities for discussions of professional development pertaining to navigating a career in dance (auditioning, submissions, agencies\/representation, etc) on evaluation days.\n\n",
     "instructor":"Ehizoje J Azeke",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:25pm",
@@ -12837,7 +13334,7 @@
   {
     "course_code":"DNCE BC2252",
     "course_title":"AFRICAN DANCE I",
-    "course_descr":null,
+    "course_descr":"In West Africa, dance is part of daily life. It is used to mark occasions such a birth, death, harvest, and\u00a0 marriage. It is also used to unite the community in times of crisis. West African dance is not as much a strict\u00a0 technique as it is a movement coming from the spirit and the rhythm of the drum and the energy of the\u00a0 people. While there are certain steps that go with specific rhythms, it leaves space for the individual\u00a0 interpretation and improvisations which is an important element. Dancing is more about the communication\u00a0 between dancer and drummer. The movement of West African dance tends to be energetic and big. It is very\u00a0 expressive, and the energy is outward.\u00a0\n  \nSome African dance steps are taken directly from daily activities such as planting or hunting. Most, however,\u00a0 are an expression of joy or release of the spirit. Dancing is done by communicating with a drummer to create\u00a0 positive energy. It is a way to enjoy oneself and each other. In African dance, the name of the dance is the\u00a0 same as the name of the rhythm played by the drummer. The individual steps that make up the dance do not\u00a0 have names. In this course, we are going to be learning various West African dances such as Sikko, Socco,\u00a0 Kuku, Mandiany, Farakorroba, Sunu, Soli, Lamba, Mandjo, Diambadong, Doundounba, Kaolask,\u00a0 Thieboudjeune, Niarry---gorong, Ekongkong, Wolossodong, Zaouly, Ngorong, Niakka, Maraka, Djansa and\u00a0 Lengeng\/Kutiro.\u00a0\n\n",
     "instructor":"Maguette Camara",
     "scheduled_time_start":"10:00am",
     "scheduled_time_end":"10:50am",
@@ -12863,7 +13360,7 @@
   {
     "course_code":"DNCE BC2252",
     "course_title":"AFRICAN DANCE I",
-    "course_descr":null,
+    "course_descr":"In West Africa, dance is part of daily life. It is used to mark occasions such a birth, death, harvest, and\u00a0 marriage. It is also used to unite the community in times of crisis. West African dance is not as much a strict\u00a0 technique as it is a movement coming from the spirit and the rhythm of the drum and the energy of the\u00a0 people. While there are certain steps that go with specific rhythms, it leaves space for the individual\u00a0 interpretation and improvisations which is an important element. Dancing is more about the communication\u00a0 between dancer and drummer. The movement of West African dance tends to be energetic and big. It is very\u00a0 expressive, and the energy is outward.\u00a0\n  \nSome African dance steps are taken directly from daily activities such as planting or hunting. Most, however,\u00a0 are an expression of joy or release of the spirit. Dancing is done by communicating with a drummer to create\u00a0 positive energy. It is a way to enjoy oneself and each other. In African dance, the name of the dance is the\u00a0 same as the name of the rhythm played by the drummer. The individual steps that make up the dance do not\u00a0 have names. In this course, we are going to be learning various West African dances such as Sikko, Socco,\u00a0 Kuku, Mandiany, Farakorroba, Sunu, Soli, Lamba, Mandjo, Diambadong, Doundounba, Kaolask,\u00a0 Thieboudjeune, Niarry---gorong, Ekongkong, Wolossodong, Zaouly, Ngorong, Niakka, Maraka, Djansa and\u00a0 Lengeng\/Kutiro.\u00a0\n\n",
     "instructor":"Maguette Camara",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -12889,7 +13386,7 @@
   {
     "course_code":"DNCE BC2253",
     "course_title":"AFRICAN DANCE II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: DNCE BC2252 or permission of instructor.\n  \nIn West Africa, dance is part of daily life. It is used to mark occasions such a birth,\u00a0 death, harvest, and marriage. It is also used to unite the community in times of\u00a0 crisis. West African dance is not as much a strict technique as it is a movement\u00a0 coming from the spirit and the rhythm of the drum and the energy of the people.\u00a0 While there are certain steps that go with specific rhythms, it leaves space for the\u00a0 individual interpretation and improvisations which is an important element. Dancing\u00a0 is more about the communication between dancer and drummer. The movement of\u00a0 West African dance tends to be energetic and big. It is very expressive, and the\u00a0 energy is outward.\u00a0\n  \nSome African dance steps are taken directly from daily activities such as planting or\u00a0 hunting. Most, however, are an expression of joy or release of the spirit. Dancing is\u00a0 done by communicating with a drummer to create positive energy. It is a way to\u00a0 enjoy oneself and each other.\u00a0\n  \nIn African dance, the name of the dance is the same as the name of the rhythm\u00a0 played by the drummer. The individual steps that make up the dance do not have\u00a0 names.\u00a0\n  \nIn this course, we are going to be learning various West African dances such as\u00a0 Sikko, Socco, Kuku, Mandiany, Farakorroba, Sunu, Soli, Lamba, Mandjo,\u00a0 Diambadong, Doundounba, Kaolask, Thieboudjeune, Niarry-gorong, Ekongkong,\u00a0 Wolossodong, Zaouly, Ngorong, Niakka, Maraka, Djansa and Lengeng\/Kutiro.\u00a0\n\n",
     "instructor":"Maguette Camara",
     "scheduled_time_start":"9:00am",
     "scheduled_time_end":"9:50am",
@@ -12906,7 +13403,9 @@
     "open_to":null,
     "points":"0-1",
     "prerequisites":[
-
+      [
+        "DNCE BC2252"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20243DNCE2253X001",
@@ -12915,7 +13414,7 @@
   {
     "course_code":"DNCE BC2254",
     "course_title":"CLASSICAL INDIAN I",
-    "course_descr":null,
+    "course_descr":"Bharatanatyam is typically studied as a theater dance form, and as a spiritual practice.\u00a0 In this class, traditional and contemporary teaching approaches are combined to introduce the participant to an overview of technical and performative aspects of the form. An example of the adjusted structure of the classes is that we begin each class with hatha yoga based stretches and dance warm ups that specifically target the kind of joint articulation that the form presupposes.\n  \nWe focus on the basic stance, the\u00a0\nardha-mandi\n, along with the technique of stamping as exemplified in the series of\u00a0\nadavu,\u00a0\n(basic combinations of hand, foot and rhythmic movement.) Following the progressive difficulty of the\u00a0\nadavu\u00a0\nsystem itself, more challenging combinations of hand and footwork will be introduced. Head and eye techniques will be introduced first in isolation then in combination.\n  \nThe last stage of this class involves learning a short abstract dance to music especially pre-recorded for a particular version of a dance genre and adjusted for difficulty level. This is in order to experience how the parts of the technique are integrated and to experience the state of performing.\u00a0 Students will be invited to perform at informal showings.\n\n",
     "instructor":"Uttara Coorlawala",
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:55pm",
@@ -12941,7 +13440,7 @@
   {
     "course_code":"DNCE BC2255",
     "course_title":"AFRO-CUBAN DANCE",
-    "course_descr":null,
+    "course_descr":"This course introduces students to the African-based dances of Cuba, including dances for the Orisha, Rumba, and the immensely joyful \u201cRueda de Casino\u201d style of Salsa. In addition to learning rhythms, songs, and dances, we will have an ongoing, informal discussion about the historical and contemporary significance of Afro-Cuban dance performance, making connections to personal experience through practice and ongoing reflection. We engage Afro-Cuban music and dance as a living and evolving tradition, where culture, artistry, and history are intimately bound.\n\n",
     "instructor":"Rebecca Bliss",
     "scheduled_time_start":"3:00pm",
     "scheduled_time_end":"5:00pm",
@@ -12967,7 +13466,7 @@
   {
     "course_code":"DNCE BC2256",
     "course_title":"Advanced Explorations in AfroCuban Dance",
-    "course_descr":null,
+    "course_descr":"An upper-level exploration of Afro-Cuban Dance focused on performance. Building on the foundation of Afro-Cuban Dance: Orisha, Rumba, Salsa, this course is a deeper dive into aesthetic principles, cultural themes, and improvisation as performance in the African dance context. Students explore multiple distinct dances and learn to engage the storytelling and cultural significance of each dance through improvisation with the drums. The course culminates with final, in-class presentations. Open to experienced movers and students who have completed Afro-Cuban Dance: Orisha, Rumba, Salsa. Permission of instructor required.\n\n",
     "instructor":"Rebecca Bliss",
     "scheduled_time_start":"1:00pm",
     "scheduled_time_end":"3:00pm",
@@ -12993,7 +13492,7 @@
   {
     "course_code":"DNCE BC2260",
     "course_title":"HIP HOP DANCE & CULTURE III (ADVANCED)",
-    "course_descr":null,
+    "course_descr":"Advanced technique and repertory in hip hop. Classes are geared to condition the body for the rigors of hip-hop technique by developing strength, coordination, flexibility, stamina, and rhythmic awareness, while developing an appreciation of choreographic movement and structures. Compositional elements of hip-hop will be introduced and students may compose brief movement sequences. The course meets twice weekly and is held in the dance studio.\n\n",
     "instructor":"Candace Brown",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:25pm",
@@ -13019,7 +13518,7 @@
   {
     "course_code":"DNCE BC2332",
     "course_title":"MODERN III",
-    "course_descr":null,
+    "course_descr":"Modern III continues training in contemporary\/modern technique for the beginning-intermediate\u00a0 level dancer, emphasizing alignment and musicality while expanding on the dancer\u2019s physical and\u00a0 intellectual understanding of articulation, phrasing, dynamics, performance and focus. Our class\u00a0 will incorporate relevant principals from classical modern techniques along with contemporary\u00a0 aesthetics, improvisation and reflection. Our class aims to create a space that is in support of your\u00a0 artistic development, aesthetic fluency, and creative explorations as a dancer\n\n",
     "instructor":"Tamisha Guy",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -13045,7 +13544,7 @@
   {
     "course_code":"DNCE BC2332",
     "course_title":"MODERN III",
-    "course_descr":null,
+    "course_descr":"Modern III continues training in contemporary\/modern technique for the beginning-intermediate\u00a0 level dancer, emphasizing alignment and musicality while expanding on the dancer\u2019s physical and\u00a0 intellectual understanding of articulation, phrasing, dynamics, performance and focus. Our class\u00a0 will incorporate relevant principals from classical modern techniques along with contemporary\u00a0 aesthetics, improvisation and reflection. Our class aims to create a space that is in support of your\u00a0 artistic development, aesthetic fluency, and creative explorations as a dancer\n\n",
     "instructor":"Francesca Dominguez",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -13071,7 +13570,7 @@
   {
     "course_code":"DNCE BC2334",
     "course_title":"MODERN IV",
-    "course_descr":null,
+    "course_descr":"Modern IV is a contemporary technique class for the intermediate to advanced-intermediate level\u00a0 dancer, emphasizing alignment and musicality while expanding on the dancer\u2019s physical and\u00a0 intellectual understanding of articulation, phrasing, dynamics, performance, and focus. Our class\u00a0 will incorporate relevant principles from classical modern techniques with contemporary\u00a0 aesthetics, improvisation, and reflection. Our class aims to create a space that is in support of your\u00a0 technical and aesthetic development as a dancing practitioner, performer, and creator.\n\n",
     "instructor":"Marjorie Folkman",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:25pm",
@@ -13097,7 +13596,7 @@
   {
     "course_code":"DNCE BC2334",
     "course_title":"MODERN IV",
-    "course_descr":null,
+    "course_descr":"Modern IV is a contemporary technique class for the intermediate to advanced-intermediate level\u00a0 dancer, emphasizing alignment and musicality while expanding on the dancer\u2019s physical and\u00a0 intellectual understanding of articulation, phrasing, dynamics, performance, and focus. Our class\u00a0 will incorporate relevant principles from classical modern techniques with contemporary\u00a0 aesthetics, improvisation, and reflection. Our class aims to create a space that is in support of your\u00a0 technical and aesthetic development as a dancing practitioner, performer, and creator.\n\n",
     "instructor":"Jodi Melnick",
     "scheduled_time_start":"1:00pm",
     "scheduled_time_end":"2:50pm",
@@ -13123,7 +13622,7 @@
   {
     "course_code":"DNCE BC2340",
     "course_title":"Contemporary Caribbean Dance",
-    "course_descr":null,
+    "course_descr":"Course Description:\n\u00a0\n  \nThis intermediate Contemporary Caribbean Dance class draws from different Caribbean dance styles. This Caribbean fusion class explains different cultural dances, focusing on African Diaspora principles and practices such as syncopation in body and in music.\n  \nBased on many of the dance of the Caribbean Islands, students learn to identify dances and rhythms that draw from traditions, such as Arara, Palo, Salsa, Rumba, Tambu, Tumba, Merengue, Reaggaton, Cha Cha Cha, Zouk and Afro Dance, as well as more contemporary styles such as \u201cTechnica Cubana\u201d and learn to apply them in contemporary combinations.\u00a0 The course is designed for students who have some dance training and are looking to widen their understanding of different dances and learn to use different body parts that are not traditionally used in modern dance but are recognizable in Jazz, hip hop and current offerings in popular\n  \n\u00a0\n\n",
     "instructor":"Gabri Christa",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:25pm",
@@ -13149,7 +13648,7 @@
   {
     "course_code":"DNCE BC2452",
     "course_title":"PILATES FOR DANCERS",
-    "course_descr":null,
+    "course_descr":"Pilates for Dancers is a full-body, low impact exercise class based on the work of Joseph Pilates, including movement concepts from Rudolf von Laban and Irmgard Bartenieff. We\u2019ll work on a yoga or Pilates mat doing exercises and movement sequences that build strength, flexibility, coordination and clarity in the body. The class is suitable for dancers, athletes and movement enthusiasts. A Pilates ring is highly recommended. A limited number of Pilates rings will be available in class.\n  \nThis course may not be appropriate for those with spine, neck, and shoulder injuries.\u00a0\u00a0If you have any of these types of injuries, kindly present a doctor\u2019s note clearing you for participation in the class.\n\n",
     "instructor":"Allison Easter",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:25pm",
@@ -13175,7 +13674,7 @@
   {
     "course_code":"DNCE BC2455",
     "course_title":"FELDENKRAIS FOR DANCERS",
-    "course_descr":null,
+    "course_descr":"Through guided practice-based lessons in Awareness Through Movement\u00d2 (ATM), students develop sensory awareness of habitual neuromuscular patterns resulting in increased movement efficiency, improved skill acquisition, and greater strength, coordination, and flexibility. Applicable to all dance styles and activities.\u00a0\u00a0\n  \n\u00a0\n\n",
     "instructor":"Carol Teitelbaum",
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:55pm",
@@ -13279,7 +13778,7 @@
   {
     "course_code":"DNCE BC3138",
     "course_title":"BALLET V",
-    "course_descr":null,
+    "course_descr":"This course is for the intermediate advanced dancer.\u00a0Material presented will focus on healthy anatomical alignment in barre work, extended combinations in the center, fostering personal artistic expression, and integrating improvisation in combinations with the ballet vocabulary.\u00a0Clarification, analysis and repetition are fundamental elements for a sound technique of any dancer and are the foundation of this course.\u00a0Center work will include attention to shaping adagio work, multiple turns in the large poses, batterie, and extended grand allegro.\u00a0You may be assigned the construction and presentation of exercises, which will be explained in detail further into the semester.\u00a0\n\n",
     "instructor":"Cynthia Anderson",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:25pm",
@@ -13305,7 +13804,7 @@
   {
     "course_code":"DNCE BC3138",
     "course_title":"BALLET V",
-    "course_descr":null,
+    "course_descr":"This course is for the intermediate advanced dancer.\u00a0Material presented will focus on healthy anatomical alignment in barre work, extended combinations in the center, fostering personal artistic expression, and integrating improvisation in combinations with the ballet vocabulary.\u00a0Clarification, analysis and repetition are fundamental elements for a sound technique of any dancer and are the foundation of this course.\u00a0Center work will include attention to shaping adagio work, multiple turns in the large poses, batterie, and extended grand allegro.\u00a0You may be assigned the construction and presentation of exercises, which will be explained in detail further into the semester.\u00a0\n\n",
     "instructor":"Nicole D Robertson",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:25pm",
@@ -13326,6 +13825,84 @@
     ],
     "scheduled_days":"TR",
     "section_key":"20243DNCE3138X002",
+    "type":"STUDIO"
+  },
+  {
+    "course_code":"DNCE BC3140",
+    "course_title":"BALLET VI",
+    "course_descr":null,
+    "instructor":"Antonio Carmena",
+    "scheduled_time_start":"8:40am",
+    "scheduled_time_end":"9:55am",
+    "call_number":"00686",
+    "campus":"Barnard College",
+    "class_id":"X3140-20243-001",
+    "course_subtitle":null,
+    "department":"Dance @Barnard",
+    "department_code":"DNCE",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/DNCE\/X3140-20243-001\/",
+    "location":"To be announced",
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"0-1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20243DNCE3140X001",
+    "type":"STUDIO"
+  },
+  {
+    "course_code":"DNCE BC3140",
+    "course_title":"BALLET VI",
+    "course_descr":null,
+    "instructor":"Ashley Tuttle",
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"10:50am",
+    "call_number":"00687",
+    "campus":"Barnard College",
+    "class_id":"X3140-20243-002",
+    "course_subtitle":null,
+    "department":"Dance @Barnard",
+    "department_code":"DNCE",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/DNCE\/X3140-20243-002\/",
+    "location":"To be announced",
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"0-1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"F",
+    "section_key":"20243DNCE3140X002",
+    "type":"STUDIO"
+  },
+  {
+    "course_code":"DNCE BC3143",
+    "course_title":"CLASSIC VARIATIONS",
+    "course_descr":null,
+    "instructor":"Ashley Tuttle",
+    "scheduled_time_start":"5:40pm",
+    "scheduled_time_end":"6:55pm",
+    "call_number":"00688",
+    "campus":"Barnard College",
+    "class_id":"X3143-20243-001",
+    "course_subtitle":null,
+    "department":"Dance @Barnard",
+    "department_code":"DNCE",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/DNCE\/X3143-20243-001\/",
+    "location":"To be announced",
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"0-1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20243DNCE3143X001",
     "type":"STUDIO"
   },
   {
@@ -13353,6 +13930,214 @@
     "scheduled_days":"MW",
     "section_key":"20243DNCE3240X001",
     "type":"LECTURE"
+  },
+  {
+    "course_code":"DNCE BC3248",
+    "course_title":"JAZZ DANCE III",
+    "course_descr":null,
+    "instructor":"Ehizoje J Azeke",
+    "scheduled_time_start":"2:40pm",
+    "scheduled_time_end":"3:55pm",
+    "call_number":"00689",
+    "campus":"Barnard College",
+    "class_id":"X3248-20243-001",
+    "course_subtitle":null,
+    "department":"Dance @Barnard",
+    "department_code":"DNCE",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/DNCE\/X3248-20243-001\/",
+    "location":"To be announced",
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20243DNCE3248X001",
+    "type":"STUDIO"
+  },
+  {
+    "course_code":"DNCE BC3250",
+    "course_title":"FLAMENCO",
+    "course_descr":null,
+    "instructor":"Nelida Tirado",
+    "scheduled_time_start":"11:00am",
+    "scheduled_time_end":"12:50pm",
+    "call_number":"00690",
+    "campus":"Barnard College",
+    "class_id":"X3250-20243-001",
+    "course_subtitle":null,
+    "department":"Dance @Barnard",
+    "department_code":"DNCE",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/DNCE\/X3250-20243-001\/",
+    "location":"To be announced",
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"0-1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"F",
+    "section_key":"20243DNCE3250X001",
+    "type":"STUDIO"
+  },
+  {
+    "course_code":"DNCE BC3332",
+    "course_title":"MODERN V",
+    "course_descr":null,
+    "instructor":"Francesca Dominguez",
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"2:25pm",
+    "call_number":"00691",
+    "campus":"Barnard College",
+    "class_id":"X3332-20243-001",
+    "course_subtitle":null,
+    "department":"Dance @Barnard",
+    "department_code":"DNCE",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/DNCE\/X3332-20243-001\/",
+    "location":"To be announced",
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"0-1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20243DNCE3332X001",
+    "type":"STUDIO"
+  },
+  {
+    "course_code":"DNCE BC3332",
+    "course_title":"MODERN V",
+    "course_descr":null,
+    "instructor":"Tamisha Guy",
+    "scheduled_time_start":"8:40am",
+    "scheduled_time_end":"9:55am",
+    "call_number":"00692",
+    "campus":"Barnard College",
+    "class_id":"X3332-20243-002",
+    "course_subtitle":null,
+    "department":"Dance @Barnard",
+    "department_code":"DNCE",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/DNCE\/X3332-20243-002\/",
+    "location":"To be announced",
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"0-1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20243DNCE3332X002",
+    "type":"STUDIO"
+  },
+  {
+    "course_code":"DNCE BC3334",
+    "course_title":"IMPROVISATION",
+    "course_descr":null,
+    "instructor":"Caroline Fermin",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"11:25am",
+    "call_number":"00693",
+    "campus":"Barnard College",
+    "class_id":"X3334-20243-001",
+    "course_subtitle":null,
+    "department":"Dance @Barnard",
+    "department_code":"DNCE",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/DNCE\/X3334-20243-001\/",
+    "location":"To be announced",
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"0-1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20243DNCE3334X001",
+    "type":"STUDIO"
+  },
+  {
+    "course_code":"DNCE BC3335",
+    "course_title":"MODERN VI",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"5:25pm",
+    "call_number":"00694",
+    "campus":"Barnard College",
+    "class_id":"X3335-20243-001",
+    "course_subtitle":null,
+    "department":"Dance @Barnard",
+    "department_code":"DNCE",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/DNCE\/X3335-20243-001\/",
+    "location":"To be announced",
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"0-1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20243DNCE3335X001",
+    "type":"STUDIO"
+  },
+  {
+    "course_code":"DNCE BC3335",
+    "course_title":"MODERN VI",
+    "course_descr":null,
+    "instructor":"Lisa Boudreau",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"5:25pm",
+    "call_number":"00695",
+    "campus":"Barnard College",
+    "class_id":"X3335-20243-002",
+    "course_subtitle":null,
+    "department":"Dance @Barnard",
+    "department_code":"DNCE",
+    "instructor_wikipedia_link":"https:\/\/en.wikipedia.org\/wiki\/Lisa_Staiano-Coico",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/DNCE\/X3335-20243-002\/",
+    "location":"To be announced",
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"0-1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20243DNCE3335X002",
+    "type":"STUDIO"
+  },
+  {
+    "course_code":"DNCE BC3447",
+    "course_title":"TAP III",
+    "course_descr":null,
+    "instructor":"Dormeshia Sunbry-Edwards",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"5:25pm",
+    "call_number":"00696",
+    "campus":"Barnard College",
+    "class_id":"X3447-20243-001",
+    "course_subtitle":null,
+    "department":"Dance @Barnard",
+    "department_code":"DNCE",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/DNCE\/X3447-20243-001\/",
+    "location":"To be announced",
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"0-1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20243DNCE3447X001",
+    "type":"STUDIO"
   },
   {
     "course_code":"DNCE BC3560",
@@ -13485,9 +14270,139 @@
     "type":"SEMINAR"
   },
   {
+    "course_code":"DNCE BC3602",
+    "course_title":"REHEARSAL& PERFRMNCE IN DANCE",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"9:00pm",
+    "call_number":"00697",
+    "campus":"Barnard College",
+    "class_id":"X3602-20243-001",
+    "course_subtitle":"REHEARSAL& PERFRMNCE IN D",
+    "department":"Dance @Barnard",
+    "department_code":"DNCE",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/DNCE\/X3602-20243-001\/",
+    "location":"To be announced",
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"1-3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20243DNCE3602X001",
+    "type":"STUDIO"
+  },
+  {
+    "course_code":"DNCE BC3602",
+    "course_title":"REHEARSAL& PERFRMNCE IN DANCE",
+    "course_descr":null,
+    "instructor":"Vincent McCloskey",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"9:00pm",
+    "call_number":"00698",
+    "campus":"Barnard College",
+    "class_id":"X3602-20243-002",
+    "course_subtitle":"REHEARSAL& PERFRMNCE IN D",
+    "department":"Dance @Barnard",
+    "department_code":"DNCE",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/DNCE\/X3602-20243-002\/",
+    "location":"To be announced",
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"1-3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20243DNCE3602X002",
+    "type":"STUDIO"
+  },
+  {
+    "course_code":"DNCE BC3602",
+    "course_title":"REHEARSAL& PERFRMNCE IN DANCE",
+    "course_descr":null,
+    "instructor":"Allison Easter",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"9:00pm",
+    "call_number":"00699",
+    "campus":"Barnard College",
+    "class_id":"X3602-20243-003",
+    "course_subtitle":"REHEARSAL& PERFRMNCE IN D",
+    "department":"Dance @Barnard",
+    "department_code":"DNCE",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/DNCE\/X3602-20243-003\/",
+    "location":"To be announced",
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"1-3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20243DNCE3602X003",
+    "type":"STUDIO"
+  },
+  {
+    "course_code":"DNCE BC3602",
+    "course_title":"REHEARSAL& PERFRMNCE IN DANCE",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"9:00pm",
+    "call_number":"00700",
+    "campus":"Barnard College",
+    "class_id":"X3602-20243-004",
+    "course_subtitle":"REHEARSAL& PERFRMNCE IN D",
+    "department":"Dance @Barnard",
+    "department_code":"DNCE",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/DNCE\/X3602-20243-004\/",
+    "location":"To be announced",
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"1-3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20243DNCE3602X004",
+    "type":"STUDIO"
+  },
+  {
+    "course_code":"DNCE BC3602",
+    "course_title":"REHEARSAL& PERFRMNCE IN DANCE",
+    "course_descr":null,
+    "instructor":"Lisa Boudreau",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"9:00pm",
+    "call_number":"00701",
+    "campus":"Barnard College",
+    "class_id":"X3602-20243-005",
+    "course_subtitle":"REHEARSAL& PERFRMNCE IN D",
+    "department":"Dance @Barnard",
+    "department_code":"DNCE",
+    "instructor_wikipedia_link":"https:\/\/en.wikipedia.org\/wiki\/Lisa_Staiano-Coico",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/DNCE\/X3602-20243-005\/",
+    "location":"To be announced",
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"1-3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20243DNCE3602X005",
+    "type":"STUDIO"
+  },
+  {
     "course_code":"EAAS GU4022",
     "course_title":"JAPANESE BUDDHIST VISUAL CULTR",
-    "course_descr":null,
+    "course_descr":"This course explors the principal modes, media, and contexts of visual culture in Japanese Buddhist history. Through the analysis of selected case studies, the course examines of the modalities of perception, materiality, and reception that distinguish the form and function of visual media in Japanese Buddhist contexts. Students are expected to have completed preliminary coursework in relevant areas of East Asian history, religion, or art history.\n",
     "instructor":"David L Moerman",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -15389,7 +16304,7 @@
   {
     "course_code":"ECON GU4280",
     "course_title":"CORPORATE FINANCE",
-    "course_descr":null,
+    "course_descr":"Prerequisites: ECON UN3211 and ECON UN3213 and STAT UN1201 An introduction to the economics principles underlying the financial decisions of firms. The topics covered include bond and stock valuations, capital budgeting, dividend policy, market efficiency, risk valuation, and risk management. For information regarding REGISTRATION for this course, go to: http:\/\/econ.columbia.edu\/registration-information.\n\n",
     "instructor":"Tri Vi Dang",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:25pm",
@@ -15412,7 +16327,15 @@
     ],
     "points":"3",
     "prerequisites":[
-
+      [
+        "ECON UN3211"
+      ],
+      [
+        "ECON UN3213"
+      ],
+      [
+        "STAT UN1201"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20243ECON4280W002",
@@ -15421,7 +16344,7 @@
   {
     "course_code":"ECON GU4321",
     "course_title":"ECONOMIC DEVELOPMENT",
-    "course_descr":null,
+    "course_descr":"Prerequisites: ECON UN3211 and ECON UN3213 Historical comparative examination of the economic development problems of the less developed countries; the roles of social institutions and human resource development; the functions of urbanization, rural development, and international trade.\n",
     "instructor":"Jack J Willis",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:25pm",
@@ -15438,7 +16361,12 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "ECON UN3211"
+      ],
+      [
+        "ECON UN3213"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20243ECON4321W001",
@@ -15447,7 +16375,7 @@
   {
     "course_code":"ECON GU4370",
     "course_title":"POLITICAL ECONOMY",
-    "course_descr":null,
+    "course_descr":"The objective of this course is to develop understanding of how political institutions and behavior shape economic outcomes, and vice versa. Starting from the micro level study of political behavior, we will build up to analyze the internal workings of institutions and ultimately macro level economic and political outcomes. During the course we will cover the following topics\n  \n\u2022 Limits and potential of markets\n  \n\u2022 Public goods provision\n  \n\u2022 Voting\n  \n\u2022 Redistribution\n\n",
     "instructor":"Alessandra Casella",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -15480,6 +16408,122 @@
     "scheduled_days":"MW",
     "section_key":"20243ECON4370W001",
     "type":"LECTURE"
+  },
+  {
+    "course_code":"ECON GU4911",
+    "course_title":"MICROECONOMICS SEMINAR",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"11034",
+    "campus":"Morningside",
+    "class_id":"W4911-20243-005",
+    "course_subtitle":"ECONOMICS OF THE ARTS",
+    "department":"Economics",
+    "department_code":"ECON",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ECON\/W4911-20243-005\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "General Studies"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20243ECON4911W005",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"ECON GU4913",
+    "course_title":"MACROECONOMICS SEMINAR",
+    "course_descr":null,
+    "instructor":"Noemie Pinardon-Touati",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"6:00pm",
+    "call_number":"11032",
+    "campus":"Morningside",
+    "class_id":"W4913-20243-001",
+    "course_subtitle":"MACROECONOMICS SEMINAR (4)",
+    "department":"Economics",
+    "department_code":"ECON",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ECON\/W4913-20243-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "General Studies"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20243ECON4913W001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"ECON GU4913",
+    "course_title":"MACROECONOMICS SEMINAR",
+    "course_descr":null,
+    "instructor":"Richard H Clarida",
+    "scheduled_time_start":"8:10am",
+    "scheduled_time_end":"10:00am",
+    "call_number":"11033",
+    "campus":"Morningside",
+    "class_id":"W4913-20243-002",
+    "course_subtitle":"MACROECONOMICS SEMINAR (4)",
+    "department":"Economics",
+    "department_code":"ECON",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ECON\/W4913-20243-002\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "General Studies"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20243ECON4913W002",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"ECON GU4999",
+    "course_title":"SENIOR HONORS THESIS WORKSHOP",
+    "course_descr":null,
+    "instructor":"Lena Edlund",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"6:00pm",
+    "call_number":"11035",
+    "campus":"Morningside",
+    "class_id":"W4999-20243-001",
+    "course_subtitle":"SENIOR HONORS THESIS WORK",
+    "department":"Economics",
+    "department_code":"ECON",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ECON\/W4999-20243-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "General Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20243ECON4999W001",
+    "type":"SEMINAR"
   },
   {
     "course_code":"ECON UN1105",
@@ -17114,58 +18158,6 @@
     "type":"SEMINAR"
   },
   {
-    "course_code":"ENGL BC1901",
-    "course_title":"INTRODUCTION TO COMICS & GRAPHIC NOVELS",
-    "course_descr":"This course provides students with an introduction to the scholarly study of comics and graphic novels. It is designed to teach students how to analyze these texts by paying special attention to narrative forms and page design. As part of this focus, attention will be given to the way that comics and graphic novels are created and the importance of publication format. In addition to studying comics and graphic novels themselves, we will look at the way that scholars have approached this emergent field of academic interest.\n\n",
-    "instructor":"Benjamin M Breyer",
-    "scheduled_time_start":"8:40am",
-    "scheduled_time_end":"9:55am",
-    "call_number":"00519",
-    "campus":"Barnard College",
-    "class_id":"X1901-20243-001",
-    "course_subtitle":"INTRO TO COMICS\/GRAPHIC N",
-    "department":"English @Barnard",
-    "department_code":"ENGL",
-    "instructor_wikipedia_link":null,
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/X1901-20243-001\/",
-    "location":"To be announced",
-    "method_of_instruction":null,
-    "open_to":null,
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"TR",
-    "section_key":"20243ENGL1901X001",
-    "type":"LECTURE"
-  },
-  {
-    "course_code":"ENGL BC1982",
-    "course_title":"AMERICAN FICTION",
-    "course_descr":"An introduction to race, gender, indigeneity, colonialism and class in American fiction from the 18th to the\u00a0mid-20th century.\u00a0 Writers include Rowson, Hawthorne, Melville, Stowe, Dunbar, James, Zitkala-Sa,\u00a0Wharton, Faulkner, and Brooks.\u00a0\n\n",
-    "instructor":"Jennie Kassanoff",
-    "scheduled_time_start":"11:40am",
-    "scheduled_time_end":"12:55pm",
-    "call_number":"00034",
-    "campus":"Barnard College",
-    "class_id":"X1982-20243-001",
-    "course_subtitle":null,
-    "department":"English @Barnard",
-    "department_code":"ENGL",
-    "instructor_wikipedia_link":null,
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/X1982-20243-001\/",
-    "location":"To be announced",
-    "method_of_instruction":null,
-    "open_to":null,
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"TR",
-    "section_key":"20243ENGL1982X001",
-    "type":"LECTURE"
-  },
-  {
     "course_code":"ENGL BC3101",
     "course_title":"THE WRITER'S PROCESS",
     "course_descr":"Enrollment limited to Barnard students. Application process and permission of instructor required: \nhttps:\/\/writing.barnard.edu\/become-writing-fellow\n.\u00a0Exploration of theory and practice in the teaching of writing, designed for students who plan to become Writing Fellows at Barnard. Students will read current theory and consider current research in the writing process and engage in practical applications in the classroom or in tutoring. The Writer\u2019s Process is only open to those who applied to and were accepted into the Writing Fellows Program. \nNote: This course now counts as an elective for the English major. \n\n",
@@ -18099,7 +19091,7 @@
   {
     "course_code":"ENGL PS0005",
     "course_title":"ACADEMIC WRITING",
-    "course_descr":null,
+    "course_descr":"This course helps students whose first language is not English\u00a0develop their academic writing skills. The course covers essay structure, rhetoric, grammatical accuracy, paraphrasing, citing sources, critical thinking, and editing\/revising work.\n  \nThe course is thematic: you will explore different topics and themes (current affairs, social issues, etc.) by reading, listening, and discussing material, and then write essays about that material. The instructors will provide extensive feedback to help you edit and revise your own writing.\n\n",
     "instructor":null,
     "scheduled_time_start":"9:10am",
     "scheduled_time_end":"11:25am",
@@ -18127,7 +19119,7 @@
   {
     "course_code":"ENGL PS0005",
     "course_title":"ACADEMIC WRITING",
-    "course_descr":null,
+    "course_descr":"This course helps students whose first language is not English\u00a0develop their academic writing skills. The course covers essay structure, rhetoric, grammatical accuracy, paraphrasing, citing sources, critical thinking, and editing\/revising work.\n  \nThe course is thematic: you will explore different topics and themes (current affairs, social issues, etc.) by reading, listening, and discussing material, and then write essays about that material. The instructors will provide extensive feedback to help you edit and revise your own writing.\n\n",
     "instructor":null,
     "scheduled_time_start":"9:10am",
     "scheduled_time_end":"11:25am",
@@ -18155,7 +19147,7 @@
   {
     "course_code":"ENGL PS0005",
     "course_title":"ACADEMIC WRITING",
-    "course_descr":null,
+    "course_descr":"This course helps students whose first language is not English\u00a0develop their academic writing skills. The course covers essay structure, rhetoric, grammatical accuracy, paraphrasing, citing sources, critical thinking, and editing\/revising work.\n  \nThe course is thematic: you will explore different topics and themes (current affairs, social issues, etc.) by reading, listening, and discussing material, and then write essays about that material. The instructors will provide extensive feedback to help you edit and revise your own writing.\n\n",
     "instructor":null,
     "scheduled_time_start":"9:10am",
     "scheduled_time_end":"11:25am",
@@ -18183,7 +19175,7 @@
   {
     "course_code":"ENGL PS0006",
     "course_title":"ACADEMIC WRITING",
-    "course_descr":null,
+    "course_descr":"This course helps students whose first language is not English\u00a0develop their academic writing skills. The course covers essay structure, rhetoric, grammatical accuracy, paraphrasing, citing sources, critical thinking, and editing\/revising work.\n  \nThe course is thematic: you will explore different topics and themes (current affairs, social issues, etc.) by reading, listening, and discussing material, and then write essays about that material. The instructors will provide extensive feedback to help you edit and revise your own writing.\n\n",
     "instructor":null,
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:25pm",
@@ -18211,7 +19203,7 @@
   {
     "course_code":"ENGL PS0006",
     "course_title":"ACADEMIC WRITING",
-    "course_descr":null,
+    "course_descr":"This course helps students whose first language is not English\u00a0develop their academic writing skills. The course covers essay structure, rhetoric, grammatical accuracy, paraphrasing, citing sources, critical thinking, and editing\/revising work.\n  \nThe course is thematic: you will explore different topics and themes (current affairs, social issues, etc.) by reading, listening, and discussing material, and then write essays about that material. The instructors will provide extensive feedback to help you edit and revise your own writing.\n\n",
     "instructor":null,
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:25pm",
@@ -18377,34 +19369,6 @@
     "type":"WORKSHOP"
   },
   {
-    "course_code":"ENGL PS0810",
-    "course_title":"THESIS WRITING",
-    "course_descr":null,
-    "instructor":null,
-    "scheduled_time_start":"12:10pm",
-    "scheduled_time_end":"2:00pm",
-    "call_number":"10945",
-    "campus":"Morningside",
-    "class_id":"Z0810-20243-001",
-    "course_subtitle":null,
-    "department":"American Language Program",
-    "department_code":"ENGL",
-    "instructor_wikipedia_link":null,
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/Z0810-20243-001\/",
-    "location":"To be announced",
-    "method_of_instruction":"In-Person",
-    "open_to":[
-      "GSAS"
-    ],
-    "points":"0",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"R",
-    "section_key":"20243ENGL0810Z001",
-    "type":"LANGUAGE"
-  },
-  {
     "course_code":"ENGL PS0850",
     "course_title":"INTL TEACHING FELLOWS TRAINING",
     "course_descr":null,
@@ -18431,146 +19395,6 @@
     "scheduled_days":"MW",
     "section_key":"20243ENGL0850Z001",
     "type":"WORKSHOP"
-  },
-  {
-    "course_code":"ENGL PS1007",
-    "course_title":"ADV ACAD WRITING FOR GS",
-    "course_descr":null,
-    "instructor":null,
-    "scheduled_time_start":"9:10am",
-    "scheduled_time_end":"11:00am",
-    "call_number":"10947",
-    "campus":"Morningside",
-    "class_id":"Z1007-20243-001",
-    "course_subtitle":null,
-    "department":"American Language Program",
-    "department_code":"ENGL",
-    "instructor_wikipedia_link":null,
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/Z1007-20243-001\/",
-    "location":"To be announced",
-    "method_of_instruction":"In-Person",
-    "open_to":[
-      "General Studies"
-    ],
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"TR",
-    "section_key":"20243ENGL1007Z001",
-    "type":"LANGUAGE"
-  },
-  {
-    "course_code":"ENGL PS1007",
-    "course_title":"ADV ACAD WRITING FOR GS",
-    "course_descr":null,
-    "instructor":null,
-    "scheduled_time_start":"9:10am",
-    "scheduled_time_end":"11:00am",
-    "call_number":"10948",
-    "campus":"Morningside",
-    "class_id":"Z1007-20243-002",
-    "course_subtitle":null,
-    "department":"American Language Program",
-    "department_code":"ENGL",
-    "instructor_wikipedia_link":null,
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/Z1007-20243-002\/",
-    "location":"To be announced",
-    "method_of_instruction":"In-Person",
-    "open_to":[
-      "General Studies"
-    ],
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"TR",
-    "section_key":"20243ENGL1007Z002",
-    "type":"LANGUAGE"
-  },
-  {
-    "course_code":"ENGL PS1007",
-    "course_title":"ADV ACAD WRITING FOR GS",
-    "course_descr":null,
-    "instructor":null,
-    "scheduled_time_start":"6:10pm",
-    "scheduled_time_end":"8:00pm",
-    "call_number":"10949",
-    "campus":"Morningside",
-    "class_id":"Z1007-20243-003",
-    "course_subtitle":null,
-    "department":"American Language Program",
-    "department_code":"ENGL",
-    "instructor_wikipedia_link":null,
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/Z1007-20243-003\/",
-    "location":"To be announced",
-    "method_of_instruction":"In-Person",
-    "open_to":[
-      "General Studies"
-    ],
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"MW",
-    "section_key":"20243ENGL1007Z003",
-    "type":"LANGUAGE"
-  },
-  {
-    "course_code":"ENGL PS1007",
-    "course_title":"ADV ACAD WRITING FOR GS",
-    "course_descr":null,
-    "instructor":null,
-    "scheduled_time_start":"6:10pm",
-    "scheduled_time_end":"8:00pm",
-    "call_number":"10950",
-    "campus":"Morningside",
-    "class_id":"Z1007-20243-004",
-    "course_subtitle":null,
-    "department":"American Language Program",
-    "department_code":"ENGL",
-    "instructor_wikipedia_link":null,
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/Z1007-20243-004\/",
-    "location":"To be announced",
-    "method_of_instruction":"In-Person",
-    "open_to":[
-      "General Studies"
-    ],
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"MW",
-    "section_key":"20243ENGL1007Z004",
-    "type":"LANGUAGE"
-  },
-  {
-    "course_code":"ENGL PS1007",
-    "course_title":"ADV ACAD WRITING FOR GS",
-    "course_descr":null,
-    "instructor":null,
-    "scheduled_time_start":"11:10am",
-    "scheduled_time_end":"1:00pm",
-    "call_number":"10951",
-    "campus":"Morningside",
-    "class_id":"Z1007-20243-005",
-    "course_subtitle":null,
-    "department":"American Language Program",
-    "department_code":"ENGL",
-    "instructor_wikipedia_link":null,
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/Z1007-20243-005\/",
-    "location":"To be announced",
-    "method_of_instruction":"In-Person",
-    "open_to":[
-      "General Studies"
-    ],
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"TR",
-    "section_key":"20243ENGL1007Z005",
-    "type":"LANGUAGE"
   },
   {
     "course_code":"FILM BC3119",
@@ -23914,7 +24738,7 @@
   {
     "course_code":"HSME UN2915",
     "course_title":"AFRICA BEFORE COLONIALISM",
-    "course_descr":null,
+    "course_descr":"This course is an interdisciplinary exploration of the precolonial history of the African continent. It investigates in-depth the political, social, cultural and economic developments of different Africa communities, covering various regions and periods, from prehistory to the formation of the Indian Ocean and Atlantic worlds. Its focus is the intersection of politics, economics, culture and society. Using world history and Africa\u2019s location in the production of history as key analytical frames, it pays special attention to social, political and cultural changes that shaped the various individual and collective experiences of African peoples and states and the historical discourses associated to them.\n\n",
     "instructor":"Mamadou Diouf",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -27715,6 +28539,32 @@
     "type":"INDEPENDENT"
   },
   {
+    "course_code":"MDES GR6031",
+    "course_title":"NATL IN MID EAST AS IDEA\/PRAC",
+    "course_descr":null,
+    "instructor":"Joseph A Massad",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"6:00pm",
+    "call_number":"11051",
+    "campus":"Morningside",
+    "class_id":"G6031-20243-001",
+    "course_subtitle":"NATL IN MID EAST AS IDEA\/",
+    "department":"Middle Eastern, South Asian and African Studies",
+    "department_code":"MDES",
+    "instructor_wikipedia_link":"https:\/\/en.wikipedia.org\/wiki\/Joseph_Massad",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/MDES\/G6031-20243-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20243MDES6031G001",
+    "type":"SEMINAR"
+  },
+  {
     "course_code":"MDES GU4210",
     "course_title":"THIRD YEAR ARABIC I",
     "course_descr":"NOTE: There are 2 sections of Third Year Arabic I. Section 001 follows the standard curriculum building all 4 language skills, as described below. Section 002 follows a reading-intensive curriculum, with less emphasis on listening and writing while still conducted in Arabic, and is intended for those preparing for advanced research in modern or classical Arabic texts. Students in the regular third-year Arabic track improve reading, writing, speaking, and listening skills through close reading, compositions, class discussions, and presentations in Arabic on topics such as cultures of the Arab world, classical and modern Arabic literature, and contemporary Arabic media. Review of grammatical and syntactic rules as needed. No P\/D\/F or R credit is allowed for this class.\n",
@@ -27906,7 +28756,7 @@
   {
     "course_code":"MDES UN1003",
     "course_title":"Premodern Islamic Worlds",
-    "course_descr":null,
+    "course_descr":"This course introduces Islamic Civilization from the lifetime of the Prophet Muhammad (d. 632) to 1500 CE. Islamic Civilization stretches across a remarkable geographical expanse from modern Spain and Senegal in the west to the north of modern India in the east. Telling one cohesive story about Islamic Civilization is therefore challenging, even if we had a full lifetime to devote to it. We cannot include everything and, as with every complicated story worth knowing, what we choose to exclude is important. This semester, we bypass some of the traditional narratives of political and military history, which privilege the rise and fall of dynasties, the rule of great men, and the clashes of armies. We will still organize along political lines, but the focus of our conversations will be the incredible diversity of the various communities in the Islamic world. We approach Islamic Civilization through primary sources\u2014 poems, coins, buildings, etc.\u2014that we will read together in every class meeting. Our goal will be to situate each source in the political, cultural, and religious contexts of its production. This approach will allow us to appreciate Islamic Civilization in its many contexts through the centuries.\n  \nThrough the assignments and conversations in class and section, students will\n  \n  \nExplore the diversity of Islamic Civilization;\n  \nAnalyze primary sources produced in the Islamic world before 1500, both individually and as a class;\n  \nEngage with modern scholarship about Islam in India and Central Asia; the Middle East; North, West, and East Africa; and Southern Europe;\n  \nConstruct a source-based argument about Islamic Civilization before 1500;\n  \nCritically assess the parameters of Islamic Civilization.\n \n\n",
     "instructor":"Sarah Bin Tyeer",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -27932,7 +28782,7 @@
   {
     "course_code":"MDES UN1030",
     "course_title":"Game of Thrones   :  On Epics and Emp",
-    "course_descr":null,
+    "course_descr":"This undergraduate course offered in the context of the Global Core component of the Core Curriculum is an examination of the globally popular HBO series \u201cGame of Thrones\u201d as a prototype for a comparative understanding of the larger question of epics and empires.\u00a0\u00a0In this course we expand the domains of our interests and inquiries far wider and divide our syllabus into four parts: (1) Westeros:\u00a0The Mythic Empire; (2) Persia:\u00a0 The First Empire, (3) America:\u00a0The Last Empire; and (4) On Epics and Empires.\u00a0 Our objective will be to examine the main themes and overall arch of \u201cGame of Thrones\u201d into wider mythic, heroic, and transhistorical dimensions of our contemporary history.\u00a0\u00a0\n\n",
     "instructor":"Hamid Dabashi",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -27958,7 +28808,7 @@
   {
     "course_code":"MDES UN1101",
     "course_title":"ELEMENTARY TAMIL I",
-    "course_descr":null,
+    "course_descr":"This course constitutes the first half of a year-long introduction to\u00a0Tamil, the official language of\u00a0the Indian state of\u00a0Tamil\u00a0Nadu as well as an official language of Sri Lanka and Singapore. In\u00a0addition to being spoken by almost 80\u00a0million people worldwide,\u00a0Tamil\u00a0also has an impressive\u00a0classical past, having served as a language of religious, intellectual, and literary life in South India\u00a0for nearly two millennia. Assuming no prior experience with the language, this introductory sequence provides students\u00a0with the grammar, language skills, and cultural context necessary for achieving their individual\u00a0Tamil\u00a0language goals, whether they\u00a0be conducting fieldwork or scholarly research, chatting with\u00a0relatives back home, or simply waxing poetic over an artful\u00a0\ndosai\n. In order to cultivate students\u2019\u00a0reading, writing, speaking, and listening comprehension skills, this\u00a0course draws upon a wide\u00a0variety of teaching materials, including the core textbook, oral drills, audio recordings, short films,\u00a0music videos, memes, and more. No P\/D\/F or R credit is allowed for this class.\n\n",
     "instructor":"Jay Ramesh",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:00pm",
@@ -28088,7 +28938,7 @@
   {
     "course_code":"MDES UN1401",
     "course_title":"ELEMENTARY SANSKRIT I",
-    "course_descr":null,
+    "course_descr":"This course constitutes the first half of a year-long introduction to Classical Sanskrit, the translocal language of religious, intellectual, and literary life in South Asia for nearly two millennia. Assuming no prior experience with the language, this introductory sequence provides students with the grammar, reading strategies, and cultural context necessary to begin accessing the language\u2019s many rich textual traditions, including scripture (sruti), epic (itihasa), poetry (kavya), drama (na?aka), systematic thought (sastra), and more.\n",
     "instructor":"Jay Ramesh",
     "scheduled_time_start":"9:10am",
     "scheduled_time_end":"10:00am",
@@ -28420,7 +29270,7 @@
   {
     "course_code":"MDES UN2401",
     "course_title":"INTERMEDIATE SANSKRIT I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: Elementary Sanskrit II or instructor permission. This course constitutes the first half of a year-long reading course designed to give students the tools necessary for advanced study in Classical Sanskrit. Readings in epic (itihasa), poetry (kavya), systematic thought (sastra), and commentary (vyakhyana) will introduce students to a variety of important genres and their distinctive conventions. A focus upon the Sanskrit tradition\u2019s own categories of analysis\u2014grammatical, commentarial, and prosodic\u2014will enable students to begin to make sense of original Sanskrit texts as generations of the tradition\u2019s own readers have. No P\/D\/F or R credit is allowed for this class.\n",
     "instructor":"Jay Ramesh",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -28531,6 +29381,32 @@
     "scheduled_days":"MW",
     "section_key":"20243MDES2901W001",
     "type":"LANGUAGE"
+  },
+  {
+    "course_code":"MDES UN3920",
+    "course_title":"CONTEMP CULTURE IN ARAB WORLD",
+    "course_descr":null,
+    "instructor":"Joseph A Massad",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"6:00pm",
+    "call_number":"11050",
+    "campus":"Morningside",
+    "class_id":"W3920-20243-001",
+    "course_subtitle":"CONTEMP CULTURE IN ARAB W",
+    "department":"Middle Eastern, South Asian and African Studies",
+    "department_code":"MDES",
+    "instructor_wikipedia_link":"https:\/\/en.wikipedia.org\/wiki\/Joseph_Massad",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/MDES\/W3920-20243-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20243MDES3920W001",
+    "type":"SEMINAR"
   },
   {
     "course_code":"MEDI M5106",
@@ -37352,7 +38228,7 @@
   {
     "course_code":"PSYC BC1010",
     "course_title":"INTRO LAB EXPERIMENTAL PSYCH",
-    "course_descr":null,
+    "course_descr":"Corequisites: PSYC BC1001, or its equivalent, must be completed prior to or concurrently with BC1010. This lab course is intended for students who have not previously been enrolled in a psychology lab course; and a majority of seats are reserved for First Year and Sophomore students. A laboratory-based introduction to experimental methods used in psychological research. Upon successful completion of this course, students will know how to review the primary literature and formulate a hypothesis, design an experiment, analyze data using statistical methods, communicate the results of a scientific study through oral presentation and written manuscript, and carry out research studies under ethical guidelines. Students will be able to apply the acquired knowledge in all disciplines of Psychology and will be prepared to engage in advance research in fields including, but not limited to, Cognition, Learning, Perception, Behavioral Neuroscience, Development, Personality, and Social Psychology.\u00a0\n\n",
     "instructor":"Svetlana Komissarouk",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -37376,7 +38252,10 @@
     ],
     "points":"1.5",
     "prerequisites":[
-
+      [
+        "PSYC BC1001",
+        "BC1010"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20243PSYC1010X003",
@@ -37385,7 +38264,7 @@
   {
     "course_code":"PSYC BC1010",
     "course_title":"INTRO LAB EXPERIMENTAL PSYCH",
-    "course_descr":null,
+    "course_descr":"Corequisites: PSYC BC1001, or its equivalent, must be completed prior to or concurrently with BC1010. This lab course is intended for students who have not previously been enrolled in a psychology lab course; and a majority of seats are reserved for First Year and Sophomore students. A laboratory-based introduction to experimental methods used in psychological research. Upon successful completion of this course, students will know how to review the primary literature and formulate a hypothesis, design an experiment, analyze data using statistical methods, communicate the results of a scientific study through oral presentation and written manuscript, and carry out research studies under ethical guidelines. Students will be able to apply the acquired knowledge in all disciplines of Psychology and will be prepared to engage in advance research in fields including, but not limited to, Cognition, Learning, Perception, Behavioral Neuroscience, Development, Personality, and Social Psychology.\u00a0\n\n",
     "instructor":"Svetlana Komissarouk",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -37402,7 +38281,10 @@
     "open_to":null,
     "points":"1.5",
     "prerequisites":[
-
+      [
+        "PSYC BC1001",
+        "BC1010"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20243PSYC1010X004",
@@ -38578,34 +39460,6 @@
     "type":"LECTURE"
   },
   {
-    "course_code":"PSYC GR6100",
-    "course_title":"COMMUNICATING SCIENCE",
-    "course_descr":"Prerequisites: the instructors permission. How to write about and present scientific information in a clear and interesting way. We will use: 1) individualized writing projects; 2) oral presentations; and 3) concise books on good writing to develop skills for communicating scientific ideas, design, results and theory.\n",
-    "instructor":"Sarah Woolley",
-    "scheduled_time_start":"6:10pm",
-    "scheduled_time_end":"8:00pm",
-    "call_number":"10680",
-    "campus":"Morningside",
-    "class_id":"G6100-20243-001",
-    "course_subtitle":null,
-    "department":"Psychology",
-    "department_code":"PSYC",
-    "instructor_wikipedia_link":"https:\/\/en.wikipedia.org\/wiki\/Sarah_M._N._Woolley",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PSYC\/G6100-20243-001\/",
-    "location":"To be announced",
-    "method_of_instruction":"In-Person",
-    "open_to":[
-      "GSAS"
-    ],
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"R",
-    "section_key":"20243PSYC6100G001",
-    "type":"SEMINAR"
-  },
-  {
     "course_code":"PSYC GR6200",
     "course_title":"PRACTICUM IN TEACHING OF PSYCH",
     "course_descr":"Practical and theoretical issues relating to the teaching of psychology and the psychology of teaching.\n\n",
@@ -38893,48 +39747,6 @@
     ],
     "scheduled_days":"W",
     "section_key":"20243PSYC4244W001",
-    "type":"SEMINAR"
-  },
-  {
-    "course_code":"PSYC GU4265",
-    "course_title":"AUDITORY PERCEPTION",
-    "course_descr":"Prerequisites: PSYC UN1010 PSYC UN1010 or equivalent; background in statistics\/research methods recommended How does the human brain make sense of the acoustic world? What aspects of auditory perception do humans share with other animals? How does the brain perform the computations necessary for skills such as soundlocalization? How do we focus our auditory attention on one voice in a crowd? What acoustic cues are important for speech perception? How is music perceived? These are the types of questions we will address by studyingthe basics of auditory perception from textbook readings and reviews, and reading classic and current literatureto understand scientific progress in the field today.\n",
-    "instructor":"Sarah Woolley",
-    "scheduled_time_start":"4:10pm",
-    "scheduled_time_end":"6:00pm",
-    "call_number":"10677",
-    "campus":"Morningside",
-    "class_id":"W4265-20243-001",
-    "course_subtitle":null,
-    "department":"Psychology",
-    "department_code":"PSYC",
-    "instructor_wikipedia_link":"https:\/\/en.wikipedia.org\/wiki\/Sarah_M._N._Woolley",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PSYC\/W4265-20243-001\/",
-    "location":"To be announced",
-    "method_of_instruction":"In-Person",
-    "open_to":[
-      "Barnard College",
-      "Columbia College",
-      "Engineering:Graduate",
-      "Engineering:Undergraduate",
-      "GSAS",
-      "General Studies",
-      "Global Programs",
-      "Professional Studies",
-      "SIPA",
-      "Schools of the Arts"
-    ],
-    "points":"3",
-    "prerequisites":[
-      [
-        "PSYC UN1010"
-      ],
-      [
-        "PSYC UN1010"
-      ]
-    ],
-    "scheduled_days":"R",
-    "section_key":"20243PSYC4265W001",
     "type":"SEMINAR"
   },
   {
@@ -40017,7 +40829,7 @@
   {
     "course_code":"QMSS GR5010",
     "course_title":"QUANT THRY\/METHODOLOGY-SOC SCI",
-    "course_descr":null,
+    "course_descr":"This interdisciplinary course, taken in the fall semester, is a comprehensive introduction to quantitative research in the social sciences. The course focuses on foundational ideas of social science research, including strengths and weaknesses of different research designs, interpretation of data drawn from contemporary and historical contexts, and strategies for evaluating evidence. The majority of the course is comprised of two-week units examining particular research designs, with a set of scholarly articles that utilize that design. Topics include: the \u201cscience\u201d of social science and the role of statistical models, causality and causal inference, concepts and measurement, understanding human decision making, randomization and experimental methods, observation and quasi-experimentation, sampling, survey research, and working with archival data.\n\n",
     "instructor":"Nicholas L Anderson",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -40043,7 +40855,7 @@
   {
     "course_code":"QMSS GR5010",
     "course_title":"QUANT THRY\/METHODOLOGY-SOC SCI",
-    "course_descr":null,
+    "course_descr":"This interdisciplinary course, taken in the fall semester, is a comprehensive introduction to quantitative research in the social sciences. The course focuses on foundational ideas of social science research, including strengths and weaknesses of different research designs, interpretation of data drawn from contemporary and historical contexts, and strategies for evaluating evidence. The majority of the course is comprised of two-week units examining particular research designs, with a set of scholarly articles that utilize that design. Topics include: the \u201cscience\u201d of social science and the role of statistical models, causality and causal inference, concepts and measurement, understanding human decision making, randomization and experimental methods, observation and quasi-experimentation, sampling, survey research, and working with archival data.\n\n",
     "instructor":"Jingyan Yang",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -40069,7 +40881,7 @@
   {
     "course_code":"QMSS GR5010",
     "course_title":"QUANT THRY\/METHODOLOGY-SOC SCI",
-    "course_descr":null,
+    "course_descr":"This interdisciplinary course, taken in the fall semester, is a comprehensive introduction to quantitative research in the social sciences. The course focuses on foundational ideas of social science research, including strengths and weaknesses of different research designs, interpretation of data drawn from contemporary and historical contexts, and strategies for evaluating evidence. The majority of the course is comprised of two-week units examining particular research designs, with a set of scholarly articles that utilize that design. Topics include: the \u201cscience\u201d of social science and the role of statistical models, causality and causal inference, concepts and measurement, understanding human decision making, randomization and experimental methods, observation and quasi-experimentation, sampling, survey research, and working with archival data.\n\n",
     "instructor":"Mazen Asaad",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -40095,7 +40907,7 @@
   {
     "course_code":"QMSS GR5010",
     "course_title":"QUANT THRY\/METHODOLOGY-SOC SCI",
-    "course_descr":null,
+    "course_descr":"This interdisciplinary course, taken in the fall semester, is a comprehensive introduction to quantitative research in the social sciences. The course focuses on foundational ideas of social science research, including strengths and weaknesses of different research designs, interpretation of data drawn from contemporary and historical contexts, and strategies for evaluating evidence. The majority of the course is comprised of two-week units examining particular research designs, with a set of scholarly articles that utilize that design. Topics include: the \u201cscience\u201d of social science and the role of statistical models, causality and causal inference, concepts and measurement, understanding human decision making, randomization and experimental methods, observation and quasi-experimentation, sampling, survey research, and working with archival data.\n\n",
     "instructor":"Mike Z He",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -40121,7 +40933,7 @@
   {
     "course_code":"QMSS GR5010",
     "course_title":"QUANT THRY\/METHODOLOGY-SOC SCI",
-    "course_descr":null,
+    "course_descr":"This interdisciplinary course, taken in the fall semester, is a comprehensive introduction to quantitative research in the social sciences. The course focuses on foundational ideas of social science research, including strengths and weaknesses of different research designs, interpretation of data drawn from contemporary and historical contexts, and strategies for evaluating evidence. The majority of the course is comprised of two-week units examining particular research designs, with a set of scholarly articles that utilize that design. Topics include: the \u201cscience\u201d of social science and the role of statistical models, causality and causal inference, concepts and measurement, understanding human decision making, randomization and experimental methods, observation and quasi-experimentation, sampling, survey research, and working with archival data.\n\n",
     "instructor":"Gregory M Eirich",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -40147,7 +40959,7 @@
   {
     "course_code":"QMSS GR5015",
     "course_title":"DATA ANALYSIS FOR THE SOCIAL SCIENCES",
-    "course_descr":null,
+    "course_descr":"Prerequisites: One semester of undergraduate statistics The data analysis course covers specific statistical tools used in social science research using the statistical program R. Topics to be covered include statistical data structures, and basic descriptives, regression models, multiple regression analysis, interactions, polynomials, Gauss-Markov assumptions and asymptotics, heteroskedasticity and diagnostics, models for binary outcomes, naive Bayes classifiers, models for ordered data, models for nominal data, first difference analysis, factor analysis, and a review of models that build upon OLS. Prerequisite: introductory statistics course that includes linear regression. There is a statistical computer lab session with this course: QMSS G4017 -001 -DATA ANALYSIS FOR SOC SCI\n\n",
     "instructor":"Gregory M Eirich",
     "scheduled_time_start":"11:10am",
     "scheduled_time_end":"1:00pm",
@@ -40164,7 +40976,9 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "QMSS G4017"
+      ]
     ],
     "scheduled_days":"F",
     "section_key":"20243QMSS5015G001",
@@ -40173,7 +40987,7 @@
   {
     "course_code":"QMSS GR5016",
     "course_title":"TIME SERIES, PANEL DATA & FORECASTING",
-    "course_descr":null,
+    "course_descr":"This course will introduce students to the main concepts and methods behind regression analysis of temporal processes and highlight the benefits and limitations of using temporally ordered data. Students study the complementary areas of time series data and longitudinal (or panel) data. There are no formal prerequisites for the course, but a solid understanding of the mechanics and interpretation of OLS regression will be assumed (we will briefly review it at the beginning of the course). Topics to be covered include regression with panel data, probit and logit regression of pooled cross-sectional data, difference-in-difference models, time series regression, dynamic causal effects, vector autoregressions, cointegration, and GARCH models. Statistical computing will be carried out in R.\n\n",
     "instructor":"Gregory M Eirich",
     "scheduled_time_start":"9:10am",
     "scheduled_time_end":"11:00am",
@@ -40199,7 +41013,7 @@
   {
     "course_code":"QMSS GR5021",
     "course_title":"RES SEM IN QUANT MTHS-SOC SCI I",
-    "course_descr":null,
+    "course_descr":"This course is designed to expose students in the QMSS degree program to different methods and practices of social science research. Seminar presentations are given on a wide range of topics by faculty from Columbia and other New York City universities, as well as researchers from private, government, and non-profit settings. QMSS students participate in a weekly seminar. Speakers include faculty from Columbia and other universities, and researchers from the numerous corporate, government, and non-profit settings where quantitative research tools are used. Topics have included: Now-Casting and the Real-Time Data-Flow; Art, Design - Science in Data Visualization; Educational Attainment and School Desegregation: Evidence from Randomized Lotteries; Practical Data Science: North American Oil and Gas Drilling Data.\n\n",
     "instructor":"Gregory M Eirich",
     "scheduled_time_start":"8:10pm",
     "scheduled_time_end":"10:00pm",
@@ -40225,7 +41039,7 @@
   {
     "course_code":"QMSS GR5022",
     "course_title":"RES SEM IN QUANT MTHS-SOC SCI II",
-    "course_descr":null,
+    "course_descr":"This course has two goals.\u00a0 One, it is designed to expose students in the QMSS degree program to different methods and practices of social science research.\u00a0 Seminar presentations are given on a wide range of topics by faculty from Columbia and other New York City universities, as well as researchers from other settings. Two, it is also designed to give students important professional development skills, particularly around academic writing, research methods and job skills.\u00a0\n\n",
     "instructor":"Gregory M Eirich",
     "scheduled_time_start":"8:10pm",
     "scheduled_time_end":"10:00pm",
@@ -40251,7 +41065,7 @@
   {
     "course_code":"QMSS GR5050",
     "course_title":"INTERNSHIP IN SOCIAL RESEARCH",
-    "course_descr":null,
+    "course_descr":"This course gives students two credits of academic credit for the work they perform in such an social science oriented internships.\n\n",
     "instructor":"Gregory M Eirich",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -40303,7 +41117,7 @@
   {
     "course_code":"QMSS GR5052",
     "course_title":"PRACTICUM IN DATA ANALYSIS",
-    "course_descr":null,
+    "course_descr":"This practicum course is meant to offer valuable training to students. Specifically, this practicum will mimicthe typical conditions that students would face in an internship in a large data-intense institution. Thepracticum will focus on four core elements involved in most internships: (1) Developing the intuition andskills to properly scope ambiguous project ideas; (2) practicing organizing and accessing a variety oflarge-scale data sources and formats; (3) conducting basic and advanced analysis of big data; and (4)communicating and \u201cproductizing\u201d results and findings from the earlier steps, in things like dashboards,reports, interactive graphics, or apps. The practicum will also give students time to reflect on their work, andhow it would best translate into corporate, non-profit, start-up and other contexts.\n\n",
     "instructor":"Nicole C Dicrecchio",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -40329,7 +41143,7 @@
   {
     "course_code":"QMSS GR5053",
     "course_title":"PRACTICUM IN DATA ANALYSIS II",
-    "course_descr":null,
+    "course_descr":"This practicum will mimic the typical conditions that students would face in an internship in a\n  \nlarge data-intense institution. The practicum will focus on four core elements involved in most\n  \ninternships:\n  \n\u2022 developing the intuition and skills to properly scope ambiguous project ideas;\n  \n\u2022 practicing organizing and accessing a variety of large-scale data sources and formats;\n  \n\u2022 conducting basic and advanced analysis of big data; and\n  \n\u2022 communicating and \u201cproductizing\u201d results and findings from the earlier steps, in things\n  \nlike dashboards, reports, interactive graphics, or apps.\n  \nThe practicum will also give students time to reflect on their work, and how it would best\n  \ntranslate into corporate, non-profit, start-up and other contexts.\n\n",
     "instructor":"Nicole C Dicrecchio",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -40355,7 +41169,7 @@
   {
     "course_code":"QMSS GR5054",
     "course_title":"INTERNSHIP IN SOCIAL III",
-    "course_descr":null,
+    "course_descr":"Students enrolled in the Quantitative Methods in the Social Sciences M.A. program have a number of opportunities for internships with various organizations in New York City. Over the past three years, representatives from a number of different organizations \u2013 including ABC News, Pfizer, the Manhattan Psychiatric Center, Merrill Lynch, and the Robert Wood Johnson Foundation \u2013 have approached students and faculty in QMSS about the possibility of having QMSS students work as interns. Many of these internships require students to receive some sort of course credit for their work. All internships will be graded on a pass\/fail basis.\n\n",
     "instructor":"Gregory M Eirich",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -40381,7 +41195,7 @@
   {
     "course_code":"QMSS GR5055",
     "course_title":"PRACTICUM IN DATA ANALYSIS",
-    "course_descr":null,
+    "course_descr":"This practicum course is meant to offer valuable training to students. Specifically, this practicum will mimicthe typical conditions that students would face in an internship in a large data-intense institution. Thepracticum will focus on four core elements involved in most internships: (1) Developing the intuition andskills to properly scope ambiguous project ideas; (2) practicing organizing and accessing a variety oflarge-scale data sources and formats; (3) conducting basic and advanced analysis of big data; and (4)communicating and \u201cproductizing\u201d results and findings from the earlier steps, in things like dashboards,reports, interactive graphics, or apps. The practicum will also give students time to reflect on their work, andhow it would best translate into corporate, non-profit, start-up and other contexts.\n\n",
     "instructor":"Charles R Riemann",
     "scheduled_time_start":"8:10pm",
     "scheduled_time_end":"10:00pm",
@@ -40407,7 +41221,7 @@
   {
     "course_code":"QMSS GR5056",
     "course_title":"PRACTICUM IN DATA ANALYSIS",
-    "course_descr":null,
+    "course_descr":"This practicum course is meant to offer valuable training to students. Specifically, this practicum will mimicthe typical conditions that students would face in an internship in a large data-intense institution. The practicum will focus on four core elements involved in most internships: (1) Developing the intuition andskills to properly scope ambiguous project ideas; (2) practicing organizing and accessing a variety oflarge-scale data sources and formats; (3) conducting basic and advanced analysis of big data; and (4)communicating and \u201cproductizing\u201d results and findings from the earlier steps, in things like dashboards,reports, interactive graphics, or apps. The practicum will also give students time to reflect on their work, andhow it would best translate into corporate, non-profit, start-up and other contexts.\n\n",
     "instructor":"Charles R Riemann",
     "scheduled_time_start":"8:10pm",
     "scheduled_time_end":"10:00pm",
@@ -40433,7 +41247,7 @@
   {
     "course_code":"QMSS GR5058",
     "course_title":"DATA MINING FOR SOCIAL SCIENCE",
-    "course_descr":null,
+    "course_descr":"The class is roughly divided into three parts: 1) programming best practices and exploratory data analysis (EDA); 2) supervised learning including regression and classification methods and 3) unsupervised learning and clustering methods. In the first part of the course we will focus writing R programs in the context of simulations, data wrangling, and EDA. Supervised learning deals with prediction problems where the outcome variable is known such as predicting a price of a house in a certain neighborhood or an outcome of a congressional race. The section on unsupervised learning is focused on problems where the outcome variable is not known and the goal of the analysis is to find hidden structure in data such as different market segments from buying patterns or human population structure from genetics data.\n",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -40459,7 +41273,7 @@
   {
     "course_code":"QMSS GR5067",
     "course_title":"NATURAL LANG PROCESSING SOCIAL SCIENCES",
-    "course_descr":null,
+    "course_descr":"Social scientists need to engage with natural language processing (NLP) approaches that are found in computer science, engineering, AI, tech and in industry. This course will provide an overview of natural language processing as it is applied in a number of domains. The goal is to gain familiarity with a number of critical topics and techniques that use text as data, and then to see how those NLP techniques can be used to produce social science research and insights. This course will be hands-on, with several large-scale exercises. The course will start with an introduction to Python and associated key NLP packages and github. The course will then cover topics like language modeling; part of speech tagging; parsing; information extraction; tokenizing; topic modeling; machine translation; sentiment analysis; summarization; supervised machine learning; and hidden Markov models. Prerequisites are basic probability and statistics, basic linear algebra and calculus. The course will use Python, and so if students have programmed in at least one software language, that will make it easier to keep up with the course.\n\n",
     "instructor":"Patrick Houlihan",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -40485,7 +41299,7 @@
   {
     "course_code":"QMSS GR5070",
     "course_title":"GIS & SPATIAL ANALYSIS-SOC SCI",
-    "course_descr":null,
+    "course_descr":"Prerequisites: Undergraduate Statistics This course introduces students to basic spatial analytic skills. It covers introductory concepts and tools in Geographic Information Systems (GIS) and database management. As well, the course introduces students to the process of developing and writing an original spatial research project. Topics to be covered include: social theories involving space, place and reflexive relationships; social demography concepts and databases; visualizing social data using geographic information systems; exploratory spatial data analysis of social data and spatially weighted regression models, spatial regression models of social data, and space-time models. Use of open-source software (primarily the R software package) will be taught as well.\n\n",
     "instructor":"Michael Parrott",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -40511,7 +41325,7 @@
   {
     "course_code":"QMSS GR5072",
     "course_title":"MODERN DATA STRUCTURES",
-    "course_descr":null,
+    "course_descr":"This course is intended to provide a detailed tour on how to access, clean, \u201cmunge\u201d and organize data, both big and small. (It should also give students a flavor of what would be expected of them in a typical data science interview.) Each week will have simple, moderate and complex examples in class, with code to follow. Students will then practice additional exercises at home. The end point of each project would be to get the data organized and cleaned enough so that it is in a data-frame, ready for subsequent analysis and graphing. Therefore, no analysis or visualization (beyond just basic tables and plots to make sure everything was correctly organized) will be taught; and this will free up substantial time for the \u201cnitty-gritty\u201d of all of this data wrangling.\n\n",
     "instructor":"Thomas Brambor",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -40537,7 +41351,7 @@
   {
     "course_code":"QMSS GR5073",
     "course_title":"MACHINE LEARNING SOC SCI",
-    "course_descr":null,
+    "course_descr":"Prerequisites: basic probability and statistics, basic linear algebra, and calculus This course will provide a comprehensive overview of machine learning as it is applied in a number of domains. Comparisons and contrasts will be drawn between this machine learning approach and more traditional regression-based approaches used in the social sciences. Emphasis will also be placed on opportunities to synthesize these two approaches. The course will start with an introduction to Python, the scikit-learn package and GitHub. After that, there will be some discussion of data exploration, visualization in matplotlib, preprocessing, feature engineering, variable imputation, and feature selection. Supervised learning methods will be considered, including OLS models, linear models for classification, support vector machines, decision trees and random forests, and gradient boosting. Calibration, model evaluation and strategies for dealing with imbalanced datasets, n on-negative matrix factorization, and outlier detection will be considered next. This will be followed by unsupervised techniques: PCA, discriminant analysis, manifold learning, clustering, mixture models, cluster evaluation. Lastly, we will consider neural networks, convolutional neural networks for image classification and recurrent neural networks. This course will primarily us Python. Previous programming experience will be helpful but not requisite. Prerequisites: basic probability and statistics, basic linear algebra, and calculus.\n\n",
     "instructor":null,
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -40563,7 +41377,7 @@
   {
     "course_code":"QMSS GR5074",
     "course_title":"PROJECTS IN ADVANCED MACHINE LEARNING",
-    "course_descr":null,
+    "course_descr":"Machine learning algorithms continue to advance in their capacity to predict outcomes and rival human judgment in a variety of settings.\u00a0 This course is designed to offer insight into advanced machine learning models, including Deep Learning, Recurrent Neural Networks, Adversarial Neural Networks, Time Series models and others.\u00a0 Students are expected to have familiarity with using Python, the scikit-learn package, and github.\u00a0 The other half of the course will be devoted to students working in key substantive areas, where advanced machine learning will prove helpful -- areas like computer vision and images, text and natural language processing, and tabular data.\u00a0 Students will be tasked to develop team projects in these areas and they will develop a public portfolio of three (or four) meaningful projects.\u00a0 By the end of the course, students will be able to show their work by launching their models in live REST APIs and web-applications.\n\n",
     "instructor":null,
     "scheduled_time_start":"8:10am",
     "scheduled_time_end":"10:00am",
@@ -40589,7 +41403,7 @@
   {
     "course_code":"QMSS GR5997",
     "course_title":"INDEPENDENT STUDY",
-    "course_descr":null,
+    "course_descr":"This course offers students an opportunity to expand their curriculum beyond the established course offerings. Interested parties must consult with the QMSS Program Director before adding the class. This course may be taken for 2-4 points.\n\n",
     "instructor":"Gregory M Eirich",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -40615,7 +41429,7 @@
   {
     "course_code":"QMSS GR5999",
     "course_title":"MASTER'S THESIS",
-    "course_descr":null,
+    "course_descr":"This course fulfills the Masters Thesis requirement of the QMSS MA Program. It is designed to help you make consistent progress on your master\u2019s thesis throughout the semester, as well as to provide structure during the writing process. The master\u2019s thesis, upon completion, should answer a fundamental research question in the subject matter of your choice. It should be an academic paper based on data that you can acquire, clean, and analyze within a single semester, with an emphasis on clarity and policy relevance.\n\n",
     "instructor":"Elena B Krumova",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -40957,7 +41771,7 @@
   {
     "course_code":"RELI GU4318",
     "course_title":"INTERPRETING BUDDHIST YOGA",
-    "course_descr":null,
+    "course_descr":"Students and scholars approaching a vast amount of primary and secondary literature, as well as accounts and anthropological and sociological studies of Buddhism as a lived religion, are faced with an array of stories, data, theories and practices, many of which appear to be inconsistent with others. \u00a0We try to make sense of these by interpreting them.\n  \nThe art or science of interpretation \u2013 \u201chermeneutics\u201d after Hermes \u2013 has a long history in Asia and in the West. \u00a0Buddhism itself has a tradition of hermeneutics, as does each of the Western religious traditions and Western philosophy and law, starting with Plato and Aristotle, becoming \u201cromantic\u201d with Schleiermacher, and \u201cmodern\u201d with Heidegger, Gadamer, and Ricoeur. \u00a0Today\u2019s Western hermeneutics has become largely de-regionalized from specific subject areas, and has been extended to the interpretation of all human experience.\n  \nAfter a grounding in traditional Buddhist and Western hermeneutic principles, we will focus on a number of aspects of Buddhism, including the central question of whether there is a \u201cself\u201d or not, and on esoteric Buddhist yoga, Tantra, central to several of the better-known forms of Buddhism today, including Tibetan Buddhism. \u00a0Here we will witness the confluence and, sometimes, collision of traditional Buddhist and Tantric hermeneutics focusing in large part on \u201cspiritual\u201d concerns, and the Western tradition, with its emphasis on economics, power, and gender. \u00a0In thinking about which interpretations are \u201cright\u201d -- indeed, whether any interpretation can be \u201cright,\u201d and, if so, \"how much?\" -- we will consider the cultures in which these scriptures and practices originated, as well as ourselves and our own contemporary perspectives, insights, presuppositions and prejudices.\n  \nA primary concern of hermeneutics is the interpretation of so-called \"objective\" physical and subjective mental realities. \u00a0In thinking about the hermeneutics of outer and inner time and space, towards the end of the semester we will consider whether the \"objective\" and the \"subjective\" intersect, how much, and look at some descriptions of quantum mechanics and the role of observation of physical reality there, and analogize and contrast those to and with some Buddhist systems of philosophy and practice.\n\n",
     "instructor":"David R Kittay",
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"2:00pm",
@@ -41475,12 +42289,40 @@
     "type":"SEMINAR"
   },
   {
+    "course_code":"SCNC CC1000",
+    "course_title":"FRONTIERS OF SCIENCE",
+    "course_descr":null,
+    "instructor":"Ivana N Hughes",
+    "scheduled_time_start":"10:30am",
+    "scheduled_time_end":"12:00pm",
+    "call_number":"10992",
+    "campus":"Morningside",
+    "class_id":"C1000-20243-001",
+    "course_subtitle":null,
+    "department":"Core (A&S)\t",
+    "department_code":"SCNC",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SCNC\/C1000-20243-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20243SCNC1000C001",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"SCNC CC1100",
     "course_title":"FRONTIERS OF SCIENCE-DISC",
-    "course_descr":null,
+    "course_descr":"Corequisites: SCNC CC1000 Accompanying discussion section for SCNC C1000 Frontiers of Science.\n\n",
     "instructor":null,
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"12:00pm",
     "call_number":"10953",
     "campus":"Morningside",
     "class_id":"C1100-20243-001",
@@ -41489,15 +42331,776 @@
     "department_code":"SCNC",
     "instructor_wikipedia_link":null,
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SCNC\/C1100-20243-001\/",
-    "location":null,
+    "location":"To be announced",
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "Columbia College"
+    ],
+    "points":"0",
+    "prerequisites":[
+      [
+        "SCNC CC1000",
+        "SCNC C1000"
+      ]
+    ],
+    "scheduled_days":"T",
+    "section_key":"20243SCNC1100C001",
+    "type":"DISCUSSION"
+  },
+  {
+    "course_code":"SCNC CC1100",
+    "course_title":"FRONTIERS OF SCIENCE-DISC",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"12:00pm",
+    "call_number":"10993",
+    "campus":"Morningside",
+    "class_id":"C1100-20243-002",
+    "course_subtitle":null,
+    "department":"Core (A&S)\t",
+    "department_code":"SCNC",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SCNC\/C1100-20243-002\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College"
+    ],
     "points":"0",
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
-    "section_key":"20243SCNC1100C001",
+    "scheduled_days":"T",
+    "section_key":"20243SCNC1100C002",
+    "type":"DISCUSSION"
+  },
+  {
+    "course_code":"SCNC CC1100",
+    "course_title":"FRONTIERS OF SCIENCE-DISC",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"12:10pm",
+    "scheduled_time_end":"2:00pm",
+    "call_number":"10994",
+    "campus":"Morningside",
+    "class_id":"C1100-20243-003",
+    "course_subtitle":null,
+    "department":"Core (A&S)\t",
+    "department_code":"SCNC",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SCNC\/C1100-20243-003\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20243SCNC1100C003",
+    "type":"DISCUSSION"
+  },
+  {
+    "course_code":"SCNC CC1100",
+    "course_title":"FRONTIERS OF SCIENCE-DISC",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"10995",
+    "campus":"Morningside",
+    "class_id":"C1100-20243-004",
+    "course_subtitle":null,
+    "department":"Core (A&S)\t",
+    "department_code":"SCNC",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SCNC\/C1100-20243-004\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20243SCNC1100C004",
+    "type":"DISCUSSION"
+  },
+  {
+    "course_code":"SCNC CC1100",
+    "course_title":"FRONTIERS OF SCIENCE-DISC",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"6:00pm",
+    "call_number":"10996",
+    "campus":"Morningside",
+    "class_id":"C1100-20243-005",
+    "course_subtitle":null,
+    "department":"Core (A&S)\t",
+    "department_code":"SCNC",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SCNC\/C1100-20243-005\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20243SCNC1100C005",
+    "type":"DISCUSSION"
+  },
+  {
+    "course_code":"SCNC CC1100",
+    "course_title":"FRONTIERS OF SCIENCE-DISC",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"12:00pm",
+    "call_number":"10997",
+    "campus":"Morningside",
+    "class_id":"C1100-20243-006",
+    "course_subtitle":null,
+    "department":"Core (A&S)\t",
+    "department_code":"SCNC",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SCNC\/C1100-20243-006\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20243SCNC1100C006",
+    "type":"DISCUSSION"
+  },
+  {
+    "course_code":"SCNC CC1100",
+    "course_title":"FRONTIERS OF SCIENCE-DISC",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"12:00pm",
+    "call_number":"10998",
+    "campus":"Morningside",
+    "class_id":"C1100-20243-007",
+    "course_subtitle":null,
+    "department":"Core (A&S)\t",
+    "department_code":"SCNC",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SCNC\/C1100-20243-007\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20243SCNC1100C007",
+    "type":"DISCUSSION"
+  },
+  {
+    "course_code":"SCNC CC1100",
+    "course_title":"FRONTIERS OF SCIENCE-DISC",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"12:00pm",
+    "call_number":"10999",
+    "campus":"Morningside",
+    "class_id":"C1100-20243-008",
+    "course_subtitle":null,
+    "department":"Core (A&S)\t",
+    "department_code":"SCNC",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SCNC\/C1100-20243-008\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20243SCNC1100C008",
+    "type":"DISCUSSION"
+  },
+  {
+    "course_code":"SCNC CC1100",
+    "course_title":"FRONTIERS OF SCIENCE-DISC",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"12:00pm",
+    "call_number":"11000",
+    "campus":"Morningside",
+    "class_id":"C1100-20243-009",
+    "course_subtitle":null,
+    "department":"Core (A&S)\t",
+    "department_code":"SCNC",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SCNC\/C1100-20243-009\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20243SCNC1100C009",
+    "type":"DISCUSSION"
+  },
+  {
+    "course_code":"SCNC CC1100",
+    "course_title":"FRONTIERS OF SCIENCE-DISC",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"12:00pm",
+    "call_number":"11001",
+    "campus":"Morningside",
+    "class_id":"C1100-20243-010",
+    "course_subtitle":null,
+    "department":"Core (A&S)\t",
+    "department_code":"SCNC",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SCNC\/C1100-20243-010\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20243SCNC1100C010",
+    "type":"DISCUSSION"
+  },
+  {
+    "course_code":"SCNC CC1100",
+    "course_title":"FRONTIERS OF SCIENCE-DISC",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"12:00pm",
+    "call_number":"11002",
+    "campus":"Morningside",
+    "class_id":"C1100-20243-011",
+    "course_subtitle":null,
+    "department":"Core (A&S)\t",
+    "department_code":"SCNC",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SCNC\/C1100-20243-011\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20243SCNC1100C011",
+    "type":"DISCUSSION"
+  },
+  {
+    "course_code":"SCNC CC1100",
+    "course_title":"FRONTIERS OF SCIENCE-DISC",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"12:10pm",
+    "scheduled_time_end":"2:00pm",
+    "call_number":"11003",
+    "campus":"Morningside",
+    "class_id":"C1100-20243-012",
+    "course_subtitle":null,
+    "department":"Core (A&S)\t",
+    "department_code":"SCNC",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SCNC\/C1100-20243-012\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20243SCNC1100C012",
+    "type":"DISCUSSION"
+  },
+  {
+    "course_code":"SCNC CC1100",
+    "course_title":"FRONTIERS OF SCIENCE-DISC",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"12:10pm",
+    "scheduled_time_end":"2:00pm",
+    "call_number":"11004",
+    "campus":"Morningside",
+    "class_id":"C1100-20243-013",
+    "course_subtitle":null,
+    "department":"Core (A&S)\t",
+    "department_code":"SCNC",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SCNC\/C1100-20243-013\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20243SCNC1100C013",
+    "type":"DISCUSSION"
+  },
+  {
+    "course_code":"SCNC CC1100",
+    "course_title":"FRONTIERS OF SCIENCE-DISC",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"12:10pm",
+    "scheduled_time_end":"2:00pm",
+    "call_number":"11005",
+    "campus":"Morningside",
+    "class_id":"C1100-20243-014",
+    "course_subtitle":null,
+    "department":"Core (A&S)\t",
+    "department_code":"SCNC",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SCNC\/C1100-20243-014\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20243SCNC1100C014",
+    "type":"DISCUSSION"
+  },
+  {
+    "course_code":"SCNC CC1100",
+    "course_title":"FRONTIERS OF SCIENCE-DISC",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"12:10pm",
+    "scheduled_time_end":"2:00pm",
+    "call_number":"11006",
+    "campus":"Morningside",
+    "class_id":"C1100-20243-015",
+    "course_subtitle":null,
+    "department":"Core (A&S)\t",
+    "department_code":"SCNC",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SCNC\/C1100-20243-015\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20243SCNC1100C015",
+    "type":"DISCUSSION"
+  },
+  {
+    "course_code":"SCNC CC1100",
+    "course_title":"FRONTIERS OF SCIENCE-DISC",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"12:10pm",
+    "scheduled_time_end":"2:00pm",
+    "call_number":"11007",
+    "campus":"Morningside",
+    "class_id":"C1100-20243-016",
+    "course_subtitle":null,
+    "department":"Core (A&S)\t",
+    "department_code":"SCNC",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SCNC\/C1100-20243-016\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20243SCNC1100C016",
+    "type":"DISCUSSION"
+  },
+  {
+    "course_code":"SCNC CC1100",
+    "course_title":"FRONTIERS OF SCIENCE-DISC",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"11008",
+    "campus":"Morningside",
+    "class_id":"C1100-20243-017",
+    "course_subtitle":null,
+    "department":"Core (A&S)\t",
+    "department_code":"SCNC",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SCNC\/C1100-20243-017\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20243SCNC1100C017",
+    "type":"DISCUSSION"
+  },
+  {
+    "course_code":"SCNC CC1100",
+    "course_title":"FRONTIERS OF SCIENCE-DISC",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"11009",
+    "campus":"Morningside",
+    "class_id":"C1100-20243-018",
+    "course_subtitle":null,
+    "department":"Core (A&S)\t",
+    "department_code":"SCNC",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SCNC\/C1100-20243-018\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20243SCNC1100C018",
+    "type":"DISCUSSION"
+  },
+  {
+    "course_code":"SCNC CC1100",
+    "course_title":"FRONTIERS OF SCIENCE-DISC",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"11010",
+    "campus":"Morningside",
+    "class_id":"C1100-20243-019",
+    "course_subtitle":null,
+    "department":"Core (A&S)\t",
+    "department_code":"SCNC",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SCNC\/C1100-20243-019\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20243SCNC1100C019",
+    "type":"DISCUSSION"
+  },
+  {
+    "course_code":"SCNC CC1100",
+    "course_title":"FRONTIERS OF SCIENCE-DISC",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"11011",
+    "campus":"Morningside",
+    "class_id":"C1100-20243-020",
+    "course_subtitle":null,
+    "department":"Core (A&S)\t",
+    "department_code":"SCNC",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SCNC\/C1100-20243-020\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20243SCNC1100C020",
+    "type":"DISCUSSION"
+  },
+  {
+    "course_code":"SCNC CC1100",
+    "course_title":"FRONTIERS OF SCIENCE-DISC",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"11012",
+    "campus":"Morningside",
+    "class_id":"C1100-20243-021",
+    "course_subtitle":null,
+    "department":"Core (A&S)\t",
+    "department_code":"SCNC",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SCNC\/C1100-20243-021\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20243SCNC1100C021",
+    "type":"DISCUSSION"
+  },
+  {
+    "course_code":"SCNC CC1100",
+    "course_title":"FRONTIERS OF SCIENCE-DISC",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"11013",
+    "campus":"Morningside",
+    "class_id":"C1100-20243-022",
+    "course_subtitle":null,
+    "department":"Core (A&S)\t",
+    "department_code":"SCNC",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SCNC\/C1100-20243-022\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20243SCNC1100C022",
+    "type":"DISCUSSION"
+  },
+  {
+    "course_code":"SCNC CC1100",
+    "course_title":"FRONTIERS OF SCIENCE-DISC",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"6:00pm",
+    "call_number":"11014",
+    "campus":"Morningside",
+    "class_id":"C1100-20243-023",
+    "course_subtitle":null,
+    "department":"Core (A&S)\t",
+    "department_code":"SCNC",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SCNC\/C1100-20243-023\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20243SCNC1100C023",
+    "type":"DISCUSSION"
+  },
+  {
+    "course_code":"SCNC CC1100",
+    "course_title":"FRONTIERS OF SCIENCE-DISC",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"6:00pm",
+    "call_number":"11015",
+    "campus":"Morningside",
+    "class_id":"C1100-20243-024",
+    "course_subtitle":null,
+    "department":"Core (A&S)\t",
+    "department_code":"SCNC",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SCNC\/C1100-20243-024\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20243SCNC1100C024",
+    "type":"DISCUSSION"
+  },
+  {
+    "course_code":"SCNC CC1100",
+    "course_title":"FRONTIERS OF SCIENCE-DISC",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"12:00pm",
+    "call_number":"11016",
+    "campus":"Morningside",
+    "class_id":"C1100-20243-025",
+    "course_subtitle":null,
+    "department":"Core (A&S)\t",
+    "department_code":"SCNC",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SCNC\/C1100-20243-025\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20243SCNC1100C025",
+    "type":"DISCUSSION"
+  },
+  {
+    "course_code":"SCNC CC1100",
+    "course_title":"FRONTIERS OF SCIENCE-DISC",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"12:00pm",
+    "call_number":"11017",
+    "campus":"Morningside",
+    "class_id":"C1100-20243-026",
+    "course_subtitle":null,
+    "department":"Core (A&S)\t",
+    "department_code":"SCNC",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SCNC\/C1100-20243-026\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20243SCNC1100C026",
+    "type":"DISCUSSION"
+  },
+  {
+    "course_code":"SCNC CC1100",
+    "course_title":"FRONTIERS OF SCIENCE-DISC",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"12:10pm",
+    "scheduled_time_end":"2:00pm",
+    "call_number":"11018",
+    "campus":"Morningside",
+    "class_id":"C1100-20243-027",
+    "course_subtitle":null,
+    "department":"Core (A&S)\t",
+    "department_code":"SCNC",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SCNC\/C1100-20243-027\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20243SCNC1100C027",
+    "type":"DISCUSSION"
+  },
+  {
+    "course_code":"SCNC CC1100",
+    "course_title":"FRONTIERS OF SCIENCE-DISC",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"11019",
+    "campus":"Morningside",
+    "class_id":"C1100-20243-028",
+    "course_subtitle":null,
+    "department":"Core (A&S)\t",
+    "department_code":"SCNC",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SCNC\/C1100-20243-028\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20243SCNC1100C028",
     "type":"DISCUSSION"
   },
   {
@@ -42107,7 +43710,7 @@
   {
     "course_code":"SOCI GR6049",
     "course_title":"Historical Approaches in the Social Scie",
-    "course_descr":null,
+    "course_descr":"This course introduces students to historical approaches in sociology and political science (and some economics). In the first part, the course surveys the major theoretical approaches and methodological traditions. Examples of the former are classic comparativist work (e.g. Skocpol\u2019s study of revolutions), historist approaches (such as Sewell\u2019s), or the historical institutionalist tradition (Mahoney, Thelen, Wimmer, etc.). In terms of methodological approaches, we will discuss classical Millean small-N comparisons, Qualitative Comparative Analysis, process tracing, actor-centered modeling, quantitative, large-N works, and causal inference type of research designs. In the second part, major topics in macro-comparative social sciences are examined, from world systems and empire to the origins of democracy.\n\n",
     "instructor":"Peter Bearman",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -42135,7 +43738,7 @@
   {
     "course_code":"SOCI GR6051",
     "course_title":"SOCIOLOGICAL THEORY: THE ORIGINS",
-    "course_descr":null,
+    "course_descr":"Prerequisites: this course is intended for sociology Ph.D. and SMS students. No others without the instructors written permission. Foundational sources and issues in sociological theory: Adam Smith, Marx, Durkheim, Weber, Simmel, Mead, Mauss, others; division of labor, individualism, exchange, class and its vicissitudes, social control, ideas and interests, contending criteria of explanation and interpretation.\n",
     "instructor":"Joshua Whitford",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -42161,7 +43764,7 @@
   {
     "course_code":"SOCI GR6081",
     "course_title":"Social Movements Dynamics",
-    "course_descr":null,
+    "course_descr":"Social movements are sustained challenges against authorities that aim at reforming or revolutionizing dominant institutions, changing public opinion, or transforming personal behavior. This seminar focuses on theoretical perspectives and empirical research on the dynamics of broad-based social and political movements. The aim is to evaluate dominant conceptual models that have animated the study of social movements and contention across time and space, with an emphasis on the interplay of organizational, political and cultural processes. Emphasis is on macro- and meso-level dynamics, with little attention to the microfoundations of collective action and movement mobilization. A second objective is to gain some familiarity with common methodological approaches in social movement analysis and evaluate new theoretical and empirical directions in social movement research. Empirical cases are drawn mainly from the U.S. but you will have the opportunity to explore a wider range of cases in your independent work for the course. This elective seminar is intended for graduate students in sociology who want to gain basic familiarity with key debates and approaches in the subfield of collective action and social movements, which has grown exponentially in the wake of the 1960s protest wave that animated a paradigm shift in the field. Participants can use the course as an opportunity to develop a research proposal or field statement or to explore a theoretical or empirical puzzle by diving deeper into a single case study.\n",
     "instructor":"David Knight",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -42187,7 +43790,7 @@
   {
     "course_code":"SOCI GR6097",
     "course_title":"DESIGNS OF SOCIAL RESEARCH",
-    "course_descr":null,
+    "course_descr":"Required of all incoming sociology doctoral students. Prepares students who have already completed an undergraduate major or its equivalent in some social science to evaluate and undertake both systematic descriptions and sound explanations of social structures and processes.\n",
     "instructor":"Peter Bearman",
     "scheduled_time_start":"9:00am",
     "scheduled_time_end":"12:00pm",
@@ -42213,7 +43816,7 @@
   {
     "course_code":"SOCI GR6103",
     "course_title":"MPHIL THESIS WRITING SEMINAR II",
-    "course_descr":null,
+    "course_descr":"This seminar is PART 2 for second and third year students who are writing their MPhil thesis. It will assume the form of a yearlong seminar during which students design, research, and write up their MPhil projects. These projects can be based on any kind of sociological method, quantitative or qualitative. The thesis will assume the form of an article that can be submitted to a social science journal. The seminar will help you to find an interesting question, a way to answer it, and a mode of communicating this to fellow sociologists in a way that they might find worth paying attention to. The summer break between the two semesters will allow students who don\u2019t come to the first semester with ready-to-analyze data to gather such data (through ethnographic work, archival research, scraping the internet, combining existing survey data, etc.).\n",
     "instructor":"Mario Small",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -42239,7 +43842,7 @@
   {
     "course_code":"SOCI GR8201",
     "course_title":"NEW DIRECTION IN ECON SOCIOLOGY",
-    "course_descr":null,
+    "course_descr":"This is an advanced graduate seminar in Economic Sociology looking at new developments in this field. It addresses the disciplinary division of labor in which economists study value and sociologists study values; and it rejects the pact whereby economists study the economy and sociologists study social relations in which they are embedded.\n",
     "instructor":"David Stark",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
