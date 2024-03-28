@@ -9884,6 +9884,32 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"COMS W3102",
+    "course_title":"DEVELOPMENT TECHNOLOGY",
+    "course_descr":"Introduction to software development tools and environments. Each section devoted to a specific tool or environment. One-point sections meet for two hours each week for half a semester, and two point sections include an additional two-hour lab.\n\n",
+    "instructor":"Shoaib Ahamed",
+    "scheduled_time_start":"5:30pm",
+    "scheduled_time_end":"7:50pm",
+    "call_number":"12494",
+    "campus":"Morningside",
+    "class_id":"W3102-20242-001",
+    "course_subtitle":"FULL STACK WEB DEVELOP",
+    "department":"Computer Science",
+    "department_code":"COMS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMS\/W3102-20242-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"1-2",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20242COMS3102W001",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"COMS W3132",
     "course_title":"Intermediate Computing in Python",
     "course_descr":"Essential data structures and algorithms in Python with practical software development skills, applications in a variety of areas including biology, \u00a0natural language processing, data science and others.\n\n",
@@ -10019,6 +10045,32 @@
     ],
     "scheduled_days":"MW",
     "section_key":"20242COMS3261W001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"COMS W4261",
+    "course_title":"INTRO TO CRYPTOGRAPHY",
+    "course_descr":"An introduction to modern cryptography, focusing on the complexity-theoretic foundations of secure computation and communication in adversarial environments; a rigorous approach, based on precise definitions and provably secure protocols. Topics include private and public key encryption schemes, digital signatures, authentication, pseudorandom generators and functions, one-way functions, trapdoor functions, number theory and computational hardness, identification and zero knowledge protocols.\n\n",
+    "instructor":"Periklis Papakonstantinou",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"1:20pm",
+    "call_number":"12493",
+    "campus":"Morningside",
+    "class_id":"W4261-20242-001",
+    "course_subtitle":null,
+    "department":"Computer Science",
+    "department_code":"COMS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMS\/W4261-20242-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20242COMS4261W001",
     "type":"LECTURE"
   },
   {
@@ -10207,6 +10259,32 @@
     ],
     "scheduled_days":"MW",
     "section_key":"20242COMS4995W001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"COMS W4995",
+    "course_title":"TOPICS IN COMPUTER SCIENCE",
+    "course_descr":"Selected topics in computer science. Content and prerequisites vary between sections and semesters.\u00a0May be repeated for credit. Check \u201ctopics course\u201d webpage on the department website for more information on each section.\n\n",
+    "instructor":"Tony B Dear",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"1:20pm",
+    "call_number":"12495",
+    "campus":"Morningside",
+    "class_id":"W4995-20242-002",
+    "course_subtitle":"MATH MACH LEARN SIG RECOG",
+    "department":"Computer Science",
+    "department_code":"COMS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMS\/W4995-20242-002\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20242COMS4995W002",
     "type":"LECTURE"
   },
   {
@@ -11682,9 +11760,35 @@
     "type":"INDEPENDENT"
   },
   {
+    "course_code":"EAEE E3995",
+    "course_title":"Fieldwork",
+    "course_descr":"Obtained\u00a0internship and approval from faculty adviser.\u00a0Written application must be made prior to\u00a0registration outlining proposed internship and\u00a0study program. Final reports required. May not\u00a0be\u00a0 taken for pass\/fail credit or audited. Fieldwork\u00a0credits may not count toward any major core,\u00a0technical elective, and nontechnical requirements.\u00a0International students must also consult\u00a0 with\u00a0the International Students and Scholars Office.\u00a0Note: only for EAEE undergraduate students\u00a0 who\u00a0need relevant off-campus work experience as a\u00a0part of their program of study as determined by\u00a0instructor.\u00a0\n\n",
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12500",
+    "campus":"Morningside",
+    "class_id":"E3995-20242-001",
+    "course_subtitle":null,
+    "department":"Earth and Environmental Engineering",
+    "department_code":"EAEE",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/EAEE\/E3995-20242-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"1-2",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242EAEE3995E001",
+    "type":"INDEPENDENT"
+  },
+  {
     "course_code":"ECON BC3033",
     "course_title":"INTERMEDTE MACROECONOMC THEORY",
-    "course_descr":"(Description for summer and semester course)\n  \nPrerequisites: An introductory course in economics and a functioning knowledge of high school algebra and analytical geometry or permission of the instructor.\n  \nThis course introduces macroeconomic theory for the analysis of aggregate variables\n  \nsuch as income, employment, prices, and the interest rate. The first part of the course\n is devoted to studying the determination of the aggregate demand in the goods\n markets and the equilibrium of monetary markets, using an IS-LM model extended with\n elements of the banking sector and the open-economy framework. Next, the supply-\n side of the economy is examined with special attention to the labor market, wage\n setting and price setting behavior. The Phillips Curve (PC) introduces the tradeoffs\n between inflation and unemployment, and the role of expectations for inflation\n dynamics. The integrated IS-LM-PC model is then used to evaluate macroeconomic\n policies that aim at stabilizing the economy with output produced at its potential level\n and the inflation rate at the central bank target. The recent episode of high inflation is\n simulated with a proper numerical calibration of the IS-LM-PC model.\n\n",
+    "course_descr":"(Description for summer and semester course)\n  \nThis course introduces macroeconomic theory for the analysis of aggregate variables such as income, employment, prices, and the interest rate. The first part of the course is devoted to studying the determination of the aggregate demand in the goods markets and the equilibrium of monetary markets, using an IS-LM model extended with elements of the banking sector and the open-economy framework. Next, the supply-side of the economy is examined with special attention to the labor market, wage setting and price setting behavior. The Phillips Curve (PC) introduces the tradeoffs between inflation and unemployment, and the role of expectations for inflation dynamics. The integrated IS-LM-PC model is then used to evaluate macroeconomic policies that aim at stabilizing the economy with output produced at its potential level\n and the inflation rate at the central bank target. The recent episode of high inflation is simulated with a proper numerical calibration of the IS-LM-PC model.\n\n",
     "instructor":"Miguel Casares",
     "scheduled_time_start":"9:00am",
     "scheduled_time_end":"1:00pm",
@@ -11712,7 +11816,7 @@
   {
     "course_code":"ECON BC3033",
     "course_title":"INTERMEDTE MACROECONOMC THEORY",
-    "course_descr":"(Description for summer and semester course)\n  \nPrerequisites: An introductory course in economics and a functioning knowledge of high school algebra and analytical geometry or permission of the instructor.\n  \nThis course introduces macroeconomic theory for the analysis of aggregate variables\n  \nsuch as income, employment, prices, and the interest rate. The first part of the course\n is devoted to studying the determination of the aggregate demand in the goods\n markets and the equilibrium of monetary markets, using an IS-LM model extended with\n elements of the banking sector and the open-economy framework. Next, the supply-\n side of the economy is examined with special attention to the labor market, wage\n setting and price setting behavior. The Phillips Curve (PC) introduces the tradeoffs\n between inflation and unemployment, and the role of expectations for inflation\n dynamics. The integrated IS-LM-PC model is then used to evaluate macroeconomic\n policies that aim at stabilizing the economy with output produced at its potential level\n and the inflation rate at the central bank target. The recent episode of high inflation is\n simulated with a proper numerical calibration of the IS-LM-PC model.\n\n",
+    "course_descr":"(Description for summer and semester course)\n  \nThis course introduces macroeconomic theory for the analysis of aggregate variables such as income, employment, prices, and the interest rate. The first part of the course is devoted to studying the determination of the aggregate demand in the goods markets and the equilibrium of monetary markets, using an IS-LM model extended with elements of the banking sector and the open-economy framework. Next, the supply-side of the economy is examined with special attention to the labor market, wage setting and price setting behavior. The Phillips Curve (PC) introduces the tradeoffs between inflation and unemployment, and the role of expectations for inflation dynamics. The integrated IS-LM-PC model is then used to evaluate macroeconomic policies that aim at stabilizing the economy with output produced at its potential level\n and the inflation rate at the central bank target. The recent episode of high inflation is simulated with a proper numerical calibration of the IS-LM-PC model.\n\n",
     "instructor":"Miguel Casares",
     "scheduled_time_start":"9:00am",
     "scheduled_time_end":"1:00pm",
@@ -13534,7 +13638,7 @@
     "instructor_wikipedia_link":null,
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGI\/E0010-20242-S02\/",
     "location":null,
-    "method_of_instruction":null,
+    "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"0",
     "prerequisites":[
@@ -13569,6 +13673,32 @@
     "scheduled_days":null,
     "section_key":"20242ENGI0010ES01",
     "type":"DISCUSSION"
+  },
+  {
+    "course_code":"ENGI E0012",
+    "course_title":"Product Studio: From Idea to Prototype",
+    "course_descr":"Product Studio: From Idea to Prototype\n\n",
+    "instructor":"Megan Heenan",
+    "scheduled_time_start":"1:30pm",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"12497",
+    "campus":"Morningside",
+    "class_id":"E0012-20242-S01",
+    "course_subtitle":"PRODUCT STUDIO",
+    "department":"Engineering",
+    "department_code":"ENGI",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGI\/E0012-20242-S01\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MTWRF",
+    "section_key":"20242ENGI0012ES01",
+    "type":"LECTURE"
   },
   {
     "course_code":"ENGI E1006",
@@ -29320,34 +29450,6 @@
     ],
     "scheduled_days":"R",
     "section_key":"20242NOPM5360KD01",
-    "type":"LECTURE"
-  },
-  {
-    "course_code":"NOPM PS5390",
-    "course_title":"CAPSTONE",
-    "course_descr":"Capstone projects afford a group of students the opportunity to undertake complex, real-world, client-based projects for nonprofit organizations, supervised by a Nonprofit Management program faculty member. Through the semester-long capstone project, students will experience the process of organizational assimilation and integration as they tackle a discrete management project of long or short-term benefit to the client organization. The larger theoretical issues that affect nonprofit managers and their relationships with other stakeholders, both internal and external, will also be discussed within the context of this project-based course.\n\n",
-    "instructor":"Thomas W Watson",
-    "scheduled_time_start":"6:10pm",
-    "scheduled_time_end":"8:00pm",
-    "call_number":"11524",
-    "campus":"Morningside",
-    "class_id":"K5390-20242-003",
-    "course_subtitle":null,
-    "department":"Non Profit Management",
-    "department_code":"NOPM",
-    "instructor_wikipedia_link":null,
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NOPM\/K5390-20242-003\/",
-    "location":"To be announced",
-    "method_of_instruction":"In-Person",
-    "open_to":[
-      "Professional Studies"
-    ],
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"R",
-    "section_key":"20242NOPM5390K003",
     "type":"LECTURE"
   },
   {
