@@ -10271,7 +10271,7 @@
     "call_number":"12495",
     "campus":"Morningside",
     "class_id":"W4995-20242-002",
-    "course_subtitle":"MATH MACH LEARN SIG RECOG",
+    "course_subtitle":"MATH FOR ML",
     "department":"Computer Science",
     "department_code":"COMS",
     "instructor_wikipedia_link":null,
@@ -26991,6 +26991,42 @@
     "course_code":"MATH UN2015",
     "course_title":"Linear Algebra and Probability",
     "course_descr":"Linear algebra with a focus on probability and statistics. The course covers the standard linear algebra topics: systems of linear equations, matrices, determinants, vector spaces, bases, dimension, eigenvalues and eigenvectors, the Spectral Theorem and singular value decompositions. It also teaches applications of linear algebra to probability, statistics and dynamical systems giving a background sufficient for higher level courses in probability and statistics. The topics covered in the probability theory part include conditional probability, discrete and continuous random variables, probability distributions and the limit theorems, as well as Markov chains, curve fitting, regression, and pattern analysis. The course contains applications to life sciences, chemistry, and environmental life sciences. No a prior i background in the life sciences is assumed.\n  \nThis course is best suited for students who wish to focus on applications and practical approaches to problem solving. It is recommended to students majoring in engineering, technology, life sciences, social sciences, and economics. Math majors, joint majors, and math concentrators must take MATH UN2010 Linear Algebra, which focuses on linear algebra concepts\u00a0and foundations that are needed for upper-level math courses. MATH UN2015 (Linear Algebra and Probability) does NOT replace MATH UN2010 (Linear Algebra) as prerequisite requirements of math courses. Students may not receive full credit for both courses MATH UN2010 and MATH UN2015.\n\n",
+    "instructor":"Nicolas I Vilches Reyes",
+    "scheduled_time_start":"4:30pm",
+    "scheduled_time_end":"6:05pm",
+    "call_number":"10113",
+    "campus":"Morningside",
+    "class_id":"W2015-20242-001",
+    "course_subtitle":"Linear Algebra and Probab",
+    "department":"Summer Session (SUMM)",
+    "department_code":"MATH",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/MATH\/W2015-20242-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+      [
+        "MATH UN2010",
+        "MATH UN2010"
+      ],
+      [
+        "MATH UN2010",
+        "MATH UN2015"
+      ],
+      [
+        "MATH UN2015"
+      ]
+    ],
+    "scheduled_days":"MTWR",
+    "section_key":"20242MATH2015W001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"MATH UN2015",
+    "course_title":"Linear Algebra and Probability",
+    "course_descr":"Linear algebra with a focus on probability and statistics. The course covers the standard linear algebra topics: systems of linear equations, matrices, determinants, vector spaces, bases, dimension, eigenvalues and eigenvectors, the Spectral Theorem and singular value decompositions. It also teaches applications of linear algebra to probability, statistics and dynamical systems giving a background sufficient for higher level courses in probability and statistics. The topics covered in the probability theory part include conditional probability, discrete and continuous random variables, probability distributions and the limit theorems, as well as Markov chains, curve fitting, regression, and pattern analysis. The course contains applications to life sciences, chemistry, and environmental life sciences. No a prior i background in the life sciences is assumed.\n  \nThis course is best suited for students who wish to focus on applications and practical approaches to problem solving. It is recommended to students majoring in engineering, technology, life sciences, social sciences, and economics. Math majors, joint majors, and math concentrators must take MATH UN2010 Linear Algebra, which focuses on linear algebra concepts\u00a0and foundations that are needed for upper-level math courses. MATH UN2015 (Linear Algebra and Probability) does NOT replace MATH UN2010 (Linear Algebra) as prerequisite requirements of math courses. Students may not receive full credit for both courses MATH UN2010 and MATH UN2015.\n\n",
     "instructor":"George Dragomir",
     "scheduled_time_start":"4:30pm",
     "scheduled_time_end":"6:05pm",
@@ -30219,6 +30255,32 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"NURS N5400",
+    "course_title":"Science of Nursing Practice",
+    "course_descr":"This fundamental course introduces students to core concepts of nursing science including taxonomy, philosophies of caring, nursing process, and evidence-based care. Concepts from the biological, physical, epidemiological, and behavioral sciences will be utilized as students begin the study of adults experiencing major biophysical health problems. The course is an introduction to the role of the professional nurse in medical\/surgical nursing care of the adult client in context of populations.\n\n",
+    "instructor":"Ashley Graham-Perel",
+    "scheduled_time_start":"8:00am",
+    "scheduled_time_end":"11:50am",
+    "call_number":"12625",
+    "campus":"Health Science",
+    "class_id":"N5400-20242-001",
+    "course_subtitle":"SCIENCE OF NURSING PRACTI",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N5400-20242-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20242NURS5400N001",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"NURS N5450",
     "course_title":"Science of Nursing Practice: Practicum",
     "course_descr":"This fundamental course provides the student with clinical experience to implement patient-centered care that reflects an understanding of the concepts of human growth and development, health promotion, nursing management of illness, and patient safety. Philosophies and scientific theories of nursing will serve as a foundation for the development of critical thinking and skill acquisition. Key elements of culture, spirituality, heredity, and ethics will be integrated into the planning and provision of nursing care to individuals and populations.\n\n",
@@ -31156,32 +31218,6 @@
     "course_code":"NURS N8685",
     "course_title":"Advanced Clinical Assessment",
     "course_descr":"Utilizing a systems approach and a background in basic physical assessment, advanced physical assessment skills are studied. The identification and interpretation of abnormalities in the physical exam are emphasized in depth. The approach to the development of the differential diagnosis is introduced. The goal of this course is to provide the critical thinking necessary for the beginning advanced practice nursing student to analyze history and physical exam data.\n\n",
-    "instructor":"Julie Durand",
-    "scheduled_time_start":"1:00pm",
-    "scheduled_time_end":"4:50pm",
-    "call_number":"12450",
-    "campus":"Health Science",
-    "class_id":"N8685-20242-D01",
-    "course_subtitle":"ADV CLIN ASSESSMENT X LIF",
-    "department":"Nursing",
-    "department_code":"NURS",
-    "instructor_wikipedia_link":null,
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N8685-20242-D01\/",
-    "location":"To be announced",
-    "method_of_instruction":"On-Line Only",
-    "open_to":null,
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"W",
-    "section_key":"20242NURS8685ND01",
-    "type":"LECTURE"
-  },
-  {
-    "course_code":"NURS N8685",
-    "course_title":"Advanced Clinical Assessment",
-    "course_descr":"Utilizing a systems approach and a background in basic physical assessment, advanced physical assessment skills are studied. The identification and interpretation of abnormalities in the physical exam are emphasized in depth. The approach to the development of the differential diagnosis is introduced. The goal of this course is to provide the critical thinking necessary for the beginning advanced practice nursing student to analyze history and physical exam data.\n\n",
     "instructor":null,
     "scheduled_time_start":"9:00am",
     "scheduled_time_end":"11:50am",
@@ -31204,6 +31240,32 @@
     ],
     "scheduled_days":"R",
     "section_key":"20242NURS8685N002",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"NURS N8685",
+    "course_title":"Advanced Clinical Assessment",
+    "course_descr":"Utilizing a systems approach and a background in basic physical assessment, advanced physical assessment skills are studied. The identification and interpretation of abnormalities in the physical exam are emphasized in depth. The approach to the development of the differential diagnosis is introduced. The goal of this course is to provide the critical thinking necessary for the beginning advanced practice nursing student to analyze history and physical exam data.\n\n",
+    "instructor":"Julie Durand",
+    "scheduled_time_start":"1:00pm",
+    "scheduled_time_end":"4:50pm",
+    "call_number":"12590",
+    "campus":"Health Science",
+    "class_id":"N8685-20242-H01",
+    "course_subtitle":"ADV CLIN ASSESSMENT X LIF",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N8685-20242-H01\/",
+    "location":"To be announced",
+    "method_of_instruction":"Hybrid 20-79",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20242NURS8685NH01",
     "type":"LECTURE"
   },
   {
@@ -31347,6 +31409,230 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"NURS N8872",
+    "course_title":"Nurse Anesthesia Residency IIIA",
+    "course_descr":"Clinical focus is on the delivery of anesthesia care in a broad range of clinical settings to patients with multi-system problems. Emphasis is placed on refinement and perfection of decision-making skills in patient care management and rapid assessment of health status of patients. Collaborative practice within a team structure is emphasized. In addition to direct patient care, participation in journal club, clinical case reports, and in-service presentations to a multidisciplinary audience provide the environment for the student to enact his or her role as a SRNA. CRNA and MD faculty members and preceptors act as guides.\n\n",
+    "instructor":"Maribeth L Massie",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12577",
+    "campus":"Health Science",
+    "class_id":"N8872-20242-001",
+    "course_subtitle":"NURSE ANESTHESIA RES IIIA",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N8872-20242-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242NURS8872N001",
+    "type":"CLINIC"
+  },
+  {
+    "course_code":"NURS N8872",
+    "course_title":"Nurse Anesthesia Residency IIIA",
+    "course_descr":"Clinical focus is on the delivery of anesthesia care in a broad range of clinical settings to patients with multi-system problems. Emphasis is placed on refinement and perfection of decision-making skills in patient care management and rapid assessment of health status of patients. Collaborative practice within a team structure is emphasized. In addition to direct patient care, participation in journal club, clinical case reports, and in-service presentations to a multidisciplinary audience provide the environment for the student to enact his or her role as a SRNA. CRNA and MD faculty members and preceptors act as guides.\n\n",
+    "instructor":"Donald R Jr Boyd",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12578",
+    "campus":"Health Science",
+    "class_id":"N8872-20242-002",
+    "course_subtitle":"NURSE ANESTHESIA RES IIIA",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N8872-20242-002\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242NURS8872N002",
+    "type":"CLINIC"
+  },
+  {
+    "course_code":"NURS N8872",
+    "course_title":"Nurse Anesthesia Residency IIIA",
+    "course_descr":"Clinical focus is on the delivery of anesthesia care in a broad range of clinical settings to patients with multi-system problems. Emphasis is placed on refinement and perfection of decision-making skills in patient care management and rapid assessment of health status of patients. Collaborative practice within a team structure is emphasized. In addition to direct patient care, participation in journal club, clinical case reports, and in-service presentations to a multidisciplinary audience provide the environment for the student to enact his or her role as a SRNA. CRNA and MD faculty members and preceptors act as guides.\n\n",
+    "instructor":"Antoinette T Padula",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12583",
+    "campus":"Health Science",
+    "class_id":"N8872-20242-003",
+    "course_subtitle":"NURSE ANESTHESIA RES IIIA",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N8872-20242-003\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242NURS8872N003",
+    "type":"CLINIC"
+  },
+  {
+    "course_code":"NURS N8872",
+    "course_title":"Nurse Anesthesia Residency IIIA",
+    "course_descr":"Clinical focus is on the delivery of anesthesia care in a broad range of clinical settings to patients with multi-system problems. Emphasis is placed on refinement and perfection of decision-making skills in patient care management and rapid assessment of health status of patients. Collaborative practice within a team structure is emphasized. In addition to direct patient care, participation in journal club, clinical case reports, and in-service presentations to a multidisciplinary audience provide the environment for the student to enact his or her role as a SRNA. CRNA and MD faculty members and preceptors act as guides.\n\n",
+    "instructor":"Christian Cansino",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12584",
+    "campus":"Health Science",
+    "class_id":"N8872-20242-004",
+    "course_subtitle":"NURSE ANESTHESIA RES IIIA",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N8872-20242-004\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242NURS8872N004",
+    "type":"CLINIC"
+  },
+  {
+    "course_code":"NURS N8879",
+    "course_title":"Nurse Anesthesia Residency IIIB",
+    "course_descr":"Clinical focus is on the delivery of anesthesia care in a broad range of clinical settings to patients with multi-system problems. Emphasis is placed on refinement and perfection of decision-making skills in patient care management and rapid assessment of health status of patients. Collaborative practice within a team structure is emphasized. In addition to direct patient care, participation in journal club, clinical case reports, and in-service presentations to a multidisciplinary audience provide the environment for the student to enact his or her role as a SRNA. CRNA and MD faculty members and preceptors act as guides.\n\n",
+    "instructor":"Maribeth L Massie",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12581",
+    "campus":"Health Science",
+    "class_id":"N8879-20242-001",
+    "course_subtitle":"NURSE ANESTHESIA RES IIIB",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N8879-20242-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242NURS8879N001",
+    "type":"CLINIC"
+  },
+  {
+    "course_code":"NURS N8879",
+    "course_title":"Nurse Anesthesia Residency IIIB",
+    "course_descr":"Clinical focus is on the delivery of anesthesia care in a broad range of clinical settings to patients with multi-system problems. Emphasis is placed on refinement and perfection of decision-making skills in patient care management and rapid assessment of health status of patients. Collaborative practice within a team structure is emphasized. In addition to direct patient care, participation in journal club, clinical case reports, and in-service presentations to a multidisciplinary audience provide the environment for the student to enact his or her role as a SRNA. CRNA and MD faculty members and preceptors act as guides.\n\n",
+    "instructor":"Donald R Jr Boyd",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12585",
+    "campus":"Health Science",
+    "class_id":"N8879-20242-002",
+    "course_subtitle":"NURSE ANESTHESIA RES IIIB",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N8879-20242-002\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242NURS8879N002",
+    "type":"CLINIC"
+  },
+  {
+    "course_code":"NURS N8879",
+    "course_title":"Nurse Anesthesia Residency IIIB",
+    "course_descr":"Clinical focus is on the delivery of anesthesia care in a broad range of clinical settings to patients with multi-system problems. Emphasis is placed on refinement and perfection of decision-making skills in patient care management and rapid assessment of health status of patients. Collaborative practice within a team structure is emphasized. In addition to direct patient care, participation in journal club, clinical case reports, and in-service presentations to a multidisciplinary audience provide the environment for the student to enact his or her role as a SRNA. CRNA and MD faculty members and preceptors act as guides.\n\n",
+    "instructor":"Antoinette T Padula",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12586",
+    "campus":"Health Science",
+    "class_id":"N8879-20242-003",
+    "course_subtitle":"NURSE ANESTHESIA RES IIIB",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N8879-20242-003\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242NURS8879N003",
+    "type":"CLINIC"
+  },
+  {
+    "course_code":"NURS N8879",
+    "course_title":"Nurse Anesthesia Residency IIIB",
+    "course_descr":"Clinical focus is on the delivery of anesthesia care in a broad range of clinical settings to patients with multi-system problems. Emphasis is placed on refinement and perfection of decision-making skills in patient care management and rapid assessment of health status of patients. Collaborative practice within a team structure is emphasized. In addition to direct patient care, participation in journal club, clinical case reports, and in-service presentations to a multidisciplinary audience provide the environment for the student to enact his or her role as a SRNA. CRNA and MD faculty members and preceptors act as guides.\n\n",
+    "instructor":"Christian Cansino",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12587",
+    "campus":"Health Science",
+    "class_id":"N8879-20242-004",
+    "course_subtitle":"NURSE ANESTHESIA RES IIIB",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N8879-20242-004\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242NURS8879N004",
+    "type":"CLINIC"
+  },
+  {
     "course_code":"NURS N8890",
     "course_title":"Individualized Study in Nurse Anesthesia",
     "course_descr":"Demonstrate integration of learning of didactic core content (nursing research, issues, and ethics) along with didactic specialty content (anesthesia) to clinical application of practice.\n\n",
@@ -31375,6 +31661,34 @@
     "type":"INDEPENDENT"
   },
   {
+    "course_code":"NURS N8896",
+    "course_title":"DNP Seminar in Nurse Anesthesia Practice",
+    "course_descr":"The third in a series of three DNP Seminar courses. It provides critical\u00a0analysis of selected advanced topics in nurse anesthesiology practice. Lecture and discussion facilitate integration of didactic content with clinical experiences, as NARs learn to integrate DNP Competencies into clinical practice.The course concludes with poster presentations geared to demonstrate understanding of the literature on selected topics and recommendations for future anesthetic management of these cases. Results of this inquiry will be formally presented to the class and communities of interest as an abstract and presentation. Refinement of the topic will occur in the next semester and poster and\/or oral abstracts will be submitted for dissemination at that time.\n\n",
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12574",
+    "campus":"Presbyterian Hospital",
+    "class_id":"N8896-20242-001",
+    "course_subtitle":"DNP SEM NURSE ANES PRAC I",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N8896-20242-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242NURS8896N001",
+    "type":"SEMINAR"
+  },
+  {
     "course_code":"NURS N9140",
     "course_title":"Professional Role of the Advanced Practi",
     "course_descr":"This course focuses on the professional identity of the advanced practice nurse (APN) role, exploring the history of advanced practice nursing and reviewing current legal issues and state and federal regulatory policies, billing and reimbursement. The importance of the APN contributing to a workplace environment that promotes a culture of civility, accountability and self-care is examined.\n\n",
@@ -31400,6 +31714,36 @@
     ],
     "scheduled_days":"M",
     "section_key":"20242NURS9140ND01",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"NURS N9151",
+    "course_title":"Scholarly Writing and Dissemination II",
+    "course_descr":"Continuation of N9150.\n\n",
+    "instructor":"Adena Bargad",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12575",
+    "campus":"Health Science",
+    "class_id":"N9151-20242-D01",
+    "course_subtitle":"SCHOLARLY WRITING II",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9151-20242-D01\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"1",
+    "prerequisites":[
+      [
+        "N9150"
+      ]
+    ],
+    "scheduled_days":null,
+    "section_key":"20242NURS9151ND01",
     "type":"LECTURE"
   },
   {
@@ -31487,6 +31831,34 @@
     "type":"SEMINAR"
   },
   {
+    "course_code":"NURS N9465",
+    "course_title":"FNP Specialty Practicum",
+    "course_descr":"This clinical is designed to provide students the opportunity to manage patients in a specialty-care or global health care setting.\n\n",
+    "instructor":"Aluem Tark",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12576",
+    "campus":"Presbyterian Hospital",
+    "class_id":"N9465-20242-001",
+    "course_subtitle":"FNP SPECIALTY PRACTICUM",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9465-20242-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"2-3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242NURS9465N001",
+    "type":"CLINIC"
+  },
+  {
     "course_code":"NURS N9481",
     "course_title":"Health Policy and Advocacy",
     "course_descr":"The purpose of this course is to critically analyze healthcare policy in the US. Included is a focus on the advanced practice nurse role in shaping and influencing policy through advocacy and leadership to improve patient outcomes.\n\n",
@@ -31541,6 +31913,1964 @@
     "scheduled_days":null,
     "section_key":"20242NURS9502N001",
     "type":"RESEARCH SEM"
+  },
+  {
+    "course_code":"NURS N9502",
+    "course_title":"Guided Study in Research",
+    "course_descr":"Using the format of a research seminar highlighting research \u201cchallenges\u201d of the DNSc faculty , this course is designed to strengthen the student\u2019s ability to integrate and synthesize knowledge in statistics and nursing research methodologies, and to apply this integrated knowledge to common problems in study design and data analysis.\n\n",
+    "instructor":"Suzanne Bakken",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12548",
+    "campus":"Health Science",
+    "class_id":"N9502-20242-002",
+    "course_subtitle":"GUIDED STUDY IN RESEARCH",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9502-20242-002\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"2-3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242NURS9502N002",
+    "type":"RESEARCH SEM"
+  },
+  {
+    "course_code":"NURS N9502",
+    "course_title":"Guided Study in Research",
+    "course_descr":"Using the format of a research seminar highlighting research \u201cchallenges\u201d of the DNSc faculty , this course is designed to strengthen the student\u2019s ability to integrate and synthesize knowledge in statistics and nursing research methodologies, and to apply this integrated knowledge to common problems in study design and data analysis.\n\n",
+    "instructor":"Veronica Barcelona",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12549",
+    "campus":"Health Science",
+    "class_id":"N9502-20242-003",
+    "course_subtitle":"GUIDED STUDY IN RESEARCH",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9502-20242-003\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"2-3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242NURS9502N003",
+    "type":"RESEARCH SEM"
+  },
+  {
+    "course_code":"NURS N9502",
+    "course_title":"Guided Study in Research",
+    "course_descr":"Using the format of a research seminar highlighting research \u201cchallenges\u201d of the DNSc faculty , this course is designed to strengthen the student\u2019s ability to integrate and synthesize knowledge in statistics and nursing research methodologies, and to apply this integrated knowledge to common problems in study design and data analysis.\n\n",
+    "instructor":"Melissa P Beauchemin",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12550",
+    "campus":"Health Science",
+    "class_id":"N9502-20242-004",
+    "course_subtitle":"GUIDED STUDY IN RESEARCH",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9502-20242-004\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"2-3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242NURS9502N004",
+    "type":"RESEARCH SEM"
+  },
+  {
+    "course_code":"NURS N9502",
+    "course_title":"Guided Study in Research",
+    "course_descr":"Using the format of a research seminar highlighting research \u201cchallenges\u201d of the DNSc faculty , this course is designed to strengthen the student\u2019s ability to integrate and synthesize knowledge in statistics and nursing research methodologies, and to apply this integrated knowledge to common problems in study design and data analysis.\n\n",
+    "instructor":"Natalie Benda",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12551",
+    "campus":"Health Science",
+    "class_id":"N9502-20242-005",
+    "course_subtitle":"GUIDED STUDY IN RESEARCH",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9502-20242-005\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"2-3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242NURS9502N005",
+    "type":"RESEARCH SEM"
+  },
+  {
+    "course_code":"NURS N9502",
+    "course_title":"Guided Study in Research",
+    "course_descr":"Using the format of a research seminar highlighting research \u201cchallenges\u201d of the DNSc faculty , this course is designed to strengthen the student\u2019s ability to integrate and synthesize knowledge in statistics and nursing research methodologies, and to apply this integrated knowledge to common problems in study design and data analysis.\n\n",
+    "instructor":"Walter O Bockting",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12552",
+    "campus":"Health Science",
+    "class_id":"N9502-20242-006",
+    "course_subtitle":"GUIDED STUDY IN RESEARCH",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9502-20242-006\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"2-3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242NURS9502N006",
+    "type":"RESEARCH SEM"
+  },
+  {
+    "course_code":"NURS N9502",
+    "course_title":"Guided Study in Research",
+    "course_descr":"Using the format of a research seminar highlighting research \u201cchallenges\u201d of the DNSc faculty , this course is designed to strengthen the student\u2019s ability to integrate and synthesize knowledge in statistics and nursing research methodologies, and to apply this integrated knowledge to common problems in study design and data analysis.\n\n",
+    "instructor":"Ulf G Bronas",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12553",
+    "campus":"Health Science",
+    "class_id":"N9502-20242-007",
+    "course_subtitle":"GUIDED STUDY IN RESEARCH",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9502-20242-007\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"2-3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242NURS9502N007",
+    "type":"RESEARCH SEM"
+  },
+  {
+    "course_code":"NURS N9502",
+    "course_title":"Guided Study in Research",
+    "course_descr":"Using the format of a research seminar highlighting research \u201cchallenges\u201d of the DNSc faculty , this course is designed to strengthen the student\u2019s ability to integrate and synthesize knowledge in statistics and nursing research methodologies, and to apply this integrated knowledge to common problems in study design and data analysis.\n\n",
+    "instructor":"Jean-Marie Bruzzese",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12554",
+    "campus":"Health Science",
+    "class_id":"N9502-20242-008",
+    "course_subtitle":"GUIDED STUDY IN RESEARCH",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9502-20242-008\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"2-3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242NURS9502N008",
+    "type":"RESEARCH SEM"
+  },
+  {
+    "course_code":"NURS N9502",
+    "course_title":"Guided Study in Research",
+    "course_descr":"Using the format of a research seminar highlighting research \u201cchallenges\u201d of the DNSc faculty , this course is designed to strengthen the student\u2019s ability to integrate and synthesize knowledge in statistics and nursing research methodologies, and to apply this integrated knowledge to common problems in study design and data analysis.\n\n",
+    "instructor":"Billy A Caceres",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12555",
+    "campus":"Health Science",
+    "class_id":"N9502-20242-009",
+    "course_subtitle":"GUIDED STUDY IN RESEARCH",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9502-20242-009\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"2-3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242NURS9502N009",
+    "type":"RESEARCH SEM"
+  },
+  {
+    "course_code":"NURS N9502",
+    "course_title":"Guided Study in Research",
+    "course_descr":"Using the format of a research seminar highlighting research \u201cchallenges\u201d of the DNSc faculty , this course is designed to strengthen the student\u2019s ability to integrate and synthesize knowledge in statistics and nursing research methodologies, and to apply this integrated knowledge to common problems in study design and data analysis.\n\n",
+    "instructor":"Elizabeth Corwin",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12556",
+    "campus":"Health Science",
+    "class_id":"N9502-20242-010",
+    "course_subtitle":"GUIDED STUDY IN RESEARCH",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9502-20242-010\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"2-3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242NURS9502N010",
+    "type":"RESEARCH SEM"
+  },
+  {
+    "course_code":"NURS N9502",
+    "course_title":"Guided Study in Research",
+    "course_descr":"Using the format of a research seminar highlighting research \u201cchallenges\u201d of the DNSc faculty , this course is designed to strengthen the student\u2019s ability to integrate and synthesize knowledge in statistics and nursing research methodologies, and to apply this integrated knowledge to common problems in study design and data analysis.\n\n",
+    "instructor":"Lorraine Frazier",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12557",
+    "campus":"Health Science",
+    "class_id":"N9502-20242-011",
+    "course_subtitle":"GUIDED STUDY IN RESEARCH",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":"https:\/\/en.wikipedia.org\/wiki\/Lorraine_Frazier",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9502-20242-011\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"2-3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242NURS9502N011",
+    "type":"RESEARCH SEM"
+  },
+  {
+    "course_code":"NURS N9502",
+    "course_title":"Guided Study in Research",
+    "course_descr":"Using the format of a research seminar highlighting research \u201cchallenges\u201d of the DNSc faculty , this course is designed to strengthen the student\u2019s ability to integrate and synthesize knowledge in statistics and nursing research methodologies, and to apply this integrated knowledge to common problems in study design and data analysis.\n\n",
+    "instructor":"Maureen George",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12558",
+    "campus":"Health Science",
+    "class_id":"N9502-20242-012",
+    "course_subtitle":"GUIDED STUDY IN RESEARCH",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9502-20242-012\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"2-3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242NURS9502N012",
+    "type":"RESEARCH SEM"
+  },
+  {
+    "course_code":"NURS N9502",
+    "course_title":"Guided Study in Research",
+    "course_descr":"Using the format of a research seminar highlighting research \u201cchallenges\u201d of the DNSc faculty , this course is designed to strengthen the student\u2019s ability to integrate and synthesize knowledge in statistics and nursing research methodologies, and to apply this integrated knowledge to common problems in study design and data analysis.\n\n",
+    "instructor":"Amanda J Hessels",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12559",
+    "campus":"Health Science",
+    "class_id":"N9502-20242-013",
+    "course_subtitle":"GUIDED STUDY IN RESEARCH",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9502-20242-013\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"2-3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242NURS9502N013",
+    "type":"RESEARCH SEM"
+  },
+  {
+    "course_code":"NURS N9502",
+    "course_title":"Guided Study in Research",
+    "course_descr":"Using the format of a research seminar highlighting research \u201cchallenges\u201d of the DNSc faculty , this course is designed to strengthen the student\u2019s ability to integrate and synthesize knowledge in statistics and nursing research methodologies, and to apply this integrated knowledge to common problems in study design and data analysis.\n\n",
+    "instructor":"Judy Honig",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12560",
+    "campus":"Health Science",
+    "class_id":"N9502-20242-014",
+    "course_subtitle":"GUIDED STUDY IN RESEARCH",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9502-20242-014\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"2-3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242NURS9502N014",
+    "type":"RESEARCH SEM"
+  },
+  {
+    "course_code":"NURS N9502",
+    "course_title":"Guided Study in Research",
+    "course_descr":"Using the format of a research seminar highlighting research \u201cchallenges\u201d of the DNSc faculty , this course is designed to strengthen the student\u2019s ability to integrate and synthesize knowledge in statistics and nursing research methodologies, and to apply this integrated knowledge to common problems in study design and data analysis.\n\n",
+    "instructor":"Tonda Hughes",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12561",
+    "campus":"Health Science",
+    "class_id":"N9502-20242-015",
+    "course_subtitle":"GUIDED STUDY IN RESEARCH",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":"https:\/\/en.wikipedia.org\/wiki\/Tonda_L._Hughes",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9502-20242-015\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"2-3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242NURS9502N015",
+    "type":"RESEARCH SEM"
+  },
+  {
+    "course_code":"NURS N9502",
+    "course_title":"Guided Study in Research",
+    "course_descr":"Using the format of a research seminar highlighting research \u201cchallenges\u201d of the DNSc faculty , this course is designed to strengthen the student\u2019s ability to integrate and synthesize knowledge in statistics and nursing research methodologies, and to apply this integrated knowledge to common problems in study design and data analysis.\n\n",
+    "instructor":"Kasey B Jackman",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12562",
+    "campus":"Health Science",
+    "class_id":"N9502-20242-016",
+    "course_subtitle":"GUIDED STUDY IN RESEARCH",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9502-20242-016\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"2-3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242NURS9502N016",
+    "type":"RESEARCH SEM"
+  },
+  {
+    "course_code":"NURS N9502",
+    "course_title":"Guided Study in Research",
+    "course_descr":"Using the format of a research seminar highlighting research \u201cchallenges\u201d of the DNSc faculty , this course is designed to strengthen the student\u2019s ability to integrate and synthesize knowledge in statistics and nursing research methodologies, and to apply this integrated knowledge to common problems in study design and data analysis.\n\n",
+    "instructor":"Haomiao Jia",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12563",
+    "campus":"Health Science",
+    "class_id":"N9502-20242-017",
+    "course_subtitle":"GUIDED STUDY IN RESEARCH",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9502-20242-017\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"2-3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242NURS9502N017",
+    "type":"RESEARCH SEM"
+  },
+  {
+    "course_code":"NURS N9502",
+    "course_title":"Guided Study in Research",
+    "course_descr":"Using the format of a research seminar highlighting research \u201cchallenges\u201d of the DNSc faculty , this course is designed to strengthen the student\u2019s ability to integrate and synthesize knowledge in statistics and nursing research methodologies, and to apply this integrated knowledge to common problems in study design and data analysis.\n\n",
+    "instructor":"Corina Lelutiu-Weinberger",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12564",
+    "campus":"Health Science",
+    "class_id":"N9502-20242-018",
+    "course_subtitle":"GUIDED STUDY IN RESEARCH",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9502-20242-018\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"2-3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242NURS9502N018",
+    "type":"RESEARCH SEM"
+  },
+  {
+    "course_code":"NURS N9502",
+    "course_title":"Guided Study in Research",
+    "course_descr":"Using the format of a research seminar highlighting research \u201cchallenges\u201d of the DNSc faculty , this course is designed to strengthen the student\u2019s ability to integrate and synthesize knowledge in statistics and nursing research methodologies, and to apply this integrated knowledge to common problems in study design and data analysis.\n\n",
+    "instructor":"Jianfang Liu",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12565",
+    "campus":"Health Science",
+    "class_id":"N9502-20242-019",
+    "course_subtitle":"GUIDED STUDY IN RESEARCH",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9502-20242-019\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"2-3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242NURS9502N019",
+    "type":"RESEARCH SEM"
+  },
+  {
+    "course_code":"NURS N9502",
+    "course_title":"Guided Study in Research",
+    "course_descr":"Using the format of a research seminar highlighting research \u201cchallenges\u201d of the DNSc faculty , this course is designed to strengthen the student\u2019s ability to integrate and synthesize knowledge in statistics and nursing research methodologies, and to apply this integrated knowledge to common problems in study design and data analysis.\n\n",
+    "instructor":"Ruth M Masterson",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12566",
+    "campus":"Health Science",
+    "class_id":"N9502-20242-020",
+    "course_subtitle":"GUIDED STUDY IN RESEARCH",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9502-20242-020\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"2-3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242NURS9502N020",
+    "type":"RESEARCH SEM"
+  },
+  {
+    "course_code":"NURS N9502",
+    "course_title":"Guided Study in Research",
+    "course_descr":"Using the format of a research seminar highlighting research \u201cchallenges\u201d of the DNSc faculty , this course is designed to strengthen the student\u2019s ability to integrate and synthesize knowledge in statistics and nursing research methodologies, and to apply this integrated knowledge to common problems in study design and data analysis.\n\n",
+    "instructor":"Phoenix Matthews",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12567",
+    "campus":"Health Science",
+    "class_id":"N9502-20242-021",
+    "course_subtitle":"GUIDED STUDY IN RESEARCH",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9502-20242-021\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"2-3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242NURS9502N021",
+    "type":"RESEARCH SEM"
+  },
+  {
+    "course_code":"NURS N9502",
+    "course_title":"Guided Study in Research",
+    "course_descr":"Using the format of a research seminar highlighting research \u201cchallenges\u201d of the DNSc faculty , this course is designed to strengthen the student\u2019s ability to integrate and synthesize knowledge in statistics and nursing research methodologies, and to apply this integrated knowledge to common problems in study design and data analysis.\n\n",
+    "instructor":"Mary Mundinger",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12568",
+    "campus":"Health Science",
+    "class_id":"N9502-20242-022",
+    "course_subtitle":"GUIDED STUDY IN RESEARCH",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9502-20242-022\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"2-3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242NURS9502N022",
+    "type":"RESEARCH SEM"
+  },
+  {
+    "course_code":"NURS N9502",
+    "course_title":"Guided Study in Research",
+    "course_descr":"Using the format of a research seminar highlighting research \u201cchallenges\u201d of the DNSc faculty , this course is designed to strengthen the student\u2019s ability to integrate and synthesize knowledge in statistics and nursing research methodologies, and to apply this integrated knowledge to common problems in study design and data analysis.\n\n",
+    "instructor":"Allison A Norful",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12569",
+    "campus":"Health Science",
+    "class_id":"N9502-20242-023",
+    "course_subtitle":"GUIDED STUDY IN RESEARCH",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9502-20242-023\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"2-3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242NURS9502N023",
+    "type":"RESEARCH SEM"
+  },
+  {
+    "course_code":"NURS N9502",
+    "course_title":"Guided Study in Research",
+    "course_descr":"Using the format of a research seminar highlighting research \u201cchallenges\u201d of the DNSc faculty , this course is designed to strengthen the student\u2019s ability to integrate and synthesize knowledge in statistics and nursing research methodologies, and to apply this integrated knowledge to common problems in study design and data analysis.\n\n",
+    "instructor":"Lusine Poghosyan",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12570",
+    "campus":"Health Science",
+    "class_id":"N9502-20242-024",
+    "course_subtitle":"GUIDED STUDY IN RESEARCH",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9502-20242-024\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"2-3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242NURS9502N024",
+    "type":"RESEARCH SEM"
+  },
+  {
+    "course_code":"NURS N9502",
+    "course_title":"Guided Study in Research",
+    "course_descr":"Using the format of a research seminar highlighting research \u201cchallenges\u201d of the DNSc faculty , this course is designed to strengthen the student\u2019s ability to integrate and synthesize knowledge in statistics and nursing research methodologies, and to apply this integrated knowledge to common problems in study design and data analysis.\n\n",
+    "instructor":"Rebecca B Schnall",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12571",
+    "campus":"Health Science",
+    "class_id":"N9502-20242-025",
+    "course_subtitle":"GUIDED STUDY IN RESEARCH",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9502-20242-025\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"2-3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242NURS9502N025",
+    "type":"RESEARCH SEM"
+  },
+  {
+    "course_code":"NURS N9502",
+    "course_title":"Guided Study in Research",
+    "course_descr":"Using the format of a research seminar highlighting research \u201cchallenges\u201d of the DNSc faculty , this course is designed to strengthen the student\u2019s ability to integrate and synthesize knowledge in statistics and nursing research methodologies, and to apply this integrated knowledge to common problems in study design and data analysis.\n\n",
+    "instructor":"Arlene M Smaldone",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12572",
+    "campus":"Health Science",
+    "class_id":"N9502-20242-026",
+    "course_subtitle":"GUIDED STUDY IN RESEARCH",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9502-20242-026\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"2-3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242NURS9502N026",
+    "type":"RESEARCH SEM"
+  },
+  {
+    "course_code":"NURS N9502",
+    "course_title":"Guided Study in Research",
+    "course_descr":"Using the format of a research seminar highlighting research \u201cchallenges\u201d of the DNSc faculty , this course is designed to strengthen the student\u2019s ability to integrate and synthesize knowledge in statistics and nursing research methodologies, and to apply this integrated knowledge to common problems in study design and data analysis.\n\n",
+    "instructor":"Patricia Stone",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12573",
+    "campus":"Health Science",
+    "class_id":"N9502-20242-028",
+    "course_subtitle":"GUIDED STUDY IN RESEARCH",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":"https:\/\/en.wikipedia.org\/wiki\/Patricia_Stone",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9502-20242-028\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"2-3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242NURS9502N028",
+    "type":"RESEARCH SEM"
+  },
+  {
+    "course_code":"NURS N9502",
+    "course_title":"Guided Study in Research",
+    "course_descr":"Using the format of a research seminar highlighting research \u201cchallenges\u201d of the DNSc faculty , this course is designed to strengthen the student\u2019s ability to integrate and synthesize knowledge in statistics and nursing research methodologies, and to apply this integrated knowledge to common problems in study design and data analysis.\n\n",
+    "instructor":"Jacquelyn Taylor",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12588",
+    "campus":"Health Science",
+    "class_id":"N9502-20242-029",
+    "course_subtitle":"GUIDED STUDY IN RESEARCH",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":"https:\/\/en.wikipedia.org\/wiki\/Jacquelyn_Taylor",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9502-20242-029\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"2-3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242NURS9502N029",
+    "type":"RESEARCH SEM"
+  },
+  {
+    "course_code":"NURS N9502",
+    "course_title":"Guided Study in Research",
+    "course_descr":"Using the format of a research seminar highlighting research \u201cchallenges\u201d of the DNSc faculty , this course is designed to strengthen the student\u2019s ability to integrate and synthesize knowledge in statistics and nursing research methodologies, and to apply this integrated knowledge to common problems in study design and data analysis.\n\n",
+    "instructor":"Maxim Topaz",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12589",
+    "campus":"Health Science",
+    "class_id":"N9502-20242-030",
+    "course_subtitle":"GUIDED STUDY IN RESEARCH",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9502-20242-030\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"2-3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242NURS9502N030",
+    "type":"RESEARCH SEM"
+  },
+  {
+    "course_code":"NURS N9502",
+    "course_title":"Guided Study in Research",
+    "course_descr":"Using the format of a research seminar highlighting research \u201cchallenges\u201d of the DNSc faculty , this course is designed to strengthen the student\u2019s ability to integrate and synthesize knowledge in statistics and nursing research methodologies, and to apply this integrated knowledge to common problems in study design and data analysis.\n\n",
+    "instructor":"Meghan Reading",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12591",
+    "campus":"Health Science",
+    "class_id":"N9502-20242-031",
+    "course_subtitle":"GUIDED STUDY IN RESEARCH",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9502-20242-031\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"2-3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242NURS9502N031",
+    "type":"RESEARCH SEM"
+  },
+  {
+    "course_code":"NURS N9502",
+    "course_title":"Guided Study in Research",
+    "course_descr":"Using the format of a research seminar highlighting research \u201cchallenges\u201d of the DNSc faculty , this course is designed to strengthen the student\u2019s ability to integrate and synthesize knowledge in statistics and nursing research methodologies, and to apply this integrated knowledge to common problems in study design and data analysis.\n\n",
+    "instructor":"Yihong Zhao",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12592",
+    "campus":"Health Science",
+    "class_id":"N9502-20242-032",
+    "course_subtitle":"GUIDED STUDY IN RESEARCH",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9502-20242-032\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"2-3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242NURS9502N032",
+    "type":"RESEARCH SEM"
+  },
+  {
+    "course_code":"NURS N9505",
+    "course_title":"Doctoral Research Practicum",
+    "course_descr":"The student works with a faculty member or other scientist who is conducting a research project. The specific nature of the experience depends on the nature and stage of the research, but might include search and review of relevant literature, data collection, data analysis and\/or grant preparation.\n\n",
+    "instructor":"Gregory Alexander",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12593",
+    "campus":"Health Science",
+    "class_id":"N9505-20242-001",
+    "course_subtitle":"DOCTORAL RESEARCH PRACTIC",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9505-20242-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"2",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242NURS9505N001",
+    "type":"PRACTICA"
+  },
+  {
+    "course_code":"NURS N9505",
+    "course_title":"Doctoral Research Practicum",
+    "course_descr":"The student works with a faculty member or other scientist who is conducting a research project. The specific nature of the experience depends on the nature and stage of the research, but might include search and review of relevant literature, data collection, data analysis and\/or grant preparation.\n\n",
+    "instructor":"Suzanne Bakken",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12594",
+    "campus":"Health Science",
+    "class_id":"N9505-20242-002",
+    "course_subtitle":"DOCTORAL RESEARCH PRACTIC",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9505-20242-002\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"2",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242NURS9505N002",
+    "type":"PRACTICA"
+  },
+  {
+    "course_code":"NURS N9505",
+    "course_title":"Doctoral Research Practicum",
+    "course_descr":"The student works with a faculty member or other scientist who is conducting a research project. The specific nature of the experience depends on the nature and stage of the research, but might include search and review of relevant literature, data collection, data analysis and\/or grant preparation.\n\n",
+    "instructor":"Veronica Barcelona",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12595",
+    "campus":"Health Science",
+    "class_id":"N9505-20242-003",
+    "course_subtitle":"DOCTORAL RESEARCH PRACTIC",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9505-20242-003\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"2",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242NURS9505N003",
+    "type":"PRACTICA"
+  },
+  {
+    "course_code":"NURS N9505",
+    "course_title":"Doctoral Research Practicum",
+    "course_descr":"The student works with a faculty member or other scientist who is conducting a research project. The specific nature of the experience depends on the nature and stage of the research, but might include search and review of relevant literature, data collection, data analysis and\/or grant preparation.\n\n",
+    "instructor":"Melissa P Beauchemin",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12596",
+    "campus":"Health Science",
+    "class_id":"N9505-20242-004",
+    "course_subtitle":"DOCTORAL RESEARCH PRACTIC",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9505-20242-004\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"2",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242NURS9505N004",
+    "type":"PRACTICA"
+  },
+  {
+    "course_code":"NURS N9505",
+    "course_title":"Doctoral Research Practicum",
+    "course_descr":"The student works with a faculty member or other scientist who is conducting a research project. The specific nature of the experience depends on the nature and stage of the research, but might include search and review of relevant literature, data collection, data analysis and\/or grant preparation.\n\n",
+    "instructor":"Natalie Benda",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12597",
+    "campus":"Health Science",
+    "class_id":"N9505-20242-005",
+    "course_subtitle":"DOCTORAL RESEARCH PRACTIC",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9505-20242-005\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"2",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242NURS9505N005",
+    "type":"PRACTICA"
+  },
+  {
+    "course_code":"NURS N9505",
+    "course_title":"Doctoral Research Practicum",
+    "course_descr":"The student works with a faculty member or other scientist who is conducting a research project. The specific nature of the experience depends on the nature and stage of the research, but might include search and review of relevant literature, data collection, data analysis and\/or grant preparation.\n\n",
+    "instructor":"Walter O Bockting",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12598",
+    "campus":"Health Science",
+    "class_id":"N9505-20242-006",
+    "course_subtitle":"DOCTORAL RESEARCH PRACTIC",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9505-20242-006\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"2",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242NURS9505N006",
+    "type":"PRACTICA"
+  },
+  {
+    "course_code":"NURS N9505",
+    "course_title":"Doctoral Research Practicum",
+    "course_descr":"The student works with a faculty member or other scientist who is conducting a research project. The specific nature of the experience depends on the nature and stage of the research, but might include search and review of relevant literature, data collection, data analysis and\/or grant preparation.\n\n",
+    "instructor":"Ulf G Bronas",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12599",
+    "campus":"Health Science",
+    "class_id":"N9505-20242-007",
+    "course_subtitle":"DOCTORAL RESEARCH PRACTIC",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9505-20242-007\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"2",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242NURS9505N007",
+    "type":"PRACTICA"
+  },
+  {
+    "course_code":"NURS N9505",
+    "course_title":"Doctoral Research Practicum",
+    "course_descr":"The student works with a faculty member or other scientist who is conducting a research project. The specific nature of the experience depends on the nature and stage of the research, but might include search and review of relevant literature, data collection, data analysis and\/or grant preparation.\n\n",
+    "instructor":"Jean-Marie Bruzzese",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12600",
+    "campus":"Health Science",
+    "class_id":"N9505-20242-008",
+    "course_subtitle":"DOCTORAL RESEARCH PRACTIC",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9505-20242-008\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"2",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242NURS9505N008",
+    "type":"PRACTICA"
+  },
+  {
+    "course_code":"NURS N9505",
+    "course_title":"Doctoral Research Practicum",
+    "course_descr":"The student works with a faculty member or other scientist who is conducting a research project. The specific nature of the experience depends on the nature and stage of the research, but might include search and review of relevant literature, data collection, data analysis and\/or grant preparation.\n\n",
+    "instructor":"Billy A Caceres",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12601",
+    "campus":"Health Science",
+    "class_id":"N9505-20242-009",
+    "course_subtitle":"DOCTORAL RESEARCH PRACTIC",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9505-20242-009\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"2",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242NURS9505N009",
+    "type":"PRACTICA"
+  },
+  {
+    "course_code":"NURS N9505",
+    "course_title":"Doctoral Research Practicum",
+    "course_descr":"The student works with a faculty member or other scientist who is conducting a research project. The specific nature of the experience depends on the nature and stage of the research, but might include search and review of relevant literature, data collection, data analysis and\/or grant preparation.\n\n",
+    "instructor":"Elizabeth Corwin",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12602",
+    "campus":"Health Science",
+    "class_id":"N9505-20242-010",
+    "course_subtitle":"DOCTORAL RESEARCH PRACTIC",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9505-20242-010\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"2",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242NURS9505N010",
+    "type":"PRACTICA"
+  },
+  {
+    "course_code":"NURS N9505",
+    "course_title":"Doctoral Research Practicum",
+    "course_descr":"The student works with a faculty member or other scientist who is conducting a research project. The specific nature of the experience depends on the nature and stage of the research, but might include search and review of relevant literature, data collection, data analysis and\/or grant preparation.\n\n",
+    "instructor":"Lorraine Frazier",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12603",
+    "campus":"Health Science",
+    "class_id":"N9505-20242-011",
+    "course_subtitle":"DOCTORAL RESEARCH PRACTIC",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":"https:\/\/en.wikipedia.org\/wiki\/Lorraine_Frazier",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9505-20242-011\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"2",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242NURS9505N011",
+    "type":"PRACTICA"
+  },
+  {
+    "course_code":"NURS N9505",
+    "course_title":"Doctoral Research Practicum",
+    "course_descr":"The student works with a faculty member or other scientist who is conducting a research project. The specific nature of the experience depends on the nature and stage of the research, but might include search and review of relevant literature, data collection, data analysis and\/or grant preparation.\n\n",
+    "instructor":"Maureen George",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12604",
+    "campus":"Health Science",
+    "class_id":"N9505-20242-012",
+    "course_subtitle":"DOCTORAL RESEARCH PRACTIC",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9505-20242-012\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"2",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242NURS9505N012",
+    "type":"PRACTICA"
+  },
+  {
+    "course_code":"NURS N9505",
+    "course_title":"Doctoral Research Practicum",
+    "course_descr":"The student works with a faculty member or other scientist who is conducting a research project. The specific nature of the experience depends on the nature and stage of the research, but might include search and review of relevant literature, data collection, data analysis and\/or grant preparation.\n\n",
+    "instructor":"Amanda J Hessels",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12605",
+    "campus":"Health Science",
+    "class_id":"N9505-20242-013",
+    "course_subtitle":"DOCTORAL RESEARCH PRACTIC",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9505-20242-013\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"2",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242NURS9505N013",
+    "type":"PRACTICA"
+  },
+  {
+    "course_code":"NURS N9505",
+    "course_title":"Doctoral Research Practicum",
+    "course_descr":"The student works with a faculty member or other scientist who is conducting a research project. The specific nature of the experience depends on the nature and stage of the research, but might include search and review of relevant literature, data collection, data analysis and\/or grant preparation.\n\n",
+    "instructor":"Judy Honig",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12606",
+    "campus":"Health Science",
+    "class_id":"N9505-20242-014",
+    "course_subtitle":"DOCTORAL RESEARCH PRACTIC",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9505-20242-014\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"2",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242NURS9505N014",
+    "type":"PRACTICA"
+  },
+  {
+    "course_code":"NURS N9505",
+    "course_title":"Doctoral Research Practicum",
+    "course_descr":"The student works with a faculty member or other scientist who is conducting a research project. The specific nature of the experience depends on the nature and stage of the research, but might include search and review of relevant literature, data collection, data analysis and\/or grant preparation.\n\n",
+    "instructor":"Tonda Hughes",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12607",
+    "campus":"Health Science",
+    "class_id":"N9505-20242-015",
+    "course_subtitle":"DOCTORAL RESEARCH PRACTIC",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":"https:\/\/en.wikipedia.org\/wiki\/Tonda_L._Hughes",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9505-20242-015\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"2",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242NURS9505N015",
+    "type":"PRACTICA"
+  },
+  {
+    "course_code":"NURS N9505",
+    "course_title":"Doctoral Research Practicum",
+    "course_descr":"The student works with a faculty member or other scientist who is conducting a research project. The specific nature of the experience depends on the nature and stage of the research, but might include search and review of relevant literature, data collection, data analysis and\/or grant preparation.\n\n",
+    "instructor":"Kasey B Jackman",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12608",
+    "campus":"Health Science",
+    "class_id":"N9505-20242-016",
+    "course_subtitle":"DOCTORAL RESEARCH PRACTIC",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9505-20242-016\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"2",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242NURS9505N016",
+    "type":"PRACTICA"
+  },
+  {
+    "course_code":"NURS N9505",
+    "course_title":"Doctoral Research Practicum",
+    "course_descr":"The student works with a faculty member or other scientist who is conducting a research project. The specific nature of the experience depends on the nature and stage of the research, but might include search and review of relevant literature, data collection, data analysis and\/or grant preparation.\n\n",
+    "instructor":"Haomiao Jia",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12609",
+    "campus":"Health Science",
+    "class_id":"N9505-20242-017",
+    "course_subtitle":"DOCTORAL RESEARCH PRACTIC",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9505-20242-017\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"2",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242NURS9505N017",
+    "type":"PRACTICA"
+  },
+  {
+    "course_code":"NURS N9505",
+    "course_title":"Doctoral Research Practicum",
+    "course_descr":"The student works with a faculty member or other scientist who is conducting a research project. The specific nature of the experience depends on the nature and stage of the research, but might include search and review of relevant literature, data collection, data analysis and\/or grant preparation.\n\n",
+    "instructor":"Corina Lelutiu-Weinberger",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12610",
+    "campus":"Health Science",
+    "class_id":"N9505-20242-018",
+    "course_subtitle":"DOCTORAL RESEARCH PRACTIC",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9505-20242-018\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"2",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242NURS9505N018",
+    "type":"PRACTICA"
+  },
+  {
+    "course_code":"NURS N9505",
+    "course_title":"Doctoral Research Practicum",
+    "course_descr":"The student works with a faculty member or other scientist who is conducting a research project. The specific nature of the experience depends on the nature and stage of the research, but might include search and review of relevant literature, data collection, data analysis and\/or grant preparation.\n\n",
+    "instructor":"Jianfang Liu",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12611",
+    "campus":"Health Science",
+    "class_id":"N9505-20242-019",
+    "course_subtitle":"DOCTORAL RESEARCH PRACTIC",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9505-20242-019\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"2",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242NURS9505N019",
+    "type":"PRACTICA"
+  },
+  {
+    "course_code":"NURS N9505",
+    "course_title":"Doctoral Research Practicum",
+    "course_descr":"The student works with a faculty member or other scientist who is conducting a research project. The specific nature of the experience depends on the nature and stage of the research, but might include search and review of relevant literature, data collection, data analysis and\/or grant preparation.\n\n",
+    "instructor":"Ruth M Masterson",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12612",
+    "campus":"Health Science",
+    "class_id":"N9505-20242-020",
+    "course_subtitle":"DOCTORAL RESEARCH PRACTIC",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9505-20242-020\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"2",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242NURS9505N020",
+    "type":"PRACTICA"
+  },
+  {
+    "course_code":"NURS N9505",
+    "course_title":"Doctoral Research Practicum",
+    "course_descr":"The student works with a faculty member or other scientist who is conducting a research project. The specific nature of the experience depends on the nature and stage of the research, but might include search and review of relevant literature, data collection, data analysis and\/or grant preparation.\n\n",
+    "instructor":"Phoenix Matthews",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12613",
+    "campus":"Health Science",
+    "class_id":"N9505-20242-021",
+    "course_subtitle":"DOCTORAL RESEARCH PRACTIC",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9505-20242-021\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"2",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242NURS9505N021",
+    "type":"PRACTICA"
+  },
+  {
+    "course_code":"NURS N9505",
+    "course_title":"Doctoral Research Practicum",
+    "course_descr":"The student works with a faculty member or other scientist who is conducting a research project. The specific nature of the experience depends on the nature and stage of the research, but might include search and review of relevant literature, data collection, data analysis and\/or grant preparation.\n\n",
+    "instructor":"Mary Mundinger",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12614",
+    "campus":"Health Science",
+    "class_id":"N9505-20242-022",
+    "course_subtitle":"DOCTORAL RESEARCH PRACTIC",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9505-20242-022\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"2",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242NURS9505N022",
+    "type":"PRACTICA"
+  },
+  {
+    "course_code":"NURS N9505",
+    "course_title":"Doctoral Research Practicum",
+    "course_descr":"The student works with a faculty member or other scientist who is conducting a research project. The specific nature of the experience depends on the nature and stage of the research, but might include search and review of relevant literature, data collection, data analysis and\/or grant preparation.\n\n",
+    "instructor":"Allison A Norful",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12615",
+    "campus":"Health Science",
+    "class_id":"N9505-20242-023",
+    "course_subtitle":"DOCTORAL RESEARCH PRACTIC",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9505-20242-023\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"2",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242NURS9505N023",
+    "type":"PRACTICA"
+  },
+  {
+    "course_code":"NURS N9505",
+    "course_title":"Doctoral Research Practicum",
+    "course_descr":"The student works with a faculty member or other scientist who is conducting a research project. The specific nature of the experience depends on the nature and stage of the research, but might include search and review of relevant literature, data collection, data analysis and\/or grant preparation.\n\n",
+    "instructor":"Lusine Poghosyan",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12616",
+    "campus":"Health Science",
+    "class_id":"N9505-20242-024",
+    "course_subtitle":"DOCTORAL RESEARCH PRACTIC",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9505-20242-024\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"2",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242NURS9505N024",
+    "type":"PRACTICA"
+  },
+  {
+    "course_code":"NURS N9505",
+    "course_title":"Doctoral Research Practicum",
+    "course_descr":"The student works with a faculty member or other scientist who is conducting a research project. The specific nature of the experience depends on the nature and stage of the research, but might include search and review of relevant literature, data collection, data analysis and\/or grant preparation.\n\n",
+    "instructor":"Jingjing Shang",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12617",
+    "campus":"Health Science",
+    "class_id":"N9505-20242-025",
+    "course_subtitle":"DOCTORAL RESEARCH PRACTIC",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9505-20242-025\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"2",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242NURS9505N025",
+    "type":"PRACTICA"
+  },
+  {
+    "course_code":"NURS N9505",
+    "course_title":"Doctoral Research Practicum",
+    "course_descr":"The student works with a faculty member or other scientist who is conducting a research project. The specific nature of the experience depends on the nature and stage of the research, but might include search and review of relevant literature, data collection, data analysis and\/or grant preparation.\n\n",
+    "instructor":"Jingjing Shang",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12618",
+    "campus":"Health Science",
+    "class_id":"N9505-20242-026",
+    "course_subtitle":"DOCTORAL RESEARCH PRACTIC",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9505-20242-026\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"2",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242NURS9505N026",
+    "type":"PRACTICA"
+  },
+  {
+    "course_code":"NURS N9505",
+    "course_title":"Doctoral Research Practicum",
+    "course_descr":"The student works with a faculty member or other scientist who is conducting a research project. The specific nature of the experience depends on the nature and stage of the research, but might include search and review of relevant literature, data collection, data analysis and\/or grant preparation.\n\n",
+    "instructor":"Arlene M Smaldone",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12619",
+    "campus":"Health Science",
+    "class_id":"N9505-20242-027",
+    "course_subtitle":"DOCTORAL RESEARCH PRACTIC",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9505-20242-027\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"2",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242NURS9505N027",
+    "type":"PRACTICA"
+  },
+  {
+    "course_code":"NURS N9505",
+    "course_title":"Doctoral Research Practicum",
+    "course_descr":"The student works with a faculty member or other scientist who is conducting a research project. The specific nature of the experience depends on the nature and stage of the research, but might include search and review of relevant literature, data collection, data analysis and\/or grant preparation.\n\n",
+    "instructor":"Patricia Stone",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12620",
+    "campus":"Health Science",
+    "class_id":"N9505-20242-028",
+    "course_subtitle":"DOCTORAL RESEARCH PRACTIC",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":"https:\/\/en.wikipedia.org\/wiki\/Patricia_Stone",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9505-20242-028\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"2",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242NURS9505N028",
+    "type":"PRACTICA"
+  },
+  {
+    "course_code":"NURS N9505",
+    "course_title":"Doctoral Research Practicum",
+    "course_descr":"The student works with a faculty member or other scientist who is conducting a research project. The specific nature of the experience depends on the nature and stage of the research, but might include search and review of relevant literature, data collection, data analysis and\/or grant preparation.\n\n",
+    "instructor":"Jacquelyn Taylor",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12621",
+    "campus":"Health Science",
+    "class_id":"N9505-20242-029",
+    "course_subtitle":"DOCTORAL RESEARCH PRACTIC",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":"https:\/\/en.wikipedia.org\/wiki\/Jacquelyn_Taylor",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9505-20242-029\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"2",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242NURS9505N029",
+    "type":"PRACTICA"
+  },
+  {
+    "course_code":"NURS N9505",
+    "course_title":"Doctoral Research Practicum",
+    "course_descr":"The student works with a faculty member or other scientist who is conducting a research project. The specific nature of the experience depends on the nature and stage of the research, but might include search and review of relevant literature, data collection, data analysis and\/or grant preparation.\n\n",
+    "instructor":"Maxim Topaz",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12622",
+    "campus":"Health Science",
+    "class_id":"N9505-20242-030",
+    "course_subtitle":"DOCTORAL RESEARCH PRACTIC",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9505-20242-030\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"2",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242NURS9505N030",
+    "type":"PRACTICA"
+  },
+  {
+    "course_code":"NURS N9505",
+    "course_title":"Doctoral Research Practicum",
+    "course_descr":"The student works with a faculty member or other scientist who is conducting a research project. The specific nature of the experience depends on the nature and stage of the research, but might include search and review of relevant literature, data collection, data analysis and\/or grant preparation.\n\n",
+    "instructor":"Meghan Reading",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12623",
+    "campus":"Health Science",
+    "class_id":"N9505-20242-031",
+    "course_subtitle":"DOCTORAL RESEARCH PRACTIC",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9505-20242-031\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"2",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242NURS9505N031",
+    "type":"PRACTICA"
+  },
+  {
+    "course_code":"NURS N9505",
+    "course_title":"Doctoral Research Practicum",
+    "course_descr":"The student works with a faculty member or other scientist who is conducting a research project. The specific nature of the experience depends on the nature and stage of the research, but might include search and review of relevant literature, data collection, data analysis and\/or grant preparation.\n\n",
+    "instructor":"Yihong Zhao",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12624",
+    "campus":"Health Science",
+    "class_id":"N9505-20242-032",
+    "course_subtitle":"DOCTORAL RESEARCH PRACTIC",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9505-20242-032\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"2",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242NURS9505N032",
+    "type":"PRACTICA"
+  },
+  {
+    "course_code":"NURS N9701",
+    "course_title":"Doctor of Nursing Practice Residency Sch",
+    "course_descr":"The DNP student will complete the scholarly project requirement while enrolled in this course. The student will develop a poster, presentation, manuscript or other product that will need to be peer reviewed and accepted. Documentation of the product being accepted through peer review is required and should be uploaded into the student portfolio along with the final product. Dissemination of the scholarly project is required, for example, through presentation or publication. The DNP student will work alone or in a group of up to three people. This will be the final requirement for their professional portfolio.\u00a0\n\n",
+    "instructor":"Susan M Doyle-Lindrud",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12544",
+    "campus":"Health Science",
+    "class_id":"N9701-20242-001",
+    "course_subtitle":"DNP RESIDENCY SCHOLAR",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9701-20242-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242NURS9701N001",
+    "type":"RESEARCH SEM"
+  },
+  {
+    "course_code":"NURS N9701",
+    "course_title":"Doctor of Nursing Practice Residency Sch",
+    "course_descr":"The DNP student will complete the scholarly project requirement while enrolled in this course. The student will develop a poster, presentation, manuscript or other product that will need to be peer reviewed and accepted. Documentation of the product being accepted through peer review is required and should be uploaded into the student portfolio along with the final product. Dissemination of the scholarly project is required, for example, through presentation or publication. The DNP student will work alone or in a group of up to three people. This will be the final requirement for their professional portfolio.\u00a0\n\n",
+    "instructor":"Danielle K Zuma",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12545",
+    "campus":"Health Science",
+    "class_id":"N9701-20242-002",
+    "course_subtitle":"DNP RESIDENCY SCHOLAR",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9701-20242-002\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242NURS9701N002",
+    "type":"RESEARCH SEM"
+  },
+  {
+    "course_code":"NURS N9701",
+    "course_title":"Doctor of Nursing Practice Residency Sch",
+    "course_descr":"The DNP student will complete the scholarly project requirement while enrolled in this course. The student will develop a poster, presentation, manuscript or other product that will need to be peer reviewed and accepted. Documentation of the product being accepted through peer review is required and should be uploaded into the student portfolio along with the final product. Dissemination of the scholarly project is required, for example, through presentation or publication. The DNP student will work alone or in a group of up to three people. This will be the final requirement for their professional portfolio.\u00a0\n\n",
+    "instructor":"Aluem Tark",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12546",
+    "campus":"Health Science",
+    "class_id":"N9701-20242-003",
+    "course_subtitle":"DNP RESIDENCY SCHOLAR",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9701-20242-003\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242NURS9701N003",
+    "type":"RESEARCH SEM"
+  },
+  {
+    "course_code":"NURS N9701",
+    "course_title":"Doctor of Nursing Practice Residency Sch",
+    "course_descr":"The DNP student will complete the scholarly project requirement while enrolled in this course. The student will develop a poster, presentation, manuscript or other product that will need to be peer reviewed and accepted. Documentation of the product being accepted through peer review is required and should be uploaded into the student portfolio along with the final product. Dissemination of the scholarly project is required, for example, through presentation or publication. The DNP student will work alone or in a group of up to three people. This will be the final requirement for their professional portfolio.\u00a0\n\n",
+    "instructor":"Sabrina Opiola McCauley",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12547",
+    "campus":"Health Science",
+    "class_id":"N9701-20242-005",
+    "course_subtitle":"DNP RESIDENCY SCHOLAR",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9701-20242-005\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242NURS9701N005",
+    "type":"RESEARCH SEM"
+  },
+  {
+    "course_code":"NURS N9730",
+    "course_title":"DNP Intensive Practicum",
+    "course_descr":"The DNP intensive practicum focuses on the delivery of fully accountable, evidenced based care for patients across clinical sites. The DNP student will demonstrate an integration of comprehensive assessment, advanced differential diagnosis, therapeutic intervention, evaluation of care for patients and synthesis of evidence-based practice with patients with a variety of conditions. In this context, the DNP student will organize and develop a professional portfolio.\u00a0\n\n",
+    "instructor":"Danielle K Zuma",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12540",
+    "campus":"Presbyterian Hospital",
+    "class_id":"N9730-20242-001",
+    "course_subtitle":"DNP INTENSIVE PRACTICUM",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9730-20242-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"5-6",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242NURS9730N001",
+    "type":"PRACTICA"
+  },
+  {
+    "course_code":"NURS N9730",
+    "course_title":"DNP Intensive Practicum",
+    "course_descr":"The DNP intensive practicum focuses on the delivery of fully accountable, evidenced based care for patients across clinical sites. The DNP student will demonstrate an integration of comprehensive assessment, advanced differential diagnosis, therapeutic intervention, evaluation of care for patients and synthesis of evidence-based practice with patients with a variety of conditions. In this context, the DNP student will organize and develop a professional portfolio.\u00a0\n\n",
+    "instructor":"Aluem Tark",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12541",
+    "campus":"Presbyterian Hospital",
+    "class_id":"N9730-20242-002",
+    "course_subtitle":"DNP INTENSIVE PRACTICUM",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9730-20242-002\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"5-6",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242NURS9730N002",
+    "type":"PRACTICA"
+  },
+  {
+    "course_code":"NURS N9730",
+    "course_title":"DNP Intensive Practicum",
+    "course_descr":"The DNP intensive practicum focuses on the delivery of fully accountable, evidenced based care for patients across clinical sites. The DNP student will demonstrate an integration of comprehensive assessment, advanced differential diagnosis, therapeutic intervention, evaluation of care for patients and synthesis of evidence-based practice with patients with a variety of conditions. In this context, the DNP student will organize and develop a professional portfolio.\u00a0\n\n",
+    "instructor":"Beth J Maletz",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12542",
+    "campus":"Presbyterian Hospital",
+    "class_id":"N9730-20242-003",
+    "course_subtitle":"DNP INTENSIVE PRACTICUM",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9730-20242-003\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"5-6",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242NURS9730N003",
+    "type":"PRACTICA"
+  },
+  {
+    "course_code":"NURS N9730",
+    "course_title":"DNP Intensive Practicum",
+    "course_descr":"The DNP intensive practicum focuses on the delivery of fully accountable, evidenced based care for patients across clinical sites. The DNP student will demonstrate an integration of comprehensive assessment, advanced differential diagnosis, therapeutic intervention, evaluation of care for patients and synthesis of evidence-based practice with patients with a variety of conditions. In this context, the DNP student will organize and develop a professional portfolio.\u00a0\n\n",
+    "instructor":"Clare C McKegney",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12543",
+    "campus":"Presbyterian Hospital",
+    "class_id":"N9730-20242-004",
+    "course_subtitle":"DNP INTENSIVE PRACTICUM",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9730-20242-004\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"5-6",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242NURS9730N004",
+    "type":"PRACTICA"
   },
   {
     "course_code":"NURS N9763",
@@ -36306,6 +38636,32 @@
     "type":"INDEPENDENT"
   },
   {
+    "course_code":"RSRH C0001",
+    "course_title":"FULL-TIME SUMMER RESEARCH PROG",
+    "course_descr":".\n\n",
+    "instructor":"Alice Heicklen",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12539",
+    "campus":"Morningside",
+    "class_id":"C0001-20242-001",
+    "course_subtitle":"FULL TIME SUMMER RESEARCH PROG",
+    "department":"Biological Sciences",
+    "department_code":"RSRH",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/RSRH\/C0001-20242-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242RSRH0001C001",
+    "type":"INDEPENDENT"
+  },
+  {
     "course_code":"RSRH E0001",
     "course_title":"FULL TIME ENGINEERING RESEARCH",
     "course_descr":".\n\n",
@@ -38689,39 +41045,6 @@
     "type":"LECTURE"
   },
   {
-    "course_code":"STAT GR5205",
-    "course_title":"LINEAR REGRESSION MODELS",
-    "course_descr":"Prerequisites: STAT GR5203 and GR5204 or the equivalent. Theory and practice of regression analysis, Simple and multiple regression, including testing, estimation, and confidence procedures, modeling, regression diagnostics and plots, polynomial regression, colinearity and confounding, model selection, geometry of least squares. Extensive use of the computer to analyse data.\n\n",
-    "instructor":"Jeonghoe Lee",
-    "scheduled_time_start":"6:15pm",
-    "scheduled_time_end":"7:50pm",
-    "call_number":"10256",
-    "campus":"Morningside",
-    "class_id":"W5205-20242-001",
-    "course_subtitle":null,
-    "department":"Summer Session (SUMM)",
-    "department_code":"STAT",
-    "instructor_wikipedia_link":null,
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/STAT\/W5205-20242-001\/",
-    "location":"To be announced",
-    "method_of_instruction":"In-Person",
-    "open_to":[
-      "GSAS"
-    ],
-    "points":"3",
-    "prerequisites":[
-      [
-        "GR5204"
-      ],
-      [
-        "STAT GR5203"
-      ]
-    ],
-    "scheduled_days":"MTWR",
-    "section_key":"20242STAT5205W001",
-    "type":"LECTURE"
-  },
-  {
     "course_code":"STAT GR5399",
     "course_title":"Statistical Fieldwork",
     "course_descr":"Prerequisites: GR5203; GR5204 &GR5205 and at least 4 approved electives This course is an elective course for students in the M.A. in Statistics program that counts towards the degree requirements. To receive a grade and academic credits for this course, students are expected to engage in approved off-campus internships that can be counted as an elective. Statistical Fieldwork should provide students an opportunity to apply their statistical skills and gain practical knowledge on how statistics can be applied to solve real-world challenges.\n",
@@ -39044,34 +41367,6 @@
     ],
     "scheduled_days":"MTWR",
     "section_key":"20242STAT4204S001",
-    "type":"LECTURE"
-  },
-  {
-    "course_code":"STAT S4205",
-    "course_title":"Linear Regression Models",
-    "course_descr":"Prerequisites: STAT GU4204 or the equivalent, and a course in linear algebra. Theory and practice of regression analysis. Simple and multiple regression, testing, estimation, prediction, and confidence procedures, modeling, regression diagnostics and plots, polynomial regression, colinearity and confounding, model selection, geometry of least squares. Extensive use of the computer to analyse data.\n\n",
-    "instructor":"Jeonghoe Lee",
-    "scheduled_time_start":"6:15pm",
-    "scheduled_time_end":"7:50pm",
-    "call_number":"10229",
-    "campus":"Morningside",
-    "class_id":"S4205-20242-001",
-    "course_subtitle":null,
-    "department":"Summer Session (SUMM)",
-    "department_code":"STAT",
-    "instructor_wikipedia_link":null,
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/STAT\/S4205-20242-001\/",
-    "location":"To be announced",
-    "method_of_instruction":"In-Person",
-    "open_to":null,
-    "points":"3",
-    "prerequisites":[
-      [
-        "STAT GU4204"
-      ]
-    ],
-    "scheduled_days":"MTWR",
-    "section_key":"20242STAT4205S001",
     "type":"LECTURE"
   },
   {
@@ -39930,8 +42225,8 @@
   },
   {
     "course_code":"SUMA PS6130",
-    "course_title":"MANAGEMENT OF SEC CLIMATE COMPLIANCE",
-    "course_descr":"Management of SEC climate compliance\n  \nDue to the complexity of the SEC Climate rule, new courses have been proposed to aid interested students in gaining a deeper understanding of the material.\n  \nThis course will cover how to create the organizational capacity and managerial techniques to comply with the new disclosure rules.\n  \n\u00a0\n\n",
+    "course_title":"Management of SEC Climate Disclosure Com",
+    "course_descr":"This course will teach students how to develop the organizational capacity and management skills\n necessary for compliance with the new SEC Climate Disclosure Regulations. This course will introduce\n regulated ESG reporting, emphasizing climate disclosure. The U.S. Securities and Exchange Commission\n (SEC) Climate disclosure will serve as the basis for the discussion and could be used as a case study to\n illustrate the best practices for administering a sustainability reporting regime and sustainability reporting\n more broadly within an organization. By the conclusion of this course, students will be able to design,\n manage, and implement new processes and procedures within their organizations to respond to the new\n SEC Climate Disclosures and other forthcoming regulated and mandatory disclosures.\n To increase comparability, relevancy, and accuracy of the environmental data and sustainability\n information reported by companies on climate and human capital matters, the SEC prioritized climate\n change and ESG regulations throughout 2022, promising new rules to better inform and protect investors\n and other stakeholders. This unprecedented action paves the way for disclosures that were previously\n voluntary to become required. The evolution of the ESG landscape will considerably transform ESG from\n a reputational risk concern to a regulatory-driven activity, thereby increasing the ESG lens\/scrutiny at the\n level of financial statements.\n Due to the complexity of this SEC Climate Rule, this course will focus on the SEC Climate Disclosures in\n their first year of implementation so that students can interpret, acquire a deeper understanding of the new\n rules, and develop a Year 1 implementation strategy. To prepare the next generation of sustainability\n leaders to respond to this new regulatory regime, the intended audience of this course consists of\n sustainability leaders from a diversity of industries responsible for climate reporting.\n  \n\u00a0\n\n",
     "instructor":"Carolyn Allwin",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
