@@ -11839,7 +11839,7 @@
   {
     "course_code":"BIOL GR5073",
     "course_title":"CELLULAR\/MOLECULAR IMMUNOLOGY",
-    "course_descr":null,
+    "course_descr":"Prerequisites: two semesters of a rigorous, molecularly-oriented introductory biology course (such as UNC2005 and UN2006), or the instructor's permission. This course will cover the basic concepts underlying the mechanisms of innate and adaptive immunity, as well as key experimental methods currently used in the field. To keep it real, the course will include clinical correlates in such areas as infectious diseases, autoimmune diseases, cancer, and transplantation. Taking this course won't turn you into an immunologist, but it may make you want to become one, as was the case for several students last year. After taking the course, you should be able to read the literature intelligently in this rapidly advancing field.\n\n",
     "instructor":"Christian W Schindler",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:25pm",
@@ -11856,7 +11856,12 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "NC2005"
+      ],
+      [
+        "UN2006"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20243BIOL5073W001",
@@ -13091,7 +13096,7 @@
   {
     "course_code":"BIOL UN3073",
     "course_title":"CELLULAR\/MOLECULAR IMMUNOLOGY",
-    "course_descr":null,
+    "course_descr":"Prerequisites: two semesters of a rigorous, molecularly-oriented introductory biology course (such as UN2005 and UN2006), or the instructors permission. This course will cover the basic concepts underlying the mechanisms of innate and adaptive immunity, as well as key experimental methods currently used in the field. To keep it real, the course will include clinical correlates in such areas as infectious diseases, autoimmune diseases, cancer immunotherapy and transplantation. Taking this course wont turn you into an immunologist, but it may make you want to become one, as was the case for several students last year. After taking the course, you should be able to read the literature intelligently in this rapidly advancing field. SCE and TC students may register for this course, but they must first obtain the written permission of the instructor, by filling out a paper Registration Adjustment Form (Add\/Drop form). The form can be downloaded at the URL below, but must be signed by the instructor and returned to the office of the registrar. http:\/\/registrar.columbia.edu\/sites\/default\/files\/content\/reg-adjustment.pdf\n\n",
     "instructor":"Christian W Schindler",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:25pm",
@@ -13108,7 +13113,12 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "UN2005"
+      ],
+      [
+        "UN2006"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20243BIOL3073W001",
@@ -13483,7 +13493,7 @@
   {
     "course_code":"CANT UN2101",
     "course_title":"INTERMEDIATE CANTONESE I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: (CANT W1101 and CANT UN1102) CANT W1101-W1102 or the instructor's permission. This course further continues the study of the Cantonese language. Emphasis is on linguistic rules to enable students to communicate with more competence. The lessons will not only focus on language, but also incorporate discussions on history, current events, literature, popular culture, and native values. Includes field trips to Chinatown and other Cantonese-speaking neighborhoods. Note: This course is part of the language exchange program with New York University (NYU). Classes will be held at NYU.\n",
     "instructor":null,
     "scheduled_time_start":"11:00am",
     "scheduled_time_end":"12:15pm",
@@ -13500,7 +13510,18 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "CANT UN1102"
+      ],
+      [
+        "CANT W1101"
+      ],
+      [
+        "CANT W1101"
+      ],
+      [
+        "W1102"
+      ]
     ],
     "scheduled_days":"TWR",
     "section_key":"20243CANT2101W011",
@@ -13509,7 +13530,7 @@
   {
     "course_code":"CGTH GR6100",
     "course_title":"MA SEMINAR IN GLOBAL THOUGHT",
-    "course_descr":null,
+    "course_descr":"This course explores the challenges of understanding the global world in which we live, a world that demands new conceptual approaches and ways of thinking. The objectives are:\n  \nTo examine multidisciplinary approaches to key global issues through readings, class discussions, and conversations with select CGT faculty members as guest speakers. This will take place through multi-week modules that center on a critical issue, asking students to familiarize themselves with key questions and context, engage with an expert on the topic, and apply their insights to a specific case or question.\n  \nTo develop a focused and feasible research project and hone the practices of scholarly data collection, analysis, and communication through workshops and assignments. This work begins in the fall and continues to completion in the spring semester of the seminar. The perspectives and skills developed in M.A. Seminar will support students in the development and completion of their thirty-five page M.A. essays, which they will present to each other and to CGT faculty at the Spring Symposium.\n\n",
     "instructor":"Vishakha Desai",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -13537,7 +13558,7 @@
   {
     "course_code":"CGTH GR6100",
     "course_title":"MA SEMINAR IN GLOBAL THOUGHT",
-    "course_descr":null,
+    "course_descr":"This course explores the challenges of understanding the global world in which we live, a world that demands new conceptual approaches and ways of thinking. The objectives are:\n  \nTo examine multidisciplinary approaches to key global issues through readings, class discussions, and conversations with select CGT faculty members as guest speakers. This will take place through multi-week modules that center on a critical issue, asking students to familiarize themselves with key questions and context, engage with an expert on the topic, and apply their insights to a specific case or question.\n  \nTo develop a focused and feasible research project and hone the practices of scholarly data collection, analysis, and communication through workshops and assignments. This work begins in the fall and continues to completion in the spring semester of the seminar. The perspectives and skills developed in M.A. Seminar will support students in the development and completion of their thirty-five page M.A. essays, which they will present to each other and to CGT faculty at the Spring Symposium.\n\n",
     "instructor":"Laura L Neitzel",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -13565,7 +13586,7 @@
   {
     "course_code":"CGTH GR6312",
     "course_title":"Art in Protest-Protest in Art",
-    "course_descr":null,
+    "course_descr":"All art is political, but some art is made as a form of protest or to incite an audience to protest. Most often it is both. This course \u2013 though far from exhaustive in its coverage \u2013 will present a sample of genres (music, plastic arts, theater, dance, installation, photography) in a variety of locations and times to understand how art and artists have engaged in protest. Much of modern art is conceptual, using installations and performance, to communicate. Therefore, we will start the class by turning to T. J. Clark, the preeminent art historian, for his answer to the question, when did modern art begin? This question will lead us to explore the debate on the purpose of art. We will then move to how artists responded to moments of crisis in the early 20th century - world wars, economic depression, and the rise of fascism \u2013 because the art that emerged informs much of what we see today. Based on these foundational questions, the class will turn to case studies from around the globe.\n",
     "instructor":"Ramona H Bajema",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -13593,7 +13614,7 @@
   {
     "course_code":"CGTH GR6730",
     "course_title":"GLOBALIZATION&THE PROBLEMS OF WORLD ORDE",
-    "course_descr":null,
+    "course_descr":"We are currently living through a significant transformation of some of the core features of the international system, or what is more broadly often referred to as, \u201cworld order.\u201d Several recent events have highlighted and impacted this sweeping change. The first is the failure of multilateral institutions (such as the UN, WHO or even the G-7 countries) to meet the challenge of the 2020 Covid pandemic. The failure of international collective action is also an obstacle to tackling the effects of global warming. In both cases narrow national interests trumped transnational values.\u00a0 The second is the 2022 Russian invasion of Ukraine which highlights the failure of multilateral institutions (such as the UN Security Council) to protect the independence of territorial nation-states, a principal unit of the international system since 1945. Narrow national interests continue to outweigh the commitment to the long-standing norm of territorial integrity of nation-states as the foundation for the modern post-imperial international order. Nationalism remains the most powerful force in international affairs. Third, the optimism of the post-Cold War (post-1989) era that economic globalization would lead to the liberalization of China and Russia has now almost entirely faded. The current moment is marked by the rise of these authoritarian states (together with Iran and others) which are seeking to overturn the Western liberal international order\u00a0 that was established after 1945. This Western order consists of three components: capitalist market economics, democratic self-rule and universal human rights, and peaceful diplomacy as the preferred way to manage inter-state conflicts. In its stead we are seeing in major parts of the world the persistence of socialist command economies, the rise of illiberal authoritarianism, and a return to 19th century patterns of war and conquest. Finally, the era of expanding globalization, driven by capitalist economic integration across the globe, appears to be over. The world is de-globalizing.\n  \nThis course will examine some of the key institutional challenges and most vexing conceptual controversies in the current rethinking, some might say turmoil, over global governance and competing forms of world order. These debates reveal at least two key features. First, a depth of disagreement about the shape of the international system which is arguably unprecedented in the last seventy years. Almost every dimension of global government and governance is today the subjec",
     "instructor":"Kian Tajbakhsh",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -13621,7 +13642,7 @@
   {
     "course_code":"CGTH GU4400",
     "course_title":"Global New York",
-    "course_descr":null,
+    "course_descr":"\u201cWall Street is a disaster area\u201d\u2014so declared a real estate lawyer in a 1974 \nNew York Times\n story on the pitiful state of lower Manhattan. The World Trade Center had been inaugurated in 1973 as a beacon of global capitalism with a mandate to lease only to international firms. A year later, much of the Twin Towers went unoccupied. Some eight million square feet of financial district office space sat empty, brokerage houses were shuttering at a rate of more than one per day, and the surrounding city was hurtling towards a full-blown fiscal crisis. The New York of the mid-1970s did not appear destined to become the model global city we know today. Within a decade, however, the city had transformed into a central node\u2014arguably \nthe \ncentral node\u2014in the ballooning global financial industry and its accompanying class and cultural formations. But this outcome was never guaranteed. How did New York go from \u201cFear City\u201d to \u201cCapital of the World\u201d? What historical structures, contingencies, and policy decisions produced Global New York?\n  \nThis course examines New York City\u2019s long history as a site of globalization. Since European colonization, New York has served as a hub in world-spanning networks of capital, goods, and people.\n \nAt the same time, the city\u2019s reinvention in the late-20th century as a \u201cglobal city\u201d\u2014defined in large part by its deep embeddedness in world financial markets\u2014represented a fundamental shift in the city\u2019s economy, governance, demography, cultural life, and social relations.\n \nWe will interrogate how this came to be by exploring New York\u2019s historical role in global business, culture, and immigration, with attention to how local and national conditions have shaped the city\u2019s relationship to the world. While critically analyzing how elites both in and outside New York have wielded power over its politics and institutions, readings and discussions will also center the voices of New Yorkers drawn from the numerous and diverse communities that make up this complex city.\n\n",
     "instructor":"Sarah A Miller-Davenport",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -13647,7 +13668,7 @@
   {
     "course_code":"CGTH UN3401",
     "course_title":"SEMINAR IN GLOBAL THOUGHT",
-    "course_descr":null,
+    "course_descr":"This course on global thought will consider the ways in which we think about, debate, and give meaning to the interconnected world in which we live. In thematically focused collaborative teams, students will examine how the flows of people, things and ideas across national borders both connect our world and create uneven consequences within and among communities. We will locate ourselves in these processes, suggesting we need go no further than our closets, tables, and street corners to consider the meanings of globalization and our roles in the world today. This course has been approved to partially satisfy the Global Core requirement.\n",
     "instructor":"Laura L Neitzel",
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"2:00pm",
@@ -22147,6 +22168,34 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"COMM PS5025",
+    "course_title":"STRATEGIC COMMUNICATION MANAGEMENT",
+    "course_descr":"This course examines the strategic role for communication in driving organizational outcomes. It covers key aspects of communication management, including how to plan, implement and measure strategic communication initiatives. Students learn to assess organizational needs, identify stakeholders and draft messaging that speaks credibly to a variety of constituencies, both internal and external. We also emphasize fundamental business skills, such as interpreting financial reports and understanding the language of business.\n\n",
+    "instructor":"Don Waisanen",
+    "scheduled_time_start":"8:30am",
+    "scheduled_time_end":"12:30pm",
+    "call_number":"11912",
+    "campus":"Morningside",
+    "class_id":"K5025-20243-H21",
+    "course_subtitle":"STRATEGIC COMMUNICATION MGMT",
+    "department":"Strategic Communication",
+    "department_code":"COMM",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMM\/K5025-20243-H21\/",
+    "location":"To be announced",
+    "method_of_instruction":"Hybrid 20-79",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"S",
+    "section_key":"20243COMM5025KH21",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"COMM PS5050",
     "course_title":"INDUSTRY INSIDER",
     "course_descr":"This course gives students visibility into the rapidly changing communication industry and the wide range of careers available. Curated site visits take us inside world-class agencies and corporate\/nonprofit organizations to see how they use strategic communication in the real world. Students gain firsthand exposure to leading practitioners while learning the dynamics of collaboration between internal and external stakeholders. Relevant coursework provides additional perspective.\n\n",
@@ -22233,7 +22282,7 @@
   {
     "course_code":"COMM PS5070",
     "course_title":"THE COMPELLING COMMUNICATOR",
-    "course_descr":null,
+    "course_descr":"The ability to communicate effectively is a key competency for professionals. As emerging industry leaders, understanding the audience, framing the message, and using media channels to achieve specified objectives are critical skills, whether written or spoken. Through a variety of written and oral assignments, students learn to apply foundational communication theory to inform and engage stakeholders. The first part of the course focuses on written deliverables, emphasizing audience-framed messaging and developing simple, clear and persuasive content. The second part transitions to enhancing spoken delivery and presentation skills where students gain experience in speechwriting, storytelling and using data visualization to motivate an audience to act.\n\n",
     "instructor":"Kevin Visconti",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -22261,7 +22310,7 @@
   {
     "course_code":"COMM PS5070",
     "course_title":"THE COMPELLING COMMUNICATOR",
-    "course_descr":null,
+    "course_descr":"The ability to communicate effectively is a key competency for professionals. As emerging industry leaders, understanding the audience, framing the message, and using media channels to achieve specified objectives are critical skills, whether written or spoken. Through a variety of written and oral assignments, students learn to apply foundational communication theory to inform and engage stakeholders. The first part of the course focuses on written deliverables, emphasizing audience-framed messaging and developing simple, clear and persuasive content. The second part transitions to enhancing spoken delivery and presentation skills where students gain experience in speechwriting, storytelling and using data visualization to motivate an audience to act.\n\n",
     "instructor":"Gabriel Amor",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -22289,7 +22338,7 @@
   {
     "course_code":"COMM PS5070",
     "course_title":"THE COMPELLING COMMUNICATOR",
-    "course_descr":null,
+    "course_descr":"The ability to communicate effectively is a key competency for professionals. As emerging industry leaders, understanding the audience, framing the message, and using media channels to achieve specified objectives are critical skills, whether written or spoken. Through a variety of written and oral assignments, students learn to apply foundational communication theory to inform and engage stakeholders. The first part of the course focuses on written deliverables, emphasizing audience-framed messaging and developing simple, clear and persuasive content. The second part transitions to enhancing spoken delivery and presentation skills where students gain experience in speechwriting, storytelling and using data visualization to motivate an audience to act.\n\n",
     "instructor":"Gabriel Amor",
     "scheduled_time_start":"8:30am",
     "scheduled_time_end":"1:00pm",
@@ -22345,7 +22394,7 @@
   {
     "course_code":"COMM PS5170",
     "course_title":"CRISIS COMMUNICATIONS",
-    "course_descr":null,
+    "course_descr":"This course covers the basic elements of crisis communication and the procedures for creating crisis communications plans and for reacting to crises when they occur. How best to develop various plans for different critical audiences and understand the most effective strategies for communicating your organization\u2019s message during a crisis is explored. The course examines various types of crises that can occur with corporations and nonprofit organizations and the differences and similarities among them. How to avoid the classic and common pitfalls of crisis communication are addressed, as are ethical issues that arise during crises. Numerous case studies are discussed in class and exercises both in and outside of class are assigned so students gain experience in crisis communication situations.\n\n",
     "instructor":"Andrew Whitehouse",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -22369,6 +22418,258 @@
     "scheduled_days":null,
     "section_key":"20243COMM5170KH01",
     "type":"LECTURE"
+  },
+  {
+    "course_code":"COMM PS5180",
+    "course_title":"ADVANCED WRITING PROJECT",
+    "course_descr":"In this advanced\u00a0professional\u00a0writing\u00a0workshop,\u00a0students are\u00a0guided\u00a0through the process of crafting a significant publication-ready piece of writing, applying principles of journalism and strategic communication. Whether a book chapter, in-depth feature article, white paper,\u00a0or policy proposal, each student\u2019s unique\u00a0project\u00a0will require mastering a range of communication tools\u2014including storytelling, data\u00a0presentation, observation, and analysis.\n\n",
+    "instructor":"Edith Hill Updike",
+    "scheduled_time_start":"8:10pm",
+    "scheduled_time_end":"10:00pm",
+    "call_number":"11905",
+    "campus":"Morningside",
+    "class_id":"K5180-20243-D01",
+    "course_subtitle":null,
+    "department":"Strategic Communication",
+    "department_code":"COMM",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMM\/K5180-20243-D01\/",
+    "location":"To be announced",
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20243COMM5180KD01",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"COMM PS5210",
+    "course_title":"COMMUNICATION AND GLOBAL BRANDS",
+    "course_descr":null,
+    "instructor":"Cheryl Fenelle-Dixon",
+    "scheduled_time_start":"8:10pm",
+    "scheduled_time_end":"10:00pm",
+    "call_number":"11906",
+    "campus":"Morningside",
+    "class_id":"K5210-20243-D01",
+    "course_subtitle":"COMMUNICATION & GLOBAL BRANDS",
+    "department":"Strategic Communication",
+    "department_code":"COMM",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMM\/K5210-20243-D01\/",
+    "location":"To be announced",
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20243COMM5210KD01",
+    "type":"WORKSHOP"
+  },
+  {
+    "course_code":"COMM PS5280",
+    "course_title":"GLOBAL COMMUNICATION FOR PROFESSIONALS",
+    "course_descr":"The global knowledge economy, cross-border market permeability, and worldwide talent mobility have accelerated the rise of multinational and domestic organizations comprised of individuals from many different cultural and linguistic backgrounds. As these trends strengthen, so, too, does the likelihood that the 21st-century worker will spend a significant part of her\/his professional career in a multicultural workplace. While such diversity affords great benefits to organizations, their employees and clients, it is often accompanied by a rise in communication misfires and misunderstandings that can undermine individual, team, and organizational performance.\n\n",
+    "instructor":"Kristine Billmyer",
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"5:00pm",
+    "call_number":"11907",
+    "campus":"Morningside",
+    "class_id":"K5280-20243-001",
+    "course_subtitle":"GLOBAL COMM FOR PROFESSIONALS",
+    "department":"Strategic Communication",
+    "department_code":"COMM",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMM\/K5280-20243-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"SMTWU",
+    "section_key":"20243COMM5280K001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"COMM PS5285",
+    "course_title":"COMMUNICATION RESEARCH & INSIGHTS",
+    "course_descr":"To make informed decisions about communication, we need a clear understanding of our audience and its motivations. We begin by asking the right questions and interpreting the results. This course covers essential market research methods, including quantitative and qualitative techniques. Students gain direct experience in collecting and analyzing data, developing insights and choosing research-driven communication strategies that meet client objectives.\n\n",
+    "instructor":"Alyssa Masucci",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"11908",
+    "campus":"Morningside",
+    "class_id":"K5285-20243-D21",
+    "course_subtitle":"COMM RESEARCH & INSIGHTS",
+    "department":"Strategic Communication",
+    "department_code":"COMM",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMM\/K5285-20243-D21\/",
+    "location":"To be announced",
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20243COMM5285KD21",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"COMM PS5330",
+    "course_title":"DIGITAL COMMUNICATION STRATEGY",
+    "course_descr":"As digital media increasingly drives the field of strategic communication, leading successful communication efforts also require a platform specific, evidence-based strategic approach. Leaders must know how to use a broad and rapidly changing mix of digital media platforms and tools to connect their message with the right audience. To that end, this course covers major topics in\u00a0digital\u00a0media and communication, such as content strategy,\u00a0digital\u00a0experience, channel planning, online reputation management, programmatic marketing, audience targeting, artificial intelligence and more. Through in-class lectures, discussion, case studies, guest speakers, group projects and individual writing assignments, students in this course will be introduced to strategic decision-making and communications planning for social media, mobile, digital advertising, search, email, digital out-of-home and interactive media (video, radio, podcasts). Students will also gain an in-depth understanding of how to integrate digital strategies and tactics with traditional communication efforts.\n\n",
+    "instructor":"Lilian Ore",
+    "scheduled_time_start":"12:10pm",
+    "scheduled_time_end":"2:00pm",
+    "call_number":"11909",
+    "campus":"Morningside",
+    "class_id":"K5330-20243-001",
+    "course_subtitle":"DIGITAL COMMUNICATION STR",
+    "department":"Strategic Communication",
+    "department_code":"COMM",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMM\/K5330-20243-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20243COMM5330K001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"COMM PS5330",
+    "course_title":"DIGITAL COMMUNICATION STRATEGY",
+    "course_descr":"As digital media increasingly drives the field of strategic communication, leading successful communication efforts also require a platform specific, evidence-based strategic approach. Leaders must know how to use a broad and rapidly changing mix of digital media platforms and tools to connect their message with the right audience. To that end, this course covers major topics in\u00a0digital\u00a0media and communication, such as content strategy,\u00a0digital\u00a0experience, channel planning, online reputation management, programmatic marketing, audience targeting, artificial intelligence and more. Through in-class lectures, discussion, case studies, guest speakers, group projects and individual writing assignments, students in this course will be introduced to strategic decision-making and communications planning for social media, mobile, digital advertising, search, email, digital out-of-home and interactive media (video, radio, podcasts). Students will also gain an in-depth understanding of how to integrate digital strategies and tactics with traditional communication efforts.\n\n",
+    "instructor":"Lilian Ore",
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"11910",
+    "campus":"Morningside",
+    "class_id":"K5330-20243-002",
+    "course_subtitle":"DIGITAL COMMUNICATION STR",
+    "department":"Strategic Communication",
+    "department_code":"COMM",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMM\/K5330-20243-002\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20243COMM5330K002",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"COMM PS5330",
+    "course_title":"DIGITAL COMMUNICATION STRATEGY",
+    "course_descr":"As digital media increasingly drives the field of strategic communication, leading successful communication efforts also require a platform specific, evidence-based strategic approach. Leaders must know how to use a broad and rapidly changing mix of digital media platforms and tools to connect their message with the right audience. To that end, this course covers major topics in\u00a0digital\u00a0media and communication, such as content strategy,\u00a0digital\u00a0experience, channel planning, online reputation management, programmatic marketing, audience targeting, artificial intelligence and more. Through in-class lectures, discussion, case studies, guest speakers, group projects and individual writing assignments, students in this course will be introduced to strategic decision-making and communications planning for social media, mobile, digital advertising, search, email, digital out-of-home and interactive media (video, radio, podcasts). Students will also gain an in-depth understanding of how to integrate digital strategies and tactics with traditional communication efforts.\n\n",
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11911",
+    "campus":"Morningside",
+    "class_id":"K5330-20243-H11",
+    "course_subtitle":"DIGITAL COMMUNICATION STR",
+    "department":"Strategic Communication",
+    "department_code":"COMM",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMM\/K5330-20243-H11\/",
+    "location":null,
+    "method_of_instruction":"Hybrid 20-79",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20243COMM5330KH11",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"COMM PS5600",
+    "course_title":"CAPSTONE",
+    "course_descr":null,
+    "instructor":"Thomas J Groppe",
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"11913",
+    "campus":"Morningside",
+    "class_id":"K5600-20243-001",
+    "course_subtitle":null,
+    "department":"Strategic Communication",
+    "department_code":"COMM",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMM\/K5600-20243-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"F",
+    "section_key":"20243COMM5600K001",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"COMM PS5600",
+    "course_title":"CAPSTONE",
+    "course_descr":null,
+    "instructor":"Mark Truss",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11914",
+    "campus":"Morningside",
+    "class_id":"K5600-20243-H11",
+    "course_subtitle":null,
+    "department":"Strategic Communication",
+    "department_code":"COMM",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMM\/K5600-20243-H11\/",
+    "location":null,
+    "method_of_instruction":"Hybrid 20-79",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20243COMM5600KH11",
+    "type":"INDEPENDENT"
   },
   {
     "course_code":"COMS BC1016",
@@ -22661,7 +22962,7 @@
   {
     "course_code":"CPLS GU4740",
     "course_title":"The Narratology of    Modernity",
-    "course_descr":null,
+    "course_descr":"We have a consciousness of ourselves as placed specially in history, in an epoch which is essentially different from all that has come before: the modern. In respect of having such a discourse about ourselves, minimally, it may be true. Since at least the seventeenth century, intellectuals have been elaborating histories of modernity\u2019s origin and theories of its distinction. This course does not attempt to adjudicate what is the true or best theory of the modern, but rather inquires into the discursive and historical conditions for telling narratives about modernity\u2019s advent and constructing theories of its nature, and their aporiai. Topics will vary but may include the advent of \u201chistory\u201d as a genre and non-Western \u201chistorical\u201d genres; providential time, the saeculum, and prophecy; the dialectic of break and period; the delimiting of non-modernities, such as the primitive\/traditional, the feudal, and the postmodern; the search for narrative agents, such as the nation, the state, and the class; schemes of the ontological disunity of modernity; modernism, the avant-garde, and the aesthetic forms of historicity; capitalism, socialism, and revolution; philosophy\u2019s claim to historical diagnosis and the therapeutic refusal thereof; the desire for and attempts to construct anti-historical forms of narration and their limits.\n\n",
     "instructor":"Adam Leeds",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -24504,7 +24805,7 @@
   {
     "course_code":"DTCH UN1101",
     "course_title":"ELEMENTARY DUTCH I",
-    "course_descr":null,
+    "course_descr":"Fundamentals of grammar, reading, speaking, and comprehension of the spoken language. During the spring term supplementary reading is selected according to students' needs.\n",
     "instructor":"Wijnie de Groot",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -24530,7 +24831,7 @@
   {
     "course_code":"DTCH UN1101",
     "course_title":"ELEMENTARY DUTCH I",
-    "course_descr":null,
+    "course_descr":"Fundamentals of grammar, reading, speaking, and comprehension of the spoken language. During the spring term supplementary reading is selected according to students' needs.\n",
     "instructor":null,
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -24556,7 +24857,7 @@
   {
     "course_code":"DTCH UN2101",
     "course_title":"INTERMEDIATE DUTCH I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: DTCH UN1101-UN1102 or the equivalent. Continued practice in the four skills (aural comprehension, reading, speaking, and writing); review and refinement of basic grammar; vocabulary building. Readings in Dutch literature.\n",
     "instructor":"Wijnie de Groot",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -24573,7 +24874,12 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "DTCH UN1101"
+      ],
+      [
+        "UN1102"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20243DTCH2101W001",
@@ -24582,7 +24888,7 @@
   {
     "course_code":"DTCH UN2101",
     "course_title":"INTERMEDIATE DUTCH I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: DTCH UN1101-UN1102 or the equivalent. Continued practice in the four skills (aural comprehension, reading, speaking, and writing); review and refinement of basic grammar; vocabulary building. Readings in Dutch literature.\n",
     "instructor":null,
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -24599,7 +24905,12 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "DTCH UN1101"
+      ],
+      [
+        "UN1102"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20243DTCH2101W002",
@@ -24608,7 +24919,7 @@
   {
     "course_code":"DTCH UN3101",
     "course_title":"ADVANCED DUTCH I",
-    "course_descr":null,
+    "course_descr":"This advanced course is a content-based language course, and is centered around the history of the Low Countries. Each week focuses on a specific era, such as the counts of Holland in the 13th century and the Reformation in the 16th century. Students will read texts about history and literature of the historical periods.\n  \nStudents will read texts at home and discuss them in class, explore history-related websites and watch short video clips.\n  \nAttention will be paid to advanced grammar issues and vocabulary.\n\n",
     "instructor":"Wijnie de Groot",
     "scheduled_time_start":"1:15pm",
     "scheduled_time_end":"2:30pm",
@@ -26199,7 +26510,7 @@
   {
     "course_code":"ECON GR6809",
     "course_title":"INTERNATIONAL MACRO-FINANCE",
-    "course_descr":null,
+    "course_descr":"This is an advanced graduate-level course in international macro-finance. The course focuses on empirical research and applied theory. This course is targeted to second year PhD students in business economics, economics, finance and related disciplines, including Columbia Business School MSFE students that have completed their first-year courses.\n  \nThe course assumes familiarity with basic theoretical modeling techniques such as dynamic optimization and general equilibrium modeling. Similarly, the course assumes familiarity with basic empirical methods and with econometric software of your choice (Stata, Python, Matlab, etc.). Students without all the necessary prerequisites and familiarity with these techniques are welcome to take the course but should expect to have to fill the gaps on their own.\n  \nThere is no required textbook for the course since we will mainly read and discuss papers on the reading list. The following resources will be used extensively:\n  \n\u00a0\n  \n-Handbook of International Economics, Volume 5, forthcoming. \nLink\n  \n-Stanford Big-Data Initiative in International Macro-Finance Videos: \nLink\n\n",
     "instructor":"Jesse Schreger",
     "scheduled_time_start":"8:10am",
     "scheduled_time_end":"10:00am",
@@ -30116,7 +30427,7 @@
   {
     "course_code":"EESC UN3904",
     "course_title":"INDEPENDENT RESEARCH IN CLIMATE SYSTEM S",
-    "course_descr":null,
+    "course_descr":"In this course, students develop and complete a one-semester independent research project in an area of Climate System Science. Each student works closely with a research Mentor, and the course experience for all students is coordinated with a course Instructor. This course fulfills the Capstone experience for the Climate System Science major in DEES. This course cannot be combined with one semester of Senior Seminar UN3901, which is designed as a 1-year course.\n\n",
     "instructor":null,
     "scheduled_time_start":"8:40am",
     "scheduled_time_end":"9:55am",
@@ -30133,7 +30444,9 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "UN3901"
+      ]
     ],
     "scheduled_days":"R",
     "section_key":"20243EESC3904W001",
@@ -30975,7 +31288,7 @@
   {
     "course_code":"ENGL BC3107",
     "course_title":"INTRODUCTION TO FICTION WRITING",
-    "course_descr":null,
+    "course_descr":"Writing sample required to apply. Instructions and the application form can be found here: \nhttps:\/\/english.barnard.edu\/english\/creative-writing-courses\n. Practice in writing short stories and other forms of fiction with discussion and close analysis in a workshop setting.\n\n",
     "instructor":"Zaina F Arafat",
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"2:00pm",
@@ -31001,7 +31314,7 @@
   {
     "course_code":"ENGL BC3110",
     "course_title":"INTRODUCTION TO POETRY WRITING",
-    "course_descr":null,
+    "course_descr":"Writing sample required to apply. Instructions and the application form can be found here: \nhttps:\/\/english.barnard.edu\/english\/creative-writing-courses\n.\n  \nVaried assignments designed to confront the difficulties and explore the resources of language through imitation, allusion, free association, revision, and other techniques.\n\n",
     "instructor":"Brionne Janae",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -31027,7 +31340,7 @@
   {
     "course_code":"ENGL BC3115",
     "course_title":"STORY WRITING",
-    "course_descr":null,
+    "course_descr":"Writing sample required to apply. Instructions and the application form can be found here: \nhttps:\/\/english.barnard.edu\/english\/creative-writing-courses\n.\n\u00a0\nA workshop in writing, with emphasis on the short story.\n\n",
     "instructor":"Nellie G Hermann",
     "scheduled_time_start":"11:00am",
     "scheduled_time_end":"12:50pm",
@@ -31053,7 +31366,7 @@
   {
     "course_code":"ENGL BC3117",
     "course_title":"FICTION WRITING",
-    "course_descr":null,
+    "course_descr":"Writing sample required to apply. Instructions and the application form can be found here: \nhttps:\/\/english.barnard.edu\/english\/creative-writing-courses\n.\u00a0\n  \nAssignments designed to examine form and structure in fiction.\u00a0\n\n",
     "instructor":"Weike Wang",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -31079,7 +31392,7 @@
   {
     "course_code":"ENGL BC3118",
     "course_title":"ADVANCED POETRY WRITING",
-    "course_descr":null,
+    "course_descr":"Writing sample required to apply. Instructions and the application form can be found here: \nhttps:\/\/english.barnard.edu\/english\/creative-writing-courses\n.\u00a0Weekly workshops designed to generate and critique new poetry. Each participant works toward the development of a cohesive collection of poems. Readings in traditional and contemporary poetry will also be included.\n\n",
     "instructor":"Patricia S Jones",
     "scheduled_time_start":"11:00am",
     "scheduled_time_end":"12:50pm",
@@ -32292,7 +32605,7 @@
   {
     "course_code":"EXRS GR0001",
     "course_title":"EXTENDED RESIDENCE F\/T",
-    "course_descr":null,
+    "course_descr":"Extended Residence\n\n",
     "instructor":"Richard Slusarczyk",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -32318,7 +32631,7 @@
   {
     "course_code":"EXSC GR0001",
     "course_title":"EXCHANGE SCHOLAR PROGRAM",
-    "course_descr":null,
+    "course_descr":"N\/A\n",
     "instructor":"Richard Slusarczyk",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -32344,7 +32657,7 @@
   {
     "course_code":"FILI OC1101",
     "course_title":"ELEMENTARY FILIPINO I",
-    "course_descr":null,
+    "course_descr":"Introduction to Filipino with an emphasis on mastering basic skills and working vocabulary. Linguistic rules are applied to enable the student to communicate with more competence. Lessons incorporate discussions on history, current events, literature, pop culture, and native values. Includes field trips to Filipino neighborhoods in Queens and Jersey City. Note: This course is part of the language exchange program with New York University (NYU). Classes will be held at NYU.\n",
     "instructor":null,
     "scheduled_time_start":"2:00pm",
     "scheduled_time_end":"4:45pm",
@@ -32370,7 +32683,7 @@
   {
     "course_code":"FILI OC2101",
     "course_title":"INTERMEDIATE FILIPINO I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: FILI W1101-W1102 or the instructor's permission. Emphasis is placed on the linguistic rules to enable students to communicate with more competence. The lessons will not only focus on language but also will use a holistic approach and incorporate discussions on history, current events, literature, pop culture, and native values. Note: This course is part of the language exchange program with New York University (NYU). Classes will be held at NYU.\n",
     "instructor":null,
     "scheduled_time_start":"2:00pm",
     "scheduled_time_end":"4:45pm",
@@ -32387,7 +32700,12 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "FILI W1101"
+      ],
+      [
+        "W1102"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20243FILI2101W001",
@@ -34923,7 +35241,7 @@
   {
     "course_code":"GERM UN1101",
     "course_title":"ELEMENTARY GERMAN I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: No prior German.\n  \nGerman 1101 is a communicative language course for beginners, taught in German, in which students develop the four skills -listening, speaking, reading, and writing- and a basic understanding of German-speaking cultures. Emphasis is placed on acquiring the four language skills within a cultural context. Upon successful completion of the course, students will be able to understand, speak, read, and write German at a level enabling them to communicate with native speakers and provide basic information about their background, family, daily activities, student life, work, and living quarters. Completion of daily assignments, which align with class content, and consistent work are necessary in order to achieve basic communicative proficiency. If you have prior German, the placement exam is required.\n\n",
     "instructor":"Isabel M Blankfield",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -34949,7 +35267,7 @@
   {
     "course_code":"GERM UN1101",
     "course_title":"ELEMENTARY GERMAN I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: No prior German.\n  \nGerman 1101 is a communicative language course for beginners, taught in German, in which students develop the four skills -listening, speaking, reading, and writing- and a basic understanding of German-speaking cultures. Emphasis is placed on acquiring the four language skills within a cultural context. Upon successful completion of the course, students will be able to understand, speak, read, and write German at a level enabling them to communicate with native speakers and provide basic information about their background, family, daily activities, student life, work, and living quarters. Completion of daily assignments, which align with class content, and consistent work are necessary in order to achieve basic communicative proficiency. If you have prior German, the placement exam is required.\n\n",
     "instructor":"Ethan G Fraenkel",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -34975,7 +35293,7 @@
   {
     "course_code":"GERM UN1101",
     "course_title":"ELEMENTARY GERMAN I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: No prior German.\n  \nGerman 1101 is a communicative language course for beginners, taught in German, in which students develop the four skills -listening, speaking, reading, and writing- and a basic understanding of German-speaking cultures. Emphasis is placed on acquiring the four language skills within a cultural context. Upon successful completion of the course, students will be able to understand, speak, read, and write German at a level enabling them to communicate with native speakers and provide basic information about their background, family, daily activities, student life, work, and living quarters. Completion of daily assignments, which align with class content, and consistent work are necessary in order to achieve basic communicative proficiency. If you have prior German, the placement exam is required.\n\n",
     "instructor":"Simona C Vaidean",
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:55pm",
@@ -35001,7 +35319,7 @@
   {
     "course_code":"GERM UN1101",
     "course_title":"ELEMENTARY GERMAN I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: No prior German.\n  \nGerman 1101 is a communicative language course for beginners, taught in German, in which students develop the four skills -listening, speaking, reading, and writing- and a basic understanding of German-speaking cultures. Emphasis is placed on acquiring the four language skills within a cultural context. Upon successful completion of the course, students will be able to understand, speak, read, and write German at a level enabling them to communicate with native speakers and provide basic information about their background, family, daily activities, student life, work, and living quarters. Completion of daily assignments, which align with class content, and consistent work are necessary in order to achieve basic communicative proficiency. If you have prior German, the placement exam is required.\n\n",
     "instructor":"Simona C Vaidean",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:25pm",
@@ -35027,7 +35345,7 @@
   {
     "course_code":"GERM UN1101",
     "course_title":"ELEMENTARY GERMAN I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: No prior German.\n  \nGerman 1101 is a communicative language course for beginners, taught in German, in which students develop the four skills -listening, speaking, reading, and writing- and a basic understanding of German-speaking cultures. Emphasis is placed on acquiring the four language skills within a cultural context. Upon successful completion of the course, students will be able to understand, speak, read, and write German at a level enabling them to communicate with native speakers and provide basic information about their background, family, daily activities, student life, work, and living quarters. Completion of daily assignments, which align with class content, and consistent work are necessary in order to achieve basic communicative proficiency. If you have prior German, the placement exam is required.\n\n",
     "instructor":null,
     "scheduled_time_start":"5:40pm",
     "scheduled_time_end":"6:55pm",
@@ -35053,7 +35371,7 @@
   {
     "course_code":"GERM UN1101",
     "course_title":"ELEMENTARY GERMAN I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: No prior German.\n  \nGerman 1101 is a communicative language course for beginners, taught in German, in which students develop the four skills -listening, speaking, reading, and writing- and a basic understanding of German-speaking cultures. Emphasis is placed on acquiring the four language skills within a cultural context. Upon successful completion of the course, students will be able to understand, speak, read, and write German at a level enabling them to communicate with native speakers and provide basic information about their background, family, daily activities, student life, work, and living quarters. Completion of daily assignments, which align with class content, and consistent work are necessary in order to achieve basic communicative proficiency. If you have prior German, the placement exam is required.\n\n",
     "instructor":null,
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -35079,7 +35397,7 @@
   {
     "course_code":"GERM UN1102",
     "course_title":"ELEMENTARY GERMAN II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: GERM UN1101 or the equivalent. If you have prior German outside of Columbia\u2019s language sequence, the placement exam is required. German 1102 is the continuation of Elementary German I (1101). It is a four-skill language course taught in German, in which students continue to develop listening, speaking, reading, and writing skills in German and an understanding of German-speaking cultures. Emphasis is placed on acquiring the four language skills--listening, speaking, reading and writing--within a cultural context. Students expand their communication skills to include travel, storytelling, personal well- being, basic economics, recent historical events, and working with movie segments. Completion of daily assignments, which align with class content, and consistent work are necessary in order to achieve basic communicative proficiency.\n\n",
     "instructor":"Simona C Vaidean",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -35096,7 +35414,9 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "GERM UN1101"
+      ]
     ],
     "scheduled_days":"MWR",
     "section_key":"20243GERM1102V001",
@@ -35105,7 +35425,7 @@
   {
     "course_code":"GERM UN1102",
     "course_title":"ELEMENTARY GERMAN II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: GERM UN1101 or the equivalent. If you have prior German outside of Columbia\u2019s language sequence, the placement exam is required. German 1102 is the continuation of Elementary German I (1101). It is a four-skill language course taught in German, in which students continue to develop listening, speaking, reading, and writing skills in German and an understanding of German-speaking cultures. Emphasis is placed on acquiring the four language skills--listening, speaking, reading and writing--within a cultural context. Students expand their communication skills to include travel, storytelling, personal well- being, basic economics, recent historical events, and working with movie segments. Completion of daily assignments, which align with class content, and consistent work are necessary in order to achieve basic communicative proficiency.\n\n",
     "instructor":"Patrick Woodard",
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:55pm",
@@ -35122,7 +35442,9 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "GERM UN1101"
+      ]
     ],
     "scheduled_days":"MTR",
     "section_key":"20243GERM1102V002",
@@ -35131,7 +35453,7 @@
   {
     "course_code":"GERM UN1102",
     "course_title":"ELEMENTARY GERMAN II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: GERM UN1101 or the equivalent. If you have prior German outside of Columbia\u2019s language sequence, the placement exam is required. German 1102 is the continuation of Elementary German I (1101). It is a four-skill language course taught in German, in which students continue to develop listening, speaking, reading, and writing skills in German and an understanding of German-speaking cultures. Emphasis is placed on acquiring the four language skills--listening, speaking, reading and writing--within a cultural context. Students expand their communication skills to include travel, storytelling, personal well- being, basic economics, recent historical events, and working with movie segments. Completion of daily assignments, which align with class content, and consistent work are necessary in order to achieve basic communicative proficiency.\n\n",
     "instructor":null,
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -35148,7 +35470,9 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "GERM UN1101"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20243GERM1102V003",
@@ -35186,7 +35510,7 @@
   {
     "course_code":"GERM UN2101",
     "course_title":"INTERMEDIATE GERMAN I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: GERM UN2101 or the equivalent. If you have prior German outside of Columbia\u2019s language sequence, the placement exam is required.\n  \nIntermediate German UN2102 is conducted entirely in German and emphasizes the four basic language skills, cultural awareness, and critical thinking. A wide range of topics (from politics and poetry to art) as well as authentic materials (texts, film, art, etc.) are used to improve the 4 skill. Practice in conversation aims at enlarging the vocabulary necessary for daily communication. Grammar is practiced in the context of the topics. Learning and evaluation are individualized (individual vocabulary lists, essays, oral presentations, final portfolio) and project-based (group work and final group project).\n\n",
     "instructor":"Romney J Walker Wood",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -35203,7 +35527,10 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "GERM UN2101",
+        "UN2102"
+      ]
     ],
     "scheduled_days":"MTR",
     "section_key":"20243GERM2101V001",
@@ -35212,7 +35539,7 @@
   {
     "course_code":"GERM UN2101",
     "course_title":"INTERMEDIATE GERMAN I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: GERM UN2101 or the equivalent. If you have prior German outside of Columbia\u2019s language sequence, the placement exam is required.\n  \nIntermediate German UN2102 is conducted entirely in German and emphasizes the four basic language skills, cultural awareness, and critical thinking. A wide range of topics (from politics and poetry to art) as well as authentic materials (texts, film, art, etc.) are used to improve the 4 skill. Practice in conversation aims at enlarging the vocabulary necessary for daily communication. Grammar is practiced in the context of the topics. Learning and evaluation are individualized (individual vocabulary lists, essays, oral presentations, final portfolio) and project-based (group work and final group project).\n\n",
     "instructor":null,
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -35229,7 +35556,10 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "GERM UN2101",
+        "UN2102"
+      ]
     ],
     "scheduled_days":"MWR",
     "section_key":"20243GERM2101V002",
@@ -35238,7 +35568,7 @@
   {
     "course_code":"GERM UN2101",
     "course_title":"INTERMEDIATE GERMAN I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: GERM UN2101 or the equivalent. If you have prior German outside of Columbia\u2019s language sequence, the placement exam is required.\n  \nIntermediate German UN2102 is conducted entirely in German and emphasizes the four basic language skills, cultural awareness, and critical thinking. A wide range of topics (from politics and poetry to art) as well as authentic materials (texts, film, art, etc.) are used to improve the 4 skill. Practice in conversation aims at enlarging the vocabulary necessary for daily communication. Grammar is practiced in the context of the topics. Learning and evaluation are individualized (individual vocabulary lists, essays, oral presentations, final portfolio) and project-based (group work and final group project).\n\n",
     "instructor":"Jutta Schmiers-Heller",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:25pm",
@@ -35255,7 +35585,10 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "GERM UN2101",
+        "UN2102"
+      ]
     ],
     "scheduled_days":"MWR",
     "section_key":"20243GERM2101V003",
@@ -35264,7 +35597,7 @@
   {
     "course_code":"GERM UN2102",
     "course_title":"INTERMEDIATE GERMAN II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: GERM UN2101 or the equivalent.\n  \nIntermediate German UN2102 is conducted entirely in German and emphasizes the four basic language skills, cultural awareness, and critical thinking. A wide range of topics (from politics and poetry to art) as well as authentic materials (texts, film, art, etc.) are used to improve the 4 skill. Practice in conversation aims at enlarging the vocabulary necessary for daily communication. Grammar is practiced in the context of the topics. Learning and evaluation are individualized (individual vocabulary lists, essays, oral presentations, final portfolio) and project-based (group work and final group project).\n\n",
     "instructor":null,
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -35281,7 +35614,10 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "GERM UN2101",
+        "UN2102"
+      ]
     ],
     "scheduled_days":"MWR",
     "section_key":"20243GERM2102V001",
@@ -35290,7 +35626,7 @@
   {
     "course_code":"GERM UN2102",
     "course_title":"INTERMEDIATE GERMAN II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: GERM UN2101 or the equivalent.\n  \nIntermediate German UN2102 is conducted entirely in German and emphasizes the four basic language skills, cultural awareness, and critical thinking. A wide range of topics (from politics and poetry to art) as well as authentic materials (texts, film, art, etc.) are used to improve the 4 skill. Practice in conversation aims at enlarging the vocabulary necessary for daily communication. Grammar is practiced in the context of the topics. Learning and evaluation are individualized (individual vocabulary lists, essays, oral presentations, final portfolio) and project-based (group work and final group project).\n\n",
     "instructor":"Young Na",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -35307,7 +35643,10 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "GERM UN2101",
+        "UN2102"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20243GERM2102V002",
@@ -35316,7 +35655,7 @@
   {
     "course_code":"GERM UN2520",
     "course_title":"Intermediate Conversation",
-    "course_descr":null,
+    "course_descr":"Prerequisite\n: Completion of 1102 or equivalent. If you have prior German outside of Columbia's language sequence, the placement exam is required.\n  \nDesire to speak lots of German!\u00a0Students in Intermediate Conversation should have completed the equivalent of two semester of college German or placed at the Intermediate level at Columbia.\u00a0This conversation group is designed for students are either taking Intermediate German I or II and would like additional practice or who take only this class because they wish to maintain their spoken German.\n  \nThe course is designed to improve your ability to speak and understand and manage German in everyday situations; to provide opportunities to participate in conversational situations on any topics you are interested in; to strengthen and acquire skills to understand German spoken at normal conversational speed; to expand active and passive vocabularies speaking skills; and to maintain a certain level of written German through short written activities. This is a 2-point course and does not count towards the language requirement.\n\n",
     "instructor":null,
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:25pm",
@@ -35342,7 +35681,7 @@
   {
     "course_code":"GERM UN3001",
     "course_title":"ADVANCED GERMAN I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: GERM UN2102. If you have prior German outside of Columbia\u2019s language sequence, the placement exam is required. Note: UN3001 and UN3002 are not sequential.\n  \nGerman UN3001 is an ambitious socio-cultural exploration of Berlin. Designed to follow up the language skills acquired in first- and second-year language courses (or the equivalent thereof), this course gives students greater proficiency in speaking, reading, and writing German while focusing on topics from German society today through various German media, such as internet, film, and literature through the lens of Germany\u2019s capital, Berlin. Topics discussed include: cultural diversity in Berlin's multi-cultural neighborhoods; questioning and reflecting upon Berlin's recent past; developing your own Berlin experience and presenting your interests in various forms, such as presentations, an essay, your CV, an application letter and interview for an internship in Berlin. The course represents a gateway class to literature courses and counts towards the major and concentration in German. Taught in German.\n\n",
     "instructor":null,
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -35359,7 +35698,16 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "GERM UN2102",
+        "UN3001"
+      ],
+      [
+        "UN3001"
+      ],
+      [
+        "UN3002"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20243GERM3001V001",
@@ -35368,7 +35716,7 @@
   {
     "course_code":"GERM UN3333",
     "course_title":"INTRO TO GERMAN LIT (GERMAN)",
-    "course_descr":null,
+    "course_descr":"Prerequisites: GERM UN2102 or the equivalent. Examines short literary texts and various methodological approaches to interpreting such texts in order to establish a basic familiarity with the study of German literature and culture.\n",
     "instructor":"Stefan Andriopoulos",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -35385,7 +35733,9 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "GERM UN2102"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20243GERM3333W001",
@@ -43538,7 +43888,7 @@
   {
     "course_code":"HUMA UN2000",
     "course_title":"Core as Praxis\/Fieldwork",
-    "course_descr":null,
+    "course_descr":"\"The Core as Praxis\/Fieldwork\u201d provides students with the opportunity to explore the connections among texts from the Core Curriculum, their work in their major field of study, and their work in a professional environment outside of Columbia\u2019s campus. Students will be guided through a process of reflection on the ideas and approaches that they develop in Core classes and in the courses in their major, to think about how they can apply theory to practice in the context of an internship or other experiential learning environment. Students will reread and revisit a text that they have studied previously in Literature Humanities or in Contemporary Civilization as the basis for their reading and writing assignments over the semester.\u00a0\nTo be eligible, students must (1) be engaged during the semester in an internship or other experiential learning opportunity,\u00a0(2) have completed the sophomore year, and (3) have declared their major (or concentration)\n. HUMAUN2000 may not be taken with the Pass\/D\/Fail option. All students will receive a letter grade for the course. Students can take HUMAUN2000 twice.\n\n",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -43557,7 +43907,10 @@
     ],
     "points":"1",
     "prerequisites":[
-
+      [
+        "UN2000",
+        "UN2000"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20243HUMA2000S001",
@@ -43566,7 +43919,7 @@
   {
     "course_code":"HUMA UN2000",
     "course_title":"Core as Praxis\/Fieldwork",
-    "course_descr":null,
+    "course_descr":"\"The Core as Praxis\/Fieldwork\u201d provides students with the opportunity to explore the connections among texts from the Core Curriculum, their work in their major field of study, and their work in a professional environment outside of Columbia\u2019s campus. Students will be guided through a process of reflection on the ideas and approaches that they develop in Core classes and in the courses in their major, to think about how they can apply theory to practice in the context of an internship or other experiential learning environment. Students will reread and revisit a text that they have studied previously in Literature Humanities or in Contemporary Civilization as the basis for their reading and writing assignments over the semester.\u00a0\nTo be eligible, students must (1) be engaged during the semester in an internship or other experiential learning opportunity,\u00a0(2) have completed the sophomore year, and (3) have declared their major (or concentration)\n. HUMAUN2000 may not be taken with the Pass\/D\/Fail option. All students will receive a letter grade for the course. Students can take HUMAUN2000 twice.\n\n",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -43585,7 +43938,10 @@
     ],
     "points":"1",
     "prerequisites":[
-
+      [
+        "UN2000",
+        "UN2000"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20243HUMA2000S002",
@@ -43594,7 +43950,7 @@
   {
     "course_code":"IEOR E3900",
     "course_title":"UNDERGRAD RESEARCH OR PROJECT",
-    "course_descr":null,
+    "course_descr":"Independent work involving experiments, computer programming, analytical investigation, or engineering design.\n\n",
     "instructor":"Anish Agarwal",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -43622,7 +43978,7 @@
   {
     "course_code":"IEOR E3900",
     "course_title":"UNDERGRAD RESEARCH OR PROJECT",
-    "course_descr":null,
+    "course_descr":"Independent work involving experiments, computer programming, analytical investigation, or engineering design.\n\n",
     "instructor":"Shipra Agrawal",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -43650,7 +44006,7 @@
   {
     "course_code":"IEOR E3900",
     "course_title":"UNDERGRAD RESEARCH OR PROJECT",
-    "course_descr":null,
+    "course_descr":"Independent work involving experiments, computer programming, analytical investigation, or engineering design.\n\n",
     "instructor":"Eric Balkanski",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -43678,7 +44034,7 @@
   {
     "course_code":"IEOR E3900",
     "course_title":"UNDERGRAD RESEARCH OR PROJECT",
-    "course_descr":null,
+    "course_descr":"Independent work involving experiments, computer programming, analytical investigation, or engineering design.\n\n",
     "instructor":"Daniel Bienstock",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -43706,7 +44062,7 @@
   {
     "course_code":"IEOR E3900",
     "course_title":"UNDERGRAD RESEARCH OR PROJECT",
-    "course_descr":null,
+    "course_descr":"Independent work involving experiments, computer programming, analytical investigation, or engineering design.\n\n",
     "instructor":"Agostino Capponi",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -43734,7 +44090,7 @@
   {
     "course_code":"IEOR E3900",
     "course_title":"UNDERGRAD RESEARCH OR PROJECT",
-    "course_descr":null,
+    "course_descr":"Independent work involving experiments, computer programming, analytical investigation, or engineering design.\n\n",
     "instructor":"Rachel Cummings",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -43762,7 +44118,7 @@
   {
     "course_code":"IEOR E3900",
     "course_title":"UNDERGRAD RESEARCH OR PROJECT",
-    "course_descr":null,
+    "course_descr":"Independent work involving experiments, computer programming, analytical investigation, or engineering design.\n\n",
     "instructor":"Antonius B Dieker",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -43790,7 +44146,7 @@
   {
     "course_code":"IEOR E3900",
     "course_title":"UNDERGRAD RESEARCH OR PROJECT",
-    "course_descr":null,
+    "course_descr":"Independent work involving experiments, computer programming, analytical investigation, or engineering design.\n\n",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -43818,7 +44174,7 @@
   {
     "course_code":"IEOR E3900",
     "course_title":"UNDERGRAD RESEARCH OR PROJECT",
-    "course_descr":null,
+    "course_descr":"Independent work involving experiments, computer programming, analytical investigation, or engineering design.\n\n",
     "instructor":"Christopher J Dolan",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -43846,7 +44202,7 @@
   {
     "course_code":"IEOR E3900",
     "course_title":"UNDERGRAD RESEARCH OR PROJECT",
-    "course_descr":null,
+    "course_descr":"Independent work involving experiments, computer programming, analytical investigation, or engineering design.\n\n",
     "instructor":"Adam N Elmachtoub",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -43874,7 +44230,7 @@
   {
     "course_code":"IEOR E3900",
     "course_title":"UNDERGRAD RESEARCH OR PROJECT",
-    "course_descr":null,
+    "course_descr":"Independent work involving experiments, computer programming, analytical investigation, or engineering design.\n\n",
     "instructor":"Yuri Faenza",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -43902,7 +44258,7 @@
   {
     "course_code":"IEOR E3900",
     "course_title":"UNDERGRAD RESEARCH OR PROJECT",
-    "course_descr":null,
+    "course_descr":"Independent work involving experiments, computer programming, analytical investigation, or engineering design.\n\n",
     "instructor":"Donald Goldfarb",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -43930,7 +44286,7 @@
   {
     "course_code":"IEOR E3900",
     "course_title":"UNDERGRAD RESEARCH OR PROJECT",
-    "course_descr":null,
+    "course_descr":"Independent work involving experiments, computer programming, analytical investigation, or engineering design.\n\n",
     "instructor":"Xunyu Zhou",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -43958,7 +44314,7 @@
   {
     "course_code":"IEOR E3900",
     "course_title":"UNDERGRAD RESEARCH OR PROJECT",
-    "course_descr":null,
+    "course_descr":"Independent work involving experiments, computer programming, analytical investigation, or engineering design.\n\n",
     "instructor":"Vineet Goyal",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -43986,7 +44342,7 @@
   {
     "course_code":"IEOR E3900",
     "course_title":"UNDERGRAD RESEARCH OR PROJECT",
-    "course_descr":null,
+    "course_descr":"Independent work involving experiments, computer programming, analytical investigation, or engineering design.\n\n",
     "instructor":"Yi Zhang",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -44014,7 +44370,7 @@
   {
     "course_code":"IEOR E3900",
     "course_title":"UNDERGRAD RESEARCH OR PROJECT",
-    "course_descr":null,
+    "course_descr":"Independent work involving experiments, computer programming, analytical investigation, or engineering design.\n\n",
     "instructor":"Ali Hirsa",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -44042,7 +44398,7 @@
   {
     "course_code":"IEOR E3900",
     "course_title":"UNDERGRAD RESEARCH OR PROJECT",
-    "course_descr":null,
+    "course_descr":"Independent work involving experiments, computer programming, analytical investigation, or engineering design.\n\n",
     "instructor":"Anran Hu",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -44070,7 +44426,7 @@
   {
     "course_code":"IEOR E3900",
     "course_title":"UNDERGRAD RESEARCH OR PROJECT",
-    "course_descr":null,
+    "course_descr":"Independent work involving experiments, computer programming, analytical investigation, or engineering design.\n\n",
     "instructor":"Garud Iyengar",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -44098,7 +44454,7 @@
   {
     "course_code":"IEOR E3900",
     "course_title":"UNDERGRAD RESEARCH OR PROJECT",
-    "course_descr":null,
+    "course_descr":"Independent work involving experiments, computer programming, analytical investigation, or engineering design.\n\n",
     "instructor":"David D Yao",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -44126,7 +44482,7 @@
   {
     "course_code":"IEOR E3900",
     "course_title":"UNDERGRAD RESEARCH OR PROJECT",
-    "course_descr":null,
+    "course_descr":"Independent work involving experiments, computer programming, analytical investigation, or engineering design.\n\n",
     "instructor":"Hardeep Johar",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -44154,7 +44510,7 @@
   {
     "course_code":"IEOR E3900",
     "course_title":"UNDERGRAD RESEARCH OR PROJECT",
-    "course_descr":null,
+    "course_descr":"Independent work involving experiments, computer programming, analytical investigation, or engineering design.\n\n",
     "instructor":"Kaizheng Wang",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -44182,7 +44538,7 @@
   {
     "course_code":"IEOR E3900",
     "course_title":"UNDERGRAD RESEARCH OR PROJECT",
-    "course_descr":null,
+    "course_descr":"Independent work involving experiments, computer programming, analytical investigation, or engineering design.\n\n",
     "instructor":"Cedric Josz",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -44210,7 +44566,7 @@
   {
     "course_code":"IEOR E3900",
     "course_title":"UNDERGRAD RESEARCH OR PROJECT",
-    "course_descr":null,
+    "course_descr":"Independent work involving experiments, computer programming, analytical investigation, or engineering design.\n\n",
     "instructor":"Soulaymane Kachani",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -44238,7 +44594,7 @@
   {
     "course_code":"IEOR E3900",
     "course_title":"UNDERGRAD RESEARCH OR PROJECT",
-    "course_descr":null,
+    "course_descr":"Independent work involving experiments, computer programming, analytical investigation, or engineering design.\n\n",
     "instructor":"Wenpin Tang",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -44266,7 +44622,7 @@
   {
     "course_code":"IEOR E3900",
     "course_title":"UNDERGRAD RESEARCH OR PROJECT",
-    "course_descr":null,
+    "course_descr":"Independent work involving experiments, computer programming, analytical investigation, or engineering design.\n\n",
     "instructor":"Yaren Kaya",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -44294,7 +44650,7 @@
   {
     "course_code":"IEOR E3900",
     "course_title":"UNDERGRAD RESEARCH OR PROJECT",
-    "course_descr":null,
+    "course_descr":"Independent work involving experiments, computer programming, analytical investigation, or engineering design.\n\n",
     "instructor":"Christian Kroer",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -44322,7 +44678,7 @@
   {
     "course_code":"IEOR E3900",
     "course_title":"UNDERGRAD RESEARCH OR PROJECT",
-    "course_descr":null,
+    "course_descr":"Independent work involving experiments, computer programming, analytical investigation, or engineering design.\n\n",
     "instructor":"Clifford Stein",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -44350,7 +44706,7 @@
   {
     "course_code":"IEOR E3900",
     "course_title":"UNDERGRAD RESEARCH OR PROJECT",
-    "course_descr":null,
+    "course_descr":"Independent work involving experiments, computer programming, analytical investigation, or engineering design.\n\n",
     "instructor":"Karl Sigman",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -44378,7 +44734,7 @@
   {
     "course_code":"IEOR E3900",
     "course_title":"UNDERGRAD RESEARCH OR PROJECT",
-    "course_descr":null,
+    "course_descr":"Independent work involving experiments, computer programming, analytical investigation, or engineering design.\n\n",
     "instructor":"Jay Sethuraman",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -44406,7 +44762,7 @@
   {
     "course_code":"IEOR E3900",
     "course_title":"UNDERGRAD RESEARCH OR PROJECT",
-    "course_descr":null,
+    "course_descr":"Independent work involving experiments, computer programming, analytical investigation, or engineering design.\n\n",
     "instructor":"Tianyi Lin",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -44434,7 +44790,7 @@
   {
     "course_code":"IEOR E3900",
     "course_title":"UNDERGRAD RESEARCH OR PROJECT",
-    "course_descr":null,
+    "course_descr":"Independent work involving experiments, computer programming, analytical investigation, or engineering design.\n\n",
     "instructor":"Fabrizio Lecci",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -44462,7 +44818,7 @@
   {
     "course_code":"IEOR E3900",
     "course_title":"UNDERGRAD RESEARCH OR PROJECT",
-    "course_descr":null,
+    "course_descr":"Independent work involving experiments, computer programming, analytical investigation, or engineering design.\n\n",
     "instructor":"Henry Lam",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -44490,7 +44846,7 @@
   {
     "course_code":"IEOR E3900",
     "course_title":"UNDERGRAD RESEARCH OR PROJECT",
-    "course_descr":null,
+    "course_descr":"Independent work involving experiments, computer programming, analytical investigation, or engineering design.\n\n",
     "instructor":"Daniel Lacker",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -44518,7 +44874,7 @@
   {
     "course_code":"IMGT PS5100",
     "course_title":"PRODUCT, PRICING & DISTRIBUTION",
-    "course_descr":null,
+    "course_descr":"The insurance business is an outward facing business built around selling products to individual and business consumers. Therefore, insurance service providers, like all sophisticated consumer-driven businesses, must carefully and constantly assess their markets and strategies to remain relevant in a highly competitive environment.\u00a0 From consumer data analytics, to proper risk pricing, to efficient distribution channels, to navigating social media, to managing the highly regulated nature of insurance sales and distribution, insurance providers operate in a highly competitive environment that rewards discipline as well as innovation.\u00a0 Successful companies identify and make tough decisions to correct underperforming parts of their portfolios and they temper their approaches to new products where loss costs and pricing requirements are uncertain.\u00a0 They innovate by thinking first about new and evolving loss exposures their customers face and develop insurance products and services that respond.\u00a0 They focus on the client experience through the entire insurance process and create specialized\/differentiated products and services to either avoid commoditization or leverage it, depending on the needs of that market and the strengths of that insurer.\n  \nThe focus of this core course, in MSIM\u2019s Insurance Rotation area of study, will include the history and the evolution of the insurance industry across the three main insurance sectors, i.e. property\/casualty, life and health.\u00a0 The course will address factors that drive company investment in and\/or withdrawal from specific products and markets and the complexities around developing, pricing and selling a product for which costs are determined only after claims have been paid \u2013 something that often occurs many years after the policy was sold. \u00a0\u00a0The course will consider how providers are expanding beyond traditional products into related services and how technology is increasing innovation around product design and marketing.\n\n",
     "instructor":"Louis Weltmann",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -44546,7 +44902,7 @@
   {
     "course_code":"IMGT PS5300",
     "course_title":"CLAIMS MANAGEMENT",
-    "course_descr":null,
+    "course_descr":"IMGT5300PS\n\n",
     "instructor":"Richard Woollams",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -44565,7 +44921,9 @@
     ],
     "points":"3",
     "prerequisites":[
-
+      [
+        "GT5300"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20243IMGT5300KD01",
@@ -44793,7 +45151,7 @@
   {
     "course_code":"IRSH OC1101",
     "course_title":"ELEMENTARY IRISH I",
-    "course_descr":null,
+    "course_descr":"This course introduces students to the rudiments of the Irish language, including phonemes and pronunciation, syntactical structure, and verbal conjugations. In addition, a history of the language is provided, as well as a general introduction to Irish culture, including discussions of family and place names. Students are encouraged to begin speaking with basic sentence structures, eventually expanding into more complex verbal conjugations while concentrating on idiomatic expressions. The accumulation of vocabulary is stressed and students are introduced to basic literature in Irish while developing beginning conversational fluency.\n",
     "instructor":"Stephane A Charitos",
     "scheduled_time_start":"11:00am",
     "scheduled_time_end":"12:15pm",
@@ -45771,7 +46129,7 @@
   {
     "course_code":"KHMR UN2101",
     "course_title":"Intermediate Khmer I",
-    "course_descr":null,
+    "course_descr":"This course focuses on learning Khmer (the national language of Cambodia) for students who have completed Elementary Khmer II. \u00a0Students will be able to communicate in every day conversation using complex questions\/answers.\u00a0 The course focuses on reading, writing, speaking, and listening to Khmer words, long sentences, and texts.\u00a0 The course is also emphasized on grammar, sentence structure and their use in the right context. This course is applied to persons who want to continue to learn Khmer and want to pursue the language study in the future.\n\n",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -45797,7 +46155,7 @@
   {
     "course_code":"KREY OC1101",
     "course_title":"ELEMENTARY HAITIAN KREYOL I",
-    "course_descr":null,
+    "course_descr":"This course introduces students to the language of Haitian Krey\u00f2l, also called Creole, and is intended for students with little or no prior knowledge of the language. Haitian Krey\u00f2l is spoken by Haiti\u2019s population of nine million and by about one million Haitians in the U.S. Including over 190,000 in the New York City area. In fact, New York City has the second largest population of Krey\u00f2l Speakers after Port--au--Prince, Haiti\u2019s capital. Through this course, you will develop introductory speaking, reading, and writing skills. We use a communicative approach, balanced with grammatical and phonetic techniques. Classroom and textbook materials are complemented by work with film, radio, and especially music (konpa, rasin, twoubadou, rap, raga, levanjil, vodou tradisyon\u00e8l, etc.), as well as with visits to city museums and institutions related to Haiti. Note: This course is part of the language exchange program with New York University (NYU). Classes will be held at NYU.\n",
     "instructor":null,
     "scheduled_time_start":"12:30pm",
     "scheduled_time_end":"1:45pm",
@@ -45823,7 +46181,7 @@
   {
     "course_code":"KREY OC2101",
     "course_title":"INTERMEDIATE HAITIAN KREYOL I",
-    "course_descr":null,
+    "course_descr":"Intermediate Haitian Creole I is intended to continue the material covered in Elementary Haitian\n Creole I and II. It is intended for students who already have a strong comprehension of the\n grammar, sounds, and vocabulary of Haitian Creole. The course is taught primarily in Haitian\n Creole. Students are guided to a more advanced level of the Haitian Creole language to further\n develop speaking, reading, writing, and listening comprehension skills. A communicative\n approach is used and class materials are complemented by work with film, radio, and music\n (konpa, rasin, twoubadou, rap, raga, levanjil, vodou tradisyon\u00e8l, etc.), as well as with visits to city\n museums and other cultural institutions.\n\n",
     "instructor":null,
     "scheduled_time_start":"11:00am",
     "scheduled_time_end":"12:15pm",
@@ -46282,7 +46640,7 @@
   {
     "course_code":"LING GU4376",
     "course_title":"PHONETICS & PHONOLOGY",
-    "course_descr":null,
+    "course_descr":"Prerequisites: LING UN3101 An investigation of the sounds of human language, from the perspective of phonetics (articulation and acoustics, including computer-aided acoustic analysis) and phonology (the distribution and function of sounds in individual languages).\n",
     "instructor":"Meredith Landman",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -46299,7 +46657,9 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "LING UN3101"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20243LING4376W001",
@@ -46308,7 +46668,7 @@
   {
     "course_code":"LING GU4903",
     "course_title":"SYNTAX",
-    "course_descr":null,
+    "course_descr":"Prerequisites: LING UN3101 Syntax - the combination of words - has been at the center of the Chomskyan revolution in Linguistics. This is a technical course which examines modern formal theories of syntax, focusing on later versions of generative syntax (Government and Binding) with secondary attention to alternative models (HPSG, Categorial Grammar).\n",
     "instructor":"Meredith Landman",
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:55pm",
@@ -46325,7 +46685,9 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "LING UN3101"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20243LING4903W001",
@@ -46334,7 +46696,7 @@
   {
     "course_code":"LING UN3101",
     "course_title":"INTRODUCTION TO LINGUISTICS",
-    "course_descr":null,
+    "course_descr":"An introduction to the study of language from a scientific perspective. The course is divided into three units: language as a system (sounds, morphology, syntax, and semantics), language in context (in space, time, and community), and language of the individual (psycholinguistics, errors, aphasia, neurology of language, and acquisition). Workload: lecture, weekly homework, and final examination.\n",
     "instructor":"William Foley",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -46360,7 +46722,7 @@
   {
     "course_code":"LING UN3103",
     "course_title":"Language, Brain and Mind",
-    "course_descr":null,
+    "course_descr":"The ability to speak distinguishes humans from all other animals, including our closest relatives, the chimpanzees.\u00a0Why is this so?\u00a0What makes this possible? This course seeks to answer these questions.\u00a0We will look at the neurological and psychological foundations of the human faculty of language.\u00a0How did our brains change to allow language to evolve? Where in our brains are the components of language found? Are our minds specialized for learning language or is it part of our general cognitive abilities to learn? How are words and sentences produced and their meanings recognized? The structure of languages around the world varies greatly; does this have psychological effects for their speakers?\n\n",
     "instructor":"William Foley",
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:55pm",
@@ -46388,8 +46750,8 @@
     "course_title":"SUPERVISED IND RES-LING THESIS",
     "course_descr":null,
     "instructor":null,
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"11:30am",
+    "scheduled_time_end":"1:00pm",
     "call_number":"11740",
     "campus":"Morningside",
     "class_id":"W3993-20243-001",
@@ -46398,21 +46760,21 @@
     "department_code":"LING",
     "instructor_wikipedia_link":null,
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/LING\/W3993-20243-001\/",
-    "location":null,
+    "location":"To be announced",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"1-4",
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"F",
     "section_key":"20243LING3993W001",
     "type":"INDEPENDENT"
   },
   {
     "course_code":"MATH GR5010",
     "course_title":"INTRO TO THE MATH OF FINANCE",
-    "course_descr":null,
+    "course_descr":"Prerequisites: MATH UN1102 and MATH UN1201 , or their equivalents. Introduction to mathematical methods in pricing of options, futures and other derivative securities, risk management, portfolio management and investment strategies with an emphasis of both theoretical and practical aspects. Topics include: Arithmetic and Geometric Brownian ,motion processes, Black-Scholes partial differential equation, Black-Scholes option pricing formula, Ornstein-Uhlenbeck processes, volatility models, risk models, value-at-risk and conditional value-at-risk, portfolio construction and optimization methods.\n",
     "instructor":"Mikhail Smirnov",
     "scheduled_time_start":"7:40pm",
     "scheduled_time_end":"8:55pm",
@@ -46429,7 +46791,12 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "MATH UN1102"
+      ],
+      [
+        "MATH UN1201"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20243MATH5010W001",
@@ -46438,7 +46805,7 @@
   {
     "course_code":"MATH GR5220",
     "course_title":"QUANT MTHDS IN INVESTMENT MGMT",
-    "course_descr":null,
+    "course_descr":"Prerequisites: Knowledge of statistics basics and programming skills in any programming language. Surveys the field of quantitative investment strategies from a buy side perspective, through the eyes of portfolio managers, analysts and investors. Financial modeling there often involves avoiding complexity in favor of simplicity and practical compromise. All necessary material scattered in finance, computer science and statistics is combined into a project-based curriculum, which give students hands-on experience to solve real world problems in portfolio management. Students will work with market and historical data to develop and test trading and risk management strategies. Programming projects are required to complete this course.\n",
     "instructor":"Alberto Botter",
     "scheduled_time_start":"7:40pm",
     "scheduled_time_end":"10:00pm",
@@ -46464,7 +46831,7 @@
   {
     "course_code":"MATH GR5280",
     "course_title":"CAPITAL MARKETS & INVESTMENTS",
-    "course_descr":null,
+    "course_descr":"Risk\/return tradeoff, diversification and their role in the modern portfolio theory, their consequences for asset allocation, portfilio optimization. Capitol Asset Pricing Model, Modern Portfolio Theory, Factor Models, Equities Valuation, definition and treatment of futures, options and fixed income securities will be covered.\n",
     "instructor":"Alexei Chekhlov",
     "scheduled_time_start":"7:00pm",
     "scheduled_time_end":"9:20pm",
@@ -46490,7 +46857,7 @@
   {
     "course_code":"MATH GR5300",
     "course_title":"HEDGE FUNDS STRATEGIES & RISK",
-    "course_descr":null,
+    "course_descr":"The hedge fund industry has continued to grow after the financial crisis, and hedge funds are increasingly important as an investable asset class for institutional investors as well as wealthy individuals. This course will cover hedge funds from the point of view of portfolio managers and investors. We will analyze a number of hedge fund trading strategies, including fixed income arbitrage, global macro, and various equities strategies, with a strong focus on quantitative strategies. We distinguish hedge fund managers from other asset managers, and discuss issues such as fees and incentives, liquidity, performance evaluation, and risk management. We also discuss career development in the hedge fund context.\n",
     "instructor":"Eric Yeh",
     "scheduled_time_start":"8:10pm",
     "scheduled_time_end":"10:00pm",
@@ -46516,7 +46883,7 @@
   {
     "course_code":"MATH GR5340",
     "course_title":"FIXED INCOME PORTFOLIO MGMT",
-    "course_descr":null,
+    "course_descr":"Prerequisites: comfortable with algebra, calculus, probability, statistics, and stochastic calculus. The course covers the fundamentals of fixed income portfolio management. Its goal is to help the students develop concepts and tools for valuation and hedging of fixed income securities within a fixed set of parameters. There will be an emphasis on understanding how an investment professional manages a portfolio given a budget and a set of limits.\n",
     "instructor":"Rosanna Pezzo",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -46542,7 +46909,7 @@
   {
     "course_code":"MATH GR5400",
     "course_title":"NON-LINEAR OPTION PRICING",
-    "course_descr":null,
+    "course_descr":"Prerequisites: familiarity with Brownian motion, It\u00c3\u00b4's formula, stochastic differential equations, and Black-Scholes option pricing. Prerequisites: Familiarity with Brownian motion, It\u00c3\u00b4's formula, stochastic differential equations, and Black-Scholes option pricing. Nonlinear Option Pricing is a major and popular theme of research today in quantitative finance, covering a wide variety of topics such as American option pricing, uncertain volatility, uncertain mortality, different rates for borrowing and lending, calibration of models to market smiles, credit valuation adjustment (CVA), transaction costs, illiquid markets, super-replication under delta and gamma constraints, etc. The objective of this course is twofold: (1) introduce some nonlinear aspects of quantitative finance, and (2) present and compare various numerical methods for solving high-dimensional nonlinear problems arising in option pricing.\n",
     "instructor":"Julien Guyon",
     "scheduled_time_start":"6:00pm",
     "scheduled_time_end":"8:10pm",
@@ -46568,7 +46935,7 @@
   {
     "course_code":"MATH GR5420",
     "course_title":"MODEL & TRADE DERIVATIVES",
-    "course_descr":null,
+    "course_descr":"Required Prerequisite: Math GR5010 Intro to the Math of Finance (or equivalent). Recommended Prerequisite: Stat GR5264 Stochastic Processes \u2013 Applications I (or equivalent).\n  \nThe objective of this course is to introduce students, from a practitioner\u2019s perspective with formal derivations, to the advanced modeling, pricing and risk management techniques of vanilla and exotic options that are traded on derivatives desks, which goes beyond the classical option pricing courses focusing solely on the theory. It also presents the opportunity to design, implement and backtest vol trading strategies. The course is divided in four parts: Advanced Volatility Modeling; Vanilla and Exotic Options: Structuring, Pricing and Hedging; FX\/Rates Components: Discounting, Forward Projection, Quanto and Compo Options; Designing and Backtesting Vol Trading Strategies in Python.\n\n",
     "instructor":"Amal Moussa",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -46585,7 +46952,10 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "GR5010",
+        "GR5264"
+      ]
     ],
     "scheduled_days":"S",
     "section_key":"20243MATH5420G001",
@@ -46594,7 +46964,7 @@
   {
     "course_code":"MATH GR5430",
     "course_title":"Machine Learning for Finance",
-    "course_descr":null,
+    "course_descr":"The application of Machine Learning (ML) algorithms in the Financial industry is now commonplace, but still nascent in its potential.\u00a0 This course provides an overview of ML applications for finance use cases including trading, investment management, and consumer banking.\u00a0\n  \nStudents will learn how to work with financial data and how to apply ML algorithms using the data.\u00a0 In addition to providing an overview of the most commonly used ML models, we will detail the regression, KNN, NLP, and time series deep learning ML models using desktop and cloud technologies.\u00a0\n  \nThe course is taught in Python using Numpy, Pandas, scikit-learn and other libraries.\u00a0 Basic programming knowledge in any language is required.\n\n",
     "instructor":"William G Ritter",
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"2:00pm",
@@ -46620,7 +46990,7 @@
   {
     "course_code":"MATH GR5440",
     "course_title":"Price Impact Models and Applications to",
-    "course_descr":null,
+    "course_descr":"At the end of the course, students are expected to understand how to design live trading experiments, fit price impact models and apply price impact models to a broad set of quantitative strategies. Special emphasis is placed on acquiring the ability to communicate precise assumptions and actionable results to a general audience within the finance community. The class is divided into three modules: (a) a quick primer on trading, the role of price impact in quantitative finance and the database language kdb+ (b) real-life applications of price impact models within trading teams, including optimal execution, statistical arbitrage, and liquidity risk management (c) the design and study of live trading experiments using causal inference with applications to Transaction Cost Analysis (TCA) and high frequency trading.\n\n",
     "instructor":"Faculty",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:40pm",
@@ -46646,7 +47016,7 @@
   {
     "course_code":"MATH GR5510",
     "course_title":"MAFN FIELDWORK",
-    "course_descr":null,
+    "course_descr":"Prerequisites: all 6 MAFN core courses, at least 6 credits of approved electives, and the instructors permission. See the MAFN website for details. This course provides an opportunity for MAFN students to engage in off-campus internships for academic credit that counts towards the degree. Graded by letter grade. Students need to secure an internship and get it approved by the instructor.\n\n",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -46672,7 +47042,7 @@
   {
     "course_code":"MATH GR5520",
     "course_title":"Career Development for Quantitative Fina",
-    "course_descr":null,
+    "course_descr":"This course helps the students understand the job search process and develop the professional skills necessary for career advancement. The students will not only learn the best practices in all aspects of job-seeking but will also have a chance to practice their skills. Each class will be divided into two parts: a lecture and a workshop.\n  \nIn addition, the students will get support from Teaching Assistants who will be available to guide and prepare the students for technical interviews.\n\n",
     "instructor":"Lars T Nielsen",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -46698,7 +47068,7 @@
   {
     "course_code":"MATH GR6151",
     "course_title":"ANALYSIS & PROBABILITY I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: the instructor's written permission. This is a course for Ph.D. students, and for majors in Mathematics. Measure theory; elements of probability; elements of Fourier analysis; Brownian motion.\n",
     "instructor":"Ioannis Karatzas",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:25pm",
@@ -46726,7 +47096,7 @@
   {
     "course_code":"MATH GR6175",
     "course_title":"COMPLEX ANALYSIS\/RIEMANN SURF",
-    "course_descr":null,
+    "course_descr":"Topics include holomorphic functions; analytic continuation; Riemann surfaces; theta functions and modular forms.\n",
     "instructor":"Duong H Phong",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:25pm",
@@ -46754,7 +47124,7 @@
   {
     "course_code":"MATH GR6261",
     "course_title":"COMMUTATIVE ALGEBRA",
-    "course_descr":null,
+    "course_descr":"Commutative rings; modules; localization; primary decoposition; integral extensions; Noetherian and Artinian rings; Nullstellensatz; Dedekind domains; dimension theory; regular local rings.\n",
     "instructor":"Eric Urban",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -46782,7 +47152,7 @@
   {
     "course_code":"MATH GR6307",
     "course_title":"ALGEBRAIC TOPOLOGY I",
-    "course_descr":null,
+    "course_descr":"Topics include homology and homotopy theory; covering spaces; homology with local coefficients; cohomology; Chech cohomology.\n",
     "instructor":"Andrew J Blumberg",
     "scheduled_time_start":"8:40am",
     "scheduled_time_end":"9:55am",
@@ -46810,7 +47180,7 @@
   {
     "course_code":"MATH GR6343",
     "course_title":"LIE GROUPS & REPRESENTATIONS",
-    "course_descr":null,
+    "course_descr":"Topics include basic notions of groups with algebraic and geometric examples; symmetry; Lie algebras and groups; representations of finite and compact Lie groups; finite groups and counting principles; maximal tori of a compact Lie group.\n",
     "instructor":"Mikhail Khovanov",
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:55pm",
@@ -46838,7 +47208,7 @@
   {
     "course_code":"MATH GR6402",
     "course_title":"MODERN GEOMETRY",
-    "course_descr":null,
+    "course_descr":"Manifold theory; differential forms, tensors and curvature; homology and cohomology; Lie groups and Lie algebras; fiber bundles; homotopy theory and defects in quantum field theory; geometry and string theory.\n",
     "instructor":"Chiu-Chu Liu",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -46894,7 +47264,7 @@
   {
     "course_code":"MATH GU4032",
     "course_title":"FOURIER ANALYSIS",
-    "course_descr":null,
+    "course_descr":"Prerequisites: three terms of calculus and linear algebra or four terms of calculus. Prerequisite: three terms of calculus and linear algebra or four terms of calculus. Fourier series and integrals, discrete analogues, inversion and Poisson summation formulae, convolution. Heisenberg uncertainty principle. Stress on the application of Fourier analysis to a wide range of disciplines.\n",
     "instructor":"Simon Brendle",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -46920,7 +47290,7 @@
   {
     "course_code":"MATH GU4041",
     "course_title":"INTRO MODERN ALGEBRA I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: MATH UN1102 and MATH UN1202 and MATH UN2010 or the equivalent. The second term of this course may not be taken without the first. Groups, homomorphisms, normal subgroups, the isomorphism theorems, symmetric groups, group actions, the Sylow theorems, finitely generated abelian groups.\n\n",
     "instructor":"Robert D Friedman",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:25pm",
@@ -46937,7 +47307,15 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "MATH UN1102"
+      ],
+      [
+        "MATH UN1202"
+      ],
+      [
+        "MATH UN2010"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20243MATH4041W001",
@@ -46946,7 +47324,7 @@
   {
     "course_code":"MATH GU4042",
     "course_title":"INTRO MODERN ALGEBRA II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: MATH UN1102 and MATH UN1202 and MATH UN2010 or the equivalent. The second term of this course may not be taken without the first. Rings, homomorphisms, ideals, integral and Euclidean domains, the division algorithm, principal ideal and unique factorization domains, fields, algebraic and transcendental extensions, splitting fields, finite fields, Galois theory.\n\n",
     "instructor":"Michael Thaddeus",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -46963,7 +47341,15 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "MATH UN1102"
+      ],
+      [
+        "MATH UN1202"
+      ],
+      [
+        "MATH UN2010"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20243MATH4042W001",
@@ -46972,7 +47358,7 @@
   {
     "course_code":"MATH GU4044",
     "course_title":"REPRESENTATNS OF FINITE GROUPS",
-    "course_descr":null,
+    "course_descr":"Prerequisites: MATH UN2010 and MATH GU4041 or the equivalent. Finite groups acting on finite sets and finite dimensional vector spaces. Group characters. Relations with subgroups and factor groups. Arithmetic properties of character values. Applications to the theory of finite groups: Frobenius groups, Hall subgroups and solvable groups. Characters of the symmetric groups. Spherical functions on finite groups.\n",
     "instructor":"Andrei Okounkov",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:25pm",
@@ -46989,7 +47375,12 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "MATH GU4041"
+      ],
+      [
+        "MATH UN2010"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20243MATH4044W001",
@@ -46998,7 +47389,7 @@
   {
     "course_code":"MATH GU4051",
     "course_title":"TOPOLOGY",
-    "course_descr":null,
+    "course_descr":"Prerequisites: (MATH UN1202 and MATH UN2010) and rudiments of group theory (e.g. MATH GU4041). MATH UN1208 or MATH GU4061 is recommended, but not required. Metric spaces, continuity, compactness, quotient spaces. The fundamental group of topological space. Examples from knot theory and surfaces. Covering spaces.\n",
     "instructor":"Rostislav Akhmechet",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"7:25pm",
@@ -47015,7 +47406,17 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "MATH UN1202"
+      ],
+      [
+        "MATH UN1208",
+        "MATH GU4061"
+      ],
+      [
+        "MATH UN2010",
+        "MATH GU4041"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20243MATH4051W001",
@@ -47024,7 +47425,7 @@
   {
     "course_code":"MATH GU4052",
     "course_title":"INTRODUCTION TO KNOT THEORY",
-    "course_descr":null,
+    "course_descr":"Prerequisites: MATH GU4051 Topology and \/ or MATH GU4061 Introduction To Modern Analysis I (or equivalents). Recommended (can be taken concurrently): MATH UN2010 linear algebra, or equivalent. The study of algebraic and geometric properties of knots in R^3, including but not limited to knot projections and Reidemeisters theorm, Seifert surfaces, braids, tangles, knot polynomials, fundamental group of knot complements. Depending on time and student interest, we will discuss more advanced topics like knot concordance, relationship to 3-manifold topology, other algebraic knot invariants.\n",
     "instructor":"Siddhi Krishna",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -47041,7 +47442,11 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "MATH GU4051",
+        "MATH GU4061",
+        "MATH UN2010"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20243MATH4052W001",
@@ -47050,7 +47455,7 @@
   {
     "course_code":"MATH GU4061",
     "course_title":"INTRO MODERN ANALYSIS I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: MATH UN1202 or the equivalent, and MATH UN2010. The second term of this course may not be taken without the first. Real numbers, metric spaces, elements of general topology, sequences and series, continuity, differentiation, integration, uniform convergence, Ascoli-Arzela theorem, Stone-Weierstrass theorem.\n\n",
     "instructor":"Sven Hirsch",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:25pm",
@@ -47067,7 +47472,12 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "MATH UN1202"
+      ],
+      [
+        "MATH UN2010"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20243MATH4061W001",
@@ -47076,7 +47486,7 @@
   {
     "course_code":"MATH GU4061",
     "course_title":"INTRO MODERN ANALYSIS I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: MATH UN1202 or the equivalent, and MATH UN2010. The second term of this course may not be taken without the first. Real numbers, metric spaces, elements of general topology, sequences and series, continuity, differentiation, integration, uniform convergence, Ascoli-Arzela theorem, Stone-Weierstrass theorem.\n\n",
     "instructor":"Sven Hirsch",
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:55pm",
@@ -47093,7 +47503,12 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "MATH UN1202"
+      ],
+      [
+        "MATH UN2010"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20243MATH4061W002",
@@ -47102,7 +47517,7 @@
   {
     "course_code":"MATH GU4062",
     "course_title":"INTRO MODERN ANALYSIS II",
-    "course_descr":null,
+    "course_descr":"The second term of this course may not be taken without the first. Power series, analytic functions, Implicit function theorem, Fubini theorem, change of variables formula, Lebesgue measure and integration, function spaces.\n\n",
     "instructor":"Milind Hegde",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -47128,7 +47543,7 @@
   {
     "course_code":"MATH GU4065",
     "course_title":"HONORS COMPLEX VARIABLES",
-    "course_descr":null,
+    "course_descr":"Prerequisites: (MATH UN1207 and MATH UN1208) or MATH GU4061 A theoretical introduction to analytic functions. Holomorphic functions, harmonic functions, power series, Cauchy-Riemann equations, Cauchy's integral formula, poles, Laurent series, residue theorem. Other topics as time permits: elliptic functions, the gamma and zeta function, the Riemann mapping theorem, Riemann surfaces, Nevanlinna theory.\n",
     "instructor":"Francesco Lin",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -47145,7 +47560,13 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "MATH UN1207"
+      ],
+      [
+        "MATH UN1208",
+        "MATH GU4061"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20243MATH4065W001",
@@ -47154,7 +47575,7 @@
   {
     "course_code":"MATH GU4155",
     "course_title":"PROBABILITY THEORY",
-    "course_descr":null,
+    "course_descr":"Prerequisites: MATH GU4061 or MATH UN3007 A rigorous introduction to the concepts and methods of mathematical probability starting with basic notions and making use of combinatorial and analytic techniques. Generating functions. Convergence in probability and in distribution. Discrete probability spaces, recurrence and transience of random walks. Infinite models, proof of the law of large numbers and the central limit theorem. Markov chains.\n",
     "instructor":"Ivan Corwin",
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:55pm",
@@ -47171,7 +47592,10 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "MATH GU4061",
+        "MATH UN3007"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20243MATH4155W001",
@@ -47180,7 +47604,7 @@
   {
     "course_code":"MATH GU4391",
     "course_title":"INTRO TO QUANTUM MECHANICS",
-    "course_descr":null,
+    "course_descr":"This course will focus on quantum mechanics, paying attention to both the underlying mathematical structures as well as their physical motivations and consequences. It is meant to be accessible to students with no previous formal training in quantum theory.\u00a0The role of symmetry, groups and representations will be stressed.\n\n",
     "instructor":"Peter G Woit",
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:55pm",
@@ -47284,7 +47708,7 @@
   {
     "course_code":"MATH UN1101",
     "course_title":"CALCULUS I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: (see Courses for First-Year Students). Functions, limits, derivatives, introduction to integrals, or an understanding of pre-calculus will be assumed. (SC)\n\n",
     "instructor":"Marco Castronovo",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -47310,7 +47734,7 @@
   {
     "course_code":"MATH UN1101",
     "course_title":"CALCULUS I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: (see Courses for First-Year Students). Functions, limits, derivatives, introduction to integrals, or an understanding of pre-calculus will be assumed. (SC)\n\n",
     "instructor":"Marco Castronovo",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -47336,7 +47760,7 @@
   {
     "course_code":"MATH UN1101",
     "course_title":"CALCULUS I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: (see Courses for First-Year Students). Functions, limits, derivatives, introduction to integrals, or an understanding of pre-calculus will be assumed. (SC)\n\n",
     "instructor":"George Dragomir",
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:55pm",
@@ -47362,7 +47786,7 @@
   {
     "course_code":"MATH UN1101",
     "course_title":"CALCULUS I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: (see Courses for First-Year Students). Functions, limits, derivatives, introduction to integrals, or an understanding of pre-calculus will be assumed. (SC)\n\n",
     "instructor":"Faculty",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:25pm",
@@ -47388,7 +47812,7 @@
   {
     "course_code":"MATH UN1101",
     "course_title":"CALCULUS I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: (see Courses for First-Year Students). Functions, limits, derivatives, introduction to integrals, or an understanding of pre-calculus will be assumed. (SC)\n\n",
     "instructor":"Sangiovanni Vincentelli Marco",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"7:25pm",
@@ -47414,7 +47838,7 @@
   {
     "course_code":"MATH UN1101",
     "course_title":"CALCULUS I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: (see Courses for First-Year Students). Functions, limits, derivatives, introduction to integrals, or an understanding of pre-calculus will be assumed. (SC)\n\n",
     "instructor":"Faculty",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -47440,7 +47864,7 @@
   {
     "course_code":"MATH UN1101",
     "course_title":"CALCULUS I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: (see Courses for First-Year Students). Functions, limits, derivatives, introduction to integrals, or an understanding of pre-calculus will be assumed. (SC)\n\n",
     "instructor":"George Dragomir",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -47466,7 +47890,7 @@
   {
     "course_code":"MATH UN1101",
     "course_title":"CALCULUS I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: (see Courses for First-Year Students). Functions, limits, derivatives, introduction to integrals, or an understanding of pre-calculus will be assumed. (SC)\n\n",
     "instructor":"Sangiovanni Vincentelli Marco",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:25pm",
@@ -47492,7 +47916,7 @@
   {
     "course_code":"MATH UN1101",
     "course_title":"CALCULUS I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: (see Courses for First-Year Students). Functions, limits, derivatives, introduction to integrals, or an understanding of pre-calculus will be assumed. (SC)\n\n",
     "instructor":"Faculty",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"7:25pm",
@@ -47518,7 +47942,7 @@
   {
     "course_code":"MATH UN1102",
     "course_title":"CALCULUS II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: MATH UN1101 or the equivalent. Methods of integration, applications of the integral, Taylors theorem, infinite series. (SC)\n\n",
     "instructor":"Andres Ibanez Nunez",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:25pm",
@@ -47535,7 +47959,9 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "MATH UN1101"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20243MATH1102V001",
@@ -47544,7 +47970,7 @@
   {
     "course_code":"MATH UN1102",
     "course_title":"CALCULUS II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: MATH UN1101 or the equivalent. Methods of integration, applications of the integral, Taylors theorem, infinite series. (SC)\n\n",
     "instructor":"Andres Ibanez Nunez",
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:55pm",
@@ -47561,7 +47987,9 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "MATH UN1101"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20243MATH1102V002",
@@ -47570,7 +47998,7 @@
   {
     "course_code":"MATH UN1102",
     "course_title":"CALCULUS II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: MATH UN1101 or the equivalent. Methods of integration, applications of the integral, Taylors theorem, infinite series. (SC)\n\n",
     "instructor":"Faculty",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:25pm",
@@ -47587,7 +48015,9 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "MATH UN1101"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20243MATH1102V003",
@@ -47596,7 +48026,7 @@
   {
     "course_code":"MATH UN1102",
     "course_title":"CALCULUS II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: MATH UN1101 or the equivalent. Methods of integration, applications of the integral, Taylors theorem, infinite series. (SC)\n\n",
     "instructor":"Lucy Yang",
     "scheduled_time_start":"8:40am",
     "scheduled_time_end":"9:55am",
@@ -47613,7 +48043,9 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "MATH UN1101"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20243MATH1102V004",
@@ -47622,7 +48054,7 @@
   {
     "course_code":"MATH UN1102",
     "course_title":"CALCULUS II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: MATH UN1101 or the equivalent. Methods of integration, applications of the integral, Taylors theorem, infinite series. (SC)\n\n",
     "instructor":"Lucy Yang",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -47639,7 +48071,9 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "MATH UN1101"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20243MATH1102V005",
@@ -47648,7 +48082,7 @@
   {
     "course_code":"MATH UN1102",
     "course_title":"CALCULUS II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: MATH UN1101 or the equivalent. Methods of integration, applications of the integral, Taylors theorem, infinite series. (SC)\n\n",
     "instructor":"Elliott V Stein",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"7:25pm",
@@ -47665,7 +48099,9 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "MATH UN1101"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20243MATH1102V006",
@@ -47674,7 +48110,7 @@
   {
     "course_code":"MATH UN1201",
     "course_title":"CALCULUS III",
-    "course_descr":null,
+    "course_descr":"Prerequisites: MATH UN1101 or the equivalent Vectors in dimensions 2 and 3, complex numbers and the complex exponential function with applications to differential equations, Cramers rule, vector-valued functions of one variable, scalar-valued functions of several variables, partial derivatives, gradients, surfaces, optimization, the method of Lagrange multipliers. (SC)\n\n",
     "instructor":"Deeparaj Bhat",
     "scheduled_time_start":"8:40am",
     "scheduled_time_end":"9:55am",
@@ -47691,7 +48127,9 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "MATH UN1101"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20243MATH1201V002",
@@ -47700,7 +48138,7 @@
   {
     "course_code":"MATH UN1201",
     "course_title":"CALCULUS III",
-    "course_descr":null,
+    "course_descr":"Prerequisites: MATH UN1101 or the equivalent Vectors in dimensions 2 and 3, complex numbers and the complex exponential function with applications to differential equations, Cramers rule, vector-valued functions of one variable, scalar-valued functions of several variables, partial derivatives, gradients, surfaces, optimization, the method of Lagrange multipliers. (SC)\n\n",
     "instructor":"Brian Harvie",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -47717,7 +48155,9 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "MATH UN1101"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20243MATH1201V003",
@@ -47726,7 +48166,7 @@
   {
     "course_code":"MATH UN1201",
     "course_title":"CALCULUS III",
-    "course_descr":null,
+    "course_descr":"Prerequisites: MATH UN1101 or the equivalent Vectors in dimensions 2 and 3, complex numbers and the complex exponential function with applications to differential equations, Cramers rule, vector-valued functions of one variable, scalar-valued functions of several variables, partial derivatives, gradients, surfaces, optimization, the method of Lagrange multipliers. (SC)\n\n",
     "instructor":"Brian Harvie",
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:55pm",
@@ -47743,7 +48183,9 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "MATH UN1101"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20243MATH1201V004",
@@ -47752,7 +48194,7 @@
   {
     "course_code":"MATH UN1201",
     "course_title":"CALCULUS III",
-    "course_descr":null,
+    "course_descr":"Prerequisites: MATH UN1101 or the equivalent Vectors in dimensions 2 and 3, complex numbers and the complex exponential function with applications to differential equations, Cramers rule, vector-valued functions of one variable, scalar-valued functions of several variables, partial derivatives, gradients, surfaces, optimization, the method of Lagrange multipliers. (SC)\n\n",
     "instructor":"Gyujin Oh",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -47769,7 +48211,9 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "MATH UN1101"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20243MATH1201V005",
@@ -47778,7 +48222,7 @@
   {
     "course_code":"MATH UN1201",
     "course_title":"CALCULUS III",
-    "course_descr":null,
+    "course_descr":"Prerequisites: MATH UN1101 or the equivalent Vectors in dimensions 2 and 3, complex numbers and the complex exponential function with applications to differential equations, Cramers rule, vector-valued functions of one variable, scalar-valued functions of several variables, partial derivatives, gradients, surfaces, optimization, the method of Lagrange multipliers. (SC)\n\n",
     "instructor":"Gyujin Oh",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:25pm",
@@ -47795,7 +48239,9 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "MATH UN1101"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20243MATH1201V006",
@@ -47804,7 +48250,7 @@
   {
     "course_code":"MATH UN1201",
     "course_title":"CALCULUS III",
-    "course_descr":null,
+    "course_descr":"Prerequisites: MATH UN1101 or the equivalent Vectors in dimensions 2 and 3, complex numbers and the complex exponential function with applications to differential equations, Cramers rule, vector-valued functions of one variable, scalar-valued functions of several variables, partial derivatives, gradients, surfaces, optimization, the method of Lagrange multipliers. (SC)\n\n",
     "instructor":"Yoonjoo Kim",
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:55pm",
@@ -47821,7 +48267,9 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "MATH UN1101"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20243MATH1201V007",
@@ -47830,7 +48278,7 @@
   {
     "course_code":"MATH UN1201",
     "course_title":"CALCULUS III",
-    "course_descr":null,
+    "course_descr":"Prerequisites: MATH UN1101 or the equivalent Vectors in dimensions 2 and 3, complex numbers and the complex exponential function with applications to differential equations, Cramers rule, vector-valued functions of one variable, scalar-valued functions of several variables, partial derivatives, gradients, surfaces, optimization, the method of Lagrange multipliers. (SC)\n\n",
     "instructor":"Yoonjoo Kim",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:25pm",
@@ -47847,7 +48295,9 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "MATH UN1101"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20243MATH1201V008",
@@ -47887,7 +48337,7 @@
   {
     "course_code":"MATH UN1202",
     "course_title":"CALCULUS IV",
-    "course_descr":null,
+    "course_descr":"Prerequisites: MATH UN1102 and MATH UN1201 or the equivalent Multiple integrals, Taylor's formula in several variables, line and surface integrals, calculus of vector fields, Fourier series. (SC)\n\n",
     "instructor":"Mikhail Smirnov",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"7:25pm",
@@ -47904,7 +48354,12 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "MATH UN1102"
+      ],
+      [
+        "MATH UN1201"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20243MATH1202V002",
@@ -47913,7 +48368,7 @@
   {
     "course_code":"MATH UN1205",
     "course_title":"ACCELERATED MULTIVARIABLE CALC",
-    "course_descr":null,
+    "course_descr":"Prerequisites: (MATH UN1101 and MATH UN1102) Vectors in dimensions 2 and 3, vector-valued functions of one variable, scalar-valued functions of several variables, partial derivatives, gradients, optimization, Lagrange multipliers, double and triple integrals, line and surface integrals, vector calculus. This course is an accelerated version of MATH UN1201 - MATH UN1202. Students taking this course may not receive credit for MATH UN1201 and MATH UN1202.\n",
     "instructor":"Dawei Shen",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:25pm",
@@ -47930,7 +48385,20 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "MATH UN1101"
+      ],
+      [
+        "MATH UN1102",
+        "MATH UN1201"
+      ],
+      [
+        "MATH UN1202"
+      ],
+      [
+        "MATH UN1202",
+        "MATH UN1201"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20243MATH1205W001",
@@ -47939,7 +48407,7 @@
   {
     "course_code":"MATH UN1207",
     "course_title":"HONORS MATHEMATICS A",
-    "course_descr":null,
+    "course_descr":"Prerequisites: (see Courses for First-Year Students). The second term of this course may not be taken without the first. Multivariable calculus and linear algebra from a rigorous point of view. Recommended for mathematics majors. Fulfills the linear algebra requirement for the major. (SC)\n",
     "instructor":"Giulia Sacca",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -47991,7 +48459,7 @@
   {
     "course_code":"MATH UN2005",
     "course_title":"INTRODUCTION TO MATHEMATICS PROOFS",
-    "course_descr":null,
+    "course_descr":"This is a seminar course that covers the basics of mathematical proofs and in particular the epsilon-delta argument in single variable calculus.\n  \nStudents who have little experience with mathematical proofs are strongly encouraged to take this course concurrently with Honors Math, Into to Modern Algebra, or Intro to Modern Analysis.\n\n",
     "instructor":"Faculty",
     "scheduled_time_start":"11:00am",
     "scheduled_time_end":"1:00pm",
@@ -48069,7 +48537,7 @@
   {
     "course_code":"MATH UN2010",
     "course_title":"LINEAR ALGEBRA",
-    "course_descr":null,
+    "course_descr":"Matrices, vector spaces, linear transformations, eigenvalues and eigenvectors, canonical forms, applications. (SC)\n\n",
     "instructor":"Siddhi Krishna",
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:55pm",
@@ -48095,7 +48563,7 @@
   {
     "course_code":"MATH UN2010",
     "course_title":"LINEAR ALGEBRA",
-    "course_descr":null,
+    "course_descr":"Matrices, vector spaces, linear transformations, eigenvalues and eigenvectors, canonical forms, applications. (SC)\n\n",
     "instructor":"Amadou Bah",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -48121,7 +48589,7 @@
   {
     "course_code":"MATH UN2010",
     "course_title":"LINEAR ALGEBRA",
-    "course_descr":null,
+    "course_descr":"Matrices, vector spaces, linear transformations, eigenvalues and eigenvectors, canonical forms, applications. (SC)\n\n",
     "instructor":"Qiao He",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:25pm",
@@ -48147,7 +48615,7 @@
   {
     "course_code":"MATH UN2015",
     "course_title":"Linear Algebra and Probability",
-    "course_descr":null,
+    "course_descr":"Linear algebra with a focus on probability and statistics. The course covers the standard linear algebra topics: systems of linear equations, matrices, determinants, vector spaces, bases, dimension, eigenvalues and eigenvectors, the Spectral Theorem and singular value decompositions. It also teaches applications of linear algebra to probability, statistics and dynamical systems giving a background sufficient for higher level courses in probability and statistics. The topics covered in the probability theory part include conditional probability, discrete and continuous random variables, probability distributions and the limit theorems, as well as Markov chains, curve fitting, regression, and pattern analysis. The course contains applications to life sciences, chemistry, and environmental life sciences. No a prior i background in the life sciences is assumed.\n  \nThis course is best suited for students who wish to focus on applications and practical approaches to problem solving. It is recommended to students majoring in engineering, technology, life sciences, social sciences, and economics. Math majors, joint majors, and math concentrators must take MATH UN2010 Linear Algebra, which focuses on linear algebra concepts\u00a0and foundations that are needed for upper-level math courses. MATH UN2015 (Linear Algebra and Probability) does NOT replace MATH UN2010 (Linear Algebra) as prerequisite requirements of math courses. Students may not receive full credit for both courses MATH UN2010 and MATH UN2015.\n\n",
     "instructor":"Faculty",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -48164,7 +48632,17 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "MATH UN2010",
+        "MATH UN2010"
+      ],
+      [
+        "MATH UN2010",
+        "MATH UN2015"
+      ],
+      [
+        "MATH UN2015"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20243MATH2015W001",
@@ -48173,7 +48651,7 @@
   {
     "course_code":"MATH UN2015",
     "course_title":"Linear Algebra and Probability",
-    "course_descr":null,
+    "course_descr":"Linear algebra with a focus on probability and statistics. The course covers the standard linear algebra topics: systems of linear equations, matrices, determinants, vector spaces, bases, dimension, eigenvalues and eigenvectors, the Spectral Theorem and singular value decompositions. It also teaches applications of linear algebra to probability, statistics and dynamical systems giving a background sufficient for higher level courses in probability and statistics. The topics covered in the probability theory part include conditional probability, discrete and continuous random variables, probability distributions and the limit theorems, as well as Markov chains, curve fitting, regression, and pattern analysis. The course contains applications to life sciences, chemistry, and environmental life sciences. No a prior i background in the life sciences is assumed.\n  \nThis course is best suited for students who wish to focus on applications and practical approaches to problem solving. It is recommended to students majoring in engineering, technology, life sciences, social sciences, and economics. Math majors, joint majors, and math concentrators must take MATH UN2010 Linear Algebra, which focuses on linear algebra concepts\u00a0and foundations that are needed for upper-level math courses. MATH UN2015 (Linear Algebra and Probability) does NOT replace MATH UN2010 (Linear Algebra) as prerequisite requirements of math courses. Students may not receive full credit for both courses MATH UN2010 and MATH UN2015.\n\n",
     "instructor":"Faculty",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:25pm",
@@ -48190,7 +48668,17 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "MATH UN2010",
+        "MATH UN2010"
+      ],
+      [
+        "MATH UN2010",
+        "MATH UN2015"
+      ],
+      [
+        "MATH UN2015"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20243MATH2015W002",
@@ -48199,7 +48687,7 @@
   {
     "course_code":"MATH UN2030",
     "course_title":"ORDINARY DIFFERENTIAL EQUATIONS",
-    "course_descr":null,
+    "course_descr":"Prerequisites: MATH UN1102 and MATH UN1201 or the equivalent.\u00a0Special differential equations of order one. Linear differential equations with constant and variable coefficients. Systems of such equations. Transform and series solution techniques. Emphasis on applications.\n\n",
     "instructor":"Jeanne Boursier",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:25pm",
@@ -48216,7 +48704,12 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "MATH UN1102"
+      ],
+      [
+        "MATH UN1201"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20243MATH2030V001",
@@ -48225,7 +48718,7 @@
   {
     "course_code":"MATH UN2030",
     "course_title":"ORDINARY DIFFERENTIAL EQUATIONS",
-    "course_descr":null,
+    "course_descr":"Prerequisites: MATH UN1102 and MATH UN1201 or the equivalent.\u00a0Special differential equations of order one. Linear differential equations with constant and variable coefficients. Systems of such equations. Transform and series solution techniques. Emphasis on applications.\n\n",
     "instructor":"Jeanne Boursier",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -48242,7 +48735,12 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "MATH UN1102"
+      ],
+      [
+        "MATH UN1201"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20243MATH2030V002",
@@ -48251,7 +48749,7 @@
   {
     "course_code":"MATH UN2030",
     "course_title":"ORDINARY DIFFERENTIAL EQUATIONS",
-    "course_descr":null,
+    "course_descr":"Prerequisites: MATH UN1102 and MATH UN1201 or the equivalent.\u00a0Special differential equations of order one. Linear differential equations with constant and variable coefficients. Systems of such equations. Transform and series solution techniques. Emphasis on applications.\n\n",
     "instructor":"Panagiota Daskalopoulos",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:25pm",
@@ -48268,7 +48766,12 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "MATH UN1102"
+      ],
+      [
+        "MATH UN1201"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20243MATH2030V003",
@@ -48277,7 +48780,7 @@
   {
     "course_code":"MATH UN2500",
     "course_title":"ANALYSIS AND OPTIMIZATION",
-    "course_descr":null,
+    "course_descr":"Prerequisites: MATH UN1102 and MATH UN1201 or the equivalent and MATH UN2010. Mathematical methods for economics. Quadratic forms, Hessian, implicit functions. Convex sets, convex functions. Optimization, constrained optimization, Kuhn-Tucker conditions. Elements of the calculus of variations and optimal control. (SC)\n\n",
     "instructor":"Julien Dubedat",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:25pm",
@@ -48294,7 +48797,15 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "MATH UN1102"
+      ],
+      [
+        "MATH UN1201"
+      ],
+      [
+        "MATH UN2010"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20243MATH2500V001",
@@ -48303,7 +48814,7 @@
   {
     "course_code":"MATH UN2500",
     "course_title":"ANALYSIS AND OPTIMIZATION",
-    "course_descr":null,
+    "course_descr":"Prerequisites: MATH UN1102 and MATH UN1201 or the equivalent and MATH UN2010. Mathematical methods for economics. Quadratic forms, Hessian, implicit functions. Convex sets, convex functions. Optimization, constrained optimization, Kuhn-Tucker conditions. Elements of the calculus of variations and optimal control. (SC)\n\n",
     "instructor":"Roger W Van Peski",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -48320,7 +48831,15 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "MATH UN1102"
+      ],
+      [
+        "MATH UN1201"
+      ],
+      [
+        "MATH UN2010"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20243MATH2500V002",
@@ -48329,7 +48848,7 @@
   {
     "course_code":"MATH UN3007",
     "course_title":"COMPLEX VARIABLES",
-    "course_descr":null,
+    "course_descr":"Prerequisites: MATH UN1202 An elementary course in functions of a complex variable. Fundamental properties of the complex numbers, differentiability, Cauchy-Riemann equations. Cauchy integral theorem. Taylor and Laurent series, poles, and essential singularities. Residue theorem and conformal mapping.(SC)\n",
     "instructor":"Ovidiu Savin",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -48346,7 +48865,9 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "MATH UN1202"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20243MATH3007V001",
@@ -48355,7 +48876,7 @@
   {
     "course_code":"MATH UN3025",
     "course_title":"MAKING, BREAKING CODES",
-    "course_descr":null,
+    "course_descr":"Prerequisites: (MATH UN1101 and MATH UN1102 and MATH UN1201) and and MATH UN2010. A concrete introduction to abstract algebra. Topics in abstract algebra used in cryptography and coding theory.\n",
     "instructor":"Dorian Goldfeld",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:25pm",
@@ -48372,7 +48893,18 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "MATH UN1101"
+      ],
+      [
+        "MATH UN1102"
+      ],
+      [
+        "MATH UN1201"
+      ],
+      [
+        "MATH UN2010"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20243MATH3025V001",
@@ -48537,7 +49069,7 @@
   {
     "course_code":"MDES GU4049",
     "course_title":"Climate and Empire",
-    "course_descr":null,
+    "course_descr":"Climate change destabilizes the ontic certainty of this world, time, and history. This course in MESAAS will introduce students to the literature on climate change and its relationship to ontology, religion, violence, politics, and gender. We will explore the resilience and limitations of various theoretical approaches as they relate to empirical cases. Students will become familiarized with important arguments that have been advanced to explain climate change in its more recent incarnations in the Middle East and Asia. How have different trajectories of understanding climate change led to different kinds of political cultures and governing institutions? Have some qualities of the \u201cenvironment\u201d or \u201cclimate\u201d remained the same throughout history and across the globe? What is the role of colonialism in modern understandings of climate change?\u00a0 The core of this course will seek to develop a mode of conceptualizing the present by rendering relevant geological time in addition to historical time, earth\u2019s history in addition to world\u2019s history.\n  \nThe course begins with the question of how the \u201cclimate\u201d has been historically and ethnographically conceptualized in various intellectual trajectories of human sciences. We consider how religion is connected to environmental change, how the \u201chuman\u201d and \u201cnon human\u201d are conceptualized in various ontologies, and how religious norms and ethics enact environmental practices. We interrogate the everyday sociality of climate adaption and how climate conflict informs social, political, and environmental citizenship. The course concludes by contemplating the creative ways of being in this new world. We study the innovative forms of cosmopolitan neo-humanism (post- humanism) that emerge from the specter of environmental change.\n\n",
     "instructor":"Sonia Ahsan",
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"2:00pm",
@@ -51985,7 +52517,7 @@
   {
     "course_code":"MTFC GR0001",
     "course_title":"F\/T MATRICULATION & FACILITIES",
-    "course_descr":null,
+    "course_descr":"M&F\n\n",
     "instructor":"Richard Slusarczyk",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -53504,7 +54036,7 @@
   {
     "course_code":"MUSI UN2010",
     "course_title":"ROCK",
-    "course_descr":null,
+    "course_descr":"How did Elvis become the \u201cKing of Rock\u2019n\u2019Roll\u201d instead of, for example, Chuck Berry? Who are LaVern Baker, Sister Rosetta Tharpe, and Etta James and what do they have to do with rock and roll? Why and how did \u201crock and roll\u201d become \u201crock\u201d? What are the relationships among rock, rhythm and blues, soul, and funk? What do classical music composers such as J.S. Bach, Modest Mussorgsky, and Philip Glass have to do with rock? How many times has rock \u201cdied\u201d? What is rock music\u2019s relevance both historically and today? This course will introduce you to popular music studies, a field of inquiry that draws scholars from a number of different disciplines, including musicology, sociology, philosophy, anthropology and literature. Examining rock music in an interdisciplinary way has opened the genre to increasing attention beyond musicological methodologies and assumptions. First, however, we must ask some fundamental questions: for instance, what, exactly,\u00a0\nis\n\u00a0popular music as well as, importantly, what differentiates rock music from other genres? Our definitions will reveal some of the assumptions we bring to any discussion of popular music. Throughout this semester, we will question our assumptions about rock music culture through an investigation into a series of keywords. Each keyword will focus our attention on various aspects of rock music in order to think through the complexities of what might, on the surface, seem self-evident. Terms such as \u201cgenre\u201d or \u201cthe everyday\u201d will be examined to help us gain critical analytical tools with which to assess various rock music productions, artists, and processes.\u00a0\n\n",
     "instructor":"Kevin Fellezs",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:40pm",
@@ -55259,7 +55791,7 @@
   {
     "course_code":"NMED PS5100",
     "course_title":"SELF & OTHER IN CLIN ENCOUNTER",
-    "course_descr":null,
+    "course_descr":"TBD\n\n",
     "instructor":"Michael E Davidovits",
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"3:00pm",
@@ -55315,7 +55847,7 @@
   {
     "course_code":"NMED PS5230",
     "course_title":"ADVOCACY & ORGANIZING",
-    "course_descr":null,
+    "course_descr":"Our interpersonal experiences and the personal identities we hold both shape and contribute to our individual concepts of health, as well as to our awareness of the beliefs and identities held by others. \u00a0This course examines how various marginalized groups have historically organized and advocated to bring about change in communities impacted by health disparities and social injustice. \u00a0How can understanding their stories and the strategies they've implemented to construct, share, and collect their narratives, inform health professionals and their allies in developing new and innovative approaches to hear, interpret, and respond to the needs of the communities they are charged with serving? \u00a0At a time when a renewed focus is being placed on health equity, social justice, race, bias, resource distribution, and access, it is imperative to look more closely at the experiences of communities and the individuals within them who have been placed at greater vulnerability. \u00a0With an attentiveness to intersectionality, critical race theory, and media studies, course materials will guide an exploration of narrative and its relationship to activism, advocacy, and messaging around community health. \u00a0\n\n",
     "instructor":null,
     "scheduled_time_start":"3:10pm",
     "scheduled_time_end":"5:00pm",
@@ -60604,6 +61136,84 @@
     "type":"INDEPENDENT"
   },
   {
+    "course_code":"PSYC BC3606",
+    "course_title":"INDEPENDENT STUDY",
+    "course_descr":"This\u00a0course can be worth 1 to 4 credits (each credit is equivalent to approximately three hours of work per week), and requires a Barnard faculty as a mentor.\u00a0The course will be taken for a letter grade, regardless of whether the student chooses 1, 2, 3, or 4 credits. The expectations for each of these options are as follows: 1 credit, 3h\/week commitment, 5-10 page \"Research Report\" at the end of the term; 2 credits, 6h\/week commitment, 5-10 page \"Research Report\" at the end of the term; 3 credits, 9h\/week commitment, 15-20 page \"Research Report\" at the end of the term; 4 credits, 12h\/week commitment, 15-20 page \"Research Report\" at the end of the term. \"Research Report\" is a document submitted to the person grading the student, the instructor of record for the section in which the student has enrolled. If a student is working off-site, then input from the off-site research mentor will inform the grading. The \"Research Report\" can take a variety of forms: progress reports on data collected, training received, papers read, skills learned, etc.; or organized notes for lab notebooks, lab meetings, etc.; or manuscript-like papers with Intro, Methods, Results, Discussion; or some combination thereof, depending on the maturity of the project.\u00a0 Ultimately, this will take different forms for different students\/labs.\u00a0\u00a0\n\n",
+    "instructor":"Michelle Greene",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"00721",
+    "campus":"Barnard College",
+    "class_id":"X3606-20243-007",
+    "course_subtitle":null,
+    "department":"Psychology @Barnard",
+    "department_code":"PSYC",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PSYC\/X3606-20243-007\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"1-4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20243PSYC3606X007",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"PSYC BC3606",
+    "course_title":"INDEPENDENT STUDY",
+    "course_descr":"This\u00a0course can be worth 1 to 4 credits (each credit is equivalent to approximately three hours of work per week), and requires a Barnard faculty as a mentor.\u00a0The course will be taken for a letter grade, regardless of whether the student chooses 1, 2, 3, or 4 credits. The expectations for each of these options are as follows: 1 credit, 3h\/week commitment, 5-10 page \"Research Report\" at the end of the term; 2 credits, 6h\/week commitment, 5-10 page \"Research Report\" at the end of the term; 3 credits, 9h\/week commitment, 15-20 page \"Research Report\" at the end of the term; 4 credits, 12h\/week commitment, 15-20 page \"Research Report\" at the end of the term. \"Research Report\" is a document submitted to the person grading the student, the instructor of record for the section in which the student has enrolled. If a student is working off-site, then input from the off-site research mentor will inform the grading. The \"Research Report\" can take a variety of forms: progress reports on data collected, training received, papers read, skills learned, etc.; or organized notes for lab notebooks, lab meetings, etc.; or manuscript-like papers with Intro, Methods, Results, Discussion; or some combination thereof, depending on the maturity of the project.\u00a0 Ultimately, this will take different forms for different students\/labs.\u00a0\u00a0\n\n",
+    "instructor":"Mariel Roberts",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"00722",
+    "campus":"Barnard College",
+    "class_id":"X3606-20243-010",
+    "course_subtitle":null,
+    "department":"Psychology @Barnard",
+    "department_code":"PSYC",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PSYC\/X3606-20243-010\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"1-4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20243PSYC3606X010",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"PSYC BC3617",
+    "course_title":"SENIOR RESEARCH THESIS",
+    "course_descr":"Discussions of the student's Independent Research project during the fall and spring terms that culminate in a written and oral senior thesis. Each project must be supervised by a scientist working at Barnard or at another local institution.\u00a0\n\n",
+    "instructor":"Lisa K Son",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"12:00pm",
+    "call_number":"00720",
+    "campus":"Barnard College",
+    "class_id":"X3617-20243-001",
+    "course_subtitle":null,
+    "department":"Psychology @Barnard",
+    "department_code":"PSYC",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PSYC\/X3617-20243-001\/",
+    "location":"To be announced",
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20243PSYC3617X001",
+    "type":"SEMINAR"
+  },
+  {
     "course_code":"PSYC GR6050",
     "course_title":"PSYCHOPHYSIOLGCL METH\/ANALYSIS",
     "course_descr":null,
@@ -62684,7 +63294,7 @@
   {
     "course_code":"QUCH OC1101",
     "course_title":"ELEMENTARY QUECHUA I",
-    "course_descr":null,
+    "course_descr":"Quechua is the most important and most widely-distributed indigenous language in South America, with over 10 million speakers living from the high mountains to the tropical lowlands in Colombia, Ecuador, Peru, Bolivia, Chile, and Argentina. Those who speak it call the language runa simi or runa shimi, human speech. It was the principal language of the Inca empire and the key language of cultural interaction during the colonial era. Quechua has remained central to indigenous peoples efforts to preserve their cultural autonomy. It has gained greater force in recent years, during which indigenous movements have swept Quechua speakers into national politics, where they have succeeded in transforming constitutions to recognize cultural diversity, making Quechua an official language of state, and successfully promoting schooling in the language. Students who satisfactorily complete Elementary Quechua I and II will be well-prepared for intensive summer study at one of many summer study abroad programs in Ecuador, Peru, and Bolivia that will put them in closer contact with the indigenous world.\n",
     "instructor":null,
     "scheduled_time_start":"9:30am",
     "scheduled_time_end":"10:45am",
@@ -62710,7 +63320,7 @@
   {
     "course_code":"QUCH OC2101",
     "course_title":"INTERMEDIATE QUECHUA I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: QUCH W1101-W1102 or the instructors permission. Quechua is the most important and most widely-distributed indigenous language in South America, with over 10 million speakers living from the high mountains to the tropical lowlands in Colombia, Ecuador, Peru, Bolivia, Chile, and Argentina. Those who speak it call the language runa simi or runa shimi, human speech. It was the principal language of the Inca empire and the key language of cultural interaction during the colonial era. Quechua has remained central to indigenous peoples efforts to preserve their cultural autonomy. It has gained greater force in recent years, during which indigenous movements have swept Quechua speakers into national politics, where they have succeeded in transforming constitutions to recognize cultural diversity, making Quechua an official language of state, and successfully promoting schooling in the language. Students who satisfactorily complete Elementary Quechua I and II will be well-prepared for intensive summer study at one of many summer study abroad programs in Ecuador, Peru, and Bolivia that will put them in closer contact with the indigenous world.\n",
     "instructor":null,
     "scheduled_time_start":"2:00pm",
     "scheduled_time_end":"3:15pm",
@@ -62727,7 +63337,12 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "QUCH W1101"
+      ],
+      [
+        "W1102"
+      ]
     ],
     "scheduled_days":"MWF",
     "section_key":"20243QUCH2101W001",
@@ -63468,7 +64083,7 @@
   {
     "course_code":"RELI UN3413",
     "course_title":"Muslims in the West",
-    "course_descr":null,
+    "course_descr":"Contemporary Western Muslims around the world face a number of challenges today. What are some of the major issues that some Western Muslim communities are negotiating? What can we learn from particular narratives of Muslims in the West, including during slavery in the US and at the turn of the twentieth century? How did Islam spread among African Americans in the mid-twentieth century and what does contemporary Muslim American thought look like today? How do the histories, beliefs and practices vary among contemporary diasporic Muslims especially in relationship to their circumstances and their negotiations of questions relating to race, class, and gender? What do some of the major divisions in theology and politics look like among contemporary Muslims along conservative and progressive lines? Who are some of the major voices and movements contesting for authority today and what positions do they take? This course aims to explore these questions and more through close readings and discussions of primary sources coupled with secondary academic works.\n\n",
     "instructor":"Ebadur Rahman",
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"2:00pm",
@@ -63572,7 +64187,7 @@
   {
     "course_code":"RESI GR0002",
     "course_title":"1\/2-RESIDENCE UNIT",
-    "course_descr":null,
+    "course_descr":"Residence Unit\n\n",
     "instructor":"Richard Slusarczyk",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -63624,7 +64239,7 @@
   {
     "course_code":"RSCH GR8031",
     "course_title":"Dissertation Research",
-    "course_descr":null,
+    "course_descr":"Full time research for doctoral students.\n\n",
     "instructor":"Richard Slusarczyk",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -64756,7 +65371,7 @@
   {
     "course_code":"SDEV UN2320",
     "course_title":"ECON & FIN MTHDS FOR SDEV",
-    "course_descr":null,
+    "course_descr":"Prerequisites: Principles of Economics and one semester of calculus. The objective of this course is to introduce students to the skills and methods necessary to understand and evaluate the economic and financial aspects of sustainable development. Throughout the course, students will compare competing objectives and policies through the prism of economic & financial reasoning. Environmental economics and finance are broad areas covering all the multi-faceted and complex interactions between the economic system and the natural environment. Financial markets are the primary source of signals used to direct economic activity in a capitalist global economy. Economic activity is the primary determinant of the quality and sustainability of the natural environment. Students interested in sustainable development who are unfamiliar with economics and who do not develop a facility with economic and financial concepts are severely handicapped in their efforts to increase the level of environmental responsibility embedded in economic activity. This course is intended to provide students with a flying introduction to key analytical concepts required to understand topics in environmental economics and finance and to introduce them to selected topics within the field. The first part of the course (the Analytical Toolbox) is designed to provide a set of portable skills for two sets of students: a) those who will work in fields specifically devoted to sustainable development who, as part of their work, will need to engage with sources of economic & financial information and with discourses where sustainable development is not a focus; and b) students who may end up following careers in organizations where sustainability is not the primary objective. The topics and readings in the second part of the course were chosen to facilitate a critical engagement with the broad intellectual framework underlying sustainable development from the perspective of economics and finance. The topics are intended to create a community of intellectual discourse on sustainable development that will spill over beyond the classroom to the conversations of students and alumni that will far outlive graduation. Offered in the Fall.\n",
     "instructor":"Satyajit Bose",
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:55pm",
@@ -68352,7 +68967,7 @@
   {
     "course_code":"SPRT PS5990",
     "course_title":"SUPERVISED PROJECT IN SPORTS MANAGEMENT",
-    "course_descr":null,
+    "course_descr":"Projects are research intensive and vary according to partners and specialty.\n  \n\u00a0\n  \nAdvanced standing in the Sports Management program, with at least 12 points\/credits (4 courses) completed is required. A student may not exceed 6 points\/credits (2 courses) of Supervised Projects, or take more than 3 points\/credits (1 course) per semester.\n\n",
     "instructor":"Grant J Son",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -68380,7 +68995,7 @@
   {
     "course_code":"SPS_ PS0D01",
     "course_title":"Path to Preparation",
-    "course_descr":null,
+    "course_descr":"In this self-paced online course, students will learn basic technical skills to succeed in the MPS in Wealth Management program at Columbia University. The course will address how to use a financial calculator, basic finance calculations, statistics fundamentals, accounting basics and an overview of investments. In addition, students will learn core accounting and finance concepts, including: time value of money, discounted cash flow, internal rate of return, financial ratio calculation and how to read accounting financial statements. Students will apply these skills to value equity and debt securities.\n  \nThis course is optional, but students are strongly encouraged to complete it before the first semester of the MPS program begins.\n\n",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -72640,7 +73255,7 @@
   {
     "course_code":"WMGT PS5000",
     "course_title":"FOUNDATIONS OF WEALTH MANAGEMENT",
-    "course_descr":null,
+    "course_descr":"In this course, students will explore the history and current state of the wealth\n management industry and gain exposure to the fundamentals of financial planning,\n including Accounting and Finance. This course will address the function, purpose,\n and regulation of financial institutions, the regulations and requirements governing\n financial services, and the ethical responsibilities of wealth management\n professionals. This course will provide an introduction to tax concepts and trusts\n and estates. Students will also learn about the major asset classes, including cash\n and cash alternatives, fixed income, equities and alternative investments. In\n addition, students will be able to apply core accounting and finance concepts,\n including: time value of money, weighted average cost of capital, discounted cash\n flow, internal rate of return, US GAAP standards, and three-statement financial\n analysis. Finally, students will be provided an overview of the importance of\n communication and counseling.\n\n",
     "instructor":"Michael Kothakota",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -72668,7 +73283,7 @@
   {
     "course_code":"WMGT PS5100",
     "course_title":"THE WEALTH MANAGEMENT LANDSCAPE",
-    "course_descr":null,
+    "course_descr":"This course will provide an overview of the wealth management profession,\n including various business models and the role of the advisor within each. Guest\n speakers from across the wealth management profession will discuss the various\n business models, key trends, including the intersection of technology and wealth\n management and the unique nature of each client planner relationship. This course\n will also highlight additional services that advisors are offering clients in order to\n provide a full suite of solutions. In addition, students will discuss the role and\n function of family offices, the scope of services they offer and best practices to\n managing a family office.\n\n",
     "instructor":"William Woodson",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -72696,7 +73311,7 @@
   {
     "course_code":"WMGT PS5200",
     "course_title":"FINANCIAL PSYCHOLOGY",
-    "course_descr":null,
+    "course_descr":"Financial Psychology focuses on the intersection of human psychology and wealth\n management and the basic elements of consumer behavior. Students will explore\n all of the biases, behaviors and perceptions that impact client decision-making and\n financial well-being. Most importantly, this course is specifically designed to help\n prepare the advisor to better understand all of the factors that impact client\n decisions in an effort to help them achieve their own personal goals.\n\n",
     "instructor":"Meghaan Lurtz",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -72724,7 +73339,7 @@
   {
     "course_code":"WMGT PS5700",
     "course_title":"ESTATE PLANNING",
-    "course_descr":null,
+    "course_descr":"This course examines the key concepts and skills a wealth management\n professional must understand to support making critical decisions with respect to\n estate planning. Students will first be introduced to the fundamental characteristics\n and consequences of property titling, before studying the components of estate\n planning documentation. This course will explore the various strategies used to\n transfer property and all of the factors impacting and related to the transfer\n process, including gift and estate tax compliance and tax calculation, estate\n liquidity, marital deduction, non-traditional relationships, and the types, features,\n and taxation of trusts. Students will also explore the various techniques for\n postmortem estate planning and techniques for intra-family and other business\n transfers of property. The course will also begin to explore estate planning in a\n global context, addressing issues and considerations that may arise.\n\n",
     "instructor":"Gail E Cohen",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -72752,7 +73367,7 @@
   {
     "course_code":"WMGT PS5800",
     "course_title":"SPECIAL TOPICS IN WEALTH MANAGEMENT: DIS",
-    "course_descr":null,
+    "course_descr":"Columbia SPS is on the forefront of leading issues in the Wealth Management\n profession. This course is designed to explore disruptive trends in the Wealth\n Management industry and the opportunities and challenges that may result. As the\n profession evolves, our graduates will be prepared to be leaders within all business\n models across wealth management. Topics include, but are not limited to,\n technology, client psychology, ESG\/sustainable investing, financial products,\n evolving fee structures, shifting demographics, increased regulatory burdens,\n democratization of financial advice, and more.\n\n",
     "instructor":"Matthias Kuhlmey",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -72780,7 +73395,7 @@
   {
     "course_code":"WMGT PS5900",
     "course_title":"CAPSTONE",
-    "course_descr":null,
+    "course_descr":"In the fourth semester, students will develop a comprehensive financial plan based\n upon a specific client case, taking all elements of a client\u2019s financial profile into\n consideration. Students will be expected to demonstrate foundational knowledge\n of all aspects of the wealth management curriculum in this course in order to\n develop this financial plan. The capstone experience for this program is a dualfocus\n on both the written as well as the oral components of the financial plan.\n\n",
     "instructor":"Jason R Papier",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -72964,7 +73579,7 @@
   {
     "course_code":"WMST GU4000",
     "course_title":"GENEALOGIES OF FEMINISM",
-    "course_descr":null,
+    "course_descr":"Genealogies\u00a0of Feminism:\n\u00a0\nCourse focuses on the development of a particular topic or issue in feminist, queer, and\/or WGSS scholarship. Open to graduate students and advanced undergraduates, though priority will be given to students completing the ISSG graduate certificate. Topics differ by semester offered, and are reflected in the course subtitle. For a description of the current offering, please visit the link in the Class Notes.\n  \n\u00a0\n\n",
     "instructor":"Julia Bryan-Wilson",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -73042,7 +73657,7 @@
   {
     "course_code":"WMST UN3521",
     "course_title":"SENIOR SEMINAR I",
-    "course_descr":null,
+    "course_descr":"The Senior Seminar in Women's Studies offers you the opportunity to develop a capstone research paper by the end of the first semester of your senior year. Senior seminar essays take the form of a 25-page paper based on original research and characterized by an interdisciplinary approach to the study of women, sexuality, and\/or gender. You must work with an individual advisor who has expertise in the area of your thesis and who can advise you on the specifics of method and content. Your grade for the semester will be determined by the instructor and the advisor. Students receiving a grade of B+ or higher in Senior Seminar I will be invited to register for Senior Seminar II by the Instructor and the Director of Undergraduate Studies. Senior Seminar II students will complete a senior thesis of 40-60 pages. Please note, the seminar is restricted to Columbia College and GS senior majors.\n",
     "instructor":"Jack Halberstam",
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"2:00pm",
