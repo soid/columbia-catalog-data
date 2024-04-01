@@ -23,16 +23,64 @@ ACTU PS5823,ACTUARIAL MODELS,"This course provides an introduction to the tools 
 This class covers the short-term material of Exam FAM and also covers the material of Exam ASTAM of the Society of Actuaries, and some of the material on Exams MAS I, MAS II, and 5 of the Casualty Actuarial Society. This is a core class of the Actuarial Science program. Students who have already taken and passed the FAM exam (or its short term portion) and the ASTAM exam administered by the SOA are exempted from this class and can substitute an elective.
 
 ",Abraham Weishaus,11:40am,12:55pm,12221,Morningside,K5823-20243-001,,Actuarial Science,ACTU,,https://doc.sis.columbia.edu/subj/ACTU/K5823-20243-001/,To be announced,In-Person,,3,,MW,20243ACTU5823K001,LECTURE
-ACTU PS5824,Advanced Predictive Modeling Application,,Abraham Weishaus,2:40pm,3:55pm,12228,Morningside,K5824-20243-001,ACTUARIAL MODELS II,Actuarial Science,ACTU,,https://doc.sis.columbia.edu/subj/ACTU/K5824-20243-001/,To be announced,In-Person,,3,,MW,20243ACTU5824K001,LECTURE
-ACTU PS5840,PREDICTIVE MODELING IN FINANCE & INSURAN,,Lina Xu,2:40pm,3:55pm,12239,Morningside,K5840-20243-001,PREDICT MODLNG IN FIN & INSRNC,Actuarial Science,ACTU,,https://doc.sis.columbia.edu/subj/ACTU/K5840-20243-001/,To be announced,In-Person,,3,,TR,20243ACTU5840K001,SEMINAR
-ACTU PS5841,DATA SCIENCE IN FINANCE AND INSURANCE,,Yubo Wang,10:10am,11:25am,12266,Morningside,K5841-20243-001,DATA SCIENCE IN FIN & INSURANC,Actuarial Science,ACTU,,https://doc.sis.columbia.edu/subj/ACTU/K5841-20243-001/,To be announced,In-Person,,3,,TR,20243ACTU5841K001,LECTURE
-ACTU PS5842,Advanced Data Science Applications in Fi,,Yubo Wang,2:40pm,3:55pm,12267,Morningside,K5842-20243-001,Adv Data Sci App in Fin a,Actuarial Science,ACTU,,https://doc.sis.columbia.edu/subj/ACTU/K5842-20243-001/,To be announced,In-Person,,3,,TR,20243ACTU5842K001,LECTURE
-ACTU PS5843,GLOBAL CAPITAL MARKET & INVESTMENT,,,11:40am,2:25pm,12268,Morningside,K5843-20243-001,GLOBAL CAPITAL MRKT & INVSTMNT,Actuarial Science,ACTU,,https://doc.sis.columbia.edu/subj/ACTU/K5843-20243-001/,To be announced,In-Person,,3,,T,20243ACTU5843K001,LECTURE
-ACTU PS5846,QUANTITATIVE RISK MANAGEMENT,,,10:10am,12:55pm,12269,Morningside,K5846-20243-001,QUANTITATIVE RISK MGMT,Actuarial Science,ACTU,,https://doc.sis.columbia.edu/subj/ACTU/K5846-20243-001/,To be announced,In-Person,,3,,F,20243ACTU5846K001,LECTURE
-ACTU PS5848,RISK MANAGEMENT IN P&C INSURANCE,,,6:10pm,8:55pm,12270,Morningside,K5848-20243-001,RISK MGMT IN P&C INSURANCE,Actuarial Science,ACTU,,https://doc.sis.columbia.edu/subj/ACTU/K5848-20243-001/,To be announced,In-Person,,3,,T,20243ACTU5848K001,LECTURE
-ACTU PS5850,ORAL COMMUNICATIONS FOR ACTUARIAL PROFES,,,3:10pm,5:55pm,12271,Morningside,K5850-20243-001,ORAL COMM FOR ACTUARIAL P,Actuarial Science,ACTU,,https://doc.sis.columbia.edu/subj/ACTU/K5850-20243-001/,To be announced,In-Person,,3,,M,20243ACTU5850K001,LECTURE
-ACTU PS5851,RETIREMENT INCOME SOLUTION,,,1:10pm,3:55pm,12272,Morningside,K5851-20243-001,RETIREMENT INCOME SOLUTIO,Actuarial Science,ACTU,,https://doc.sis.columbia.edu/subj/ACTU/K5851-20243-001/,To be announced,In-Person,,3,,F,20243ACTU5851K001,LECTURE
-ACTU PS5900,PROSEMINAR IN ACTUARIAL SCIENCE,,Lina Xu,4:10pm,6:00pm,12273,Morningside,K5900-20243-001,PROSEMINAR IN ACTUARIAL,Actuarial Science,ACTU,,https://doc.sis.columbia.edu/subj/ACTU/K5900-20243-001/,To be announced,In-Person,,2,,TR,20243ACTU5900K001,PROSEMINAR
+ACTU PS5824,Advanced Predictive Modeling Application,"This course discusses Bayesian methods for estimating linear models. We discuss three methods for estimating the Bayesian posterior: grid approximation, quadratic approximation, and Markov Chain Monte Carlo (MCMC) methods. Bayesian methods are used to estimate linear regression models and generalized linear models. We also use Bayesian methods to estimate multilevel models, also known as linear mixed models. We also estimate linear mixed models using non-Bayesian methods. We learn how to build, estimate, and evaluate these models and how to select the best one.
+  
+This class covers most of the material of Exam MAS II of the Casualty Actuarial Society. This is a core class of the Actuarial Science program. Students may take either this class or Actuarial Methods II. Those who have already taken and passed the MAS II exam for CAS are exempted from this class and can substitute an elective.
+
+",Abraham Weishaus,2:40pm,3:55pm,12228,Morningside,K5824-20243-001,ACTUARIAL MODELS II,Actuarial Science,ACTU,,https://doc.sis.columbia.edu/subj/ACTU/K5824-20243-001/,To be announced,In-Person,,3,,MW,20243ACTU5824K001,LECTURE
+ACTU PS5840,PREDICTIVE MODELING IN FINANCE & INSURAN,"This course introduces to the students, generalized linear models (GLM), time series models, and some popular statistical learning models such as decision trees models as well as random forests and boosting trees.  The aim for GLM is to provide a flexible framework for the analysis and model building using the likelihood techniques for almost any data type. The aim for the statistical learning models is to build and predict or understand data structure (if unsupervised) using statistical learning methods such as tree-based for supervised learning and the Principle Component Analysis and Clustering for unsupervised learning.  It develops a student’s knowledge of the theoretical basis in predictive modeling, computational implementation of the models and their application in finance and insurance. Tools such as cross-validation and techniques such as regularization and dimension reduction for fitting and selecting models are explored.  We also implement these models using a combination of Excel and R.
+  
+The class covers the material of Exams, Statistics for Risk Modeling (SRM) and Predictive Analytics (PA) of Society of Actuaries, and some material of Exams, Modern Actuarial Statistics I (MAS-I) and MAS II by the Casualty Actuarial Society. This is a core course for the Actuarial Science students. Students who have already taken and passed the SRM and PA exams administered by the SOA are exempted from this class and can substitute an elective.
+
+",Lina Xu,2:40pm,3:55pm,12239,Morningside,K5840-20243-001,PREDICT MODLNG IN FIN & INSRNC,Actuarial Science,ACTU,,https://doc.sis.columbia.edu/subj/ACTU/K5840-20243-001/,To be announced,In-Person,,3,,TR,20243ACTU5840K001,SEMINAR
+ACTU PS5841,DATA SCIENCE IN FINANCE AND INSURANCE,"This course explores machine learning models, their theoretical basis, computing implementation and applications in finance and insurance.  It discusses machine learning models for regression, classification and unsupervised learning;  tools such as cross validation and  techniques such as regularization, dimension reduction and ensemble learning;  and select algorithms for fitting machine learning models.  This course offers students an intensive hands-on experience where they combine theoretical understanding, domain knowledge and coding skills to better inform data-driven decision making.
+  
+Some topics covered are relevant to the statistical learning portion of the Society of Actuaries (SOA) and the Casualty Actuarial Society (CAS) curricula, and the quantitative methods section of the Chartered Financial Analyst (CFA) Institute curriculum.  This is a core course of the Actuarial Science program.
+
+",Yubo Wang,10:10am,11:25am,12266,Morningside,K5841-20243-001,DATA SCIENCE IN FIN & INSURANC,Actuarial Science,ACTU,,https://doc.sis.columbia.edu/subj/ACTU/K5841-20243-001/,To be announced,In-Person,,3,,TR,20243ACTU5841K001,LECTURE
+ACTU PS5842,Advanced Data Science Applications in Fi,"The Advanced Data Science Applications in Finance and Insurance course covers topics in database navigation, select advanced predictive analytics models and model interpretability. Topics include relational databases, generalized additive models, deep learning models, linear mixed models, Bayesian approaches, and interpretable machine learning.
+  
+Course discussions help students develop an understanding of the models and methodologies, as well as the ability to implement these models in R or python using opensource packages. Course assignments help students practice applying these models to financial, insurance and other data, as well as gain additional insights through validating aspects of the models. After taking this course, students will be able to apply these advanced predictive analytics models to financial and insurance data to better inform data-driven decision making by combining their theoretical understanding, domain knowledge and coding skills.
+  
+Some topics covered are relevant to the Advanced Topics in Predictive Analytics (ATPA) exam of the Society of Actuaries, and (with a more analytical emphasis) to the quantitative methods section of the CFA Program Level II exam by the CFA Institute.
+  
+Familiarity with machine learning models covered in the Data Science in Finance and Insurance course is helpful. Prior exposure to linear algebra, calculus, statistics, and a working knowledge of python, R and spreadsheets are necessary.
+
+",Yubo Wang,2:40pm,3:55pm,12267,Morningside,K5842-20243-001,Adv Data Sci App in Fin a,Actuarial Science,ACTU,,https://doc.sis.columbia.edu/subj/ACTU/K5842-20243-001/,To be announced,In-Person,,3,,TR,20243ACTU5842K001,LECTURE
+ACTU PS5843,GLOBAL CAPITAL MARKET & INVESTMENT,"This course will introduce students to major issues currently of concern to all investors. It can give you the skills to conduct a sophisticated assessment of current issues and debates covered by the popular media as well as more-specialized finance journals. These skills are essential for people who pursues a financial service career, especially in today’s rapidly evolving environment. The material presented in this course are both practical important and intellectually interesting.
+  
+This course is consistent with and relevant to Chartered Financial Analyst (CFA) curriculum. It covers all subjects in CFA test and most of problems are in the same format as the CFA examination questions. This course will also provide a foundation for further study in Financial Risk Management and Financial market related courses.
+
+",,11:40am,2:25pm,12268,Morningside,K5843-20243-001,GLOBAL CAPITAL MRKT & INVSTMNT,Actuarial Science,ACTU,,https://doc.sis.columbia.edu/subj/ACTU/K5843-20243-001/,To be announced,In-Person,,3,,T,20243ACTU5843K001,LECTURE
+ACTU PS5846,QUANTITATIVE RISK MANAGEMENT,"Risk Management becomes more and more important in the financial industry especially after the global financial crisis. Large financial institutions are facing high regulatory pressure from the government and public. In response to this pressure, risk management in the financial industry has been transformed dramatically over the past decade. Today, about 50 percent of the function’s staff are dedicated to risk-related operational processes such as credit administration, while 15 percent work in analytics. McKinsey research suggests that by 2025, these numbers will reach 25 and 40 percent, respectively.
+  
+This course is designed to provide students with a high-level overview of modern risk management. This is then followed by an in-depth examination of the techniques and management structures used to assess and control risk, including a detailed discussion on the implementation of Value-at-Risk, which is becoming the de facto standard for measuring risk across all the major classes: market, credit, liquidity and operational.
+  
+This course is consistent with and relevant to Financial Risk Manager (FRM) curriculum. It covers majority of FRM learning objectives in the test and it is deeper in the quantitative modelling and analysis.
+
+",,10:10am,12:55pm,12269,Morningside,K5846-20243-001,QUANTITATIVE RISK MGMT,Actuarial Science,ACTU,,https://doc.sis.columbia.edu/subj/ACTU/K5846-20243-001/,To be announced,In-Person,,3,,F,20243ACTU5846K001,LECTURE
+ACTU PS5848,RISK MANAGEMENT IN P&C INSURANCE,"Insurance company risk management practices and requirements have evolved significantly over the last ten years, with the advances in regulation (e.g., Solvency II, NAIC ORSA) and rating agency oversight. This elective course is designed for individuals interested in moving into risk analysis roles within property and casualty (P&C) insurance, also known as general insurance. It provides a practical review of leading quantitative risk assessment and analysis practices at P&C insurance companies. The course will give you a sound understanding of quantitative risk analysis principles that will help you expand your influence in your organization and improve the way you communicate about risk to regulators, rating agencies, and boards. The course focuses on current industry practices, critical analysis skills of risk, and the development and delivery of professional work products, to influence decision makers.
+  
+The course is divided into three parts:
+  
+  
+Introduction to P&C Insurance: you will review the unique characteristics of P&C insurers, including underwriting, claims, premiums, policy wordings, insurance law, and regulation;
+  
+Risk Analysis: you will gain a deep understanding of the key principles underlying the implementation and application of risk management within an organization, including qualitative aspects such as framework, governance and processes, as well as quantitative methods of risk measurement and modeling; and
+  
+Application: through a real life case study, you will work in a group to synthesize the quantitative risk analysis concepts with the realities of P&C insurance company information sources, develop and present a professional consulting work product to a real guest business leader from the insurance risk management community.
+ 
+
+",,6:10pm,8:55pm,12270,Morningside,K5848-20243-001,RISK MGMT IN P&C INSURANCE,Actuarial Science,ACTU,,https://doc.sis.columbia.edu/subj/ACTU/K5848-20243-001/,To be announced,In-Person,,3,,T,20243ACTU5848K001,LECTURE
+ACTU PS5850,ORAL COMMUNICATIONS FOR ACTUARIAL PROFES,"This course is a workshop in communication techniques and professional development. Students make presentations individually and in teams. Actuarial science can be complex and to be successful in the field will require effective communication skills to simplify and explain the complex.  The course covers communicating effectively, professional development, structuring presentations, delivery techniques and presentations.  The main objective for the course is to help students take the complex including business trends and communicate it in a manner that can be understood by the target audience. We will focus on improving communication skills, networking, interview skills, job opportunities and career development. 
+
+",,3:10pm,5:55pm,12271,Morningside,K5850-20243-001,ORAL COMM FOR ACTUARIAL P,Actuarial Science,ACTU,,https://doc.sis.columbia.edu/subj/ACTU/K5850-20243-001/,To be announced,In-Person,,3,,M,20243ACTU5850K001,LECTURE
+ACTU PS5851,RETIREMENT INCOME SOLUTION,"This course covers how to generate reliable and sustainable incomes based on available resources and manage the key risks in retirement (or in the state of financial independence (FI)). We discuss the overall framework and the process and examine the major products and strategies used in practice, with a special focus on the areas related to actuarial science, such as the key insurance products (annuities, life insurance, and long-term care insurance) commonly used, how to position various investments in different types of accounts and withdraw in the most tax efficient manner to meet the income needs. Effective strategies to manage the top risks (longevity, inflation, sequence of return, liquidity, long-term care, and frailty) will also be covered.
+
+",,1:10pm,3:55pm,12272,Morningside,K5851-20243-001,RETIREMENT INCOME SOLUTIO,Actuarial Science,ACTU,,https://doc.sis.columbia.edu/subj/ACTU/K5851-20243-001/,To be announced,In-Person,,3,,F,20243ACTU5851K001,LECTURE
+ACTU PS5900,PROSEMINAR IN ACTUARIAL SCIENCE,"Industry representatives conduct a series of noncredit seminar sessions designed to expose students to the actuarial profession as well as to address a range of topics in actuarial science.
+
+",Lina Xu,4:10pm,6:00pm,12273,Morningside,K5900-20243-001,PROSEMINAR IN ACTUARIAL,Actuarial Science,ACTU,,https://doc.sis.columbia.edu/subj/ACTU/K5900-20243-001/,To be announced,In-Person,,2,,TR,20243ACTU5900K001,PROSEMINAR
 AFCV UN1020,AFRICAN CIVILIZATION,"This course provides a general introduction to some of the key intellectual debates in Africa by Africans through primary sources, including scholarly works, political tracts, fiction, art, and film. Beginning with an exploration of African notions of spiritual and philosophical uniqueness and ending with contemporary debates on the meaning and historical viability of an African Renaissance, this course explores the meanings of ‘Africa and ‘being African. Field(s): AFR*. NO FIRST YEAR STUDENTS PERMITTED.
 ",Gregory Mann,12:10pm,2:00pm,10798,Morningside,C1020-20243-001,,Core (A&S)	,AFCV,,https://doc.sis.columbia.edu/subj/AFCV/C1020-20243-001/,To be announced,In-Person,"Columbia College
 Engineering:Undergraduate
@@ -96,6 +144,7 @@ AHIS BC2005,PAINTING I,"This course will focus on individual and collaborative p
 ",Joan Snitzer,2:10pm,6:00pm,00085,Barnard College,X2005-20243-001,,Art History @Barnard,AHIS,,https://doc.sis.columbia.edu/subj/AHIS/X2005-20243-001/,To be announced,,,3,,W,20243AHIS2005X001,STUDIO
 AHIS BC2007,PAINTING III,"This course will focus on individual and collaborative projects designed to explore the fundamental principles of image making. Students acquire a working knowledge of concepts in contemporary art through class critiques, discussion, and individual meetings with the professor. Reading materials will provide historical and philosophical background to the class assignments. Class projects will range from traditional to experimental and multi-media. Image collections will be discussed in class with an awareness of contemporary image production.
 ",Joan Snitzer,2:10pm,6:00pm,00086,Barnard College,X2007-20243-001,,Art History @Barnard,AHIS,,https://doc.sis.columbia.edu/subj/AHIS/X2007-20243-001/,To be announced,,,3,,W,20243AHIS2007X001,STUDIO
+AHIS BC2904,Arts of North America,,Elizabeth Hutchinson,10:10am,11:25am,00725,Barnard College,X2904-20243-001,,Art History @Barnard,AHIS,,https://doc.sis.columbia.edu/subj/AHIS/X2904-20243-001/,To be announced,,,4,,TR,20243AHIS2904X001,LECTURE
 AHIS BC3002,SUPERVISED PROJ PHOTOGRAPHY,"Prerequisites: the departments permission. Required for all thesis writers.
 ",John Miller,11:00am,12:50pm,00087,Barnard College,X3002-20243-001,SUPERVISED PROJ PHOTOGRAP,Art History @Barnard,AHIS,,https://doc.sis.columbia.edu/subj/AHIS/X3002-20243-001/,To be announced,,,3,,M,20243AHIS3002X001,STUDIO
 AHIS BC3428,The Making of Global Contemporary Art:,"This lecture class introduces the notion of global contemporary art through the history of exhibitions, chiefly biennials and other large-scale endeavors, and principal agents behind them. On the one hand, the course considers exhibitions as a crucial tool of cultural diplomacy, which seek to position and/or reposition cities, regions, and even entire nations or “peoples” on the international scene. Thus, we will explore how the artistic interests vested in exhibition-making intersect with other—political, economic, ideological, and cultural—interests. We will consider those intersections paying special attention to the shifts in political relations and tensions during and after the Cold War, including the moment of decolonization in Africa; the moment commonly understood as “globalization” and associated with the expansion of the neoliberal capitalism after 1989; and, finally, the current moment of the planetary crisis. This expansive view of the “global contemporary art” will allow us to distinguish different impetuses behind internationalism and globalism that not only seek to establish hegemony, artistic or otherwise, but also look for the means to forge transnational dialogues and solidarities. On the other hand, this class seeks to illuminate how certain artistic idioms and approaches developed after World War II achieved primacy that influences artistic production to this day. To this end, we will examine the rise of a “visionary curator” as a theorist and tastemaker. We will also explore how more recent exhibitions have sought to expand the geography of the “canonized” post-WWII art movements and valorize artistic production conceived outside of the so-called “West.”
@@ -881,8 +930,24 @@ BENG UN2101,INTERMEDIATE BENGALI I,"Prerequisites: BENG UN1101 and BENG UN1102 o
 ",Dwijen Bhattacharjya,6:10pm,8:00pm,11067,Morningside,W2101-20243-001,,Language Resource Center,BENG,,https://doc.sis.columbia.edu/subj/BENG/W2101-20243-001/,To be announced,In-Person,,4,"BENG UN1101
 BENG UN1102",TR,20243BENG2101W001,LANGUAGE
 BENG UN3101,ADVANCED BENGALI I,,Stephane A Charitos,,,11068,Morningside,W3101-20243-001,,Language Resource Center,BENG,,https://doc.sis.columbia.edu/subj/BENG/W3101-20243-001/,,In-Person,,3,,,20243BENG3101W001,LANGUAGE
-BIET K5451,Research Ethics,,Joel Roselin,4:10pm,6:00pm,12257,Morningside,K5451-20243-001,,Bioethics,BIET,,https://doc.sis.columbia.edu/subj/BIET/K5451-20243-001/,To be announced,In-Person,GSAS,2,,W,20243BIET5451K001,LECTURE
-BIET K5452,Research Ethics,,Joel Roselin,4:10pm,6:00pm,12261,Morningside,K5452-20243-001,,Bioethics,BIET,,https://doc.sis.columbia.edu/subj/BIET/K5452-20243-001/,To be announced,In-Person,GSAS,1,,W,20243BIET5452K001,LECTURE
+BIET K5451,Research Ethics,"This course is offered for early year Biology PhD students only and meets the first 8 weeks of the semester.
+  
+In
+ 
+ recent years, many crucial issues have arisen concerning research ethics. Scientists in biomedicine, social science and other areas, as well as policy makers face rapidly evolving challenges. In recent years, violations of research ethics have attracted attention from the public, the media, the government, and the scientific community, which have all responded in varying ways. Issues arise in deciding how best to protect human subjects, obtain informed consent, protect privacy and confidentiality, finance research without biasing results, and avoid “misbehavior” among scientists. Questions arise concerning the professional responsibilities and rights of scientists, the rights of study participants, and the appropriate role of the state in these matters.
+  
+The course meets in person and online for 2 hours, with extensive interaction between students and the professor both during class and on post-class discussion forums. It can fulfill the requirements for Responsible Conduct of Research that the NIH and other funders currently mandate for training programs that they support.
+
+",Joel Roselin,4:10pm,6:00pm,12257,Morningside,K5451-20243-001,,Bioethics,BIET,,https://doc.sis.columbia.edu/subj/BIET/K5451-20243-001/,To be announced,In-Person,GSAS,2,,W,20243BIET5451K001,LECTURE
+BIET K5452,Research Ethics,"This course is offered for Biology PhD students only and meets the last 5 weeks of the semester. 
+  
+In
+ 
+ recent years, many crucial issues have arisen concerning research ethics. Scientists in biomedicine, social science and other areas, as well as policy makers face rapidly evolving challenges. In recent years, violations of research ethics have attracted attention from the public, the media, the government, and the scientific community, which have all responded in varying ways. Issues arise in deciding how best to protect human subjects, obtain informed consent, protect privacy and confidentiality, finance research without biasing results, and avoid “misbehavior” among scientists. Questions arise concerning the professional responsibilities and rights of scientists, the rights of study participants, and the appropriate role of the state in these matters.
+  
+The course meets in person or online for 2 hours, with extensive interaction between students and the professor both during class and on post-class discussion forums. It can fulfill the requirements for Responsible Conduct of Research that the NIH and other funders currently mandate for training programs that they support.
+
+",Joel Roselin,4:10pm,6:00pm,12261,Morningside,K5452-20243-001,,Bioethics,BIET,,https://doc.sis.columbia.edu/subj/BIET/K5452-20243-001/,To be announced,In-Person,GSAS,1,,W,20243BIET5452K001,LECTURE
 BIET PS5310,EMPIRICAL METHODS IN BIOETHICS,,Joanne E Mantell,10:10am,12:00pm,12123,Morningside,K5310-20243-001,EMPIRICAL METHODS IN BIOE,Bioethics,BIET,,https://doc.sis.columbia.edu/subj/BIET/K5310-20243-001/,To be announced,In-Person,"Nursing
 Professional Studies
 Public Health",3,,M,20243BIET5310K001,LECTURE
@@ -930,19 +995,31 @@ BIET PS5445,ORGANIZATIONAL ETHICS AND COMPLIANCE,"This course will explore the i
 
 ",David N Hoffman,9:00am,11:00am,12219,Morningside,K5445-20243-D01,ORGANIZATIONAL ETHICS & C,Bioethics,BIET,,https://doc.sis.columbia.edu/subj/BIET/K5445-20243-D01/,To be announced,On-Line Only,"Nursing
 Professional Studies",3,,F,20243BIET5445KD01,LECTURE
-BIET PS5450,RESEARCH ETHICS,,Robert L Klitzman,4:10pm,6:00pm,12240,Morningside,K5450-20243-001,,Bioethics,BIET,https://en.wikipedia.org/wiki/Robert_Klitzman,https://doc.sis.columbia.edu/subj/BIET/K5450-20243-001/,To be announced,In-Person,"Nursing
+BIET PS5450,RESEARCH ETHICS,"In recent years, many crucial issues have arisen concerning research ethics. Scientists in biomedicine, social science and other areas, as well as policy makers face rapidly evolving challenges. In recent years, violations of research ethics have attracted attention from the public, the media, the government, and the scientific community, which have all responded in varying ways. Issues arise in deciding how best to protect human subjects, obtain informed consent, protect privacy and confidentiality, finance research without biasing results, and avoid “misbehavior” among scientists. Questions arise concerning the professional responsibilities and rights of scientists, the rights of study participants, and the appropriate role of the state in these matters.
+  
+The course meets online once a week for an hour and a half, with extensive interaction between students and the professor both during class and on post-class discussion forums. It can fulfill the requirements for Responsible Conduct of Research that the NIH and other funders currently mandate for training programs that they support.
+
+",Robert L Klitzman,4:10pm,6:00pm,12240,Morningside,K5450-20243-001,,Bioethics,BIET,https://en.wikipedia.org/wiki/Robert_Klitzman,https://doc.sis.columbia.edu/subj/BIET/K5450-20243-001/,To be announced,In-Person,"Nursing
 Professional Studies
 Public Health",3,,R,20243BIET5450K001,LECTURE
-BIET PS5450,RESEARCH ETHICS,,Robert L Klitzman,6:00pm,7:45pm,12250,Morningside,K5450-20243-D01,RESEARCH ETHICS (ONLINE),Bioethics,BIET,https://en.wikipedia.org/wiki/Robert_Klitzman,https://doc.sis.columbia.edu/subj/BIET/K5450-20243-D01/,To be announced,On-Line Only,"Nursing
+BIET PS5450,RESEARCH ETHICS,"In recent years, many crucial issues have arisen concerning research ethics. Scientists in biomedicine, social science and other areas, as well as policy makers face rapidly evolving challenges. In recent years, violations of research ethics have attracted attention from the public, the media, the government, and the scientific community, which have all responded in varying ways. Issues arise in deciding how best to protect human subjects, obtain informed consent, protect privacy and confidentiality, finance research without biasing results, and avoid “misbehavior” among scientists. Questions arise concerning the professional responsibilities and rights of scientists, the rights of study participants, and the appropriate role of the state in these matters.
+  
+The course meets online once a week for an hour and a half, with extensive interaction between students and the professor both during class and on post-class discussion forums. It can fulfill the requirements for Responsible Conduct of Research that the NIH and other funders currently mandate for training programs that they support.
+
+",Robert L Klitzman,6:00pm,7:45pm,12250,Morningside,K5450-20243-D01,RESEARCH ETHICS (ONLINE),Bioethics,BIET,https://en.wikipedia.org/wiki/Robert_Klitzman,https://doc.sis.columbia.edu/subj/BIET/K5450-20243-D01/,To be announced,On-Line Only,"Nursing
 Professional Studies
 Public Health",3,,T,20243BIET5450KD01,LECTURE
-BIET PS5460,HEALTH POLICY & BIOETHICS,,Jonathan Engel,2:00pm,4:00pm,12262,Morningside,K5460-20243-D01,,Bioethics,BIET,,https://doc.sis.columbia.edu/subj/BIET/K5460-20243-D01/,To be announced,On-Line Only,"Nursing
+BIET PS5460,HEALTH POLICY & BIOETHICS,"This course introduces students to how healthcare policy is created and implemented in the United States and abroad, while also raising critical ethical issues surrounding healthcare policy for the US, and other industrialized as well as poorer nations. Through lectures, discussions, and readings from the current literature, we will explore the political processes and concerns which produce our current policy; examine the major issues being debated surrounding the creation and delivery of healthcare, including ethical issues; explore the process by which we induce biomedical progress and development; explore barriers to sound healthcare production and delivery in various countries, and examine the recent reforms wrought through the Affordable Care Act (Obamacare). In addition, we will spend a few units looking, in detail, at the unusual challenges posed in delivering healthcare to the poor and the elderly.
+
+",Jonathan Engel,2:00pm,4:00pm,12262,Morningside,K5460-20243-D01,,Bioethics,BIET,,https://doc.sis.columbia.edu/subj/BIET/K5460-20243-D01/,To be announced,On-Line Only,"Nursing
 Professional Studies
 Public Health",3,,M,20243BIET5460KD01,LECTURE
 BIET PS5520,RACE AND BIOETHICS,,Harriet A Washington,8:00pm,10:00pm,12263,Morningside,K5520-20243-D01,,Bioethics,BIET,https://en.wikipedia.org/wiki/Harriet_A._Washington,https://doc.sis.columbia.edu/subj/BIET/K5520-20243-D01/,To be announced,On-Line Only,"Nursing
 Professional Studies",3,,W,20243BIET5520KD01,LECTURE
 BIET PS5991,MASTER THESIS WORKSHOP,,Arthur Kuflik,11:30am,1:30pm,12264,Morningside,K5991-20243-D01,MASTER THESIS WKSHP (1 CREDIT),Bioethics,BIET,,https://doc.sis.columbia.edu/subj/BIET/K5991-20243-D01/,To be announced,On-Line Only,Professional Studies,1,,F,20243BIET5991KD01,WORKSHOP
-BIET PS5992,MASTER THESIS (2 CREDIT),,Sameer H Ladha,,,12265,Morningside,K5992-20243-D01,,Bioethics,BIET,,https://doc.sis.columbia.edu/subj/BIET/K5992-20243-D01/,,On-Line Only,Professional Studies,2,,,20243BIET5992KD01,LECTURE
+BIET PS5992,MASTER THESIS (2 CREDIT),"Thesis requirement for Bioethics program. Taken with the Thesis Workshop (BIET K5991). 
+
+",Sameer H Ladha,,,12265,Morningside,K5992-20243-D01,,Bioethics,BIET,,https://doc.sis.columbia.edu/subj/BIET/K5992-20243-D01/,,On-Line Only,Professional Studies,2,BIET K5991,,20243BIET5992KD01,LECTURE
 BIOL BC1500,INTRO ORGANISMAL/EVOL BIOL,"Co-requisite: (strongly recommended) BIOL BC1501
   
 This course is suitable for majors & fulfillment of pre-health requirements. A high school biology background or equivalent preparation is highly recommended.  
@@ -3443,6 +3520,7 @@ COMS W4181,SECURITY I,"Introduction to security. Threat models. Operating system
 ",Suman Jana,1:10pm,2:25pm,11947,Morningside,W4181-20243-001,,Computer Science,COMS,,https://doc.sis.columbia.edu/subj/COMS/W4181-20243-001/,To be announced,In-Person,,3,"W4180
 W4181
 W4187",MW,20243COMS4181W001,LECTURE
+COMS W4186,MALWARE ANALYSIS&REVERSE ENGINEERING,,Michael S Sikorski,4:10pm,6:40pm,12324,Morningside,W4186-20243-001,MALWARE ANALYSIS&REVERSE,Computer Science,COMS,,https://doc.sis.columbia.edu/subj/COMS/W4186-20243-001/,To be announced,In-Person,,3,,R,20243COMS4186W001,LECTURE
 COMS W4236,INTRO-COMPUTATIONAL COMPLEXITY,"Develops a quantitative theory of the computational difficulty of problems in terms of the resources (e.g. time, space) needed to solve them. Classification of problems into complexity classes, reductions, and completeness. Power and limitations of different modes of computation such as nondeterminism, randomization, interaction, and parallelism.
 
 ",Xi Chen,8:40am,9:55am,11948,Morningside,W4236-20243-001,INTRO-COMPUTATIONAL COMPL,Computer Science,COMS,https://en.wikipedia.org/wiki/Xi_Chen,https://doc.sis.columbia.edu/subj/COMS/W4236-20243-001/,To be announced,In-Person,,3,,MW,20243COMS4236W001,LECTURE
@@ -3548,10 +3626,10 @@ CPLT BC3630,THEATRE AND DEMOCRACY,"What links concepts of theatre and concepts o
 ",Hana Worthen,10:10am,12:00pm,00186,Barnard College,X3630-20243-001,,Comparative Literature and Society @Barnard,CPLT,,https://doc.sis.columbia.edu/subj/CPLT/X3630-20243-001/,To be announced,,,4,,T,20243CPLT3630X001,SEMINAR
 CSEE W3827,FUNDAMENTALS OF COMPUTER SYSTS,"Fundamentals of computer organization and digital logic. Boolean algebra, Karnaugh maps, basic gates and components, flipflops and latches, counters and state machines, basics of combinational and sequential digital design. Assembly language, instruction sets, ALU’s, single-cycle and multi-cycle processor design, introduction to pipelined processors, caches, and virtual memory.
 
-",Martha A Kim,11:40am,12:55pm,11985,Morningside,W3827-20243-001,FUNDAMENTALS OF COMPUTER,Computer Science,CSEE,,https://doc.sis.columbia.edu/subj/CSEE/W3827-20243-001/,To be announced,In-Person,,3,,TR,20243CSEE3827W001,LECTURE
+",,11:40am,12:55pm,11985,Morningside,W3827-20243-001,FUNDAMENTALS OF COMPUTER,Computer Science,CSEE,,https://doc.sis.columbia.edu/subj/CSEE/W3827-20243-001/,To be announced,In-Person,,3,,TR,20243CSEE3827W001,LECTURE
 CSEE W3827,FUNDAMENTALS OF COMPUTER SYSTS,"Fundamentals of computer organization and digital logic. Boolean algebra, Karnaugh maps, basic gates and components, flipflops and latches, counters and state machines, basics of combinational and sequential digital design. Assembly language, instruction sets, ALU’s, single-cycle and multi-cycle processor design, introduction to pipelined processors, caches, and virtual memory.
 
-",Martha A Kim,1:10pm,2:25pm,11986,Morningside,W3827-20243-002,FUNDAMENTALS OF COMPUTER,Computer Science,CSEE,,https://doc.sis.columbia.edu/subj/CSEE/W3827-20243-002/,To be announced,In-Person,,3,,TR,20243CSEE3827W002,LECTURE
+",,1:10pm,2:25pm,11986,Morningside,W3827-20243-002,FUNDAMENTALS OF COMPUTER,Computer Science,CSEE,,https://doc.sis.columbia.edu/subj/CSEE/W3827-20243-002/,To be announced,In-Person,,3,,TR,20243CSEE3827W002,LECTURE
 CSEE W4823,ADVANCED LOGIC DESIGN,"An introduction to modern digital system design. Advanced topics in digital logic: controller synthesis (Mealy and Moore machines); adders and multipliers; structured logic blocks (PLDs, PALs, ROMs); iterative circuits. Modern design methodology: register transfer level modelling (RTL); algorithmic state machines (ASMs); introduction to hardware description languages (VHDL or Verilog); system-level modelling and simulation; design examples.
 
 ",Mingoo Seok,2:40pm,3:55pm,11307,Morningside,W4823-20243-001,,Electrical Engineering,CSEE,,https://doc.sis.columbia.edu/subj/CSEE/W4823-20243-001/,To be announced,In-Person,"Barnard College
@@ -5279,6 +5357,7 @@ ERMC PS5340,OPERATIONAL RISK MANAGEMENT,"Review of the types of operational risk
 ERMC PS5340,OPERATIONAL RISK MANAGEMENT,"Review of the types of operational risks, such as technology risk (e.g., cyber-security), human resources risk, disasters, etc. Includes case studies, risk analysis frameworks and metrics, and common mitigation techniques, such as insurance, IT mitigation, business continuing planning, etc.
 
 ",Saba Zahid,8:10pm,10:00pm,12210,Morningside,K5340-20243-D08,OPERATIONAL RISK MANAGEME,Enterprise Risk Management,ERMC,,https://doc.sis.columbia.edu/subj/ERMC/K5340-20243-D08/,To be announced,On-Line Only,Professional Studies,3,,R,20243ERMC5340KD08,LECTURE
+ERMC PS5340,OPERATIONAL RISK MANAGEMENT,,Marianna Belyavskiy,6:10pm,8:00pm,12276,Morningside,K5340-20243-002,OPERATIONAL RISK MANAGEME,Enterprise Risk Management,ERMC,,https://doc.sis.columbia.edu/subj/ERMC/K5340-20243-002/,To be announced,In-Person,Professional Studies,3,,R,20243ERMC5340K002,LECTURE
 ERMC PS5350,INTRO TO QUANTITATIVE RISK MANAGEMENT,"Students without a strong math background will require significant additional time and effort to achieve the learning objectives and work through the course assignments. This course builds a foundation in the mathematics and statistics of risk management. Students are empowered to understand the output of quantitative analysts and to do their own analytics. Concepts are presented in Excel and students will have the opportunity to practice those concepts in Excel, R or Python. This course is a required prerequisite for registering for the following courses: Financial Risk Management, Insurance Risk Management, ERM Modeling.
 
 ",David Weltz,6:10pm,8:00pm,12196,Morningside,K5350-20243-001,INTRO TO QUANT RISK MGMT,Enterprise Risk Management,ERMC,,https://doc.sis.columbia.edu/subj/ERMC/K5350-20243-001/,To be announced,In-Person,Professional Studies,3,,M,20243ERMC5350K001,LECTURE
@@ -5363,38 +5442,136 @@ ERMC PS5440,BLOCKCHAIN AND ERM,"Using Blockchain, decisions can be made without 
 ERMC PS5455,APPLIED CODING FOR RISK MANAGEMENT,"Applied Coding for Risk Management takes your ability to use code to the next level. This course is for students who have taken Coding for Risk Management. The goal of that course is to give you the ability to get risk management related work done with code. The goal of this course is to give you the ability to code in collaboration with teams in order to build and deploy risk models on large data sets. The course is highly structured and organized by topic into semester long learning threads. Each week, readings and assignments will take another step forward along these threads: Python and collaborative coding, SQL for business intelligence, data analysis and visualization, cloud-based infrastructure, simulation for risk management, financial data processing, and API’s.
 
 ",David J Romoff,8:10pm,10:00pm,12223,Morningside,K5455-20243-001,APPLIED CODING FOR RISK M,Enterprise Risk Management,ERMC,,https://doc.sis.columbia.edu/subj/ERMC/K5455-20243-001/,To be announced,In-Person,Professional Studies,3,,T,20243ERMC5455K001,LECTURE
-ERMC PS5460,PRIVACY RISK MANAGEMENT,,Alison L Bird,8:10pm,10:00pm,12224,Morningside,K5460-20243-001,,Enterprise Risk Management,ERMC,,https://doc.sis.columbia.edu/subj/ERMC/K5460-20243-001/,To be announced,In-Person,Professional Studies,3,,T,20243ERMC5460K001,LECTURE
-ERMC PS5510,COMPANY FAILURES,,Adam H Litke,6:10pm,8:00pm,12225,Morningside,K5510-20243-001,,Enterprise Risk Management,ERMC,,https://doc.sis.columbia.edu/subj/ERMC/K5510-20243-001/,To be announced,In-Person,Professional Studies,3,,M,20243ERMC5510K001,LECTURE
-ERMC PS5510,COMPANY FAILURES,,Michael Zwecher,6:10pm,8:00pm,12226,Morningside,K5510-20243-002,,Enterprise Risk Management,ERMC,,https://doc.sis.columbia.edu/subj/ERMC/K5510-20243-002/,To be announced,In-Person,Professional Studies,3,,T,20243ERMC5510K002,LECTURE
-ERMC PS5510,COMPANY FAILURES,,Steve Lindo,8:10pm,10:00pm,12227,Morningside,K5510-20243-D03,,Enterprise Risk Management,ERMC,,https://doc.sis.columbia.edu/subj/ERMC/K5510-20243-D03/,To be announced,On-Line Only,Professional Studies,3,,W,20243ERMC5510KD03,LECTURE
-ERMC PS5520,RISK REGULATIONS IN FINANCE,,Jean Michel Ngalikpima,6:10pm,8:00pm,12229,Morningside,K5520-20243-001,RISK REGULATIONS IN FINAN,Enterprise Risk Management,ERMC,,https://doc.sis.columbia.edu/subj/ERMC/K5520-20243-001/,To be announced,In-Person,Professional Studies,3,,R,20243ERMC5520K001,LECTURE
-ERMC PS5520,RISK REGULATIONS IN FINANCE,,Juan Echeverri,6:10pm,8:00pm,12230,Morningside,K5520-20243-D02,RISK REGULATIONS IN FINAN,Enterprise Risk Management,ERMC,,https://doc.sis.columbia.edu/subj/ERMC/K5520-20243-D02/,To be announced,On-Line Only,Professional Studies,3,,W,20243ERMC5520KD02,LECTURE
-ERMC PS5525,ESG  AND  ERM,,Rajat Baijal,8:10pm,10:00pm,12231,Morningside,K5525-20243-001,,Enterprise Risk Management,ERMC,,https://doc.sis.columbia.edu/subj/ERMC/K5525-20243-001/,To be announced,In-Person,Professional Studies,3,,M,20243ERMC5525K001,LECTURE
-ERMC PS5525,ESG  AND  ERM,,Helda Rock,6:10pm,8:00pm,12232,Morningside,K5525-20243-D02,,Enterprise Risk Management,ERMC,,https://doc.sis.columbia.edu/subj/ERMC/K5525-20243-D02/,To be announced,On-Line Only,Professional Studies,3,,W,20243ERMC5525KD02,LECTURE
-ERMC PS5530,DERIVATIVES RISK MANAGEMENT,,Alberto Scalari,6:10pm,8:00pm,12233,Morningside,K5530-20243-001,DERIVATIVES RISK MANAGEME,Enterprise Risk Management,ERMC,,https://doc.sis.columbia.edu/subj/ERMC/K5530-20243-001/,To be announced,In-Person,Professional Studies,3,,T,20243ERMC5530K001,LECTURE
-ERMC PS5540,TOOLS FOR RISK MANAGEMENT,,Barney Baldwin,6:10pm,8:00pm,12234,Morningside,K5540-20243-001,,Enterprise Risk Management,ERMC,,https://doc.sis.columbia.edu/subj/ERMC/K5540-20243-001/,To be announced,In-Person,Professional Studies,3,,W,20243ERMC5540K001,LECTURE
-ERMC PS5540,TOOLS FOR RISK MANAGEMENT,,Viktor Ziskin,8:10pm,10:00pm,12235,Morningside,K5540-20243-D02,,Enterprise Risk Management,ERMC,,https://doc.sis.columbia.edu/subj/ERMC/K5540-20243-D02/,To be announced,On-Line Only,Professional Studies,3,,R,20243ERMC5540KD02,LECTURE
-ERMC PS5545,MODEL RISK MANAGEMENT,,Peter L Russo,8:10pm,10:00pm,12236,Morningside,K5545-20243-001,,Enterprise Risk Management,ERMC,,https://doc.sis.columbia.edu/subj/ERMC/K5545-20243-001/,To be announced,In-Person,Professional Studies,3,,R,20243ERMC5545K001,LECTURE
-ERMC PS5550,ERM MODELING,,Julian Horky,8:10pm,10:00pm,12237,Morningside,K5550-20243-001,,Enterprise Risk Management,ERMC,,https://doc.sis.columbia.edu/subj/ERMC/K5550-20243-001/,To be announced,In-Person,Professional Studies,3,,W,20243ERMC5550K001,LECTURE
-ERMC PS5550,ERM MODELING,,Tom Passante,6:10pm,8:00pm,12238,Morningside,K5550-20243-D02,,Enterprise Risk Management,ERMC,,https://doc.sis.columbia.edu/subj/ERMC/K5550-20243-D02/,To be announced,On-Line Only,Professional Studies,3,,M,20243ERMC5550KD02,LECTURE
-ERMC PS5555,MACHINE LEARNING FOR RISK MANAGEMENT,,David J Romoff,6:10pm,8:00pm,12241,Morningside,K5555-20243-001,MACHINE LEARNING FOR RISK,Enterprise Risk Management,ERMC,,https://doc.sis.columbia.edu/subj/ERMC/K5555-20243-001/,To be announced,In-Person,Professional Studies,3,,M,20243ERMC5555K001,LECTURE
-ERMC PS5570,INFORMATION TECHNOLOGY RISK MANAGEMENT,,Shahryar Shaghaghi,6:10pm,8:00pm,12242,Morningside,K5570-20243-001,IT RISK MANAGEMENT,Enterprise Risk Management,ERMC,,https://doc.sis.columbia.edu/subj/ERMC/K5570-20243-001/,To be announced,In-Person,Professional Studies,3,,T,20243ERMC5570K001,LECTURE
-ERMC PS5570,INFORMATION TECHNOLOGY RISK MANAGEMENT,,Kiran Bhujle,6:10pm,8:00pm,12243,Morningside,K5570-20243-002,IT RISK MANAGEMENT,Enterprise Risk Management,ERMC,,https://doc.sis.columbia.edu/subj/ERMC/K5570-20243-002/,To be announced,In-Person,Professional Studies,3,,M,20243ERMC5570K002,LECTURE
-ERMC PS5570,INFORMATION TECHNOLOGY RISK MANAGEMENT,,Adam Ely,8:10pm,10:00pm,12244,Morningside,K5570-20243-D03,IT RISK MANAGEMENT,Enterprise Risk Management,ERMC,,https://doc.sis.columbia.edu/subj/ERMC/K5570-20243-D03/,To be announced,On-Line Only,Professional Studies,3,,W,20243ERMC5570KD03,LECTURE
-ERMC PS5575,THIRD-PARTY RISK MANAGEMENT,,Shahryar Shaghaghi,6:10pm,8:00pm,12245,Morningside,K5575-20243-001,THIRD-PARTY RISK MANAGEME,Enterprise Risk Management,ERMC,,https://doc.sis.columbia.edu/subj/ERMC/K5575-20243-001/,To be announced,In-Person,Professional Studies,3,,R,20243ERMC5575K001,LECTURE
-ERMC PS5585,SUPPLY CHAIN RISK MANAGEMENT FOR NON-FIN,,Daniel A Cahill,6:10pm,8:00pm,12246,Morningside,K5585-20243-001,SUPPLY CHAIN RM FOR NON-F,Enterprise Risk Management,ERMC,,https://doc.sis.columbia.edu/subj/ERMC/K5585-20243-001/,To be announced,In-Person,Professional Studies,3,,R,20243ERMC5585K001,LECTURE
-ERMC PS5590,COGNITIVE BIAS & ERM,,Rich Lauria,8:10pm,10:00pm,12247,Morningside,K5590-20243-001,,Enterprise Risk Management,ERMC,,https://doc.sis.columbia.edu/subj/ERMC/K5590-20243-001/,To be announced,In-Person,Professional Studies,3,,W,20243ERMC5590K001,LECTURE
-ERMC PS5590,COGNITIVE BIAS & ERM,,Narae Lee,8:10pm,10:00pm,12248,Morningside,K5590-20243-002,,Enterprise Risk Management,ERMC,,https://doc.sis.columbia.edu/subj/ERMC/K5590-20243-002/,To be announced,In-Person,Professional Studies,3,,R,20243ERMC5590K002,LECTURE
-ERMC PS5590,COGNITIVE BIAS & ERM,,Zava Aydemir,8:10pm,10:00pm,12249,Morningside,K5590-20243-D03,,Enterprise Risk Management,ERMC,,https://doc.sis.columbia.edu/subj/ERMC/K5590-20243-D03/,To be announced,On-Line Only,Professional Studies,3,,T,20243ERMC5590KD03,LECTURE
-ERMC PS5900,ERM CAPSTONE,,Rich Lauria,8:10pm,10:00pm,12251,Morningside,K5900-20243-001,,Enterprise Risk Management,ERMC,,https://doc.sis.columbia.edu/subj/ERMC/K5900-20243-001/,To be announced,In-Person,Professional Studies,3,,T,20243ERMC5900K001,LECTURE
-ERMC PS5900,ERM CAPSTONE,,Sam Gong,6:10pm,8:00pm,12252,Morningside,K5900-20243-002,,Enterprise Risk Management,ERMC,,https://doc.sis.columbia.edu/subj/ERMC/K5900-20243-002/,To be announced,In-Person,Professional Studies,3,,R,20243ERMC5900K002,LECTURE
-ERMC PS5900,ERM CAPSTONE,,Sam Gong,8:10pm,10:00pm,12253,Morningside,K5900-20243-003,,Enterprise Risk Management,ERMC,,https://doc.sis.columbia.edu/subj/ERMC/K5900-20243-003/,To be announced,In-Person,Professional Studies,3,,R,20243ERMC5900K003,LECTURE
-ERMC PS5900,ERM CAPSTONE,,Xue Bai,6:10pm,8:00pm,12254,Morningside,K5900-20243-004,,Enterprise Risk Management,ERMC,,https://doc.sis.columbia.edu/subj/ERMC/K5900-20243-004/,To be announced,In-Person,Professional Studies,3,,M,20243ERMC5900K004,LECTURE
-ERMC PS5900,ERM CAPSTONE,,Aristargos Christodoulou,6:10pm,8:00pm,12255,Morningside,K5900-20243-005,,Enterprise Risk Management,ERMC,,https://doc.sis.columbia.edu/subj/ERMC/K5900-20243-005/,To be announced,In-Person,Professional Studies,3,,W,20243ERMC5900K005,LECTURE
-ERMC PS5900,ERM CAPSTONE,,Benjamin M Perlman,8:10pm,10:00pm,12256,Morningside,K5900-20243-006,,Enterprise Risk Management,ERMC,,https://doc.sis.columbia.edu/subj/ERMC/K5900-20243-006/,To be announced,In-Person,Professional Studies,3,,M,20243ERMC5900K006,LECTURE
-ERMC PS5900,ERM CAPSTONE,,Bruce Fox,6:10pm,8:00pm,12258,Morningside,K5900-20243-007,,Enterprise Risk Management,ERMC,,https://doc.sis.columbia.edu/subj/ERMC/K5900-20243-007/,To be announced,In-Person,Professional Studies,3,,T,20243ERMC5900K007,LECTURE
-ERMC PS5900,ERM CAPSTONE,,David P McCarthy,8:10pm,10:00pm,12259,Morningside,K5900-20243-D08,,Enterprise Risk Management,ERMC,https://en.wikipedia.org/wiki/David_Altmejd,https://doc.sis.columbia.edu/subj/ERMC/K5900-20243-D08/,To be announced,On-Line Only,Professional Studies,3,,T,20243ERMC5900KD08,LECTURE
-ERMC PS5900,ERM CAPSTONE,,Ciaran M McGuinness,6:10pm,8:00pm,12260,Morningside,K5900-20243-D09,,Enterprise Risk Management,ERMC,,https://doc.sis.columbia.edu/subj/ERMC/K5900-20243-D09/,To be announced,On-Line Only,Professional Studies,3,,T,20243ERMC5900KD09,LECTURE
+ERMC PS5460,PRIVACY RISK MANAGEMENT,"In today’s digital age, with the collection and usage of personal  information growing at an exponential rate, the study of privacy risk management is crucial. As organizations grapple with the dual challenge of monetizing technological innovation without running afoul of regulatory and legal restrictions, the ERM professional who understands how to identify, assess, and manage privacy risk is in high demand. In this course, students will develop an understanding of the legal frameworks governing data usage, the ethical issues associated with the use of personal information, and how to develop robust privacy frameworks and controls in order to manage privacy risk.
+
+",Alison L Bird,8:10pm,10:00pm,12224,Morningside,K5460-20243-001,,Enterprise Risk Management,ERMC,,https://doc.sis.columbia.edu/subj/ERMC/K5460-20243-001/,To be announced,In-Person,Professional Studies,3,,T,20243ERMC5460K001,LECTURE
+ERMC PS5510,COMPANY FAILURES,"Examination of areas critical to an organization’s success from strategic, operational, financial, and insurance perspectives, and examines why many companies fail in spite of the vast knowledge of factors driving success. Several case studies examined in depth.
+
+",Adam H Litke,6:10pm,8:00pm,12225,Morningside,K5510-20243-001,,Enterprise Risk Management,ERMC,,https://doc.sis.columbia.edu/subj/ERMC/K5510-20243-001/,To be announced,In-Person,Professional Studies,3,,M,20243ERMC5510K001,LECTURE
+ERMC PS5510,COMPANY FAILURES,"Examination of areas critical to an organization’s success from strategic, operational, financial, and insurance perspectives, and examines why many companies fail in spite of the vast knowledge of factors driving success. Several case studies examined in depth.
+
+",Michael Zwecher,6:10pm,8:00pm,12226,Morningside,K5510-20243-002,,Enterprise Risk Management,ERMC,,https://doc.sis.columbia.edu/subj/ERMC/K5510-20243-002/,To be announced,In-Person,Professional Studies,3,,T,20243ERMC5510K002,LECTURE
+ERMC PS5510,COMPANY FAILURES,"Examination of areas critical to an organization’s success from strategic, operational, financial, and insurance perspectives, and examines why many companies fail in spite of the vast knowledge of factors driving success. Several case studies examined in depth.
+
+",Steve Lindo,8:10pm,10:00pm,12227,Morningside,K5510-20243-D03,,Enterprise Risk Management,ERMC,,https://doc.sis.columbia.edu/subj/ERMC/K5510-20243-D03/,To be announced,On-Line Only,Professional Studies,3,,W,20243ERMC5510KD03,LECTURE
+ERMC PS5520,RISK REGULATIONS IN FINANCE,"This course examines post-financial crisis regulations including Basel III, Fundamental Review of the Trading Book (FRTB), Dodd-Frank Act, Supervision and Regulation Letter 11-7 (SR 11-7), and others.  Case studies will explore the technical details of these new rules; and guest lectures from industry experts will bring the material to life.  Areas of focus include: model risk management, stress testing, derivatives, and insurance.  By the end of this course students will be able to:
+  
+  
+Evaluate the purpose and limitations of risk regulations in finance.
+  
+Identify and communicate weaknesses in a financial firm.
+  
+Communicate with regulators.
+  
+Understand Recovery and Resolution Plans or “Living Wills” for a financial firm.
+ 
+
+",Jean Michel Ngalikpima,6:10pm,8:00pm,12229,Morningside,K5520-20243-001,RISK REGULATIONS IN FINAN,Enterprise Risk Management,ERMC,,https://doc.sis.columbia.edu/subj/ERMC/K5520-20243-001/,To be announced,In-Person,Professional Studies,3,,R,20243ERMC5520K001,LECTURE
+ERMC PS5520,RISK REGULATIONS IN FINANCE,"This course examines post-financial crisis regulations including Basel III, Fundamental Review of the Trading Book (FRTB), Dodd-Frank Act, Supervision and Regulation Letter 11-7 (SR 11-7), and others.  Case studies will explore the technical details of these new rules; and guest lectures from industry experts will bring the material to life.  Areas of focus include: model risk management, stress testing, derivatives, and insurance.  By the end of this course students will be able to:
+  
+  
+Evaluate the purpose and limitations of risk regulations in finance.
+  
+Identify and communicate weaknesses in a financial firm.
+  
+Communicate with regulators.
+  
+Understand Recovery and Resolution Plans or “Living Wills” for a financial firm.
+ 
+
+",Juan Echeverri,6:10pm,8:00pm,12230,Morningside,K5520-20243-D02,RISK REGULATIONS IN FINAN,Enterprise Risk Management,ERMC,,https://doc.sis.columbia.edu/subj/ERMC/K5520-20243-D02/,To be announced,On-Line Only,Professional Studies,3,,W,20243ERMC5520KD02,LECTURE
+ERMC PS5525,ESG  AND  ERM,"ESG will be a driving force in risk management in upcoming years. ERM / Risk professionals need a solid understanding of emerging ESG trends and regulations and how they apply to day-to-day job responsibilities. The ESG and ERM course begins with an overview of the ESG landscape and framework. After a foundational understanding is established, the course focuses on incorporating ESG into enterprise risk management, including identification, quantification, decision making, and reporting of ESG-related risks.
+
+",Rajat Baijal,8:10pm,10:00pm,12231,Morningside,K5525-20243-001,,Enterprise Risk Management,ERMC,,https://doc.sis.columbia.edu/subj/ERMC/K5525-20243-001/,To be announced,In-Person,Professional Studies,3,,M,20243ERMC5525K001,LECTURE
+ERMC PS5525,ESG  AND  ERM,"ESG will be a driving force in risk management in upcoming years. ERM / Risk professionals need a solid understanding of emerging ESG trends and regulations and how they apply to day-to-day job responsibilities. The ESG and ERM course begins with an overview of the ESG landscape and framework. After a foundational understanding is established, the course focuses on incorporating ESG into enterprise risk management, including identification, quantification, decision making, and reporting of ESG-related risks.
+
+",Helda Rock,6:10pm,8:00pm,12232,Morningside,K5525-20243-D02,,Enterprise Risk Management,ERMC,,https://doc.sis.columbia.edu/subj/ERMC/K5525-20243-D02/,To be announced,On-Line Only,Professional Studies,3,,W,20243ERMC5525KD02,LECTURE
+ERMC PS5530,DERIVATIVES RISK MANAGEMENT,"This course explores financial derivatives across different asset classes with in-depth analysis of several popular trades including block trades, program trades, vanilla options, digital options, and variance swaps. Their dynamics and risks are explored through Monte Carlo simulation using Excel and Python. The daily decisions and tasks of a frontline risk manager are recreated and students have the opportunity to see which trades they would approve or reject. Students will gain a working knowledge of financial derivatives and acquire technical skills to answer complex questions on the trading floor.
+
+",Alberto Scalari,6:10pm,8:00pm,12233,Morningside,K5530-20243-001,DERIVATIVES RISK MANAGEME,Enterprise Risk Management,ERMC,,https://doc.sis.columbia.edu/subj/ERMC/K5530-20243-001/,To be announced,In-Person,Professional Studies,3,,T,20243ERMC5530K001,LECTURE
+ERMC PS5540,TOOLS FOR RISK MANAGEMENT,"Tools for Risk Management examines how risk technology platforms assess risks. These platforms gather, store, and analyze data; and transform that data to actionable information. This course explores how the platforms are implemented, customized, and evaluated. Topics include business requirements specification, data modeling, risk analytics and reporting, systems integration, regulatory issues, visualization, and change processes. Hands-on exercises using selected vendor tools will give students the opportunity to see what these tools can offer.
+
+",Barney Baldwin,6:10pm,8:00pm,12234,Morningside,K5540-20243-001,,Enterprise Risk Management,ERMC,,https://doc.sis.columbia.edu/subj/ERMC/K5540-20243-001/,To be announced,In-Person,Professional Studies,3,,W,20243ERMC5540K001,LECTURE
+ERMC PS5540,TOOLS FOR RISK MANAGEMENT,"Tools for Risk Management examines how risk technology platforms assess risks. These platforms gather, store, and analyze data; and transform that data to actionable information. This course explores how the platforms are implemented, customized, and evaluated. Topics include business requirements specification, data modeling, risk analytics and reporting, systems integration, regulatory issues, visualization, and change processes. Hands-on exercises using selected vendor tools will give students the opportunity to see what these tools can offer.
+
+",Viktor Ziskin,8:10pm,10:00pm,12235,Morningside,K5540-20243-D02,,Enterprise Risk Management,ERMC,,https://doc.sis.columbia.edu/subj/ERMC/K5540-20243-D02/,To be announced,On-Line Only,Professional Studies,3,,R,20243ERMC5540KD02,LECTURE
+ERMC PS5545,MODEL RISK MANAGEMENT,"Given the ever growing reliance on models, Model risk affects financial institutions at almost every level of their organization including pricing, risk, finance, and marketing. Model risk management (MRM) is now one of the primary focuses of operational risk management at modern financial institutions. In this class, the ERM skill sets of risk identification, risk quantification, and risk decision making are applied to the kinds of models seen in large, complex financial institutions. Through readings, lecture, assignments, and in-class discussions, students learn the principles and concepts that a robust MRM function uses to manage model risk.
+
+",Peter L Russo,8:10pm,10:00pm,12236,Morningside,K5545-20243-001,,Enterprise Risk Management,ERMC,,https://doc.sis.columbia.edu/subj/ERMC/K5545-20243-001/,To be announced,In-Person,Professional Studies,3,,R,20243ERMC5545K001,LECTURE
+ERMC PS5550,ERM MODELING,"Equips students with the basics of risk measurement and simulation using a hands-on approach to ERM modeling. Using industry-standard simulation software, students build systems of risk drivers for finance and insurance companies. Topics include risk correlations, VaR and TVaR, capital modeling, capital allocation, and parameter, process, and model Risk. Students acquire both quantitative experience building models and qualitative appreciation for model weaknesses.
+
+",Julian Horky,8:10pm,10:00pm,12237,Morningside,K5550-20243-001,,Enterprise Risk Management,ERMC,,https://doc.sis.columbia.edu/subj/ERMC/K5550-20243-001/,To be announced,In-Person,Professional Studies,3,,W,20243ERMC5550K001,LECTURE
+ERMC PS5550,ERM MODELING,"Equips students with the basics of risk measurement and simulation using a hands-on approach to ERM modeling. Using industry-standard simulation software, students build systems of risk drivers for finance and insurance companies. Topics include risk correlations, VaR and TVaR, capital modeling, capital allocation, and parameter, process, and model Risk. Students acquire both quantitative experience building models and qualitative appreciation for model weaknesses.
+
+",Tom Passante,6:10pm,8:00pm,12238,Morningside,K5550-20243-D02,,Enterprise Risk Management,ERMC,,https://doc.sis.columbia.edu/subj/ERMC/K5550-20243-D02/,To be announced,On-Line Only,Professional Studies,3,,M,20243ERMC5550KD02,LECTURE
+ERMC PS5555,MACHINE LEARNING FOR RISK MANAGEMENT,"The exponentially increasing availability of data and the rapid development of information technology and computing power have inevitably made Machine Learning part of the risk manager’s toolkit. But, what are these tools? This class provides the driving intuitions for machine learning. Students will see how many of the algorithms are extensions of what we already do with our human minds. These algorithms include regularized regression, cluster analysis, naive bayes, apriori algorithm, decision trees, random forests, and boosted ensembles.
+  
+Through practical and real-life applications of ML to Risk Management, students will learn to identify the best technique to apply to a particular risk management problem, from credit risk measurement, fraud detection, portfolio selection to climate change, and ESG applications.
+
+",David J Romoff,6:10pm,8:00pm,12241,Morningside,K5555-20243-001,MACHINE LEARNING FOR RISK,Enterprise Risk Management,ERMC,,https://doc.sis.columbia.edu/subj/ERMC/K5555-20243-001/,To be announced,In-Person,Professional Studies,3,,M,20243ERMC5555K001,LECTURE
+ERMC PS5570,INFORMATION TECHNOLOGY RISK MANAGEMENT,"Students will learn how to better identify and manage a wide range of IT risks as well as better inform IT investment decisions that support the business strategy. Students will develop an instinct for where to look for technological risks, and how IT risks may be contributing factors toward key business risks. This course includes a review of IT risks, including those related to governance, general controls, compliance, cybersecurity, data privacy, and project management. Students will learn how to use a risk-based approach to identify and mitigate cybersecurity and privacy related risks and vulnerabilities. No prior experience or technical skills required to successfully complete this course.
+
+",Shahryar Shaghaghi,6:10pm,8:00pm,12242,Morningside,K5570-20243-001,IT RISK MANAGEMENT,Enterprise Risk Management,ERMC,,https://doc.sis.columbia.edu/subj/ERMC/K5570-20243-001/,To be announced,In-Person,Professional Studies,3,,T,20243ERMC5570K001,LECTURE
+ERMC PS5570,INFORMATION TECHNOLOGY RISK MANAGEMENT,"Students will learn how to better identify and manage a wide range of IT risks as well as better inform IT investment decisions that support the business strategy. Students will develop an instinct for where to look for technological risks, and how IT risks may be contributing factors toward key business risks. This course includes a review of IT risks, including those related to governance, general controls, compliance, cybersecurity, data privacy, and project management. Students will learn how to use a risk-based approach to identify and mitigate cybersecurity and privacy related risks and vulnerabilities. No prior experience or technical skills required to successfully complete this course.
+
+",Kiran Bhujle,6:10pm,8:00pm,12243,Morningside,K5570-20243-002,IT RISK MANAGEMENT,Enterprise Risk Management,ERMC,,https://doc.sis.columbia.edu/subj/ERMC/K5570-20243-002/,To be announced,In-Person,Professional Studies,3,,M,20243ERMC5570K002,LECTURE
+ERMC PS5570,INFORMATION TECHNOLOGY RISK MANAGEMENT,"Students will learn how to better identify and manage a wide range of IT risks as well as better inform IT investment decisions that support the business strategy. Students will develop an instinct for where to look for technological risks, and how IT risks may be contributing factors toward key business risks. This course includes a review of IT risks, including those related to governance, general controls, compliance, cybersecurity, data privacy, and project management. Students will learn how to use a risk-based approach to identify and mitigate cybersecurity and privacy related risks and vulnerabilities. No prior experience or technical skills required to successfully complete this course.
+
+",Adam Ely,8:10pm,10:00pm,12244,Morningside,K5570-20243-D03,IT RISK MANAGEMENT,Enterprise Risk Management,ERMC,,https://doc.sis.columbia.edu/subj/ERMC/K5570-20243-D03/,To be announced,On-Line Only,Professional Studies,3,,W,20243ERMC5570KD03,LECTURE
+ERMC PS5575,THIRD-PARTY RISK MANAGEMENT,"As organizations increasingly rely on external vendors and service providers, managing third-party risks becomes paramount to ensure operational resilience, regulatory compliance, and strategic success. Challenges include:
+  
+  
+The evolving nature of technology risks.
+  
+The impact of geopolitical tensions.
+  
+The lessons learned from disruptive events like pandemics.
+ 
+  
+By offering a comprehensive curriculum covering everything from the basics of vendor management to advanced predictive TPRM models and emphasizing regulatory requirements specific to the financial services sector, the course equips professionals with the knowledge and tools needed to navigate the intricate web of third-party relationships. 
+Students taking this course are prohibited from taking Supply Chain Risk Management for Non-Financials (ERMC PS5585) at any time. Contact your advisor for more information.
+
+",Shahryar Shaghaghi,6:10pm,8:00pm,12245,Morningside,K5575-20243-001,THIRD-PARTY RISK MANAGEME,Enterprise Risk Management,ERMC,,https://doc.sis.columbia.edu/subj/ERMC/K5575-20243-001/,To be announced,In-Person,Professional Studies,3,ERMC PS5585,R,20243ERMC5575K001,LECTURE
+ERMC PS5585,SUPPLY CHAIN RISK MANAGEMENT FOR NON-FIN,"The Pandemic made us all aware of the fragility of supply chains and how significant the consequences of failure of our supply chains can be. It is paramount to note that global and local economies can break down, and scarcity of essential resources can foment wars. Risk professionals must know what best practices bring security to supply chains and related companies, governments, and other institutions. 
+Students taking this course are prohibited from taking Third-Party Risk Management (ERMC PS5575) at any time. Contact your advisor for more information.
+
+",Daniel A Cahill,6:10pm,8:00pm,12246,Morningside,K5585-20243-001,SUPPLY CHAIN RM FOR NON-F,Enterprise Risk Management,ERMC,,https://doc.sis.columbia.edu/subj/ERMC/K5585-20243-001/,To be announced,In-Person,Professional Studies,3,ERMC PS5575,R,20243ERMC5585K001,LECTURE
+ERMC PS5590,COGNITIVE BIAS & ERM,"Explores key concepts of behavioral economics and cognitive psychology, how to identify key cognitive biases in ERM activities, and how to apply techniques to address these, enhancing the quality and integrity of an ERM program. The course also includes best practices in leveraging analytic models to improve decision making.
+
+",Rich Lauria,8:10pm,10:00pm,12247,Morningside,K5590-20243-001,,Enterprise Risk Management,ERMC,,https://doc.sis.columbia.edu/subj/ERMC/K5590-20243-001/,To be announced,In-Person,Professional Studies,3,,W,20243ERMC5590K001,LECTURE
+ERMC PS5590,COGNITIVE BIAS & ERM,"Explores key concepts of behavioral economics and cognitive psychology, how to identify key cognitive biases in ERM activities, and how to apply techniques to address these, enhancing the quality and integrity of an ERM program. The course also includes best practices in leveraging analytic models to improve decision making.
+
+",Narae Lee,8:10pm,10:00pm,12248,Morningside,K5590-20243-002,,Enterprise Risk Management,ERMC,,https://doc.sis.columbia.edu/subj/ERMC/K5590-20243-002/,To be announced,In-Person,Professional Studies,3,,R,20243ERMC5590K002,LECTURE
+ERMC PS5590,COGNITIVE BIAS & ERM,"Explores key concepts of behavioral economics and cognitive psychology, how to identify key cognitive biases in ERM activities, and how to apply techniques to address these, enhancing the quality and integrity of an ERM program. The course also includes best practices in leveraging analytic models to improve decision making.
+
+",Zava Aydemir,8:10pm,10:00pm,12249,Morningside,K5590-20243-D03,,Enterprise Risk Management,ERMC,,https://doc.sis.columbia.edu/subj/ERMC/K5590-20243-D03/,To be announced,On-Line Only,Professional Studies,3,,T,20243ERMC5590KD03,LECTURE
+ERMC PS5900,ERM CAPSTONE,"Teams will work through a case assignment, demonstrating mastery of key learnings gained throughout the program on an integrated basis. A simulated case study is used: this is a combination of publicly-available information of an actual company and simulated ERM program details, based on a blend of current ERM programs and practices in the marketplace. Each team will assess the case study and recommend enhancements.
+
+",Rich Lauria,8:10pm,10:00pm,12251,Morningside,K5900-20243-001,,Enterprise Risk Management,ERMC,,https://doc.sis.columbia.edu/subj/ERMC/K5900-20243-001/,To be announced,In-Person,Professional Studies,3,,T,20243ERMC5900K001,LECTURE
+ERMC PS5900,ERM CAPSTONE,"Teams will work through a case assignment, demonstrating mastery of key learnings gained throughout the program on an integrated basis. A simulated case study is used: this is a combination of publicly-available information of an actual company and simulated ERM program details, based on a blend of current ERM programs and practices in the marketplace. Each team will assess the case study and recommend enhancements.
+
+",Sam Gong,6:10pm,8:00pm,12252,Morningside,K5900-20243-002,,Enterprise Risk Management,ERMC,,https://doc.sis.columbia.edu/subj/ERMC/K5900-20243-002/,To be announced,In-Person,Professional Studies,3,,R,20243ERMC5900K002,LECTURE
+ERMC PS5900,ERM CAPSTONE,"Teams will work through a case assignment, demonstrating mastery of key learnings gained throughout the program on an integrated basis. A simulated case study is used: this is a combination of publicly-available information of an actual company and simulated ERM program details, based on a blend of current ERM programs and practices in the marketplace. Each team will assess the case study and recommend enhancements.
+
+",Sam Gong,8:10pm,10:00pm,12253,Morningside,K5900-20243-003,,Enterprise Risk Management,ERMC,,https://doc.sis.columbia.edu/subj/ERMC/K5900-20243-003/,To be announced,In-Person,Professional Studies,3,,R,20243ERMC5900K003,LECTURE
+ERMC PS5900,ERM CAPSTONE,"Teams will work through a case assignment, demonstrating mastery of key learnings gained throughout the program on an integrated basis. A simulated case study is used: this is a combination of publicly-available information of an actual company and simulated ERM program details, based on a blend of current ERM programs and practices in the marketplace. Each team will assess the case study and recommend enhancements.
+
+",Xue Bai,6:10pm,8:00pm,12254,Morningside,K5900-20243-004,,Enterprise Risk Management,ERMC,,https://doc.sis.columbia.edu/subj/ERMC/K5900-20243-004/,To be announced,In-Person,Professional Studies,3,,M,20243ERMC5900K004,LECTURE
+ERMC PS5900,ERM CAPSTONE,"Teams will work through a case assignment, demonstrating mastery of key learnings gained throughout the program on an integrated basis. A simulated case study is used: this is a combination of publicly-available information of an actual company and simulated ERM program details, based on a blend of current ERM programs and practices in the marketplace. Each team will assess the case study and recommend enhancements.
+
+",Aristargos Christodoulou,6:10pm,8:00pm,12255,Morningside,K5900-20243-005,,Enterprise Risk Management,ERMC,,https://doc.sis.columbia.edu/subj/ERMC/K5900-20243-005/,To be announced,In-Person,Professional Studies,3,,W,20243ERMC5900K005,LECTURE
+ERMC PS5900,ERM CAPSTONE,"Teams will work through a case assignment, demonstrating mastery of key learnings gained throughout the program on an integrated basis. A simulated case study is used: this is a combination of publicly-available information of an actual company and simulated ERM program details, based on a blend of current ERM programs and practices in the marketplace. Each team will assess the case study and recommend enhancements.
+
+",Benjamin M Perlman,8:10pm,10:00pm,12256,Morningside,K5900-20243-006,,Enterprise Risk Management,ERMC,,https://doc.sis.columbia.edu/subj/ERMC/K5900-20243-006/,To be announced,In-Person,Professional Studies,3,,M,20243ERMC5900K006,LECTURE
+ERMC PS5900,ERM CAPSTONE,"Teams will work through a case assignment, demonstrating mastery of key learnings gained throughout the program on an integrated basis. A simulated case study is used: this is a combination of publicly-available information of an actual company and simulated ERM program details, based on a blend of current ERM programs and practices in the marketplace. Each team will assess the case study and recommend enhancements.
+
+",Bruce Fox,6:10pm,8:00pm,12258,Morningside,K5900-20243-007,,Enterprise Risk Management,ERMC,,https://doc.sis.columbia.edu/subj/ERMC/K5900-20243-007/,To be announced,In-Person,Professional Studies,3,,T,20243ERMC5900K007,LECTURE
+ERMC PS5900,ERM CAPSTONE,"Teams will work through a case assignment, demonstrating mastery of key learnings gained throughout the program on an integrated basis. A simulated case study is used: this is a combination of publicly-available information of an actual company and simulated ERM program details, based on a blend of current ERM programs and practices in the marketplace. Each team will assess the case study and recommend enhancements.
+
+",David P McCarthy,8:10pm,10:00pm,12259,Morningside,K5900-20243-D08,,Enterprise Risk Management,ERMC,https://en.wikipedia.org/wiki/David_Altmejd,https://doc.sis.columbia.edu/subj/ERMC/K5900-20243-D08/,To be announced,On-Line Only,Professional Studies,3,,T,20243ERMC5900KD08,LECTURE
+ERMC PS5900,ERM CAPSTONE,"Teams will work through a case assignment, demonstrating mastery of key learnings gained throughout the program on an integrated basis. A simulated case study is used: this is a combination of publicly-available information of an actual company and simulated ERM program details, based on a blend of current ERM programs and practices in the marketplace. Each team will assess the case study and recommend enhancements.
+
+",Ciaran M McGuinness,6:10pm,8:00pm,12260,Morningside,K5900-20243-D09,,Enterprise Risk Management,ERMC,,https://doc.sis.columbia.edu/subj/ERMC/K5900-20243-D09/,To be announced,On-Line Only,Professional Studies,3,,T,20243ERMC5900KD09,LECTURE
 EXRS GR0001,EXTENDED RESIDENCE F/T,"Extended Residence
 
 ",Richard Slusarczyk,,,11830,Morningside,G0001-20243-001,,Graduate School of Arts and Sciences,EXRS,,https://doc.sis.columbia.edu/subj/EXRS/G0001-20243-001/,,,,0,,,20243EXRS0001G001,INDEPENDENT
@@ -7660,7 +7837,7 @@ MATH UN2015,Linear Algebra and Probability,"Linear algebra with a focus on proba
   
 This course is best suited for students who wish to focus on applications and practical approaches to problem solving. It is recommended to students majoring in engineering, technology, life sciences, social sciences, and economics. Math majors, joint majors, and math concentrators must take MATH UN2010 Linear Algebra, which focuses on linear algebra concepts and foundations that are needed for upper-level math courses. MATH UN2015 (Linear Algebra and Probability) does NOT replace MATH UN2010 (Linear Algebra) as prerequisite requirements of math courses. Students may not receive full credit for both courses MATH UN2010 and MATH UN2015.
 
-",Faculty,11:40am,12:55pm,11870,Morningside,W2015-20243-001,Linear Algebra and Probab,Mathematics,MATH,,https://doc.sis.columbia.edu/subj/MATH/W2015-20243-001/,To be announced,In-Person,,3,"MATH UN2010
+",Evan Sorensen,11:40am,12:55pm,11870,Morningside,W2015-20243-001,Linear Algebra and Probab,Mathematics,MATH,,https://doc.sis.columbia.edu/subj/MATH/W2015-20243-001/,To be announced,In-Person,,3,"MATH UN2010
 MATH UN2010
 MATH UN2010
 MATH UN2015
@@ -7669,7 +7846,7 @@ MATH UN2015,Linear Algebra and Probability,"Linear algebra with a focus on proba
   
 This course is best suited for students who wish to focus on applications and practical approaches to problem solving. It is recommended to students majoring in engineering, technology, life sciences, social sciences, and economics. Math majors, joint majors, and math concentrators must take MATH UN2010 Linear Algebra, which focuses on linear algebra concepts and foundations that are needed for upper-level math courses. MATH UN2015 (Linear Algebra and Probability) does NOT replace MATH UN2010 (Linear Algebra) as prerequisite requirements of math courses. Students may not receive full credit for both courses MATH UN2010 and MATH UN2015.
 
-",Faculty,1:10pm,2:25pm,11871,Morningside,W2015-20243-002,Linear Algebra and Probab,Mathematics,MATH,,https://doc.sis.columbia.edu/subj/MATH/W2015-20243-002/,To be announced,In-Person,,3,"MATH UN2010
+",Evan Sorensen,1:10pm,2:25pm,11871,Morningside,W2015-20243-002,Linear Algebra and Probab,Mathematics,MATH,,https://doc.sis.columbia.edu/subj/MATH/W2015-20243-002/,To be announced,In-Person,,3,"MATH UN2010
 MATH UN2010
 MATH UN2010
 MATH UN2015
@@ -7801,6 +7978,7 @@ MDES UN1701,ELEMENTARY PERSIAN I,"An introduction to the spoken and written lang
 ",Saeed Honarmand,3:10pm,4:00pm,10882,Morningside,W1701-20243-001,,"Middle Eastern, South Asian and African Studies",MDES,,https://doc.sis.columbia.edu/subj/MDES/W1701-20243-001/,To be announced,In-Person,,4,,MTWR,20243MDES1701W001,LANGUAGE
 MDES UN1901,ELEMENTARY MODERN TURKISH I,"An introduction to the written and spoken language of Turkey. No P/D/F or R credit is allowed for this class.
 ",Zuleyha Colak,2:10pm,4:00pm,10295,Morningside,W1901-20243-001,ELEMENTARY MODERN TURKISH,"Middle Eastern, South Asian and African Studies",MDES,,https://doc.sis.columbia.edu/subj/MDES/W1901-20243-001/,To be announced,In-Person,,4,,MW,20243MDES1901W001,LANGUAGE
+MDES UN2042,South Asia at the Crossroads of Empires,,Isabel Huacuja Alonso,10:10am,11:25am,12322,Morningside,W2042-20243-001,S. Asia Crossroads of Emp,"Middle Eastern, South Asian and African Studies",MDES,,https://doc.sis.columbia.edu/subj/MDES/W2042-20243-001/,To be announced,In-Person,,3,,TR,20243MDES2042W001,LECTURE
 MDES UN2201,SECOND YEAR ARABIC I,"Prerequisites: MDES W1210-W1211 or the equivalent. A continuation of the study of the language of contemporary writing. No P/D/F or R credit is allowed for this class.
 
 ",Rym Bettaieb,10:10am,11:15am,10410,Morningside,W2201-20243-001,,"Middle Eastern, South Asian and African Studies",MDES,,https://doc.sis.columbia.edu/subj/MDES/W2201-20243-001/,To be announced,In-Person,,5,"MDES W1210
@@ -8557,13 +8735,61 @@ PHIL BC4050,SENIOR SEMINAR,"Intensive study of a philosophical issue or topic, o
 ",Francey Russell,4:10pm,6:00pm,00218,Barnard College,X4050-20243-001,,Philosophy @Barnard,PHIL,,https://doc.sis.columbia.edu/subj/PHIL/X4050-20243-001/,To be announced,,,4,,W,20243PHIL4050X001,SEMINAR
 PHIL BC4051,SENIOR ESSAY,"A substantial paper, developing from an Autumn workshop and continuing in the Spring under the direction of an individual advisor. Open only to Barnard senior philosophy majors.
 ",,,,00224,Barnard College,X4051-20243-001,,Philosophy @Barnard,PHIL,,https://doc.sis.columbia.edu/subj/PHIL/X4051-20243-001/,,,,3,,,20243PHIL4051X001,SEMINAR
+PHIL GR5415,SYMBOLIC LOGIC,,Tamar A Lando,10:10am,11:25am,12321,Morningside,G5415-20243-001,,Philosophy,PHIL,,https://doc.sis.columbia.edu/subj/PHIL/G5415-20243-001/,To be announced,In-Person,GSAS,4,,MW,20243PHIL5415G001,LECTURE
+PHIL GR6050,Methods and Problems: Theoretical Philos,,Melissa S Fusco,2:10pm,4:00pm,12323,Morningside,G6050-20243-001,Methds/Probs:Theoretical,Philosophy,PHIL,,https://doc.sis.columbia.edu/subj/PHIL/G6050-20243-001/,To be announced,In-Person,GSAS,4,,M,20243PHIL6050G001,SEMINAR
+PHIL GR9001,QUODLIBETAL STUDIES I,,Allison Aitken,,,12325,Morningside,G9001-20243-001,,Philosophy,PHIL,,https://doc.sis.columbia.edu/subj/PHIL/G9001-20243-001/,,In-Person,,1-6,,,20243PHIL9001G001,INDEPENDENT
+PHIL GR9001,QUODLIBETAL STUDIES I,,David Albert,,,12326,Morningside,G9001-20243-002,,Philosophy,PHIL,https://en.wikipedia.org/wiki/David_Albert,https://doc.sis.columbia.edu/subj/PHIL/G9001-20243-002/,,In-Person,,1-6,,,20243PHIL9001G002,INDEPENDENT
+PHIL GR9001,QUODLIBETAL STUDIES I,,Akeel Bilgrami,,,12327,Morningside,G9001-20243-003,,Philosophy,PHIL,https://en.wikipedia.org/wiki/Akeel_Bilgrami,https://doc.sis.columbia.edu/subj/PHIL/G9001-20243-003/,,In-Person,,1-6,,,20243PHIL9001G003,INDEPENDENT
+PHIL GR9001,QUODLIBETAL STUDIES I,,Justin Clarke-Doane,,,12328,Morningside,G9001-20243-004,,Philosophy,PHIL,,https://doc.sis.columbia.edu/subj/PHIL/G9001-20243-004/,,In-Person,,1-6,,,20243PHIL9001G004,INDEPENDENT
+PHIL GR9001,QUODLIBETAL STUDIES I,,Jessica Collins,,,12329,Morningside,G9001-20243-005,,Philosophy,PHIL,,https://doc.sis.columbia.edu/subj/PHIL/G9001-20243-005/,,In-Person,,1-6,,,20243PHIL9001G005,INDEPENDENT
+PHIL GR9001,QUODLIBETAL STUDIES I,,Melissa S Fusco,,,12330,Morningside,G9001-20243-006,,Philosophy,PHIL,,https://doc.sis.columbia.edu/subj/PHIL/G9001-20243-006/,,In-Person,,1-6,,,20243PHIL9001G006,INDEPENDENT
+PHIL GR9001,QUODLIBETAL STUDIES I,,Haim Gaifman,,,12331,Morningside,G9001-20243-007,,Philosophy,PHIL,https://en.wikipedia.org/wiki/Haim_Gaifman,https://doc.sis.columbia.edu/subj/PHIL/G9001-20243-007/,,In-Person,,1-6,,,20243PHIL9001G007,INDEPENDENT
+PHIL GR9001,QUODLIBETAL STUDIES I,,Lydia Goehr,,,12332,Morningside,G9001-20243-008,,Philosophy,PHIL,https://en.wikipedia.org/wiki/Lydia_Goehr,https://doc.sis.columbia.edu/subj/PHIL/G9001-20243-008/,,In-Person,,1-6,,,20243PHIL9001G008,INDEPENDENT
+PHIL GR9001,QUODLIBETAL STUDIES I,,Axel Honneth,,,12333,Morningside,G9001-20243-009,,Philosophy,PHIL,https://en.wikipedia.org/wiki/Axel_Honneth,https://doc.sis.columbia.edu/subj/PHIL/G9001-20243-009/,,In-Person,,1-6,,,20243PHIL9001G009,INDEPENDENT
+PHIL GR9001,QUODLIBETAL STUDIES I,,Dhananjay Jagannathan,,,12334,Morningside,G9001-20243-010,,Philosophy,PHIL,,https://doc.sis.columbia.edu/subj/PHIL/G9001-20243-010/,,In-Person,,1-6,,,20243PHIL9001G010,INDEPENDENT
+PHIL GR9001,QUODLIBETAL STUDIES I,,Tamar A Lando,,,12335,Morningside,G9001-20243-011,,Philosophy,PHIL,,https://doc.sis.columbia.edu/subj/PHIL/G9001-20243-011/,,In-Person,,1-6,,,20243PHIL9001G011,INDEPENDENT
+PHIL GR9001,QUODLIBETAL STUDIES I,,Michele Moody-Adams,,,12336,Morningside,G9001-20243-012,,Philosophy,PHIL,https://en.wikipedia.org/wiki/Michele_Moody-Adams,https://doc.sis.columbia.edu/subj/PHIL/G9001-20243-012/,,In-Person,,1-6,,,20243PHIL9001G012,INDEPENDENT
+PHIL GR9001,QUODLIBETAL STUDIES I,,Christopher Peacocke,,,12337,Morningside,G9001-20243-013,,Philosophy,PHIL,https://en.wikipedia.org/wiki/Christopher_Peacocke,https://doc.sis.columbia.edu/subj/PHIL/G9001-20243-013/,,In-Person,,1-6,,,20243PHIL9001G013,INDEPENDENT
+PHIL GR9001,QUODLIBETAL STUDIES I,,Carol Rovane,,,12338,Morningside,G9001-20243-014,,Philosophy,PHIL,,https://doc.sis.columbia.edu/subj/PHIL/G9001-20243-014/,,In-Person,,1-6,,,20243PHIL9001G014,INDEPENDENT
+PHIL GR9001,QUODLIBETAL STUDIES I,,Katja Vogt,,,12339,Morningside,G9001-20243-015,,Philosophy,PHIL,,https://doc.sis.columbia.edu/subj/PHIL/G9001-20243-015/,,In-Person,,1-6,,,20243PHIL9001G015,INDEPENDENT
+PHIL GR9001,QUODLIBETAL STUDIES I,,Achille Varzi,,,12340,Morningside,G9001-20243-016,,Philosophy,PHIL,https://en.wikipedia.org/wiki/Achille_Varzi_%28philosopher%29,https://doc.sis.columbia.edu/subj/PHIL/G9001-20243-016/,,In-Person,,1-6,,,20243PHIL9001G016,INDEPENDENT
+PHIL GR9001,QUODLIBETAL STUDIES I,,Christia Mercer,,,12341,Morningside,G9001-20243-017,,Philosophy,PHIL,https://en.wikipedia.org/wiki/Christia_Mercer,https://doc.sis.columbia.edu/subj/PHIL/G9001-20243-017/,,In-Person,,1-6,,,20243PHIL9001G017,INDEPENDENT
+PHIL GR9001,QUODLIBETAL STUDIES I,,Wolfgang R Mann,,,12342,Morningside,G9001-20243-018,,Philosophy,PHIL,,https://doc.sis.columbia.edu/subj/PHIL/G9001-20243-018/,,In-Person,,1-6,,,20243PHIL9001G018,INDEPENDENT
+PHIL GR9110,METAETHICS,,Akeel Bilgrami,6:10pm,8:00pm,12343,Morningside,G9110-20243-001,,Philosophy,PHIL,https://en.wikipedia.org/wiki/Akeel_Bilgrami,https://doc.sis.columbia.edu/subj/PHIL/G9110-20243-001/,To be announced,In-Person,GSAS,3,,T,20243PHIL9110G001,SEMINAR
+PHIL GR9180,TOPICS IN MORAL PHILOSOPHY,,Katja Vogt,10:10am,12:00pm,12344,Morningside,G9180-20243-001,TOPICS IN MORAL PHILOSOPH,Philosophy,PHIL,,https://doc.sis.columbia.edu/subj/PHIL/G9180-20243-001/,To be announced,In-Person,GSAS,3,,M,20243PHIL9180G001,SEMINAR
+PHIL GR9180,TOPICS IN MORAL PHILOSOPHY,,Axel Honneth,4:10pm,6:00pm,12345,Morningside,G9180-20243-002,TOPICS IN MORAL PHILOSOPH,Philosophy,PHIL,https://en.wikipedia.org/wiki/Axel_Honneth,https://doc.sis.columbia.edu/subj/PHIL/G9180-20243-002/,To be announced,In-Person,GSAS,3,,W,20243PHIL9180G002,SEMINAR
+PHIL GR9515,TOPICS IN METAPHYSICS,,Achille Varzi,12:10pm,2:00pm,12346,Morningside,G9515-20243-001,,Philosophy,PHIL,https://en.wikipedia.org/wiki/Achille_Varzi_%28philosopher%29,https://doc.sis.columbia.edu/subj/PHIL/G9515-20243-001/,To be announced,In-Person,GSAS,3,,T,20243PHIL9515G001,SEMINAR
+PHIL GR9521,TPCS IN THEORY OF KNOWLEDGE,,Jessica Collins,6:10pm,8:00pm,12347,Morningside,G9521-20243-001,,Philosophy,PHIL,,https://doc.sis.columbia.edu/subj/PHIL/G9521-20243-001/,To be announced,In-Person,GSAS,3,,R,20243PHIL9521G001,SEMINAR
+PHIL GR9642,PRACTICAL REASON,,Justin Clarke-Doane,6:10pm,8:00pm,12348,Morningside,G9642-20243-001,,Philosophy,PHIL,,https://doc.sis.columbia.edu/subj/PHIL/G9642-20243-001/,To be announced,In-Person,GSAS,3,,W,20243PHIL9642G001,SEMINAR
+PHIL GR9670,TOPICS IN EARLY MOD PHILOSOPHY,,Christia Mercer,2:10pm,4:00pm,12349,Morningside,G9670-20243-001,TOPICS IN EARLY MOD PHILO,Philosophy,PHIL,https://en.wikipedia.org/wiki/Christia_Mercer,https://doc.sis.columbia.edu/subj/PHIL/G9670-20243-001/,To be announced,In-Person,GSAS,3,,W,20243PHIL9670G001,SEMINAR
+PHIL GR9985,PROPOSAL PREPARATION SEMINAR,,Katja Vogt,2:10pm,4:00pm,12350,Morningside,G9985-20243-001,PROPOSAL PREPARATION SEMI,Philosophy,PHIL,,https://doc.sis.columbia.edu/subj/PHIL/G9985-20243-001/,To be announced,In-Person,GSAS,3,,M,20243PHIL9985G001,SEMINAR
+PHIL GR9991,JOB PLACEMENT SEMINAR,,Lydia Goehr,6:10pm,8:00pm,12351,Morningside,G9991-20243-001,,Philosophy,PHIL,https://en.wikipedia.org/wiki/Lydia_Goehr,https://doc.sis.columbia.edu/subj/PHIL/G9991-20243-001/,To be announced,In-Person,GSAS,3,,M,20243PHIL9991G001,SEMINAR
+PHIL GU4100,PARADOXES,,Justin Clarke-Doane,6:10pm,8:00pm,12318,Morningside,W4100-20243-001,,Philosophy,PHIL,,https://doc.sis.columbia.edu/subj/PHIL/W4100-20243-001/,To be announced,In-Person,"Barnard College
+Columbia College
+Engineering:Undergraduate
+GSAS
+General Studies",3,,T,20243PHIL4100W001,SEMINAR
 PHIL GU4353,LATER HEIDEGGER,,Taylor Carman,2:10pm,4:00pm,00219,Barnard College,G4353-20243-001,,Philosophy @Barnard,PHIL,https://en.wikipedia.org/wiki/Taylor_Carman,https://doc.sis.columbia.edu/subj/PHIL/G4353-20243-001/,To be announced,,,3,,W,20243PHIL4353G001,LECTURE
+PHIL GU4424,MODAL LOGIC,,Tamar A Lando,10:10am,11:25am,12319,Morningside,G4424-20243-001,,Philosophy,PHIL,,https://doc.sis.columbia.edu/subj/PHIL/G4424-20243-001/,To be announced,In-Person,"Barnard College
+Columbia College
+Engineering:Undergraduate
+GSAS
+General Studies",3,,TR,20243PHIL4424G001,LECTURE
+PHIL GU4561,PROBABILITY & DECISION THEORY,,Jessica Collins,12:10pm,2:00pm,12320,Morningside,G4561-20243-001,PROBABILITY & DECISION TH,Philosophy,PHIL,,https://doc.sis.columbia.edu/subj/PHIL/G4561-20243-001/,To be announced,In-Person,"Barnard College
+Columbia College
+Engineering:Undergraduate
+GSAS
+General Studies",3,,R,20243PHIL4561G001,LECTURE
 PHIL UN1001,INTRODUCTION TO PHILOSOPHY,"Survey of some of the central problems, key figures, and great works in both traditional and contemporary philosophy. Topics and texts will vary with instructor and semester.
 ",Francey Russell,11:40am,12:55pm,00018,Barnard College,V1001-20243-001,INTRODUCTION TO PHILOSOPH,Philosophy @Barnard,PHIL,,https://doc.sis.columbia.edu/subj/PHIL/V1001-20243-001/,To be announced,,,3,,MW,20243PHIL1001V001,LECTURE
 PHIL UN1001,INTRODUCTION TO PHILOSOPHY,"Survey of some of the central problems, key figures, and great works in both traditional and contemporary philosophy. Topics and texts will vary with instructor and semester.
 ",Christopher P Prodoehl,2:40pm,3:55pm,00215,Barnard College,V1001-20243-002,INTRODUCTION TO PHILOSOPH,Philosophy @Barnard,PHIL,,https://doc.sis.columbia.edu/subj/PHIL/V1001-20243-002/,To be announced,,,3,,TR,20243PHIL1001V002,LECTURE
 PHIL UN1001,INTRODUCTION TO PHILOSOPHY,"Survey of some of the central problems, key figures, and great works in both traditional and contemporary philosophy. Topics and texts will vary with instructor and semester.
 ",Christina Van Dyke,4:10pm,5:25pm,00216,Barnard College,V1001-20243-003,INTRODUCTION TO PHILOSOPH,Philosophy @Barnard,PHIL,,https://doc.sis.columbia.edu/subj/PHIL/V1001-20243-003/,To be announced,,,3,,MW,20243PHIL1001V003,LECTURE
+PHIL UN2110,PHILOSOPHY & FEMINISM,,Christia Mercer,2:40pm,3:55pm,12274,Morningside,V2110-20243-001,,Philosophy,PHIL,https://en.wikipedia.org/wiki/Christia_Mercer,https://doc.sis.columbia.edu/subj/PHIL/V2110-20243-001/,To be announced,In-Person,"Barnard College
+Columbia College
+Engineering:Undergraduate
+General Studies",3,,TR,20243PHIL2110V001,LECTURE
 PHIL UN2301,HIST PHIL III:KANT-NIETZSCHE,"Prerequisites: None. Exposition and analysis of major texts and figures in European philosophy since Kant. Authors include Kant, Hegel, Schopenhauer, Kierkegaard, and Nietzsche. Required discussion section (PHIL UN2311). Attendance in the first week of classes is mandatory.
 ",Frederick Neuhouser,8:40am,9:55am,00083,Barnard College,V2301-20243-001,HIST PHIL III:KANT-NIETZS,Philosophy @Barnard,PHIL,https://en.wikipedia.org/wiki/Frederick_Neuhouser,https://doc.sis.columbia.edu/subj/PHIL/V2301-20243-001/,To be announced,,,4,PHIL UN2311,TR,20243PHIL2301V001,LECTURE
 PHIL UN2311,HISTORY OF PHILOSPHY III     REC,,,,,00220,Barnard College,V2311-20243-001,HISTORY OF PHIL III     R,Philosophy @Barnard,PHIL,,https://doc.sis.columbia.edu/subj/PHIL/V2311-20243-001/,,,,0,,,20243PHIL2311V001,RECITATION
@@ -8579,9 +8805,93 @@ PHIL UN2686,Intro to Phil of Lang - REC,"Required discussion for PHIL UN2685 Int
 ",,,,00223,Barnard College,W2686-20243-002,Intro to Phil of Lang - R,Philosophy @Barnard,PHIL,,https://doc.sis.columbia.edu/subj/PHIL/W2686-20243-002/,,,,0,PHIL UN2685,,20243PHIL2686W002,DISCUSSION
 PHIL UN3352,20TH CENTURY EUROPEAN PHILOSO,"Prerequisites: one prior philosophy course. Reading and discussion of selected texts by central figures in phenomenology, existentialism, hermeneutics, critical theory, and recent Continental philosophy. Authors may include Heidegger, Sartre, Merleau-Ponty, Gadamer, Horkheimer, Adorno, Foucault, Bourdieu.
 ",Taylor Carman,10:10am,11:25am,00217,Barnard College,W3352-20243-001,20TH CENTURY EUROPEAN PHI,Philosophy @Barnard,PHIL,https://en.wikipedia.org/wiki/Taylor_Carman,https://doc.sis.columbia.edu/subj/PHIL/W3352-20243-001/,To be announced,,,3,,MW,20243PHIL3352W001,LECTURE
+PHIL UN3353,EUROPEAN SOCIAL PHILOSOPHY,,Axel Honneth,10:10am,11:25am,12275,Morningside,V3353-20243-001,EUROPEAN SOCIAL PHILOSOPH,Philosophy,PHIL,https://en.wikipedia.org/wiki/Axel_Honneth,https://doc.sis.columbia.edu/subj/PHIL/V3353-20243-001/,To be announced,In-Person,"Barnard College
+Columbia College
+Engineering:Undergraduate
+General Studies",3,,TR,20243PHIL3353V001,LECTURE
+PHIL UN3411,SYMBOLIC LOGIC,,Tamar A Lando,10:10am,11:25am,12277,Morningside,V3411-20243-001,SYMBOLIC LOGIC: FORMAL INTRO,Philosophy,PHIL,,https://doc.sis.columbia.edu/subj/PHIL/V3411-20243-001/,To be announced,In-Person,"Barnard College
+Columbia College
+Engineering:Undergraduate
+General Studies",4,,MW,20243PHIL3411V001,LECTURE
+PHIL UN3601,METAPHYSICS,,Achille Varzi,1:10pm,2:25pm,12278,Morningside,V3601-20243-001,,Philosophy,PHIL,https://en.wikipedia.org/wiki/Achille_Varzi_%28philosopher%29,https://doc.sis.columbia.edu/subj/PHIL/V3601-20243-001/,To be announced,In-Person,"Barnard College
+Columbia College
+Engineering:Undergraduate
+General Studies",4,,MW,20243PHIL3601V001,LECTURE
+PHIL UN3701,ETHICS,,Michele Moody-Adams,1:10pm,2:25pm,12279,Morningside,V3701-20243-001,MORAL PHILOSOPHY-ETHICS,Philosophy,PHIL,https://en.wikipedia.org/wiki/Michele_Moody-Adams,https://doc.sis.columbia.edu/subj/PHIL/V3701-20243-001/,To be announced,In-Person,"Barnard College
+Columbia College
+Engineering:Undergraduate
+General Studies",4,,MW,20243PHIL3701V001,LECTURE
 PHIL UN3751,POLITICAL PHILOSOPHY,"Six major concepts of political philosophy including authority, rights, equality, justice, liberty and democracy are examined in three different ways. First the conceptual issues are analyzed through contemporary essays on these topics by authors like Peters, Hart, Williams, Berlin, Rawls and Schumpeter. Second the classical sources on these topics are discussed through readings from Hobbes, Locke, Hume, Marx, Plato, Mill and Rousseau. Third some attention is paid to relevant contexts of application of these concepts in political society, including such political movements as anarchism, international human rights, conservative, liberal, and Marxist economic policies as well as competing models of democracy.
 
 ",Frederick Neuhouser,1:10pm,2:25pm,00020,Barnard College,V3751-20243-001,,Philosophy @Barnard,PHIL,https://en.wikipedia.org/wiki/Frederick_Neuhouser,https://doc.sis.columbia.edu/subj/PHIL/V3751-20243-001/,To be announced,,,3,,TR,20243PHIL3751V001,LECTURE
+PHIL UN3912,SEMINAR,,Dhananjay Jagannathan,10:10am,12:00pm,12280,Morningside,C3912-20243-001,MAJOR SEMINAR IN PHILOSOPHY,Philosophy,PHIL,,https://doc.sis.columbia.edu/subj/PHIL/C3912-20243-001/,To be announced,In-Person,"Barnard College
+Columbia College
+Engineering:Undergraduate
+General Studies",3,,W,20243PHIL3912C001,SEMINAR
+PHIL UN3912,SEMINAR,,Melissa S Fusco,2:10pm,4:00pm,12281,Morningside,C3912-20243-003,MAJOR SEMINAR IN PHILOSOPHY,Philosophy,PHIL,,https://doc.sis.columbia.edu/subj/PHIL/C3912-20243-003/,To be announced,In-Person,"Barnard College
+Columbia College
+Engineering:Undergraduate
+General Studies",3,,T,20243PHIL3912C003,SEMINAR
+PHIL UN3997,SUPERVISED INDIVIDUAL RESEARCH,,Allison Aitken,,,12282,Morningside,W3997-20243-001,SUPERVISED INDIVIDUAL RES,Philosophy,PHIL,,https://doc.sis.columbia.edu/subj/PHIL/W3997-20243-001/,,In-Person,,1-3,,,20243PHIL3997W001,INDEPENDENT
+PHIL UN3997,SUPERVISED INDIVIDUAL RESEARCH,,David Albert,,,12283,Morningside,W3997-20243-002,SUPERVISED INDIVIDUAL RES,Philosophy,PHIL,https://en.wikipedia.org/wiki/David_Albert,https://doc.sis.columbia.edu/subj/PHIL/W3997-20243-002/,,In-Person,,1-3,,,20243PHIL3997W002,INDEPENDENT
+PHIL UN3997,SUPERVISED INDIVIDUAL RESEARCH,,Akeel Bilgrami,,,12284,Morningside,W3997-20243-003,SUPERVISED INDIVIDUAL RES,Philosophy,PHIL,https://en.wikipedia.org/wiki/Akeel_Bilgrami,https://doc.sis.columbia.edu/subj/PHIL/W3997-20243-003/,,In-Person,,1-3,,,20243PHIL3997W003,INDEPENDENT
+PHIL UN3997,SUPERVISED INDIVIDUAL RESEARCH,,Justin Clarke-Doane,,,12285,Morningside,W3997-20243-004,SUPERVISED INDIVIDUAL RES,Philosophy,PHIL,,https://doc.sis.columbia.edu/subj/PHIL/W3997-20243-004/,,In-Person,,1-3,,,20243PHIL3997W004,INDEPENDENT
+PHIL UN3997,SUPERVISED INDIVIDUAL RESEARCH,,Jessica Collins,,,12286,Morningside,W3997-20243-005,SUPERVISED INDIVIDUAL RES,Philosophy,PHIL,,https://doc.sis.columbia.edu/subj/PHIL/W3997-20243-005/,,In-Person,,1-3,,,20243PHIL3997W005,INDEPENDENT
+PHIL UN3997,SUPERVISED INDIVIDUAL RESEARCH,,Melissa S Fusco,,,12287,Morningside,W3997-20243-006,SUPERVISED INDIVIDUAL RES,Philosophy,PHIL,,https://doc.sis.columbia.edu/subj/PHIL/W3997-20243-006/,,In-Person,,1-3,,,20243PHIL3997W006,INDEPENDENT
+PHIL UN3997,SUPERVISED INDIVIDUAL RESEARCH,,Haim Gaifman,,,12288,Morningside,W3997-20243-007,SUPERVISED INDIVIDUAL RES,Philosophy,PHIL,https://en.wikipedia.org/wiki/Haim_Gaifman,https://doc.sis.columbia.edu/subj/PHIL/W3997-20243-007/,,In-Person,,1-3,,,20243PHIL3997W007,INDEPENDENT
+PHIL UN3997,SUPERVISED INDIVIDUAL RESEARCH,,Lydia Goehr,,,12289,Morningside,W3997-20243-008,SUPERVISED INDIVIDUAL RES,Philosophy,PHIL,https://en.wikipedia.org/wiki/Lydia_Goehr,https://doc.sis.columbia.edu/subj/PHIL/W3997-20243-008/,,In-Person,,1-3,,,20243PHIL3997W008,INDEPENDENT
+PHIL UN3997,SUPERVISED INDIVIDUAL RESEARCH,,Axel Honneth,,,12290,Morningside,W3997-20243-009,SUPERVISED INDIVIDUAL RES,Philosophy,PHIL,https://en.wikipedia.org/wiki/Axel_Honneth,https://doc.sis.columbia.edu/subj/PHIL/W3997-20243-009/,,In-Person,,1-3,,,20243PHIL3997W009,INDEPENDENT
+PHIL UN3997,SUPERVISED INDIVIDUAL RESEARCH,,Dhananjay Jagannathan,,,12291,Morningside,W3997-20243-010,SUPERVISED INDIVIDUAL RES,Philosophy,PHIL,,https://doc.sis.columbia.edu/subj/PHIL/W3997-20243-010/,,In-Person,,1-3,,,20243PHIL3997W010,INDEPENDENT
+PHIL UN3997,SUPERVISED INDIVIDUAL RESEARCH,,Tamar A Lando,,,12292,Morningside,W3997-20243-011,SUPERVISED INDIVIDUAL RES,Philosophy,PHIL,,https://doc.sis.columbia.edu/subj/PHIL/W3997-20243-011/,,In-Person,,1-3,,,20243PHIL3997W011,INDEPENDENT
+PHIL UN3997,SUPERVISED INDIVIDUAL RESEARCH,,Michele Moody-Adams,,,12293,Morningside,W3997-20243-012,SUPERVISED INDIVIDUAL RES,Philosophy,PHIL,https://en.wikipedia.org/wiki/Michele_Moody-Adams,https://doc.sis.columbia.edu/subj/PHIL/W3997-20243-012/,,In-Person,,1-3,,,20243PHIL3997W012,INDEPENDENT
+PHIL UN3997,SUPERVISED INDIVIDUAL RESEARCH,,Christopher Peacocke,,,12294,Morningside,W3997-20243-013,SUPERVISED INDIVIDUAL RES,Philosophy,PHIL,https://en.wikipedia.org/wiki/Christopher_Peacocke,https://doc.sis.columbia.edu/subj/PHIL/W3997-20243-013/,,In-Person,,1-3,,,20243PHIL3997W013,INDEPENDENT
+PHIL UN3997,SUPERVISED INDIVIDUAL RESEARCH,,Carol Rovane,,,12295,Morningside,W3997-20243-014,SUPERVISED INDIVIDUAL RES,Philosophy,PHIL,,https://doc.sis.columbia.edu/subj/PHIL/W3997-20243-014/,,In-Person,,1-3,,,20243PHIL3997W014,INDEPENDENT
+PHIL UN3997,SUPERVISED INDIVIDUAL RESEARCH,,Wolfgang R Mann,,,12296,Morningside,W3997-20243-015,SUPERVISED INDIVIDUAL RES,Philosophy,PHIL,,https://doc.sis.columbia.edu/subj/PHIL/W3997-20243-015/,,In-Person,"Barnard College
+Columbia College
+Engineering:Undergraduate
+General Studies",1-3,,,20243PHIL3997W015,INDEPENDENT
+PHIL UN3997,SUPERVISED INDIVIDUAL RESEARCH,,Christia Mercer,,,12297,Morningside,W3997-20243-016,SUPERVISED INDIVIDUAL RES,Philosophy,PHIL,https://en.wikipedia.org/wiki/Christia_Mercer,https://doc.sis.columbia.edu/subj/PHIL/W3997-20243-016/,,In-Person,"Barnard College
+Columbia College
+Engineering:Undergraduate
+General Studies",1-3,,,20243PHIL3997W016,INDEPENDENT
+PHIL UN3997,SUPERVISED INDIVIDUAL RESEARCH,,Achille Varzi,,,12298,Morningside,W3997-20243-017,SUPERVISED INDIVIDUAL RES,Philosophy,PHIL,https://en.wikipedia.org/wiki/Achille_Varzi_%28philosopher%29,https://doc.sis.columbia.edu/subj/PHIL/W3997-20243-017/,,In-Person,"Barnard College
+Columbia College
+Engineering:Undergraduate
+General Studies",1-3,,,20243PHIL3997W017,INDEPENDENT
+PHIL UN3997,SUPERVISED INDIVIDUAL RESEARCH,,Katja Vogt,,,12299,Morningside,W3997-20243-018,SUPERVISED INDIVIDUAL RES,Philosophy,PHIL,,https://doc.sis.columbia.edu/subj/PHIL/W3997-20243-018/,,In-Person,"Barnard College
+Columbia College
+Engineering:Undergraduate
+General Studies",1-3,,,20243PHIL3997W018,INDEPENDENT
+PHIL UN3998,SUPERVISED INDIVIDUAL RESEARCH,,Allison Aitken,,,12300,Morningside,W3998-20243-001,SUPERVISED INDIVIDUAL RES,Philosophy,PHIL,,https://doc.sis.columbia.edu/subj/PHIL/W3998-20243-001/,,In-Person,,1-3,,,20243PHIL3998W001,INDEPENDENT
+PHIL UN3998,SUPERVISED INDIVIDUAL RESEARCH,,David Albert,,,12301,Morningside,W3998-20243-002,SUPERVISED INDIVIDUAL RES,Philosophy,PHIL,https://en.wikipedia.org/wiki/David_Albert,https://doc.sis.columbia.edu/subj/PHIL/W3998-20243-002/,,In-Person,,1-3,,,20243PHIL3998W002,INDEPENDENT
+PHIL UN3998,SUPERVISED INDIVIDUAL RESEARCH,,Akeel Bilgrami,,,12302,Morningside,W3998-20243-003,SUPERVISED INDIVIDUAL RES,Philosophy,PHIL,https://en.wikipedia.org/wiki/Akeel_Bilgrami,https://doc.sis.columbia.edu/subj/PHIL/W3998-20243-003/,,In-Person,,1-3,,,20243PHIL3998W003,INDEPENDENT
+PHIL UN3998,SUPERVISED INDIVIDUAL RESEARCH,,Justin Clarke-Doane,,,12303,Morningside,W3998-20243-004,SUPERVISED INDIVIDUAL RES,Philosophy,PHIL,,https://doc.sis.columbia.edu/subj/PHIL/W3998-20243-004/,,In-Person,,1-3,,,20243PHIL3998W004,INDEPENDENT
+PHIL UN3998,SUPERVISED INDIVIDUAL RESEARCH,,Jessica Collins,,,12304,Morningside,W3998-20243-005,SUPERVISED INDIVIDUAL RES,Philosophy,PHIL,,https://doc.sis.columbia.edu/subj/PHIL/W3998-20243-005/,,In-Person,,1-3,,,20243PHIL3998W005,INDEPENDENT
+PHIL UN3998,SUPERVISED INDIVIDUAL RESEARCH,,Melissa S Fusco,,,12305,Morningside,W3998-20243-006,SUPERVISED INDIVIDUAL RES,Philosophy,PHIL,,https://doc.sis.columbia.edu/subj/PHIL/W3998-20243-006/,,In-Person,,1-3,,,20243PHIL3998W006,INDEPENDENT
+PHIL UN3998,SUPERVISED INDIVIDUAL RESEARCH,,Haim Gaifman,,,12306,Morningside,W3998-20243-007,SUPERVISED INDIVIDUAL RES,Philosophy,PHIL,https://en.wikipedia.org/wiki/Haim_Gaifman,https://doc.sis.columbia.edu/subj/PHIL/W3998-20243-007/,,In-Person,,1-3,,,20243PHIL3998W007,INDEPENDENT
+PHIL UN3998,SUPERVISED INDIVIDUAL RESEARCH,,Lydia Goehr,,,12307,Morningside,W3998-20243-008,SUPERVISED INDIVIDUAL RES,Philosophy,PHIL,https://en.wikipedia.org/wiki/Lydia_Goehr,https://doc.sis.columbia.edu/subj/PHIL/W3998-20243-008/,,In-Person,,1-3,,,20243PHIL3998W008,INDEPENDENT
+PHIL UN3998,SUPERVISED INDIVIDUAL RESEARCH,,Axel Honneth,,,12308,Morningside,W3998-20243-009,SUPERVISED INDIVIDUAL RES,Philosophy,PHIL,https://en.wikipedia.org/wiki/Axel_Honneth,https://doc.sis.columbia.edu/subj/PHIL/W3998-20243-009/,,In-Person,,1-3,,,20243PHIL3998W009,INDEPENDENT
+PHIL UN3998,SUPERVISED INDIVIDUAL RESEARCH,,Dhananjay Jagannathan,,,12309,Morningside,W3998-20243-010,SUPERVISED INDIVIDUAL RES,Philosophy,PHIL,,https://doc.sis.columbia.edu/subj/PHIL/W3998-20243-010/,,In-Person,,1-3,,,20243PHIL3998W010,INDEPENDENT
+PHIL UN3998,SUPERVISED INDIVIDUAL RESEARCH,,Tamar A Lando,,,12310,Morningside,W3998-20243-011,SUPERVISED INDIVIDUAL RES,Philosophy,PHIL,,https://doc.sis.columbia.edu/subj/PHIL/W3998-20243-011/,,In-Person,,1-3,,,20243PHIL3998W011,INDEPENDENT
+PHIL UN3998,SUPERVISED INDIVIDUAL RESEARCH,,Michele Moody-Adams,,,12311,Morningside,W3998-20243-012,SUPERVISED INDIVIDUAL RES,Philosophy,PHIL,https://en.wikipedia.org/wiki/Michele_Moody-Adams,https://doc.sis.columbia.edu/subj/PHIL/W3998-20243-012/,,In-Person,,1-3,,,20243PHIL3998W012,INDEPENDENT
+PHIL UN3998,SUPERVISED INDIVIDUAL RESEARCH,,Christopher Peacocke,,,12312,Morningside,W3998-20243-013,SUPERVISED INDIVIDUAL RES,Philosophy,PHIL,https://en.wikipedia.org/wiki/Christopher_Peacocke,https://doc.sis.columbia.edu/subj/PHIL/W3998-20243-013/,,In-Person,,1-3,,,20243PHIL3998W013,INDEPENDENT
+PHIL UN3998,SUPERVISED INDIVIDUAL RESEARCH,,Carol Rovane,,,12313,Morningside,W3998-20243-014,SUPERVISED INDIVIDUAL RES,Philosophy,PHIL,,https://doc.sis.columbia.edu/subj/PHIL/W3998-20243-014/,,In-Person,,1-3,,,20243PHIL3998W014,INDEPENDENT
+PHIL UN3998,SUPERVISED INDIVIDUAL RESEARCH,,Wolfgang R Mann,,,12314,Morningside,W3998-20243-015,SUPERVISED INDIVIDUAL RES,Philosophy,PHIL,,https://doc.sis.columbia.edu/subj/PHIL/W3998-20243-015/,,In-Person,"Barnard College
+Columbia College
+Engineering:Undergraduate
+General Studies",1-3,,,20243PHIL3998W015,INDEPENDENT
+PHIL UN3998,SUPERVISED INDIVIDUAL RESEARCH,,Christia Mercer,,,12315,Morningside,W3998-20243-016,SUPERVISED INDIVIDUAL RES,Philosophy,PHIL,https://en.wikipedia.org/wiki/Christia_Mercer,https://doc.sis.columbia.edu/subj/PHIL/W3998-20243-016/,,In-Person,"Barnard College
+Columbia College
+Engineering:Undergraduate
+General Studies",1-3,,,20243PHIL3998W016,INDEPENDENT
+PHIL UN3998,SUPERVISED INDIVIDUAL RESEARCH,,Achille Varzi,,,12316,Morningside,W3998-20243-017,SUPERVISED INDIVIDUAL RES,Philosophy,PHIL,https://en.wikipedia.org/wiki/Achille_Varzi_%28philosopher%29,https://doc.sis.columbia.edu/subj/PHIL/W3998-20243-017/,,In-Person,"Barnard College
+Columbia College
+Engineering:Undergraduate
+General Studies",1-3,,,20243PHIL3998W017,INDEPENDENT
+PHIL UN3998,SUPERVISED INDIVIDUAL RESEARCH,,Katja Vogt,,,12317,Morningside,W3998-20243-018,SUPERVISED INDIVIDUAL RES,Philosophy,PHIL,,https://doc.sis.columbia.edu/subj/PHIL/W3998-20243-018/,,In-Person,"Barnard College
+Columbia College
+Engineering:Undergraduate
+General Studies",1-3,,,20243PHIL3998W018,INDEPENDENT
 PHYS BC2001,MECHANICS - LECTURE + LAB,"Corequisites: Calculus I or the equivalent  
   
 Fundamental laws of mechanics. Kinematics, Newtons laws, work and energy, conservation laws, collisions, rotational motion, oscillations, gravitation.  PLEASE NOTE: Students who take PHYS BC2001 may not get credit for PHYS BC2009 or PHYS BC2010.
@@ -11486,7 +11796,7 @@ WMST BC3132,GENDERED CONTROVERSIES,"Love and sex have long been studied as hi
 Sandra Moyano-Ariza is Term Assistant Professor of WGSS and Research Director at BCRW. Her research works at the intersection of culture, philosophy, and digital technologies, with interests in the fields of media studies and digital scholarship, contemporary feminist theory, critical race theory, posthumanism, and affect theory.
 
 ",Sandra Moyano-Ariza,12:10pm,2:00pm,00709,Barnard College,X3132-20243-001,,"Women's, Gender, Sexuality Studies @Barnard",WMST,,https://doc.sis.columbia.edu/subj/WMST/X3132-20243-001/,To be announced,,,4,,M,20243WMST3132X001,SEMINAR
-WMST BC3504,GENDERED CONTROVERSIES,,Sandra Moyano-Ariza,4:00pm,6:00pm,00595,Barnard College,X3504-20243-001,,"Women's, Gender, Sexuality Studies @Barnard",WMST,,https://doc.sis.columbia.edu/subj/WMST/X3504-20243-001/,To be announced,,,4,,M,20243WMST3504X001,SEMINAR
+WMST BC3504,GENDERED CONTROVERSIES,,Sandra Moyano-Ariza,4:10pm,6:00pm,00595,Barnard College,X3504-20243-001,,"Women's, Gender, Sexuality Studies @Barnard",WMST,,https://doc.sis.columbia.edu/subj/WMST/X3504-20243-001/,To be announced,,,4,,M,20243WMST3504X001,SEMINAR
 WMST GU4000,GENEALOGIES OF FEMINISM,"Genealogies of Feminism:
  
 Course focuses on the development of a particular topic or issue in feminist, queer, and/or WGSS scholarship. Open to graduate students and advanced undergraduates, though priority will be given to students completing the ISSG graduate certificate. Topics differ by semester offered, and are reflected in the course subtitle. For a description of the current offering, please visit the link in the Class Notes.
