@@ -5113,8 +5113,12 @@ CSEE W3827,FUNDAMENTALS OF COMPUTER SYSTS,"Fundamentals of computer organization
 CSEE W3827,FUNDAMENTALS OF COMPUTER SYSTS,"Fundamentals of computer organization and digital logic. Boolean algebra, Karnaugh maps, basic gates and components, flipflops and latches, counters and state machines, basics of combinational and sequential digital design. Assembly language, instruction sets, ALU’s, single-cycle and multi-cycle processor design, introduction to pipelined processors, caches, and virtual memory.
 
 ",,1:10pm,2:25pm,11986,Morningside,W3827-20243-002,FUNDAMENTALS OF COMPUTER,Computer Science,CSEE,,https://doc.sis.columbia.edu/subj/CSEE/W3827-20243-002/,To be announced,In-Person,,3,,TR,20243CSEE3827W002,LECTURE
-CSEE W4119,COMPUTER NETWORKS,,,5:40pm,6:55pm,14070,Morningside,W4119-20243-002,,Electrical Engineering,CSEE,,https://doc.sis.columbia.edu/subj/CSEE/W4119-20243-002/,To be announced,In-Person,,3,,TR,20243CSEE4119W002,LECTURE
-CSEE W4119,COMPUTER NETWORKS,,,4:10pm,5:25pm,14071,Morningside,W4119-20243-001,,Electrical Engineering,CSEE,,https://doc.sis.columbia.edu/subj/CSEE/W4119-20243-001/,To be announced,In-Person,,3,,TR,20243CSEE4119W001,LECTURE
+CSEE W4119,COMPUTER NETWORKS,"Introduction to computer networks and the technical foundations of the Internet, including applications, protocols, local area networks, algorithms for routing and congestion control, security, elementary performance evaluation. Several written and programming assignments required.
+
+",,5:40pm,6:55pm,14070,Morningside,W4119-20243-002,,Electrical Engineering,CSEE,,https://doc.sis.columbia.edu/subj/CSEE/W4119-20243-002/,To be announced,In-Person,,3,,TR,20243CSEE4119W002,LECTURE
+CSEE W4119,COMPUTER NETWORKS,"Introduction to computer networks and the technical foundations of the Internet, including applications, protocols, local area networks, algorithms for routing and congestion control, security, elementary performance evaluation. Several written and programming assignments required.
+
+",,4:10pm,5:25pm,14071,Morningside,W4119-20243-001,,Electrical Engineering,CSEE,,https://doc.sis.columbia.edu/subj/CSEE/W4119-20243-001/,To be announced,In-Person,,3,,TR,20243CSEE4119W001,LECTURE
 CSEE W4823,ADVANCED LOGIC DESIGN,"An introduction to modern digital system design. Advanced topics in digital logic: controller synthesis (Mealy and Moore machines); adders and multipliers; structured logic blocks (PLDs, PALs, ROMs); iterative circuits. Modern design methodology: register transfer level modelling (RTL); algorithmic state machines (ASMs); introduction to hardware description languages (VHDL or Verilog); system-level modelling and simulation; design examples.
 
 ",Mingoo Seok,2:40pm,3:55pm,11307,Morningside,W4823-20243-001,,Electrical Engineering,CSEE,,https://doc.sis.columbia.edu/subj/CSEE/W4823-20243-001/,To be announced,In-Person,"Barnard College
@@ -6375,14 +6379,18 @@ ELEN E1201,INTRO-ELECTRICAL ENGINEERING,"Basic concepts of electrical engineerin
 Columbia College
 Engineering:Undergraduate
 General Studies",3.5,,TR,20243ELEN1201E001,LECTURE
-ELEN E3081,CIRCUIT ANALYSIS LABORATORY,,,10:10am,12:40pm,14038,Morningside,E3081-20243-002,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E3081-20243-002/,To be announced,In-Person,"Barnard College
+ELEN E3081,CIRCUIT ANALYSIS LABORATORY,"Companion lab course for ELEN E3201. Experiments cover such topics as: use of measurement instruments; HSPICE simulation; basic network theorems; linearization of nonlinear circuits using negative feedback; op-amp circuits; integrators; second order RLC circuits. The lab generally meets on alternate weeks.
+
+",,10:10am,12:40pm,14038,Morningside,E3081-20243-002,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E3081-20243-002/,To be announced,In-Person,"Barnard College
 Columbia College
 Engineering:Undergraduate
-General Studies",1,,R,20243ELEN3081E002,LABORATORY
-ELEN E3081,CIRCUIT ANALYSIS LABORATORY,,,10:10am,12:40pm,14039,Morningside,E3081-20243-003,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E3081-20243-003/,To be announced,In-Person,"Barnard College
+General Studies",1,ELEN E3201,R,20243ELEN3081E002,LABORATORY
+ELEN E3081,CIRCUIT ANALYSIS LABORATORY,"Companion lab course for ELEN E3201. Experiments cover such topics as: use of measurement instruments; HSPICE simulation; basic network theorems; linearization of nonlinear circuits using negative feedback; op-amp circuits; integrators; second order RLC circuits. The lab generally meets on alternate weeks.
+
+",,10:10am,12:40pm,14039,Morningside,E3081-20243-003,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E3081-20243-003/,To be announced,In-Person,"Barnard College
 Columbia College
 Engineering:Undergraduate
-General Studies",1,,F,20243ELEN3081E003,LABORATORY
+General Studies",1,ELEN E3201,F,20243ELEN3081E003,LABORATORY
 ELEN E3084,SIGNALS & SYSTEMS LABORATORY,"Companion lab course for ELEN E3801. Experiments cover topics such as: introduction and use of MATLAB for numerical and symbolic calculations; linearity and time invariance; continuous-time convolution; Fourier-series expansion and signal reconstruction; impulse response and transfer function; forced response. The lab generally meets on alternate weeks.
 
 ",Xiaodong Wang,6:10pm,8:40pm,13774,Morningside,E3084-20243-001,SIGNALS & SYSTEMS LABORAT,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E3084-20243-001/,To be announced,In-Person,"Barnard College
@@ -6395,10 +6403,12 @@ ELEN E3084,SIGNALS & SYSTEMS LABORATORY,"Companion lab course for ELEN E3801. Ex
 Columbia College
 Engineering:Undergraduate
 General Studies",1,ELEN E3801,R,20243ELEN3084E002,LABORATORY
-ELEN E3084,SIGNALS & SYSTEMS LABORATORY,,Xiaodong Wang,1:10pm,3:40pm,14037,Morningside,E3084-20243-003,SIGNALS & SYSTEMS LABORAT,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E3084-20243-003/,To be announced,In-Person,"Barnard College
+ELEN E3084,SIGNALS & SYSTEMS LABORATORY,"Companion lab course for ELEN E3801. Experiments cover topics such as: introduction and use of MATLAB for numerical and symbolic calculations; linearity and time invariance; continuous-time convolution; Fourier-series expansion and signal reconstruction; impulse response and transfer function; forced response. The lab generally meets on alternate weeks.
+
+",Xiaodong Wang,1:10pm,3:40pm,14037,Morningside,E3084-20243-003,SIGNALS & SYSTEMS LABORAT,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E3084-20243-003/,To be announced,In-Person,"Barnard College
 Columbia College
 Engineering:Undergraduate
-General Studies",1,,F,20243ELEN3084E003,LABORATORY
+General Studies",1,ELEN E3801,F,20243ELEN3084E003,LABORATORY
 ELEN E3106,SOLID STATE DEVICES-MATERIALS,"Crystal structure and energy band theory of solids. Carrier concentration and transport in semiconductors. P-n junction and junction transistors. Semiconductor surface and MOS transistors. Optical effects and optoelectronic devices. Fabrication of devices and the effect of process variation and distribution statistics on device and circuit performance.
 
 ",Savannah Eisner,10:10am,11:25am,11266,Morningside,E3106-20243-001,SOLID STATE DEVICES-MATER,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E3106-20243-001/,To be announced,In-Person,"Barnard College
@@ -6429,128 +6439,188 @@ ELEN E3801,SIGNALS AND SYSTEMS,"Modeling, description, and classification of sig
 Columbia College
 Engineering:Undergraduate
 General Studies",3.5,,TR,20243ELEN3801E001,LECTURE
-ELEN E3998,PROJECTS IN ELEC ENGINEERING,,Dimitris Anastassiou,,,14040,Morningside,E3998-20243-001,PROJECTS IN ELEC ENGINEER,Electrical Engineering,ELEN,https://en.wikipedia.org/wiki/Dimitris_Anastassiou,https://doc.sis.columbia.edu/subj/ELEN/E3998-20243-001/,,In-Person,"Barnard College
+ELEN E3998,PROJECTS IN ELEC ENGINEERING,"May be repeated for credit, but no more than 3 total points may be used for degree credit. Independent project involving laboratory work, computer programming, analytical investigation, or engineering design.
+
+",Dimitris Anastassiou,,,14040,Morningside,E3998-20243-001,PROJECTS IN ELEC ENGINEER,Electrical Engineering,ELEN,https://en.wikipedia.org/wiki/Dimitris_Anastassiou,https://doc.sis.columbia.edu/subj/ELEN/E3998-20243-001/,,In-Person,"Barnard College
 Columbia College
 Engineering:Undergraduate
 General Studies",0-3,,,20243ELEN3998E001,INDEPENDENT
-ELEN E3998,PROJECTS IN ELEC ENGINEERING,,Keren Bergman,,,14041,Morningside,E3998-20243-002,PROJECTS IN ELEC ENGINEER,Electrical Engineering,ELEN,https://en.wikipedia.org/wiki/Keren_Bergman,https://doc.sis.columbia.edu/subj/ELEN/E3998-20243-002/,,In-Person,"Barnard College
+ELEN E3998,PROJECTS IN ELEC ENGINEERING,"May be repeated for credit, but no more than 3 total points may be used for degree credit. Independent project involving laboratory work, computer programming, analytical investigation, or engineering design.
+
+",Keren Bergman,,,14041,Morningside,E3998-20243-002,PROJECTS IN ELEC ENGINEER,Electrical Engineering,ELEN,https://en.wikipedia.org/wiki/Keren_Bergman,https://doc.sis.columbia.edu/subj/ELEN/E3998-20243-002/,,In-Person,"Barnard College
 Columbia College
 Engineering:Undergraduate
 General Studies",0-3,,,20243ELEN3998E002,INDEPENDENT
-ELEN E3998,PROJECTS IN ELEC ENGINEERING,,Shih-Fu Chang,,,14042,Morningside,E3998-20243-003,PROJECTS IN ELEC ENGINEER,Electrical Engineering,ELEN,https://en.wikipedia.org/wiki/Shih-Fu_Chang,https://doc.sis.columbia.edu/subj/ELEN/E3998-20243-003/,,In-Person,"Barnard College
+ELEN E3998,PROJECTS IN ELEC ENGINEERING,"May be repeated for credit, but no more than 3 total points may be used for degree credit. Independent project involving laboratory work, computer programming, analytical investigation, or engineering design.
+
+",Shih-Fu Chang,,,14042,Morningside,E3998-20243-003,PROJECTS IN ELEC ENGINEER,Electrical Engineering,ELEN,https://en.wikipedia.org/wiki/Shih-Fu_Chang,https://doc.sis.columbia.edu/subj/ELEN/E3998-20243-003/,,In-Person,"Barnard College
 Columbia College
 Engineering:Undergraduate
 General Studies",0-3,,,20243ELEN3998E003,INDEPENDENT
-ELEN E3998,PROJECTS IN ELEC ENGINEERING,,James Anderson,,,14043,Morningside,E3998-20243-032,PROJECTS IN ELEC ENGINEER,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E3998-20243-032/,,In-Person,"Barnard College
+ELEN E3998,PROJECTS IN ELEC ENGINEERING,"May be repeated for credit, but no more than 3 total points may be used for degree credit. Independent project involving laboratory work, computer programming, analytical investigation, or engineering design.
+
+",James Anderson,,,14043,Morningside,E3998-20243-032,PROJECTS IN ELEC ENGINEER,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E3998-20243-032/,,In-Person,"Barnard College
 Columbia College
 Engineering:Undergraduate
 General Studies",0-3,,,20243ELEN3998E032,INDEPENDENT
-ELEN E3998,PROJECTS IN ELEC ENGINEERING,,Gil Zussman,,,14044,Morningside,E3998-20243-029,PROJECTS IN ELEC ENGINEER,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E3998-20243-029/,,In-Person,"Barnard College
+ELEN E3998,PROJECTS IN ELEC ENGINEERING,"May be repeated for credit, but no more than 3 total points may be used for degree credit. Independent project involving laboratory work, computer programming, analytical investigation, or engineering design.
+
+",Gil Zussman,,,14044,Morningside,E3998-20243-029,PROJECTS IN ELEC ENGINEER,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E3998-20243-029/,,In-Person,"Barnard College
 Columbia College
 Engineering:Undergraduate
 General Studies",0-3,,,20243ELEN3998E029,INDEPENDENT
-ELEN E3998,PROJECTS IN ELEC ENGINEERING,,Charles A Zukowski,,,14045,Morningside,E3998-20243-028,PROJECTS IN ELEC ENGINEER,Electrical Engineering,ELEN,https://en.wikipedia.org/wiki/Charles_Zukowski,https://doc.sis.columbia.edu/subj/ELEN/E3998-20243-028/,,In-Person,"Barnard College
+ELEN E3998,PROJECTS IN ELEC ENGINEERING,"May be repeated for credit, but no more than 3 total points may be used for degree credit. Independent project involving laboratory work, computer programming, analytical investigation, or engineering design.
+
+",Charles A Zukowski,,,14045,Morningside,E3998-20243-028,PROJECTS IN ELEC ENGINEER,Electrical Engineering,ELEN,https://en.wikipedia.org/wiki/Charles_Zukowski,https://doc.sis.columbia.edu/subj/ELEN/E3998-20243-028/,,In-Person,"Barnard College
 Columbia College
 Engineering:Undergraduate
 General Studies",0-3,,,20243ELEN3998E028,INDEPENDENT
-ELEN E3998,PROJECTS IN ELEC ENGINEERING,,John Wright,,,14046,Morningside,E3998-20243-027,PROJECTS IN ELEC ENGINEER,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E3998-20243-027/,,In-Person,"Barnard College
+ELEN E3998,PROJECTS IN ELEC ENGINEERING,"May be repeated for credit, but no more than 3 total points may be used for degree credit. Independent project involving laboratory work, computer programming, analytical investigation, or engineering design.
+
+",John Wright,,,14046,Morningside,E3998-20243-027,PROJECTS IN ELEC ENGINEER,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E3998-20243-027/,,In-Person,"Barnard College
 Columbia College
 Engineering:Undergraduate
 General Studies",0-3,,,20243ELEN3998E027,INDEPENDENT
-ELEN E3998,PROJECTS IN ELEC ENGINEERING,,Xiaodong Wang,,,14047,Morningside,E3998-20243-026,PROJECTS IN ELEC ENGINEER,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E3998-20243-026/,,In-Person,"Barnard College
+ELEN E3998,PROJECTS IN ELEC ENGINEERING,"May be repeated for credit, but no more than 3 total points may be used for degree credit. Independent project involving laboratory work, computer programming, analytical investigation, or engineering design.
+
+",Xiaodong Wang,,,14047,Morningside,E3998-20243-026,PROJECTS IN ELEC ENGINEER,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E3998-20243-026/,,In-Person,"Barnard College
 Columbia College
 Engineering:Undergraduate
 General Studies",0-3,,,20243ELEN3998E026,INDEPENDENT
-ELEN E3998,PROJECTS IN ELEC ENGINEERING,,Wen I Wang,,,14048,Morningside,E3998-20243-025,PROJECTS IN ELEC ENGINEER,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E3998-20243-025/,,In-Person,"Barnard College
+ELEN E3998,PROJECTS IN ELEC ENGINEERING,"May be repeated for credit, but no more than 3 total points may be used for degree credit. Independent project involving laboratory work, computer programming, analytical investigation, or engineering design.
+
+",Wen I Wang,,,14048,Morningside,E3998-20243-025,PROJECTS IN ELEC ENGINEER,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E3998-20243-025/,,In-Person,"Barnard College
 Columbia College
 Engineering:Undergraduate
 General Studies",0-3,,,20243ELEN3998E025,INDEPENDENT
-ELEN E3998,PROJECTS IN ELEC ENGINEERING,,David G Vallancourt,,,14049,Morningside,E3998-20243-024,PROJECTS IN ELEC ENGINEER,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E3998-20243-024/,,In-Person,"Barnard College
+ELEN E3998,PROJECTS IN ELEC ENGINEERING,"May be repeated for credit, but no more than 3 total points may be used for degree credit. Independent project involving laboratory work, computer programming, analytical investigation, or engineering design.
+
+",David G Vallancourt,,,14049,Morningside,E3998-20243-024,PROJECTS IN ELEC ENGINEER,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E3998-20243-024/,,In-Person,"Barnard College
 Columbia College
 Engineering:Undergraduate
 General Studies",0-3,,,20243ELEN3998E024,INDEPENDENT
-ELEN E3998,PROJECTS IN ELEC ENGINEERING,,Mingoo Seok,,,14050,Morningside,E3998-20243-020,PROJECTS IN ELEC ENGINEER,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E3998-20243-020/,,In-Person,"Barnard College
+ELEN E3998,PROJECTS IN ELEC ENGINEERING,"May be repeated for credit, but no more than 3 total points may be used for degree credit. Independent project involving laboratory work, computer programming, analytical investigation, or engineering design.
+
+",Mingoo Seok,,,14050,Morningside,E3998-20243-020,PROJECTS IN ELEC ENGINEER,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E3998-20243-020/,,In-Person,"Barnard College
 Columbia College
 Engineering:Undergraduate
 General Studies",0-3,,,20243ELEN3998E020,INDEPENDENT
-ELEN E3998,PROJECTS IN ELEC ENGINEERING,,Matthias Preindl,,,14051,Morningside,E3998-20243-019,PROJECTS IN ELEC ENGINEER,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E3998-20243-019/,,In-Person,"Barnard College
+ELEN E3998,PROJECTS IN ELEC ENGINEERING,"May be repeated for credit, but no more than 3 total points may be used for degree credit. Independent project involving laboratory work, computer programming, analytical investigation, or engineering design.
+
+",Matthias Preindl,,,14051,Morningside,E3998-20243-019,PROJECTS IN ELEC ENGINEER,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E3998-20243-019/,,In-Person,"Barnard College
 Columbia College
 Engineering:Undergraduate
 General Studies",0-3,,,20243ELEN3998E019,INDEPENDENT
-ELEN E3998,PROJECTS IN ELEC ENGINEERING,,Kenneth Shepard,,,14052,Morningside,E3998-20243-021,PROJECTS IN ELEC ENGINEER,Electrical Engineering,ELEN,https://en.wikipedia.org/wiki/Kenneth_L_Shepard,https://doc.sis.columbia.edu/subj/ELEN/E3998-20243-021/,,In-Person,"Barnard College
+ELEN E3998,PROJECTS IN ELEC ENGINEERING,"May be repeated for credit, but no more than 3 total points may be used for degree credit. Independent project involving laboratory work, computer programming, analytical investigation, or engineering design.
+
+",Kenneth Shepard,,,14052,Morningside,E3998-20243-021,PROJECTS IN ELEC ENGINEER,Electrical Engineering,ELEN,https://en.wikipedia.org/wiki/Kenneth_L_Shepard,https://doc.sis.columbia.edu/subj/ELEN/E3998-20243-021/,,In-Person,"Barnard College
 Columbia College
 Engineering:Undergraduate
 General Studies",0-3,,,20243ELEN3998E021,INDEPENDENT
-ELEN E3998,PROJECTS IN ELEC ENGINEERING,,James Teherani,,,14053,Morningside,E3998-20243-022,PROJECTS IN ELEC ENGINEER,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E3998-20243-022/,,In-Person,"Barnard College
+ELEN E3998,PROJECTS IN ELEC ENGINEERING,"May be repeated for credit, but no more than 3 total points may be used for degree credit. Independent project involving laboratory work, computer programming, analytical investigation, or engineering design.
+
+",James Teherani,,,14053,Morningside,E3998-20243-022,PROJECTS IN ELEC ENGINEER,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E3998-20243-022/,,In-Person,"Barnard College
 Columbia College
 Engineering:Undergraduate
 General Studies",0-3,,,20243ELEN3998E022,INDEPENDENT
-ELEN E3998,PROJECTS IN ELEC ENGINEERING,,Yannis P Tsividis,,,14054,Morningside,E3998-20243-023,PROJECTS IN ELEC ENGINEER,Electrical Engineering,ELEN,https://en.wikipedia.org/wiki/Yannis_Tsividis,https://doc.sis.columbia.edu/subj/ELEN/E3998-20243-023/,,In-Person,"Barnard College
+ELEN E3998,PROJECTS IN ELEC ENGINEERING,"May be repeated for credit, but no more than 3 total points may be used for degree credit. Independent project involving laboratory work, computer programming, analytical investigation, or engineering design.
+
+",Yannis P Tsividis,,,14054,Morningside,E3998-20243-023,PROJECTS IN ELEC ENGINEER,Electrical Engineering,ELEN,https://en.wikipedia.org/wiki/Yannis_Tsividis,https://doc.sis.columbia.edu/subj/ELEN/E3998-20243-023/,,In-Person,"Barnard College
 Columbia College
 Engineering:Undergraduate
 General Studies",0-3,,,20243ELEN3998E023,INDEPENDENT
-ELEN E3998,PROJECTS IN ELEC ENGINEERING,,John W Paisley,,,14055,Morningside,E3998-20243-018,PROJECTS IN ELEC ENGINEER,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E3998-20243-018/,,In-Person,"Barnard College
+ELEN E3998,PROJECTS IN ELEC ENGINEERING,"May be repeated for credit, but no more than 3 total points may be used for degree credit. Independent project involving laboratory work, computer programming, analytical investigation, or engineering design.
+
+",John W Paisley,,,14055,Morningside,E3998-20243-018,PROJECTS IN ELEC ENGINEER,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E3998-20243-018/,,In-Person,"Barnard College
 Columbia College
 Engineering:Undergraduate
 General Studies",0-3,,,20243ELEN3998E018,INDEPENDENT
-ELEN E3998,PROJECTS IN ELEC ENGINEERING,,Debasis Mitra,,,14056,Morningside,E3998-20243-017,PROJECTS IN ELEC ENGINEER,Electrical Engineering,ELEN,https://en.wikipedia.org/wiki/Debasis_Mitra,https://doc.sis.columbia.edu/subj/ELEN/E3998-20243-017/,,In-Person,"Barnard College
+ELEN E3998,PROJECTS IN ELEC ENGINEERING,"May be repeated for credit, but no more than 3 total points may be used for degree credit. Independent project involving laboratory work, computer programming, analytical investigation, or engineering design.
+
+",Debasis Mitra,,,14056,Morningside,E3998-20243-017,PROJECTS IN ELEC ENGINEER,Electrical Engineering,ELEN,https://en.wikipedia.org/wiki/Debasis_Mitra,https://doc.sis.columbia.edu/subj/ELEN/E3998-20243-017/,,In-Person,"Barnard College
 Columbia College
 Engineering:Undergraduate
 General Studies",0-3,,,20243ELEN3998E017,INDEPENDENT
-ELEN E3998,PROJECTS IN ELEC ENGINEERING,,Nima Mesgarani,,,14057,Morningside,E3998-20243-016,PROJECTS IN ELEC ENGINEER,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E3998-20243-016/,,In-Person,"Barnard College
+ELEN E3998,PROJECTS IN ELEC ENGINEERING,"May be repeated for credit, but no more than 3 total points may be used for degree credit. Independent project involving laboratory work, computer programming, analytical investigation, or engineering design.
+
+",Nima Mesgarani,,,14057,Morningside,E3998-20243-016,PROJECTS IN ELEC ENGINEER,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E3998-20243-016/,,In-Person,"Barnard College
 Columbia College
 Engineering:Undergraduate
 General Studies",0-3,,,20243ELEN3998E016,INDEPENDENT
-ELEN E3998,PROJECTS IN ELEC ENGINEERING,,Michal Lipson,,,14058,Morningside,E3998-20243-015,PROJECTS IN ELEC ENGINEER,Electrical Engineering,ELEN,https://en.wikipedia.org/wiki/Michal_Lipson,https://doc.sis.columbia.edu/subj/ELEN/E3998-20243-015/,,In-Person,"Barnard College
+ELEN E3998,PROJECTS IN ELEC ENGINEERING,"May be repeated for credit, but no more than 3 total points may be used for degree credit. Independent project involving laboratory work, computer programming, analytical investigation, or engineering design.
+
+",Michal Lipson,,,14058,Morningside,E3998-20243-015,PROJECTS IN ELEC ENGINEER,Electrical Engineering,ELEN,https://en.wikipedia.org/wiki/Michal_Lipson,https://doc.sis.columbia.edu/subj/ELEN/E3998-20243-015/,,In-Person,"Barnard College
 Columbia College
 Engineering:Undergraduate
 General Studies",0-3,,,20243ELEN3998E015,INDEPENDENT
-ELEN E3998,PROJECTS IN ELEC ENGINEERING,,Aurel A Lazar,,,14059,Morningside,E3998-20243-014,PROJECTS IN ELEC ENGINEER,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E3998-20243-014/,,In-Person,"Barnard College
+ELEN E3998,PROJECTS IN ELEC ENGINEERING,"May be repeated for credit, but no more than 3 total points may be used for degree credit. Independent project involving laboratory work, computer programming, analytical investigation, or engineering design.
+
+",Aurel A Lazar,,,14059,Morningside,E3998-20243-014,PROJECTS IN ELEC ENGINEER,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E3998-20243-014/,,In-Person,"Barnard College
 Columbia College
 Engineering:Undergraduate
 General Studies",0-3,,,20243ELEN3998E014,INDEPENDENT
-ELEN E3998,PROJECTS IN ELEC ENGINEERING,,Ioannis Kymissis,,,14060,Morningside,E3998-20243-013,PROJECTS IN ELEC ENGINEER,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E3998-20243-013/,,In-Person,"Barnard College
+ELEN E3998,PROJECTS IN ELEC ENGINEERING,"May be repeated for credit, but no more than 3 total points may be used for degree credit. Independent project involving laboratory work, computer programming, analytical investigation, or engineering design.
+
+",Ioannis Kymissis,,,14060,Morningside,E3998-20243-013,PROJECTS IN ELEC ENGINEER,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E3998-20243-013/,,In-Person,"Barnard College
 Columbia College
 Engineering:Undergraduate
 General Studies",0-3,,,20243ELEN3998E013,INDEPENDENT
-ELEN E3998,PROJECTS IN ELEC ENGINEERING,,Harish Krishnaswamy,,,14061,Morningside,E3998-20243-012,PROJECTS IN ELEC ENGINEER,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E3998-20243-012/,,In-Person,"Barnard College
+ELEN E3998,PROJECTS IN ELEC ENGINEERING,"May be repeated for credit, but no more than 3 total points may be used for degree credit. Independent project involving laboratory work, computer programming, analytical investigation, or engineering design.
+
+",Harish Krishnaswamy,,,14061,Morningside,E3998-20243-012,PROJECTS IN ELEC ENGINEER,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E3998-20243-012/,,In-Person,"Barnard College
 Columbia College
 Engineering:Undergraduate
 General Studies",0-3,,,20243ELEN3998E012,INDEPENDENT
-ELEN E3998,PROJECTS IN ELEC ENGINEERING,,Zoran Kostic,,,14062,Morningside,E3998-20243-011,PROJECTS IN ELEC ENGINEER,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E3998-20243-011/,,In-Person,"Barnard College
+ELEN E3998,PROJECTS IN ELEC ENGINEERING,"May be repeated for credit, but no more than 3 total points may be used for degree credit. Independent project involving laboratory work, computer programming, analytical investigation, or engineering design.
+
+",Zoran Kostic,,,14062,Morningside,E3998-20243-011,PROJECTS IN ELEC ENGINEER,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E3998-20243-011/,,In-Person,"Barnard College
 Columbia College
 Engineering:Undergraduate
 General Studies",0-3,,,20243ELEN3998E011,INDEPENDENT
-ELEN E3998,PROJECTS IN ELEC ENGINEERING,,Peter Kinget,,,14063,Morningside,E3998-20243-010,PROJECTS IN ELEC ENGINEER,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E3998-20243-010/,,In-Person,"Barnard College
+ELEN E3998,PROJECTS IN ELEC ENGINEERING,"May be repeated for credit, but no more than 3 total points may be used for degree credit. Independent project involving laboratory work, computer programming, analytical investigation, or engineering design.
+
+",Peter Kinget,,,14063,Morningside,E3998-20243-010,PROJECTS IN ELEC ENGINEER,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E3998-20243-010/,,In-Person,"Barnard College
 Columbia College
 Engineering:Undergraduate
 General Studies",0-3,,,20243ELEN3998E010,INDEPENDENT
-ELEN E3998,PROJECTS IN ELEC ENGINEERING,,Dion Khodagholy Araghy,,,14064,Morningside,E3998-20243-009,PROJECTS IN ELEC ENGINEER,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E3998-20243-009/,,In-Person,"Barnard College
+ELEN E3998,PROJECTS IN ELEC ENGINEERING,"May be repeated for credit, but no more than 3 total points may be used for degree credit. Independent project involving laboratory work, computer programming, analytical investigation, or engineering design.
+
+",Dion Khodagholy Araghy,,,14064,Morningside,E3998-20243-009,PROJECTS IN ELEC ENGINEER,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E3998-20243-009/,,In-Person,"Barnard College
 Columbia College
 Engineering:Undergraduate
 General Studies",0-3,,,20243ELEN3998E009,INDEPENDENT
-ELEN E3998,PROJECTS IN ELEC ENGINEERING,,Xiaofan Jiang,,,14065,Morningside,E3998-20243-007,PROJECTS IN ELEC ENGINEER,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E3998-20243-007/,,In-Person,"Barnard College
+ELEN E3998,PROJECTS IN ELEC ENGINEERING,"May be repeated for credit, but no more than 3 total points may be used for degree credit. Independent project involving laboratory work, computer programming, analytical investigation, or engineering design.
+
+",Xiaofan Jiang,,,14065,Morningside,E3998-20243-007,PROJECTS IN ELEC ENGINEER,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E3998-20243-007/,,In-Person,"Barnard College
 Columbia College
 Engineering:Undergraduate
 General Studies",0-3,,,20243ELEN3998E007,INDEPENDENT
-ELEN E3998,PROJECTS IN ELEC ENGINEERING,,Javad Ghaderi,,,14066,Morningside,E3998-20243-004,PROJECTS IN ELEC ENGINEER,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E3998-20243-004/,,In-Person,"Barnard College
+ELEN E3998,PROJECTS IN ELEC ENGINEERING,"May be repeated for credit, but no more than 3 total points may be used for degree credit. Independent project involving laboratory work, computer programming, analytical investigation, or engineering design.
+
+",Javad Ghaderi,,,14066,Morningside,E3998-20243-004,PROJECTS IN ELEC ENGINEER,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E3998-20243-004/,,In-Person,"Barnard College
 Columbia College
 Engineering:Undergraduate
 General Studies",0-3,,,20243ELEN3998E004,INDEPENDENT
-ELEN E3998,PROJECTS IN ELEC ENGINEERING,,Christine P Hendon,,,14067,Morningside,E3998-20243-005,PROJECTS IN ELEC ENGINEER,Electrical Engineering,ELEN,https://en.wikipedia.org/wiki/Christine_P._Hendon,https://doc.sis.columbia.edu/subj/ELEN/E3998-20243-005/,,In-Person,"Barnard College
+ELEN E3998,PROJECTS IN ELEC ENGINEERING,"May be repeated for credit, but no more than 3 total points may be used for degree credit. Independent project involving laboratory work, computer programming, analytical investigation, or engineering design.
+
+",Christine P Hendon,,,14067,Morningside,E3998-20243-005,PROJECTS IN ELEC ENGINEER,Electrical Engineering,ELEN,https://en.wikipedia.org/wiki/Christine_P._Hendon,https://doc.sis.columbia.edu/subj/ELEN/E3998-20243-005/,,In-Person,"Barnard College
 Columbia College
 Engineering:Undergraduate
 General Studies",0-3,,,20243ELEN3998E005,INDEPENDENT
-ELEN E3998,PROJECTS IN ELEC ENGINEERING,,Predrag R Jelenkovic,,,14068,Morningside,E3998-20243-006,PROJECTS IN ELEC ENGINEER,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E3998-20243-006/,,In-Person,"Barnard College
+ELEN E3998,PROJECTS IN ELEC ENGINEERING,"May be repeated for credit, but no more than 3 total points may be used for degree credit. Independent project involving laboratory work, computer programming, analytical investigation, or engineering design.
+
+",Predrag R Jelenkovic,,,14068,Morningside,E3998-20243-006,PROJECTS IN ELEC ENGINEER,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E3998-20243-006/,,In-Person,"Barnard College
 Columbia College
 Engineering:Undergraduate
 General Studies",0-3,,,20243ELEN3998E006,INDEPENDENT
-ELEN E4106,Advanced Solid State Devices and Materia,,Savannah Eisner,10:10am,11:25am,14069,Morningside,E4106-20243-001,Adv Solid State Device &,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E4106-20243-001/,To be announced,In-Person,"Barnard College
+ELEN E4106,Advanced Solid State Devices and Materia,"Crystal structure and energy band theory of solids. Carrier concentration and transport in semiconductors. P-n junction and junction transistors. Semiconductor surface and MOS transistors. Optical effects and optoelectronic devices. Fabrication of devices and the effect of process variation and distribution statistics on device and circuit performance. Course shares lectures with ELEN E3106, but the work requirements differ. Undergraduate students are not eligible to register.
+
+",Savannah Eisner,10:10am,11:25am,14069,Morningside,E4106-20243-001,Adv Solid State Device &,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E4106-20243-001/,To be announced,In-Person,"Barnard College
 Columbia College
 Engineering:Graduate
 Engineering:Undergraduate
 GSAS
-General Studies",3,,TR,20243ELEN4106E001,LECTURE
+General Studies",3,ELEN E3106,TR,20243ELEN4106E001,LECTURE
 ELEN E4215,ANALOG FILTER SYNTHESIS/DESIGN,"Approximation techniques for magnitude, phase, and delay specifications, transfer function realization sensitivity, passive LC filters, active RC filters, MOSFET-C filters, Gm-C filters, switched-capacitor filters, automatic tuning techniques for integrated filters. Filter noise. A design project is an integral part of the course.
 
 ",Timothy Dickson,7:00pm,9:30pm,11278,Morningside,E4215-20243-001,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E4215-20243-001/,To be announced,In-Person,"Barnard College
@@ -6575,7 +6645,9 @@ Engineering:Graduate
 Engineering:Undergraduate
 GSAS
 General Studies",3,,R,20243ELEN4488E001,LECTURE
-ELEN E4511,POWER SYSTEMS ANALYSIS,,Damian Sciano,7:00pm,9:30pm,14072,Morningside,E4511-20243-001,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E4511-20243-001/,To be announced,In-Person,"Barnard College
+ELEN E4511,POWER SYSTEMS ANALYSIS,"Modeling of power networks, steady-state and transient behaviors, control and optimization, electricity market, and smart grid.
+
+",Damian Sciano,7:00pm,9:30pm,14072,Morningside,E4511-20243-001,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E4511-20243-001/,To be announced,In-Person,"Barnard College
 Columbia College
 Engineering:Graduate
 Engineering:Undergraduate
@@ -6591,283 +6663,409 @@ Columbia College
 Engineering:Graduate
 Engineering:Undergraduate
 GSAS",3,,M,20243ELEN4810E001,LECTURE
-ELEN E4998,INTERMEDIATE PROJECTS,,Dimitris Anastassiou,,,14073,Morningside,E4998-20243-001,,Electrical Engineering,ELEN,https://en.wikipedia.org/wiki/Dimitris_Anastassiou,https://doc.sis.columbia.edu/subj/ELEN/E4998-20243-001/,,In-Person,"Barnard College
+ELEN E4998,INTERMEDIATE PROJECTS,"May be repeated for credit, but no more than 3 total points may be used for degree credit. Substantial independent project involving laboratory work, computer programming, analytical investigation, or engineering design.
+
+",Dimitris Anastassiou,,,14073,Morningside,E4998-20243-001,,Electrical Engineering,ELEN,https://en.wikipedia.org/wiki/Dimitris_Anastassiou,https://doc.sis.columbia.edu/subj/ELEN/E4998-20243-001/,,In-Person,"Barnard College
 Columbia College
 Engineering:Graduate
 Engineering:Undergraduate
 GSAS
 General Studies",0-3,,,20243ELEN4998E001,INDEPENDENT
-ELEN E4998,INTERMEDIATE PROJECTS,,Keren Bergman,,,14074,Morningside,E4998-20243-002,,Electrical Engineering,ELEN,https://en.wikipedia.org/wiki/Keren_Bergman,https://doc.sis.columbia.edu/subj/ELEN/E4998-20243-002/,,In-Person,"Barnard College
+ELEN E4998,INTERMEDIATE PROJECTS,"May be repeated for credit, but no more than 3 total points may be used for degree credit. Substantial independent project involving laboratory work, computer programming, analytical investigation, or engineering design.
+
+",Keren Bergman,,,14074,Morningside,E4998-20243-002,,Electrical Engineering,ELEN,https://en.wikipedia.org/wiki/Keren_Bergman,https://doc.sis.columbia.edu/subj/ELEN/E4998-20243-002/,,In-Person,"Barnard College
 Columbia College
 Engineering:Graduate
 Engineering:Undergraduate
 GSAS
 General Studies",0-3,,,20243ELEN4998E002,INDEPENDENT
-ELEN E4998,INTERMEDIATE PROJECTS,,Xiaofan Jiang,,,14075,Morningside,E4998-20243-007,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E4998-20243-007/,,In-Person,"Barnard College
+ELEN E4998,INTERMEDIATE PROJECTS,"May be repeated for credit, but no more than 3 total points may be used for degree credit. Substantial independent project involving laboratory work, computer programming, analytical investigation, or engineering design.
+
+",Xiaofan Jiang,,,14075,Morningside,E4998-20243-007,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E4998-20243-007/,,In-Person,"Barnard College
 Columbia College
 Engineering:Graduate
 Engineering:Undergraduate
 GSAS
 General Studies",0-3,,,20243ELEN4998E007,INDEPENDENT
-ELEN E4998,INTERMEDIATE PROJECTS,,Predrag R Jelenkovic,,,14076,Morningside,E4998-20243-006,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E4998-20243-006/,,In-Person,"Barnard College
+ELEN E4998,INTERMEDIATE PROJECTS,"May be repeated for credit, but no more than 3 total points may be used for degree credit. Substantial independent project involving laboratory work, computer programming, analytical investigation, or engineering design.
+
+",Predrag R Jelenkovic,,,14076,Morningside,E4998-20243-006,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E4998-20243-006/,,In-Person,"Barnard College
 Columbia College
 Engineering:Graduate
 Engineering:Undergraduate
 GSAS
 General Studies",0-3,,,20243ELEN4998E006,INDEPENDENT
-ELEN E4998,INTERMEDIATE PROJECTS,,Christine P Hendon,,,14077,Morningside,E4998-20243-005,,Electrical Engineering,ELEN,https://en.wikipedia.org/wiki/Christine_P._Hendon,https://doc.sis.columbia.edu/subj/ELEN/E4998-20243-005/,,In-Person,"Barnard College
+ELEN E4998,INTERMEDIATE PROJECTS,"May be repeated for credit, but no more than 3 total points may be used for degree credit. Substantial independent project involving laboratory work, computer programming, analytical investigation, or engineering design.
+
+",Christine P Hendon,,,14077,Morningside,E4998-20243-005,,Electrical Engineering,ELEN,https://en.wikipedia.org/wiki/Christine_P._Hendon,https://doc.sis.columbia.edu/subj/ELEN/E4998-20243-005/,,In-Person,"Barnard College
 Columbia College
 Engineering:Graduate
 Engineering:Undergraduate
 GSAS
 General Studies",0-3,,,20243ELEN4998E005,INDEPENDENT
-ELEN E4998,INTERMEDIATE PROJECTS,,Javad Ghaderi,,,14078,Morningside,E4998-20243-004,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E4998-20243-004/,,In-Person,"Barnard College
+ELEN E4998,INTERMEDIATE PROJECTS,"May be repeated for credit, but no more than 3 total points may be used for degree credit. Substantial independent project involving laboratory work, computer programming, analytical investigation, or engineering design.
+
+",Javad Ghaderi,,,14078,Morningside,E4998-20243-004,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E4998-20243-004/,,In-Person,"Barnard College
 Columbia College
 Engineering:Graduate
 Engineering:Undergraduate
 GSAS
 General Studies",0-3,,,20243ELEN4998E004,INDEPENDENT
-ELEN E4998,INTERMEDIATE PROJECTS,,Michal Lipson,,,14079,Morningside,E4998-20243-015,,Electrical Engineering,ELEN,https://en.wikipedia.org/wiki/Michal_Lipson,https://doc.sis.columbia.edu/subj/ELEN/E4998-20243-015/,,In-Person,"Barnard College
+ELEN E4998,INTERMEDIATE PROJECTS,"May be repeated for credit, but no more than 3 total points may be used for degree credit. Substantial independent project involving laboratory work, computer programming, analytical investigation, or engineering design.
+
+",Michal Lipson,,,14079,Morningside,E4998-20243-015,,Electrical Engineering,ELEN,https://en.wikipedia.org/wiki/Michal_Lipson,https://doc.sis.columbia.edu/subj/ELEN/E4998-20243-015/,,In-Person,"Barnard College
 Columbia College
 Engineering:Graduate
 Engineering:Undergraduate
 GSAS
 General Studies",0-3,,,20243ELEN4998E015,INDEPENDENT
-ELEN E4998,INTERMEDIATE PROJECTS,,Aurel A Lazar,,,14080,Morningside,E4998-20243-014,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E4998-20243-014/,,In-Person,"Barnard College
+ELEN E4998,INTERMEDIATE PROJECTS,"May be repeated for credit, but no more than 3 total points may be used for degree credit. Substantial independent project involving laboratory work, computer programming, analytical investigation, or engineering design.
+
+",Aurel A Lazar,,,14080,Morningside,E4998-20243-014,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E4998-20243-014/,,In-Person,"Barnard College
 Columbia College
 Engineering:Graduate
 Engineering:Undergraduate
 GSAS
 General Studies",0-3,,,20243ELEN4998E014,INDEPENDENT
-ELEN E4998,INTERMEDIATE PROJECTS,,Ioannis Kymissis,,,14081,Morningside,E4998-20243-013,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E4998-20243-013/,,In-Person,"Barnard College
+ELEN E4998,INTERMEDIATE PROJECTS,"May be repeated for credit, but no more than 3 total points may be used for degree credit. Substantial independent project involving laboratory work, computer programming, analytical investigation, or engineering design.
+
+",Ioannis Kymissis,,,14081,Morningside,E4998-20243-013,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E4998-20243-013/,,In-Person,"Barnard College
 Columbia College
 Engineering:Graduate
 Engineering:Undergraduate
 GSAS
 General Studies",0-3,,,20243ELEN4998E013,INDEPENDENT
-ELEN E4998,INTERMEDIATE PROJECTS,,Harish Krishnaswamy,,,14082,Morningside,E4998-20243-012,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E4998-20243-012/,,In-Person,"Barnard College
+ELEN E4998,INTERMEDIATE PROJECTS,"May be repeated for credit, but no more than 3 total points may be used for degree credit. Substantial independent project involving laboratory work, computer programming, analytical investigation, or engineering design.
+
+",Harish Krishnaswamy,,,14082,Morningside,E4998-20243-012,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E4998-20243-012/,,In-Person,"Barnard College
 Columbia College
 Engineering:Graduate
 Engineering:Undergraduate
 GSAS
 General Studies",0-3,,,20243ELEN4998E012,INDEPENDENT
-ELEN E4998,INTERMEDIATE PROJECTS,,Zoran Kostic,,,14083,Morningside,E4998-20243-011,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E4998-20243-011/,,In-Person,"Barnard College
+ELEN E4998,INTERMEDIATE PROJECTS,"May be repeated for credit, but no more than 3 total points may be used for degree credit. Substantial independent project involving laboratory work, computer programming, analytical investigation, or engineering design.
+
+",Zoran Kostic,,,14083,Morningside,E4998-20243-011,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E4998-20243-011/,,In-Person,"Barnard College
 Columbia College
 Engineering:Graduate
 Engineering:Undergraduate
 GSAS
 General Studies",0-3,,,20243ELEN4998E011,INDEPENDENT
-ELEN E4998,INTERMEDIATE PROJECTS,,Peter Kinget,,,14084,Morningside,E4998-20243-010,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E4998-20243-010/,,In-Person,"Barnard College
+ELEN E4998,INTERMEDIATE PROJECTS,"May be repeated for credit, but no more than 3 total points may be used for degree credit. Substantial independent project involving laboratory work, computer programming, analytical investigation, or engineering design.
+
+",Peter Kinget,,,14084,Morningside,E4998-20243-010,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E4998-20243-010/,,In-Person,"Barnard College
 Columbia College
 Engineering:Graduate
 Engineering:Undergraduate
 GSAS
 General Studies",0-3,,,20243ELEN4998E010,INDEPENDENT
-ELEN E4998,INTERMEDIATE PROJECTS,,Dion Khodagholy Araghy,,,14085,Morningside,E4998-20243-009,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E4998-20243-009/,,In-Person,"Barnard College
+ELEN E4998,INTERMEDIATE PROJECTS,"May be repeated for credit, but no more than 3 total points may be used for degree credit. Substantial independent project involving laboratory work, computer programming, analytical investigation, or engineering design.
+
+",Dion Khodagholy Araghy,,,14085,Morningside,E4998-20243-009,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E4998-20243-009/,,In-Person,"Barnard College
 Columbia College
 Engineering:Graduate
 Engineering:Undergraduate
 GSAS
 General Studies",0-3,,,20243ELEN4998E009,INDEPENDENT
-ELEN E4998,INTERMEDIATE PROJECTS,,Ethan Katz-Bassett,,,14086,Morningside,E4998-20243-008,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E4998-20243-008/,,In-Person,"Barnard College
+ELEN E4998,INTERMEDIATE PROJECTS,"May be repeated for credit, but no more than 3 total points may be used for degree credit. Substantial independent project involving laboratory work, computer programming, analytical investigation, or engineering design.
+
+",Ethan Katz-Bassett,,,14086,Morningside,E4998-20243-008,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E4998-20243-008/,,In-Person,"Barnard College
 Columbia College
 Engineering:Graduate
 Engineering:Undergraduate
 GSAS
 General Studies",0-3,,,20243ELEN4998E008,INDEPENDENT
-ELEN E4998,INTERMEDIATE PROJECTS,,Shih-Fu Chang,,,14087,Morningside,E4998-20243-003,,Electrical Engineering,ELEN,https://en.wikipedia.org/wiki/Shih-Fu_Chang,https://doc.sis.columbia.edu/subj/ELEN/E4998-20243-003/,,In-Person,"Barnard College
+ELEN E4998,INTERMEDIATE PROJECTS,"May be repeated for credit, but no more than 3 total points may be used for degree credit. Substantial independent project involving laboratory work, computer programming, analytical investigation, or engineering design.
+
+",Shih-Fu Chang,,,14087,Morningside,E4998-20243-003,,Electrical Engineering,ELEN,https://en.wikipedia.org/wiki/Shih-Fu_Chang,https://doc.sis.columbia.edu/subj/ELEN/E4998-20243-003/,,In-Person,"Barnard College
 Columbia College
 Engineering:Graduate
 Engineering:Undergraduate
 GSAS
 General Studies",0-3,,,20243ELEN4998E003,INDEPENDENT
-ELEN E4998,INTERMEDIATE PROJECTS,,Nima Mesgarani,,,14088,Morningside,E4998-20243-016,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E4998-20243-016/,,In-Person,"Barnard College
+ELEN E4998,INTERMEDIATE PROJECTS,"May be repeated for credit, but no more than 3 total points may be used for degree credit. Substantial independent project involving laboratory work, computer programming, analytical investigation, or engineering design.
+
+",Nima Mesgarani,,,14088,Morningside,E4998-20243-016,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E4998-20243-016/,,In-Person,"Barnard College
 Columbia College
 Engineering:Graduate
 Engineering:Undergraduate
 GSAS
 General Studies",0-3,,,20243ELEN4998E016,INDEPENDENT
-ELEN E4998,INTERMEDIATE PROJECTS,,James Anderson,,,14089,Morningside,E4998-20243-032,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E4998-20243-032/,,In-Person,"Barnard College
+ELEN E4998,INTERMEDIATE PROJECTS,"May be repeated for credit, but no more than 3 total points may be used for degree credit. Substantial independent project involving laboratory work, computer programming, analytical investigation, or engineering design.
+
+",James Anderson,,,14089,Morningside,E4998-20243-032,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E4998-20243-032/,,In-Person,"Barnard College
 Columbia College
 Engineering:Graduate
 Engineering:Undergraduate
 GSAS
 General Studies",0-3,,,20243ELEN4998E032,INDEPENDENT
-ELEN E4998,INTERMEDIATE PROJECTS,,Gil Zussman,,,14090,Morningside,E4998-20243-029,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E4998-20243-029/,,In-Person,"Barnard College
+ELEN E4998,INTERMEDIATE PROJECTS,"May be repeated for credit, but no more than 3 total points may be used for degree credit. Substantial independent project involving laboratory work, computer programming, analytical investigation, or engineering design.
+
+",Gil Zussman,,,14090,Morningside,E4998-20243-029,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E4998-20243-029/,,In-Person,"Barnard College
 Columbia College
 Engineering:Graduate
 Engineering:Undergraduate
 GSAS
 General Studies",0-3,,,20243ELEN4998E029,INDEPENDENT
-ELEN E4998,INTERMEDIATE PROJECTS,,Debasis Mitra,,,14091,Morningside,E4998-20243-017,,Electrical Engineering,ELEN,https://en.wikipedia.org/wiki/Debasis_Mitra,https://doc.sis.columbia.edu/subj/ELEN/E4998-20243-017/,,In-Person,"Barnard College
+ELEN E4998,INTERMEDIATE PROJECTS,"May be repeated for credit, but no more than 3 total points may be used for degree credit. Substantial independent project involving laboratory work, computer programming, analytical investigation, or engineering design.
+
+",Debasis Mitra,,,14091,Morningside,E4998-20243-017,,Electrical Engineering,ELEN,https://en.wikipedia.org/wiki/Debasis_Mitra,https://doc.sis.columbia.edu/subj/ELEN/E4998-20243-017/,,In-Person,"Barnard College
 Columbia College
 Engineering:Graduate
 Engineering:Undergraduate
 GSAS
 General Studies",0-3,,,20243ELEN4998E017,INDEPENDENT
-ELEN E4998,INTERMEDIATE PROJECTS,,John W Paisley,,,14092,Morningside,E4998-20243-018,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E4998-20243-018/,,In-Person,"Barnard College
+ELEN E4998,INTERMEDIATE PROJECTS,"May be repeated for credit, but no more than 3 total points may be used for degree credit. Substantial independent project involving laboratory work, computer programming, analytical investigation, or engineering design.
+
+",John W Paisley,,,14092,Morningside,E4998-20243-018,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E4998-20243-018/,,In-Person,"Barnard College
 Columbia College
 Engineering:Graduate
 Engineering:Undergraduate
 GSAS
 General Studies",0-3,,,20243ELEN4998E018,INDEPENDENT
-ELEN E4998,INTERMEDIATE PROJECTS,,Matthias Preindl,,,14093,Morningside,E4998-20243-019,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E4998-20243-019/,,In-Person,"Barnard College
+ELEN E4998,INTERMEDIATE PROJECTS,"May be repeated for credit, but no more than 3 total points may be used for degree credit. Substantial independent project involving laboratory work, computer programming, analytical investigation, or engineering design.
+
+",Matthias Preindl,,,14093,Morningside,E4998-20243-019,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E4998-20243-019/,,In-Person,"Barnard College
 Columbia College
 Engineering:Graduate
 Engineering:Undergraduate
 GSAS
 General Studies",0-3,,,20243ELEN4998E019,INDEPENDENT
-ELEN E4998,INTERMEDIATE PROJECTS,,Mingoo Seok,,,14094,Morningside,E4998-20243-020,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E4998-20243-020/,,In-Person,"Barnard College
+ELEN E4998,INTERMEDIATE PROJECTS,"May be repeated for credit, but no more than 3 total points may be used for degree credit. Substantial independent project involving laboratory work, computer programming, analytical investigation, or engineering design.
+
+",Mingoo Seok,,,14094,Morningside,E4998-20243-020,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E4998-20243-020/,,In-Person,"Barnard College
 Columbia College
 Engineering:Graduate
 Engineering:Undergraduate
 GSAS
 General Studies",0-3,,,20243ELEN4998E020,INDEPENDENT
-ELEN E4998,INTERMEDIATE PROJECTS,,Kenneth Shepard,,,14095,Morningside,E4998-20243-021,,Electrical Engineering,ELEN,https://en.wikipedia.org/wiki/Kenneth_L_Shepard,https://doc.sis.columbia.edu/subj/ELEN/E4998-20243-021/,,In-Person,"Barnard College
+ELEN E4998,INTERMEDIATE PROJECTS,"May be repeated for credit, but no more than 3 total points may be used for degree credit. Substantial independent project involving laboratory work, computer programming, analytical investigation, or engineering design.
+
+",Kenneth Shepard,,,14095,Morningside,E4998-20243-021,,Electrical Engineering,ELEN,https://en.wikipedia.org/wiki/Kenneth_L_Shepard,https://doc.sis.columbia.edu/subj/ELEN/E4998-20243-021/,,In-Person,"Barnard College
 Columbia College
 Engineering:Graduate
 Engineering:Undergraduate
 GSAS
 General Studies",0-3,,,20243ELEN4998E021,INDEPENDENT
-ELEN E4998,INTERMEDIATE PROJECTS,,James Teherani,,,14096,Morningside,E4998-20243-022,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E4998-20243-022/,,In-Person,"Barnard College
+ELEN E4998,INTERMEDIATE PROJECTS,"May be repeated for credit, but no more than 3 total points may be used for degree credit. Substantial independent project involving laboratory work, computer programming, analytical investigation, or engineering design.
+
+",James Teherani,,,14096,Morningside,E4998-20243-022,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E4998-20243-022/,,In-Person,"Barnard College
 Columbia College
 Engineering:Graduate
 Engineering:Undergraduate
 GSAS
 General Studies",0-3,,,20243ELEN4998E022,INDEPENDENT
-ELEN E4998,INTERMEDIATE PROJECTS,,Xiaodong Wang,,,14097,Morningside,E4998-20243-026,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E4998-20243-026/,,In-Person,"Barnard College
+ELEN E4998,INTERMEDIATE PROJECTS,"May be repeated for credit, but no more than 3 total points may be used for degree credit. Substantial independent project involving laboratory work, computer programming, analytical investigation, or engineering design.
+
+",Xiaodong Wang,,,14097,Morningside,E4998-20243-026,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E4998-20243-026/,,In-Person,"Barnard College
 Columbia College
 Engineering:Graduate
 Engineering:Undergraduate
 GSAS
 General Studies",0-3,,,20243ELEN4998E026,INDEPENDENT
-ELEN E4998,INTERMEDIATE PROJECTS,,Charles A Zukowski,,,14098,Morningside,E4998-20243-028,,Electrical Engineering,ELEN,https://en.wikipedia.org/wiki/Charles_Zukowski,https://doc.sis.columbia.edu/subj/ELEN/E4998-20243-028/,,In-Person,"Barnard College
+ELEN E4998,INTERMEDIATE PROJECTS,"May be repeated for credit, but no more than 3 total points may be used for degree credit. Substantial independent project involving laboratory work, computer programming, analytical investigation, or engineering design.
+
+",Charles A Zukowski,,,14098,Morningside,E4998-20243-028,,Electrical Engineering,ELEN,https://en.wikipedia.org/wiki/Charles_Zukowski,https://doc.sis.columbia.edu/subj/ELEN/E4998-20243-028/,,In-Person,"Barnard College
 Columbia College
 Engineering:Graduate
 Engineering:Undergraduate
 GSAS
 General Studies",0-3,,,20243ELEN4998E028,INDEPENDENT
-ELEN E4998,INTERMEDIATE PROJECTS,,John Wright,,,14099,Morningside,E4998-20243-027,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E4998-20243-027/,,In-Person,"Barnard College
+ELEN E4998,INTERMEDIATE PROJECTS,"May be repeated for credit, but no more than 3 total points may be used for degree credit. Substantial independent project involving laboratory work, computer programming, analytical investigation, or engineering design.
+
+",John Wright,,,14099,Morningside,E4998-20243-027,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E4998-20243-027/,,In-Person,"Barnard College
 Columbia College
 Engineering:Graduate
 Engineering:Undergraduate
 GSAS
 General Studies",0-3,,,20243ELEN4998E027,INDEPENDENT
-ELEN E4998,INTERMEDIATE PROJECTS,,Wen I Wang,,,14100,Morningside,E4998-20243-025,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E4998-20243-025/,,In-Person,"Barnard College
+ELEN E4998,INTERMEDIATE PROJECTS,"May be repeated for credit, but no more than 3 total points may be used for degree credit. Substantial independent project involving laboratory work, computer programming, analytical investigation, or engineering design.
+
+",Wen I Wang,,,14100,Morningside,E4998-20243-025,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E4998-20243-025/,,In-Person,"Barnard College
 Columbia College
 Engineering:Graduate
 Engineering:Undergraduate
 GSAS
 General Studies",0-3,,,20243ELEN4998E025,INDEPENDENT
-ELEN E4998,INTERMEDIATE PROJECTS,,David G Vallancourt,,,14101,Morningside,E4998-20243-024,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E4998-20243-024/,,In-Person,"Barnard College
+ELEN E4998,INTERMEDIATE PROJECTS,"May be repeated for credit, but no more than 3 total points may be used for degree credit. Substantial independent project involving laboratory work, computer programming, analytical investigation, or engineering design.
+
+",David G Vallancourt,,,14101,Morningside,E4998-20243-024,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E4998-20243-024/,,In-Person,"Barnard College
 Columbia College
 Engineering:Graduate
 Engineering:Undergraduate
 GSAS
 General Studies",0-3,,,20243ELEN4998E024,INDEPENDENT
-ELEN E4998,INTERMEDIATE PROJECTS,,Yannis P Tsividis,,,14102,Morningside,E4998-20243-023,,Electrical Engineering,ELEN,https://en.wikipedia.org/wiki/Yannis_Tsividis,https://doc.sis.columbia.edu/subj/ELEN/E4998-20243-023/,,In-Person,"Barnard College
+ELEN E4998,INTERMEDIATE PROJECTS,"May be repeated for credit, but no more than 3 total points may be used for degree credit. Substantial independent project involving laboratory work, computer programming, analytical investigation, or engineering design.
+
+",Yannis P Tsividis,,,14102,Morningside,E4998-20243-023,,Electrical Engineering,ELEN,https://en.wikipedia.org/wiki/Yannis_Tsividis,https://doc.sis.columbia.edu/subj/ELEN/E4998-20243-023/,,In-Person,"Barnard College
 Columbia College
 Engineering:Graduate
 Engineering:Undergraduate
 GSAS
 General Studies",0-3,,,20243ELEN4998E023,INDEPENDENT
-ELEN E6001,ADVANCED PROJECTS,,Dimitris Anastassiou,,,14103,Morningside,E6001-20243-001,,Electrical Engineering,ELEN,https://en.wikipedia.org/wiki/Dimitris_Anastassiou,https://doc.sis.columbia.edu/subj/ELEN/E6001-20243-001/,,In-Person,"Engineering:Graduate
+ELEN E6001,ADVANCED PROJECTS,"May be repeated for up to 6 points of credit. Graduate-level projects in various areas of electrical engineering and computer science. In consultation with an instructor, each student designs his or her project depending on the students previous training and experience. Students should consult with a professor in their area for detailed arrangements no later than the last day of registration.
+
+",Dimitris Anastassiou,,,14103,Morningside,E6001-20243-001,,Electrical Engineering,ELEN,https://en.wikipedia.org/wiki/Dimitris_Anastassiou,https://doc.sis.columbia.edu/subj/ELEN/E6001-20243-001/,,In-Person,"Engineering:Graduate
 Engineering:Undergraduate
 GSAS",1-4,,,20243ELEN6001E001,INDEPENDENT
-ELEN E6001,ADVANCED PROJECTS,,Keren Bergman,,,14104,Morningside,E6001-20243-002,,Electrical Engineering,ELEN,https://en.wikipedia.org/wiki/Keren_Bergman,https://doc.sis.columbia.edu/subj/ELEN/E6001-20243-002/,,In-Person,"Engineering:Graduate
+ELEN E6001,ADVANCED PROJECTS,"May be repeated for up to 6 points of credit. Graduate-level projects in various areas of electrical engineering and computer science. In consultation with an instructor, each student designs his or her project depending on the students previous training and experience. Students should consult with a professor in their area for detailed arrangements no later than the last day of registration.
+
+",Keren Bergman,,,14104,Morningside,E6001-20243-002,,Electrical Engineering,ELEN,https://en.wikipedia.org/wiki/Keren_Bergman,https://doc.sis.columbia.edu/subj/ELEN/E6001-20243-002/,,In-Person,"Engineering:Graduate
 Engineering:Undergraduate
 GSAS",1-4,,,20243ELEN6001E002,INDEPENDENT
-ELEN E6001,ADVANCED PROJECTS,,Shih-Fu Chang,,,14105,Morningside,E6001-20243-003,,Electrical Engineering,ELEN,https://en.wikipedia.org/wiki/Shih-Fu_Chang,https://doc.sis.columbia.edu/subj/ELEN/E6001-20243-003/,,In-Person,"Engineering:Graduate
+ELEN E6001,ADVANCED PROJECTS,"May be repeated for up to 6 points of credit. Graduate-level projects in various areas of electrical engineering and computer science. In consultation with an instructor, each student designs his or her project depending on the students previous training and experience. Students should consult with a professor in their area for detailed arrangements no later than the last day of registration.
+
+",Shih-Fu Chang,,,14105,Morningside,E6001-20243-003,,Electrical Engineering,ELEN,https://en.wikipedia.org/wiki/Shih-Fu_Chang,https://doc.sis.columbia.edu/subj/ELEN/E6001-20243-003/,,In-Person,"Engineering:Graduate
 Engineering:Undergraduate
 GSAS",1-4,,,20243ELEN6001E003,INDEPENDENT
-ELEN E6001,ADVANCED PROJECTS,,Asaf Cidon,,,14106,Morningside,E6001-20243-033,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E6001-20243-033/,,In-Person,"Engineering:Graduate
+ELEN E6001,ADVANCED PROJECTS,"May be repeated for up to 6 points of credit. Graduate-level projects in various areas of electrical engineering and computer science. In consultation with an instructor, each student designs his or her project depending on the students previous training and experience. Students should consult with a professor in their area for detailed arrangements no later than the last day of registration.
+
+",Asaf Cidon,,,14106,Morningside,E6001-20243-033,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E6001-20243-033/,,In-Person,"Engineering:Graduate
 Engineering:Undergraduate
 GSAS",1-4,,,20243ELEN6001E033,INDEPENDENT
-ELEN E6001,ADVANCED PROJECTS,,James Anderson,,,14107,Morningside,E6001-20243-032,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E6001-20243-032/,,In-Person,"Engineering:Graduate
+ELEN E6001,ADVANCED PROJECTS,"May be repeated for up to 6 points of credit. Graduate-level projects in various areas of electrical engineering and computer science. In consultation with an instructor, each student designs his or her project depending on the students previous training and experience. Students should consult with a professor in their area for detailed arrangements no later than the last day of registration.
+
+",James Anderson,,,14107,Morningside,E6001-20243-032,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E6001-20243-032/,,In-Person,"Engineering:Graduate
 Engineering:Undergraduate
 GSAS",1-4,,,20243ELEN6001E032,INDEPENDENT
-ELEN E6001,ADVANCED PROJECTS,,Paul Sajda,,,14108,Morningside,E6001-20243-031,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E6001-20243-031/,,In-Person,"Engineering:Graduate
+ELEN E6001,ADVANCED PROJECTS,"May be repeated for up to 6 points of credit. Graduate-level projects in various areas of electrical engineering and computer science. In consultation with an instructor, each student designs his or her project depending on the students previous training and experience. Students should consult with a professor in their area for detailed arrangements no later than the last day of registration.
+
+",Paul Sajda,,,14108,Morningside,E6001-20243-031,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E6001-20243-031/,,In-Person,"Engineering:Graduate
 Engineering:Undergraduate
 GSAS",1-4,,,20243ELEN6001E031,INDEPENDENT
-ELEN E6001,ADVANCED PROJECTS,,Alexander Gaeta,,,14109,Morningside,E6001-20243-030,,Electrical Engineering,ELEN,https://en.wikipedia.org/wiki/Alexander_Gaeta,https://doc.sis.columbia.edu/subj/ELEN/E6001-20243-030/,,In-Person,"Engineering:Graduate
+ELEN E6001,ADVANCED PROJECTS,"May be repeated for up to 6 points of credit. Graduate-level projects in various areas of electrical engineering and computer science. In consultation with an instructor, each student designs his or her project depending on the students previous training and experience. Students should consult with a professor in their area for detailed arrangements no later than the last day of registration.
+
+",Alexander Gaeta,,,14109,Morningside,E6001-20243-030,,Electrical Engineering,ELEN,https://en.wikipedia.org/wiki/Alexander_Gaeta,https://doc.sis.columbia.edu/subj/ELEN/E6001-20243-030/,,In-Person,"Engineering:Graduate
 Engineering:Undergraduate
 GSAS",1-4,,,20243ELEN6001E030,INDEPENDENT
-ELEN E6001,ADVANCED PROJECTS,,Gil Zussman,,,14110,Morningside,E6001-20243-029,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E6001-20243-029/,,In-Person,"Engineering:Graduate
+ELEN E6001,ADVANCED PROJECTS,"May be repeated for up to 6 points of credit. Graduate-level projects in various areas of electrical engineering and computer science. In consultation with an instructor, each student designs his or her project depending on the students previous training and experience. Students should consult with a professor in their area for detailed arrangements no later than the last day of registration.
+
+",Gil Zussman,,,14110,Morningside,E6001-20243-029,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E6001-20243-029/,,In-Person,"Engineering:Graduate
 Engineering:Undergraduate
 GSAS",1-4,,,20243ELEN6001E029,INDEPENDENT
-ELEN E6001,ADVANCED PROJECTS,,Charles A Zukowski,,,14111,Morningside,E6001-20243-028,,Electrical Engineering,ELEN,https://en.wikipedia.org/wiki/Charles_Zukowski,https://doc.sis.columbia.edu/subj/ELEN/E6001-20243-028/,,In-Person,"Engineering:Graduate
+ELEN E6001,ADVANCED PROJECTS,"May be repeated for up to 6 points of credit. Graduate-level projects in various areas of electrical engineering and computer science. In consultation with an instructor, each student designs his or her project depending on the students previous training and experience. Students should consult with a professor in their area for detailed arrangements no later than the last day of registration.
+
+",Charles A Zukowski,,,14111,Morningside,E6001-20243-028,,Electrical Engineering,ELEN,https://en.wikipedia.org/wiki/Charles_Zukowski,https://doc.sis.columbia.edu/subj/ELEN/E6001-20243-028/,,In-Person,"Engineering:Graduate
 Engineering:Undergraduate
 GSAS",1-4,,,20243ELEN6001E028,INDEPENDENT
-ELEN E6001,ADVANCED PROJECTS,,John Wright,,,14112,Morningside,E6001-20243-027,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E6001-20243-027/,,In-Person,"Engineering:Graduate
+ELEN E6001,ADVANCED PROJECTS,"May be repeated for up to 6 points of credit. Graduate-level projects in various areas of electrical engineering and computer science. In consultation with an instructor, each student designs his or her project depending on the students previous training and experience. Students should consult with a professor in their area for detailed arrangements no later than the last day of registration.
+
+",John Wright,,,14112,Morningside,E6001-20243-027,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E6001-20243-027/,,In-Person,"Engineering:Graduate
 Engineering:Undergraduate
 GSAS",1-4,,,20243ELEN6001E027,INDEPENDENT
-ELEN E6001,ADVANCED PROJECTS,,Xiaodong Wang,,,14113,Morningside,E6001-20243-026,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E6001-20243-026/,,In-Person,"Engineering:Graduate
+ELEN E6001,ADVANCED PROJECTS,"May be repeated for up to 6 points of credit. Graduate-level projects in various areas of electrical engineering and computer science. In consultation with an instructor, each student designs his or her project depending on the students previous training and experience. Students should consult with a professor in their area for detailed arrangements no later than the last day of registration.
+
+",Xiaodong Wang,,,14113,Morningside,E6001-20243-026,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E6001-20243-026/,,In-Person,"Engineering:Graduate
 Engineering:Undergraduate
 GSAS",1-4,,,20243ELEN6001E026,INDEPENDENT
-ELEN E6001,ADVANCED PROJECTS,,Wen I Wang,,,14114,Morningside,E6001-20243-025,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E6001-20243-025/,,In-Person,"Engineering:Graduate
+ELEN E6001,ADVANCED PROJECTS,"May be repeated for up to 6 points of credit. Graduate-level projects in various areas of electrical engineering and computer science. In consultation with an instructor, each student designs his or her project depending on the students previous training and experience. Students should consult with a professor in their area for detailed arrangements no later than the last day of registration.
+
+",Wen I Wang,,,14114,Morningside,E6001-20243-025,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E6001-20243-025/,,In-Person,"Engineering:Graduate
 Engineering:Undergraduate
 GSAS",1-4,,,20243ELEN6001E025,INDEPENDENT
-ELEN E6001,ADVANCED PROJECTS,,David G Vallancourt,,,14115,Morningside,E6001-20243-024,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E6001-20243-024/,,In-Person,"Engineering:Graduate
+ELEN E6001,ADVANCED PROJECTS,"May be repeated for up to 6 points of credit. Graduate-level projects in various areas of electrical engineering and computer science. In consultation with an instructor, each student designs his or her project depending on the students previous training and experience. Students should consult with a professor in their area for detailed arrangements no later than the last day of registration.
+
+",David G Vallancourt,,,14115,Morningside,E6001-20243-024,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E6001-20243-024/,,In-Person,"Engineering:Graduate
 Engineering:Undergraduate
 GSAS",1-4,,,20243ELEN6001E024,INDEPENDENT
-ELEN E6001,ADVANCED PROJECTS,,Yannis P Tsividis,,,14116,Morningside,E6001-20243-023,,Electrical Engineering,ELEN,https://en.wikipedia.org/wiki/Yannis_Tsividis,https://doc.sis.columbia.edu/subj/ELEN/E6001-20243-023/,,In-Person,"Engineering:Graduate
+ELEN E6001,ADVANCED PROJECTS,"May be repeated for up to 6 points of credit. Graduate-level projects in various areas of electrical engineering and computer science. In consultation with an instructor, each student designs his or her project depending on the students previous training and experience. Students should consult with a professor in their area for detailed arrangements no later than the last day of registration.
+
+",Yannis P Tsividis,,,14116,Morningside,E6001-20243-023,,Electrical Engineering,ELEN,https://en.wikipedia.org/wiki/Yannis_Tsividis,https://doc.sis.columbia.edu/subj/ELEN/E6001-20243-023/,,In-Person,"Engineering:Graduate
 Engineering:Undergraduate
 GSAS",1-4,,,20243ELEN6001E023,INDEPENDENT
-ELEN E6001,ADVANCED PROJECTS,,James Teherani,,,14117,Morningside,E6001-20243-022,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E6001-20243-022/,,In-Person,"Engineering:Graduate
+ELEN E6001,ADVANCED PROJECTS,"May be repeated for up to 6 points of credit. Graduate-level projects in various areas of electrical engineering and computer science. In consultation with an instructor, each student designs his or her project depending on the students previous training and experience. Students should consult with a professor in their area for detailed arrangements no later than the last day of registration.
+
+",James Teherani,,,14117,Morningside,E6001-20243-022,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E6001-20243-022/,,In-Person,"Engineering:Graduate
 Engineering:Undergraduate
 GSAS",1-4,,,20243ELEN6001E022,INDEPENDENT
-ELEN E6001,ADVANCED PROJECTS,,Kenneth Shepard,,,14118,Morningside,E6001-20243-021,,Electrical Engineering,ELEN,https://en.wikipedia.org/wiki/Kenneth_L_Shepard,https://doc.sis.columbia.edu/subj/ELEN/E6001-20243-021/,,In-Person,"Engineering:Graduate
+ELEN E6001,ADVANCED PROJECTS,"May be repeated for up to 6 points of credit. Graduate-level projects in various areas of electrical engineering and computer science. In consultation with an instructor, each student designs his or her project depending on the students previous training and experience. Students should consult with a professor in their area for detailed arrangements no later than the last day of registration.
+
+",Kenneth Shepard,,,14118,Morningside,E6001-20243-021,,Electrical Engineering,ELEN,https://en.wikipedia.org/wiki/Kenneth_L_Shepard,https://doc.sis.columbia.edu/subj/ELEN/E6001-20243-021/,,In-Person,"Engineering:Graduate
 Engineering:Undergraduate
 GSAS",1-4,,,20243ELEN6001E021,INDEPENDENT
-ELEN E6001,ADVANCED PROJECTS,,Mingoo Seok,,,14119,Morningside,E6001-20243-020,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E6001-20243-020/,,In-Person,"Engineering:Graduate
+ELEN E6001,ADVANCED PROJECTS,"May be repeated for up to 6 points of credit. Graduate-level projects in various areas of electrical engineering and computer science. In consultation with an instructor, each student designs his or her project depending on the students previous training and experience. Students should consult with a professor in their area for detailed arrangements no later than the last day of registration.
+
+",Mingoo Seok,,,14119,Morningside,E6001-20243-020,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E6001-20243-020/,,In-Person,"Engineering:Graduate
 Engineering:Undergraduate
 GSAS",1-4,,,20243ELEN6001E020,INDEPENDENT
-ELEN E6001,ADVANCED PROJECTS,,Matthias Preindl,,,14120,Morningside,E6001-20243-019,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E6001-20243-019/,,In-Person,"Engineering:Graduate
+ELEN E6001,ADVANCED PROJECTS,"May be repeated for up to 6 points of credit. Graduate-level projects in various areas of electrical engineering and computer science. In consultation with an instructor, each student designs his or her project depending on the students previous training and experience. Students should consult with a professor in their area for detailed arrangements no later than the last day of registration.
+
+",Matthias Preindl,,,14120,Morningside,E6001-20243-019,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E6001-20243-019/,,In-Person,"Engineering:Graduate
 Engineering:Undergraduate
 GSAS",1-4,,,20243ELEN6001E019,INDEPENDENT
-ELEN E6001,ADVANCED PROJECTS,,Javad Ghaderi,,,14121,Morningside,E6001-20243-004,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E6001-20243-004/,,In-Person,"Engineering:Graduate
+ELEN E6001,ADVANCED PROJECTS,"May be repeated for up to 6 points of credit. Graduate-level projects in various areas of electrical engineering and computer science. In consultation with an instructor, each student designs his or her project depending on the students previous training and experience. Students should consult with a professor in their area for detailed arrangements no later than the last day of registration.
+
+",Javad Ghaderi,,,14121,Morningside,E6001-20243-004,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E6001-20243-004/,,In-Person,"Engineering:Graduate
 Engineering:Undergraduate
 GSAS",1-4,,,20243ELEN6001E004,INDEPENDENT
-ELEN E6001,ADVANCED PROJECTS,,Christine P Hendon,,,14122,Morningside,E6001-20243-005,,Electrical Engineering,ELEN,https://en.wikipedia.org/wiki/Christine_P._Hendon,https://doc.sis.columbia.edu/subj/ELEN/E6001-20243-005/,,In-Person,"Engineering:Graduate
+ELEN E6001,ADVANCED PROJECTS,"May be repeated for up to 6 points of credit. Graduate-level projects in various areas of electrical engineering and computer science. In consultation with an instructor, each student designs his or her project depending on the students previous training and experience. Students should consult with a professor in their area for detailed arrangements no later than the last day of registration.
+
+",Christine P Hendon,,,14122,Morningside,E6001-20243-005,,Electrical Engineering,ELEN,https://en.wikipedia.org/wiki/Christine_P._Hendon,https://doc.sis.columbia.edu/subj/ELEN/E6001-20243-005/,,In-Person,"Engineering:Graduate
 Engineering:Undergraduate
 GSAS",1-4,,,20243ELEN6001E005,INDEPENDENT
-ELEN E6001,ADVANCED PROJECTS,,Predrag R Jelenkovic,,,14123,Morningside,E6001-20243-006,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E6001-20243-006/,,In-Person,"Engineering:Graduate
+ELEN E6001,ADVANCED PROJECTS,"May be repeated for up to 6 points of credit. Graduate-level projects in various areas of electrical engineering and computer science. In consultation with an instructor, each student designs his or her project depending on the students previous training and experience. Students should consult with a professor in their area for detailed arrangements no later than the last day of registration.
+
+",Predrag R Jelenkovic,,,14123,Morningside,E6001-20243-006,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E6001-20243-006/,,In-Person,"Engineering:Graduate
 Engineering:Undergraduate
 GSAS",1-4,,,20243ELEN6001E006,INDEPENDENT
-ELEN E6001,ADVANCED PROJECTS,,Xiaofan Jiang,,,14124,Morningside,E6001-20243-007,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E6001-20243-007/,,In-Person,"Engineering:Graduate
+ELEN E6001,ADVANCED PROJECTS,"May be repeated for up to 6 points of credit. Graduate-level projects in various areas of electrical engineering and computer science. In consultation with an instructor, each student designs his or her project depending on the students previous training and experience. Students should consult with a professor in their area for detailed arrangements no later than the last day of registration.
+
+",Xiaofan Jiang,,,14124,Morningside,E6001-20243-007,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E6001-20243-007/,,In-Person,"Engineering:Graduate
 Engineering:Undergraduate
 GSAS",1-4,,,20243ELEN6001E007,INDEPENDENT
-ELEN E6001,ADVANCED PROJECTS,,Ethan Katz-Bassett,,,14125,Morningside,E6001-20243-008,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E6001-20243-008/,,In-Person,"Engineering:Graduate
+ELEN E6001,ADVANCED PROJECTS,"May be repeated for up to 6 points of credit. Graduate-level projects in various areas of electrical engineering and computer science. In consultation with an instructor, each student designs his or her project depending on the students previous training and experience. Students should consult with a professor in their area for detailed arrangements no later than the last day of registration.
+
+",Ethan Katz-Bassett,,,14125,Morningside,E6001-20243-008,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E6001-20243-008/,,In-Person,"Engineering:Graduate
 Engineering:Undergraduate
 GSAS",1-4,,,20243ELEN6001E008,INDEPENDENT
-ELEN E6001,ADVANCED PROJECTS,,Dion Khodagholy Araghy,,,14126,Morningside,E6001-20243-009,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E6001-20243-009/,,In-Person,"Engineering:Graduate
+ELEN E6001,ADVANCED PROJECTS,"May be repeated for up to 6 points of credit. Graduate-level projects in various areas of electrical engineering and computer science. In consultation with an instructor, each student designs his or her project depending on the students previous training and experience. Students should consult with a professor in their area for detailed arrangements no later than the last day of registration.
+
+",Dion Khodagholy Araghy,,,14126,Morningside,E6001-20243-009,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E6001-20243-009/,,In-Person,"Engineering:Graduate
 Engineering:Undergraduate
 GSAS",1-4,,,20243ELEN6001E009,INDEPENDENT
-ELEN E6001,ADVANCED PROJECTS,,Peter Kinget,,,14127,Morningside,E6001-20243-010,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E6001-20243-010/,,In-Person,"Engineering:Graduate
+ELEN E6001,ADVANCED PROJECTS,"May be repeated for up to 6 points of credit. Graduate-level projects in various areas of electrical engineering and computer science. In consultation with an instructor, each student designs his or her project depending on the students previous training and experience. Students should consult with a professor in their area for detailed arrangements no later than the last day of registration.
+
+",Peter Kinget,,,14127,Morningside,E6001-20243-010,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E6001-20243-010/,,In-Person,"Engineering:Graduate
 Engineering:Undergraduate
 GSAS",1-4,,,20243ELEN6001E010,INDEPENDENT
-ELEN E6001,ADVANCED PROJECTS,,Zoran Kostic,,,14128,Morningside,E6001-20243-011,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E6001-20243-011/,,In-Person,"Engineering:Graduate
+ELEN E6001,ADVANCED PROJECTS,"May be repeated for up to 6 points of credit. Graduate-level projects in various areas of electrical engineering and computer science. In consultation with an instructor, each student designs his or her project depending on the students previous training and experience. Students should consult with a professor in their area for detailed arrangements no later than the last day of registration.
+
+",Zoran Kostic,,,14128,Morningside,E6001-20243-011,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E6001-20243-011/,,In-Person,"Engineering:Graduate
 Engineering:Undergraduate
 GSAS",1-4,,,20243ELEN6001E011,INDEPENDENT
-ELEN E6001,ADVANCED PROJECTS,,Aurel A Lazar,,,14129,Morningside,E6001-20243-014,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E6001-20243-014/,,In-Person,"Engineering:Graduate
+ELEN E6001,ADVANCED PROJECTS,"May be repeated for up to 6 points of credit. Graduate-level projects in various areas of electrical engineering and computer science. In consultation with an instructor, each student designs his or her project depending on the students previous training and experience. Students should consult with a professor in their area for detailed arrangements no later than the last day of registration.
+
+",Aurel A Lazar,,,14129,Morningside,E6001-20243-014,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E6001-20243-014/,,In-Person,"Engineering:Graduate
 Engineering:Undergraduate
 GSAS",1-4,,,20243ELEN6001E014,INDEPENDENT
-ELEN E6001,ADVANCED PROJECTS,,Ioannis Kymissis,,,14130,Morningside,E6001-20243-013,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E6001-20243-013/,,In-Person,"Engineering:Graduate
+ELEN E6001,ADVANCED PROJECTS,"May be repeated for up to 6 points of credit. Graduate-level projects in various areas of electrical engineering and computer science. In consultation with an instructor, each student designs his or her project depending on the students previous training and experience. Students should consult with a professor in their area for detailed arrangements no later than the last day of registration.
+
+",Ioannis Kymissis,,,14130,Morningside,E6001-20243-013,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E6001-20243-013/,,In-Person,"Engineering:Graduate
 Engineering:Undergraduate
 GSAS",1-4,,,20243ELEN6001E013,INDEPENDENT
-ELEN E6001,ADVANCED PROJECTS,,Harish Krishnaswamy,,,14131,Morningside,E6001-20243-012,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E6001-20243-012/,,In-Person,"Engineering:Graduate
+ELEN E6001,ADVANCED PROJECTS,"May be repeated for up to 6 points of credit. Graduate-level projects in various areas of electrical engineering and computer science. In consultation with an instructor, each student designs his or her project depending on the students previous training and experience. Students should consult with a professor in their area for detailed arrangements no later than the last day of registration.
+
+",Harish Krishnaswamy,,,14131,Morningside,E6001-20243-012,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E6001-20243-012/,,In-Person,"Engineering:Graduate
 Engineering:Undergraduate
 GSAS",1-4,,,20243ELEN6001E012,INDEPENDENT
-ELEN E6001,ADVANCED PROJECTS,,John W Paisley,,,14132,Morningside,E6001-20243-018,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E6001-20243-018/,,In-Person,"Engineering:Graduate
+ELEN E6001,ADVANCED PROJECTS,"May be repeated for up to 6 points of credit. Graduate-level projects in various areas of electrical engineering and computer science. In consultation with an instructor, each student designs his or her project depending on the students previous training and experience. Students should consult with a professor in their area for detailed arrangements no later than the last day of registration.
+
+",John W Paisley,,,14132,Morningside,E6001-20243-018,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E6001-20243-018/,,In-Person,"Engineering:Graduate
 Engineering:Undergraduate
 GSAS",1-4,,,20243ELEN6001E018,INDEPENDENT
-ELEN E6001,ADVANCED PROJECTS,,Debasis Mitra,,,14133,Morningside,E6001-20243-017,,Electrical Engineering,ELEN,https://en.wikipedia.org/wiki/Debasis_Mitra,https://doc.sis.columbia.edu/subj/ELEN/E6001-20243-017/,,In-Person,"Engineering:Graduate
+ELEN E6001,ADVANCED PROJECTS,"May be repeated for up to 6 points of credit. Graduate-level projects in various areas of electrical engineering and computer science. In consultation with an instructor, each student designs his or her project depending on the students previous training and experience. Students should consult with a professor in their area for detailed arrangements no later than the last day of registration.
+
+",Debasis Mitra,,,14133,Morningside,E6001-20243-017,,Electrical Engineering,ELEN,https://en.wikipedia.org/wiki/Debasis_Mitra,https://doc.sis.columbia.edu/subj/ELEN/E6001-20243-017/,,In-Person,"Engineering:Graduate
 Engineering:Undergraduate
 GSAS",1-4,,,20243ELEN6001E017,INDEPENDENT
-ELEN E6001,ADVANCED PROJECTS,,Nima Mesgarani,,,14134,Morningside,E6001-20243-016,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E6001-20243-016/,,In-Person,"Engineering:Graduate
+ELEN E6001,ADVANCED PROJECTS,"May be repeated for up to 6 points of credit. Graduate-level projects in various areas of electrical engineering and computer science. In consultation with an instructor, each student designs his or her project depending on the students previous training and experience. Students should consult with a professor in their area for detailed arrangements no later than the last day of registration.
+
+",Nima Mesgarani,,,14134,Morningside,E6001-20243-016,,Electrical Engineering,ELEN,,https://doc.sis.columbia.edu/subj/ELEN/E6001-20243-016/,,In-Person,"Engineering:Graduate
 Engineering:Undergraduate
 GSAS",1-4,,,20243ELEN6001E016,INDEPENDENT
-ELEN E6001,ADVANCED PROJECTS,,Michal Lipson,,,14135,Morningside,E6001-20243-015,,Electrical Engineering,ELEN,https://en.wikipedia.org/wiki/Michal_Lipson,https://doc.sis.columbia.edu/subj/ELEN/E6001-20243-015/,,In-Person,"Engineering:Graduate
+ELEN E6001,ADVANCED PROJECTS,"May be repeated for up to 6 points of credit. Graduate-level projects in various areas of electrical engineering and computer science. In consultation with an instructor, each student designs his or her project depending on the students previous training and experience. Students should consult with a professor in their area for detailed arrangements no later than the last day of registration.
+
+",Michal Lipson,,,14135,Morningside,E6001-20243-015,,Electrical Engineering,ELEN,https://en.wikipedia.org/wiki/Michal_Lipson,https://doc.sis.columbia.edu/subj/ELEN/E6001-20243-015/,,In-Person,"Engineering:Graduate
 Engineering:Undergraduate
 GSAS",1-4,,,20243ELEN6001E015,INDEPENDENT
 ELEN E6320,MILLIMETER-WAVE IC DESIGN,"Principles behind the implementation of millimeter-wave (30GHz-300GHz) wireless circuits and systems in silicon-based technologies. Silicon-based active and passive devices for millimeter-wave operation, millimeter-wave low-noise amplifiers, power amplifiers, oscillators and VCOs, oscillator phase noise theory, mixers and frequency dividers for PLLs. A design project is an integral part of the course.
@@ -9998,6 +10196,7 @@ Each class meeting will include a complete screening of an Israeli feature film,
 All readings are in English. All feature films and film clips are in Hebrew (some include Arabic), and will be presented with English subtitles. Students fluent in Hebrew and Arabic are encouraged to interpret the dialogue for additional meaning that may not be translated in the subtitles.
 
 ",Stuart Weinstock,10:00am,1:45pm,11261,Morningside,W4145-20243-001,,Institute for Israel & Jewish Studies,JWST,,https://doc.sis.columbia.edu/subj/JWST/W4145-20243-001/,To be announced,In-Person,,3,,T,20243JWST4145W001,FILM SCREENI
+JWST GU4147,Between Tradition & Innovation: Readings,,Elly Moseson,4:10pm,6:00pm,14137,Morningside,W4147-20243-001,Between Tradition & Innov,Institute for Israel & Jewish Studies,JWST,,https://doc.sis.columbia.edu/subj/JWST/W4147-20243-001/,To be announced,In-Person,,3,,M,20243JWST4147W001,SEMINAR
 JWST GU4152,Antisemitism in U.S. History,"What is antisemitism? How and in what contexts has it appeared in the United States? How, if at all, does it resemble other forms of white nationalism? This course addresses these questions through analysis of anti-Jewish discrimination in the United States between the colonial period and the present, exploring different thematic dimensions of anti-Jewish bigotry, discrimination, and violence. Probing anti-Jewish practices and discourses, you will learn to identify representations of Jews as “others;” determine the origins and sources of anti-Jewish sentiments and policies; analyze similarities and differences between anti-Jewish bigotry and racism and xenophobia; and consider how, if at all, expressions of antisemitism have changed over time in the United States.
 
 ",Brittany Tevis,2:10pm,4:00pm,10734,Morningside,W4152-20243-001,Antisemitism in U.S. Hist,Institute for Israel & Jewish Studies,JWST,,https://doc.sis.columbia.edu/subj/JWST/W4152-20243-001/,To be announced,In-Person,,4,,T,20243JWST4152W001,SEMINAR
@@ -11877,6 +12076,7 @@ GSAS",3,,T,20243PLAN8900A001,COLLOQUIA
 PLAN A8902,DOCTORAL COLLOQUIUM III,"The colloquium, brings together all students at the same level within the Ph.D. program and enriches the work of defining the dissertation topic and subsequent research and writing.
 ",Tom Slater,11:00am,1:00pm,10898,Morningside,A8902-20243-001,,"Architecture, Planning and Preservation",PLAN,,https://doc.sis.columbia.edu/subj/PLAN/A8902-20243-001/,To be announced,In-Person,"Architecture
 GSAS",3,,T,20243PLAN8902A001,COLLOQUIA
+PLCE GU4444,The Future City: Transforming Urban Infr,,,1:00pm,3:00pm,14136,Morningside,W4444-20243-001,Future City: Transform Ur,"Architecture, Planning and Preservation",PLCE,,https://doc.sis.columbia.edu/subj/PLCE/W4444-20243-001/,To be announced,In-Person,,3,,T,20243PLCE4444W001,LECTURE
 POLI GU4101,ADVANCED POLISH,"Prerequisites: two years of college Polish or the instructor's permission. Extensive readings from 19th- and 20th-century texts in the original. Both fiction and nonfiction, with emphasis depending on the interests and needs of individual students.
 
 ",Christopher Caes,1:10pm,2:25pm,10756,Morningside,W4101-20243-001,,Slavic Languages,POLI,,https://doc.sis.columbia.edu/subj/POLI/W4101-20243-001/,To be announced,In-Person,,3,,TR,20243POLI4101W001,LANGUAGE
@@ -13635,7 +13835,7 @@ Best practice in energy management will always involve some level of complex eng
 
 ",Thomas Sahagian,6:10pm,8:00pm,12031,Morningside,K5135-20243-001,ANALYSIS FOR ENERGY EFFIC,Sustainability Management,SUMA,,https://doc.sis.columbia.edu/subj/SUMA/K5135-20243-001/,To be announced,In-Person,Professional Studies,3,,T,20243SUMA5135K001,LECTURE
 SUMA PS5142,SUSTAINABLE FINANCE,,Bruce Kahn,6:10pm,8:00pm,12032,Morningside,K5142-20243-001,,Sustainability Management,SUMA,,https://doc.sis.columbia.edu/subj/SUMA/K5142-20243-001/,To be announced,In-Person,Professional Studies,3,,M,20243SUMA5142K001,LECTURE
-SUMA PS5150,ENERGY AND SUSTAINABLE DEVELOPMENT,,Rhiannon N Gulick,6:10pm,8:00pm,12033,Morningside,K5150-20243-001,ENERGY AND SUST DEVELOPMENT,Sustainability Management,SUMA,,https://doc.sis.columbia.edu/subj/SUMA/K5150-20243-001/,To be announced,In-Person,Professional Studies,3,,T,20243SUMA5150K001,LECTURE
+SUMA PS5150,ENERGY AND SUSTAINABLE DEVELOPMENT,,,6:10pm,8:00pm,12033,Morningside,K5150-20243-001,ENERGY AND SUST DEVELOPMENT,Sustainability Management,SUMA,,https://doc.sis.columbia.edu/subj/SUMA/K5150-20243-001/,To be announced,In-Person,Professional Studies,3,,T,20243SUMA5150K001,LECTURE
 SUMA PS5160,Climate Finance and Sustainable Developm,"The course provides an overview of the opportunities and challenges of transnational financing from public and private sources that seeks to support mitigation and adaptation investments intended to address climate change. Although there is increased and widespread commitment to taking climate action on the part of corporations, financial institutions, countries and sub-national actors, there remains a paucity of examples where a just transition has been furthered. The conditions engendered by the advent of widespread pandemics have exacerbated global differences in capacity and access to solutions. Nevertheless, the emergence of new financial mechanisms and global cooperative responses to the pandemic have revealed potential methods to finance enhancements in mitigation and adaptation in the regions where these are most lacking. We examine current capital and trade flows and their relationship to flows of embedded carbon, methods of carbon pricing and the implementation of low-carbon pathways, with an evaluation of decentralized co-benefits that can advance sustainable development. We combine analysis of carbon accounting and financial structuring to design potential investments in example decarbonization projects which integrate additionality in mitigation and adaptation, co-benefits and poverty alleviation.
 
 ",Satyajit Bose,4:10pm,6:00pm,12034,Morningside,K5160-20243-D01,Climate Finance & Sust De,Sustainability Management,SUMA,,https://doc.sis.columbia.edu/subj/SUMA/K5160-20243-D01/,To be announced,In-Person,Professional Studies,3,,F,20243SUMA5160KD01,LECTURE
