@@ -94,7 +94,9 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ACCT\/B7007-20242-001\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "Business"
+    ],
     "points":"1.5",
     "prerequisites":[
 
@@ -7091,6 +7093,7 @@
     "method_of_instruction":null,
     "open_to":[
       "Business",
+      "Engineering:Graduate",
       "Journalism"
     ],
     "points":"1.5",
@@ -7120,6 +7123,7 @@
     "method_of_instruction":null,
     "open_to":[
       "Business",
+      "Engineering:Graduate",
       "Journalism"
     ],
     "points":"1.5",
@@ -11524,8 +11528,7 @@
     "location":"To be announced",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Business",
-      "Journalism"
+      "Business"
     ],
     "points":"3",
     "prerequisites":[
@@ -11611,7 +11614,6 @@
     "method_of_instruction":"In-Person",
     "open_to":[
       "Business",
-      "Engineering:Graduate",
       "Journalism"
     ],
     "points":"3",
@@ -11670,7 +11672,6 @@
     "method_of_instruction":null,
     "open_to":[
       "Business",
-      "Engineering:Graduate",
       "Journalism"
     ],
     "points":"3",
@@ -11729,23 +11730,8 @@
     "location":"To be announced",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Architecture",
       "Business",
-      "Columbia College",
-      "Dental Medicine",
-      "Dental Medicine:Post-Grad",
-      "Engineering:Graduate",
-      "Engineering:Undergraduate",
-      "GSAS",
-      "General Studies",
-      "Journalism",
-      "Medicine",
-      "Nursing",
-      "Professional Studies",
-      "Public Health",
-      "SIPA",
-      "Schools of the Arts",
-      "Social Work"
+      "Journalism"
     ],
     "points":"1.5",
     "prerequisites":[
@@ -17496,6 +17482,34 @@
     "instructor":null,
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
+    "call_number":"12744",
+    "campus":"Morningside",
+    "class_id":"U9229-20242-R02",
+    "course_subtitle":"Wks in Appld Earth Syst Mgmt I",
+    "department":"International and Public Affairs",
+    "department_code":"ENVP",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENVP\/U9229-20242-R02\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20242ENVP9229UR02",
+    "type":"WORKSHOP"
+  },
+  {
+    "course_code":"ENVP U9229",
+    "course_title":"Workshop in Applied Earth Systems Manage",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"6:00pm",
     "call_number":"12745",
     "campus":"Morningside",
     "class_id":"U9229-20242-R03",
@@ -18401,34 +18415,6 @@
     ],
     "scheduled_days":"M",
     "section_key":"20242ERMC5410KD02",
-    "type":"LECTURE"
-  },
-  {
-    "course_code":"ERMC PS5420",
-    "course_title":"CREDIT RISK ANALYTICS",
-    "course_descr":"The field of credit risk management is undergoing a quiet revolution as subjective and manually-intensive methods give way to digitization, algorithmic management, and decision-making. This course provides a practical overview and hands-on experience with different methods, and it also provides a view of future technologies and discussions of potential future directions. Participants in this course should be well-positioned to take entry-level analytic positions and help drive strategic decisions.\n  \nThe first half of the course explores analytics used today for credit risk management. You will learn to create rating and scoring models and a macro scenario-based stress testing model. In the second half of the course, we explore more advanced tools used by the more prominent organizations and fintech firms, including neural net and XGBoost decision tree models.\n\n",
-    "instructor":"Christopher Mann",
-    "scheduled_time_start":"8:10pm",
-    "scheduled_time_end":"10:00pm",
-    "call_number":"11471",
-    "campus":"Morningside",
-    "class_id":"K5420-20242-001",
-    "course_subtitle":null,
-    "department":"Enterprise Risk Management",
-    "department_code":"ERMC",
-    "instructor_wikipedia_link":null,
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ERMC\/K5420-20242-001\/",
-    "location":"To be announced",
-    "method_of_instruction":"In-Person",
-    "open_to":[
-      "Professional Studies"
-    ],
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"M",
-    "section_key":"20242ERMC5420K001",
     "type":"LECTURE"
   },
   {
@@ -20318,7 +20304,8 @@
     "location":null,
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Business"
+      "Business",
+      "Journalism"
     ],
     "points":"3",
     "prerequisites":[
@@ -20435,7 +20422,6 @@
     "method_of_instruction":"In-Person",
     "open_to":[
       "Business",
-      "Engineering:Graduate",
       "Journalism"
     ],
     "points":"3",
@@ -20495,6 +20481,7 @@
     "method_of_instruction":"In-Person",
     "open_to":[
       "Business",
+      "Engineering:Graduate",
       "Journalism"
     ],
     "points":"3",
@@ -28200,6 +28187,62 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"LEAD U6000",
+    "course_title":"Leadership and Global Policy Challenges",
+    "course_descr":"This intensive six-week Summer Session is specially designed for students of the MPA in Global Leadership (MPA-GL) program. The course provides students with an immersion into five Global Policy Challenges: Geopolitical Stability, Climate and Sustainable Development, Democratic Resilience, Inclusive Prosperity and Macroeconomic Stability, and Technology and Innovation. The special summer session also includes one week of training in the development of leadership skills, such as communication and impact. The course is curated and hosted by the MPA-GL Program Director who will moderate presentations and discussions with leading experts from Columbia University as well as outside accomplished practitioners and policy experts.\n\n",
+    "instructor":"Mauricio Cardenas",
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"12:00pm",
+    "call_number":"12748",
+    "campus":"Morningside",
+    "class_id":"U6000-20242-001",
+    "course_subtitle":"Leadership & Global Chall",
+    "department":"International and Public Affairs",
+    "department_code":"LEAD",
+    "instructor_wikipedia_link":"https:\/\/en.wikipedia.org\/wiki\/Mauricio_C%C3%A1rdenas_Santamar%C3%ADa",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/LEAD\/U6000-20242-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"6",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MTWRF",
+    "section_key":"20242LEAD6000U001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"LEAD U6500",
+    "course_title":"Econ & Quant Methods Bootcamp",
+    "course_descr":"Effective leadership and decision-making involve analyzing and understanding data and information. As part of the MPA in Global Leadership Summer Program, the Economics and Quantitative Bootcamp will help students revive and sharpen their skill set to better use information on current economic trends, socioeconomic indicators, and policy evaluations and trade-offs. Addressing global policy challenges implies using evidence to move solutions forward.\u00a0The four-week Bootcamp will help students make projections using mathematical models and make judgments or estimates using data through statistics. It will also cover basic economic concepts and frameworks of microeconomics and macroeconomics to allow students to successfully apply them in the analysis of public policy. Throughout the course, the Bootcamp will exemplify the concepts with relevant real-world cases.\n\n",
+    "instructor":"Helena Garcia",
+    "scheduled_time_start":"1:30pm",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"12749",
+    "campus":"Morningside",
+    "class_id":"U6500-20242-001",
+    "course_subtitle":"Econ & Quant Methods Boot",
+    "department":"International and Public Affairs",
+    "department_code":"LEAD",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/LEAD\/U6500-20242-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"2",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MTWRF",
+    "section_key":"20242LEAD6500U001",
+    "type":"WORKSHOP"
+  },
+  {
     "course_code":"LELA PS0212",
     "course_title":"Exploring Careers in Law",
     "course_descr":"\u00a0 \u00a0\n\n",
@@ -32944,6 +32987,32 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"NURS N7155",
+    "course_title":"Foundations of Spirituality and Health C",
+    "course_descr":"This course is guided by the view that human beings are driven to make meaning of their circumstances, and that spirituality as a Social Determinant of Health is a life force within each person that needs to be considered in holistic health care for the patients and families in our charge, as well as for ourselves.\u00a0\n  \nThe interactive didactic sessions examine the foundations of spirituality and the ways in which it interacts with health care as practiced in nursing.\u00a0 Small group work with case studies will focus on clarifying spirituality as a Social Determinant of Health, and on applying spiritual assessments.\u00a0\n  \n\u00a0\n  \nThe practicum will be on-site clinical work with a structured debrief.\u00a0 Students will shadow chaplain visits; will have a direct experience of providing general spiritual support for patients, families and staff; will practice applying the tools of spiritual assessment; and will practice leading spiritually informed visits under the chaplain\u2019s supervision.\u00a0\u00a0\u00a0\n  \n\u00a0\n  \nWhile there will be discussion about religion and spirituality as it relates to the topics in the curriculum, this is not a class on religion, and no specific religious or spiritual path endorsed.\u00a0\n  \n\u00a0\n  \nN.B. The practicum hours may not be applied towards a student\u2019s clinical hours requirement.\n\n",
+    "instructor":"Linda S Golding",
+    "scheduled_time_start":"3:00pm",
+    "scheduled_time_end":"4:20pm",
+    "call_number":"12752",
+    "campus":"Presbyterian Hospital",
+    "class_id":"N7155-20242-001",
+    "course_subtitle":"Spiritualt & Hlth Care Nu",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N7155-20242-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"2",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20242NURS7155N001",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"NURS N7710",
     "course_title":"PHYSICAL & PELVIC ASSESSMENT FOR MIDWIFE",
     "course_descr":"Through didactic and simulation lab sessions, this course provides the student with knowledge and clinical skills for physical and pelvic assessment of individuals across the reproductive lifespan. Foundational concepts of autonomy, empowerment, equity, justice and respect are emphasized to foster the development of skills needed to perform person-centered, physical and pelvic assessment\n\n",
@@ -33084,6 +33153,34 @@
     "scheduled_days":null,
     "section_key":"20242NURS8141N001",
     "type":"CLINIC"
+  },
+  {
+    "course_code":"NURS N8185",
+    "course_title":"Diagnosis and Management of Acute & Crit",
+    "course_descr":"This is the first of three Diagnosis and Management courses designed to educate students on the assessment, diagnosis, treatment and evaluation of common acute and critical illnesses via a systems-based approach. Pathophysiologic alterations, assessment, diagnostic findings, and multimodal management will be discussed.\u00a0 The course will examine social determinants of health and health disparities that may impact patients and family outcomes. Focus will be on the differential diagnosis and comprehensive healthcare management of commonly encountered acute and chronic physical illnesses using didactic lectures, case studies and simulation.\u00a0\u00a0\n\n",
+    "instructor":"Leon Chen",
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"11:50am",
+    "call_number":"12753",
+    "campus":"Presbyterian Hospital",
+    "class_id":"N8185-20242-001",
+    "course_subtitle":"DX & MGMT ACUTE CRIT ILLN",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N8185-20242-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20242NURS8185N001",
+    "type":"LECTURE"
   },
   {
     "course_code":"NURS N8235",
@@ -33922,6 +34019,62 @@
     "scheduled_days":null,
     "section_key":"20242NURS9290ND01",
     "type":"ONLINE COURS"
+  },
+  {
+    "course_code":"NURS N9312",
+    "course_title":"Introduction to Intervention Development",
+    "course_descr":"This course will provide an overview of\u00a0 intervention development through social and behavioral science theories. Students will use intervention development processes incorporating informatics and data science to address problems of clinical or public health significance. This will include understanding how a needs assessment (involving community and practice-based partners) identifies both a health problem and the social, behavioral and ecological factors that contribute to it. Students will learn how to define the targets for change with at-risk groups, and create change matrices (blueprints) for interventions, including performance objectives. Students will identify theory-informed methods and practical applications for those methods, including the delivery characteristics and modes (i.e., online, in-person) for intervention delivery that consider culturally relevant program materials. Students will learn logic models for program evaluation and understand the value of considering intervention sustainability at each stage of program development. Students will work in a group, apply the intervention development process to develop a hypothetical intervention case.\u00a0\n\n",
+    "instructor":null,
+    "scheduled_time_start":"12:00pm",
+    "scheduled_time_end":"3:00pm",
+    "call_number":"12755",
+    "campus":"Presbyterian Hospital",
+    "class_id":"N9312-20242-001",
+    "course_subtitle":"INTRO TO INTERVEN DEV & T",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9312-20242-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20242NURS9312N001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"NURS N9363",
+    "course_title":"ADVANCED METHODS IN NURSING RESEARCH",
+    "course_descr":"Building upon the foundational knowledge acquired in the quantitative and qualitative research method courses, this course will introduce advanced research methods in nursing research. It explores three pivotal areas in nursing research: Health Services Research, Omics Research, and Data Science Research. Students will learn theoretical principles or frameworks for the three advanced methods, and critically review the commonly used research methods. Additionally, the course examines the interplay between science, policy, and healthcare delivery and identifies critical questions shaping the future policy research agenda.\n\n",
+    "instructor":"Jingjing Shang",
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"12:00pm",
+    "call_number":"12756",
+    "campus":"Presbyterian Hospital",
+    "class_id":"N9363-20242-001",
+    "course_subtitle":"ADV METHODS IN NURS RESEA",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9363-20242-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20242NURS9363N001",
+    "type":"LECTURE"
   },
   {
     "course_code":"NURS N9412",
@@ -37142,6 +37295,426 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"OCCT M8112",
+    "course_title":"Capstone 3",
+    "course_descr":null,
+    "instructor":"Julia Guzman",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12757",
+    "campus":"Health Science",
+    "class_id":"M8112-20242-083",
+    "course_subtitle":null,
+    "department":"Rehabilitation Medicine (RMED)",
+    "department_code":"OCCT",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/OCCT\/M8112-20242-083\/",
+    "location":null,
+    "method_of_instruction":"Hybrid ",
+    "open_to":[
+      "Occupational Therapy"
+    ],
+    "points":"2",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242OCCT8112M083",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"OCCT M8112",
+    "course_title":"Capstone 3",
+    "course_descr":null,
+    "instructor":"Katherine Dimitropoulou",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12758",
+    "campus":"Health Science",
+    "class_id":"M8112-20242-085",
+    "course_subtitle":null,
+    "department":"Rehabilitation Medicine (RMED)",
+    "department_code":"OCCT",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/OCCT\/M8112-20242-085\/",
+    "location":null,
+    "method_of_instruction":"Hybrid ",
+    "open_to":[
+      "Occupational Therapy"
+    ],
+    "points":"2",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242OCCT8112M085",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"OCCT M8112",
+    "course_title":"Capstone 3",
+    "course_descr":null,
+    "instructor":"Colleen M Maher",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12759",
+    "campus":"Health Science",
+    "class_id":"M8112-20242-086",
+    "course_subtitle":null,
+    "department":"Rehabilitation Medicine (RMED)",
+    "department_code":"OCCT",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/OCCT\/M8112-20242-086\/",
+    "location":null,
+    "method_of_instruction":"Hybrid ",
+    "open_to":[
+      "Occupational Therapy"
+    ],
+    "points":"2",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242OCCT8112M086",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"OCCT M8112",
+    "course_title":"Capstone 3",
+    "course_descr":null,
+    "instructor":"Rochelle Mendonca",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12760",
+    "campus":"Health Science",
+    "class_id":"M8112-20242-087",
+    "course_subtitle":null,
+    "department":"Rehabilitation Medicine (RMED)",
+    "department_code":"OCCT",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/OCCT\/M8112-20242-087\/",
+    "location":null,
+    "method_of_instruction":"Hybrid ",
+    "open_to":[
+      "Occupational Therapy"
+    ],
+    "points":"2",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242OCCT8112M087",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"OCCT M8112",
+    "course_title":"Capstone 3",
+    "course_descr":null,
+    "instructor":"Glen Gillen",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12761",
+    "campus":"Health Science",
+    "class_id":"M8112-20242-088",
+    "course_subtitle":null,
+    "department":"Rehabilitation Medicine (RMED)",
+    "department_code":"OCCT",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/OCCT\/M8112-20242-088\/",
+    "location":null,
+    "method_of_instruction":"Hybrid ",
+    "open_to":[
+      "Occupational Therapy"
+    ],
+    "points":"2",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242OCCT8112M088",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"OCCT M8112",
+    "course_title":"Capstone 3",
+    "course_descr":null,
+    "instructor":"Patricia Precin",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12776",
+    "campus":"Health Science",
+    "class_id":"M8112-20242-084",
+    "course_subtitle":null,
+    "department":"Rehabilitation Medicine (RMED)",
+    "department_code":"OCCT",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/OCCT\/M8112-20242-084\/",
+    "location":null,
+    "method_of_instruction":"Hybrid ",
+    "open_to":[
+      "Occupational Therapy"
+    ],
+    "points":"2",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242OCCT8112M084",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"OCCT M8113",
+    "course_title":"WRITING FOR PUBLICATION",
+    "course_descr":null,
+    "instructor":"Patricia Precin",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12762",
+    "campus":"Health Science",
+    "class_id":"M8113-20242-083",
+    "course_subtitle":null,
+    "department":"Rehabilitation Medicine (RMED)",
+    "department_code":"OCCT",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/OCCT\/M8113-20242-083\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Occupational Therapy"
+    ],
+    "points":"1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242OCCT8113M083",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"OCCT M8113",
+    "course_title":"WRITING FOR PUBLICATION",
+    "course_descr":null,
+    "instructor":"Daniel L Geller",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12763",
+    "campus":"Health Science",
+    "class_id":"M8113-20242-084",
+    "course_subtitle":null,
+    "department":"Rehabilitation Medicine (RMED)",
+    "department_code":"OCCT",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/OCCT\/M8113-20242-084\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Occupational Therapy"
+    ],
+    "points":"1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242OCCT8113M084",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"OCCT M8113",
+    "course_title":"WRITING FOR PUBLICATION",
+    "course_descr":null,
+    "instructor":"Tyra M Banks",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12764",
+    "campus":"Health Science",
+    "class_id":"M8113-20242-085",
+    "course_subtitle":null,
+    "department":"Rehabilitation Medicine (RMED)",
+    "department_code":"OCCT",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/OCCT\/M8113-20242-085\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Occupational Therapy"
+    ],
+    "points":"1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242OCCT8113M085",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"OCCT M8113",
+    "course_title":"WRITING FOR PUBLICATION",
+    "course_descr":null,
+    "instructor":"Julia Guzman",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12765",
+    "campus":"Health Science",
+    "class_id":"M8113-20242-086",
+    "course_subtitle":null,
+    "department":"Rehabilitation Medicine (RMED)",
+    "department_code":"OCCT",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/OCCT\/M8113-20242-086\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Occupational Therapy"
+    ],
+    "points":"1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242OCCT8113M086",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"OCCT M8113",
+    "course_title":"WRITING FOR PUBLICATION",
+    "course_descr":null,
+    "instructor":"Katherine Dimitropoulou",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12766",
+    "campus":"Health Science",
+    "class_id":"M8113-20242-087",
+    "course_subtitle":null,
+    "department":"Rehabilitation Medicine (RMED)",
+    "department_code":"OCCT",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/OCCT\/M8113-20242-087\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Occupational Therapy"
+    ],
+    "points":"1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242OCCT8113M087",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"OCCT M8113",
+    "course_title":"WRITING FOR PUBLICATION",
+    "course_descr":null,
+    "instructor":"Phyllis R Simon",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12767",
+    "campus":"Health Science",
+    "class_id":"M8113-20242-088",
+    "course_subtitle":null,
+    "department":"Rehabilitation Medicine (RMED)",
+    "department_code":"OCCT",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/OCCT\/M8113-20242-088\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Occupational Therapy"
+    ],
+    "points":"1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242OCCT8113M088",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"OCCT M8113",
+    "course_title":"WRITING FOR PUBLICATION",
+    "course_descr":null,
+    "instructor":"Colleen M Maher",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12768",
+    "campus":"Health Science",
+    "class_id":"M8113-20242-089",
+    "course_subtitle":null,
+    "department":"Rehabilitation Medicine (RMED)",
+    "department_code":"OCCT",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/OCCT\/M8113-20242-089\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Occupational Therapy"
+    ],
+    "points":"1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242OCCT8113M089",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"OCCT M8113",
+    "course_title":"WRITING FOR PUBLICATION",
+    "course_descr":null,
+    "instructor":"Rochelle Mendonca",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12769",
+    "campus":"Health Science",
+    "class_id":"M8113-20242-090",
+    "course_subtitle":null,
+    "department":"Rehabilitation Medicine (RMED)",
+    "department_code":"OCCT",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/OCCT\/M8113-20242-090\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Occupational Therapy"
+    ],
+    "points":"1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242OCCT8113M090",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"OCCT M8113",
+    "course_title":"WRITING FOR PUBLICATION",
+    "course_descr":null,
+    "instructor":"Glen Gillen",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12770",
+    "campus":"Health Science",
+    "class_id":"M8113-20242-091",
+    "course_subtitle":null,
+    "department":"Rehabilitation Medicine (RMED)",
+    "department_code":"OCCT",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/OCCT\/M8113-20242-091\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Occupational Therapy"
+    ],
+    "points":"1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242OCCT8113M091",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"OCCT M8503",
     "course_title":"COGNITIVE ASSESSMENT AND INTERVENTION",
     "course_descr":null,
@@ -37173,7 +37746,7 @@
     "course_code":"OCCT M8510",
     "course_title":"METHODS OF TEACHING",
     "course_descr":null,
-    "instructor":null,
+    "instructor":"Ashley Kingon",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"12713",
@@ -37196,6 +37769,146 @@
     "scheduled_days":null,
     "section_key":"20242OCCT8510M083",
     "type":"SEMINAR"
+  },
+  {
+    "course_code":"OCCT M8993",
+    "course_title":"PROFESSIONAL DEVELOPMENT",
+    "course_descr":null,
+    "instructor":"Phyllis R Simon",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12771",
+    "campus":"Health Science",
+    "class_id":"M8993-20242-083",
+    "course_subtitle":null,
+    "department":"Rehabilitation Medicine (RMED)",
+    "department_code":"OCCT",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/OCCT\/M8993-20242-083\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Occupational Therapy"
+    ],
+    "points":"1-3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242OCCT8993M083",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"OCCT M8993",
+    "course_title":"PROFESSIONAL DEVELOPMENT",
+    "course_descr":null,
+    "instructor":"Danielle J Mahoney",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12772",
+    "campus":"Health Science",
+    "class_id":"M8993-20242-084",
+    "course_subtitle":null,
+    "department":"Rehabilitation Medicine (RMED)",
+    "department_code":"OCCT",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/OCCT\/M8993-20242-084\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Occupational Therapy"
+    ],
+    "points":"1-3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242OCCT8993M084",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"OCCT M8994",
+    "course_title":"Capstone Two Evidence Based Paper",
+    "course_descr":null,
+    "instructor":"Daniel L Geller",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12773",
+    "campus":"Health Science",
+    "class_id":"M8994-20242-083",
+    "course_subtitle":"Capstone Two Evidence Bas",
+    "department":"Rehabilitation Medicine (RMED)",
+    "department_code":"OCCT",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/OCCT\/M8994-20242-083\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Occupational Therapy"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242OCCT8994M083",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"OCCT M8994",
+    "course_title":"Capstone Two Evidence Based Paper",
+    "course_descr":null,
+    "instructor":"Tyra M Banks",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12774",
+    "campus":"Health Science",
+    "class_id":"M8994-20242-084",
+    "course_subtitle":"Capstone Two Evidence Bas",
+    "department":"Rehabilitation Medicine (RMED)",
+    "department_code":"OCCT",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/OCCT\/M8994-20242-084\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Occupational Therapy"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242OCCT8994M084",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"OCCT M8994",
+    "course_title":"Capstone Two Evidence Based Paper",
+    "course_descr":null,
+    "instructor":"Razan Hamed",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12775",
+    "campus":"Health Science",
+    "class_id":"M8994-20242-085",
+    "course_subtitle":"Capstone Two Evidence Bas",
+    "department":"Rehabilitation Medicine (RMED)",
+    "department_code":"OCCT",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/OCCT\/M8994-20242-085\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Occupational Therapy"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242OCCT8994M085",
+    "type":"INDEPENDENT"
   },
   {
     "course_code":"ORL_ PS0101",
@@ -42396,6 +43109,32 @@
     ],
     "scheduled_days":"R",
     "section_key":"20242SOCW6501TD20",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"SOCW T6501",
+    "course_title":"SOCIAL WORK RESEARCH",
+    "course_descr":null,
+    "instructor":"Laurie Maldonado",
+    "scheduled_time_start":"6:00pm",
+    "scheduled_time_end":"8:30pm",
+    "call_number":"12754",
+    "campus":"Morningside",
+    "class_id":"T6501-20242-D21",
+    "course_subtitle":null,
+    "department":"Social Work",
+    "department_code":"SOCW",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SOCW\/T6501-20242-D21\/",
+    "location":"To be announced",
+    "method_of_instruction":"On-Line Only",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20242SOCW6501TD21",
     "type":"LECTURE"
   },
   {
