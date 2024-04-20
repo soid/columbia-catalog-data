@@ -1270,7 +1270,7 @@
   {
     "course_code":"APAM E4999",
     "course_title":"SUPERVISED INTERNSHIP",
-    "course_descr":null,
+    "course_descr":"Only for masters students in the Department of Applied Physics and Applied Mathematics who may need relevant work experience a part of their program of study. Final report required. May not be taken for pass\/fail or audited.\n\n",
     "instructor":"Kui Ren",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -1298,7 +1298,7 @@
   {
     "course_code":"APAM E6650",
     "course_title":"RESEARCH PROJECT",
-    "course_descr":null,
+    "course_descr":"May be repeated for credit. A special investigation of a problem in nuclear engineering, medical physics, applied mathematics, applied physics, and\/or plasma physics consisting of independent work on the part of the student and embodied in a formal report.\n\n",
     "instructor":"Nanfang Yu",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -11918,6 +11918,7 @@
     "method_of_instruction":"In-Person",
     "open_to":[
       "Business",
+      "Engineering:Graduate",
       "Journalism"
     ],
     "points":"3",
@@ -14185,6 +14186,32 @@
     "type":"FIELD WORK"
   },
   {
+    "course_code":"ELEN E9001",
+    "course_title":"RESEARCH I",
+    "course_descr":"Points of credit to be approved by the department. Requires submission of an outline of the proposed research for approval by the faculty member who is to supervise the work of the student. The research facilities of the department are available to qualified students interested in advanced study.\n\n",
+    "instructor":"Christine P Hendon",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12841",
+    "campus":"Morningside",
+    "class_id":"E9001-20242-005",
+    "course_subtitle":null,
+    "department":"Electrical Engineering",
+    "department_code":"ELEN",
+    "instructor_wikipedia_link":"https:\/\/en.wikipedia.org\/wiki\/Christine_P._Hendon",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ELEN\/E9001-20242-005\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0-6",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242ELEN9001E005",
+    "type":"INDEPENDENT"
+  },
+  {
     "course_code":"EMPA U6035",
     "course_title":"Open Economy Macroeconomic Analysis",
     "course_descr":null,
@@ -15131,7 +15158,7 @@
     "course_code":"ENGI PS0101",
     "course_title":"Introduction to Engineering",
     "course_descr":"\u00a0 \u00a0\n\n",
-    "instructor":null,
+    "instructor":"Leroy Sibanda",
     "scheduled_time_start":"5:00pm",
     "scheduled_time_end":"8:00pm",
     "call_number":"12160",
@@ -31432,7 +31459,7 @@
   {
     "course_code":"MSAE E6273",
     "course_title":"MATERIALS SCIENCE REPORTS",
-    "course_descr":null,
+    "course_descr":"Formal written reports and conferences with the appropriate member of the faculty on a subject of special interest to the student but not covered in the other course offerings.\n\n",
     "instructor":"Siu-Wai Chan",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -43257,6 +43284,32 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"QMSS GR5075",
+    "course_title":"Artificial Intelligence (AI) & Social Sc",
+    "course_descr":"Artificial intelligence (AI) and generative AI \u2013 like ChatGPT, MidJourney, and Gemini \u2013 are poised to change the world for everyone. It is critical that students understand (and utilize) this new technology at several levels. In this class \u2013 through readings and a dozen hands-on activities \u2013 students will come to deeply understand AI. Specifically, students will construct (using Python) some of the basic building-blocks of AI, like machine learning (like recommendation systems), natural language processing (like word embeddings) and chatbots. They will test out AI\u2019s capabilities and refine prompts in real-world settings, whether in art, video, writing or Internet-of-Things. They will learn about how generative AI fits into the history of technology adoption and the diffusion of innovation, answering questions like: Will AI be able to replace whole jobs? And if so, when? They will use the lenses of psychology and economics to explore the impact of AI in people\u2019s lives, including in the context of algorithmic fairness, regulation and intellectual property. They will be pushed to take human creativity in new directions, augmented by AI\u2019s \u201cweirdness.\u201d Lastly, students will be pushed to further develop their own uniquely-human skills \u2013 like in critical thinking and empathy \u2013 in response to the power of generative AI to mimic humans. As best-selling author Seth Stephen-Davidowitz has recently (Dec. 2023) written, \u201cSo far, my newest book has higher ratings than either of my previous two books -- even though it was written in 1\/36th of the time, thanks to AI. AI is wild!\" By the end of this class, students will feel empowered technically and philosophically to handle all new generative AI developments. There are no specific prerequisites for this class.\n\n",
+    "instructor":"Gregory M Eirich",
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"12:10pm",
+    "call_number":"12840",
+    "campus":"Morningside",
+    "class_id":"G5075-20242-002",
+    "course_subtitle":"AI and Social Science",
+    "department":"Summer Session (SUMM)",
+    "department_code":"QMSS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/QMSS\/G5075-20242-002\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20242QMSS5075G002",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"QMSS GR5997",
     "course_title":"INDEPENDENT STUDY",
     "course_descr":"This course offers students an opportunity to expand their curriculum beyond the established course offerings. Interested parties must consult with the QMSS Program Director before adding the class. This course may be taken for 2-4 points.\n\n",
@@ -46149,34 +46202,6 @@
     "scheduled_days":null,
     "section_key":"20242STAB0004W001",
     "type":"REGISTRATION"
-  },
-  {
-    "course_code":"STAT GR5203",
-    "course_title":"PROBABILITY",
-    "course_descr":"Prerequisites: At least one semester of calculus. A calculus-based introduction to probability theory. Topics covered include random variables, conditional probability, expectation, independence, Bayes rule, important distributions, joint distributions, moment generating functions, central limit theorem, laws of large numbers and Markovs inequality.\n\n",
-    "instructor":"Young S Kim",
-    "scheduled_time_start":"4:30pm",
-    "scheduled_time_end":"6:05pm",
-    "call_number":"10238",
-    "campus":"Morningside",
-    "class_id":"W5203-20242-001",
-    "course_subtitle":null,
-    "department":"Summer Session (SUMM)",
-    "department_code":"STAT",
-    "instructor_wikipedia_link":null,
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/STAT\/W5203-20242-001\/",
-    "location":"To be announced",
-    "method_of_instruction":"In-Person",
-    "open_to":[
-      "GSAS"
-    ],
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"MTWR",
-    "section_key":"20242STAT5203W001",
-    "type":"LECTURE"
   },
   {
     "course_code":"STAT GR5204",
