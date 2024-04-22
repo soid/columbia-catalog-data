@@ -24886,7 +24886,7 @@
   {
     "course_code":"IEOR E4106",
     "course_title":"STOCHASTIC MODELS",
-    "course_descr":null,
+    "course_descr":"Some of the main stochastic models used in engineering and operations research applications: discrete-time Markov chains, Poisson processes, birth and death processes and other continuous Markov chains, renewal reward processes. Applications: queueing, reliability, inventory, and finance.\n\n",
     "instructor":"Karl Sigman",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -24914,7 +24914,7 @@
   {
     "course_code":"IEOR E4404",
     "course_title":"SIMULATION",
-    "course_descr":null,
+    "course_descr":"Generation of random numbers from given distributions; variance reduction; statistical output analysis; introduction to simulation languages; application to financial, telecommunications, computer, and production systems. Graduate students must register for 3 points. Undergraduate students must register for 4 points. Note: Students who have taken IEOR E4703 Monte Carlo simulation may not register for this course for credit. Recitation section required.\n\n",
     "instructor":"Karl Sigman",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -24933,7 +24933,9 @@
     ],
     "points":"3",
     "prerequisites":[
-
+      [
+        "IEOR E4703"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20242IEOR4404ED01",
@@ -24970,7 +24972,7 @@
   {
     "course_code":"IEOR E4721",
     "course_title":"TOPICS IN QUANT FINANCE",
-    "course_descr":null,
+    "course_descr":"Selected topics of interest in the area of quantitative finance. Offerings vary each year; some topics include energy derivatives, experimental finance, foreign exchange and related derivative instruments, inflation derivatives, hedge fund management, modeling equity derivatives in Java, mortgage-backed securities, numerical solutions of partial differential equations, quantitative portfolio management, risk management, trade and technology in financial markets.\n\n",
     "instructor":"Ali Hirsa",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
