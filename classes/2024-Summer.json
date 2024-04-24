@@ -14874,6 +14874,32 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"ENGI E4250",
+    "course_title":"Summer at SEAS Research Program",
+    "course_descr":null,
+    "instructor":"Alexis R Moore",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12886",
+    "campus":"Morningside",
+    "class_id":"E4250-20242-001",
+    "course_subtitle":"SUMMER ATSEAS RESEARCH PR",
+    "department":"Engineering",
+    "department_code":"ENGI",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGI\/E4250-20242-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242ENGI4250E001",
+    "type":"RESEARCH SEM"
+  },
+  {
     "course_code":"ENGI E5000",
     "course_title":"WORKPLACE COMMUNICATION IN ENGLISH",
     "course_descr":"English communication proficiency is important for academic achievement and career success. Columbia Engineering provides English communication instruction for students who would like to improve their communication skills in English. In a small group setting (15-20 students), enrollees will obtain opportunities to interact with the instructor and fellow classmates to improve communication skills.\n\n",
@@ -29666,7 +29692,7 @@
   {
     "course_code":"JPNS OC4201",
     "course_title":"SECOND YEAR JAPANESE",
-    "course_descr":null,
+    "course_descr":"Second Year Japanese I, JPNS4201OC, 4 points. You are required to take Second Year Japanese II, JPNS4202OC with this course.\n  \nInstructor: Kaori Nakata\n  \nThe 2nd year Japanese program (JPNS4201 & JPNS4202; 8 points or 2 semesters) is designed for those who have completed at least one year of college-level Japanese or the equivalent (around 150 hours of Japanese study).\n  \nStudents who want to take this course are expected to be at least at the \nNovice-High level\n of \nthe ACTFL (American Council on the Teaching of Foreign Languages) Proficiency Guidelines\n at the beginning of the course.\n  \nFor a more detailed description, please follow the links provided: ACTFL Proficiency Guidelines Novice:\u00a0\nSpeaking\n\u00a0|\u00a0\nWriting\n\u00a0|\u00a0\nListening\n\u00a0|\u00a0\nReading\n (see the section of \u201cNOVICE HIGH\u201d)\n  \nThis class will cover the entire \nGenki II\n \n(The Japan Times) and intermediate materials such as \nHiyaku\n (Routledge). The coverage and materials will be contingent on the levels of students and finalized by the instructors.\n  \nThe goal of this course is to achieve Intermediate-Mid level or higher proficiency according to the ACTFL Proficiency Guidelines. Upon successful completion of the course, the students will:\n  \n  \nhave a command of basic Japanese grammar and vocabulary (equivalent to JLPT N5-N4);\n  \nbe able to communicate with others effectively in Japanese in familiar situations\/about familiar topics at a sentence-level;\n  \nunderstand written texts about familiar topics related to everyday life and personal interests in Japanese.\n \n  \nTo enroll in\u00a0this course, you must apply to \nVergil",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -29683,7 +29709,16 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "NS4201"
+      ],
+      [
+        "NS4202"
+      ],
+      [
+        "NS4202",
+        "NS4201"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20242JPNS4201O001",
