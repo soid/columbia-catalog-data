@@ -7254,7 +7254,7 @@
     "instructor_wikipedia_link":null,
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/BUSI\/B8704-20242-001\/",
     "location":"To be announced",
-    "method_of_instruction":null,
+    "method_of_instruction":"In-Person",
     "open_to":[
       "Business",
       "Journalism"
@@ -7283,7 +7283,7 @@
     "instructor_wikipedia_link":"https:\/\/en.wikipedia.org\/wiki\/Gernot_Wagner",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/BUSI\/B8705-20242-002\/",
     "location":"To be announced",
-    "method_of_instruction":null,
+    "method_of_instruction":"In-Person",
     "open_to":[
       "Business",
       "Engineering:Graduate",
@@ -7313,7 +7313,7 @@
     "instructor_wikipedia_link":"https:\/\/en.wikipedia.org\/wiki\/Gernot_Wagner",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/BUSI\/B8705-20242-001\/",
     "location":"To be announced",
-    "method_of_instruction":null,
+    "method_of_instruction":"In-Person",
     "open_to":[
       "Business",
       "Engineering:Graduate",
@@ -11974,7 +11974,7 @@
     "instructor_wikipedia_link":null,
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/DROM\/B8109-20242-001\/",
     "location":"To be announced",
-    "method_of_instruction":null,
+    "method_of_instruction":"In-Person",
     "open_to":[
       "Business",
       "Journalism"
@@ -12336,32 +12336,6 @@
     ],
     "scheduled_days":"MW",
     "section_key":"20242ECON4370W001",
-    "type":"LECTURE"
-  },
-  {
-    "course_code":"ECON GU4445",
-    "course_title":"Economics Models of Discrimination",
-    "course_descr":"Not all difference results from discrimination. Not all discrimination results in observable differences. This course focuses on understanding issues of difference and discrimination associated primarily with race, but also other markers of difference, including gender, sexual orientation, national origin, etc. A critical skill for economic analysis of discrimination is econometric method. This course looks\u00a0carefully at the ways in which econometrics is used to address questions of discrimination, and critically evaluate these models and the studies that rely upon them.\n\n",
-    "instructor":"Katherine Barnes",
-    "scheduled_time_start":"1:00pm",
-    "scheduled_time_end":"4:10pm",
-    "call_number":"11753",
-    "campus":"Morningside",
-    "class_id":"W4445-20242-001",
-    "course_subtitle":"Econ Models of Discrimina",
-    "department":"Summer Session (SUMM)",
-    "department_code":"ECON",
-    "instructor_wikipedia_link":null,
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ECON\/W4445-20242-001\/",
-    "location":"To be announced",
-    "method_of_instruction":"In-Person",
-    "open_to":null,
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"TR",
-    "section_key":"20242ECON4445W001",
     "type":"LECTURE"
   },
   {
@@ -25390,6 +25364,34 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"IEOR E4722",
+    "course_title":"TOPICS IN QUANT FINANCE",
+    "course_descr":"15 Correlation Models are introduced, 4 are discussed in detail: Is the Pearson Correlation Model sufficient for Finance? Are Copula Correlations, Cointegration, or Stochastic Correlations superior? 6 correlation trading strategies are introduced: 1) Empirical Correlation Trading, 2) Pairs Trading, 3) Multi-asset Options, 4) Structured Products, 5) Correlation Swaps, and 6) Dispersion trading. Every Risk Management concept such as VaR (Value at Risk), ES (Expected Shortfall), or CVaR (Credit Value at Risk) applies a certain correlation model, which will be scrutinized. Quantum Entanglement was awarded the Nobel Prize in 2022. We will examine if it is applicable in Finance. Finally, we will discuss whether we can use AI, in particular recurrent Neural Networks, to derive correlations.\n\n",
+    "instructor":"Gunter Meissner",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12883",
+    "campus":"Video Network",
+    "class_id":"E4722-20242-V01",
+    "course_subtitle":"FINANCIAL CORRELATIONS",
+    "department":"Video Network",
+    "department_code":"IEOR",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/IEOR\/E4722-20242-V01\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Columbia Video Network"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242IEOR4722EV01",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"IEOR E4900",
     "course_title":"MASTERS RESEARCH OR PROJECT",
     "course_descr":"Prerequisite(s): Approval by a faculty member who agrees to supervise the work. Independent work involving experiments, computer programming, analytical investigation, or engineering design.\n\n",
@@ -29659,6 +29661,58 @@
     ],
     "scheduled_days":"MTWRF",
     "section_key":"20242JPNS4210G001",
+    "type":"LANGUAGE"
+  },
+  {
+    "course_code":"JPNS OC4201",
+    "course_title":"SECOND YEAR JAPANESE",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12884",
+    "campus":"STUDY ABROAD",
+    "class_id":"O4201-20242-001",
+    "course_subtitle":null,
+    "department":"Global Programs",
+    "department_code":"JPNS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/JPNS\/O4201-20242-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242JPNS4201O001",
+    "type":"LANGUAGE"
+  },
+  {
+    "course_code":"JPNS OC4202",
+    "course_title":"SECOND YEAR JAPANESE",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12885",
+    "campus":"STUDY ABROAD",
+    "class_id":"O4202-20242-001",
+    "course_subtitle":null,
+    "department":"Global Programs",
+    "department_code":"JPNS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/JPNS\/O4202-20242-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242JPNS4202O001",
     "type":"LANGUAGE"
   },
   {
