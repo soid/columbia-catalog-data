@@ -7561,7 +7561,7 @@
     "instructor_wikipedia_link":null,
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/BUSI\/B8704-20242-001\/",
     "location":"440 GEFFEN HALL",
-    "method_of_instruction":"In-Person",
+    "method_of_instruction":null,
     "open_to":[
       "Business",
       "Journalism"
@@ -7634,7 +7634,7 @@
     "instructor_wikipedia_link":"https:\/\/en.wikipedia.org\/wiki\/Gernot_Wagner",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/BUSI\/B8705-20242-001\/",
     "location":"520 GEFFEN HALL",
-    "method_of_instruction":"In-Person",
+    "method_of_instruction":null,
     "open_to":[
       "Business",
       "Engineering:Graduate",
@@ -44388,6 +44388,62 @@
     "type":"DISCUSSION"
   },
   {
+    "course_code":"RESI P0001",
+    "course_title":"1-RESIDENCE UNIT-PUBLIC HEALTH",
+    "course_descr":"\u00a0\u00a0\n\n",
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"13780",
+    "campus":"Health Science",
+    "class_id":"P0001-20242-001",
+    "course_subtitle":"1-RESIDENCE UNIT-PUBLIC H",
+    "department":"Public Health",
+    "department_code":"RESI",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/RESI\/P0001-20242-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Public Health"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242RESI0001P001",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"RESI P0002",
+    "course_title":"1\/2-PH RESIDENCE UNIT",
+    "course_descr":"Residence Unit\n\n",
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"13781",
+    "campus":"Morningside",
+    "class_id":"P0002-20242-001",
+    "course_subtitle":null,
+    "department":"Public Health",
+    "department_code":"RESI",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/RESI\/P0002-20242-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Public Health"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242RESI0002P001",
+    "type":"INDEPENDENT"
+  },
+  {
     "course_code":"RLPH PS0101",
     "course_title":"Divine Beings, Miracles, and the Afterli",
     "course_descr":"\u00a0 \u00a0\n\n",
@@ -45631,6 +45687,32 @@
     ],
     "scheduled_days":null,
     "section_key":"20242SOCW6010T096",
+    "type":"PRACTICA"
+  },
+  {
+    "course_code":"SOCW T6010",
+    "course_title":"GENERALIST SOCIAL WORK PRACTICUM",
+    "course_descr":"Field education is a central component in each student's professional education, and requires 21 hours a week for all four terms of the full-time M.S. degree. Placements provide a range of experiences to integrate with theoretical learning from class work and to develop knowledge, values, and skills for social practice.\n\n",
+    "instructor":"Barbara Victome",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"13779",
+    "campus":"Morningside",
+    "class_id":"T6010-20242-018",
+    "course_subtitle":"GENERALIST SW PRACTICUM",
+    "department":"Social Work",
+    "department_code":"SOCW",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SOCW\/T6010-20242-018\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"4.5",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20242SOCW6010T018",
     "type":"PRACTICA"
   },
   {
