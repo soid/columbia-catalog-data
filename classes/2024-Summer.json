@@ -7592,7 +7592,7 @@
     "instructor_wikipedia_link":"https:\/\/en.wikipedia.org\/wiki\/Gernot_Wagner",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/BUSI\/B8705-20242-002\/",
     "location":"420 GEFFEN HALL",
-    "method_of_instruction":"In-Person",
+    "method_of_instruction":null,
     "open_to":[
       "Architecture",
       "Business",
@@ -27502,7 +27502,7 @@
     "course_code":"IFIN PS0101",
     "course_title":"Introduction to Finance & Investment Man",
     "course_descr":"\u00a0\u00a0\n\n",
-    "instructor":null,
+    "instructor":"Reginald Kyle",
     "scheduled_time_start":"8:00am",
     "scheduled_time_end":"11:00am",
     "call_number":"12167",
@@ -32035,7 +32035,7 @@
   {
     "course_code":"MTFC M9751",
     "course_title":"Matriculation And Facilities HNUT",
-    "course_descr":null,
+    "course_descr":"Continuous registration\n is required of MS students until all requirements (including the Thesis) have been completed. Continuous registration means the student must be registered each and every semester or, he or she must be on an official leave of absence. If continuous registration is not maintained, the student must apply for readmission to the Graduate School. \u2018Continuous Registration\u2019 includes summer sessions.\n  \nStudents can satisfy the continuous registration requirement and maintain their current status by registering for Matriculation and Facilities (MTCF9751), allowing them access to all University facilities. \u00a0It is important for students to request leaves of absence in writing for any term in which they will be away from the University. This may be for reasons of ill health, maternity or paternity leave, military service, or other reasons deemed to be acceptable for leave by the University. If a student does not officially request a leave of absence and does not register for a semester, the student MUST apply for readmission to the University before registration is allowed. \u00a0Prior to submitting the leave of absence form, students must meet with their advisor to discuss academic progress, plans, and leave. Students should understand that taking a leave during the period in which the Department has offered support may result in a loss of funding. To request a leave of absence, submit the completed Leave of Absence form, available online at \nhttps:\/\/www.cuimc.columbia.edu\/students\/rsfs\/registrar-services\n along with a letter of intent to the Chair of the Department for consideration.\n\n",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -32052,7 +32052,9 @@
     "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "CF9751"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20242MTFC9751M001",
