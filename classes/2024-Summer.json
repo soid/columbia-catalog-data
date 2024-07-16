@@ -16060,8 +16060,8 @@
     "course_title":"ENGLISH FOR PROF PURPOSE:SIPA",
     "course_descr":null,
     "instructor":"Jeanne K Lambert",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"1:00pm",
     "call_number":"11535",
     "campus":null,
     "class_id":"Z0015-20242-001",
@@ -16070,7 +16070,7 @@
     "department_code":"ENGL",
     "instructor_wikipedia_link":null,
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/Z0015-20242-001\/",
-    "location":null,
+    "location":"801 International Affairs Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "ALP"
@@ -16079,36 +16079,8 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"MTWRF",
     "section_key":"20242ENGL0015Z001",
-    "type":"LANGUAGE"
-  },
-  {
-    "course_code":"ENGL PS0015",
-    "course_title":"ENGLISH FOR PROF PURPOSE:SIPA",
-    "course_descr":null,
-    "instructor":null,
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
-    "call_number":"11536",
-    "campus":null,
-    "class_id":"Z0015-20242-002",
-    "course_subtitle":"ENGLISH FOR PROF PURPOSE:",
-    "department":"American Language Program",
-    "department_code":"ENGL",
-    "instructor_wikipedia_link":null,
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/Z0015-20242-002\/",
-    "location":null,
-    "method_of_instruction":"In-Person",
-    "open_to":[
-      "ALP"
-    ],
-    "points":"0",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":null,
-    "section_key":"20242ENGL0015Z002",
     "type":"LANGUAGE"
   },
   {
@@ -45731,7 +45703,7 @@
     "department_code":"SOCW",
     "instructor_wikipedia_link":null,
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SOCW\/T6012-20242-001\/",
-    "location":"404 School of Social Work",
+    "location":"406 School of Social Work",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"3",
@@ -45757,7 +45729,7 @@
     "department_code":"SOCW",
     "instructor_wikipedia_link":null,
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SOCW\/T6012-20242-002\/",
-    "location":"404 School of Social Work",
+    "location":"406 School of Social Work",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"3",
@@ -49330,6 +49302,34 @@
     ],
     "scheduled_days":"R",
     "section_key":"20242TMGT6401K002",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"TMGT PS6401",
+    "course_title":"TECH MGMT CAPSTONE",
+    "course_descr":null,
+    "instructor":"Katja Schroeder",
+    "scheduled_time_start":"6:00pm",
+    "scheduled_time_end":"8:30pm",
+    "call_number":"13800",
+    "campus":null,
+    "class_id":"K6401-20242-003",
+    "course_subtitle":null,
+    "department":"Technology Management",
+    "department_code":"TMGT",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/TMGT\/K6401-20242-003\/",
+    "location":"NONE NONE",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"6",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20242TMGT6401K003",
     "type":"SEMINAR"
   },
   {
