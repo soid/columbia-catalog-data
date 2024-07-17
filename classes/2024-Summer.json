@@ -29978,7 +29978,7 @@
     "department_code":"LRRW",
     "instructor_wikipedia_link":null,
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/LRRW\/N0213-20242-002\/",
-    "location":"602 Northwest Corner Building",
+    "location":"829 Seeley W. Mudd Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Pre-College Programs"
@@ -33800,7 +33800,7 @@
     "department_code":"NURO",
     "instructor_wikipedia_link":null,
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURO\/N0101-20242-004\/",
-    "location":"829 Seeley W. Mudd Building",
+    "location":"602 Northwest Corner Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Pre-College Programs"
@@ -42291,7 +42291,7 @@
   {
     "course_code":"POLS S1211",
     "course_title":"INTRO AMER GOVT&POL-DISCUSSION",
-    "course_descr":null,
+    "course_descr":"Required discussion section for POLS UN1201: INTRO TO AMERICAN POLITICS\n\n",
     "instructor":"Muzhi Liu",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:00pm",
@@ -42308,7 +42308,9 @@
     "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "POLS UN1201"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20242POLS1211S001",
