@@ -13503,9 +13503,35 @@
     "type":"LABORATORY"
   },
   {
+    "course_code":"CHNS GR5001",
+    "course_title":"CHINESE LINGUISTICS & PEDAGOGY",
+    "course_descr":null,
+    "instructor":"Lening Liu",
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"3:00pm",
+    "call_number":"11621",
+    "campus":null,
+    "class_id":"G5001-20251-001",
+    "course_subtitle":"CHINESE LINGUISTICS & PED",
+    "department":"East Asian Languages and Cultures",
+    "department_code":"CHNS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CHNS\/G5001-20251-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MWR",
+    "section_key":"20251CHNS5001G001",
+    "type":"LANGUAGE"
+  },
+  {
     "course_code":"CHNS GU4013",
     "course_title":"BUSINESS CHINESE II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: two years of Chinese study at college level. This course is designed for students who have studied Chinese for two years at college level and are interested in business studies concerning China. It offers systematic descriptions of Chinese language used in business discourse. CC GS EN CE",
     "instructor":"Zhong Qi Shi",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -13531,7 +13557,7 @@
   {
     "course_code":"CHNS GU4018",
     "course_title":"FOURTH YEAR CHINESE ADV II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: CHNS W4017 or the equivalent. This is a non-consecutive reading course designed for those whose proficiency is above 4th level. See Admission to Language Courses. Selections from contemporary Chinese authors in both traditional and simplified characters with attention to expository, journalistic, and literary styles.",
     "instructor":"Chen Wu",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -13548,7 +13574,9 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "CHNS W4017"
+      ]
     ],
     "scheduled_days":"MWF",
     "section_key":"20251CHNS4018W001",
@@ -13557,7 +13585,7 @@
   {
     "course_code":"CHNS GU4050",
     "course_title":"Legal Chinese",
-    "course_descr":null,
+    "course_descr":"Legal Chinese is designed for students who have studied at least three years of Chinese (or the equivalent) and are interested in legal studies concerning China. This course offers systematic descriptions of Chinese language used in legal discourse, its vocabulary, syntactic structures and pragmatic functions.",
     "instructor":"Tianqi Jiang",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -13583,7 +13611,7 @@
   {
     "course_code":"CHNS GU4113",
     "course_title":"Advanced Business Chinese II",
-    "course_descr":null,
+    "course_descr":"Advanced Business Chinese II is the continuation of Advanced Business Chinese I, both of which are designed to help Columbia students who have achieved the advanced level of proficiency in Chinese use the language to communicate effectively in professional contexts. Topics to be discussed include, but are not limited to, the concept of Face, Guanxi\/Interpersonal obligations, Chinese modesty and humility, and Chinese style of negotiation and decision making.",
     "instructor":"Zhong Qi Shi",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -13609,7 +13637,7 @@
   {
     "course_code":"CHNS GU4302",
     "course_title":"INTRO TO CLASSICAL CHINESE II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: CHNS W3301: Classical Chinese I; completion of three years of modern Chinese at least, or four years of Japanese or Korean. Please see department. Prerequisites: CHNS W3301: Classical Chinese I; completion of three years of modern Chinese at least, or four years of Japanese or Korean.",
     "instructor":null,
     "scheduled_time_start":"11:00am",
     "scheduled_time_end":"11:50am",
@@ -13626,7 +13654,10 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "CHNS W3301",
+        "CHNS W3301"
+      ]
     ],
     "scheduled_days":"MWF",
     "section_key":"20251CHNS4302W001",
@@ -13635,7 +13666,7 @@
   {
     "course_code":"CHNS UN1102",
     "course_title":"FIRST YEAR CHINESE II",
-    "course_descr":null,
+    "course_descr":"This course offers an immersive look into contemporary China, combining both dialogues and narratives. Through meticulously designed texts and exercises, it highlights key Chinese linguistic structures and functions, provides cultural insights, and draws students into China\u2019s continually evolving landscape. By the end of the full course (two semesters), students are expected to have the following proficiencies: Listening: Grasp conversations, narratives, and informational content matched to their proficiency level. Speaking: Handle everyday situations and participate in discussions on daily events, careers, society, and culture. Reading: Delve into expository and narrative writings, ensuring accurate vocabulary usage, and discern the primary theme of passages. Writing: Construct essays spanning from personal accounts to analytical discussions, utilizing appropriate vocabulary. Culture: Understand and adhere to fundamental Chinese social conventions, employing the language in harmony with these guidelines.",
     "instructor":"Ling Yan",
     "scheduled_time_start":"8:50am",
     "scheduled_time_end":"9:55am",
@@ -13661,7 +13692,7 @@
   {
     "course_code":"CHNS UN1102",
     "course_title":"FIRST YEAR CHINESE II",
-    "course_descr":null,
+    "course_descr":"This course offers an immersive look into contemporary China, combining both dialogues and narratives. Through meticulously designed texts and exercises, it highlights key Chinese linguistic structures and functions, provides cultural insights, and draws students into China\u2019s continually evolving landscape. By the end of the full course (two semesters), students are expected to have the following proficiencies: Listening: Grasp conversations, narratives, and informational content matched to their proficiency level. Speaking: Handle everyday situations and participate in discussions on daily events, careers, society, and culture. Reading: Delve into expository and narrative writings, ensuring accurate vocabulary usage, and discern the primary theme of passages. Writing: Construct essays spanning from personal accounts to analytical discussions, utilizing appropriate vocabulary. Culture: Understand and adhere to fundamental Chinese social conventions, employing the language in harmony with these guidelines.",
     "instructor":"Chen Wu",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:15am",
@@ -13687,7 +13718,7 @@
   {
     "course_code":"CHNS UN1102",
     "course_title":"FIRST YEAR CHINESE II",
-    "course_descr":null,
+    "course_descr":"This course offers an immersive look into contemporary China, combining both dialogues and narratives. Through meticulously designed texts and exercises, it highlights key Chinese linguistic structures and functions, provides cultural insights, and draws students into China\u2019s continually evolving landscape. By the end of the full course (two semesters), students are expected to have the following proficiencies: Listening: Grasp conversations, narratives, and informational content matched to their proficiency level. Speaking: Handle everyday situations and participate in discussions on daily events, careers, society, and culture. Reading: Delve into expository and narrative writings, ensuring accurate vocabulary usage, and discern the primary theme of passages. Writing: Construct essays spanning from personal accounts to analytical discussions, utilizing appropriate vocabulary. Culture: Understand and adhere to fundamental Chinese social conventions, employing the language in harmony with these guidelines.",
     "instructor":"Lingjun Hu",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:45pm",
@@ -13713,7 +13744,7 @@
   {
     "course_code":"CHNS UN1102",
     "course_title":"FIRST YEAR CHINESE II",
-    "course_descr":null,
+    "course_descr":"This course offers an immersive look into contemporary China, combining both dialogues and narratives. Through meticulously designed texts and exercises, it highlights key Chinese linguistic structures and functions, provides cultural insights, and draws students into China\u2019s continually evolving landscape. By the end of the full course (two semesters), students are expected to have the following proficiencies: Listening: Grasp conversations, narratives, and informational content matched to their proficiency level. Speaking: Handle everyday situations and participate in discussions on daily events, careers, society, and culture. Reading: Delve into expository and narrative writings, ensuring accurate vocabulary usage, and discern the primary theme of passages. Writing: Construct essays spanning from personal accounts to analytical discussions, utilizing appropriate vocabulary. Culture: Understand and adhere to fundamental Chinese social conventions, employing the language in harmony with these guidelines.",
     "instructor":"Yike Li",
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:45pm",
@@ -13739,7 +13770,7 @@
   {
     "course_code":"CHNS UN1102",
     "course_title":"FIRST YEAR CHINESE II",
-    "course_descr":null,
+    "course_descr":"This course offers an immersive look into contemporary China, combining both dialogues and narratives. Through meticulously designed texts and exercises, it highlights key Chinese linguistic structures and functions, provides cultural insights, and draws students into China\u2019s continually evolving landscape. By the end of the full course (two semesters), students are expected to have the following proficiencies: Listening: Grasp conversations, narratives, and informational content matched to their proficiency level. Speaking: Handle everyday situations and participate in discussions on daily events, careers, society, and culture. Reading: Delve into expository and narrative writings, ensuring accurate vocabulary usage, and discern the primary theme of passages. Writing: Construct essays spanning from personal accounts to analytical discussions, utilizing appropriate vocabulary. Culture: Understand and adhere to fundamental Chinese social conventions, employing the language in harmony with these guidelines.",
     "instructor":"Kai-Di K Chen",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:15pm",
@@ -13765,7 +13796,7 @@
   {
     "course_code":"CHNS UN1112",
     "course_title":"FIRST YEAR CHINESE W II",
-    "course_descr":null,
+    "course_descr":"The course is specially designed for students of Chinese heritage and advanced beginners with good speaking skills. It aims to develop the students basic skills to read and write modern colloquial Chinese. Pinyin system is introduced; standard Chinese pronunciation, and traditional characters. Classes will be conducted mostly in Chinese. Open to students with Mandarin speaking ability in Chinese only. CC GS EN CE",
     "instructor":"Tianqi Jiang",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -13791,7 +13822,7 @@
   {
     "course_code":"CHNS UN1112",
     "course_title":"FIRST YEAR CHINESE W II",
-    "course_descr":null,
+    "course_descr":"The course is specially designed for students of Chinese heritage and advanced beginners with good speaking skills. It aims to develop the students basic skills to read and write modern colloquial Chinese. Pinyin system is introduced; standard Chinese pronunciation, and traditional characters. Classes will be conducted mostly in Chinese. Open to students with Mandarin speaking ability in Chinese only. CC GS EN CE",
     "instructor":"Hailong Wang",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:25pm",
@@ -13817,7 +13848,7 @@
   {
     "course_code":"CHNS UN1112",
     "course_title":"FIRST YEAR CHINESE W II",
-    "course_descr":null,
+    "course_descr":"The course is specially designed for students of Chinese heritage and advanced beginners with good speaking skills. It aims to develop the students basic skills to read and write modern colloquial Chinese. Pinyin system is introduced; standard Chinese pronunciation, and traditional characters. Classes will be conducted mostly in Chinese. Open to students with Mandarin speaking ability in Chinese only. CC GS EN CE",
     "instructor":"Tao Peng",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:25pm",
@@ -13843,7 +13874,7 @@
   {
     "course_code":"CHNS UN3006",
     "course_title":"THIRD YEAR CHINESE W II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: CHNS W4005 or the equivalent. Admission after Chinese placement exam and an oral proficiency interview with the instructor. Especially designed for students who possess good speaking ability and who wish to acquire practical writing skills as well as business-related vocabulary and speech patterns. Introduction to semiformal and formal Chinese used in everyday writing and social or business-related occasions. Simplified characters are introduced.",
     "instructor":"Hailong Wang",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -13860,7 +13891,9 @@
     "open_to":null,
     "points":"5",
     "prerequisites":[
-
+      [
+        "CHNS W4005"
+      ]
     ],
     "scheduled_days":"MWR",
     "section_key":"20251CHNS3006W001",
@@ -16716,7 +16749,7 @@
   {
     "course_code":"CZCH UN1102",
     "course_title":"ELEMENTARY CZECH II",
-    "course_descr":null,
+    "course_descr":"Essentials of the spoken and written language. Prepare students to read texts of moderate difficulty by the end of the first year.",
     "instructor":"Christopher W Harwood",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -16742,7 +16775,7 @@
   {
     "course_code":"CZCH UN2102",
     "course_title":"INTERMEDIATE CZECH II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: CZCH UN1102 or the equivalent. Rapid review of grammar. Readings in contemporary fiction and nonfiction, depending upon the interests of individual students.",
     "instructor":"Christopher W Harwood",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -16759,7 +16792,9 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "CZCH UN1102"
+      ]
     ],
     "scheduled_days":"TRF",
     "section_key":"20251CZCH2102W001",
@@ -27051,7 +27086,7 @@
   {
     "course_code":"HIST GR5001",
     "course_title":"RES SKILLS\/MTHDS-INT\/WRLD HIST",
-    "course_descr":null,
+    "course_descr":"In the first semester a series of workshops will introduce the field of international history and various research skills and methods such as conceptualization of research projects and use of oral sources. The fall sessions will also show the digital resources available at Columbia and how students can deploy them in their individual projects. In the second semester students will apply the skills acquired in the fall as they develop their proposal for the Masters thesis, which is to be completed next year at the LSE. The proposal identifies a significant historical question, the relevant primary and secondary sources, an appropriate methodology, what preliminary research has been done and what remains to be done. Students will present their work-in-progress.",
     "instructor":null,
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"2:00pm",
@@ -27079,7 +27114,7 @@
   {
     "course_code":"HIST GR6999",
     "course_title":"GRADUATE SEMINAR",
-    "course_descr":null,
+    "course_descr":"HIST 6999 GR is a twin listings of an undergraduate History seminar provided to graduate students for graduate credit. If a\u00a0graduate student enrolls, she\/he\/they attends the same class as the undergraduate students (unless otherwise directed by the instructor). Each instructor determines\u00a0additional work for graduate students to complete in order to receive graduate credit for the course. Please refer to the notes section in SSOL for the corresponding (twin) undergraduate 3000 level course and follow that course's meeting day & time and assigned classroom. Instructor permission is required to join.",
     "instructor":"Elisheva Carlebach",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -27100,6 +27135,32 @@
     ],
     "scheduled_days":null,
     "section_key":"20251HIST6999G001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"HIST GR8927",
+    "course_title":"RESEARCH SEMINAR FOR PHD STUDENTS",
+    "course_descr":null,
+    "instructor":"Amy E Chazkel",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"6:00pm",
+    "call_number":"11623",
+    "campus":null,
+    "class_id":"G8927-20251-001",
+    "course_subtitle":"RESEARCH SEMINAR FOR PHD",
+    "department":"History",
+    "department_code":"HIST",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HIST\/G8927-20251-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20251HIST8927G001",
     "type":"SEMINAR"
   },
   {
@@ -27136,7 +27197,7 @@
   {
     "course_code":"HIST GU4110",
     "course_title":"FRENCH AMERICA 1534-1804",
-    "course_descr":null,
+    "course_descr":"A study of the French Atlantic World from the exploration of Canada to the Louisiana\u00a0Purchase and Haitian Independence, with a focus on the relationship between war and\u00a0trade, forms of intercultural negotiation, the economics of slavery, and the changing\u00a0meaning of race.\n  \nThe demise of the First French Colonial Empire occurred in two stages: the British victory at the end of the Seven Years War in 1763, and the proclamation of Haitian\u00a0Independence by insurgent slaves in 1804. The first French presence in the New World was the exploration of the Gulf of St. Lawrence by Jacques Cartier in 1534. At its peak\u00a0the French Atlantic Empire included one-third of the North American continent, as well as the richest and most productive sugar and coffee plantations in the world.\n  \nBy\u00a0following the history of French colonization in North America and the Caribbean, this class aims to provide students with a different perspective on the history of the Western hemisphere, and on US history itself. At the heart of the subject is the encounter between\u00a0Europeans and Native Americans and between Europeans and Africans. We will focus the discussion on a few issues: the strengths and weaknesses of French imperial control\u00a0as compared with the Spanish and the British; the social, political, military, and religious dimensions of relations with Native Americans; the extraordinary prosperity and fragility of the plantation system; evolving notions of race and citizenship; and how the French\u00a0Atlantic Empire shaped the history of the emerging United States.",
     "instructor":"Pierre Force",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -27188,7 +27249,7 @@
   {
     "course_code":"HIST GU4632",
     "course_title":"Jews in the Ancient City: Politics and M",
-    "course_descr":null,
+    "course_descr":"This course will examine the experience of Jews in the cities of the eastern Roman Empire, offering a challenge to modern hypotheses of Jewish corporate stability in that setting and contributing to modern discussions of the relations between the Roman state, Greek cities, and Jewish and Christian subjects.",
     "instructor":"Seth R Schwartz",
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"2:00pm",
@@ -27212,9 +27273,61 @@
     "type":"SEMINAR"
   },
   {
+    "course_code":"HIST GU4711",
+    "course_title":"OCCULT IN THE MUSLIM PAST",
+    "course_descr":null,
+    "instructor":"Tunc Sen",
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"11630",
+    "campus":null,
+    "class_id":"W4711-20251-001",
+    "course_subtitle":null,
+    "department":"History",
+    "department_code":"HIST",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HIST\/W4711-20251-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20251HIST4711W001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"HIST GU4729",
+    "course_title":"Sources and Methods in Islamic History",
+    "course_descr":null,
+    "instructor":"Ali Karjoo-Ravary",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"12:00pm",
+    "call_number":"11629",
+    "campus":null,
+    "class_id":"W4729-20251-001",
+    "course_subtitle":"Source + Method Islamic H",
+    "department":"History",
+    "department_code":"HIST",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HIST\/W4729-20251-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20251HIST4729W001",
+    "type":"SEMINAR"
+  },
+  {
     "course_code":"HIST GU4842",
     "course_title":"The City & the Archive",
-    "course_descr":null,
+    "course_descr":"How to write the city? What is an archive for writing the city? What liminal and marginal perspectives are available for thinking about writing the city? What is the place of the city in the global south in our historical imagination? Our attempt in this seminar is to look at the global south city from the historical and analytical perspectives of those dispossessed and marginal. Instead of \u2018grand\u2019 summations about \u201cthe Islamic City\u201d or \u201cGlobal City,\u201d we will work meticulously to observe annotations on power that constructs cities, archives and their afterlives. The emphasis is on the city in South Asia as a particular referent though we will learn to see Cairo, New York, and Istanbul.",
     "instructor":null,
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -27273,7 +27386,7 @@
   {
     "course_code":"HIST UN3645",
     "course_title":"Jews in Early Modern Europe, 1492-1750",
-    "course_descr":null,
+    "course_descr":"A seminar on the historical, political, and cultural developments in the Jewish communities of early-modern Western Europe (1492-1789) with particular emphasis on the transition from medieval to modern patterns. We will study the resettlement of Jews in Western Europe, Jews in the Reformation-era German lands, Italian Jews during the late Renaissance, the rise of Kabbalah, and the beginnings of the quest for civil Emancipation. Field(s): JWS\/EME",
     "instructor":"Elisheva Carlebach",
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"2:00pm",
@@ -27410,7 +27523,7 @@
   {
     "course_code":"HRTS GR6800",
     "course_title":"INTERNATIONAL HUMAN RIGHTS LAW",
-    "course_descr":null,
+    "course_descr":"This course introduces the fundamental concepts and problems of international human rights law. What are the origins of modern human rights law? What is the substance of this law, who is obligated by it, and how is it enforced? The course will cover the major international human rights treaties and mechanisms and consider some of todays most significant human rights issues and controversies. While the topics are necessarily law-related, the course will assume no prior exposure to legal studies.",
     "instructor":"Belinda Cooper",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -30817,6 +30930,90 @@
     ],
     "scheduled_days":"S",
     "section_key":"20251IFIN0104KD01",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"IMGT PS5200",
+    "course_title":"UNDERWRITING",
+    "course_descr":null,
+    "instructor":"Mary Ann Susavidge",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11624",
+    "campus":null,
+    "class_id":"K5200-20251-D01",
+    "course_subtitle":null,
+    "department":"Insurance Management",
+    "department_code":"IMGT",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/IMGT\/K5200-20251-D01\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20251IMGT5200KD01",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"IMGT PS5400",
+    "course_title":"OPERATIONS: BACKBONE OF THE COMPANY",
+    "course_descr":null,
+    "instructor":"Marguerite Demartino",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11627",
+    "campus":null,
+    "class_id":"K5400-20251-D01",
+    "course_subtitle":"OPERATIONS: BACKBONE OF C",
+    "department":"Insurance Management",
+    "department_code":"IMGT",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/IMGT\/K5400-20251-D01\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20251IMGT5400KD01",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"IMGT PS5500",
+    "course_title":"GLOBAL LEGAL & REGULATORY ECOSYSTEM",
+    "course_descr":null,
+    "instructor":"Sandra Bograd",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11628",
+    "campus":null,
+    "class_id":"K5500-20251-D01",
+    "course_subtitle":"GLOBAL LEGAL & REGULATORY",
+    "department":"Insurance Management",
+    "department_code":"IMGT",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/IMGT\/K5500-20251-D01\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20251IMGT5500KD01",
     "type":"LECTURE"
   },
   {
@@ -34881,7 +35078,7 @@
   {
     "course_code":"JPNS GR5017",
     "course_title":"FIFTH YEAR JAPANESE II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: JPNS GR5016 or the equivalent. This course is intended to help students to develop language skills necessary for academic research. Students will read articles, watch videos, and debate issues from a wide range of fields including economics, politics, history, comparative literature, and current issues.",
     "instructor":"Miharu Nittono",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -34898,7 +35095,9 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "JPNS GR5016"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20251JPNS5017G001",
@@ -34907,7 +35106,7 @@
   {
     "course_code":"JPNS GU4018",
     "course_title":"FOURTH YEAR JAPANESE II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: JPNS W4017 or the equivalent. Sections 1 - 2: Readings of advanced modern literary, historical, political, and journalistic texts, and class discussions about current issues and videos. Exercises in scanning, comprehension, and English translation. Section 3: Designed for advanced students interested in developing skills for reading and comprehending modern Japanese scholarship.",
     "instructor":"Kyoko M Loetscher",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -34924,7 +35123,9 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "JPNS W4017"
+      ]
     ],
     "scheduled_days":"MWF",
     "section_key":"20251JPNS4018W002",
@@ -34933,7 +35134,7 @@
   {
     "course_code":"JPNS GU4018",
     "course_title":"FOURTH YEAR JAPANESE II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: JPNS W4017 or the equivalent. Sections 1 - 2: Readings of advanced modern literary, historical, political, and journalistic texts, and class discussions about current issues and videos. Exercises in scanning, comprehension, and English translation. Section 3: Designed for advanced students interested in developing skills for reading and comprehending modern Japanese scholarship.",
     "instructor":"Shigeru Eguchi",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -34950,7 +35151,9 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "JPNS W4017"
+      ]
     ],
     "scheduled_days":"MWF",
     "section_key":"20251JPNS4018W001",
@@ -34959,7 +35162,7 @@
   {
     "course_code":"JPNS UN1001",
     "course_title":"INTRODUCTORY JAPANESE A",
-    "course_descr":null,
+    "course_descr":"Introductory Japanese A is an introduction to Japanese language and culture and is designed for students who have had little or no experience learning Japanese. The goal of this course is to develop four basic skills in modern Japanese with an emphasis on grammatical accuracy and socially appropriate language use. Upon successful completion of this course, students will be able to engage in basic daily conversations and to develop the ability to read and write hiragana as well as katakana.\n  \nThe sequence includes JPNS UN1001 Introductory Japanese A and JPNS\u00a0UN1002 Introductory Japanese B. These courses combined (JPNS UN1001 and JPNS UN1002) are the\u00a0equivalent to JPNS UN1101 First Year Japanese I and fulfills the requirement for admission to JPNS UN1102 First Year Japanese II.",
     "instructor":null,
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:45pm",
@@ -34976,7 +35179,20 @@
     "open_to":null,
     "points":"2.5",
     "prerequisites":[
-
+      [
+        "JPNS UN1001"
+      ],
+      [
+        "JPNS UN1002"
+      ],
+      [
+        "JPNS UN1101",
+        "JPNS UN1102"
+      ],
+      [
+        "UN1002",
+        "JPNS UN1001"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20251JPNS1001W001",
@@ -34985,7 +35201,7 @@
   {
     "course_code":"JPNS UN1001",
     "course_title":"INTRODUCTORY JAPANESE A",
-    "course_descr":null,
+    "course_descr":"Introductory Japanese A is an introduction to Japanese language and culture and is designed for students who have had little or no experience learning Japanese. The goal of this course is to develop four basic skills in modern Japanese with an emphasis on grammatical accuracy and socially appropriate language use. Upon successful completion of this course, students will be able to engage in basic daily conversations and to develop the ability to read and write hiragana as well as katakana.\n  \nThe sequence includes JPNS UN1001 Introductory Japanese A and JPNS\u00a0UN1002 Introductory Japanese B. These courses combined (JPNS UN1001 and JPNS UN1002) are the\u00a0equivalent to JPNS UN1101 First Year Japanese I and fulfills the requirement for admission to JPNS UN1102 First Year Japanese II.",
     "instructor":null,
     "scheduled_time_start":"5:40pm",
     "scheduled_time_end":"6:45pm",
@@ -35002,7 +35218,20 @@
     "open_to":null,
     "points":"2.5",
     "prerequisites":[
-
+      [
+        "JPNS UN1001"
+      ],
+      [
+        "JPNS UN1002"
+      ],
+      [
+        "JPNS UN1101",
+        "JPNS UN1102"
+      ],
+      [
+        "UN1002",
+        "JPNS UN1001"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20251JPNS1001W002",
@@ -35011,7 +35240,7 @@
   {
     "course_code":"JPNS UN1001",
     "course_title":"INTRODUCTORY JAPANESE A",
-    "course_descr":null,
+    "course_descr":"Introductory Japanese A is an introduction to Japanese language and culture and is designed for students who have had little or no experience learning Japanese. The goal of this course is to develop four basic skills in modern Japanese with an emphasis on grammatical accuracy and socially appropriate language use. Upon successful completion of this course, students will be able to engage in basic daily conversations and to develop the ability to read and write hiragana as well as katakana.\n  \nThe sequence includes JPNS UN1001 Introductory Japanese A and JPNS\u00a0UN1002 Introductory Japanese B. These courses combined (JPNS UN1001 and JPNS UN1002) are the\u00a0equivalent to JPNS UN1101 First Year Japanese I and fulfills the requirement for admission to JPNS UN1102 First Year Japanese II.",
     "instructor":null,
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:45pm",
@@ -35028,7 +35257,20 @@
     "open_to":null,
     "points":"2.5",
     "prerequisites":[
-
+      [
+        "JPNS UN1001"
+      ],
+      [
+        "JPNS UN1002"
+      ],
+      [
+        "JPNS UN1101",
+        "JPNS UN1102"
+      ],
+      [
+        "UN1002",
+        "JPNS UN1001"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20251JPNS1001W003",
@@ -35037,7 +35279,7 @@
   {
     "course_code":"JPNS UN1001",
     "course_title":"INTRODUCTORY JAPANESE A",
-    "course_descr":null,
+    "course_descr":"Introductory Japanese A is an introduction to Japanese language and culture and is designed for students who have had little or no experience learning Japanese. The goal of this course is to develop four basic skills in modern Japanese with an emphasis on grammatical accuracy and socially appropriate language use. Upon successful completion of this course, students will be able to engage in basic daily conversations and to develop the ability to read and write hiragana as well as katakana.\n  \nThe sequence includes JPNS UN1001 Introductory Japanese A and JPNS\u00a0UN1002 Introductory Japanese B. These courses combined (JPNS UN1001 and JPNS UN1002) are the\u00a0equivalent to JPNS UN1101 First Year Japanese I and fulfills the requirement for admission to JPNS UN1102 First Year Japanese II.",
     "instructor":null,
     "scheduled_time_start":"5:40pm",
     "scheduled_time_end":"6:45pm",
@@ -35054,7 +35296,20 @@
     "open_to":null,
     "points":"2.5",
     "prerequisites":[
-
+      [
+        "JPNS UN1001"
+      ],
+      [
+        "JPNS UN1002"
+      ],
+      [
+        "JPNS UN1101",
+        "JPNS UN1102"
+      ],
+      [
+        "UN1002",
+        "JPNS UN1001"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20251JPNS1001W004",
@@ -35063,7 +35318,7 @@
   {
     "course_code":"JPNS UN1102",
     "course_title":"FIRST YEAR JAPANESE II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: JPNS C1101, F1101, or W1001-W1002, or the equivalent. Basic training in Japanese through speaking, listening, reading and writing in various cultural contexts.",
     "instructor":"Fumiko Nazikian",
     "scheduled_time_start":"8:50am",
     "scheduled_time_end":"9:55am",
@@ -35080,7 +35335,16 @@
     "open_to":null,
     "points":"5",
     "prerequisites":[
-
+      [
+        "F1101",
+        "W1001"
+      ],
+      [
+        "JPNS C1101"
+      ],
+      [
+        "W1002"
+      ]
     ],
     "scheduled_days":"MTWR",
     "section_key":"20251JPNS1102C001",
@@ -35089,7 +35353,7 @@
   {
     "course_code":"JPNS UN1102",
     "course_title":"FIRST YEAR JAPANESE II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: JPNS C1101, F1101, or W1001-W1002, or the equivalent. Basic training in Japanese through speaking, listening, reading and writing in various cultural contexts.",
     "instructor":"Shuichiro Takeda",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:15am",
@@ -35106,7 +35370,16 @@
     "open_to":null,
     "points":"5",
     "prerequisites":[
-
+      [
+        "F1101",
+        "W1001"
+      ],
+      [
+        "JPNS C1101"
+      ],
+      [
+        "W1002"
+      ]
     ],
     "scheduled_days":"MTWR",
     "section_key":"20251JPNS1102C002",
@@ -35115,7 +35388,7 @@
   {
     "course_code":"JPNS UN1102",
     "course_title":"FIRST YEAR JAPANESE II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: JPNS C1101, F1101, or W1001-W1002, or the equivalent. Basic training in Japanese through speaking, listening, reading and writing in various cultural contexts.",
     "instructor":"Fumiko Nazikian",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:45pm",
@@ -35132,7 +35405,16 @@
     "open_to":null,
     "points":"5",
     "prerequisites":[
-
+      [
+        "F1101",
+        "W1001"
+      ],
+      [
+        "JPNS C1101"
+      ],
+      [
+        "W1002"
+      ]
     ],
     "scheduled_days":"MTWR",
     "section_key":"20251JPNS1102C003",
@@ -35141,7 +35423,7 @@
   {
     "course_code":"JPNS UN1102",
     "course_title":"FIRST YEAR JAPANESE II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: JPNS C1101, F1101, or W1001-W1002, or the equivalent. Basic training in Japanese through speaking, listening, reading and writing in various cultural contexts.",
     "instructor":"Chikako Takahashi",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:45pm",
@@ -35158,7 +35440,16 @@
     "open_to":null,
     "points":"5",
     "prerequisites":[
-
+      [
+        "F1101",
+        "W1001"
+      ],
+      [
+        "JPNS C1101"
+      ],
+      [
+        "W1002"
+      ]
     ],
     "scheduled_days":"MTWR",
     "section_key":"20251JPNS1102C004",
@@ -35167,7 +35458,7 @@
   {
     "course_code":"JPNS UN1102",
     "course_title":"FIRST YEAR JAPANESE II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: JPNS C1101, F1101, or W1001-W1002, or the equivalent. Basic training in Japanese through speaking, listening, reading and writing in various cultural contexts.",
     "instructor":"Miharu Nittono",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:15pm",
@@ -35184,7 +35475,16 @@
     "open_to":null,
     "points":"5",
     "prerequisites":[
-
+      [
+        "F1101",
+        "W1001"
+      ],
+      [
+        "JPNS C1101"
+      ],
+      [
+        "W1002"
+      ]
     ],
     "scheduled_days":"MTWR",
     "section_key":"20251JPNS1102C005",
@@ -35193,7 +35493,7 @@
   {
     "course_code":"JPNS UN1102",
     "course_title":"FIRST YEAR JAPANESE II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: JPNS C1101, F1101, or W1001-W1002, or the equivalent. Basic training in Japanese through speaking, listening, reading and writing in various cultural contexts.",
     "instructor":"Chikako Takahashi",
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:45pm",
@@ -35210,7 +35510,16 @@
     "open_to":null,
     "points":"5",
     "prerequisites":[
-
+      [
+        "F1101",
+        "W1001"
+      ],
+      [
+        "JPNS C1101"
+      ],
+      [
+        "W1002"
+      ]
     ],
     "scheduled_days":"MTWR",
     "section_key":"20251JPNS1102C006",
@@ -35219,7 +35528,7 @@
   {
     "course_code":"JPNS UN1102",
     "course_title":"FIRST YEAR JAPANESE II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: JPNS C1101, F1101, or W1001-W1002, or the equivalent. Basic training in Japanese through speaking, listening, reading and writing in various cultural contexts.",
     "instructor":"Mihoko Yagi",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:15pm",
@@ -35236,7 +35545,16 @@
     "open_to":null,
     "points":"5",
     "prerequisites":[
-
+      [
+        "F1101",
+        "W1001"
+      ],
+      [
+        "JPNS C1101"
+      ],
+      [
+        "W1002"
+      ]
     ],
     "scheduled_days":"MTWR",
     "section_key":"20251JPNS1102C007",
@@ -35245,7 +35563,7 @@
   {
     "course_code":"JPNS UN2202",
     "course_title":"SECOND YEAR JAPANESE II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: JPNS C1201 or the equivalent. Further practice in the four language skills. Participation in a once a week conversation class is required.",
     "instructor":"Naoko Sourial",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:15am",
@@ -35262,7 +35580,9 @@
     "open_to":null,
     "points":"5",
     "prerequisites":[
-
+      [
+        "JPNS C1201"
+      ]
     ],
     "scheduled_days":"MTWR",
     "section_key":"20251JPNS2202C001",
@@ -35271,7 +35591,7 @@
   {
     "course_code":"JPNS UN2202",
     "course_title":"SECOND YEAR JAPANESE II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: JPNS C1201 or the equivalent. Further practice in the four language skills. Participation in a once a week conversation class is required.",
     "instructor":"Shigeru Eguchi",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:45pm",
@@ -35288,7 +35608,9 @@
     "open_to":null,
     "points":"5",
     "prerequisites":[
-
+      [
+        "JPNS C1201"
+      ]
     ],
     "scheduled_days":"MTWR",
     "section_key":"20251JPNS2202C002",
@@ -35297,7 +35619,7 @@
   {
     "course_code":"JPNS UN2202",
     "course_title":"SECOND YEAR JAPANESE II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: JPNS C1201 or the equivalent. Further practice in the four language skills. Participation in a once a week conversation class is required.",
     "instructor":"Chikako Takahashi",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:15pm",
@@ -35314,7 +35636,9 @@
     "open_to":null,
     "points":"5",
     "prerequisites":[
-
+      [
+        "JPNS C1201"
+      ]
     ],
     "scheduled_days":"MTWR",
     "section_key":"20251JPNS2202C003",
@@ -35323,7 +35647,7 @@
   {
     "course_code":"JPNS UN2202",
     "course_title":"SECOND YEAR JAPANESE II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: JPNS C1201 or the equivalent. Further practice in the four language skills. Participation in a once a week conversation class is required.",
     "instructor":"Shigeru Eguchi",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:15pm",
@@ -35340,7 +35664,9 @@
     "open_to":null,
     "points":"5",
     "prerequisites":[
-
+      [
+        "JPNS C1201"
+      ]
     ],
     "scheduled_days":"MTWR",
     "section_key":"20251JPNS2202C004",
@@ -35349,7 +35675,7 @@
   {
     "course_code":"JPNS UN3006",
     "course_title":"THIRD YEAR JAPANESE II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: JPNS W4005 or the equivalent. Readings in authentic\/semi-authentic texts, videos, and class discussions.",
     "instructor":"Kyoko M Loetscher",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:15am",
@@ -35366,7 +35692,9 @@
     "open_to":null,
     "points":"5",
     "prerequisites":[
-
+      [
+        "JPNS W4005"
+      ]
     ],
     "scheduled_days":"MTWR",
     "section_key":"20251JPNS3006W001",
@@ -35375,7 +35703,7 @@
   {
     "course_code":"JPNS UN3006",
     "course_title":"THIRD YEAR JAPANESE II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: JPNS W4005 or the equivalent. Readings in authentic\/semi-authentic texts, videos, and class discussions.",
     "instructor":"Naoko Sourial",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:45pm",
@@ -35392,7 +35720,9 @@
     "open_to":null,
     "points":"5",
     "prerequisites":[
-
+      [
+        "JPNS W4005"
+      ]
     ],
     "scheduled_days":"MTWR",
     "section_key":"20251JPNS3006W002",
@@ -35453,7 +35783,7 @@
   {
     "course_code":"KORN GU4106",
     "course_title":"FOURTH YEAR KOREAN II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: KORN W4006 or the equivalent. Selections from advanced modern Korean writings in social sciences, literature, culture, history, journalistic texts, and intensive conversation exercises.",
     "instructor":"Beom Lee",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -35470,7 +35800,9 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "KORN W4006"
+      ]
     ],
     "scheduled_days":"MWR",
     "section_key":"20251KORN4106W001",
@@ -35505,7 +35837,7 @@
   {
     "course_code":"KORN UN1001",
     "course_title":"INTRODUCTORY KOREAN A",
-    "course_descr":null,
+    "course_descr":"This course provides basic training in listening, speaking, reading, and writing in Korean. Introductory Korean A is equivalent to the first half of First Year Korean I.",
     "instructor":"Hyunkyu Yi",
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:45pm",
@@ -35531,7 +35863,7 @@
   {
     "course_code":"KORN UN1001",
     "course_title":"INTRODUCTORY KOREAN A",
-    "course_descr":null,
+    "course_descr":"This course provides basic training in listening, speaking, reading, and writing in Korean. Introductory Korean A is equivalent to the first half of First Year Korean I.",
     "instructor":"Hyunkyu Yi",
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:45pm",
@@ -35557,7 +35889,7 @@
   {
     "course_code":"KORN UN1001",
     "course_title":"INTRODUCTORY KOREAN A",
-    "course_descr":null,
+    "course_descr":"This course provides basic training in listening, speaking, reading, and writing in Korean. Introductory Korean A is equivalent to the first half of First Year Korean I.",
     "instructor":"Seunghyo Ryu",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:45pm",
@@ -35583,7 +35915,7 @@
   {
     "course_code":"KORN UN1001",
     "course_title":"INTRODUCTORY KOREAN A",
-    "course_descr":null,
+    "course_descr":"This course provides basic training in listening, speaking, reading, and writing in Korean. Introductory Korean A is equivalent to the first half of First Year Korean I.",
     "instructor":"Seunghyo Ryu",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:45pm",
@@ -35609,7 +35941,7 @@
   {
     "course_code":"KORN UN1102",
     "course_title":"FIRST YEAR KOREAN II",
-    "course_descr":null,
+    "course_descr":"An introduction to written and spoken Korean. Textbook: Integrated Korean, Beginning I and II.",
     "instructor":"Hey-Ryoun Hong",
     "scheduled_time_start":"8:50am",
     "scheduled_time_end":"9:55am",
@@ -35635,7 +35967,7 @@
   {
     "course_code":"KORN UN1102",
     "course_title":"FIRST YEAR KOREAN II",
-    "course_descr":null,
+    "course_descr":"An introduction to written and spoken Korean. Textbook: Integrated Korean, Beginning I and II.",
     "instructor":"Yun Kim",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:15am",
@@ -35661,7 +35993,7 @@
   {
     "course_code":"KORN UN1102",
     "course_title":"FIRST YEAR KOREAN II",
-    "course_descr":null,
+    "course_descr":"An introduction to written and spoken Korean. Textbook: Integrated Korean, Beginning I and II.",
     "instructor":"Ji-Young Jung",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:45pm",
@@ -35687,7 +36019,7 @@
   {
     "course_code":"KORN UN1102",
     "course_title":"FIRST YEAR KOREAN II",
-    "course_descr":null,
+    "course_descr":"An introduction to written and spoken Korean. Textbook: Integrated Korean, Beginning I and II.",
     "instructor":"Sue Yoon",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:15pm",
@@ -35713,7 +36045,7 @@
   {
     "course_code":"KORN UN1102",
     "course_title":"FIRST YEAR KOREAN II",
-    "course_descr":null,
+    "course_descr":"An introduction to written and spoken Korean. Textbook: Integrated Korean, Beginning I and II.",
     "instructor":"Joowon Suh",
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:45pm",
@@ -35739,7 +36071,7 @@
   {
     "course_code":"KORN UN1102",
     "course_title":"FIRST YEAR KOREAN II",
-    "course_descr":null,
+    "course_descr":"An introduction to written and spoken Korean. Textbook: Integrated Korean, Beginning I and II.",
     "instructor":"Ji Kim",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:15pm",
@@ -35765,7 +36097,7 @@
   {
     "course_code":"KORN UN2202",
     "course_title":"SECOND YEAR KOREAN II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: KORN W1102 or the equivalent. Consultation with the instructors is required before registration for section assignment. Further practice in reading, writing, listening comprehension, conversation, and grammar.",
     "instructor":"Sue Yoon",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:45pm",
@@ -35782,7 +36114,9 @@
     "open_to":null,
     "points":"5",
     "prerequisites":[
-
+      [
+        "KORN W1102"
+      ]
     ],
     "scheduled_days":"MTWR",
     "section_key":"20251KORN2202W001",
@@ -35791,7 +36125,7 @@
   {
     "course_code":"KORN UN2202",
     "course_title":"SECOND YEAR KOREAN II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: KORN W1102 or the equivalent. Consultation with the instructors is required before registration for section assignment. Further practice in reading, writing, listening comprehension, conversation, and grammar.",
     "instructor":"Eunice Chung",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:15pm",
@@ -35808,7 +36142,9 @@
     "open_to":null,
     "points":"5",
     "prerequisites":[
-
+      [
+        "KORN W1102"
+      ]
     ],
     "scheduled_days":"MTWR",
     "section_key":"20251KORN2202W002",
@@ -35817,7 +36153,7 @@
   {
     "course_code":"KORN UN2202",
     "course_title":"SECOND YEAR KOREAN II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: KORN W1102 or the equivalent. Consultation with the instructors is required before registration for section assignment. Further practice in reading, writing, listening comprehension, conversation, and grammar.",
     "instructor":"Beom Lee",
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:45pm",
@@ -35834,7 +36170,9 @@
     "open_to":null,
     "points":"5",
     "prerequisites":[
-
+      [
+        "KORN W1102"
+      ]
     ],
     "scheduled_days":"MTWR",
     "section_key":"20251KORN2202W003",
@@ -35843,7 +36181,7 @@
   {
     "course_code":"KORN UN2202",
     "course_title":"SECOND YEAR KOREAN II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: KORN W1102 or the equivalent. Consultation with the instructors is required before registration for section assignment. Further practice in reading, writing, listening comprehension, conversation, and grammar.",
     "instructor":"Yongjun Choi",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:15pm",
@@ -35860,7 +36198,9 @@
     "open_to":null,
     "points":"5",
     "prerequisites":[
-
+      [
+        "KORN W1102"
+      ]
     ],
     "scheduled_days":"MTWR",
     "section_key":"20251KORN2202W004",
@@ -35869,7 +36209,7 @@
   {
     "course_code":"KORN UN2222",
     "course_title":"Accelerated Korean for Heritage Speakers",
-    "course_descr":null,
+    "course_descr":"Accelerated Korean II is specifically designed for heritage students of Korean, who already have previous knowledge of basic grammar and culture. This course completes the college's two-year foreign language requirement.",
     "instructor":"Ji-Young Jung",
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:45pm",
@@ -35895,7 +36235,7 @@
   {
     "course_code":"KORN UN2222",
     "course_title":"Accelerated Korean for Heritage Speakers",
-    "course_descr":null,
+    "course_descr":"Accelerated Korean II is specifically designed for heritage students of Korean, who already have previous knowledge of basic grammar and culture. This course completes the college's two-year foreign language requirement.",
     "instructor":"Ji-Young Jung",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:15am",
@@ -35921,7 +36261,7 @@
   {
     "course_code":"KORN UN3006",
     "course_title":"THIRD YEAR KOREAN II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: KORN W1202 or the equivalent and consultation with instructor. (See Entrance to Language Courses Beyond the Elementary Level in the main bulletin under Department of Instruction -- East Asian Languages and Cultures.) Readings in modern Korean. Selections from modern Korean writings in literature, history, social sciences, culture, and videos and class discussions.",
     "instructor":"Hyunkyu Yi",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:45pm",
@@ -35938,7 +36278,9 @@
     "open_to":null,
     "points":"5",
     "prerequisites":[
-
+      [
+        "KORN W1202"
+      ]
     ],
     "scheduled_days":"MTWR",
     "section_key":"20251KORN3006W001",
@@ -35947,7 +36289,7 @@
   {
     "course_code":"KORN UN3006",
     "course_title":"THIRD YEAR KOREAN II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: KORN W1202 or the equivalent and consultation with instructor. (See Entrance to Language Courses Beyond the Elementary Level in the main bulletin under Department of Instruction -- East Asian Languages and Cultures.) Readings in modern Korean. Selections from modern Korean writings in literature, history, social sciences, culture, and videos and class discussions.",
     "instructor":"Eunice Chung",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:45pm",
@@ -35964,7 +36306,9 @@
     "open_to":null,
     "points":"5",
     "prerequisites":[
-
+      [
+        "KORN W1202"
+      ]
     ],
     "scheduled_days":"MTWR",
     "section_key":"20251KORN3006W002",
@@ -43400,7 +43744,7 @@
   {
     "course_code":"MPP_ UN1403",
     "course_title":"CELLO INSTRUCTION",
-    "course_descr":null,
+    "course_descr":"The Music Performance Program (MPP) offers music lessons in various classical and jazz instruments, bluegrass guitar and jazz voice, taught by distinguished MPP Associate Faculty members. Lessons are 6 hours per semester. An audition is required.",
     "instructor":"Patrick Jee",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -43426,7 +43770,7 @@
   {
     "course_code":"MPP_ UN1403",
     "course_title":"CELLO INSTRUCTION",
-    "course_descr":null,
+    "course_descr":"The Music Performance Program (MPP) offers music lessons in various classical and jazz instruments, bluegrass guitar and jazz voice, taught by distinguished MPP Associate Faculty members. Lessons are 6 hours per semester. An audition is required.",
     "instructor":"James H Wilson",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -43447,6 +43791,84 @@
     ],
     "scheduled_days":null,
     "section_key":"20251MPP_1403W004",
+    "type":"STUDIO"
+  },
+  {
+    "course_code":"MPP_ UN1405",
+    "course_title":"CLARINET INSTRUCTION",
+    "course_descr":null,
+    "instructor":"Allen M Blustine",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11622",
+    "campus":null,
+    "class_id":"W1405-20251-001",
+    "course_subtitle":null,
+    "department":"Music",
+    "department_code":"MPP_",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/MPP_\/W1405-20251-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20251MPP_1405W001",
+    "type":"STUDIO"
+  },
+  {
+    "course_code":"MPP_ UN1409",
+    "course_title":"FLUTE INSTRUCTION",
+    "course_descr":null,
+    "instructor":"Susan Palma-Nidel",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11625",
+    "campus":null,
+    "class_id":"W1409-20251-002",
+    "course_subtitle":null,
+    "department":"Music",
+    "department_code":"MPP_",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/MPP_\/W1409-20251-002\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20251MPP_1409W002",
+    "type":"STUDIO"
+  },
+  {
+    "course_code":"MPP_ UN1409",
+    "course_title":"FLUTE INSTRUCTION",
+    "course_descr":null,
+    "instructor":"Susan Rotholz",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11626",
+    "campus":null,
+    "class_id":"W1409-20251-003",
+    "course_subtitle":null,
+    "department":"Music",
+    "department_code":"MPP_",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/MPP_\/W1409-20251-003\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20251MPP_1409W003",
     "type":"STUDIO"
   },
   {
@@ -59770,7 +60192,7 @@
   {
     "course_code":"TIBT UN3612",
     "course_title":"THIRD YEAR MODERN TIBETAN II",
-    "course_descr":null,
+    "course_descr":"For those whose knowledge is equivalent to a student whos completed the Second Year course. The course develops students reading comprehension skills through reading selected modern Tibetan literature. Tibetan is used as the medium of instruction and interaction to develop oral fluency and proficiency.",
     "instructor":"Sonam Tsering",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -59796,7 +60218,7 @@
   {
     "course_code":"UKRN GU4007",
     "course_title":"Advanced Ukrainian Through Literature, M",
-    "course_descr":null,
+    "course_descr":"This course is organized around a number of thematic centers or modules. Each is focused on stylistic peculiarities typical of a given functional style of the Ukrainian language. Each is designed to assist the student in acquiring an active command of lexical, grammatical, discourse, and stylistic traits that distinguish one style from the others and actively using them in real-life communicative settings in contemporary Ukraine. The styles include literary fiction, scholarly prose, and journalism, both printed and broadcast",
     "instructor":"Yuri Shevchuk",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:25pm",
@@ -59822,7 +60244,7 @@
   {
     "course_code":"UKRN UN1102",
     "course_title":"ELEMENTARY UKRAINIAN II",
-    "course_descr":null,
+    "course_descr":"Designed for students with little or no knowledge of Ukrainian. Basic grammar structures are introduced and reinforced, with equal emphasis on developing oral and written communication skills. Specific attention to acquisition of high-frequency vocabulary and its optimal use in real-life settings.",
     "instructor":"Yuri Shevchuk",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -59848,7 +60270,7 @@
   {
     "course_code":"UKRN UN2102",
     "course_title":"INTERMEDIATE UKRAINIAN II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: UKRN UN1102 or the equivalent. Reviews and reinforces the fundamentals of grammar and a core vocabulary from daily life. Principal emphasis is placed on further development of communicative skills (oral and written). Verbal aspect and verbs of motion receive special attention.",
     "instructor":"Yuri Shevchuk",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -59865,7 +60287,9 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "UKRN UN1102"
+      ]
     ],
     "scheduled_days":"MWR",
     "section_key":"20251UKRN2102W001",
@@ -60365,7 +60789,7 @@
   {
     "course_code":"VIET GU4102",
     "course_title":"MIXED ADVANCED VIETNAMESE II",
-    "course_descr":null,
+    "course_descr":"This course is designed for students who have completed seven semesters of Vietnamese class or have equivalent background of advance Vietnamese. It is aimed at developing more advance interpersonal communication skills in interpretive reading and listening as well as presentational speaking and writing at a superior level. Students are also prepared for academic, professional and literary proficiency suitable for post-secondary studies in the humanities and social sciences.",
     "instructor":"Chung Nguyen",
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"2:00pm",
@@ -60391,7 +60815,7 @@
   {
     "course_code":"VIET UN1102",
     "course_title":"FIRST YEAR VIETNAMESE II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: () VIET 1101 or equivalent This course introduces students to the linguistic and grammatical structures of Vietnamese, a major language of South East Asia. Language skills include listening, speaking, reading, and writing. Students will also be introduced to some aspects of Vietnamese life and culture.",
     "instructor":"Chung Nguyen",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:15am",
@@ -60417,7 +60841,7 @@
   {
     "course_code":"VIET UN2102",
     "course_title":"SECOND YEAR VIETNAMESE II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: VIET W1101-W1102 or the instructors permission. This course further develops students familiarity with the linguistic and grammatical structures of Vietnamese, a major language of South East Asia.",
     "instructor":"Nhu-Anh H Nguyen",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:25pm",
@@ -60434,7 +60858,12 @@
     "open_to":null,
     "points":"5",
     "prerequisites":[
-
+      [
+        "VIET W1101"
+      ],
+      [
+        "W1102"
+      ]
     ],
     "scheduled_days":"MWR",
     "section_key":"20251VIET2102W001",
@@ -60443,7 +60872,7 @@
   {
     "course_code":"VIET UN3102",
     "course_title":"THIRD YEAR VIETNAMESE II",
-    "course_descr":null,
+    "course_descr":"The course is aimed at enhancing students' competence in reading and listening comprehension as well as the ability to present or show their knowledge of the language and various aspects of Vietnamese with the use of more advanced Vietnamese.",
     "instructor":"Chung Nguyen",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:25pm",
@@ -60465,6 +60894,62 @@
     "scheduled_days":"MW",
     "section_key":"20251VIET3102W001",
     "type":"LANGUAGE"
+  },
+  {
+    "course_code":"WMGT PS5300",
+    "course_title":"INVESTMENT PLANNING",
+    "course_descr":null,
+    "instructor":"Stephen Bodurtha",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11631",
+    "campus":null,
+    "class_id":"K5300-20251-D01",
+    "course_subtitle":null,
+    "department":"Wealth Management",
+    "department_code":"WMGT",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/WMGT\/K5300-20251-D01\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20251WMGT5300KD01",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"WMGT PS5400",
+    "course_title":"TAX PLANNING",
+    "course_descr":null,
+    "instructor":"Jordan A Sprechman",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11632",
+    "campus":null,
+    "class_id":"K5400-20251-D01",
+    "course_subtitle":null,
+    "department":"Wealth Management",
+    "department_code":"WMGT",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/WMGT\/K5400-20251-D01\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20251WMGT5400KD01",
+    "type":"LECTURE"
   },
   {
     "course_code":"WMST BC1050",
