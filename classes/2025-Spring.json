@@ -10131,6 +10131,32 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"BIOL GU4799",
+    "course_title":"MOLECULAR BIOLOGY OF CANCER",
+    "course_descr":"Tracing the discovery of the role of DNA tumor viruses in cancerous transformation. Oncogenes and tumor suppressors are analyzed with respect to their function in normal cell cycle, growth control, and human cancers. SCE and TC students may register for this course, but they must first obtain the written permission of the instructor, by filling out a paper Registration Adjustment Form (Add\/Drop form). The form can be downloaded at the URL below, but must be signed by the instructor and returned to the office of the registrar. http:\/\/registrar.columbia.edu\/sites\/default\/files\/content\/reg-adjustment.pdf",
+    "instructor":null,
+    "scheduled_time_start":"2:40pm",
+    "scheduled_time_end":"3:55pm",
+    "call_number":"11827",
+    "campus":null,
+    "class_id":"W4799-20251-001",
+    "course_subtitle":"MOLECULAR BIOLOGY OF CANC",
+    "department":"Biological Sciences",
+    "department_code":"BIOL",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/BIOL\/W4799-20251-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20251BIOL4799W001",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"BIOL UN2006",
     "course_title":"INTRO BIO II:CELL BIO,DEV\/PHYS",
     "course_descr":"Prerequisites: BIOL UN2005, or the instructors permission. Lecture and recitation. Recommended second term of biology for majors in biology and related majors, and for premedical students. Cellular biology and development; physiology of cells and organisms. SPS, Barnard, and TC students may register for this course, but they must first obtain the written permission of the instructor, by filling out a paper Registration Adjustment Form (Add\/Drop form). The form can be downloaded at the URL below, but must be signed by the instructor and returned to the office of the registrar.\u00a0\nhttp:\/\/registrar.columbia.edu\/sites\/default\/files\/content\/reg-adjustment.pdf\n\u00a0. Students must register for a recitation section BIOL UN2016. Course website:\u00a0\nhttps:\/\/biology.columbia.edu\/content\/intro-bio",
@@ -10757,6 +10783,43 @@
     "type":"LABORATORY"
   },
   {
+    "course_code":"BIOL UN3005",
+    "course_title":"NEUROBIO II: DEVPT & SYSTEMS",
+    "course_descr":"Prerequisites: BIOL UN3004, one year of biology, or the instructors permission. This course is the capstone course for the Neurobiology and Behavior undergraduate major at Columbia University and will be taught by the faculty of the Kavli Institute of Brain Science: http:\/\/www.kavli.columbia.edu\/ Science: http:\/\/www.kavli.columbia.edu\/. It is designed for advanced undergraduate and graduate students. Knowledge of Cellular Neuroscience (how an action potential is generated and how a synapse works) will be assumed. It is strongly recommended that students take BIOL UN3004 Neurobiology I: Molecular and Cellular Neuroscience, or a similar course, before enrolling in BIOL UN3005. Students unsure about their backgrounds should check a representative syllabus of BIOL UN3004 on the BIOL UN3004 website (http:\/\/www.columbia.edu\/cu\/biology\/courses\/w3004\/). Website for BIOL UN3005: http:\/\/www.columbia.edu\/cu\/biology\/courses\/w3005\/index.html",
+    "instructor":"Darcy B Kelley",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"11:25am",
+    "call_number":"11796",
+    "campus":null,
+    "class_id":"W3005-20251-001",
+    "course_subtitle":"NEUROBIO II: DEVPT & SYST",
+    "department":"Biological Sciences",
+    "department_code":"BIOL",
+    "instructor_wikipedia_link":"https:\/\/en.wikipedia.org\/wiki\/Darcy_Kelley",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/BIOL\/W3005-20251-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+      [
+        "BIOL UN3004"
+      ],
+      [
+        "BIOL UN3004",
+        "BIOL UN3004",
+        "BIOL UN3005"
+      ],
+      [
+        "BIOL UN3004",
+        "BIOL UN3005"
+      ]
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20251BIOL3005W001",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"BIOL UN3006",
     "course_title":"PHYSIOLOGY",
     "course_descr":"In this primarily human physiology course, we will discuss how the major organ systems function, with an emphasis on cellular, molecular, and physical mechanisms. Organ systems covered include musculoskeletal, cardiovascular, respiratory, urinary, and digestive systems. Traditional lectures focus primarily on the normal functioning of organ systems, while pathophysiology is introduced through five case studies during the semester. After this course, students should be able to 1) describe the basic functioning of the major organ systems and how they contribute to homeostasis and health, 2) apply key concepts in physics and chemistry, such as flow, pressure\/volume relationships, and mass action, to physiological systems, 3) use key concepts in molecular and cell biology to gain a mechanistic understanding of physiological processes, explain how organ systems work in an integrated way to achieve homeostasis and health, and 4) predict changes in organ function upon drug treatment, genetic mutation, or disease conditions.",
@@ -10781,6 +10844,174 @@
     "scheduled_days":"TR",
     "section_key":"20251BIOL3006F001",
     "type":"LECTURE"
+  },
+  {
+    "course_code":"BIOL UN3015",
+    "course_title":"Neurobiology II Recitation",
+    "course_descr":"Discussion\/recitation section for BIOL UN3005 Neurobiology II",
+    "instructor":null,
+    "scheduled_time_start":"6:00pm",
+    "scheduled_time_end":"7:10pm",
+    "call_number":"11799",
+    "campus":null,
+    "class_id":"W3015-20251-001",
+    "course_subtitle":"Neurobiology II Recitatio",
+    "department":"Biological Sciences",
+    "department_code":"BIOL",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/BIOL\/W3015-20251-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+      [
+        "BIOL UN3005"
+      ]
+    ],
+    "scheduled_days":"M",
+    "section_key":"20251BIOL3015W001",
+    "type":"RECITATION"
+  },
+  {
+    "course_code":"BIOL UN3015",
+    "course_title":"Neurobiology II Recitation",
+    "course_descr":"Discussion\/recitation section for BIOL UN3005 Neurobiology II",
+    "instructor":null,
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"10:10am",
+    "call_number":"11802",
+    "campus":null,
+    "class_id":"W3015-20251-002",
+    "course_subtitle":"Neurobiology II Recitatio",
+    "department":"Biological Sciences",
+    "department_code":"BIOL",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/BIOL\/W3015-20251-002\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+      [
+        "BIOL UN3005"
+      ]
+    ],
+    "scheduled_days":"T",
+    "section_key":"20251BIOL3015W002",
+    "type":"RECITATION"
+  },
+  {
+    "course_code":"BIOL UN3015",
+    "course_title":"Neurobiology II Recitation",
+    "course_descr":"Discussion\/recitation section for BIOL UN3005 Neurobiology II",
+    "instructor":null,
+    "scheduled_time_start":"5:00pm",
+    "scheduled_time_end":"6:10pm",
+    "call_number":"11803",
+    "campus":null,
+    "class_id":"W3015-20251-003",
+    "course_subtitle":"Neurobiology II Recitatio",
+    "department":"Biological Sciences",
+    "department_code":"BIOL",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/BIOL\/W3015-20251-003\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+      [
+        "BIOL UN3005"
+      ]
+    ],
+    "scheduled_days":"W",
+    "section_key":"20251BIOL3015W003",
+    "type":"RECITATION"
+  },
+  {
+    "course_code":"BIOL UN3015",
+    "course_title":"Neurobiology II Recitation",
+    "course_descr":"Discussion\/recitation section for BIOL UN3005 Neurobiology II",
+    "instructor":null,
+    "scheduled_time_start":"6:00pm",
+    "scheduled_time_end":"7:10pm",
+    "call_number":"11804",
+    "campus":null,
+    "class_id":"W3015-20251-004",
+    "course_subtitle":"Neurobiology II Recitatio",
+    "department":"Biological Sciences",
+    "department_code":"BIOL",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/BIOL\/W3015-20251-004\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+      [
+        "BIOL UN3005"
+      ]
+    ],
+    "scheduled_days":"W",
+    "section_key":"20251BIOL3015W004",
+    "type":"RECITATION"
+  },
+  {
+    "course_code":"BIOL UN3015",
+    "course_title":"Neurobiology II Recitation",
+    "course_descr":"Discussion\/recitation section for BIOL UN3005 Neurobiology II",
+    "instructor":null,
+    "scheduled_time_start":"5:00pm",
+    "scheduled_time_end":"6:10pm",
+    "call_number":"11805",
+    "campus":null,
+    "class_id":"W3015-20251-005",
+    "course_subtitle":"Neurobiology II Recitatio",
+    "department":"Biological Sciences",
+    "department_code":"BIOL",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/BIOL\/W3015-20251-005\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+      [
+        "BIOL UN3005"
+      ]
+    ],
+    "scheduled_days":"R",
+    "section_key":"20251BIOL3015W005",
+    "type":"RECITATION"
+  },
+  {
+    "course_code":"BIOL UN3015",
+    "course_title":"Neurobiology II Recitation",
+    "course_descr":"Discussion\/recitation section for BIOL UN3005 Neurobiology II",
+    "instructor":null,
+    "scheduled_time_start":"1:00pm",
+    "scheduled_time_end":"2:10pm",
+    "call_number":"11806",
+    "campus":null,
+    "class_id":"W3015-20251-006",
+    "course_subtitle":"Neurobiology II Recitatio",
+    "department":"Biological Sciences",
+    "department_code":"BIOL",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/BIOL\/W3015-20251-006\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+      [
+        "BIOL UN3005"
+      ]
+    ],
+    "scheduled_days":"F",
+    "section_key":"20251BIOL3015W006",
+    "type":"RECITATION"
   },
   {
     "course_code":"BIOL UN3031",
@@ -10939,6 +11170,110 @@
     "scheduled_days":null,
     "section_key":"20251BIOL3500W001",
     "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"BIOL UN3510",
+    "course_title":"INDEP BIOLOGICAL RESEARCH - REC",
+    "course_descr":null,
+    "instructor":"Ron M Prywes",
+    "scheduled_time_start":"5:40pm",
+    "scheduled_time_end":"6:30pm",
+    "call_number":"11860",
+    "campus":null,
+    "class_id":"W3510-20251-001",
+    "course_subtitle":"INDEP BIOLOGICAL RESEARCH",
+    "department":"Biological Sciences",
+    "department_code":"BIOL",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/BIOL\/W3510-20251-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20251BIOL3510W001",
+    "type":"RECITATION"
+  },
+  {
+    "course_code":"BIOL UN3510",
+    "course_title":"INDEP BIOLOGICAL RESEARCH - REC",
+    "course_descr":null,
+    "instructor":"Ron M Prywes",
+    "scheduled_time_start":"5:40pm",
+    "scheduled_time_end":"6:30pm",
+    "call_number":"11861",
+    "campus":null,
+    "class_id":"W3510-20251-002",
+    "course_subtitle":"INDEP BIOLOGICAL RESEARCH",
+    "department":"Biological Sciences",
+    "department_code":"BIOL",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/BIOL\/W3510-20251-002\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20251BIOL3510W002",
+    "type":"RECITATION"
+  },
+  {
+    "course_code":"BIOL UN3510",
+    "course_title":"INDEP BIOLOGICAL RESEARCH - REC",
+    "course_descr":null,
+    "instructor":"Ron M Prywes",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"5:00pm",
+    "call_number":"11862",
+    "campus":null,
+    "class_id":"W3510-20251-003",
+    "course_subtitle":"INDEP BIOLOGICAL RESEARCH",
+    "department":"Biological Sciences",
+    "department_code":"BIOL",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/BIOL\/W3510-20251-003\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20251BIOL3510W003",
+    "type":"RECITATION"
+  },
+  {
+    "course_code":"BIOL UN3995",
+    "course_title":"TOPICS IN BIOLOGY",
+    "course_descr":"Prerequisites: Introductory Biology or equivalent. Topics in Biology: Radiographic Anatomy and Select Pathology (Section 007 Fall semester) , Radiographic Anatomy and Selective Pathology is a survey course intended for undergraduate students. This course is not limited to science majors and would be of value to any student that may have an interest in studying the anatomy of the human body. The course is a systematic approach to the study of the human body utilizing medical imaging. We will be studying neuro-anatomy, anatomy of the thorax, abdomen, and pelvis. Vascular and musculoskeletal imaging will be addressed as well. Modalities will include CT, MRI, PET\/CT, and Ultrasound. Cross sectional imaging will be supplemented with pathology demonstrated on appropriate cross sectional imaging. The class size will be limited to 15 students. The lecture will be offered Wednesday evenings from 6:10-7:00 pm. This will be a 1 credit course offered only during the fall semesters. Topics in Biology: Crossroads in Bioethics (Section 001 Spring semester) , This two credit multidisciplinary and interactive course will focus on contemporary issues in bioethics and medical ethics. Each topic will cover both the underlying science of new biotechnologies and the subsequent bioethical issues that emerge from these technologies. Each topic will introduce a bioethical principle that will be explored using case studies. Students are expected to prepare for each class based on the assignment so that classroom time will be devoted to discussion, case presentations, and role playing rather than merely lectures. Topics include stem cell research, human reproductive cloning, bioterrorism, neuroethics, genetic screening, medical stem cell tourism, patents and science, forensic science and the interface of science and culture\/religion.",
+    "instructor":"John Loike",
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"2:25pm",
+    "call_number":"11812",
+    "campus":null,
+    "class_id":"W3995-20251-001",
+    "course_subtitle":null,
+    "department":"Biological Sciences",
+    "department_code":"BIOL",
+    "instructor_wikipedia_link":"https:\/\/en.wikipedia.org\/wiki\/John_Loike",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/BIOL\/W3995-20251-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"2",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20251BIOL3995W001",
+    "type":"SEMINAR"
   },
   {
     "course_code":"BIOS PS0301",
@@ -11441,13 +11776,69 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/CGTH\/G6500-20251-001\/",
     "location":"To be announced",
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "GSAS"
+    ],
     "points":"3",
     "prerequisites":[
 
     ],
     "scheduled_days":"M",
     "section_key":"20251CGTH6500G001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"CGTH GR6730",
+    "course_title":"GLOBALIZATION&THE PROBLEMS OF WORLD ORDE",
+    "course_descr":null,
+    "instructor":"Kian Tajbakhsh",
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"11855",
+    "campus":null,
+    "class_id":"G6730-20251-001",
+    "course_subtitle":"GLOBALIZATION&THE PROBLEMS OF",
+    "department":"Committee on Global Thought",
+    "department_code":"CGTH",
+    "instructor_wikipedia_link":"https:\/\/en.wikipedia.org\/wiki\/Kian_Tajbakhsh",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CGTH\/G6730-20251-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "GSAS"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20251CGTH6730G001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"CGTH UN3600",
+    "course_title":"Approaches to Global Thought",
+    "course_descr":null,
+    "instructor":"Laura L Neitzel",
+    "scheduled_time_start":"12:10pm",
+    "scheduled_time_end":"2:00pm",
+    "call_number":"11858",
+    "campus":null,
+    "class_id":"C3600-20251-001",
+    "course_subtitle":"Approaches to Global Thou",
+    "department":"Committee on Global Thought",
+    "department_code":"CGTH",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CGTH\/C3600-20251-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20251CGTH3600C001",
     "type":"SEMINAR"
   },
   {
@@ -15756,6 +16147,32 @@
     "scheduled_days":"MWR",
     "section_key":"20251CHNS3006W001",
     "type":"LANGUAGE"
+  },
+  {
+    "course_code":"CHRK UN1102",
+    "course_title":"Elementary Cherokee II",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11864",
+    "campus":null,
+    "class_id":"W1102-20251-001",
+    "course_subtitle":null,
+    "department":"Language Resource Center",
+    "department_code":"CHRK",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CHRK\/W1102-20251-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20251CHRK1102W001",
+    "type":"LECTURE"
   },
   {
     "course_code":"CLCV UN2441",
@@ -21940,9 +22357,9 @@
     "course_code":"ENGL BC3104",
     "course_title":"THE ART OF THE ESSAY",
     "course_descr":"Essay writing above the first-year level. Reading and writing various types of essays to develop one's natural writing voice and craft thoughtful, sophisticated and personal essays.",
-    "instructor":"Nina Sharma",
-    "scheduled_time_start":"11:00am",
-    "scheduled_time_end":"12:50pm",
+    "instructor":"Margaret R Ellsberg",
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"4:00pm",
     "call_number":"00568",
     "campus":null,
     "class_id":"X3104-20251-004",
@@ -21958,7 +22375,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":"T",
+    "scheduled_days":"W",
     "section_key":"20251ENGL3104X004",
     "type":"WORKSHOP"
   },
@@ -22993,7 +23410,7 @@
     "call_number":"00236",
     "campus":null,
     "class_id":"X3998-20251-004",
-    "course_subtitle":null,
+    "course_subtitle":"SR SEM: VICTORIAN LIT&SCI",
     "department":"English @Barnard",
     "department_code":"ENGL",
     "instructor_wikipedia_link":null,
@@ -28535,6 +28952,32 @@
     "type":"SEMINAR"
   },
   {
+    "course_code":"GEOR GU4042",
+    "course_title":"Expressive Culture of Soviet and Indepen",
+    "course_descr":"Expressive culture in the form of traditional and mediated performing and visual arts, film and literature has reflected and shaped modern Georgian social life in immeasurable ways. This seminar brings anthropological perspectives to bear on how expressive culture has served to articulate national and local senses of identity, grappled with collective trauma, and forged avant-garde creative networks within and beyond Georgia\u2019s borders in the socialist and postsocialist periods. The course is organized in three units: it begins by interrogating the curatorial interventions of international organizations like UNESCO and their role in commodifying Georgian culture for global markets, proceeds by exploring powerful creative responses to colonial and totalitarian experience, and concludes by focusing on the capital city of Tbilisi\u2013its built spaces, ever-changing social configurations, and shifting value systems\u2013as a persistent muse in expressive cultural forms.\n  \nThere are no prerequisites and the course assumes no prior knowledge of Georgian history, language, or culture.",
+    "instructor":"Lauren E Ninoshvili",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"12:00pm",
+    "call_number":"11790",
+    "campus":null,
+    "class_id":"W4042-20251-001",
+    "course_subtitle":"Exp Cult of Sov & Ind Geo",
+    "department":"Slavic Languages",
+    "department_code":"GEOR",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/GEOR\/W4042-20251-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20251GEOR4042W001",
+    "type":"SEMINAR"
+  },
+  {
     "course_code":"GERM BC2210",
     "course_title":"GRAMMATIK AKTIV",
     "course_descr":"An intensive study of key features of German grammar, with an emphasis on skill-building exercises and practical solutions to common problems of writing and speaking on the intermediate level; aims at building confidence in using simple and more complex sentence structures.",
@@ -29365,6 +29808,32 @@
     "type":"COLLOQUIA"
   },
   {
+    "course_code":"HIST GR8495",
+    "course_title":"BORDERLANDS HISTORY COLLOQUIUM",
+    "course_descr":null,
+    "instructor":"Manan Ahmed",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"12:00pm",
+    "call_number":"11853",
+    "campus":null,
+    "class_id":"G8495-20251-001",
+    "course_subtitle":"BORDERLANDS HISTORY COLLO",
+    "department":"History",
+    "department_code":"HIST",
+    "instructor_wikipedia_link":"https:\/\/en.wikipedia.org\/wiki\/Manan_Ahmed_Asif",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HIST\/G8495-20251-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20251HIST8495G001",
+    "type":"COLLOQUIA"
+  },
+  {
     "course_code":"HIST GR8927",
     "course_title":"RESEARCH SEMINAR FOR PHD STUDENTS",
     "course_descr":"This course will provide a structured environment in which graduate students will write a research paper. It will be offered in the spring and will not be field-specific. It will be recommended for first-year students in particular, who will be expected to enter from GR8910 (the required first-year course) and with a topic and\/or prospectus for the paper they plan to complete in the course. The aim of the course is to ensure that all PhD students complete one of their two research papers within the first year. This seminar is recommended for, and restricted to, PhD students in the History Department. The aim of the seminar is to guide and assist students in the completion of a 10,000-12,000 word research paper appropriate for publication in a scholarly journal. The seminar is not field-specific, and students may work on any subject of their choosing. The paper must however be based on primary source research and represents a substantial departure from earlier work. The assignments for the course are designed to help students complete a polished piece of work by the end of term.",
@@ -29390,6 +29859,32 @@
     ],
     "scheduled_days":"T",
     "section_key":"20251HIST8927G001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"HIST GR8927",
+    "course_title":"RESEARCH SEMINAR FOR PHD STUDENTS",
+    "course_descr":null,
+    "instructor":"Kimberly K Phillips-Fein",
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"11850",
+    "campus":null,
+    "class_id":"G8927-20251-002",
+    "course_subtitle":"RESEARCH SEMINAR FOR PHD",
+    "department":"History",
+    "department_code":"HIST",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HIST\/G8927-20251-002\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20251HIST8927G002",
     "type":"SEMINAR"
   },
   {
@@ -29708,6 +30203,32 @@
     "scheduled_days":"W",
     "section_key":"20251HIST4933W001",
     "type":"SEMINAR"
+  },
+  {
+    "course_code":"HIST UN2100",
+    "course_title":"EARLY MOD EUR: PRINT & SOCIETY",
+    "course_descr":null,
+    "instructor":"Elisheva Carlebach",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"11:25am",
+    "call_number":"11866",
+    "campus":null,
+    "class_id":"W2100-20251-001",
+    "course_subtitle":"EARLY MOD EUR: PRINT & SO",
+    "department":"History",
+    "department_code":"HIST",
+    "instructor_wikipedia_link":"https:\/\/en.wikipedia.org\/wiki\/Elisheva_Carlebach_Jofen",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HIST\/W2100-20251-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20251HIST2100W001",
+    "type":"LECTURE"
   },
   {
     "course_code":"HIST UN2689",
@@ -30062,6 +30583,58 @@
     "type":"SEMINAR"
   },
   {
+    "course_code":"HRTS GU4210",
+    "course_title":"Equality, Identity and Rights",
+    "course_descr":"By connecting law, philosophy, and key human rights cases, this course will examine one of the main dilemmas in human rights theory and practice: the balance between equality and identity in the protection of rights. What forms of equality should be recognized to assure effective rights for all? What forms of identity should be recognized? Can there be effective human rights without an intersectional approach? Should we prioritize redistribution or recognition? What can we learn from cases developed in the UN System, in regional systems of human rights, and in specific countries in Asia, Africa, Latin America, North America, and Europe? How can we be effective human rights defenders in a growingly complex field? With these questions in mind, we will address different possibilities of protecting black women in the U.S. and Brazil, Muslim immigrants in Denmark, Indigenous women in Kenya and Canada, persons with disabilities in Tanzania, mothers with HIV in South Africa, poor workers in the Amazon Forest, abducted children in Argentina, and so forth.\n  \nLearning objectives: \u2022 Overview of how equality in human rights is connected to the recognition of identities, or more specifically, to the recognition of an intersectional approach to rights \u2022 Understanding different forms of equality that can be advanced through human rights \u2022 Adopting a problem-solving approach to an increasingly complex field of human rights, in order to become more effective human rights advocates \u2022 Critically analyzing and getting acquainted with cases in the UN system, the regional systems of human rights, and domestic jurisdictions around the world",
+    "instructor":"Daniela R Ikawa",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"11797",
+    "campus":null,
+    "class_id":"G4210-20251-001",
+    "course_subtitle":"EQUALITY, IDENTITY & RIGH",
+    "department":"Institute for Study of Human Rights",
+    "department_code":"HRTS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HRTS\/G4210-20251-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20251HRTS4210G001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"HRTS GU4380",
+    "course_title":"Advocacy for Socio-Economic RIghts",
+    "course_descr":"This course will examine practical issues, opportunities, tactics and strategies to advocate for economic and social rights. The course will incorporate central debates about economic and social rights, such as how to identify violators and define state responsibility, whether these rights can be litigated, and how to make implementable recommendations for change, measure implementation and measure impact. The course will also look more in depth at the standards and fulfillment challenges on several of the key rights including health, housing, education, and labor.\u00a0\u00a0\n  \nThroughout the course, you will focus on one economic and social rights topic of your choice. Through the lens of your chosen topic, you will review how organizations and social movements have engaged to affect change on similar issues, and use that research to explore many of the practical skills of advocacy and campaigning: framing recommendations and calls to action; drafting policy briefs; crafting media pitches and social media content; and designing and evaluating an overall advocacy strategy.",
+    "instructor":"Mila H Rosenthal",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"6:00pm",
+    "call_number":"11800",
+    "campus":null,
+    "class_id":"W4380-20251-001",
+    "course_subtitle":"Advocacy Socio-Economic R",
+    "department":"Institute for Study of Human Rights",
+    "department_code":"HRTS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HRTS\/W4380-20251-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20251HRTS4380W001",
+    "type":"SEMINAR"
+  },
+  {
     "course_code":"HRTS GU4460",
     "course_title":"Climate Justice",
     "course_descr":"The unfolding climate emergency occurs at the confluence of three global systems of domination \u2013 capitalism, racialized imperialism, and patriarchy. Premised as they are on exploitation, competition, and inequality rather than consideration, cooperation and balance, these systems of domination not only have caused the crisis but are seemingly unable to resolve it. Among the injustices of the contemporary impasse is the likelihood the people who have least benefited from the global (dis)order, and especially minorities in the global south, will be the worst affected casualties of climate change.\n  \nEncompassing a focus on equity and frameworks for accountability and redress, the human rights paradigm is a useful lens through which to analyze the emergency, exert accountability, and imagine better futures. It is against this backdrop that this interdisciplinary (climate science, law, politics, social science, development studies and anthropology) course on Climate Justice has been introduced to the Human Rights Studies MA program.\n  \nThis 3-credit course addresses contemporary issues in the evolving discourse and epistemology of climate justice. How should we understand the climate emergency from a social justice perspective? What terminologies, discourses and paradigms are useful? How have individuals, non-government organizations and social movements sought to overcome climate change vulnerabilities and advance climate justice? What litigation, law and policy initiatives have been brought, and with what level of success? And what alternative models of living, working and being are conceivable for a more socially, ecologically, and existentially sustainable world?",
@@ -30085,6 +30658,32 @@
     ],
     "scheduled_days":"T",
     "section_key":"20251HRTS4460W001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"HRTS GU4930",
+    "course_title":"INT'L HUMANITARIAN LAW\/HUM RGTS",
+    "course_descr":"This seminar will cover various issues, debates, and concepts in the international law of armed conflict (known as international humanitarian law), particularly as it relates to the protection of non-combatants (civilians and prisoners of war). In doing so, we will examine how international humanitarian law and human rights law intersect. Both sets of legal norms are designed to protect the lives, well-being, and dignity of individuals.However, the condition of armed conflict provides a much wider set of options for governments and individuals to engage in violent, deadly action against others, including killing, forcibly detaining, and destroying the property of those designated as combatants. At the same time, the means of waging war are not unlimited, but rather are tightly regulated by both treaty and customary law. This course will examine how these regulations operate in theory and practice, focusing on the principles of distinction, proportionality, and military necessity.",
+    "instructor":"Bruce L Cronin",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"12:00pm",
+    "call_number":"11807",
+    "campus":null,
+    "class_id":"W4930-20251-001",
+    "course_subtitle":"INT'L HUMANITARIAN LAW\/HU",
+    "department":"Institute for Study of Human Rights",
+    "department_code":"HRTS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HRTS\/W4930-20251-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20251HRTS4930W001",
     "type":"SEMINAR"
   },
   {
@@ -30168,6 +30767,37 @@
     ],
     "scheduled_days":"R",
     "section_key":"20251HRTS3995W001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"HRTS UN3996",
+    "course_title":"HUMAN RIGHTS THESIS SEMINAR",
+    "course_descr":"Prerequisites: HRTS UN3994 Human Rights Senior Seminar: Research Methods. Additional information available at: http:\/\/humanrightscolumbia.org\/education\/undergraduate This course is designed for human rights students who wish to write a honors-eligible thesis. The course will consist of group sessions, during which time students will present their work and participate in discussions, and individual meetings with the thesis supervisor. The course instructor is the thesis supervisor for each student.",
+    "instructor":"Tracey Holland",
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"11795",
+    "campus":null,
+    "class_id":"W3996-20251-001",
+    "course_subtitle":"HUMAN RIGHTS THESIS SEMIN",
+    "department":"Institute for Study of Human Rights",
+    "department_code":"HRTS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HRTS\/W3996-20251-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "General Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+      [
+        "HRTS UN3994"
+      ]
+    ],
+    "scheduled_days":"W",
+    "section_key":"20251HRTS3996W001",
     "type":"SEMINAR"
   },
   {
@@ -30380,6 +31010,32 @@
     "scheduled_days":"W",
     "section_key":"20251HSEA3851W001",
     "type":"SEMINAR"
+  },
+  {
+    "course_code":"HSEA UN3898",
+    "course_title":"THE MONGOLS IN HISTORY",
+    "course_descr":"Study of the role of the Mongols in Eurasian history, focusing on the era of the Great Mongol Empire. The roles of Chinggis and Khubilai Khan and the modern fate of the Mongols to be considered.",
+    "instructor":"Morris Rossabi",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"12:00pm",
+    "call_number":"11818",
+    "campus":null,
+    "class_id":"W3898-20251-001",
+    "course_subtitle":null,
+    "department":"East Asian Languages and Cultures",
+    "department_code":"HSEA",
+    "instructor_wikipedia_link":"https:\/\/en.wikipedia.org\/wiki\/Morris_Rossabi",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HSEA\/W3898-20251-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20251HSEA3898W001",
+    "type":"LECTURE"
   },
   {
     "course_code":"HSLW L6124",
@@ -37859,6 +38515,100 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"IRSH OC1102",
+    "course_title":"ELEMENTARY IRISH II",
+    "course_descr":"This course introduces students to the rudiments of the Irish language, including phonemes and pronunciation, syntactical structure, and verbal conjugations. In addition, a history of the language is provided, as well as a general introduction to Irish culture, including discussions of family and place names. Students are encouraged to begin speaking with basic sentence structures, eventually expanding into more complex verbal conjugations while concentrating on idiomatic expressions. The accumulation of vocabulary is stressed and students are introduced to basic literature in Irish while developing beginning conversational fluency.",
+    "instructor":"Stephane A Charitos",
+    "scheduled_time_start":"11:00am",
+    "scheduled_time_end":"12:15pm",
+    "call_number":"11822",
+    "campus":null,
+    "class_id":"W1102-20251-001",
+    "course_subtitle":null,
+    "department":"Language Resource Center",
+    "department_code":"IRSH",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/IRSH\/W1102-20251-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20251IRSH1102W001",
+    "type":"LANGUAGE"
+  },
+  {
+    "course_code":"IRSH OC2101",
+    "course_title":"INTERMEDIATE IRISH I",
+    "course_descr":"Prerequisites: IRSH W1101-W1102 or the instructor's permission. For the more advanced student of Irish, this course focuses on improving conversational fluency and on expanding vocabulary through reading complex literature in Irish, and writing in the Irish language, further encouraging students to strengthen their pronunciation and command of spoken Irish.",
+    "instructor":"Stephane A Charitos",
+    "scheduled_time_start":"11:00am",
+    "scheduled_time_end":"12:15pm",
+    "call_number":"11825",
+    "campus":null,
+    "class_id":"W2101-20251-001",
+    "course_subtitle":null,
+    "department":"Language Resource Center",
+    "department_code":"IRSH",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/IRSH\/W2101-20251-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+      [
+        "IRSH W1101"
+      ],
+      [
+        "W1102"
+      ]
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20251IRSH2101W001",
+    "type":"LANGUAGE"
+  },
+  {
+    "course_code":"IRSH OC2102",
+    "course_title":"INTERMEDIATE IRISH II",
+    "course_descr":"Prerequisites: (IRSH UN1101 and IRSH UN1102) IRSH UN1101-UN1102 or the instructors permission. For the more advanced student of Irish, this course focuses on improving conversational fluency and on expanding vocabulary through reading complex literature in Irish, and writing in the Irish language, further encouraging students to strengthen their pronunciation and command of spoken Irish.",
+    "instructor":"Stephane A Charitos",
+    "scheduled_time_start":"11:00am",
+    "scheduled_time_end":"12:15pm",
+    "call_number":"11823",
+    "campus":null,
+    "class_id":"W2102-20251-001",
+    "course_subtitle":"INTERMEDIATE MODERN IRISH II",
+    "department":"Language Resource Center",
+    "department_code":"IRSH",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/IRSH\/W2102-20251-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+      [
+        "IRSH UN1101"
+      ],
+      [
+        "IRSH UN1101"
+      ],
+      [
+        "IRSH UN1102"
+      ],
+      [
+        "UN1102"
+      ]
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20251IRSH2102W001",
+    "type":"LANGUAGE"
+  },
+  {
     "course_code":"ITAL GU4503",
     "course_title":"ITL CULTRL ST II:WWI-PRESENT",
     "course_descr":"An interdisciplinary investigation into Italian culture and society in the years between World War I and the present. Drawing on historical analyses, literary texts, letters, film, cartoons, popular music, etc. the course examines some of the key problems and trends in the cultural and political history of the period. Lectures, discussion and required readings will be in English. Students with a knowledge of Italian are encouraged to read the primary literature in Italian.",
@@ -38645,6 +39395,58 @@
     "scheduled_days":"W",
     "section_key":"20251JWST4158W001",
     "type":"SEMINAR"
+  },
+  {
+    "course_code":"KHMR OC1102",
+    "course_title":"ELEMENTARY KHMER II",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11854",
+    "campus":null,
+    "class_id":"W1102-20251-001",
+    "course_subtitle":null,
+    "department":"Language Resource Center",
+    "department_code":"KHMR",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/KHMR\/W1102-20251-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20251KHMR1102W001",
+    "type":"LANGUAGE"
+  },
+  {
+    "course_code":"KHMR UN2102",
+    "course_title":"Intermediate Khmer II",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11856",
+    "campus":null,
+    "class_id":"W2102-20251-001",
+    "course_subtitle":null,
+    "department":"Language Resource Center",
+    "department_code":"KHMR",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/KHMR\/W2102-20251-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20251KHMR2102W001",
+    "type":"LANGUAGE"
   },
   {
     "course_code":"KORN GU4106",
@@ -46868,6 +47670,32 @@
     "type":"STUDIO"
   },
   {
+    "course_code":"MPP_ UN1414",
+    "course_title":"Guitar (Popular-Contemporary) Instructio",
+    "course_descr":"The Music Performance Program (MPP) offers music lessons in various classical and jazz instruments, bluegrass guitar, pop guitar and jazz voice, taught by distinguished MPP Associate Faculty members. Lessons are 6 hours per semester. An audition is required.",
+    "instructor":"James E Moore",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11793",
+    "campus":null,
+    "class_id":"W1414-20251-001",
+    "course_subtitle":"Guitar (Pop-Cont) Instruc",
+    "department":"Music",
+    "department_code":"MPP_",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/MPP_\/W1414-20251-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20251MPP_1414W001",
+    "type":"STUDIO"
+  },
+  {
     "course_code":"MPP_ UN1415",
     "course_title":"GUITAR (CLASSICAL) INSTRUCTION",
     "course_descr":"The Music Performance Program (MPP) offers music lessons in various classical and jazz instruments, bluegrass guitar and jazz voice, taught by distinguished MPP Associate Faculty members. Lessons are 6 hours per semester. An audition is required.",
@@ -47125,6 +47953,214 @@
     ],
     "scheduled_days":null,
     "section_key":"20251MPP_1427W001",
+    "type":"STUDIO"
+  },
+  {
+    "course_code":"MPP_ UN1431",
+    "course_title":"TRUMPET INSTRUCTION",
+    "course_descr":"The Music Performance Program (MPP) offers music lessons in various classical and jazz instruments, bluegrass guitar and jazz voice, taught by distinguished MPP Associate Faculty members. Lessons are 6 hours per semester. An audition is required.",
+    "instructor":"David Krauss",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11794",
+    "campus":null,
+    "class_id":"W1431-20251-001",
+    "course_subtitle":null,
+    "department":"Music",
+    "department_code":"MPP_",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/MPP_\/W1431-20251-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20251MPP_1431W001",
+    "type":"STUDIO"
+  },
+  {
+    "course_code":"MPP_ UN1435",
+    "course_title":"VIOLA INSTRUCTION",
+    "course_descr":"The Music Performance Program (MPP) offers music lessons in various classical and jazz instruments, bluegrass guitar and jazz voice, taught by distinguished MPP Associate Faculty members. Lessons are 6 hours per semester. An audition is required.",
+    "instructor":"Sarah Adams",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11798",
+    "campus":null,
+    "class_id":"W1435-20251-001",
+    "course_subtitle":null,
+    "department":"Music",
+    "department_code":"MPP_",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/MPP_\/W1435-20251-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20251MPP_1435W001",
+    "type":"STUDIO"
+  },
+  {
+    "course_code":"MPP_ UN1437",
+    "course_title":"VIOLIN INSTRUCTION",
+    "course_descr":"The Music Performance Program (MPP) offers music lessons in various classical and jazz instruments, bluegrass guitar and jazz voice, taught by distinguished MPP Associate Faculty members. Lessons are 6 hours per semester. An audition is required.",
+    "instructor":"Cyrus S Beroukhim",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11808",
+    "campus":null,
+    "class_id":"W1437-20251-001",
+    "course_subtitle":null,
+    "department":"Music",
+    "department_code":"MPP_",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/MPP_\/W1437-20251-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20251MPP_1437W001",
+    "type":"STUDIO"
+  },
+  {
+    "course_code":"MPP_ UN1437",
+    "course_title":"VIOLIN INSTRUCTION",
+    "course_descr":"The Music Performance Program (MPP) offers music lessons in various classical and jazz instruments, bluegrass guitar and jazz voice, taught by distinguished MPP Associate Faculty members. Lessons are 6 hours per semester. An audition is required.",
+    "instructor":"Maja S Cerar",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11811",
+    "campus":null,
+    "class_id":"W1437-20251-002",
+    "course_subtitle":null,
+    "department":"Music",
+    "department_code":"MPP_",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/MPP_\/W1437-20251-002\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20251MPP_1437W002",
+    "type":"STUDIO"
+  },
+  {
+    "course_code":"MPP_ UN1437",
+    "course_title":"VIOLIN INSTRUCTION",
+    "course_descr":"The Music Performance Program (MPP) offers music lessons in various classical and jazz instruments, bluegrass guitar and jazz voice, taught by distinguished MPP Associate Faculty members. Lessons are 6 hours per semester. An audition is required.",
+    "instructor":"Lisa G Kim",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11813",
+    "campus":null,
+    "class_id":"W1437-20251-004",
+    "course_subtitle":null,
+    "department":"Music",
+    "department_code":"MPP_",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/MPP_\/W1437-20251-004\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20251MPP_1437W004",
+    "type":"STUDIO"
+  },
+  {
+    "course_code":"MPP_ UN1437",
+    "course_title":"VIOLIN INSTRUCTION",
+    "course_descr":"The Music Performance Program (MPP) offers music lessons in various classical and jazz instruments, bluegrass guitar and jazz voice, taught by distinguished MPP Associate Faculty members. Lessons are 6 hours per semester. An audition is required.",
+    "instructor":"Muneko Otani",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11815",
+    "campus":null,
+    "class_id":"W1437-20251-005",
+    "course_subtitle":null,
+    "department":"Music",
+    "department_code":"MPP_",
+    "instructor_wikipedia_link":"https:\/\/en.wikipedia.org\/wiki\/Muneko_Otani",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/MPP_\/W1437-20251-005\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20251MPP_1437W005",
+    "type":"STUDIO"
+  },
+  {
+    "course_code":"MPP_ UN1437",
+    "course_title":"VIOLIN INSTRUCTION",
+    "course_descr":"The Music Performance Program (MPP) offers music lessons in various classical and jazz instruments, bluegrass guitar and jazz voice, taught by distinguished MPP Associate Faculty members. Lessons are 6 hours per semester. An audition is required.",
+    "instructor":"Richard W Rood",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11820",
+    "campus":null,
+    "class_id":"W1437-20251-006",
+    "course_subtitle":null,
+    "department":"Music",
+    "department_code":"MPP_",
+    "instructor_wikipedia_link":"https:\/\/en.wikipedia.org\/wiki\/Richard_Rood_%28violinist%29",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/MPP_\/W1437-20251-006\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20251MPP_1437W006",
+    "type":"STUDIO"
+  },
+  {
+    "course_code":"MPP_ UN1445",
+    "course_title":"JAZZ BASS (ELECTRIC) INSTRUCTION",
+    "course_descr":"The Music Performance Program (MPP) offers music lessons in various classical and jazz instruments, bluegrass guitar and jazz voice, taught by distinguished MPP Associate Faculty members. Lessons are 6 hours per semester. An audition is required.",
+    "instructor":"Leo Traversa",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11821",
+    "campus":null,
+    "class_id":"W1445-20251-001",
+    "course_subtitle":"JAZZ BASS (ELECTRIC) INST",
+    "department":"Music",
+    "department_code":"MPP_",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/MPP_\/W1445-20251-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20251MPP_1445W001",
     "type":"STUDIO"
   },
   {
@@ -50040,6 +51076,32 @@
     "scheduled_days":null,
     "section_key":"20251MUSI3998V025",
     "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"NEPA UN1102",
+    "course_title":"Elementary Nepali II",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11863",
+    "campus":null,
+    "class_id":"W1102-20251-001",
+    "course_subtitle":null,
+    "department":"Language Resource Center",
+    "department_code":"NEPA",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NEPA\/W1102-20251-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20251NEPA1102W001",
+    "type":"LANGUAGE"
   },
   {
     "course_code":"NESC PS0140",
@@ -55190,6 +56252,80 @@
     "type":"SEMINAR"
   },
   {
+    "course_code":"PSYC GU4202",
+    "course_title":"Theories of Change in Human Development",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"12:00pm",
+    "call_number":"11848",
+    "campus":null,
+    "class_id":"W4202-20251-001",
+    "course_subtitle":"Theories of Change-Human",
+    "department":"Psychology",
+    "department_code":"PSYC",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PSYC\/W4202-20251-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "Engineering:Graduate",
+      "Engineering:Undergraduate",
+      "GSAS",
+      "General Studies",
+      "Global Programs",
+      "Professional Studies",
+      "SIPA",
+      "Schools of the Arts"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20251PSYC4202W001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"PSYC GU4224",
+    "course_title":"Consciousness and Cognitive Science",
+    "course_descr":null,
+    "instructor":"Nora Isacoff",
+    "scheduled_time_start":"12:10pm",
+    "scheduled_time_end":"2:00pm",
+    "call_number":"11865",
+    "campus":null,
+    "class_id":"W4224-20251-001",
+    "course_subtitle":"Consciousness & Cognitive",
+    "department":"Psychology",
+    "department_code":"PSYC",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PSYC\/W4224-20251-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "Engineering:Graduate",
+      "Engineering:Undergraduate",
+      "GSAS",
+      "General Studies",
+      "Global Programs",
+      "Professional Studies",
+      "SIPA",
+      "Schools of the Arts"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20251PSYC4224W001",
+    "type":"SEMINAR"
+  },
+  {
     "course_code":"PSYC PS0104",
     "course_title":"Social Psychology: Understanding Human B",
     "course_descr":"",
@@ -55216,6 +56352,784 @@
     "scheduled_days":"S",
     "section_key":"20251PSYC0104KD01",
     "type":"LECTURE"
+  },
+  {
+    "course_code":"PSYC UN1001",
+    "course_title":"THE SCIENCE OF PSYCHOLOGY",
+    "course_descr":"Prerequisites: BLOCKED CLASS. EVERYONE MUST JOIN WAITLIST TO BE ADMITTED Broad survey of psychological science including: sensation and perception; learning, memory, intelligence, language, and cognition; emotions and motivation; development, personality, health and illness, and social behavior. Discusses relations between the brain, behavior, and experience. Emphasizes science as a process of discovering both new ideas and new empirical results. PSYC UN1001 serves as a prerequisite for further psychology courses and should be completed by the sophomore year.",
+    "instructor":"Patricia G Lindemann",
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"2:25pm",
+    "call_number":"11791",
+    "campus":null,
+    "class_id":"W1001-20251-001",
+    "course_subtitle":null,
+    "department":"Psychology",
+    "department_code":"PSYC",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PSYC\/W1001-20251-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "General Studies",
+      "Global Programs",
+      "Professional Studies",
+      "Schools of the Arts"
+    ],
+    "points":"3",
+    "prerequisites":[
+      [
+        "PSYC UN1001"
+      ]
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20251PSYC1001W001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"PSYC UN1001",
+    "course_title":"THE SCIENCE OF PSYCHOLOGY",
+    "course_descr":"Prerequisites: BLOCKED CLASS. EVERYONE MUST JOIN WAITLIST TO BE ADMITTED Broad survey of psychological science including: sensation and perception; learning, memory, intelligence, language, and cognition; emotions and motivation; development, personality, health and illness, and social behavior. Discusses relations between the brain, behavior, and experience. Emphasizes science as a process of discovering both new ideas and new empirical results. PSYC UN1001 serves as a prerequisite for further psychology courses and should be completed by the sophomore year.",
+    "instructor":"John N Thorp",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"11:25am",
+    "call_number":"11792",
+    "campus":null,
+    "class_id":"W1001-20251-002",
+    "course_subtitle":null,
+    "department":"Psychology",
+    "department_code":"PSYC",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PSYC\/W1001-20251-002\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "General Studies",
+      "Global Programs",
+      "Professional Studies",
+      "Schools of the Arts"
+    ],
+    "points":"3",
+    "prerequisites":[
+      [
+        "PSYC UN1001"
+      ]
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20251PSYC1001W002",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"PSYC UN1420",
+    "course_title":"RESEARCH METHODS - HUMAN BEHAVIOR",
+    "course_descr":"Prerequisites: PSYC UN1001 and a statistics course (PSYC UN1610 or the equivalent), or the instructor's permission. Corequisites: PSYC UN1421 Introduction to the techniques of research employed in the study of human behavior. Students gain experience in the conduct of research, including design of simple experiments, observation and measurement techniques, and the analysis of behavioral data.",
+    "instructor":"Patricia G Lindemann",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"6:00pm",
+    "call_number":"11801",
+    "campus":null,
+    "class_id":"W1420-20251-001",
+    "course_subtitle":"RESEARCH METHODS - HUMAN",
+    "department":"Psychology",
+    "department_code":"PSYC",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PSYC\/W1420-20251-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "General Studies",
+      "Global Programs",
+      "Professional Studies",
+      "Schools of the Arts"
+    ],
+    "points":"4",
+    "prerequisites":[
+      [
+        "PSYC UN1001"
+      ],
+      [
+        "PSYC UN1610",
+        "PSYC UN1421"
+      ]
+    ],
+    "scheduled_days":"M",
+    "section_key":"20251PSYC1420W001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"PSYC UN1421",
+    "course_title":"RESEARCH METHODS-HUM BEHAV LAB",
+    "course_descr":"Corequisites:\u00a0\nPSYC\u00a0UN1420",
+    "instructor":"Patricia G Lindemann",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"11809",
+    "campus":null,
+    "class_id":"W1421-20251-001",
+    "course_subtitle":"RESEARCH METHODS-HUM BEHA",
+    "department":"Psychology",
+    "department_code":"PSYC",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PSYC\/W1421-20251-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "General Studies",
+      "Global Programs",
+      "Professional Studies",
+      "Schools of the Arts"
+    ],
+    "points":"0",
+    "prerequisites":[
+      [
+        "UN1420"
+      ]
+    ],
+    "scheduled_days":"M",
+    "section_key":"20251PSYC1421W001",
+    "type":"LABORATORY"
+  },
+  {
+    "course_code":"PSYC UN1421",
+    "course_title":"RESEARCH METHODS-HUM BEHAV LAB",
+    "course_descr":"Corequisites:\u00a0\nPSYC\u00a0UN1420",
+    "instructor":"Patricia G Lindemann",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"11810",
+    "campus":null,
+    "class_id":"W1421-20251-002",
+    "course_subtitle":"RESEARCH METHODS-HUM BEHA",
+    "department":"Psychology",
+    "department_code":"PSYC",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PSYC\/W1421-20251-002\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "General Studies",
+      "Global Programs",
+      "Professional Studies",
+      "Schools of the Arts"
+    ],
+    "points":"0",
+    "prerequisites":[
+      [
+        "UN1420"
+      ]
+    ],
+    "scheduled_days":"M",
+    "section_key":"20251PSYC1421W002",
+    "type":"LABORATORY"
+  },
+  {
+    "course_code":"PSYC UN1455",
+    "course_title":"RESEARCH METHODS: SOCIAL\/PERSONALITY",
+    "course_descr":"Prerequisites: PSYC UN1001 or PSYC UN1010 and a statistics course (PSYC UN1610 or the equivalent), or the instructors permission. Corequisites: PSYC UN1456 Methodology and procedures of personality and social psychological research and exercises in data analysis and research design. Ethical issues in psychological research. Statistical concepts such as parameter estimation and testing, measurement reliability and validity, merits and limitations of correlational and experimental research designs, and empirical evaluation of theories.",
+    "instructor":"Niall Bolger",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"12:00pm",
+    "call_number":"11816",
+    "campus":null,
+    "class_id":"W1455-20251-001",
+    "course_subtitle":"RESEARCH METHODS:SOC\/PERS",
+    "department":"Psychology",
+    "department_code":"PSYC",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PSYC\/W1455-20251-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "General Studies",
+      "Global Programs",
+      "Professional Studies",
+      "Schools of the Arts"
+    ],
+    "points":"4",
+    "prerequisites":[
+      [
+        "PSYC UN1001",
+        "PSYC UN1010"
+      ],
+      [
+        "PSYC UN1610",
+        "PSYC UN1456"
+      ]
+    ],
+    "scheduled_days":"M",
+    "section_key":"20251PSYC1455W001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"PSYC UN1456",
+    "course_title":"RESEARCH METHODS:SOCIAL\/PERSONALITY",
+    "course_descr":"Corequisite:\u00a0PSYC UN1455.",
+    "instructor":"Niall Bolger",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"12:00pm",
+    "call_number":"11817",
+    "campus":null,
+    "class_id":"W1456-20251-001",
+    "course_subtitle":"RESEARCH METHODS:SOC\/PERS",
+    "department":"Psychology",
+    "department_code":"PSYC",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PSYC\/W1456-20251-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "General Studies",
+      "Global Programs",
+      "Professional Studies",
+      "Schools of the Arts"
+    ],
+    "points":"0",
+    "prerequisites":[
+      [
+        "PSYC UN1455"
+      ]
+    ],
+    "scheduled_days":"W",
+    "section_key":"20251PSYC1456W001",
+    "type":"LABORATORY"
+  },
+  {
+    "course_code":"PSYC UN1456",
+    "course_title":"RESEARCH METHODS:SOCIAL\/PERSONALITY",
+    "course_descr":"Corequisite:\u00a0PSYC UN1455.",
+    "instructor":"Niall Bolger",
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"11819",
+    "campus":null,
+    "class_id":"W1456-20251-002",
+    "course_subtitle":"RESEARCH METHODS:SOC\/PERS",
+    "department":"Psychology",
+    "department_code":"PSYC",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PSYC\/W1456-20251-002\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "General Studies",
+      "Global Programs",
+      "Professional Studies",
+      "Schools of the Arts"
+    ],
+    "points":"0",
+    "prerequisites":[
+      [
+        "PSYC UN1455"
+      ]
+    ],
+    "scheduled_days":"W",
+    "section_key":"20251PSYC1456W002",
+    "type":"LABORATORY"
+  },
+  {
+    "course_code":"PSYC UN2210",
+    "course_title":"COGNITION: BASIC PROCESSES",
+    "course_descr":"An introduction to basic concepts in cognitive psychology. Topics include theories and\n phenomena in areas such as attention, memory, concepts and categories, language, reasoning,\n decision making, and consciousness.",
+    "instructor":"Nora Isacoff",
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"2:25pm",
+    "call_number":"11824",
+    "campus":null,
+    "class_id":"W2210-20251-001",
+    "course_subtitle":"COGNITION: BASIC PROCESSE",
+    "department":"Psychology",
+    "department_code":"PSYC",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PSYC\/W2210-20251-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "General Studies",
+      "Global Programs",
+      "Professional Studies",
+      "Schools of the Arts"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20251PSYC2210W001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"PSYC UN2235",
+    "course_title":"THINKING AND DECISION MAKING",
+    "course_descr":"Prerequisites: an introductory course in psychology. Models of judgment and decision making in both certain and uncertain or risky situations, illustrating the interplay of top-down (theory-driven) and bottom-up (data-driven) processes in creating knowledge. Focuses on how individuals do and should make decisions, with some extensions to group decision making and social dilemmas.",
+    "instructor":"Katherine T Fox-Glassman",
+    "scheduled_time_start":"11:40am",
+    "scheduled_time_end":"12:55pm",
+    "call_number":"11826",
+    "campus":null,
+    "class_id":"W2235-20251-001",
+    "course_subtitle":"THINKING AND DECISION MAK",
+    "department":"Psychology",
+    "department_code":"PSYC",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PSYC\/W2235-20251-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "General Studies",
+      "Global Programs",
+      "Professional Studies",
+      "Schools of the Arts"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20251PSYC2235W001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"PSYC UN2435",
+    "course_title":"Social Neuroscience",
+    "course_descr":"This course will provide a broad overview of the field of social neuroscience. We will consider how social processes are implemented at the neural level, but also how neural mechanisms help give rise to social phenomena and cultural experiences. Many believe that the large expansion of the human brain evolved due to the complex demands of dealing with social others\u2014competing or cooperating with them, deceiving or empathizing with them, understanding or misjudging them. What kind of \u201csocial brain\u201d has this evolutionary past left us with? In this course, we will review core principles, theories, and methods guiding social neuroscience, as well as research examining the brain basis of processes such as theory of mind, emotion, stereotyping, social group identity, empathy, judging faces and bodies, morality, decision-making, the impact of culture and development, among others. Overall, this course will introduce students to the field of social neuroscience and its multi-level approach to understanding the brain in its social context.",
+    "instructor":"Jon B Freeman",
+    "scheduled_time_start":"2:40pm",
+    "scheduled_time_end":"3:55pm",
+    "call_number":"11828",
+    "campus":null,
+    "class_id":"W2435-20251-001",
+    "course_subtitle":null,
+    "department":"Psychology",
+    "department_code":"PSYC",
+    "instructor_wikipedia_link":"https:\/\/en.wikipedia.org\/wiki\/Jon_Freeman_%28academic%29",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PSYC\/W2435-20251-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "General Studies",
+      "Global Programs",
+      "Professional Studies",
+      "Schools of the Arts"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20251PSYC2435W001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"PSYC UN2450",
+    "course_title":"BEHAVIORAL NEUROSCIENCE",
+    "course_descr":"Prerequisites: PSYC UN1001 or PSYC UN1010 or the instructors permission. Examines the principles governing neuronal activity, the role of neurotransmitter systems in memory and motivational processes, the presumed brain dysfunctions that give rise to schizophrenia and depression, and philosophical issues regarding the relationship between brain activity and subjective experience.",
+    "instructor":"Sarah Demoya",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"11:25am",
+    "call_number":"11829",
+    "campus":null,
+    "class_id":"W2450-20251-001",
+    "course_subtitle":null,
+    "department":"Psychology",
+    "department_code":"PSYC",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PSYC\/W2450-20251-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "General Studies",
+      "Global Programs",
+      "Professional Studies",
+      "Schools of the Arts"
+    ],
+    "points":"3",
+    "prerequisites":[
+      [
+        "PSYC UN1001",
+        "PSYC UN1010"
+      ]
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20251PSYC2450W001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"PSYC UN2620",
+    "course_title":"ABNORMAL BEHAVIOR",
+    "course_descr":"Prerequisites: An introductory psychology course. Examines definitions, theories, and treatments of abnormal behavior.",
+    "instructor":"Jeffrey M Cohen",
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"3:40pm",
+    "call_number":"11831",
+    "campus":null,
+    "class_id":"W2620-20251-001",
+    "course_subtitle":null,
+    "department":"Psychology",
+    "department_code":"PSYC",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PSYC\/W2620-20251-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "General Studies",
+      "Global Programs",
+      "Professional Studies",
+      "Schools of the Arts"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"F",
+    "section_key":"20251PSYC2620W001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"PSYC UN2645",
+    "course_title":"Moral Psychology",
+    "course_descr":"Prerequisite: An introductory psychology course.\n  \nAn introduction to basic concepts in moral psychology. Topics include controversies around the definition of morality, foundations of moral thought and behavior, and connections between morality and other areas of life, among other subjects.",
+    "instructor":"Larisa H Solomon",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"11:25am",
+    "call_number":"11833",
+    "campus":null,
+    "class_id":"W2645-20251-001",
+    "course_subtitle":null,
+    "department":"Psychology",
+    "department_code":"PSYC",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PSYC\/W2645-20251-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "General Studies",
+      "Global Programs",
+      "Professional Studies",
+      "Schools of the Arts"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20251PSYC2645W001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"PSYC UN3260",
+    "course_title":"Bilingualism",
+    "course_descr":"Many of us know a second language. How we use it varies \u2013 some use it occasionally, others routinely. Recent research in cognitive neuroscience has shed light on the mechanisms associated with the various types of bilingualism, and has shown that using two languages affects a variety of cognitive abilities, starting in infancy and continuing until an old age. The primary findings of recent research in cognitive neuroscience are reviewed and discussed in this course. Bilingualism also has a political facet \u2013 governments decide what languages are used in public institutions and taught in schools. This course also evaluates scientific findings on bilingualism for their potential implications on informing parents, educators, and policy makers.",
+    "instructor":"Michele Miozzo",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"6:00pm",
+    "call_number":"11835",
+    "campus":null,
+    "class_id":"W3260-20251-001",
+    "course_subtitle":null,
+    "department":"Psychology",
+    "department_code":"PSYC",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PSYC\/W3260-20251-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "General Studies",
+      "Global Programs",
+      "Professional Studies",
+      "Schools of the Arts"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20251PSYC3260W001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"PSYC UN3450",
+    "course_title":"Evolution of Intelligence, Animal Commun",
+    "course_descr":"Prerequisites: PSYC UN1001, and the instructors permission.\n  \nA systematic review of the evolution language covering the theory of evolution, conditioning theory, animal communication, ape language experiments, infant cognition, preverbal antecedents of language and contemporary theories of language.",
+    "instructor":"Herbert S Terrace",
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"11837",
+    "campus":null,
+    "class_id":"W3450-20251-001",
+    "course_subtitle":"Evolution of Intelligence",
+    "department":"Psychology",
+    "department_code":"PSYC",
+    "instructor_wikipedia_link":"https:\/\/en.wikipedia.org\/wiki\/Herbert_S._Terrace",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PSYC\/W3450-20251-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "General Studies",
+      "Global Programs",
+      "Professional Studies",
+      "Schools of the Arts"
+    ],
+    "points":"3",
+    "prerequisites":[
+      [
+        "PSYC UN1001"
+      ]
+    ],
+    "scheduled_days":"R",
+    "section_key":"20251PSYC3450W001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"PSYC UN3461",
+    "course_title":"Music and Cognitive Neuroscience",
+    "course_descr":"This seminar will provide a broad survey of how principles of cognition are represented\n in music and the ways music has been used to study those principles in the psychology\n and neuroscience literature.",
+    "instructor":"John N Thorp",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"12:00pm",
+    "call_number":"11838",
+    "campus":null,
+    "class_id":"W3461-20251-001",
+    "course_subtitle":"Music & Cognitive Neurosc",
+    "department":"Psychology",
+    "department_code":"PSYC",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PSYC\/W3461-20251-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "General Studies",
+      "Global Programs",
+      "Professional Studies",
+      "Schools of the Arts"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20251PSYC3461W001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"PSYC UN3620",
+    "course_title":"SEM-DEVELOPMNTL PSYCHOPATHOLGY",
+    "course_descr":null,
+    "instructor":"Hannah E Hoch",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"12:00pm",
+    "call_number":"11839",
+    "campus":null,
+    "class_id":"W3620-20251-001",
+    "course_subtitle":"SEM-DEVELOPMNTL PSYCHOPAT",
+    "department":"Psychology",
+    "department_code":"PSYC",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PSYC\/W3620-20251-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "General Studies",
+      "Global Programs",
+      "Professional Studies",
+      "Schools of the Arts"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20251PSYC3620W001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"PSYC UN3623",
+    "course_title":"TOPICS IN CLINICAL PSYCHOLOGY",
+    "course_descr":null,
+    "instructor":"Usha Barahmand",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"12:00pm",
+    "call_number":"11843",
+    "campus":null,
+    "class_id":"W3623-20251-001",
+    "course_subtitle":"TOPICS IN CLINICAL PSYCHO",
+    "department":"Psychology",
+    "department_code":"PSYC",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PSYC\/W3623-20251-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "General Studies",
+      "Global Programs",
+      "Professional Studies",
+      "Schools of the Arts"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20251PSYC3623W001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"PSYC UN3623",
+    "course_title":"TOPICS IN CLINICAL PSYCHOLOGY",
+    "course_descr":null,
+    "instructor":"Irit Felsen",
+    "scheduled_time_start":"12:10pm",
+    "scheduled_time_end":"2:00pm",
+    "call_number":"11844",
+    "campus":null,
+    "class_id":"W3623-20251-002",
+    "course_subtitle":"TOPICS IN CLINICAL PSYCHO",
+    "department":"Psychology",
+    "department_code":"PSYC",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PSYC\/W3623-20251-002\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "General Studies",
+      "Global Programs",
+      "Professional Studies",
+      "Schools of the Arts"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20251PSYC3623W002",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"PSYC UN3625",
+    "course_title":"CLINICAL NEUROPSYCHOLOGY",
+    "course_descr":null,
+    "instructor":"E'Mett McCaskill",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"6:00pm",
+    "call_number":"11845",
+    "campus":null,
+    "class_id":"W3625-20251-001",
+    "course_subtitle":null,
+    "department":"Psychology",
+    "department_code":"PSYC",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PSYC\/W3625-20251-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "General Studies",
+      "Global Programs",
+      "Professional Studies",
+      "Schools of the Arts"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20251PSYC3625W001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"PSYC UN3930",
+    "course_title":"Psychology\/Neuroscience Senior Thesis Ad",
+    "course_descr":null,
+    "instructor":"Alfredo Spagna",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"6:00pm",
+    "call_number":"11846",
+    "campus":null,
+    "class_id":"W3930-20251-001",
+    "course_subtitle":"Advanced Research Seminar",
+    "department":"Psychology",
+    "department_code":"PSYC",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PSYC\/W3930-20251-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "General Studies",
+      "Global Programs",
+      "Professional Studies",
+      "Schools of the Arts"
+    ],
+    "points":"1-3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20251PSYC3930W001",
+    "type":"SEMINAR"
   },
   {
     "course_code":"PUAF U6226",
@@ -56377,6 +58291,84 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"QUCH OC1101",
+    "course_title":"ELEMENTARY QUECHUA I",
+    "course_descr":"Quechua is the most important and most widely-distributed indigenous language in South America, with over 10 million speakers living from the high mountains to the tropical lowlands in Colombia, Ecuador, Peru, Bolivia, Chile, and Argentina. Those who speak it call the language runa simi or runa shimi, human speech. It was the principal language of the Inca empire and the key language of cultural interaction during the colonial era. Quechua has remained central to indigenous peoples efforts to preserve their cultural autonomy. It has gained greater force in recent years, during which indigenous movements have swept Quechua speakers into national politics, where they have succeeded in transforming constitutions to recognize cultural diversity, making Quechua an official language of state, and successfully promoting schooling in the language. Students who satisfactorily complete Elementary Quechua I and II will be well-prepared for intensive summer study at one of many summer study abroad programs in Ecuador, Peru, and Bolivia that will put them in closer contact with the indigenous world.",
+    "instructor":null,
+    "scheduled_time_start":"9:30am",
+    "scheduled_time_end":"10:45am",
+    "call_number":"11830",
+    "campus":null,
+    "class_id":"W1101-20251-001",
+    "course_subtitle":null,
+    "department":"Language Resource Center",
+    "department_code":"QUCH",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/QUCH\/W1101-20251-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MWF",
+    "section_key":"20251QUCH1101W001",
+    "type":"LANGUAGE"
+  },
+  {
+    "course_code":"QUCH OC1102",
+    "course_title":"ELEMENTARY QUECHUA II",
+    "course_descr":"Quechua is the most important and most widely-distributed indigenous language in South America, with over 10 million speakers living from the high mountains to the tropical lowlands in Colombia, Ecuador, Peru, Bolivia, Chile, and Argentina. Those who speak it call the language runa simi or runa shimi, human speech. It was the principal language of the Inca empire and the key language of cultural interaction during the colonial era. Quechua has remained central to indigenous peoples efforts to preserve their cultural autonomy. It has gained greater force in recent years, during which indigenous movements have swept Quechua speakers into national politics, where they have succeeded in transforming constitutions to recognize cultural diversity, making Quechua an official language of state, and successfully promoting schooling in the language. Students who satisfactorily complete Elementary Quechua I and II will be well-prepared for intensive summer study at one of many summer study abroad programs in Ecuador, Peru, and Bolivia that will put them in closer contact with the indigenous world.",
+    "instructor":null,
+    "scheduled_time_start":"11:00am",
+    "scheduled_time_end":"12:15pm",
+    "call_number":"11834",
+    "campus":null,
+    "class_id":"W1102-20251-001",
+    "course_subtitle":null,
+    "department":"Language Resource Center",
+    "department_code":"QUCH",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/QUCH\/W1102-20251-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MWF",
+    "section_key":"20251QUCH1102W001",
+    "type":"LANGUAGE"
+  },
+  {
+    "course_code":"QUCH OC2102",
+    "course_title":"INTERMEDIATE QUECHUA II",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"2:00pm",
+    "scheduled_time_end":"3:15pm",
+    "call_number":"11836",
+    "campus":null,
+    "class_id":"W2102-20251-001",
+    "course_subtitle":null,
+    "department":"Language Resource Center",
+    "department_code":"QUCH",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/QUCH\/W2102-20251-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MWF",
+    "section_key":"20251QUCH2102W001",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"REGN U6149",
     "course_title":"Energy, Corporate Responsibility & Human",
     "course_descr":"This class examines how to reconcile the differing\/conflicting interests\/goals of energy, and mining, companies and the public interest (e.g. governments); how to negotiate PPP agreements; understand the function\/impact of laws and international trade agreements; and determine how CSR, especially environment and anti-corruption, and human rights apply. Case studies of multi-billion international energy pipeline projects, including TAP in Albania and Greece, TAPI in Turkmenistan, Afghanistan, Pakistan and India, BTC in Georgian and the Caucasus and , for comparative purposes, the controversial Keystone in US and Canada, will be the prism\/focus for analysis. The class is dynamic and cross-disciplinary.",
@@ -56820,7 +58812,7 @@
     "course_descr":"What is the relationship between religion and human rights? How have different religious traditions conceived of \u201cthe human\u201d as a being worthy of inherent dignity and respect, particularly in moments of political, military, economic, and ecological crisis? How and why have modern regimes of human rights privileged some of these ideas and marginalized others? What can these complicated relationships between religion and human rights explain some of the key crises in human rights law and politics today, and what avenues can be charted for moving forward? In this class, we will attempt to answer these questions by first developing a theoretical understanding of some of the key debates about the origins, trajectories, and legacies of modern human rights\u2019 religious entanglements. We will then move on to examine various examples of ideas about and institutions for protecting \u201chumanity\u201d from different regions and histories. Specifically, we will examine how different societies, organizations, and religious traditions have addressed questions of war and violence; freedom of belief and expression; gender and sexual orientation; economic inequality; ecology; and the appropriate ways to punish and remember wrongdoing. In doing so, we will develop a repertoire of theoretical and empirical tools that can help us address both specific crises of human rights in various contexts, as well as the general crisis of faith and and observance of human rights as a universal norm and aspiration for peoples everywhere.",
     "instructor":"Timothy Vasko",
     "scheduled_time_start":"2:10pm",
-    "scheduled_time_end":"4:09pm",
+    "scheduled_time_end":"4:00pm",
     "call_number":"00512",
     "campus":null,
     "class_id":"X3671-20251-001",
@@ -57763,6 +59755,32 @@
     "type":"WORKSHOP"
   },
   {
+    "course_code":"SDEV UN3280",
+    "course_title":"WORKSHOP IN SUSTAINABLE DEVPT",
+    "course_descr":"The upper level undergraduate Sustainable Development Workshop will be modeled on client based graduate-level workshops, but with more time devoted to methods of applied policy analysis and issues in Sustainable Development. The heart of the course is the group project on an issue of sustainable development with a faculty advisor providing guidance and ultimately grading student performance. Students would receive instruction on methodology, group work, communication and the context of policy analysis. Much of the reading in the course would be project-specific and identified by the student research teams. Offered in Fall and Spring. For registration issues contact Cari Shimkus (cshimkus@ei.columbia.edu).",
+    "instructor":"Sharon S Mathews",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"6:00pm",
+    "call_number":"11789",
+    "campus":null,
+    "class_id":"W3280-20251-002",
+    "course_subtitle":"WORKSHOP IN SUSTAINABLE D",
+    "department":"Earth Institute",
+    "department_code":"SDEV",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SDEV\/W3280-20251-002\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20251SDEV3280W002",
+    "type":"WORKSHOP"
+  },
+  {
     "course_code":"SDEV UN3410",
     "course_title":"Cities & Sustainability",
     "course_descr":"In an increasingly urban world, sustainable development is not possible without achieving sustainability in cities. This course explores the challenges and opportunities of sustainable development policy-making at the urban level through the study of local efforts to address climate change, provide access to clean water, and develop renewable energy resources, among other topics. Students will gain a more detailed understanding of how cities\u2019 histories, land use patterns, and economies influence urban resource use, and how cities have attempted to change those impacts. Using case studies of local sustainability initiatives, students examine how a city\u2019s governance structure, political dynamics, and administrative capacity affect policy outcomes. Consideration of the equity implications of urban sustainability efforts is integral to the course.",
@@ -57839,6 +59857,58 @@
     "scheduled_days":null,
     "section_key":"20251SDEV3998W001",
     "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"SINH OC1102",
+    "course_title":"ELEMENTARY SINHALA II",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11857",
+    "campus":null,
+    "class_id":"W1102-20251-001",
+    "course_subtitle":null,
+    "department":"Language Resource Center",
+    "department_code":"SINH",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SINH\/W1102-20251-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20251SINH1102W001",
+    "type":"LANGUAGE"
+  },
+  {
+    "course_code":"SINH OC2102",
+    "course_title":"INTERMEDIATE SINHALA II",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11859",
+    "campus":null,
+    "class_id":"W2102-20251-001",
+    "course_subtitle":null,
+    "department":"Language Resource Center",
+    "department_code":"SINH",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SINH\/W2102-20251-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20251SINH2102W001",
+    "type":"LANGUAGE"
   },
   {
     "course_code":"SIPA U4010",
@@ -65835,5 +67905,187 @@
     "scheduled_days":"MTR",
     "section_key":"20251WRIT0103KD01",
     "type":"LECTURE"
+  },
+  {
+    "course_code":"YORU OC1102",
+    "course_title":"ELEMENTARY YORUBA II",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"11:00am",
+    "call_number":"11840",
+    "campus":null,
+    "class_id":"W1102-20251-001",
+    "course_subtitle":null,
+    "department":"Language Resource Center",
+    "department_code":"YORU",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/YORU\/W1102-20251-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MTWR",
+    "section_key":"20251YORU1102W001",
+    "type":"LANGUAGE"
+  },
+  {
+    "course_code":"YORU OC2102",
+    "course_title":"INTERMEDIATE YORUBA II",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"9:05am",
+    "scheduled_time_end":"9:55am",
+    "call_number":"11841",
+    "campus":null,
+    "class_id":"W2102-20251-001",
+    "course_subtitle":null,
+    "department":"Language Resource Center",
+    "department_code":"YORU",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/YORU\/W2102-20251-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MTWR",
+    "section_key":"20251YORU2102W001",
+    "type":"LANGUAGE"
+  },
+  {
+    "course_code":"YORU UN3102",
+    "course_title":"ADVANCED YORUBA II",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11842",
+    "campus":null,
+    "class_id":"W3102-20251-001",
+    "course_subtitle":null,
+    "department":"Language Resource Center",
+    "department_code":"YORU",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/YORU\/W3102-20251-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20251YORU3102W001",
+    "type":"LANGUAGE"
+  },
+  {
+    "course_code":"ZULU UN1102",
+    "course_title":"ELEMENTARY ZULU II",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11847",
+    "campus":null,
+    "class_id":"W1102-20251-001",
+    "course_subtitle":null,
+    "department":"Language Resource Center",
+    "department_code":"ZULU",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ZULU\/W1102-20251-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20251ZULU1102W001",
+    "type":"LANGUAGE"
+  },
+  {
+    "course_code":"ZULU UN2102",
+    "course_title":"INTERMEDIATE ZULU II",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11849",
+    "campus":null,
+    "class_id":"W2102-20251-001",
+    "course_subtitle":null,
+    "department":"Language Resource Center",
+    "department_code":"ZULU",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ZULU\/W2102-20251-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20251ZULU2102W001",
+    "type":"LANGUAGE"
+  },
+  {
+    "course_code":"ZULU UN3102",
+    "course_title":"ADVANCED ZULU II",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11851",
+    "campus":null,
+    "class_id":"W3102-20251-001",
+    "course_subtitle":null,
+    "department":"Language Resource Center",
+    "department_code":"ZULU",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ZULU\/W3102-20251-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20251ZULU3102W001",
+    "type":"LANGUAGE"
+  },
+  {
+    "course_code":"ZULU UN3999",
+    "course_title":"SUPERVISED READINGS II",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11852",
+    "campus":null,
+    "class_id":"W3999-20251-001",
+    "course_subtitle":null,
+    "department":"Language Resource Center",
+    "department_code":"ZULU",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ZULU\/W3999-20251-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20251ZULU3999W001",
+    "type":"INDEPENDENT"
   }
 ]
