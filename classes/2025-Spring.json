@@ -1433,7 +1433,7 @@
     "course_code":"ANTH GR6643",
     "course_title":"ISLE OF INTELLECTUALS",
     "course_descr":null,
-    "instructor":null,
+    "instructor":"Vanessa L Agard-Jones",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"12983",
@@ -6959,6 +6959,34 @@
     ],
     "scheduled_days":"M",
     "section_key":"20251ARCH6912A001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"ARCH A6936",
+    "course_title":"OLD BUILDINGS, NEW ENERGY: HISTORY AND C",
+    "course_descr":null,
+    "instructor":"Francoise A Bollack",
+    "scheduled_time_start":"11:00am",
+    "scheduled_time_end":"1:00pm",
+    "call_number":"13082",
+    "campus":null,
+    "class_id":"A6936-20251-001",
+    "course_subtitle":"OLD BLDGS, NEW ENERGY",
+    "department":"Architecture, Planning and Preservation",
+    "department_code":"ARCH",
+    "instructor_wikipedia_link":"https:\/\/en.wikipedia.org\/wiki\/Fran%C3%A7oise_Astorg_Bollack",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ARCH\/A6936-20251-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture"
+    ],
+    "points":"1.5",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20251ARCH6936A001",
     "type":"SEMINAR"
   },
   {
@@ -23255,7 +23283,7 @@
   {
     "course_code":"ECON GR6244",
     "course_title":"Networks in Economic Theory",
-    "course_descr":null,
+    "course_descr":"Networks help us describe the complex interactions that occur among large populations of distinct\n entities. Some have argued that their incorporation into economic models represents a paradigm\n change for the ?eld. This course will introduce you to the central questions in current networks\n research as well as the tools and methods used to study networks in economic theory. Topics we\n will cover include network games and interventions, di?usion processes, network formation, social\n learning and opinion dynamics, and networked markets. The course is divided into two halves. The\n rst half will consist of lectures on these topics. In the second half, we will read and discuss recent\n research papers.",
     "instructor":"Evan D Sadler",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -23558,7 +23586,7 @@
   {
     "course_code":"ECON GR8315",
     "course_title":"ECONOMIC FLUCTUATIONS COLLOQ",
-    "course_descr":null,
+    "course_descr":"Prerequisites: G6215 and G6216. Open-economy macroeconomics, computational methods for dynamic equilibrium analysis, and sources of business cycles.",
     "instructor":null,
     "scheduled_time_start":"1:00pm",
     "scheduled_time_end":"2:00pm",
@@ -23578,11 +23606,74 @@
     ],
     "points":"2",
     "prerequisites":[
-
+      [
+        "G6215"
+      ],
+      [
+        "G6216"
+      ]
     ],
     "scheduled_days":"M",
     "section_key":"20251ECON8315G001",
     "type":"COLLOQUIA"
+  },
+  {
+    "course_code":"ECON GR8730",
+    "course_title":"FINANCIAL ECONOMICS COLLOQUIUM",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"12:00pm",
+    "scheduled_time_end":"1:00pm",
+    "call_number":"13081",
+    "campus":null,
+    "class_id":"G8730-20251-001",
+    "course_subtitle":"FINANCIAL ECONOMICS COLLO",
+    "department":"Economics",
+    "department_code":"ECON",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ECON\/G8730-20251-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "GSAS"
+    ],
+    "points":"2",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20251ECON8730G001",
+    "type":"COLLOQUIA"
+  },
+  {
+    "course_code":"ECON GR9001",
+    "course_title":"ECONOMIC THEORY",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"1:00pm",
+    "scheduled_time_end":"2:30pm",
+    "call_number":"13080",
+    "campus":null,
+    "class_id":"G9001-20251-001",
+    "course_subtitle":null,
+    "department":"Economics",
+    "department_code":"ECON",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ECON\/G9001-20251-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Engineering:Graduate",
+      "GSAS",
+      "SIPA"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20251ECON9001G001",
+    "type":"WORKSHOP"
   },
   {
     "course_code":"EDUC BC3042",
@@ -41471,7 +41562,7 @@
   {
     "course_code":"ITAL GR9102",
     "course_title":"RSRCH-MEDIEVAL & RENSSNCE LIT",
-    "course_descr":null,
+    "course_descr":"Guided reading and research on a topic or in a field chosen by the student in consultation with a member of the faculty. Required for Ph.D candidates, ideally during the semester when they prepare the dissertation proposal (prospectus) under the supervision of a potential sponsor.",
     "instructor":"Teodolinda Barolini",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -41523,7 +41614,7 @@
   {
     "course_code":"ITAL GU4005",
     "course_title":"RAPID READ&TRANSLATION IN ITAL",
-    "course_descr":null,
+    "course_descr":"For graduate students and others who need to develop their reading knowledge of Italian. Open to undergraduate students as well, who want a compact survey\/review of Italian structures and an approach to translation. Grammar, syntax, and vocabulary review; practice in reading and translating Italian texts of increasing complexity from a variety of fields, depending on the needs of the students. No previous knowledge of Italian is required. Note: this course may not be used to satisfy the language requirement or to fulfill major or concentration requirements.",
     "instructor":"Maria Luisa Gozzi",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -41549,7 +41640,7 @@
   {
     "course_code":"ITAL GU4019",
     "course_title":"TOPICS in MICROHISTORY",
-    "course_descr":null,
+    "course_descr":"In the 1970s and 1980s a group of young Italian historians transformed the methods of historical inquiry and narrative. This class explores the origins, the diffusion, as well as the debate around Italian Microhistory across Europe and the United States. In particular, we will focus on \u201ccultural\u201d and \u201csocial\u201d Microhistory and its evolution in Italy, France, and the US. We will read masterpieces such as Carlo Ginzburg\u2019s \nThe Cheese and the Worms\n, as well as Nathalie Zemon Davis\u2019s \nThe Return of Martin Guerrre. \nAlso, we will analyze the current application of microhistorical methods to contemporary global history and the genre of biography. Topics include pre-modern popular culture and literacy, minority and marginality, the Inquisition, individual and collective identities, and the relation between the pre-modern Mediterranean, Europe and the world. \nIn Italian.",
     "instructor":"Pier Mattia Tommasino",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -41575,7 +41666,7 @@
   {
     "course_code":"ITAL GU4055",
     "course_title":"ANTHROPOLOGY OF CONTEMP ITALY",
-    "course_descr":null,
+    "course_descr":"This seminar examines ways in which Italy is understood and represented by Italians and non-Italians. It will analyze the formation of multiple discourses on Italy, how Italian culture and society are imagined, represented and\/or distorted. Based on an anthropological perspective, this course will examine ways in which we can understand Italy through the intersections of pluralism, ethnicity, gender, and religion. The course will study how Italy strives for political and economic unity, while there is a concurrent push toward inequality, exclusion, and marginalization. Moreover, the course will analyze the revitalization of nationalism on one hand of regionalism on the other, and will focus on the concepts of territory, identity, and tradition. Short videos that can be watched on computer and alternative readings for those fluent in Italian will be assigned. There are no pre-requisites for this course.",
     "instructor":"Barbara Faedda",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -41767,7 +41858,7 @@
   {
     "course_code":"ITAL UN1102",
     "course_title":"ELEMENTARY ITALIAN II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: ITAL V1101 or the equivalent. Introduction to Italian grammar, with emphasis on reading, writing, listening and speaking skills.",
     "instructor":"Matteo Heilbrun",
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"1:00pm",
@@ -41784,7 +41875,9 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "ITAL V1101"
+      ]
     ],
     "scheduled_days":"MTWR",
     "section_key":"20251ITAL1102W007",
@@ -41793,7 +41886,7 @@
   {
     "course_code":"ITAL UN1102",
     "course_title":"ELEMENTARY ITALIAN II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: ITAL V1101 or the equivalent. Introduction to Italian grammar, with emphasis on reading, writing, listening and speaking skills.",
     "instructor":"Maria Teresa de Luca",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:00am",
@@ -41810,7 +41903,9 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "ITAL V1101"
+      ]
     ],
     "scheduled_days":"MTWR",
     "section_key":"20251ITAL1102W002",
@@ -41819,7 +41914,7 @@
   {
     "course_code":"ITAL UN1102",
     "course_title":"ELEMENTARY ITALIAN II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: ITAL V1101 or the equivalent. Introduction to Italian grammar, with emphasis on reading, writing, listening and speaking skills.",
     "instructor":"Maria Teresa de Luca",
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"2:00pm",
@@ -41836,7 +41931,9 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "ITAL V1101"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20251ITAL1102W004",
@@ -41845,7 +41942,7 @@
   {
     "course_code":"ITAL UN1102",
     "course_title":"ELEMENTARY ITALIAN II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: ITAL V1101 or the equivalent. Introduction to Italian grammar, with emphasis on reading, writing, listening and speaking skills.",
     "instructor":"Felice Beneduce",
     "scheduled_time_start":"8:40am",
     "scheduled_time_end":"9:55am",
@@ -41862,7 +41959,9 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "ITAL V1101"
+      ]
     ],
     "scheduled_days":"MWR",
     "section_key":"20251ITAL1102W005",
@@ -41871,7 +41970,7 @@
   {
     "course_code":"ITAL UN1102",
     "course_title":"ELEMENTARY ITALIAN II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: ITAL V1101 or the equivalent. Introduction to Italian grammar, with emphasis on reading, writing, listening and speaking skills.",
     "instructor":"Felice Beneduce",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -41888,7 +41987,9 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "ITAL V1101"
+      ]
     ],
     "scheduled_days":"MWR",
     "section_key":"20251ITAL1102W006",
@@ -41897,7 +41998,7 @@
   {
     "course_code":"ITAL UN1102",
     "course_title":"ELEMENTARY ITALIAN II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: ITAL V1101 or the equivalent. Introduction to Italian grammar, with emphasis on reading, writing, listening and speaking skills.",
     "instructor":"Kathleen C Cannon",
     "scheduled_time_start":"9:10am",
     "scheduled_time_end":"10:00am",
@@ -41914,7 +42015,9 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "ITAL V1101"
+      ]
     ],
     "scheduled_days":"MTWR",
     "section_key":"20251ITAL1102W001",
@@ -41923,7 +42026,7 @@
   {
     "course_code":"ITAL UN1121",
     "course_title":"INTENSIVE ELEMENTARY ITALIAN",
-    "course_descr":null,
+    "course_descr":"An intensive course that covers two semesters of elementary Italian in one, and prepares students to move into Intermediate Italian.\u00a0\u00a0Students will develop their Italian communicative competence through listening, (interactive) speaking, reading and (interactive) writing. The Italian language will be used for real-world purposes and in meaningful contexts to promote intercultural understanding.\u00a0This course is especially recommended for students who already know another Romance language. \u00a0May be used toward fulfillment of the language requirement.",
     "instructor":"Barbara Spinelli",
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"2:00pm",
@@ -41949,7 +42052,7 @@
   {
     "course_code":"ITAL UN1222",
     "course_title":"INTERMEDIATE CONVERSTN ITAL II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: ITAL W1221 or sufficient fluency to satisfy the instructor. Corequisites: Recommended: ITAL V1201-V\/W1202 or ITAL W1201-W1202. Conversation courses may not be used to satisfy the language requirement or fulfill major or concentration requirements. Intensive practice in the spoken language, assigned topics for class discussions, and oral reports.",
     "instructor":"Barbara Spinelli",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -41966,7 +42069,17 @@
     "open_to":null,
     "points":"2",
     "prerequisites":[
-
+      [
+        "ITAL W1221",
+        "ITAL V1201"
+      ],
+      [
+        "W1202"
+      ],
+      [
+        "W1202",
+        "ITAL W1201"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20251ITAL1222W001",
@@ -41975,7 +42088,7 @@
   {
     "course_code":"ITAL UN1312",
     "course_title":"ADVANCED CONVERSATION ITALIAN",
-    "course_descr":null,
+    "course_descr":"Prerequisites: ITAL UN2102 or sufficient fluency to satisfy the instructor. Conversation courses may not be used to satisfy the language requirement or fulfill major or concentration requirements. This course is designed for students who have attended four semesters of Italian language, mastered the grammatical structure of the language and are ready to expand and enlarge their language skills. A particular emphasis will be put on oral production, on listening and on reading: in class and at home the students will analyze various kinds of text and genres. In-class time is dedicated to speaking and practicing Italian through a combination of group-based and individual activities, focusing on a wide range of contemporary cultural themes through the use of varied materials such as newspaper articles, advertising material and short film clips. We will focus also on grammatical structures, language functions and activities to expand the vocabulary.",
     "instructor":"Patrizia Palumbo",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"7:25pm",
@@ -41992,7 +42105,9 @@
     "open_to":null,
     "points":"2",
     "prerequisites":[
-
+      [
+        "ITAL UN2102"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20251ITAL1312W001",
@@ -42001,7 +42116,7 @@
   {
     "course_code":"ITAL UN2101",
     "course_title":"INTERMEDIATE ITALIAN I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: ITAL V1102 or W1102, or the equivalent. If you did not take Elementary Italian at Columbia in the semester preceding the current one, you must take the placement test, offered by the Italian Department at the beginning of each semester.",
     "instructor":"Patrizia Palumbo",
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"2:00pm",
@@ -42018,7 +42133,10 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "ITAL V1102",
+        "W1102"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20251ITAL2101W001",
@@ -42027,7 +42145,7 @@
   {
     "course_code":"ITAL UN2101",
     "course_title":"INTERMEDIATE ITALIAN I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: ITAL V1102 or W1102, or the equivalent. If you did not take Elementary Italian at Columbia in the semester preceding the current one, you must take the placement test, offered by the Italian Department at the beginning of each semester.",
     "instructor":"Patrizia Palumbo",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -42044,7 +42162,10 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "ITAL V1102",
+        "W1102"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20251ITAL2101W002",
@@ -42053,7 +42174,7 @@
   {
     "course_code":"ITAL UN2102",
     "course_title":"INTERMEDIATE ITALIAN II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: ITAL V1201 or W1201, or the equivalent. If you did not take Elementary Italian at Columbia in the semester preceding the current one, you must take the placement test, offered by the Italian Department at the beginning of each semester. A review of grammar, intensive reading, composition, and practice in conversation. Exploration of literary and cultural material. Lab: hours to be arranged. ITAL V1202 fulfils the basic foreign language requirement and prepares students for advanced study in Italian language and literature.",
     "instructor":"Alessandra Saggin",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -42070,7 +42191,13 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "ITAL V1201",
+        "W1201"
+      ],
+      [
+        "ITAL V1202"
+      ]
     ],
     "scheduled_days":"MWR",
     "section_key":"20251ITAL2102W001",
@@ -42079,8 +42206,8 @@
   {
     "course_code":"ITAL UN2102",
     "course_title":"INTERMEDIATE ITALIAN II",
-    "course_descr":null,
-    "instructor":null,
+    "course_descr":"Prerequisites: ITAL V1201 or W1201, or the equivalent. If you did not take Elementary Italian at Columbia in the semester preceding the current one, you must take the placement test, offered by the Italian Department at the beginning of each semester. A review of grammar, intensive reading, composition, and practice in conversation. Exploration of literary and cultural material. Lab: hours to be arranged. ITAL V1202 fulfils the basic foreign language requirement and prepares students for advanced study in Italian language and literature.",
+    "instructor":"Luca Abbattista",
     "scheduled_time_start":"8:40am",
     "scheduled_time_end":"9:55am",
     "call_number":"13048",
@@ -42096,7 +42223,13 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "ITAL V1201",
+        "W1201"
+      ],
+      [
+        "ITAL V1202"
+      ]
     ],
     "scheduled_days":"MWF",
     "section_key":"20251ITAL2102W002",
@@ -42105,8 +42238,8 @@
   {
     "course_code":"ITAL UN2102",
     "course_title":"INTERMEDIATE ITALIAN II",
-    "course_descr":null,
-    "instructor":null,
+    "course_descr":"Prerequisites: ITAL V1201 or W1201, or the equivalent. If you did not take Elementary Italian at Columbia in the semester preceding the current one, you must take the placement test, offered by the Italian Department at the beginning of each semester. A review of grammar, intensive reading, composition, and practice in conversation. Exploration of literary and cultural material. Lab: hours to be arranged. ITAL V1202 fulfils the basic foreign language requirement and prepares students for advanced study in Italian language and literature.",
+    "instructor":"Lara Santoro",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
     "call_number":"13049",
@@ -42122,7 +42255,13 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "ITAL V1201",
+        "W1201"
+      ],
+      [
+        "ITAL V1202"
+      ]
     ],
     "scheduled_days":"MWF",
     "section_key":"20251ITAL2102W003",
@@ -42131,7 +42270,7 @@
   {
     "course_code":"ITAL UN2121",
     "course_title":"INTENSIVE INTERMEDIATE ITALIAN",
-    "course_descr":null,
+    "course_descr":"Prerequisites: ITAL UN1102 or the equivalent, with a grade of B+ or higher. An intensive course that covers two semesters of intermediate Italian in one, and prepares students for advanced language and literature study. Grammar, reading, writing, and conversation. Exploration of literary and cultural materials. This course may be used to fulfill the language requirement.",
     "instructor":"Maria Luisa Gozzi",
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"2:00pm",
@@ -42148,7 +42287,9 @@
     "open_to":null,
     "points":"6",
     "prerequisites":[
-
+      [
+        "ITAL UN1102"
+      ]
     ],
     "scheduled_days":"MTR",
     "section_key":"20251ITAL2121V001",
@@ -42157,7 +42298,7 @@
   {
     "course_code":"ITAL UN3334",
     "course_title":"INTRO TO ITALIAN LITERATURE II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: ITAL UN2102 or the equivalent. UN3334-UN3333 is the basic course in Italian literature. UN3334: Authors and works from the Cinquecento to the present. Taught in Italian.",
     "instructor":"Steven J Baker",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -42174,7 +42315,16 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "ITAL UN2102",
+        "UN3334"
+      ],
+      [
+        "UN3333"
+      ],
+      [
+        "UN3334"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20251ITAL3334V001",
@@ -42183,7 +42333,7 @@
   {
     "course_code":"ITAL UN3335",
     "course_title":"ADVANCED ITALIAN I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: ITALUN2102 or the equivalent. If you did not take Intermediate Italian at Columbia in the semester preceding the current one, you must take the placement test, offered by the Italian Department at the beginning of each semester. Written and oral self-expression in compositions and oral reports on a variety of topics; grammar review. Required for majors and concentrators.",
     "instructor":"Federica Franze",
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:55pm",
@@ -42200,7 +42350,9 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "UN2102"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20251ITAL3335V001",
@@ -42209,7 +42361,7 @@
   {
     "course_code":"ITAL UN3341",
     "course_title":"Art Itineraries: Italian through Art",
-    "course_descr":null,
+    "course_descr":"Prerequisites: (ITAL UN2102) or (ITAL UN2121) Students must have completed Intermediate level Italian language proficiency. The course, designed for students who have mastered the grammatical structure of the language, will give the students the opportunity to improve their language skills and discover Italian art from Middle Ages to the second half of twentieth century. The works of the artists will be studied and discussed with the intent of developing knowledge of the main features of artistic and cultural movements and of the appropriate vocabulary and terminology to describe and talk about them. A particular emphasis will be put to oral and written productions: various kinds of texts and genres will be practiced (description, narration, critical analysis). Students will learn how to describe and interpret a work of art, examine the main characteristics and the techniques used by the artists and will be able to look for themes recurring in the artistic productions. The artists covered during the course will be introduced along the lines of their unique artistic, historical and socio-cultural relevance through different sources: images, scholarly essays, literature, video and music. Two visits to the Metropolitan Museum of Art and to CIMA (Center for Modern Italian Art) will be organized. In Italian.",
     "instructor":"Alessandra Saggin",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:25pm",
@@ -42226,7 +42378,10 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "ITAL UN2102",
+        "ITAL UN2121"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20251ITAL3341W001",
@@ -42235,7 +42390,7 @@
   {
     "course_code":"ITAL UN3643",
     "course_title":"History of Italian Cinema",
-    "course_descr":null,
+    "course_descr":"This course explores the evolution of Italian Cinema from the pre-Fascist era to the millenium, and examines how films construct an image of Italy and the Italians.\u00a0 Special focus will be on the cinematic representations of gender.\u00a0 Films by major directors (Fellini, De Sica, Visconti) as well as by leading contemporaries (Moretti, Garrone, Rohrwacher) will be discussed.",
     "instructor":"Elizabeth Leake",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -42261,7 +42416,7 @@
   {
     "course_code":"ITAL UN3993",
     "course_title":"SENIOR THESIS\/TUTORIAL",
-    "course_descr":null,
+    "course_descr":"Prerequisites: the faculty advisers permission. Senior thesis or tutorial project consisting of independent scholarly work in an area of study of the student\u2019s choosing, under the supervision of a member of the faculty.",
     "instructor":"Teodolinda Barolini",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -42287,7 +42442,7 @@
   {
     "course_code":"ITAL UN3993",
     "course_title":"SENIOR THESIS\/TUTORIAL",
-    "course_descr":null,
+    "course_descr":"Prerequisites: the faculty advisers permission. Senior thesis or tutorial project consisting of independent scholarly work in an area of study of the student\u2019s choosing, under the supervision of a member of the faculty.",
     "instructor":"Elizabeth Leake",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -42313,7 +42468,7 @@
   {
     "course_code":"ITAL UN3993",
     "course_title":"SENIOR THESIS\/TUTORIAL",
-    "course_descr":null,
+    "course_descr":"Prerequisites: the faculty advisers permission. Senior thesis or tutorial project consisting of independent scholarly work in an area of study of the student\u2019s choosing, under the supervision of a member of the faculty.",
     "instructor":"Nelson Moe",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -42339,7 +42494,7 @@
   {
     "course_code":"ITAL UN3993",
     "course_title":"SENIOR THESIS\/TUTORIAL",
-    "course_descr":null,
+    "course_descr":"Prerequisites: the faculty advisers permission. Senior thesis or tutorial project consisting of independent scholarly work in an area of study of the student\u2019s choosing, under the supervision of a member of the faculty.",
     "instructor":"Pier Mattia Tommasino",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -42365,7 +42520,7 @@
   {
     "course_code":"ITAL UN3993",
     "course_title":"SENIOR THESIS\/TUTORIAL",
-    "course_descr":null,
+    "course_descr":"Prerequisites: the faculty advisers permission. Senior thesis or tutorial project consisting of independent scholarly work in an area of study of the student\u2019s choosing, under the supervision of a member of the faculty.",
     "instructor":"Konstantia Zanou",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -58626,6 +58781,34 @@
     "type":"INDEPENDENT"
   },
   {
+    "course_code":"PLAN A4010",
+    "course_title":"PLANNING FOR URBAN ENERGY SYSTEMS",
+    "course_descr":null,
+    "instructor":"Peter J Marcotullio",
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"11:00am",
+    "call_number":"13083",
+    "campus":null,
+    "class_id":"A4010-20251-001",
+    "course_subtitle":"PLANNING FOR URBAN ENERGY",
+    "department":"Architecture, Planning and Preservation",
+    "department_code":"PLAN",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PLAN\/A4010-20251-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20251PLAN4010A001",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"PLAN A4050",
     "course_title":"UP ELECT INTERNSHIP",
     "course_descr":null,
@@ -74489,13 +74672,71 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SUMA\/K5210-20251-001\/",
     "location":"To be announced",
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "Professional Studies"
+    ],
     "points":"3",
     "prerequisites":[
 
     ],
     "scheduled_days":"T",
     "section_key":"20251SUMA5210K001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"SUMA PS5220",
+    "course_title":"SUSTAINABLE ENTREPRENEURSHIP",
+    "course_descr":null,
+    "instructor":"Jonathan Hollander",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"13084",
+    "campus":null,
+    "class_id":"K5220-20251-001",
+    "course_subtitle":"SUSTAINABLE ENTREPRENEURS",
+    "department":"Sustainability Management",
+    "department_code":"SUMA",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SUMA\/K5220-20251-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20251SUMA5220K001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"SUMA PS5230",
+    "course_title":"THE EARTH'S CLIMATE SYSTEM",
+    "course_descr":null,
+    "instructor":"Benjamin I Cook",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"6:00pm",
+    "call_number":"13085",
+    "campus":null,
+    "class_id":"K5230-20251-001",
+    "course_subtitle":"THE EARTH'S CLIMATE SYSTE",
+    "department":"Sustainability Management",
+    "department_code":"SUMA",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SUMA\/K5230-20251-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20251SUMA5230K001",
     "type":"LECTURE"
   },
   {
