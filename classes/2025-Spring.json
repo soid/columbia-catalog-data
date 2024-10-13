@@ -65428,9 +65428,429 @@
     "type":"INDEPENDENT"
   },
   {
+    "course_code":"PHYS GR5084",
+    "course_title":"Quantum Simulation and Computing Lab",
+    "course_descr":null,
+    "instructor":"Sebastian Will",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"13460",
+    "campus":null,
+    "class_id":"W5084-20251-001",
+    "course_subtitle":"Quantum Simul. & Computin",
+    "department":"Physics",
+    "department_code":"PHYS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PHYS\/W5084-20251-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20251PHYS5084W001",
+    "type":"LABORATORY"
+  },
+  {
+    "course_code":"PHYS GR6011",
+    "course_title":"ASTROPHYSICS I",
+    "course_descr":null,
+    "instructor":"Charles J Hailey",
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"2:25pm",
+    "call_number":"13461",
+    "campus":null,
+    "class_id":"G6011-20251-001",
+    "course_subtitle":null,
+    "department":"Physics",
+    "department_code":"PHYS",
+    "instructor_wikipedia_link":"https:\/\/en.wikipedia.org\/wiki\/Charles_Hailey",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PHYS\/G6011-20251-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Engineering:Graduate",
+      "GSAS"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20251PHYS6011G001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"PHYS GR6020",
+    "course_title":"FRONTIERS OF COND MATTER PHYS",
+    "course_descr":null,
+    "instructor":"Yasutomo Uemura",
+    "scheduled_time_start":"7:40pm",
+    "scheduled_time_end":"8:55pm",
+    "call_number":"13462",
+    "campus":null,
+    "class_id":"G6020-20251-001",
+    "course_subtitle":"FRONTIERS OF COND MATTER",
+    "department":"Physics",
+    "department_code":"PHYS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PHYS\/G6020-20251-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Engineering:Graduate",
+      "GSAS"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20251PHYS6020G001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"PHYS GR6038",
+    "course_title":"QUANTUM MECHANICS II",
+    "course_descr":null,
+    "instructor":"Norman H Christ",
+    "scheduled_time_start":"8:40am",
+    "scheduled_time_end":"9:55am",
+    "call_number":"13463",
+    "campus":null,
+    "class_id":"G6038-20251-001",
+    "course_subtitle":null,
+    "department":"Physics",
+    "department_code":"PHYS",
+    "instructor_wikipedia_link":"https:\/\/en.wikipedia.org\/wiki\/Norman_Christ",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PHYS\/G6038-20251-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Engineering:Graduate",
+      "GSAS"
+    ],
+    "points":"4.5",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20251PHYS6038G001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"PHYS GR6047",
+    "course_title":"QUANTUM FIELD THEORY I",
+    "course_descr":null,
+    "instructor":"Frederik Denef",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"11:25am",
+    "call_number":"13464",
+    "campus":null,
+    "class_id":"G6047-20251-001",
+    "course_subtitle":null,
+    "department":"Physics",
+    "department_code":"PHYS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PHYS\/G6047-20251-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Engineering:Graduate",
+      "GSAS"
+    ],
+    "points":"4.5",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20251PHYS6047G001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"PHYS GR6057",
+    "course_title":"Quantum Many Body Physics",
+    "course_descr":null,
+    "instructor":"Andrew Millis",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"11:25am",
+    "call_number":"13465",
+    "campus":null,
+    "class_id":"G6057-20251-001",
+    "course_subtitle":null,
+    "department":"Physics",
+    "department_code":"PHYS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PHYS\/G6057-20251-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Engineering:Graduate",
+      "GSAS"
+    ],
+    "points":"4.5",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20251PHYS6057G001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"PHYS GR6060",
+    "course_title":"ATOMIC PHYSICS",
+    "course_descr":null,
+    "instructor":"Tanya Zelevinsky",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"11:25am",
+    "call_number":"13466",
+    "campus":null,
+    "class_id":"G6060-20251-001",
+    "course_subtitle":null,
+    "department":"Physics",
+    "department_code":"PHYS",
+    "instructor_wikipedia_link":"https:\/\/en.wikipedia.org\/wiki\/Tanya_Zelevinsky",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PHYS\/G6060-20251-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20251PHYS6060G001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"PHYS GR6082",
+    "course_title":"CONDENSED MATTER PHYSICS I",
+    "course_descr":null,
+    "instructor":"Raquel Quieroz",
+    "scheduled_time_start":"8:40am",
+    "scheduled_time_end":"9:55am",
+    "call_number":"13467",
+    "campus":null,
+    "class_id":"G6082-20251-001",
+    "course_subtitle":null,
+    "department":"Physics",
+    "department_code":"PHYS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PHYS\/G6082-20251-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Engineering:Graduate",
+      "GSAS"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20251PHYS6082G001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"PHYS GR6094",
+    "course_title":"CLASSICAL FIELDS & WAVES",
+    "course_descr":null,
+    "instructor":"Andrei Beloborodov",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"11:25am",
+    "call_number":"13468",
+    "campus":null,
+    "class_id":"G6094-20251-001",
+    "course_subtitle":null,
+    "department":"Physics",
+    "department_code":"PHYS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PHYS\/G6094-20251-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Engineering:Graduate",
+      "GSAS"
+    ],
+    "points":"4.5",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20251PHYS6094G001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"PHYS GR8040",
+    "course_title":"GENERAL RELATIVITY",
+    "course_descr":null,
+    "instructor":"Andrei Beloborodov",
+    "scheduled_time_start":"2:40pm",
+    "scheduled_time_end":"3:55pm",
+    "call_number":"13469",
+    "campus":null,
+    "class_id":"G8040-20251-001",
+    "course_subtitle":null,
+    "department":"Physics",
+    "department_code":"PHYS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PHYS\/G8040-20251-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Engineering:Graduate",
+      "GSAS"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20251PHYS8040G001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"PHYS GU4003",
+    "course_title":"ADVANCED MECHANICS",
+    "course_descr":null,
+    "instructor":"Brian Cole",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"5:25pm",
+    "call_number":"13455",
+    "campus":null,
+    "class_id":"W4003-20251-001",
+    "course_subtitle":null,
+    "department":"Physics",
+    "department_code":"PHYS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PHYS\/W4003-20251-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "Engineering:Graduate",
+      "Engineering:Undergraduate",
+      "GSAS",
+      "General Studies",
+      "Global Programs"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20251PHYS4003W001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"PHYS GU4018",
+    "course_title":"SOLID STATE PHYSICS",
+    "course_descr":null,
+    "instructor":"James W McIver",
+    "scheduled_time_start":"2:40pm",
+    "scheduled_time_end":"3:55pm",
+    "call_number":"13456",
+    "campus":null,
+    "class_id":"W4018-20251-001",
+    "course_subtitle":null,
+    "department":"Physics",
+    "department_code":"PHYS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PHYS\/W4018-20251-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "Engineering:Graduate",
+      "Engineering:Undergraduate",
+      "GSAS",
+      "General Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20251PHYS4018W001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"PHYS GU4022",
+    "course_title":"QUANTUM MECHANICS II",
+    "course_descr":null,
+    "instructor":"Alfred H Mueller",
+    "scheduled_time_start":"11:40am",
+    "scheduled_time_end":"12:55pm",
+    "call_number":"13457",
+    "campus":null,
+    "class_id":"W4022-20251-001",
+    "course_subtitle":null,
+    "department":"Physics",
+    "department_code":"PHYS",
+    "instructor_wikipedia_link":"https:\/\/en.wikipedia.org\/wiki\/Alfred_Mueller",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PHYS\/W4022-20251-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "Engineering:Graduate",
+      "Engineering:Undergraduate",
+      "GSAS",
+      "General Studies",
+      "Global Programs",
+      "SIPA",
+      "Schools of the Arts"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20251PHYS4022W001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"PHYS GU4040",
+    "course_title":"INTRO TO GENERAL RELATIVITY",
+    "course_descr":null,
+    "instructor":"James C Hill",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"5:25pm",
+    "call_number":"13458",
+    "campus":null,
+    "class_id":"W4040-20251-001",
+    "course_subtitle":"INTRO TO GENERAL RELATIVI",
+    "department":"Physics",
+    "department_code":"PHYS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PHYS\/W4040-20251-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "Engineering:Graduate",
+      "Engineering:Undergraduate",
+      "GSAS",
+      "General Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20251PHYS4040W001",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"PHYS UN1201",
     "course_title":"GENERAL PHYSICS I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: some basic background in calculus or be concurrently taking MATH UN1101 Calculus I. The accompanying laboratory is PHYS UN1291-UN1292 The course will use elementary concepts from calculus. The accompanying laboratory is PHYS UN1291 - UN1292. Basic introduction to the study of mechanics, fluids, thermodynamics, electricity, magnetism, optics, special relativity, quantum mechanics, atomic physics, and nuclear physics.",
     "instructor":null,
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:25pm",
@@ -65455,7 +65875,17 @@
     ],
     "points":"3",
     "prerequisites":[
-
+      [
+        "MATH UN1101",
+        "PHYS UN1291"
+      ],
+      [
+        "UN1292"
+      ],
+      [
+        "UN1292",
+        "PHYS UN1291"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20251PHYS1201W001",
@@ -65464,7 +65894,7 @@
   {
     "course_code":"PHYS UN1202",
     "course_title":"GENERAL PHYSICS II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: This course will use elementary concepts from calculus. Students should therefore have had some high school calculus, or be concurrently enrolled in MATH UN1101. Taken with accompanying lab PHYS UN1291- PHYS UN1292, the sequence PHYS UN1201- PHYS UN1202 satisfies requirements for medical school. Electricity, magnetism, optics, and modern physics.",
     "instructor":"P. Michael Tuts",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -65489,7 +65919,21 @@
     ],
     "points":"3",
     "prerequisites":[
-
+      [
+        "MATH UN1101"
+      ],
+      [
+        "PHYS UN1201"
+      ],
+      [
+        "PHYS UN1202"
+      ],
+      [
+        "PHYS UN1291"
+      ],
+      [
+        "PHYS UN1292"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20251PHYS1202W001",
@@ -65498,7 +65942,7 @@
   {
     "course_code":"PHYS UN1202",
     "course_title":"GENERAL PHYSICS II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: This course will use elementary concepts from calculus. Students should therefore have had some high school calculus, or be concurrently enrolled in MATH UN1101. Taken with accompanying lab PHYS UN1291- PHYS UN1292, the sequence PHYS UN1201- PHYS UN1202 satisfies requirements for medical school. Electricity, magnetism, optics, and modern physics.",
     "instructor":null,
     "scheduled_time_start":"5:40pm",
     "scheduled_time_end":"6:55pm",
@@ -65523,7 +65967,21 @@
     ],
     "points":"3",
     "prerequisites":[
-
+      [
+        "MATH UN1101"
+      ],
+      [
+        "PHYS UN1201"
+      ],
+      [
+        "PHYS UN1202"
+      ],
+      [
+        "PHYS UN1291"
+      ],
+      [
+        "PHYS UN1292"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20251PHYS1202W003",
@@ -65532,7 +65990,7 @@
   {
     "course_code":"PHYS UN1402",
     "course_title":"INTRO ELEC\/MAGNETSM & OPTCS",
-    "course_descr":null,
+    "course_descr":"Prerequisites: PHYS W1401. Corequisites: MATH V1102 or the equivalent. Electric fields, direct currents, magnetic fields, alternating currents, electromagnetic waves, polarization, geometrical optics, interference, and diffraction.",
     "instructor":"Georgia S Karagiorgi",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -65549,7 +66007,10 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "PHYS W1401",
+        "MATH V1102"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20251PHYS1402W001",
@@ -65558,7 +66019,7 @@
   {
     "course_code":"PHYS UN1402",
     "course_title":"INTRO ELEC\/MAGNETSM & OPTCS",
-    "course_descr":null,
+    "course_descr":"Prerequisites: PHYS W1401. Corequisites: MATH V1102 or the equivalent. Electric fields, direct currents, magnetic fields, alternating currents, electromagnetic waves, polarization, geometrical optics, interference, and diffraction.",
     "instructor":"Eric Raymer",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:25pm",
@@ -65575,7 +66036,10 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "PHYS W1401",
+        "MATH V1102"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20251PHYS1402W002",
@@ -65584,7 +66048,7 @@
   {
     "course_code":"PHYS UN1402",
     "course_title":"INTRO ELEC\/MAGNETSM & OPTCS",
-    "course_descr":null,
+    "course_descr":"Prerequisites: PHYS W1401. Corequisites: MATH V1102 or the equivalent. Electric fields, direct currents, magnetic fields, alternating currents, electromagnetic waves, polarization, geometrical optics, interference, and diffraction.",
     "instructor":"Hector Ochoa",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -65601,7 +66065,10 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "PHYS W1401",
+        "MATH V1102"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20251PHYS1402W003",
@@ -65610,7 +66077,7 @@
   {
     "course_code":"PHYS UN1602",
     "course_title":"PHYSICS II: THERMO, ELEC & MAG",
-    "course_descr":null,
+    "course_descr":"Prerequisites: PHYS UN1601 Corequisite: MATH UN1201 or equivalent. Temperature and heat, gas laws, the first and second laws of thermodynamics, kinetic theory of gases, electric fields, direct currents, magnetic fields, alternating currents, electromagnetic waves. The course is preparatory for advanced work in physics and related fields.",
     "instructor":"Kerstin M Perez",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -65635,7 +66102,10 @@
     ],
     "points":"3.5",
     "prerequisites":[
-
+      [
+        "PHYS UN1601",
+        "MATH UN1201"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20251PHYS1602W001",
@@ -65644,7 +66114,7 @@
   {
     "course_code":"PHYS UN2802",
     "course_title":"ACCELERATED PHYSICS II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: PHYS UN2801 This accelerated two-semester sequence covers the subject matter of PHYS UN1601, PHYS UN1602 and PHYS UN2601, and is intended for those students who have an exceptionally strong background in both physics and mathematics. The course is preparatory for advanced work in physics and related fields. There is no accompanying laboratory; however, students are encouraged to take the intermediate laboratory, PHYS UN3081, in the following year.",
     "instructor":"Yury Levin",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -65672,7 +66142,19 @@
     ],
     "points":"4.5",
     "prerequisites":[
-
+      [
+        "PHYS UN1601"
+      ],
+      [
+        "PHYS UN1602"
+      ],
+      [
+        "PHYS UN2601",
+        "PHYS UN3081"
+      ],
+      [
+        "PHYS UN2801"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20251PHYS2802W001",
@@ -65681,7 +66163,7 @@
   {
     "course_code":"PHYS UN3003",
     "course_title":"MECHANICS",
-    "course_descr":null,
+    "course_descr":"Prerequisites: general physics, and differential and integral calculus. Newtonian mechanics, oscillations and resonance, conservative forces and potential energy, central forces, non-inertial frames of reference, rigid body motion, an introduction to Lagranges formulation of mechanics, coupled oscillators, and normal modes.",
     "instructor":"Cory Dean",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:25pm",
@@ -65714,7 +66196,7 @@
   {
     "course_code":"PHYS UN3008",
     "course_title":"ELECTROMAGNETIC WAVES & OPTICS",
-    "course_descr":null,
+    "course_descr":"Prerequisites: PHYS UN3008 Maxwells equations and electromagnetic potentials, the wave equation, propagation of plane waves, reflection and refraction, geometrical optics, transmission lines, wave guides, resonant cavities, radiation, interference of waves, and diffraction.",
     "instructor":"William A Zajc",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -65738,7 +66220,9 @@
     ],
     "points":"3",
     "prerequisites":[
-
+      [
+        "PHYS UN3008"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20251PHYS3008W001",
@@ -65747,7 +66231,7 @@
   {
     "course_code":"PHYS UN3081",
     "course_title":"INTERMEDIATE LABORATORY WORK",
-    "course_descr":null,
+    "course_descr":"Prerequisites: phys UN2601 or phys un2802 Primarily for junior and senior physics majors; other majors must obtain the instructors permission. Each experiment is chosen by the student in consultation with the instructor. Each section meets one afternoon per week, with registration in each section limited by the laboratory capacity. Experiments (classical and modern) cover topics in electricity, magnetism, optics, atomic physics, and nuclear physics.",
     "instructor":"Morgan May",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"5:00pm",
@@ -65769,7 +66253,9 @@
     ],
     "points":"2",
     "prerequisites":[
-
+      [
+        "UN2601"
+      ]
     ],
     "scheduled_days":"F",
     "section_key":"20251PHYS3081W003",
@@ -65778,7 +66264,7 @@
   {
     "course_code":"PHYS UN3083",
     "course_title":"ELECTRONICS LABORATORY",
-    "course_descr":null,
+    "course_descr":"Prerequisites: PHYS UN3003 or PHYS UN3007 May be taken before or concurrently with this course. A sequence of experiments in solid-state electronics, with introductory lectures.",
     "instructor":"John Parsons",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"4:00pm",
@@ -65802,16 +66288,52 @@
     ],
     "points":"3",
     "prerequisites":[
-
+      [
+        "PHYS UN3003",
+        "PHYS UN3007"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20251PHYS3083W001",
     "type":"LABORATORY"
   },
   {
+    "course_code":"PHYS UN3084",
+    "course_title":"Quantum Simulation and Computing Lab",
+    "course_descr":null,
+    "instructor":"Sebastian Will",
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"2:25pm",
+    "call_number":"13459",
+    "campus":null,
+    "class_id":"W3084-20251-001",
+    "course_subtitle":"Quantum Simul. & Computin",
+    "department":"Physics",
+    "department_code":"PHYS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PHYS\/W3084-20251-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "Engineering:Graduate",
+      "Engineering:Undergraduate",
+      "GSAS",
+      "General Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20251PHYS3084W001",
+    "type":"LABORATORY"
+  },
+  {
     "course_code":"PHYS UN3500",
     "course_title":"SUPERVISED READINGS IN PHYSICS",
-    "course_descr":null,
+    "course_descr":"Prerequisites: the written permission of the faculty member who agrees to act as supervisor, and the director of undergraduate studies permission. Readings in a selected field of physics under the supervision of a faculty member. Written reports and periodic conferences with the instructor.",
     "instructor":"Jeremy R Dodd",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -65837,7 +66359,7 @@
   {
     "course_code":"PHYS UN3900",
     "course_title":"SUPERVISED INDIVIDUAL RESEARCH",
-    "course_descr":null,
+    "course_descr":"Prerequisites: Permission of the departmental representative required. For specially selected students, the opportunity to do a research problem in contemporary physics under the supervision of a faculty member. Each year several juniors are chosen in the spring to carry out such a project beginning in the autumn term. A detailed report on the research is presented by the student when the project is complete.",
     "instructor":"Jeremy R Dodd",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
