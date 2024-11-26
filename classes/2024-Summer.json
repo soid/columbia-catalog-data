@@ -1676,7 +1676,7 @@
   {
     "course_code":"APAN PS5600",
     "course_title":"STRATEGY AND ANALYTICS",
-    "course_descr":null,
+    "course_descr":"n\/a",
     "instructor":"Mani Vannan",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -1702,7 +1702,7 @@
   {
     "course_code":"APAN PS5600",
     "course_title":"STRATEGY AND ANALYTICS",
-    "course_descr":null,
+    "course_descr":"n\/a",
     "instructor":"Ranjit Kumble",
     "scheduled_time_start":"8:10pm",
     "scheduled_time_end":"10:00pm",
@@ -38495,7 +38495,9 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ORL_\/K0101-20242-001\/",
     "location":"516 Hamilton Hall",
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "Pre-College Programs"
+    ],
     "points":"0",
     "prerequisites":[
 
