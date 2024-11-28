@@ -106,7 +106,7 @@
   {
     "course_code":"AHUM UN1399",
     "course_title":"COLLOQUIUM ON MAJOR TEXTS",
-    "course_descr":null,
+    "course_descr":"Readings in translation and discussion of texts of Middle Eastern and Indian origin. Readings may include the Quran, Islamic philosophy, Sufi poetry, the Upanishads, Buddhist sutras, the Bhagavad Gita, Indian epics and drama, and Gandhis Autobiography.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -2455,7 +2455,7 @@
   {
     "course_code":"FREN S1101",
     "course_title":"ELEMENTARY FRENCH I",
-    "course_descr":null,
+    "course_descr":"Equivalent to FREN UN1101. Designed to help students understand, speak, read, and write French, and to recognize cultural features of French-speaking communities, now with the help of a newly digitized audio program. Students learn to provide information in French about their feelings, environment, families, and daily activities. Daily assignments, quizzes, laboratory work, and screening of video material.",
     "instructor":null,
     "scheduled_time_start":"10:00am",
     "scheduled_time_end":"12:05pm",
@@ -2472,7 +2472,9 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "FREN UN1101"
+      ]
     ],
     "scheduled_days":"MTWR",
     "section_key":"20252FREN1101S001",
@@ -2481,7 +2483,7 @@
   {
     "course_code":"FREN S1102",
     "course_title":"ELEMENTARY FRENCH II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: one term of college French or one year of secondary school French. $15.00= Language Resource Fee, $15.00 = Materials Fee , Equivalent to FREN UN1102. Continues the work of French S1101D and completes the study of elementary French. Students continue to develop communicative skills, narrating recent events (past, present, and future), describing daily life activities, and learning about cultural features of France and of the wider Francophone world. Following the communicative approach, students, with the help of the instructor, learn to solve problems using the language, to communicate their feelings and opinions, and to obtain information from others. Daily assignments, quizzes, laboratory work, and screening of video materials.",
     "instructor":null,
     "scheduled_time_start":"10:05am",
     "scheduled_time_end":"10:15am",
@@ -2498,7 +2500,10 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "FREN UN1102",
+        "S1101"
+      ]
     ],
     "scheduled_days":"MTWR",
     "section_key":"20252FREN1102S001",
@@ -2507,7 +2512,7 @@
   {
     "course_code":"FREN S1102",
     "course_title":"ELEMENTARY FRENCH II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: one term of college French or one year of secondary school French. $15.00= Language Resource Fee, $15.00 = Materials Fee , Equivalent to FREN UN1102. Continues the work of French S1101D and completes the study of elementary French. Students continue to develop communicative skills, narrating recent events (past, present, and future), describing daily life activities, and learning about cultural features of France and of the wider Francophone world. Following the communicative approach, students, with the help of the instructor, learn to solve problems using the language, to communicate their feelings and opinions, and to obtain information from others. Daily assignments, quizzes, laboratory work, and screening of video materials.",
     "instructor":null,
     "scheduled_time_start":"10:00am",
     "scheduled_time_end":"12:05pm",
@@ -2524,7 +2529,10 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "FREN UN1102",
+        "S1101"
+      ]
     ],
     "scheduled_days":"MTWR",
     "section_key":"20252FREN1102S002",
@@ -2637,7 +2645,7 @@
   {
     "course_code":"FREN S2106",
     "course_title":"RAPID READING AND TRANSLATION",
-    "course_descr":null,
+    "course_descr":"Primarily for graduate students in other departments who have some background in French and who wish to meet the French reading requirement for the Ph.D. degree, or for scholars whose research involves references in the French language. Intensive reading and translation, both prepared and at sight, in works drawn from literature, criticism, philosophy, and history. Brief review of grammar; vocabulary exercises.",
     "instructor":null,
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"2:15pm",
@@ -3162,7 +3170,7 @@
   {
     "course_code":"HUMA S1121",
     "course_title":"MASTERPIECES OF WESTERN ART",
-    "course_descr":null,
+    "course_descr":"Equivalent to HUMA C1121 and F1121. Not a historical survey but an analytical study of masterpieces, including originals available in the metropolitan area. The chief purpose is to acquaint students with the experience of a work of art. A series of topics in the development of Western art, selected to afford a sense of the range of expressive possibilities in painting, sculpture, and architecture, such as the Parthenon, the Gothic cathedral, and works of Michelangelo, Bruegel, Picasso, and others. Space is limited. Columbia University undergraduates who need this course for graduation are encouraged to register during early registration.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -3179,7 +3187,12 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "F1121"
+      ],
+      [
+        "HUMA C1121"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20252HUMA1121S001",
@@ -3188,7 +3201,7 @@
   {
     "course_code":"HUMA S1121",
     "course_title":"MASTERPIECES OF WESTERN ART",
-    "course_descr":null,
+    "course_descr":"Equivalent to HUMA C1121 and F1121. Not a historical survey but an analytical study of masterpieces, including originals available in the metropolitan area. The chief purpose is to acquaint students with the experience of a work of art. A series of topics in the development of Western art, selected to afford a sense of the range of expressive possibilities in painting, sculpture, and architecture, such as the Parthenon, the Gothic cathedral, and works of Michelangelo, Bruegel, Picasso, and others. Space is limited. Columbia University undergraduates who need this course for graduation are encouraged to register during early registration.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -3205,7 +3218,12 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "F1121"
+      ],
+      [
+        "HUMA C1121"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20252HUMA1121S002",
@@ -3214,7 +3232,7 @@
   {
     "course_code":"HUMA S1121",
     "course_title":"MASTERPIECES OF WESTERN ART",
-    "course_descr":null,
+    "course_descr":"Equivalent to HUMA C1121 and F1121. Not a historical survey but an analytical study of masterpieces, including originals available in the metropolitan area. The chief purpose is to acquaint students with the experience of a work of art. A series of topics in the development of Western art, selected to afford a sense of the range of expressive possibilities in painting, sculpture, and architecture, such as the Parthenon, the Gothic cathedral, and works of Michelangelo, Bruegel, Picasso, and others. Space is limited. Columbia University undergraduates who need this course for graduation are encouraged to register during early registration.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -3231,7 +3249,12 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "F1121"
+      ],
+      [
+        "HUMA C1121"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20252HUMA1121S003",
@@ -3240,7 +3263,7 @@
   {
     "course_code":"HUMA S1121",
     "course_title":"MASTERPIECES OF WESTERN ART",
-    "course_descr":null,
+    "course_descr":"Equivalent to HUMA C1121 and F1121. Not a historical survey but an analytical study of masterpieces, including originals available in the metropolitan area. The chief purpose is to acquaint students with the experience of a work of art. A series of topics in the development of Western art, selected to afford a sense of the range of expressive possibilities in painting, sculpture, and architecture, such as the Parthenon, the Gothic cathedral, and works of Michelangelo, Bruegel, Picasso, and others. Space is limited. Columbia University undergraduates who need this course for graduation are encouraged to register during early registration.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -3257,7 +3280,12 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "F1121"
+      ],
+      [
+        "HUMA C1121"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20252HUMA1121S004",
@@ -3266,7 +3294,7 @@
   {
     "course_code":"HUMA S1121",
     "course_title":"MASTERPIECES OF WESTERN ART",
-    "course_descr":null,
+    "course_descr":"Equivalent to HUMA C1121 and F1121. Not a historical survey but an analytical study of masterpieces, including originals available in the metropolitan area. The chief purpose is to acquaint students with the experience of a work of art. A series of topics in the development of Western art, selected to afford a sense of the range of expressive possibilities in painting, sculpture, and architecture, such as the Parthenon, the Gothic cathedral, and works of Michelangelo, Bruegel, Picasso, and others. Space is limited. Columbia University undergraduates who need this course for graduation are encouraged to register during early registration.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -3283,7 +3311,12 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "F1121"
+      ],
+      [
+        "HUMA C1121"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20252HUMA1121S005",
@@ -3292,7 +3325,7 @@
   {
     "course_code":"HUMA S1121",
     "course_title":"MASTERPIECES OF WESTERN ART",
-    "course_descr":null,
+    "course_descr":"Equivalent to HUMA C1121 and F1121. Not a historical survey but an analytical study of masterpieces, including originals available in the metropolitan area. The chief purpose is to acquaint students with the experience of a work of art. A series of topics in the development of Western art, selected to afford a sense of the range of expressive possibilities in painting, sculpture, and architecture, such as the Parthenon, the Gothic cathedral, and works of Michelangelo, Bruegel, Picasso, and others. Space is limited. Columbia University undergraduates who need this course for graduation are encouraged to register during early registration.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -3309,7 +3342,12 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "F1121"
+      ],
+      [
+        "HUMA C1121"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20252HUMA1121S006",
@@ -3318,7 +3356,7 @@
   {
     "course_code":"HUMA S1121",
     "course_title":"MASTERPIECES OF WESTERN ART",
-    "course_descr":null,
+    "course_descr":"Equivalent to HUMA C1121 and F1121. Not a historical survey but an analytical study of masterpieces, including originals available in the metropolitan area. The chief purpose is to acquaint students with the experience of a work of art. A series of topics in the development of Western art, selected to afford a sense of the range of expressive possibilities in painting, sculpture, and architecture, such as the Parthenon, the Gothic cathedral, and works of Michelangelo, Bruegel, Picasso, and others. Space is limited. Columbia University undergraduates who need this course for graduation are encouraged to register during early registration.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -3335,7 +3373,12 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "F1121"
+      ],
+      [
+        "HUMA C1121"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20252HUMA1121S007",
@@ -3344,7 +3387,7 @@
   {
     "course_code":"HUMA S1121",
     "course_title":"MASTERPIECES OF WESTERN ART",
-    "course_descr":null,
+    "course_descr":"Equivalent to HUMA C1121 and F1121. Not a historical survey but an analytical study of masterpieces, including originals available in the metropolitan area. The chief purpose is to acquaint students with the experience of a work of art. A series of topics in the development of Western art, selected to afford a sense of the range of expressive possibilities in painting, sculpture, and architecture, such as the Parthenon, the Gothic cathedral, and works of Michelangelo, Bruegel, Picasso, and others. Space is limited. Columbia University undergraduates who need this course for graduation are encouraged to register during early registration.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -3361,7 +3404,12 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "F1121"
+      ],
+      [
+        "HUMA C1121"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20252HUMA1121S008",
@@ -3370,7 +3418,7 @@
   {
     "course_code":"HUMA S1121",
     "course_title":"MASTERPIECES OF WESTERN ART",
-    "course_descr":null,
+    "course_descr":"Equivalent to HUMA C1121 and F1121. Not a historical survey but an analytical study of masterpieces, including originals available in the metropolitan area. The chief purpose is to acquaint students with the experience of a work of art. A series of topics in the development of Western art, selected to afford a sense of the range of expressive possibilities in painting, sculpture, and architecture, such as the Parthenon, the Gothic cathedral, and works of Michelangelo, Bruegel, Picasso, and others. Space is limited. Columbia University undergraduates who need this course for graduation are encouraged to register during early registration.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -3387,7 +3435,12 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "F1121"
+      ],
+      [
+        "HUMA C1121"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20252HUMA1121S009",
@@ -3396,7 +3449,7 @@
   {
     "course_code":"HUMA S1121",
     "course_title":"MASTERPIECES OF WESTERN ART",
-    "course_descr":null,
+    "course_descr":"Equivalent to HUMA C1121 and F1121. Not a historical survey but an analytical study of masterpieces, including originals available in the metropolitan area. The chief purpose is to acquaint students with the experience of a work of art. A series of topics in the development of Western art, selected to afford a sense of the range of expressive possibilities in painting, sculpture, and architecture, such as the Parthenon, the Gothic cathedral, and works of Michelangelo, Bruegel, Picasso, and others. Space is limited. Columbia University undergraduates who need this course for graduation are encouraged to register during early registration.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -3413,7 +3466,12 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "F1121"
+      ],
+      [
+        "HUMA C1121"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20252HUMA1121S010",
@@ -3422,7 +3480,7 @@
   {
     "course_code":"HUMA S1123",
     "course_title":"MASTERPIECES OF WESTERN MUSIC",
-    "course_descr":null,
+    "course_descr":"Equivalent to MUSI F1123 and C1123. Part of the Core Curriculum since 1947, Music Humanities aims to instill in students a basic comprehension of the many forms of the Western musical imagination. Its specific goals are to awaken and encourage in students an appreciation of music in the Western world, to help them learn to respond intelligently to a variety of musical idioms, and to engage them in the various debates about the character and purposes of music that have occupied composers and musical thinkers since ancient times. The course attempts to involve students actively in the process of critical listening, both in the classroom and in concerts that the students attend and write about. The extraordinary richness of musical life in New York is thus an integral part of the course. Although not a history of Western music, the course is taught in a chronological format and includes masterpieces by Josquin des Prez, Monteverdi, Bach, Handel, Mozart, Haydn, Beethoven, Verdi, Wagner, Schoenberg, and Stravinsky, among others. No previous knowledge of music required. Columbia University undergraduates who need this course for graduation are encouraged to register during early registration.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -3439,7 +3497,12 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "C1123"
+      ],
+      [
+        "MUSI F1123"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20252HUMA1123S001",
@@ -3448,7 +3511,7 @@
   {
     "course_code":"HUMA S1123",
     "course_title":"MASTERPIECES OF WESTERN MUSIC",
-    "course_descr":null,
+    "course_descr":"Equivalent to MUSI F1123 and C1123. Part of the Core Curriculum since 1947, Music Humanities aims to instill in students a basic comprehension of the many forms of the Western musical imagination. Its specific goals are to awaken and encourage in students an appreciation of music in the Western world, to help them learn to respond intelligently to a variety of musical idioms, and to engage them in the various debates about the character and purposes of music that have occupied composers and musical thinkers since ancient times. The course attempts to involve students actively in the process of critical listening, both in the classroom and in concerts that the students attend and write about. The extraordinary richness of musical life in New York is thus an integral part of the course. Although not a history of Western music, the course is taught in a chronological format and includes masterpieces by Josquin des Prez, Monteverdi, Bach, Handel, Mozart, Haydn, Beethoven, Verdi, Wagner, Schoenberg, and Stravinsky, among others. No previous knowledge of music required. Columbia University undergraduates who need this course for graduation are encouraged to register during early registration.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -3465,7 +3528,12 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "C1123"
+      ],
+      [
+        "MUSI F1123"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20252HUMA1123S002",
@@ -3474,7 +3542,7 @@
   {
     "course_code":"HUMA S1123",
     "course_title":"MASTERPIECES OF WESTERN MUSIC",
-    "course_descr":null,
+    "course_descr":"Equivalent to MUSI F1123 and C1123. Part of the Core Curriculum since 1947, Music Humanities aims to instill in students a basic comprehension of the many forms of the Western musical imagination. Its specific goals are to awaken and encourage in students an appreciation of music in the Western world, to help them learn to respond intelligently to a variety of musical idioms, and to engage them in the various debates about the character and purposes of music that have occupied composers and musical thinkers since ancient times. The course attempts to involve students actively in the process of critical listening, both in the classroom and in concerts that the students attend and write about. The extraordinary richness of musical life in New York is thus an integral part of the course. Although not a history of Western music, the course is taught in a chronological format and includes masterpieces by Josquin des Prez, Monteverdi, Bach, Handel, Mozart, Haydn, Beethoven, Verdi, Wagner, Schoenberg, and Stravinsky, among others. No previous knowledge of music required. Columbia University undergraduates who need this course for graduation are encouraged to register during early registration.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -3491,7 +3559,12 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "C1123"
+      ],
+      [
+        "MUSI F1123"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20252HUMA1123S003",
@@ -3500,7 +3573,7 @@
   {
     "course_code":"HUMA S1123",
     "course_title":"MASTERPIECES OF WESTERN MUSIC",
-    "course_descr":null,
+    "course_descr":"Equivalent to MUSI F1123 and C1123. Part of the Core Curriculum since 1947, Music Humanities aims to instill in students a basic comprehension of the many forms of the Western musical imagination. Its specific goals are to awaken and encourage in students an appreciation of music in the Western world, to help them learn to respond intelligently to a variety of musical idioms, and to engage them in the various debates about the character and purposes of music that have occupied composers and musical thinkers since ancient times. The course attempts to involve students actively in the process of critical listening, both in the classroom and in concerts that the students attend and write about. The extraordinary richness of musical life in New York is thus an integral part of the course. Although not a history of Western music, the course is taught in a chronological format and includes masterpieces by Josquin des Prez, Monteverdi, Bach, Handel, Mozart, Haydn, Beethoven, Verdi, Wagner, Schoenberg, and Stravinsky, among others. No previous knowledge of music required. Columbia University undergraduates who need this course for graduation are encouraged to register during early registration.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -3517,7 +3590,12 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "C1123"
+      ],
+      [
+        "MUSI F1123"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20252HUMA1123S004",
@@ -3526,7 +3604,7 @@
   {
     "course_code":"HUMA S1123",
     "course_title":"MASTERPIECES OF WESTERN MUSIC",
-    "course_descr":null,
+    "course_descr":"Equivalent to MUSI F1123 and C1123. Part of the Core Curriculum since 1947, Music Humanities aims to instill in students a basic comprehension of the many forms of the Western musical imagination. Its specific goals are to awaken and encourage in students an appreciation of music in the Western world, to help them learn to respond intelligently to a variety of musical idioms, and to engage them in the various debates about the character and purposes of music that have occupied composers and musical thinkers since ancient times. The course attempts to involve students actively in the process of critical listening, both in the classroom and in concerts that the students attend and write about. The extraordinary richness of musical life in New York is thus an integral part of the course. Although not a history of Western music, the course is taught in a chronological format and includes masterpieces by Josquin des Prez, Monteverdi, Bach, Handel, Mozart, Haydn, Beethoven, Verdi, Wagner, Schoenberg, and Stravinsky, among others. No previous knowledge of music required. Columbia University undergraduates who need this course for graduation are encouraged to register during early registration.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -3543,7 +3621,12 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "C1123"
+      ],
+      [
+        "MUSI F1123"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20252HUMA1123S005",
@@ -3552,7 +3635,7 @@
   {
     "course_code":"HUMA S1123",
     "course_title":"MASTERPIECES OF WESTERN MUSIC",
-    "course_descr":null,
+    "course_descr":"Equivalent to MUSI F1123 and C1123. Part of the Core Curriculum since 1947, Music Humanities aims to instill in students a basic comprehension of the many forms of the Western musical imagination. Its specific goals are to awaken and encourage in students an appreciation of music in the Western world, to help them learn to respond intelligently to a variety of musical idioms, and to engage them in the various debates about the character and purposes of music that have occupied composers and musical thinkers since ancient times. The course attempts to involve students actively in the process of critical listening, both in the classroom and in concerts that the students attend and write about. The extraordinary richness of musical life in New York is thus an integral part of the course. Although not a history of Western music, the course is taught in a chronological format and includes masterpieces by Josquin des Prez, Monteverdi, Bach, Handel, Mozart, Haydn, Beethoven, Verdi, Wagner, Schoenberg, and Stravinsky, among others. No previous knowledge of music required. Columbia University undergraduates who need this course for graduation are encouraged to register during early registration.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -3569,7 +3652,12 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "C1123"
+      ],
+      [
+        "MUSI F1123"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20252HUMA1123S006",
@@ -3578,7 +3666,7 @@
   {
     "course_code":"HUMA S1123",
     "course_title":"MASTERPIECES OF WESTERN MUSIC",
-    "course_descr":null,
+    "course_descr":"Equivalent to MUSI F1123 and C1123. Part of the Core Curriculum since 1947, Music Humanities aims to instill in students a basic comprehension of the many forms of the Western musical imagination. Its specific goals are to awaken and encourage in students an appreciation of music in the Western world, to help them learn to respond intelligently to a variety of musical idioms, and to engage them in the various debates about the character and purposes of music that have occupied composers and musical thinkers since ancient times. The course attempts to involve students actively in the process of critical listening, both in the classroom and in concerts that the students attend and write about. The extraordinary richness of musical life in New York is thus an integral part of the course. Although not a history of Western music, the course is taught in a chronological format and includes masterpieces by Josquin des Prez, Monteverdi, Bach, Handel, Mozart, Haydn, Beethoven, Verdi, Wagner, Schoenberg, and Stravinsky, among others. No previous knowledge of music required. Columbia University undergraduates who need this course for graduation are encouraged to register during early registration.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -3595,7 +3683,12 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "C1123"
+      ],
+      [
+        "MUSI F1123"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20252HUMA1123S007",
@@ -3604,7 +3697,7 @@
   {
     "course_code":"HUMA S1123",
     "course_title":"MASTERPIECES OF WESTERN MUSIC",
-    "course_descr":null,
+    "course_descr":"Equivalent to MUSI F1123 and C1123. Part of the Core Curriculum since 1947, Music Humanities aims to instill in students a basic comprehension of the many forms of the Western musical imagination. Its specific goals are to awaken and encourage in students an appreciation of music in the Western world, to help them learn to respond intelligently to a variety of musical idioms, and to engage them in the various debates about the character and purposes of music that have occupied composers and musical thinkers since ancient times. The course attempts to involve students actively in the process of critical listening, both in the classroom and in concerts that the students attend and write about. The extraordinary richness of musical life in New York is thus an integral part of the course. Although not a history of Western music, the course is taught in a chronological format and includes masterpieces by Josquin des Prez, Monteverdi, Bach, Handel, Mozart, Haydn, Beethoven, Verdi, Wagner, Schoenberg, and Stravinsky, among others. No previous knowledge of music required. Columbia University undergraduates who need this course for graduation are encouraged to register during early registration.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -3621,7 +3714,12 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "C1123"
+      ],
+      [
+        "MUSI F1123"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20252HUMA1123S008",
@@ -3630,7 +3728,7 @@
   {
     "course_code":"HUMA S1123",
     "course_title":"MASTERPIECES OF WESTERN MUSIC",
-    "course_descr":null,
+    "course_descr":"Equivalent to MUSI F1123 and C1123. Part of the Core Curriculum since 1947, Music Humanities aims to instill in students a basic comprehension of the many forms of the Western musical imagination. Its specific goals are to awaken and encourage in students an appreciation of music in the Western world, to help them learn to respond intelligently to a variety of musical idioms, and to engage them in the various debates about the character and purposes of music that have occupied composers and musical thinkers since ancient times. The course attempts to involve students actively in the process of critical listening, both in the classroom and in concerts that the students attend and write about. The extraordinary richness of musical life in New York is thus an integral part of the course. Although not a history of Western music, the course is taught in a chronological format and includes masterpieces by Josquin des Prez, Monteverdi, Bach, Handel, Mozart, Haydn, Beethoven, Verdi, Wagner, Schoenberg, and Stravinsky, among others. No previous knowledge of music required. Columbia University undergraduates who need this course for graduation are encouraged to register during early registration.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -3647,7 +3745,12 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "C1123"
+      ],
+      [
+        "MUSI F1123"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20252HUMA1123S009",
@@ -3656,7 +3759,7 @@
   {
     "course_code":"HUMA S1123",
     "course_title":"MASTERPIECES OF WESTERN MUSIC",
-    "course_descr":null,
+    "course_descr":"Equivalent to MUSI F1123 and C1123. Part of the Core Curriculum since 1947, Music Humanities aims to instill in students a basic comprehension of the many forms of the Western musical imagination. Its specific goals are to awaken and encourage in students an appreciation of music in the Western world, to help them learn to respond intelligently to a variety of musical idioms, and to engage them in the various debates about the character and purposes of music that have occupied composers and musical thinkers since ancient times. The course attempts to involve students actively in the process of critical listening, both in the classroom and in concerts that the students attend and write about. The extraordinary richness of musical life in New York is thus an integral part of the course. Although not a history of Western music, the course is taught in a chronological format and includes masterpieces by Josquin des Prez, Monteverdi, Bach, Handel, Mozart, Haydn, Beethoven, Verdi, Wagner, Schoenberg, and Stravinsky, among others. No previous knowledge of music required. Columbia University undergraduates who need this course for graduation are encouraged to register during early registration.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -3673,7 +3776,12 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "C1123"
+      ],
+      [
+        "MUSI F1123"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20252HUMA1123S010",
@@ -3682,7 +3790,7 @@
   {
     "course_code":"HUMA S1123",
     "course_title":"MASTERPIECES OF WESTERN MUSIC",
-    "course_descr":null,
+    "course_descr":"Equivalent to MUSI F1123 and C1123. Part of the Core Curriculum since 1947, Music Humanities aims to instill in students a basic comprehension of the many forms of the Western musical imagination. Its specific goals are to awaken and encourage in students an appreciation of music in the Western world, to help them learn to respond intelligently to a variety of musical idioms, and to engage them in the various debates about the character and purposes of music that have occupied composers and musical thinkers since ancient times. The course attempts to involve students actively in the process of critical listening, both in the classroom and in concerts that the students attend and write about. The extraordinary richness of musical life in New York is thus an integral part of the course. Although not a history of Western music, the course is taught in a chronological format and includes masterpieces by Josquin des Prez, Monteverdi, Bach, Handel, Mozart, Haydn, Beethoven, Verdi, Wagner, Schoenberg, and Stravinsky, among others. No previous knowledge of music required. Columbia University undergraduates who need this course for graduation are encouraged to register during early registration.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -3699,7 +3807,12 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "C1123"
+      ],
+      [
+        "MUSI F1123"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20252HUMA1123S011",
@@ -3708,7 +3821,7 @@
   {
     "course_code":"HUMA S1123",
     "course_title":"MASTERPIECES OF WESTERN MUSIC",
-    "course_descr":null,
+    "course_descr":"Equivalent to MUSI F1123 and C1123. Part of the Core Curriculum since 1947, Music Humanities aims to instill in students a basic comprehension of the many forms of the Western musical imagination. Its specific goals are to awaken and encourage in students an appreciation of music in the Western world, to help them learn to respond intelligently to a variety of musical idioms, and to engage them in the various debates about the character and purposes of music that have occupied composers and musical thinkers since ancient times. The course attempts to involve students actively in the process of critical listening, both in the classroom and in concerts that the students attend and write about. The extraordinary richness of musical life in New York is thus an integral part of the course. Although not a history of Western music, the course is taught in a chronological format and includes masterpieces by Josquin des Prez, Monteverdi, Bach, Handel, Mozart, Haydn, Beethoven, Verdi, Wagner, Schoenberg, and Stravinsky, among others. No previous knowledge of music required. Columbia University undergraduates who need this course for graduation are encouraged to register during early registration.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -3725,7 +3838,12 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "C1123"
+      ],
+      [
+        "MUSI F1123"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20252HUMA1123S012",
@@ -3734,7 +3852,7 @@
   {
     "course_code":"HUMA S1123",
     "course_title":"MASTERPIECES OF WESTERN MUSIC",
-    "course_descr":null,
+    "course_descr":"Equivalent to MUSI F1123 and C1123. Part of the Core Curriculum since 1947, Music Humanities aims to instill in students a basic comprehension of the many forms of the Western musical imagination. Its specific goals are to awaken and encourage in students an appreciation of music in the Western world, to help them learn to respond intelligently to a variety of musical idioms, and to engage them in the various debates about the character and purposes of music that have occupied composers and musical thinkers since ancient times. The course attempts to involve students actively in the process of critical listening, both in the classroom and in concerts that the students attend and write about. The extraordinary richness of musical life in New York is thus an integral part of the course. Although not a history of Western music, the course is taught in a chronological format and includes masterpieces by Josquin des Prez, Monteverdi, Bach, Handel, Mozart, Haydn, Beethoven, Verdi, Wagner, Schoenberg, and Stravinsky, among others. No previous knowledge of music required. Columbia University undergraduates who need this course for graduation are encouraged to register during early registration.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -3751,7 +3869,12 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "C1123"
+      ],
+      [
+        "MUSI F1123"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20252HUMA1123S013",
@@ -3760,7 +3883,7 @@
   {
     "course_code":"HUMA S1123",
     "course_title":"MASTERPIECES OF WESTERN MUSIC",
-    "course_descr":null,
+    "course_descr":"Equivalent to MUSI F1123 and C1123. Part of the Core Curriculum since 1947, Music Humanities aims to instill in students a basic comprehension of the many forms of the Western musical imagination. Its specific goals are to awaken and encourage in students an appreciation of music in the Western world, to help them learn to respond intelligently to a variety of musical idioms, and to engage them in the various debates about the character and purposes of music that have occupied composers and musical thinkers since ancient times. The course attempts to involve students actively in the process of critical listening, both in the classroom and in concerts that the students attend and write about. The extraordinary richness of musical life in New York is thus an integral part of the course. Although not a history of Western music, the course is taught in a chronological format and includes masterpieces by Josquin des Prez, Monteverdi, Bach, Handel, Mozart, Haydn, Beethoven, Verdi, Wagner, Schoenberg, and Stravinsky, among others. No previous knowledge of music required. Columbia University undergraduates who need this course for graduation are encouraged to register during early registration.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -3777,7 +3900,12 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "C1123"
+      ],
+      [
+        "MUSI F1123"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20252HUMA1123S014",
@@ -4419,7 +4547,7 @@
   {
     "course_code":"LATN S1121",
     "course_title":"INTENSIVE ELEMENTARY LATIN",
-    "course_descr":null,
+    "course_descr":"Equivalent to Latin 1101 and 1102. Covers all of Latin grammar and syntax in one term to prepare the student to enter Latin 1201 or 1202. This is an intensive course with substantial preparation time outside of class.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -5122,7 +5250,7 @@
   {
     "course_code":"MDES S1210",
     "course_title":"FIRST YEAR ARABIC I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: Students that are not registering for MDES S1211 will be required to request professor permission (tb46@columbia.edu) to enroll.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -5139,7 +5267,9 @@
     "open_to":null,
     "points":"5",
     "prerequisites":[
-
+      [
+        "MDES S1211"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20252MDES1210S001",
@@ -5148,7 +5278,7 @@
   {
     "course_code":"MDES S1211",
     "course_title":"FIRST YEAR ARABIC II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: MDES S1210, or the equivalent.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -5165,7 +5295,9 @@
     "open_to":null,
     "points":"5",
     "prerequisites":[
-
+      [
+        "MDES S1210"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20252MDES1211S001",
@@ -5174,7 +5306,7 @@
   {
     "course_code":"MDES S1214",
     "course_title":"SECOND YEAR ARABIC I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: MDES UN1211-UN1212, or the equivalent.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -5191,7 +5323,12 @@
     "open_to":null,
     "points":"5",
     "prerequisites":[
-
+      [
+        "MDES UN1211"
+      ],
+      [
+        "UN1212"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20252MDES1214S001",
@@ -5200,7 +5337,7 @@
   {
     "course_code":"MDES S1215",
     "course_title":"SECOND YEAR ARABIC II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: Prerequisites: MDES UN1211-UN1212 and UN1214 or the equivalent.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -5217,7 +5354,15 @@
     "open_to":null,
     "points":"5",
     "prerequisites":[
-
+      [
+        "MDES UN1211"
+      ],
+      [
+        "UN1212"
+      ],
+      [
+        "UN1214"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20252MDES1215S001",
@@ -5226,7 +5371,7 @@
   {
     "course_code":"MDES S4210",
     "course_title":"THIRD YEAR ARABIC I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: MDES UN1214-UN1215, or the equivalent $15.00= Language Resource Fee, $10.00 = Materials Fee Improvement of writing and speaking skills through compositions, class discussions, and presentations in Arabic on topics such as areas and cultures of the Middle East; classical and modern Arabic literature; and current, authentic materials available from Middle Eastern sources. Review of grammatical and syntactic rules as needed.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -5243,7 +5388,12 @@
     "open_to":null,
     "points":"5",
     "prerequisites":[
-
+      [
+        "MDES UN1214"
+      ],
+      [
+        "UN1215"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20252MDES4210S001",
@@ -5252,7 +5402,7 @@
   {
     "course_code":"MDES S4211",
     "course_title":"THIRD YEAR ARABIC II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: MDES UN1214-UN1215, or the equivalent. $15.00= Language Resource Fee, $10.00 = Materials Fee The continuation of S4210, above.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -5269,7 +5419,13 @@
     "open_to":null,
     "points":"5",
     "prerequisites":[
-
+      [
+        "MDES UN1214"
+      ],
+      [
+        "UN1215",
+        "S4210"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20252MDES4211S001",
@@ -5278,7 +5434,7 @@
   {
     "course_code":"MDES UN1001",
     "course_title":"CRITICAL THEORY: A GLOBAL PERSPECTIVE",
-    "course_descr":null,
+    "course_descr":"The purpose of this foundational course is to introduce Columbia undergraduate students, in the context of their Global Core curriculum, to the seminal field of critical theory. The historical domain of this course is within the last century and its geographical spectrum is global. European critical thinkers are included in this course but not privileged. Thinkers from Asia, Africa, Europe, North, South, and Latin America, are examined here in chronological order and in equal democratic footing with each other. This course as a result is decidedly cross-cultural, one step forward towards de-alienating critical thinkers from around the globe and the issues they address without pigeonholing them as something \u201cother\u201d or \u201cdifferent.\u201d The course is designed and offered in the true spirit of the \u201cGlobal Core.\u201d The purpose of the course is to reach for the common denominator of serious critical thinking about the fate of our humanity and the health of our social relations in an increasingly fragile world\u2014where the false binaries of \u201cthe West\u201d and \u201cthe Rest\u201d no longer hold. The roster of critical thinkers we will examine is by no means exhaustive but representative. Any number of other critical thinkers can be added to this roster but none of those we will examine can be excluded from them. The course is divided into thirteen successive weeks and for each week a number of seminal, original, and groundbreaking texts are identified. Each week we will examine selected passages from these texts. The course is designed as a lecture course, and my lectures are based on the totality of these texts but students will be assigned specific shorter passages to read.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -5968,7 +6124,7 @@
   {
     "course_code":"POLS S1201",
     "course_title":"INTRO TO AMER GOVT & POLITICS",
-    "course_descr":null,
+    "course_descr":"Introduction to national political institutions and processes. The presidency, Congress, the courts, political parties and elections, interest groups, and public opinion.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -5994,7 +6150,7 @@
   {
     "course_code":"POLS S1211",
     "course_title":"INTRO AMER GOVT&POL-DISCUSSION",
-    "course_descr":null,
+    "course_descr":"Required discussion section for POLS UN1201: INTRO TO AMERICAN POLITICS",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -6011,7 +6167,9 @@
     "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "POLS UN1201"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20252POLS1211S001",
@@ -6020,7 +6178,7 @@
   {
     "course_code":"POLS S1501",
     "course_title":"INTRO TO COMPARATIVE POLITICS",
-    "course_descr":null,
+    "course_descr":"This course provides a broad overview of the comparative politics subfield by focusing on critical substantive questions about the world today. The course is organized around four questions: 1. Why can only some people depend upon the state to enforce order? 2. Why are some countries more democratic than others? 3. What different institutional forms does democratic government take? 4. Are some institutions more likely than others to produce significant social outcomes such as representation, accountability, redistribution, and democratic stability? Because the study of comparative politics requires knowledge of specific cases, we will focus on eight countries: China, Germany, India, Japan, Mexico, Nigeria, Russia, and the United Kingdom. This course will prepare students for higher-level courses in political science in two ways. First, it will teach students to make and evaluate arguments about politics. Second, it will make students aware of to the methods political scientists use in their research.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -6046,7 +6204,7 @@
   {
     "course_code":"POLS S1601",
     "course_title":"INTRO TO INT'L RELATIONS",
-    "course_descr":null,
+    "course_descr":"A survey of major concepts and issues in international relations. Issues include anarchy, power, foreign policy decision-making, domestic politics and foreign policy, theories of cooperation and conflict, international security and arms control, nationalism, international law and organizations, and international economic relations.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -6072,7 +6230,7 @@
   {
     "course_code":"POLS S1611",
     "course_title":"INTRO TO INT'L RELATIONS-DISC",
-    "course_descr":null,
+    "course_descr":"This is the required discussion section for POLS UN1601.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -6089,7 +6247,9 @@
     "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "POLS UN1601"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20252POLS1611S001",
@@ -6098,7 +6258,7 @@
   {
     "course_code":"POLS S3228",
     "course_title":"AMERICAN CONSTITUTIONAL LAW",
-    "course_descr":null,
+    "course_descr":"This course is an introduction to American constitutional law. We examine key historical debates surrounding the constitution\u2019s framing, ratification, and subsequent amendments, and study several major court decisions that have elaborated the constitution\u2019s meaning over time. We will explore competing theories of how the constitution should be interpreted, how the constitution distributes and limits the power of different branches of government, and which fundamental political and civil rights the constitution guarantees (see the schedule of readings for specific topics). Students will regularly discuss, debate, and write about these issues.\n \n A major learning goal of the course is to practice the skills needed to understand a legal argument and to articulate our own. Students will learn how to identify the different elements of a legal opinion, how to formulate a legal opinion, and how to conduct basic legal research.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -6124,7 +6284,7 @@
   {
     "course_code":"POLS S4811",
     "course_title":"GLOBAL ENERGY: SECURITY\/GEOPOL",
-    "course_descr":null,
+    "course_descr":"The course focuses on the nexus between energy and security as it reveals in the policies and interaction of leading energy producers and consumers. Topics include: hydrocarbons and search for stability and security in the Persian Gulf, Caspian basin, Eurasia, Africa and Latin America; Russia as a global energy player; role of natural gas in the world energy balance and European energy security; transformation of the global energy governance structure; role and evolution of the OPEC; introduction into energy economics; dynamics and fundamentals of the global energy markets; IOCs vs NOCs; resource nationalism, cartels, sanctions and embargoes; Asia's growing energy needs and its geo-economic and strategic implications; nuclear energy and challenges to non-proliferation regime; alternative and renewable sources of energy; climate change and attempts of environmental regulation; emerging international carbon regimes and search for optimal models of sustainable development. Special focus on implications of the shale revolution and technological innovations on U.S. energy security.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -6150,7 +6310,7 @@
   {
     "course_code":"POLS S4832",
     "course_title":"STRAT INTELLIGNC\/POL DEC MAKNG",
-    "course_descr":null,
+    "course_descr":"The interaction of intelligence and political decision-making in the U.S. other Western democracies, Russia and China. Peculiarities of intelligence in the Middle East (Israel, Iran, Pakistan). Intelligence analyzed both as a governmental institution and as a form of activity, with an emphasis on complex relations within the triangle of intelligence communities, national security organizations, and high-level political leadership. Stages and disciplines of intelligence process. Intelligence products and political decision-making. The function of intelligence considered against the backdrop of rapid evolution of information technologies, changing meaning of homeland security, and globalization. Particular emphasis on the role of intelligence in the prevention of terrorism and WMD proliferation.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -6176,7 +6336,7 @@
   {
     "course_code":"POLS UN1511",
     "course_title":"INTRO-COMPARATIVE POLITCS-DISC",
-    "course_descr":null,
+    "course_descr":"This is the required discussion section for POLS UN1501.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -6193,7 +6353,9 @@
     "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "POLS UN1501"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20252POLS1511V001",
@@ -6202,7 +6364,7 @@
   {
     "course_code":"POLS UN3108",
     "course_title":"Democracy: Theory & Practice",
-    "course_descr":null,
+    "course_descr":"The goal of this course is to provide students with an overview of constitutive debates over the theory and practice of democracy along three major lines: democracy as a word (with a time-honored ancestry and a tortuous trajectory across the centuries); democracy as a constellation of principles and values; and democracy as an array of institutions and procedures that instantiate the word and pursue the foundational principles of popular sovereignty and democratic self-rule. In doing so, we will read the work of major representatives of historical and contemporary political thought who assessed democracy\u2019s shortcomings and potential, examined the relationship between its theory and its practice, and offered prominent resources for thinking about democracy\u2019s future in our present.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -6228,7 +6390,7 @@
   {
     "course_code":"POLS UN3210",
     "course_title":"JUDICIAL POLITICS",
-    "course_descr":null,
+    "course_descr":"This political science course provides an introduction to the politics of judges, courts, and law in the United States. \u00a0We will evaluate law and courts as political institutions and judges as political actors and policy-makers.\n  \nThe topics we will study include what courts do; how different legal systems function; the operation of legal norms; the U.S. judicial system; the power of courts; constraints on judicial power; judicial review; the origin of judicial institutions; how and why Supreme Court justices make the decisions they do; case selection; conflict between the Court and the other branches of government; decision making and conflict within the judicial hierarchy; the place of courts in American political history; and judicial appointments.\n  \nWe will explore some common but not necessarily true claims about how judges make decisions and the role of courts. \u00a0One set of myths sees judges as unbiased appliers of neutral law, finding law and never making it, with ideology, biography, and politics left at the courthouse door. Another set of myths sees the judiciary as the \u201cleast dangerous branch,\u201d making law, not policy, without real power or influence.\n  \nOur thematic questions will be: \u00a0How much power and discretion do judges have in the U.S? \u00a0What drives their decision-making?",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -6254,7 +6416,7 @@
   {
     "course_code":"POLS UN3720",
     "course_title":"RESEARCH DESIGN: SCOPE AND METHODS",
-    "course_descr":null,
+    "course_descr":"This class aims to introduce students to the logic of social scientific inquiry and research design. Although it is a course in political science, our emphasis will be on the science part rather than the political part \u2014 we\u2019ll be reading about interesting substantive topics, but only insofar as they can teach us something about ways we can do systematic research. This class will introduce students to a medley of different methods to conduct social scientific research.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -6280,7 +6442,7 @@
   {
     "course_code":"POLS UN3722",
     "course_title":"SCOPE AND METHODS - DISC",
-    "course_descr":null,
+    "course_descr":"This is the required discussion section for \nPOLS UN3720.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -6297,7 +6459,9 @@
     "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "POLS UN3720"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20252POLS3722W001",
@@ -6306,7 +6470,7 @@
   {
     "course_code":"POLS UN3919",
     "course_title":"Seminar in Political Theory",
-    "course_descr":null,
+    "course_descr":"With the rise of extreme weather events as a consequence of climate change, the demand for \u201cclimate justice\u201d has become a popular backdrop for environmental and climate movements to demand more specific political action to address the climate crisis. This course will cover the origins and development of the concept of environmental justice and its relationship to issues of race and power, as well as the transition from environmental justice to climate justice and its political implications today. Establishing the connection of environmental and climate justice principles to existing political institutions, the course will also include a field trip to visit South Bronx Unite and do a walking tour of heavily polluted waterways in the Bronx. Additionally, students will choose an institution or movement of their choice and create a report which analyses what concepts of justice these institutions refer to, what their goals and demands are, and how their strategies relate to these demands and where they might be falling short.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -6494,7 +6658,7 @@
   {
     "course_code":"PSYC S2450",
     "course_title":"BEHAVIORAL NEUROSCIENCE",
-    "course_descr":null,
+    "course_descr":"Prerequisites: PSYC UN1001 An introduction to the analysis of psychological issues by anatomical, physiological, and pharmacological methods. Topics include neurons, neurotransmitters, neural circuits, human neuroanatomy, vision, learning, memory, emotion, and sleep and circadian rhythms.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -6511,7 +6675,9 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "PSYC UN1001"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20252PSYC2450S001",
@@ -6603,7 +6769,7 @@
   {
     "course_code":"PSYC S3622",
     "course_title":"Topics in Clinical Psychology - Summer",
-    "course_descr":null,
+    "course_descr":"A seminar for advanced undergraduate students exploring different areas of clinical psychology. The specific focus within clinical psychology may differ each time the course is offered, so it is possible for the course to be retaken for additional credit.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
