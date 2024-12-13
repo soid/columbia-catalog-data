@@ -1274,7 +1274,7 @@
   {
     "course_code":"BIOL S4515",
     "course_title":"Intensive Laboratory in Biotechnology",
-    "course_descr":null,
+    "course_descr":"Prerequisites: \u00a0Chem UN1403 and CHEM UN1404. \u00a0 Intense laboratory where students desiring\u00a0an\u00a0introduction to laboratory skills meet MTWR, 5 hours a day for four weeks in the summer term participating in experimental bench work, data analysis and safe laboratory practice. Grades depend on preparation, participation in the laboratory, short lab reports, critical thinking and experimental skill.\u00a0 There\u00a0will be two sections for S4515.\u00a0 Section 001 begins June\u00a07th and runs through July 1st.\u00a0 Section 002 begins July 6th and runs through July 29th.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -1291,7 +1291,13 @@
     "open_to":null,
     "points":"2",
     "prerequisites":[
-
+      [
+        "CHEM UN1404",
+        "S4515"
+      ],
+      [
+        "UN1403"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20252BIOL4515S001",
@@ -1326,7 +1332,7 @@
   {
     "course_code":"BIOL UN1201",
     "course_title":"Engineered Mouse Models and Identifying",
-    "course_descr":null,
+    "course_descr":"This undergraduate lecture course will introduce how transgenic and mutant mouse models are generated and their utility in defining the functional roles of genes in vivo.\u00a0 Classically, the function of a gene is tested in vivo by either overexpressing or inactivating its expression, leading to a gain-of-function or loss-of-function phenotype from which is inferred a gene\u2019s normal role in homeostasis.\u00a0 Here we will explore the classic strategies for the generation of transgenic and knockout mice, comparing and contrasting their individual strengths and weaknesses, while exploring the phenotypes that have resulted from these changes in gene expression.\u00a0 Using a subset of primary papers, students will be introduced to research analysis to become more versed in the layers of experimental design needed to identify a gene\u2019s function in vivo. \u00a0\u00a0The theoretical timing and the strategy needed to design such experiments with these transgenic and mutant mouse models, and the power of stem cell experiments will be discussed.\u00a0 \u00a0\u00a0\n  \nIn addition, to develop critical and additional analytical skills, students will become versed in basic tissue histology and immunohistochemistry, using processed paraffin-embedded mouse tissues from wild-type and engineered mutant mouse lines.\u00a0 Students will learn how to recognize numerous, normal adult tissues with light microscopy and to identify proliferative zones vs. fully differentiated layers within each.\u00a0 In addition, they will analyze the development of mid-to-late gestational embryos in serial sections, to underscore the coordinated transformation of tissues required for normal embryonic development.\u00a0 Finally, serial sections from well-defined mutant mouse models will used to identify and characterize abnormal phenotypes resulting from the knock-out of genes encoding cell cycle regulators or tumor suppressors.\u00a0 Live animal handling or experimentation is not a component of this course.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -1885,7 +1891,7 @@
     "course_code":"CELL PS0101",
     "course_title":"Cell and Molecular Biology of Medicine",
     "course_descr":"",
-    "instructor":null,
+    "instructor":"Katherine E Kartheiser",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"3:00pm",
     "call_number":"10346",
@@ -14356,7 +14362,7 @@
     "course_code":"VIAR UN1701",
     "course_title":"Intro Darkroom Photography",
     "course_descr":"Introductory course to analog photographic tools, techniques, and photo criticism. This class explores black & white, analog camera photography and darkroom processing and printing.\u00a0 Areascovered include camera operations, black and white darkroom work, 8x10 print production, and critique. With an emphasis on the student\u2019s own creative practice, this course will explore the basics of photography and its history through regular shooting assignments, demonstrations, critique, lectures, and readings. No prior photography experience is required.",
-    "instructor":null,
+    "instructor":"Alexander T McTigue",
     "scheduled_time_start":"1:00pm",
     "scheduled_time_end":"3:30pm",
     "call_number":"10113",
