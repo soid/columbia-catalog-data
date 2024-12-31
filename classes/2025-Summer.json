@@ -14365,7 +14365,7 @@
   {
     "course_code":"STAT GR5224",
     "course_title":"BAYESIAN STATISTICS",
-    "course_descr":null,
+    "course_descr":"This course introduces the Bayesian paradigm for statistical inference.\u00a0 Topics covered include prior and posterior distributions: conjugate priors, informative and non-informative priors; one- and two-sample problems; models for normal data, models for binary data, Bayesian linear models, Bayesian computation: MCMC algorithms, the Gibbs sampler; hierarchical models; hypothesis testing, Bayes factors, model selection; use of statistical software.\n  \n\u00a0\n  \nPrerequisites: A course in the theory of statistical inference, such as STAT GU4204\/GR5204 a\u00a0 course in statistical modeling and data analysis such as STAT GU4205\/GR5205.",
     "instructor":"Benjamin K Goodrich",
     "scheduled_time_start":"6:15pm",
     "scheduled_time_end":"7:50pm",
@@ -14384,7 +14384,18 @@
     ],
     "points":"3",
     "prerequisites":[
-
+      [
+        "GR5204"
+      ],
+      [
+        "GR5205"
+      ],
+      [
+        "STAT GU4204"
+      ],
+      [
+        "STAT GU4205"
+      ]
     ],
     "scheduled_days":"MTWR",
     "section_key":"20252STAT5224W001",
@@ -14393,7 +14404,7 @@
   {
     "course_code":"STAT GU4224",
     "course_title":"BAYESIAN STATISTICS",
-    "course_descr":null,
+    "course_descr":"This course introduces the Bayesian paradigm for statistical inference.\u00a0 Topics covered include prior and posterior distributions: conjugate priors, informative and non-informative priors; one- and two-sample problems; models for normal data, models for binary data, Bayesian linear models; Bayesian computation: MCMC algorithms, the Gibbs sampler; hierarchical models; hypothesis testing, Bayes factors, model selection; use of statistical software.\n  \nPrerequisites: A course in the theory of statistical inference, such as STAT GU4204 a course in statistical modeling and data analysis, such as STAT GU4205.",
     "instructor":null,
     "scheduled_time_start":"6:15pm",
     "scheduled_time_end":"7:50pm",
@@ -14410,7 +14421,12 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "STAT GU4204"
+      ],
+      [
+        "STAT GU4205"
+      ]
     ],
     "scheduled_days":"MTWR",
     "section_key":"20252STAT4224W001",
