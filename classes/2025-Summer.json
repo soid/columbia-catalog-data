@@ -58,7 +58,7 @@
   {
     "course_code":"AHIS OC3682",
     "course_title":"ISSUES IN 19TH C FRENCH P",
-    "course_descr":null,
+    "course_descr":"AHIS3682OC. Issues in Nineteenth Century Art.\n 3 points.\u00a0\nTaught in English.\n  \nInstructor Nicolas Baudouin, Instructor in Art History.\u00a0\n  \nWe will\u00a0 focus on a key artistic period that is full of upheavals. We will particularly consider the affirmation of the individuality of the artist in relation to the institutions and great pictorial movements that have marked the history of French painting of that time.\n  \nTo enroll in this course, you must apply to the\u00a0\nColumbia Summer in Paris\n\u00a0program through the Center for Undergraduate Global Engagement (UGE).\u00a0\u00a0\nGlobal Learning Scholarships available.\n\u00a0\u00a0\nTuition\u00a0\ncharges apply.\u00a0\n  \nPlease note the program dates are different from the Summer Session Terms. Visit the\u00a0\nUGE\n\u00a0website for the start and end dates for the Columbia in Summer in Paris program.\n  \nPlease email uge@columbia.edu with any questions you may have.",
     "instructor":"Nicolas Baudouin",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -75,7 +75,9 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "IS3682"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20252AHIS3682H001",
@@ -3174,7 +3176,7 @@
   {
     "course_code":"CELL PS0101",
     "course_title":"Cell and Molecular Biology of Medicine",
-    "course_descr":null,
+    "course_descr":"",
     "instructor":"Meena Lail",
     "scheduled_time_start":"1:00pm",
     "scheduled_time_end":"3:00pm",
@@ -3202,7 +3204,7 @@
   {
     "course_code":"CELL PS0101",
     "course_title":"Cell and Molecular Biology of Medicine",
-    "course_descr":null,
+    "course_descr":"",
     "instructor":"Arpita Ray",
     "scheduled_time_start":"1:00pm",
     "scheduled_time_end":"3:00pm",
@@ -3962,7 +3964,7 @@
   {
     "course_code":"CINT PS0101",
     "course_title":"Cyber-Threat Intelligence",
-    "course_descr":null,
+    "course_descr":"",
     "instructor":null,
     "scheduled_time_start":"1:00pm",
     "scheduled_time_end":"3:00pm",
@@ -5208,6 +5210,62 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"DOCT PS0101",
+    "course_title":"Medicine as a Career Choice: Thinking Li",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"1:00pm",
+    "scheduled_time_end":"3:00pm",
+    "call_number":"10690",
+    "campus":null,
+    "class_id":"N0101-20252-D02",
+    "course_subtitle":"Thinking Like a Doctor",
+    "department":"Pre-College Programs (SHSP)",
+    "department_code":"DOCT",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/DOCT\/N0101-20252-D02\/",
+    "location":"ONLINE ONLY",
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Pre-College Programs"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MTWRF",
+    "section_key":"20252DOCT0101ND02",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"DOCT PS0101",
+    "course_title":"Medicine as a Career Choice: Thinking Li",
+    "course_descr":null,
+    "instructor":"Magy Dawoud",
+    "scheduled_time_start":"1:00pm",
+    "scheduled_time_end":"3:00pm",
+    "call_number":"10691",
+    "campus":null,
+    "class_id":"N0101-20252-D03",
+    "course_subtitle":"Thinking Like a Doctor",
+    "department":"Pre-College Programs (SHSP)",
+    "department_code":"DOCT",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/DOCT\/N0101-20252-D03\/",
+    "location":"ONLINE ONLY",
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Pre-College Programs"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MTWRF",
+    "section_key":"20252DOCT0101ND03",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"DRAW PS0100",
     "course_title":"Drawing Intensive: Developing a Portfoli",
     "course_descr":"",
@@ -5233,6 +5291,34 @@
     ],
     "scheduled_days":"MTWRF",
     "section_key":"20252DRAW0100K001",
+    "type":"STUDIO"
+  },
+  {
+    "course_code":"DRAW PS0100",
+    "course_title":"Drawing Intensive: Developing a Portfoli",
+    "course_descr":null,
+    "instructor":"Ioana I Manolache",
+    "scheduled_time_start":"1:00pm",
+    "scheduled_time_end":"3:00pm",
+    "call_number":"10692",
+    "campus":null,
+    "class_id":"K0100-20252-D01",
+    "course_subtitle":"Drawing:Developing a Port",
+    "department":"Pre-College Programs (SHSP)",
+    "department_code":"DRAW",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/DRAW\/K0100-20252-D01\/",
+    "location":"ONLINE ONLY",
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Pre-College Programs"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MTWRF",
+    "section_key":"20252DRAW0100KD01",
     "type":"STUDIO"
   },
   {
@@ -6357,7 +6443,7 @@
     "course_code":"ENGL S3233",
     "course_title":"SHAKESPEARE",
     "course_descr":"This course provides an introduction to Shakespeare through a combination of reading his plays and viewing them in performance. On the one hand, we approach each play as a written, published text: our in-class conversation consist primarily in close analysis of key passages, and, in one class period, we visit Rare Books to examine the earliest printed versions of the plays in light of English Renaissance print technology. On the other hand, we view performances of each assigned play, including the attendance as a group of at least one Shakespeare production on an NYC stage. Our semester\u2019s through line is to trace, from his earliest plays to Hamlet, Shakespeare\u2019s remarkable development of the techniques of characterization that have made generations of both playgoers and readers feel that his dramatis personae are so modern, real, human. We will also devote attention to exploring the value of each play in our present moment and on our local stages. We read 8 plays in all, including Titus Andronicus, Midsummer Night's Dream, Julius Caesar, Macbeth, Merchant of Venice, and Hamlet.",
-    "instructor":null,
+    "instructor":"Douglas S Pfeiffer",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"10134",
@@ -6383,7 +6469,7 @@
     "course_code":"ENGL S3273",
     "course_title":"WALT WHITMAN AND NEW YORK",
     "course_descr":"Walt Whitman was not the first to write about New York. But he was the first of many to let New York write him. By age 43, Whitman had composed most of his best poetry, published three editions of Leaves of Grass, and left New York only twice. How did the second son of an unsuccessful farmer, a grammar school dropout and hack writer become America\u2019s greatest poet? This course offers a response to this perennial mystery of literary scholarship by proposing that \u201cWalt Whitman, a kosmos, of Manhattan the son\u201d was indeed a product of his environment. Coming of age as a writer at the same time the city was emerging as a great metropolis, he received his education and inspiration from New York itself. Course time is equally divided between discussions of Whitman\u2019s antebellum poetry, journalism, and prose (including the newly recovered Life and Adventures of Jack Engle) in their cultural and geographical contexts, and on-site explorations that retread Whitman\u2019s footsteps through Brooklyn and his beloved Mannahatta. Experiential learning is further encouraged through assignments based in archives, museums, and at historic sites throughout the city.",
-    "instructor":null,
+    "instructor":"Karen Karbiener",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"10133",
@@ -6409,7 +6495,7 @@
     "course_code":"ENGL S3693",
     "course_title":"SALLY ROONEY- AUTHORSHIP IN THE 21ST CEN",
     "course_descr":"In this seminar, we will study \u201cSally Rooney.\u201d In so doing, we will talk about the real author of that name: a thirty-year old Irishwoman whose three novels, each set in Ireland and concerning the social and erotic lives of attractive young people of European descent, have achieved remarkable commercial and critical success. We will talk about the pleasures of those texts, as well as their formal and generic features, their language and their relation to literary history.\u00a0 But we will also discuss the idea and institution named \u201cSally Rooney,\u201d considering it as what Michel Foucault called an \u201cauthor function,\u201d or what Pierre Bourdieu dubbed a \u201cspace of possibilities\u201d within the literary field.\n  \nOur inquiry into \u201cSally Rooney\u201d will, therefore, also be an inquiry into the meaning of literary authorship in the twenty-first century. Through secondary readings in criticism and theory, we will engage longstanding arguments about the relation between critical interpretation and authorial intention, as well as between social and historical \u201ccontext\u201d and authorial and aesthetic autonomy. We will examine how patterns of social exclusion \u2014 in this case, race \u2014 define the digitally-mediated literary field of the present. And we will ask how the rise of social media and online retail have altered ideas and institutions of authorship, audience, and literariness.",
-    "instructor":null,
+    "instructor":"Matthew Hart",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"10520",
@@ -6435,7 +6521,7 @@
     "course_code":"ENGL S3782",
     "course_title":"WHEN AMERICAN TELEVISION BECAME AMERICAN",
     "course_descr":"In a 2015 interview with David Simon (creator of \nThe Wire\n) President Barak Obama offered that \nThe Wire \nis, \"one of the greatest -- not just television shows, but pieces of American art in the last couple of decades.\" \u00a0\nThe Wire \ncombines hyperrealism (from a-quasi anthropological capture of syntax and dialect that recalls the language of Langston Hughes and Zora Neal Hurston to a preference for actors who lived \u201cthe game\u201d in Baltimore\u2019s inner city) with the reinvention of fundamental American themes (from picaresque individualisms, to coming to terms with the illusory \u201cAmerican dream\u201d, to a fundamental loss of faith in American institutions), and engages in a scathing expose of the shared dysfunction among the bureaucracies (police, courts, public schools etc.) that manage a troubled American inner city.\u00a0 On a more macro level \nThe Wire\n humanizes (and therefore vastly problematizes) assumptions about the individual Americans\u2019 who inhabit America\u2019s most dangerous urban environments from gang members to police officers to teachers and even ordinary citizens.\n  \nThe Wire\n, of course, did not single-handedly reshape American television. Scholars like Martin Shuster refer to this period of television history as \u201cnew television.\u201d That is, the product of new imaginations that felt television had exhausted its normative points of reference, subject matter and narrative technique. Many of the shows from this period sought to reinvent television for interaction with an evolving zeitgeist shaped by shared dissolution with 21st century American life: \u201cI\u2019d been thinking: it\u2019s good to be in a thing from the ground floor, I came too late for that, I know.\u00a0 But lately I\u2019m getting the feeling I might be in at the end.\u00a0 That the best is over,\u201d Tony Soprano confides to Dr. Malfi in S1.E1 of the Sopranos.\u00a0 Series that fall within this rubric include (in chronological order): \nThe Sopranos\n; \nThe Wire\n; \nDeadwood\n; \nMadmen\n; and \nBreaking Bad.",
-    "instructor":null,
+    "instructor":"Ben Alexander",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"10149",
@@ -6461,7 +6547,7 @@
     "course_code":"ENGL S4526",
     "course_title":"COMICS: READING THE MEDIUM",
     "course_descr":"This course will offer an immersion in both the history and the language of comics, from the newspaper strips through the early comic books to today's graphic novels. Beginning with readings that offer a theoretical framework and an analytical vocabulary, students will examine and discuss the way page layout, panel composition, color, lettering, sound effects, and more help carry and shape the narrative, as soundtracks and shot composition do in film. Readings will include wordless works by Shaun Tan, classic works by Alison Bechdel, as well as many that may be less familiar. Students will analyze the American, Asian, and European approaches to comics. Guest speakers from the comics industry will aid in developing students' analytical skills. Instructor permission is required for registration after 5\/28.",
-    "instructor":null,
+    "instructor":"Karen L Green",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"10152",
@@ -6487,7 +6573,7 @@
     "course_code":"ENGL UN3638",
     "course_title":"Contemporary American Short Story Collec",
     "course_descr":"In 2013, Alice Munro was honored with the Nobel Prize in literature. Munro\u2019s award was seen as a literary landmark: the first time that the prize was awarded to a writer whose exclusive form was the short story. The award was seen as fitting recognition, not only for this writer in particular, but also more broadly as moment of recognition for the short story\u2019s importance as a genre, especially in a publishing industry that has long been dominated by the novel.\n  \nIn this course, we will focus on the contemporary North American short story authors featured on our syllabus: Chimamanda Adichie, George Saunders, Lydia Davis, Carmen Machado, Leanne Simpson, Anthony Veasna So. Some of the writers on this list are veterans of the short story form. Others are authors who recently published debut collections. As we work through our reading list, we will attempt to analyze not only individual short stories, but also what marks these books as collections. What might hold these texts together? What disrupts the unifying principles of a collection? And most importantly, what do short stories offer\u2014in terms of representations of American life and culture and itscomplexity\u2014that other forms do not?",
-    "instructor":null,
+    "instructor":"Denise Cruz",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"10683",
@@ -6513,7 +6599,7 @@
     "course_code":"ENGL UN3699",
     "course_title":"Yaddo: Shaping the American Century",
     "course_descr":"Yaddo is an artists community located in Saratoga Springs, New York.\u00a0 In the words of John Cheever, \u201cthe forty or so acres on which the studios and principal buildings of Yaddo stand have seen more distinguished activity in the arts that any other piece of ground in the English speaking community.\u201d\u00a0 Cheever, however, also described Yaddo\u2019s menagerie of creatives as a group of, \u201clushes down on their luck, men and women at the top of their powers, nervous breakdowns, thieves, geniuses, cranky noblemen, and poets who ate their peas with a knife.\u201d\u00a0 In total this makes for spectacular drama.\u00a0\u00a0\n  \nHistorically speaking Yaddo is an idealized synergy of Gilded Age gender roles and is best understood as \u00bd Thomas Edison\u2019s Menlo Park (\u201cthe Menlo Park factory was a loud, rowdy, and raucous place full of nightly sing-alongs around a large organ, gaming, practical jokes, and midnight feasts\u201d) and one half Settlement House (a space where American women, \u201cexpropriated the previously male world of literature and the arts as their own, feeling they possessed a special humanistic sensitivity which provided an alternative to the acquisitive and the competitive goals of men in an industrializing America.\u201d).\u00a0 \u00a0\n  \nYaddo\u2019s guest list is a \u201cwhose who\u201d of American Art and letters.\u00a0 We will, however, \u00a0study Yaddo as a compelling introduction to the shifts, evolutions, and challenges to American art across the 20th century; including: the study of politically radical art during the 1930s and a remarkable study of Cold War era political threats to American creativity with a special focus on the Lavender Scare.\u00a0\n  \nBecause The Yaddo Records (Yaddo\u2019s archive) are at NYPL, and because I served as project archivist for these records we will also spend a day at NYPL that will include introduction to Yaddo\u2019s archive specifically but also to archives more generally.\u00a0 Finally, we will be visited (either in person or online) from a variety of Yaddo alum who will share their experiences and impressions and answer student questions etc.",
-    "instructor":null,
+    "instructor":"Ben Alexander",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"10684",
@@ -6539,7 +6625,7 @@
     "course_code":"ENGL UN3717",
     "course_title":"LIT & FILM OF THE BOROUGHS",
     "course_descr":"Greater New York\u2014the municipality that consolidated the five boroughs of Manhattan, Brooklyn, Queens, the Bronx, and Staten Island\u2014was officially established on New Year\u2019s day in 1898. \u00a0While the change had been supported by a large majority of the boroughs\u2019 residents in an 1894 referendum, there remained considerable controversy about the enterprise, even by its sponsors. \u00a0The city has managed to stave off succession movements since then; however, the boroughs remain resistant to economic, legislative, and cultural consolidation. In this course we will study depictions New York life, from the middle of the 20th century--a time of significant social and political turmoil in many boroughs, particularly around issues of race and religion--and into the 21st. \u00a0How do New York\u2019s boroughs themselves become tropes in the fiction and film and television about them? \u00a0What characterizes the nostalgia and anxiety about city life in these representations? \u00a0Finally, what can an examination of these questions tell us about the ways New York has changed as a locus for imaginative work in the 21st century?\n  \nProjects for this course will include short critical responses to course materials, a guided walking tour of a micro-neighborhood in NY (5 blocks or less), and a research essay on a film, play, or TV show made and set New York.\n  \nPLEASE NOTE: All digital materials will be available through Courseworks.",
-    "instructor":null,
+    "instructor":"Nicole Wallack",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"10527",
@@ -6565,7 +6651,7 @@
     "course_code":"ENGL UN3804",
     "course_title":"British Women Writers: the Woman Questio",
     "course_descr":"This course will examine British women writers including Jane Austen, Charlotte Bront\u00eb, George Eliot, and Virginia Woolf in the context of the (long-) nineteenth-century \"Woman Question\". Our inquiry will engage the controversy over a woman\u2019s status in terms of the social and political debates of early feminism as well as the enigma of \u201cwoman\u2019s nature\u201d in light of the rise of psychology and psychoanalysis in the period. We will consider how women writers negotiate these current social and psychological discourses in the stories they tell about themselves and others: how do they portray a woman\u2019s life, especially as it manifests the tension George Eliot articulates between \u201cinward impulse and outward fact\u201d? We will pay attention to representations of gender, subjectivity, interiority, desire, domestic affections, friendship, education, economic and professional experience, faith, and creativity as reflecting the struggle, rising influence, and emergent identity of woman. In addition to novels, poetry, and drama, we will read excerpts of critical essays from among our primary authors and other prominent thinkers of the period, such as Wollstonecraft, Martineau, Taylor Mill, and Freud, who, by the early twentieth century, still famously puzzles: \u201cWhat does a woman want?\u201d",
-    "instructor":null,
+    "instructor":"Aileen G Forbes",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"10148",
@@ -6591,7 +6677,7 @@
     "course_code":"ENGL UN3808",
     "course_title":"The Novel and Economic Justice",
     "course_descr":"Global capitalism inspired novelists to explore the ways in which money, or the lack of it, forms or deforms our characters.\u00a0\u00a0\u00a0 It also inspired the writings of Karl Marx, the great theorist of economic justice.\u00a0 In this seminar we will read three early novels \u2013 Behn\u2019s\u00a0\nOrinooko\n, Godwin\u2019s\u00a0\u00a0\nCaleb Williams\n, Austen\u2019s\u00a0\nPersuasion\n\u00a0alongside Marxist theory, and then examine a cluster of twentieth century global novels in English.\u00a0\u00a0 We will pay special attention to Marxist notions of materialism; alienation and human flourishing; capital and labor; classes; and ideology.\u00a0 Special emphasis will also be given to the Marxist approach in the study of culture, the role of intellectuals (such as ourselves) and the relationship between capitalism and culture \u2013 through theorists like Gramsci, the Frankfurt School, and Raymond Williams.\u00a0\u00a0\u00a0\u00a0\u00a0\n  \nThe course tracks how key Marxist concepts such as capital and class consciousness, reification, commodification, totality, and alienation have been developed across these traditions and considers how these concepts have been used to rethink literary and mass cultural forms and their ongoing transformation in a changing world system. Writers discussed may include Karl Marx, Friedrich Engels, Georg Luk\u00e1cs, Mikhail Bakhtin, Theodor Adorno, Max Horkheimer, Walter Benjamin, C.L.R. James, Frantz Fanon, Am\u00edlcar Cabral, Edward Said, Antonio Gramsci, Raymond Williams, Giovanni Arrighi, Pascale Casanova, David Harvey, and Melinda Cooper.",
-    "instructor":null,
+    "instructor":"Ross T Hamilton",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"10151",
@@ -6617,7 +6703,7 @@
     "course_code":"ENGL W3595",
     "course_title":"THE EIGHTEENTH-CENTURY NOVEL: GENRE AND",
     "course_descr":"In the late seventeenth century, a new genre appears across Europe: the novel.\u00a0\u00a0It told the stories \u2013 not of the princes and princesses \u2013 but of ordinary people on extraordinary voyages, from villages to the Metropolis, from England to Africa and the Americas. In their travels, they encountered not the dragons or giants of romance, but the people and things that made up everyday life in the eighteenth century \u2013 country houses and whorehouses, aristocrats and the merchants, pirates and slaves, and a vast array of enticing goods (shoes and coats, silks and ribbons, coffee and opium) produced in early capitalism.\n  \nWhy does the novel appear?\u00a0\u00a0What role does it play,\u00a0in personal psychology as well as society?\u00a0 Can we account for its increasing popularity as well as its transformations across the eighteenth century?\u00a0\u00a0To puzzle these questions, we will place the development of the novel within the history of art, philosophy and science, as well as psychology and literary theory.\u00a0\u00a0Writers include Mme. de La Fayette, Aphra Behn, Daniel Defoe, Eliza Heywood, Henry Fielding, John Cleland, William Godwin, and Jane Austen.\u00a0Critical readings include selections from Benjamin, Adorno,\n Foucault, Elias, Moretti, and others.\u00a0\u00a0Note: we will read primarily novellas (short novels) or selections from longer novels in this course.",
-    "instructor":null,
+    "instructor":"Ross T Hamilton",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"10150",
@@ -6665,6 +6751,34 @@
     ],
     "scheduled_days":"MTWRF",
     "section_key":"20252ENID0101N001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENID PS0101",
+    "course_title":"Entrepreneurship: From Idea to Early Des",
+    "course_descr":null,
+    "instructor":"Sarah Beston",
+    "scheduled_time_start":"1:00pm",
+    "scheduled_time_end":"3:00pm",
+    "call_number":"10693",
+    "campus":null,
+    "class_id":"N0101-20252-D01",
+    "course_subtitle":"Entrepreneur: Idea to Des",
+    "department":"Pre-College Programs (SHSP)",
+    "department_code":"ENID",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENID\/N0101-20252-D01\/",
+    "location":"ONLINE ONLY",
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Pre-College Programs"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MTWRF",
+    "section_key":"20252ENID0101ND01",
     "type":"LECTURE"
   },
   {
@@ -7535,6 +7649,34 @@
     ],
     "scheduled_days":"MTWRF",
     "section_key":"20252FINC0100K002",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"FINC PS0100",
+    "course_title":"Introduction to Corporate Finance",
+    "course_descr":null,
+    "instructor":"Reginald Kyle",
+    "scheduled_time_start":"1:00pm",
+    "scheduled_time_end":"3:00pm",
+    "call_number":"10694",
+    "campus":null,
+    "class_id":"K0100-20252-D01",
+    "course_subtitle":"Intro to Corporate Financ",
+    "department":"Pre-College Programs (SHSP)",
+    "department_code":"FINC",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FINC\/K0100-20252-D01\/",
+    "location":"ONLINE ONLY",
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Pre-College Programs"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MTWRF",
+    "section_key":"20252FINC0100KD01",
     "type":"LECTURE"
   },
   {
@@ -10075,6 +10217,62 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"IFIN PS0101",
+    "course_title":"Introduction to Finance & Investment Man",
+    "course_descr":null,
+    "instructor":"Matthew S Cantwell",
+    "scheduled_time_start":"1:00pm",
+    "scheduled_time_end":"3:00pm",
+    "call_number":"10695",
+    "campus":null,
+    "class_id":"N0101-20252-D05",
+    "course_subtitle":"Intro Finance Investment",
+    "department":"Pre-College Programs (SHSP)",
+    "department_code":"IFIN",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/IFIN\/N0101-20252-D05\/",
+    "location":"ONLINE ONLY",
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Pre-College Programs"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MTWRF",
+    "section_key":"20252IFIN0101ND05",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"IFIN PS0101",
+    "course_title":"Introduction to Finance & Investment Man",
+    "course_descr":null,
+    "instructor":"Nicholas P Cavallaro",
+    "scheduled_time_start":"1:00pm",
+    "scheduled_time_end":"3:00pm",
+    "call_number":"10696",
+    "campus":null,
+    "class_id":"N0101-20252-D06",
+    "course_subtitle":"Intro Finance Investment",
+    "department":"Pre-College Programs (SHSP)",
+    "department_code":"IFIN",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/IFIN\/N0101-20252-D06\/",
+    "location":"ONLINE ONLY",
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Pre-College Programs"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MTWRF",
+    "section_key":"20252IFIN0101ND06",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"INCR PS0150",
     "course_title":"Conflict Resolution: Negotiation, Persua",
     "course_descr":"",
@@ -11560,6 +11758,34 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"LELA PS0212",
+    "course_title":"Exploring Careers in Law",
+    "course_descr":null,
+    "instructor":"Susan Alevas",
+    "scheduled_time_start":"1:00pm",
+    "scheduled_time_end":"3:00pm",
+    "call_number":"10697",
+    "campus":null,
+    "class_id":"N0212-20252-D01",
+    "course_subtitle":null,
+    "department":"Pre-College Programs (SHSP)",
+    "department_code":"LELA",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/LELA\/N0212-20252-D01\/",
+    "location":"ONLINE ONLY",
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Pre-College Programs"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MTWRF",
+    "section_key":"20252LELA0212ND01",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"LING PS0100",
     "course_title":"Exploring Topics in Linguistics",
     "course_descr":"",
@@ -12965,6 +13191,34 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"MRKT PS0101",
+    "course_title":"Exploring the Marketing Mix",
+    "course_descr":null,
+    "instructor":"Karishma T Kheskwani",
+    "scheduled_time_start":"1:00pm",
+    "scheduled_time_end":"3:00pm",
+    "call_number":"10698",
+    "campus":null,
+    "class_id":"K0101-20252-D03",
+    "course_subtitle":"Exploring the Marketing M",
+    "department":"Pre-College Programs (SHSP)",
+    "department_code":"MRKT",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/MRKT\/K0101-20252-D03\/",
+    "location":"ONLINE ONLY",
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Pre-College Programs"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MTWRF",
+    "section_key":"20252MRKT0101KD03",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"MUSI GU4135",
     "course_title":"Opera in Venice",
     "course_descr":"MUSI4135OC: Opera in Venice. 3 Points.\n  \nPrerequisites: None\n  \nInstructor: Giuseppe Gerbino\n  \nOpera as we know it was born in Venice. After an early phase of private operatic experiments under the patronage of courts and aristocratic academies, the first public opera house, the San Cassiano Theater, opened its doors in Venice in 1637. As a commercial enterprise, opera rapidly came to dominate the social and cultural life of the city, as Venice grew into one of the most influential and strangely seductive European capitals of music.\n  \nThe course traces the Venetian history of opera from its origins to the fall of the Republic of Venice in 1797. Students will also have an opportunity to explore the legacy of this tradition in contemporary Venice as well as in the twentieth-century construction of a nostalgic image of the city\u2019s past musical splendor. Instruction will focus on the relationship between the unique political and topographical organization of Venice and the development of opera. The syllabus integrates academic training with activities designed to allow students to take full advantage of Venice\u2019s historical and cultural resources, including live musical performances, museum visits, and workshops on the workings of Venice\u2019s historical theaters.\n  \nTo enroll in\u00a0this course, you must apply to the\n\u00a0\nColumbia in Venice\n\u00a0\nprogram through the Center for\u00a0Undergraduate Global Engagement (UGE).\n\u00a0\nGlobal Learning Scholarships\u00a0\navailable.\u00a0\nTuition\n\u00a0charges apply.\n  \nPlease note the program dates\u00a0are different from the Summer Sessions Terms. Visit the \nUGE\n website for the start and end dates for the Columbia in Venice program.\n  \nNotes:\u00a0 Please email \nuge@columbia.edu\n with any questions you may have.",
@@ -13264,6 +13518,62 @@
     ],
     "scheduled_days":"MTWRF",
     "section_key":"20252NESC0100K002",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"NESC PS0100",
+    "course_title":"Neuroscience of Psychiatric Disorders",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"1:00pm",
+    "scheduled_time_end":"3:00pm",
+    "call_number":"10699",
+    "campus":null,
+    "class_id":"K0100-20252-D03",
+    "course_subtitle":"Neuroscience of Psych Dis",
+    "department":"Pre-College Programs (SHSP)",
+    "department_code":"NESC",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NESC\/K0100-20252-D03\/",
+    "location":"ONLINE ONLY",
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Pre-College Programs"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MTWRF",
+    "section_key":"20252NESC0100KD03",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"NESC PS0100",
+    "course_title":"Neuroscience of Psychiatric Disorders",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"1:00pm",
+    "scheduled_time_end":"3:00pm",
+    "call_number":"10700",
+    "campus":null,
+    "class_id":"K0100-20252-D04",
+    "course_subtitle":"Neuroscience of Psych Dis",
+    "department":"Pre-College Programs (SHSP)",
+    "department_code":"NESC",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NESC\/K0100-20252-D04\/",
+    "location":"ONLINE ONLY",
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Pre-College Programs"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MTWRF",
+    "section_key":"20252NESC0100KD04",
     "type":"LECTURE"
   },
   {
