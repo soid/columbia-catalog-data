@@ -1316,7 +1316,8 @@
       "Barnard College",
       "Columbia College",
       "Engineering:Undergraduate",
-      "General Studies"
+      "General Studies",
+      "SIPA"
     ],
     "points":"3.5-9",
     "prerequisites":[
@@ -1330,26 +1331,31 @@
     "course_code":"ANAA UN7631",
     "course_title":"Art Class (T3ST)",
     "course_descr":null,
-    "instructor":"Faculty",
+    "instructor":"Charlotte   Ms Jenkins",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
-    "call_number":"10728",
+    "call_number":"10727",
     "campus":null,
-    "class_id":"B7631-20252-003",
+    "class_id":"B7631-20252-002",
     "course_subtitle":null,
     "department":"OFFC OF THE REGISTRAR",
     "department_code":"ANAA",
     "instructor_wikipedia_link":null,
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ANAA\/B7631-20252-003\/",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ANAA\/B7631-20252-002\/",
     "location":"To be announced",
     "method_of_instruction":"In-Person",
-    "open_to":null,
-    "points":"0-3.5",
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "General Studies"
+    ],
+    "points":"3.5",
     "prerequisites":[
 
     ],
     "scheduled_days":"MW",
-    "section_key":"20252ANAA7631B003",
+    "section_key":"20252ANAA7631B002",
     "type":"SEMINAR"
   },
   {
@@ -29803,6 +29809,35 @@
     ],
     "scheduled_days":"TR",
     "section_key":"20252PSYC2210S001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"PSYC S2280",
+    "course_title":"INTRO-DEVELOPMENTAL PSYCHOLOGY",
+    "course_descr":"Prerequisites: PSYC W1001 or PSYC W1010, or the instructor's permission. Introduction to the scientific study of human development, with an emphasis on psychobiological processes underlying perceptual, cognitive, and emotional development.",
+    "instructor":"Nim L Tottenham",
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"12:10pm",
+    "call_number":"11347",
+    "campus":null,
+    "class_id":"S2280-20252-001",
+    "course_subtitle":"INTRO-DEVELOPMENTAL PSYCH",
+    "department":"Summer Session (SUMM)",
+    "department_code":"PSYC",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PSYC\/S2280-20252-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+      [
+        "PSYC W1001",
+        "PSYC W1010"
+      ]
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20252PSYC2280S001",
     "type":"LECTURE"
   },
   {
