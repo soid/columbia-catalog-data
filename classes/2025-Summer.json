@@ -28897,7 +28897,7 @@
   {
     "course_code":"POLS UN1211",
     "course_title":"INTRO-AMERICAN POLITICS-DISC",
-    "course_descr":null,
+    "course_descr":"Required discussion section for POLS UN1201: INTRO TO AMERICAN POLITICS",
     "instructor":"Michael Miller",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:00pm",
@@ -28916,7 +28916,9 @@
     ],
     "points":"0",
     "prerequisites":[
-
+      [
+        "POLS UN1201"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20252POLS1211W003",
@@ -28925,7 +28927,7 @@
   {
     "course_code":"POLS UN1211",
     "course_title":"INTRO-AMERICAN POLITICS-DISC",
-    "course_descr":null,
+    "course_descr":"Required discussion section for POLS UN1201: INTRO TO AMERICAN POLITICS",
     "instructor":"Michael Miller",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:00pm",
@@ -28957,7 +28959,9 @@
     ],
     "points":"0",
     "prerequisites":[
-
+      [
+        "POLS UN1201"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20252POLS1211W004",
