@@ -903,7 +903,12 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/AHUM\/W1399-20253-001\/",
     "location":"To be announced",
     "method_of_instruction":null,
-    "open_to":null,
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "General Studies"
+    ],
     "points":"4",
     "prerequisites":[
 
@@ -16903,6 +16908,32 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"CLIA GR6050",
+    "course_title":"INVENTING THE ANCIENTS",
+    "course_descr":null,
+    "instructor":"Konstantia Zanou",
+    "scheduled_time_start":"12:10pm",
+    "scheduled_time_end":"2:00pm",
+    "call_number":"11091",
+    "campus":null,
+    "class_id":"G6050-20253-001",
+    "course_subtitle":null,
+    "department":"Italian",
+    "department_code":"CLIA",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CLIA\/G6050-20253-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20253CLIA6050G001",
+    "type":"SEMINAR"
+  },
+  {
     "course_code":"CLIA GU4300",
     "course_title":"Renaissance Orientalism",
     "course_descr":"This course offers an overview of the scholarly debate about the Renaissance during the last twenty years (2001-2021), with a particular focus on the relationship between early modern Italy, Europe, and Muslim Eurasia. This class intends to give students insight into and philological tools to engage the current debate about the revision of the concept\u2014and the period\u2014of the Renaissance (broadly 1350-1570). We will read both primary (Petrarch, Pico della Mirandola, Galateo, Leonardo Bruni, Leo Africanus) and secondary sources in order to understand the main trends of philological and historical research about early modern Eurasia in the last twenty years. We will read about how Petrarch\u2019s anti-Arabism has been analyzed and used by twentieth-century Medievalists. We will explore how Said\u2019s \nReturn to Philology\n influenced the study of the transmission of texts in the Early Modern World. Also, we will try to understand the role of Islam, Muhammad, and the Ottoman Empire in the evolution of European political thought. Similarly, we will dive into Early Modern European representations of the Muslim Other, as well as into Arabic travel writing about Early Modern Europe. The main goal of this class is to discuss with the students about what happened in the field of Renaissance studies in the last two decades, roughly between September 11, 2001 and our current \u201cpost\u201d-pandemic world, with a particular attention to the study of literary texts, intellectual and cultural history, the history and theory of translation.\u00a0\n In English.",
@@ -17686,7 +17717,7 @@
   {
     "course_code":"CPLT BC3144",
     "course_title":"INTRODUCTION TO NARRATIVE",
-    "course_descr":"An introduction to narrative through texts that themselves foreground acts of storytelling and thus teach us how to read them. Readings range across periods and cultures - from fifth-century BCE Athens to late twentieth-century Brazil - and include short stories, novellas, novels, a ballad, film and a psychoanalytic case history. Texts by Conan Doyle, Sophocles, Melville, Hitchcock, Augustine, Coleridge, Freud, McEwan, the tellers and compilers of the The Arabian Nights, Diderot, Flaubert, and Lispector. Emphasis on close reading and hands-on experience in analyzing texts.",
+    "course_descr":"What is it to attend to narrative? Attending has its etymological roots in Latin,\u00a0\nattendere\n, to stretch (one\u2019s mind)\u00a0\ntowards\n, to get closer, which implies a gap between one\u2019s mind and whatever it is one is attending to.\u00a0\nAttendre\n\u00a0in French means to wait, to expect, another gesture towards space between one\u2019s mind and whatever one is waiting for or expecting. What happens in that space? What is it to attend? Is it to slow down and mind the gap? Or is it to\u00a0\npay\u00a0\nor\u00a0\nlend\u00a0\nattention, as the phrase appears in multiple languages, as though the space is a debt that we or our minds owe? What does it look like to pay attention to narrative and stories?\n  \nThis course offers an introduction to forms and functions of narrative with focus on three modes: perception, reflection, and memory. What distinguishes the texts we will study is how they themselves foreground and reflect on how stories are told and so perform the task of teaching us how to analyze them. Topics include the writing of the self; the nature of memory; the experience of time; the relationship between fact, fantasy, and fiction; and the search for truth. While we will cover a range of scripture, poetry, novels, essays, plays, comics, and hybrid literary forms, the demand of you as readers will be the same: lend your close attention to these works and give yourself time to reflect on them.",
     "instructor":"Faculty",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:25pm",
@@ -20562,9 +20593,9 @@
     "course_code":"ECON BC3018",
     "course_title":"ECONOMETRICS",
     "course_descr":"Prerequisites: ECON BC3033 or ECON BC3035, and ECON BC2411 or STAT W1111 or STAT W1211, or permission of the instructor. Specification, estimation and evaluation of economic relationships using economic theory, data, and statistical inference; testable implications of economic theories; econometric analysis of topics such as consumption, investment, wages and unemployment, and financial markets.",
-    "instructor":null,
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "instructor":"Faculty",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"11:25am",
     "call_number":"00067",
     "campus":null,
     "class_id":"X3018-20253-001",
@@ -20573,7 +20604,7 @@
     "department_code":"ECON",
     "instructor_wikipedia_link":null,
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ECON\/X3018-20253-001\/",
-    "location":null,
+    "location":"To be announced",
     "method_of_instruction":null,
     "open_to":null,
     "points":"4",
@@ -20588,7 +20619,7 @@
         "ECON BC3035"
       ]
     ],
-    "scheduled_days":null,
+    "scheduled_days":"MW",
     "section_key":"20253ECON3018X001",
     "type":"LECTURE"
   },
@@ -21589,7 +21620,7 @@
     "open_to":[
       "Barnard College"
     ],
-    "points":"0-2",
+    "points":"0",
     "prerequisites":[
       [
         "EESC BC1001"
@@ -21623,7 +21654,7 @@
     "open_to":[
       "Barnard College"
     ],
-    "points":"0-2",
+    "points":"0",
     "prerequisites":[
       [
         "EESC BC1001"
@@ -21657,7 +21688,7 @@
     "open_to":[
       "Barnard College"
     ],
-    "points":"0-2",
+    "points":"0",
     "prerequisites":[
       [
         "EESC BC1001"
@@ -21691,7 +21722,7 @@
     "open_to":[
       "Barnard College"
     ],
-    "points":"0-2",
+    "points":"0",
     "prerequisites":[
       [
         "EESC BC1001"
@@ -21725,7 +21756,7 @@
     "open_to":[
       "Barnard College"
     ],
-    "points":"0-2",
+    "points":"0",
     "prerequisites":[
       [
         "EESC BC1001"
@@ -22199,6 +22230,32 @@
     ],
     "scheduled_days":"R",
     "section_key":"20253ENGL3105X001",
+    "type":"WORKSHOP"
+  },
+  {
+    "course_code":"ENGL BC3107",
+    "course_title":"INTRODUCTION TO FICTION WRITING",
+    "course_descr":"Writing sample required to apply. Instructions and the application form can be found here: \nhttps:\/\/english.barnard.edu\/english\/creative-writing-courses\n. Practice in writing short stories and other forms of fiction with discussion and close analysis in a workshop setting.",
+    "instructor":"Kate Zambreno",
+    "scheduled_time_start":"11:00am",
+    "scheduled_time_end":"12:50pm",
+    "call_number":"00269",
+    "campus":null,
+    "class_id":"X3107-20253-001",
+    "course_subtitle":"INTRO TO FICTION WRITING",
+    "department":"English @Barnard",
+    "department_code":"ENGL",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/X3107-20253-001\/",
+    "location":"To be announced",
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20253ENGL3107X001",
     "type":"WORKSHOP"
   },
   {
@@ -22751,6 +22808,58 @@
     "scheduled_days":"MW",
     "section_key":"20253ENGL3193X002",
     "type":"COLLOQUIA"
+  },
+  {
+    "course_code":"ENGL BC3208",
+    "course_title":"WHAT'S YOUR STORY ANYWAY? - TRAUMA RESIS",
+    "course_descr":"Writing sample required to apply. Instructions and the application form can be found here: \nhttps:\/\/english.barnard.edu\/english\/creative-writing-courses\n.\n\u00a0\nIn this class we will explore the process of healing from trauma through the art of storytelling. We will ground ourselves in the writing of Latina authors whose work demonstrates the resistance from erasure in the United States. The goal of the class is to understand the connection between trauma and healing, through storytelling and creative writing. Moreover, we will develop three pieces of creative non-fiction that will encompass this relationship over the three different lenses of place, person and personal experience.",
+    "instructor":"Maria D Hinojosa",
+    "scheduled_time_start":"9:10am",
+    "scheduled_time_end":"10:50am",
+    "call_number":"00276",
+    "campus":null,
+    "class_id":"X3208-20253-001",
+    "course_subtitle":"CREATIVE WRITING ON TRAUM",
+    "department":"English @Barnard",
+    "department_code":"ENGL",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/X3208-20253-001\/",
+    "location":"To be announced",
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20253ENGL3208X001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"ENGL BC3214",
+    "course_title":"LATINX AND THE ICE\/PRISON INDUSTRIAL COM",
+    "course_descr":null,
+    "instructor":"Maria D Hinojosa",
+    "scheduled_time_start":"12:10pm",
+    "scheduled_time_end":"2:00pm",
+    "call_number":"00837",
+    "campus":null,
+    "class_id":"X3214-20253-001",
+    "course_subtitle":"JOURNALISM: LATINX&ICE\/PR",
+    "department":"English @Barnard",
+    "department_code":"ENGL",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/X3214-20253-001\/",
+    "location":"To be announced",
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20253ENGL3214X001",
+    "type":"SEMINAR"
   },
   {
     "course_code":"ENGL BC3242",
@@ -29553,6 +29662,32 @@
     ],
     "scheduled_days":"T",
     "section_key":"20253ITAL4050G001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ITAL GU4420",
+    "course_title":"ITALIAN NEOREALISM",
+    "course_descr":null,
+    "instructor":"Elizabeth Leake",
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"11090",
+    "campus":null,
+    "class_id":"G4420-20253-001",
+    "course_subtitle":null,
+    "department":"Italian",
+    "department_code":"ITAL",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ITAL\/G4420-20253-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20253ITAL4420G001",
     "type":"LECTURE"
   },
   {
