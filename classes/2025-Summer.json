@@ -1404,8 +1404,8 @@
     "course_title":"Art Class (T3ST)",
     "course_descr":null,
     "instructor":null,
-    "scheduled_time_start":"8:30am",
-    "scheduled_time_end":"11:30am",
+    "scheduled_time_start":"3:45pm",
+    "scheduled_time_end":"6:45pm",
     "call_number":"11499",
     "campus":null,
     "class_id":"B7631-20252-001",
@@ -1421,7 +1421,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":"F",
+    "scheduled_days":"FF",
     "section_key":"20252ANAA7631B001",
     "type":"SEMINAR"
   },
@@ -32147,7 +32147,7 @@
     "course_code":"POLS UN1211",
     "course_title":"INTRO-AMERICAN POLITICS-DISC",
     "course_descr":"Required discussion section for POLS UN1201: INTRO TO AMERICAN POLITICS",
-    "instructor":"Lauren E Futter",
+    "instructor":null,
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:00pm",
     "call_number":"10742",
@@ -38263,6 +38263,32 @@
     ],
     "scheduled_days":"MTWRF",
     "section_key":"20252TCOL0101N001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"TEST 81234",
+    "course_title":"Intro to Biology Course (T3ST)",
+    "course_descr":"Test Course for Vergil Launch Demonstration",
+    "instructor":"Charlotte   Ms Jenkins",
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"10:15am",
+    "call_number":"10710",
+    "campus":null,
+    "class_id":"81234-20252-001",
+    "course_subtitle":"Intro to Biology Course (",
+    "department":"OFFC OF THE REGISTRAR",
+    "department_code":"TEST",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/TEST\/81234-20252-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MTWR",
+    "section_key":"20252TEST12348001",
     "type":"LECTURE"
   },
   {
