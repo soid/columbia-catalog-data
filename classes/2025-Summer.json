@@ -10413,6 +10413,40 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"COMS W3134",
+    "course_title":"DATA STRUCTURES IN JAVA",
+    "course_descr":"Data types and structures: arrays, stacks, singly and doubly linked lists, queues, trees, sets, and graphs. Programming techniques for processing such structures: sorting and searching, hashing, garbage collection. Storage management. Rudiments of the analysis of algorithms. Taught in Java. Note: Due to significant overlap, students may receive credit for only one of the following three courses: COMS W3134, COMS W3136, COMS W3137.",
+    "instructor":"Paul S Blaer",
+    "scheduled_time_start":"5:30pm",
+    "scheduled_time_end":"8:40pm",
+    "call_number":"10747",
+    "campus":null,
+    "class_id":"W3134-20252-001",
+    "course_subtitle":null,
+    "department":"Computer Science",
+    "department_code":"COMS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMS\/W3134-20252-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+      [
+        "COMS W3134"
+      ],
+      [
+        "COMS W3136"
+      ],
+      [
+        "COMS W3137"
+      ]
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20252COMS3134W001",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"COMS W3157",
     "course_title":"ADVANCED PROGRAMMING",
     "course_descr":"C programming language and Unix systems programming. Also covers Git, Make, TCP\/IP networking basics, C++ fundamentals.",
@@ -10541,32 +10575,6 @@
     "scheduled_days":"MW",
     "section_key":"20252COMS3995W001",
     "type":"LECTURE"
-  },
-  {
-    "course_code":"COMS W3999",
-    "course_title":"FIELDWORK",
-    "course_descr":"May be repeated for credit, but no more than 3 total points may be used toward the 128-credit degree requirement. Only for SEAS computer science undergraduate students who include relevant off campus work experience as part of their approved program of study. Final report and letter of evaluation may be required. May not be used as a technical or nontechnical elective \nor as a GTE (general technical elective)\n. May not be taken for pass\/fail credit or audited.",
-    "instructor":"Paul S Blaer",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
-    "call_number":"11314",
-    "campus":null,
-    "class_id":"W3999-20252-010",
-    "course_subtitle":null,
-    "department":"Computer Science",
-    "department_code":"COMS",
-    "instructor_wikipedia_link":null,
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMS\/W3999-20252-010\/",
-    "location":null,
-    "method_of_instruction":null,
-    "open_to":null,
-    "points":"1-2",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":null,
-    "section_key":"20252COMS3999W010",
-    "type":"FIELD WORK"
   },
   {
     "course_code":"COMS W4701",
@@ -16171,7 +16179,7 @@
   {
     "course_code":"ENGL UN1000",
     "course_title":"Julie's Test Course",
-    "course_descr":"A description here. Additional info to describe the mock course is included here. Test edit for the course description - text.",
+    "course_descr":"**Admission priorities** \n  \nPriority will be given to CS students closer to graduation. Your number on the waitlist is not a factor in admission. But this class is large, and we hope to accommodate everyone who needs to take the class. Last year's class is a good model for what this year's syllabus will be:\u00a0\nhttp:\/\/coms4170.cs.columbia.edu\/2024-spring\/\n  \n**Attendance required**\n This class is highly interactive, and attendance for many of the lectures is mandatory. Especially in the second half of the class, students must attend in-class project mentoring sessions to get feedback from their TA and fellow students.\n  \n \n**Technical Preparation**\n The first half of the class is quite technical, we introduce principles of usable design and integrate them in to technical assignments. There is a lot of programming in HTML, JavaScript, CSS, Bootstrap, and Python (server-side). Whereas we do teach these technologies, we constantly find that students who have seen them before have a better time in class. Former students have advised future students to do an online web programming series like CodeAcademy (which is sadly no longer free). Advanced Programming is an advised pre- requisite, but the true pre-requisite is simply coding experience. You will be expected to figure out some of the programming aspects by yourself, and you need the maturity to do that. Hint: ask GPT. If you are going to email me about this class, please use a subject line\n that says I read the SSOL message for COMS 4170 and I still have a question. I hope to see many of you in the spring :)\n Lydia",
     "instructor":null,
     "scheduled_time_start":"1:00pm",
     "scheduled_time_end":"3:30pm",
@@ -48485,7 +48493,7 @@
   },
   {
     "course_code":"TMGT PS5117",
-    "course_title":"The Technology Edge",
+    "course_title":"The Technology Edge: Edge Compute for AI",
     "course_descr":"This class is a journey into the \u201cfat edge\u201d of technological innovations that could transform our economy and society over the coming years. We will tackle big questions: How do innovations redefine jobs and industries? What is the real impact of these changes from the C-suite to citizens? This course is about igniting a passion for change, a realization of its risks, and equipping you to lead with vision and principle.",
     "instructor":"Christy Fernandez-Cull",
     "scheduled_time_start":"6:10pm",
@@ -48493,7 +48501,7 @@
     "call_number":"11070",
     "campus":null,
     "class_id":"K5117-20252-001",
-    "course_subtitle":null,
+    "course_subtitle":"The Technology Edge",
     "department":"Technology Management",
     "department_code":"TMGT",
     "instructor_wikipedia_link":null,
