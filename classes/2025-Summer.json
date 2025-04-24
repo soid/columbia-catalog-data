@@ -8735,6 +8735,32 @@
     "type":"FIELD WORK"
   },
   {
+    "course_code":"CHEN E4899",
+    "course_title":"Research Training",
+    "course_descr":"Research training course. Recommended in preparation for laboratory related research.",
+    "instructor":"Kathy Marte-Garcia",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11922",
+    "campus":null,
+    "class_id":"E4899-20252-001",
+    "course_subtitle":null,
+    "department":"Chemical Engineering",
+    "department_code":"CHEN",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CHEN\/E4899-20252-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20252CHEN4899E001",
+    "type":"INDEPENDENT"
+  },
+  {
     "course_code":"CHEN E4999",
     "course_title":"FIELDWORK",
     "course_descr":null,
@@ -10621,7 +10647,7 @@
   {
     "course_code":"COMS W4705",
     "course_title":"NATURAL LANGUAGE PROCESSING",
-    "course_descr":"Computational approaches to natural language generation and understanding. Recommended preparation: some previous or concurrent exposure to AI or Machine Learning. Topics include information extraction, summarization, machine translation, dialogue systems, and emotional speech. Particular attention is given to robust techniques that can handle understanding and generation for the large amounts of text on the Web or in other large corpora. Programming exercises in several of these areas.",
+    "course_descr":"Computational approaches to the analysis, understanding, and generation of natural language text at scale. Emphasis on machine learning techniques for NLP, including deep learning and large language models. Applications may include information extraction, sentiment analysis, question answering, summarization, machine translation, and conversational AI. Discussion of datasets, benchmarking and evaluation, interpretability, and ethical considerations.\n Due to significant overlap in content, only one of COMS 4705 or Barnard COMS 3705BC may be taken for credit.",
     "instructor":"Daniel Bauer",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"7:20pm",
@@ -10647,7 +10673,7 @@
   {
     "course_code":"COMS W4705",
     "course_title":"NATURAL LANGUAGE PROCESSING",
-    "course_descr":"Computational approaches to natural language generation and understanding. Recommended preparation: some previous or concurrent exposure to AI or Machine Learning. Topics include information extraction, summarization, machine translation, dialogue systems, and emotional speech. Particular attention is given to robust techniques that can handle understanding and generation for the large amounts of text on the Web or in other large corpora. Programming exercises in several of these areas.",
+    "course_descr":"Computational approaches to the analysis, understanding, and generation of natural language text at scale. Emphasis on machine learning techniques for NLP, including deep learning and large language models. Applications may include information extraction, sentiment analysis, question answering, summarization, machine translation, and conversational AI. Discussion of datasets, benchmarking and evaluation, interpretability, and ethical considerations.\n Due to significant overlap in content, only one of COMS 4705 or Barnard COMS 3705BC may be taken for credit.",
     "instructor":"Daniel Bauer",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -13976,6 +14002,34 @@
     "scheduled_days":null,
     "section_key":"20252ELEN3990E001",
     "type":"FIELD WORK"
+  },
+  {
+    "course_code":"ELEN E4830",
+    "course_title":"DIGITAL IMAGE PROCESSING",
+    "course_descr":null,
+    "instructor":"Christine P Hendon",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11923",
+    "campus":null,
+    "class_id":"E4830-20252-D01",
+    "course_subtitle":null,
+    "department":"Video Network",
+    "department_code":"ELEN",
+    "instructor_wikipedia_link":"https:\/\/en.wikipedia.org\/wiki\/Christine_P._Hendon",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ELEN\/E4830-20252-D01\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Engineering:Graduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20252ELEN4830ED01",
+    "type":"LECTURE"
   },
   {
     "course_code":"ELEN E6999",
