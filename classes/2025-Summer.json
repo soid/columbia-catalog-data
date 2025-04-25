@@ -1861,7 +1861,7 @@
     "course_code":"APAN PS5400",
     "course_title":"MANAGING DATA",
     "course_descr":null,
-    "instructor":"Mohamed Mneimneh",
+    "instructor":"Amreeta Choudhury",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
     "call_number":"11102",
@@ -1945,9 +1945,9 @@
     "course_code":"APAN PS5450",
     "course_title":"CLOUD COMPUTING",
     "course_descr":"Data analytics have become an essential component of business intelligence and informed decision making. Sophisticated statistical and algorithmic methodologies, generally known as data science, are now of predominant interest and focus. Yet, the underlying cloud computing platform is fundamental to the enablement of data management and analytics.\n \n This course introduces students to cloud computing concepts and practices ranging from infrastructure and administration to services and applications. The course is primarily focused on the development of practical skills in utilizing cloud services to build distributed and scalable analytics applications. Students will have hands-on exposure to VMs (Virtual Machines), databases, storage, microservices, and AI\/ML (Artificial Intelligence and Machine Learning) services through Google Cloud Platform, et al.\u00a0 Cost and performance characteristics of alternative approaches will also be studied. Topics include: overview of cloud computing, cloud systems, parallel processing in the cloud, distributed storage systems, virtualization, security in the cloud, and multicore operating systems. Throughout, students will study state-of-the-art solutions for cloud computing developed by Google, Amazon, Microsoft, and IBM.\n \n The course modules provide a blend of lecture and reading materials along with class exercises and programming assignments. While extensive programming experience is not required, students taking the course are expected to possess basic Python 3 programming skills.\n \n The desired outcome of the course is the student\u2019s ability to put conceptual knowledge to practical use. Whether you are taking this course for future academic research, for work in industry, or for an innovative startup idea, this course should help you master the fundamentals of cloud computing.",
-    "instructor":null,
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "instructor":"Mohamed Mneimneh",
+    "scheduled_time_start":"8:10pm",
+    "scheduled_time_end":"10:00pm",
     "call_number":"11105",
     "campus":null,
     "class_id":"K5450-20252-D01",
@@ -1956,7 +1956,7 @@
     "department_code":"APAN",
     "instructor_wikipedia_link":null,
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/APAN\/K5450-20252-D01\/",
-    "location":null,
+    "location":"To be announced",
     "method_of_instruction":"On-Line Only",
     "open_to":[
       "Professional Studies"
@@ -1965,7 +1965,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"M",
     "section_key":"20252APAN5450KD01",
     "type":"LECTURE"
   },
@@ -12347,6 +12347,32 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"EAEE E3995",
+    "course_title":"Fieldwork",
+    "course_descr":"Obtained\u00a0internship and approval from faculty adviser.\u00a0Written application must be made prior to\u00a0registration outlining proposed internship and\u00a0study program. Final reports required. May not\u00a0be\u00a0 taken for pass\/fail credit or audited. Fieldwork\u00a0credits may not count toward any major core,\u00a0technical elective, and nontechnical requirements.\u00a0International students must also consult\u00a0 with\u00a0the International Students and Scholars Office.\u00a0Note: only for EAEE undergraduate students\u00a0 who\u00a0need relevant off-campus work experience as a\u00a0part of their program of study as determined by\u00a0instructor.",
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11924",
+    "campus":null,
+    "class_id":"E3995-20252-001",
+    "course_subtitle":null,
+    "department":"Earth and Environmental Engineering",
+    "department_code":"EAEE",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/EAEE\/E3995-20252-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"1-2",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20252EAEE3995E001",
+    "type":"INDEPENDENT"
+  },
+  {
     "course_code":"EAEE E4999",
     "course_title":"FIELDWORK",
     "course_descr":"Only EAEE graduate students who need relevant off-campus work experience as part of their program of study as determined by the instructor. Written application must be made prior to registration outlining proposed study program. Final reports required. This course may not be taken for pass\/ fail credit or audited. International students must also consult with the International Students and Scholars Office.",
@@ -14718,6 +14744,90 @@
     "scheduled_days":null,
     "section_key":"20252ENGI4250E001",
     "type":"RESEARCH SEM"
+  },
+  {
+    "course_code":"ENGI E4700",
+    "course_title":"Summer Industry Projects",
+    "course_descr":"Enrollment in this course acknowledges the student\u2019s participation in an industry project.\u00a0\n  \nWorking with a mentor (alumni, adjunct faculty, or industry partner) in relevant industry, students will work with a team of 3-5 students on an identified project. The career placement officer can assist in administering the advertisement, selection and recruitment processes.\u00a0 Students can enroll in ENGI E4700 for zero credit, zero fees; students who wish to earn academic credit can enroll in Fieldwork. The specific requirements for the project is defined by the mentor.\u00a0 Groups should meet with their mentor on a weekly basis for at least 30 minutes. Students are also encouraged to submit bi-weekly progress reports to the mentor.\u00a0 Upon completion of the project (end of July\/beginning of August), each team will participate in an industry project showcase to present their project and deliverables. \u00a0Students will receive coaching on presentation skills from the professional development and leadership and the career placement officer teams.",
+    "instructor":"Lucy Mahbub",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11927",
+    "campus":null,
+    "class_id":"E4700-20252-009",
+    "course_subtitle":"Indst Eng and Ops Research",
+    "department":"Engineering",
+    "department_code":"ENGI",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGI\/E4700-20252-009\/",
+    "location":null,
+    "method_of_instruction":"Hybrid 20-79",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+      [
+        "ENGI E4700"
+      ]
+    ],
+    "scheduled_days":null,
+    "section_key":"20252ENGI4700E009",
+    "type":"INTERNSHIP"
+  },
+  {
+    "course_code":"ENGI E4900",
+    "course_title":"Summer Master's Research",
+    "course_descr":"Working with a faculty member and a team of 3-5 graduate or undergraduate students, students will have the opportunity to work on a small research project. Students can enroll ENGI E3900\/4900 for zero credit, zero fees; students who wish to earn academic credit can enroll in the faculty member\u2019s independent research course or Fieldwork.\u00a0Specific requirements for the project are defined by the faculty members.\u00a0 Research groups meet weekly with their faculty member. Students are also encouraged to submit bi-weekly progress reports to the faculty member.\u00a0 Upon completion of the research project (end of July\/beginning of August), each research team will participate in a research symposium to present their research and deliverables. Note: Enrollment in this course acknowledges the student\u2019s participation in research with an Engineering faculty member.",
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11277",
+    "campus":null,
+    "class_id":"E4900-20252-006",
+    "course_subtitle":"Data Science",
+    "department":"Engineering",
+    "department_code":"ENGI",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGI\/E4900-20252-006\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+      [
+        "ENGI E3900"
+      ]
+    ],
+    "scheduled_days":null,
+    "section_key":"20252ENGI4900E006",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"ENGI E4900",
+    "course_title":"Summer Master's Research",
+    "course_descr":"Working with a faculty member and a team of 3-5 graduate or undergraduate students, students will have the opportunity to work on a small research project. Students can enroll ENGI E3900\/4900 for zero credit, zero fees; students who wish to earn academic credit can enroll in the faculty member\u2019s independent research course or Fieldwork.\u00a0Specific requirements for the project are defined by the faculty members.\u00a0 Research groups meet weekly with their faculty member. Students are also encouraged to submit bi-weekly progress reports to the faculty member.\u00a0 Upon completion of the research project (end of July\/beginning of August), each research team will participate in a research symposium to present their research and deliverables. Note: Enrollment in this course acknowledges the student\u2019s participation in research with an Engineering faculty member.",
+    "instructor":"David Fitzgerald",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11926",
+    "campus":null,
+    "class_id":"E4900-20252-009",
+    "course_subtitle":"Indst Eng and Ops Research",
+    "department":"Engineering",
+    "department_code":"ENGI",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGI\/E4900-20252-009\/",
+    "location":null,
+    "method_of_instruction":"Hybrid 20-79",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+      [
+        "ENGI E3900"
+      ]
+    ],
+    "scheduled_days":null,
+    "section_key":"20252ENGI4900E009",
+    "type":"INDEPENDENT"
   },
   {
     "course_code":"ENGI E5000",
@@ -17338,62 +17448,6 @@
     "type":"LECTURE"
   },
   {
-    "course_code":"ERMC PS5390",
-    "course_title":"CREDIT RISK MANAGEMENT",
-    "course_descr":"Credit Risk Management requires business acumen, the monitoring of internal and external data, disciplined execution, and organizational intelligence. A solid understanding of this enables a credit risk manager to help organizations achieve their objectives. Through readings, case studies, and modeling projects, students learn how risk managers decide on credit risk management strategy applied throughout the client lifecycle.",
-    "instructor":"Igor Axenov",
-    "scheduled_time_start":"6:10pm",
-    "scheduled_time_end":"8:00pm",
-    "call_number":"10833",
-    "campus":null,
-    "class_id":"K5390-20252-001",
-    "course_subtitle":null,
-    "department":"Enterprise Risk Management",
-    "department_code":"ERMC",
-    "instructor_wikipedia_link":null,
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ERMC\/K5390-20252-001\/",
-    "location":"To be announced",
-    "method_of_instruction":"In-Person",
-    "open_to":[
-      "Professional Studies"
-    ],
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"M",
-    "section_key":"20252ERMC5390K001",
-    "type":"LECTURE"
-  },
-  {
-    "course_code":"ERMC PS5390",
-    "course_title":"CREDIT RISK MANAGEMENT",
-    "course_descr":"Credit Risk Management requires business acumen, the monitoring of internal and external data, disciplined execution, and organizational intelligence. A solid understanding of this enables a credit risk manager to help organizations achieve their objectives. Through readings, case studies, and modeling projects, students learn how risk managers decide on credit risk management strategy applied throughout the client lifecycle.",
-    "instructor":"Sudeep Arora",
-    "scheduled_time_start":"8:10pm",
-    "scheduled_time_end":"10:00pm",
-    "call_number":"10834",
-    "campus":null,
-    "class_id":"K5390-20252-D02",
-    "course_subtitle":null,
-    "department":"Enterprise Risk Management",
-    "department_code":"ERMC",
-    "instructor_wikipedia_link":null,
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ERMC\/K5390-20252-D02\/",
-    "location":"To be announced",
-    "method_of_instruction":"On-Line Only",
-    "open_to":[
-      "Professional Studies"
-    ],
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"R",
-    "section_key":"20252ERMC5390KD02",
-    "type":"LECTURE"
-  },
-  {
     "course_code":"ERMC PS5410",
     "course_title":"MARKET RISK MANAGEMENT",
     "course_descr":"This course provides the tools to measure and manage market risk in the context of large financial institutions. The volume and complexity of the data itself, at large institutions, makes it a challenge to generate actionable information. We will take on this challenge to master the path from data to decisions.\n  \nWe cover the essential inputs to the engines of financial risk management: VaR, Expected Exposure, Potential Exposure, Expected Shortfall, backtesting, and stress testing as they apply to asset management and trading. We explore the strengths and weaknesses of these different metrics and the tradeoffs between them. We also cover how regulatory frameworks impact both the details and the strategy of building these engines. Lastly, we cover counterparty-credit methodologies, mainly as they apply to Trading Book risk.",
@@ -17728,34 +17782,6 @@
     "type":"LECTURE"
   },
   {
-    "course_code":"ERMC PS5530",
-    "course_title":"DERIVATIVES RISK MANAGEMENT",
-    "course_descr":"This course explores financial derivatives across different asset classes with in-depth analysis of several popular trades including block trades, program trades, vanilla options, digital options, and variance swaps. Their dynamics and risks are explored through Monte Carlo simulation using Excel and Python. The daily decisions and tasks of a frontline risk manager are recreated and students have the opportunity to see which trades they would approve or reject. Students will gain a working knowledge of financial derivatives and acquire technical skills to answer complex questions on the trading floor.",
-    "instructor":"Alberto Scalari",
-    "scheduled_time_start":"6:10pm",
-    "scheduled_time_end":"8:00pm",
-    "call_number":"10849",
-    "campus":null,
-    "class_id":"K5530-20252-001",
-    "course_subtitle":"DERIVATIVES RISK MANAGEME",
-    "department":"Enterprise Risk Management",
-    "department_code":"ERMC",
-    "instructor_wikipedia_link":null,
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ERMC\/K5530-20252-001\/",
-    "location":"To be announced",
-    "method_of_instruction":"In-Person",
-    "open_to":[
-      "Professional Studies"
-    ],
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"M",
-    "section_key":"20252ERMC5530K001",
-    "type":"LECTURE"
-  },
-  {
     "course_code":"ERMC PS5540",
     "course_title":"TOOLS FOR RISK MANAGEMENT",
     "course_descr":"Tools for Risk Management examines how risk technology platforms assess risks. These platforms gather, store, and analyze data; and transform that data to actionable information. This course explores how the platforms are implemented, customized, and evaluated. Topics include business requirements specification, data modeling, risk analytics and reporting, systems integration, regulatory issues, visualization, and change processes. Hands-on exercises using selected vendor tools will give students the opportunity to see what these tools can offer.",
@@ -17781,34 +17807,6 @@
     ],
     "scheduled_days":"R",
     "section_key":"20252ERMC5540K001",
-    "type":"LECTURE"
-  },
-  {
-    "course_code":"ERMC PS5540",
-    "course_title":"TOOLS FOR RISK MANAGEMENT",
-    "course_descr":"Tools for Risk Management examines how risk technology platforms assess risks. These platforms gather, store, and analyze data; and transform that data to actionable information. This course explores how the platforms are implemented, customized, and evaluated. Topics include business requirements specification, data modeling, risk analytics and reporting, systems integration, regulatory issues, visualization, and change processes. Hands-on exercises using selected vendor tools will give students the opportunity to see what these tools can offer.",
-    "instructor":"Viktor Ziskin",
-    "scheduled_time_start":"8:10pm",
-    "scheduled_time_end":"10:00pm",
-    "call_number":"10851",
-    "campus":null,
-    "class_id":"K5540-20252-D02",
-    "course_subtitle":null,
-    "department":"Enterprise Risk Management",
-    "department_code":"ERMC",
-    "instructor_wikipedia_link":null,
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ERMC\/K5540-20252-D02\/",
-    "location":"To be announced",
-    "method_of_instruction":"On-Line Only",
-    "open_to":[
-      "Professional Studies"
-    ],
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"M",
-    "section_key":"20252ERMC5540KD02",
     "type":"LECTURE"
   },
   {
@@ -17977,36 +17975,6 @@
     ],
     "scheduled_days":"R",
     "section_key":"20252ERMC5572K001",
-    "type":"LECTURE"
-  },
-  {
-    "course_code":"ERMC PS5575",
-    "course_title":"THIRD-PARTY RISK MANAGEMENT",
-    "course_descr":"As organizations increasingly rely on external vendors and service providers, managing third-party risks becomes paramount to ensure operational resilience, regulatory compliance, and strategic success. Challenges include:\n  \n  \nThe evolving nature of technology risks.\n  \nThe impact of geopolitical tensions.\n  \nThe lessons learned from disruptive events like pandemics.\n \n  \nBy offering a comprehensive curriculum covering everything from the basics of vendor management to advanced predictive TPRM models and emphasizing regulatory requirements specific to the financial services sector, the course equips professionals with the knowledge and tools needed to navigate the intricate web of third-party relationships.\u00a0\nStudents taking this course are prohibited from taking Supply Chain Risk Management for Non-Financials (ERMC PS5585) at any time. Contact your advisor for more information.",
-    "instructor":"Leslie Weinstein",
-    "scheduled_time_start":"8:10pm",
-    "scheduled_time_end":"10:00pm",
-    "call_number":"10858",
-    "campus":null,
-    "class_id":"K5575-20252-001",
-    "course_subtitle":"THIRD-PARTY RISK MANAGEME",
-    "department":"Enterprise Risk Management",
-    "department_code":"ERMC",
-    "instructor_wikipedia_link":null,
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ERMC\/K5575-20252-001\/",
-    "location":"To be announced",
-    "method_of_instruction":"In-Person",
-    "open_to":[
-      "Professional Studies"
-    ],
-    "points":"3",
-    "prerequisites":[
-      [
-        "ERMC PS5585"
-      ]
-    ],
-    "scheduled_days":"M",
-    "section_key":"20252ERMC5575K001",
     "type":"LECTURE"
   },
   {
@@ -44784,6 +44752,32 @@
     ],
     "scheduled_days":null,
     "section_key":"20252SOCW6030TD42",
+    "type":"FIELD WORK"
+  },
+  {
+    "course_code":"SOCW T6031",
+    "course_title":"Specialized Social Work Practicum",
+    "course_descr":null,
+    "instructor":"Lenisha Sisnett",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11930",
+    "campus":null,
+    "class_id":"T6031-20252-D40",
+    "course_subtitle":"SPECIALIZED SW PRACTICUM",
+    "department":"Social Work",
+    "department_code":"SOCW",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SOCW\/T6031-20252-D40\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20252SOCW6031TD40",
     "type":"FIELD WORK"
   },
   {
