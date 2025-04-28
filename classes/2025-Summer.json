@@ -14110,7 +14110,7 @@
   {
     "course_code":"ELEN E6001",
     "course_title":"ADVANCED PROJECTS",
-    "course_descr":null,
+    "course_descr":"May be repeated for up to 6 points of credit. Graduate-level projects in various areas of electrical engineering and computer science. In consultation with an instructor, each student designs his or her project depending on the students previous training and experience. Students should consult with a professor in their area for detailed arrangements no later than the last day of registration.",
     "instructor":"Zoran Kostic",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -14131,6 +14131,32 @@
     ],
     "scheduled_days":null,
     "section_key":"20252ELEN6001E011",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"ELEN E6001",
+    "course_title":"ADVANCED PROJECTS",
+    "course_descr":null,
+    "instructor":"Mingoo Seok",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11943",
+    "campus":null,
+    "class_id":"E6001-20252-014",
+    "course_subtitle":null,
+    "department":"Electrical Engineering",
+    "department_code":"ELEN",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ELEN\/E6001-20252-014\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"1-4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20252ELEN6001E014",
     "type":"INDEPENDENT"
   },
   {
@@ -24225,6 +24251,62 @@
     "scheduled_days":null,
     "section_key":"20252IEOR3999E001",
     "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"IEOR E4106",
+    "course_title":"STOCHASTIC MODELS",
+    "course_descr":null,
+    "instructor":"Karl Sigman",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11944",
+    "campus":null,
+    "class_id":"E4106-20252-D01",
+    "course_subtitle":null,
+    "department":"Video Network",
+    "department_code":"IEOR",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/IEOR\/E4106-20252-D01\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Engineering:Graduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20252IEOR4106ED01",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"IEOR E4404",
+    "course_title":"SIMULATION",
+    "course_descr":null,
+    "instructor":"Karl Sigman",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11945",
+    "campus":null,
+    "class_id":"E4404-20252-D01",
+    "course_subtitle":null,
+    "department":"Video Network",
+    "department_code":"IEOR",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/IEOR\/E4404-20252-D01\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Engineering:Graduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20252IEOR4404ED01",
+    "type":"LECTURE"
   },
   {
     "course_code":"IEOR E4737",
