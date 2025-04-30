@@ -10553,7 +10553,7 @@
   {
     "course_code":"COMS E6901",
     "course_title":"PROJECTS IN COMPUTER SCIENCE",
-    "course_descr":null,
+    "course_descr":"Software or hardware projects in computer science. Before registering, the student must submit a written proposal to the instructor for review. The proposal should give a brief outline of the project, estimated schedule of completion, and computer resources needed. Oral and written reports are required. May be taken over more than one semester, in which case the grade will be deferred until all 12 points have been completed. No more than 12 points of COMS E6901 may be taken. Consult the department for section assignment.",
     "instructor":"Eleni Drinea",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -10572,7 +10572,9 @@
     ],
     "points":"1-12",
     "prerequisites":[
-
+      [
+        "COMS E6901"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20252COMS6901E017",
