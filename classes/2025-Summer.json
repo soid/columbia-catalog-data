@@ -7844,7 +7844,7 @@
   {
     "course_code":"BUSI B8802",
     "course_title":"Independent Study - 1.5 credit",
-    "course_descr":null,
+    "course_descr":"The Independent Study is available to students who would like to explore a significant research problem related to their professional needs; the nature and extent of this independent study are determined by the student and a faculty sponsor. In certain instances, professional work at an internship or other engagement may be appropriate for academic credit through the Independent Study; this should also be determined with the guidance of a faculty member.For the Independent Study, students are required to meet with the faculty sponsor a minimum of two times: once, for an initial planning discussion, and again in the middle of the semester to confirm that the project is on track. The student must provide written confirmation of this second meeting, signed by the faculty sponsor, to the Office of Student Affairs. Students are expected to commit to the original project plan approved by the faculty sponsor; any change to the topic or scope of the project must be agreed to by the professor prior to the midpoint of the semester. Students who fail to obtain this approval risk not receiving academic credit for the course.The student may register for an independent study only once in a term; the course may be taken for either 1.5 or 3 credits. The independent study is designed to be independent of the classroom experience; it may not be used asa means of adding a seat to a course with a full capacity.No more than six credits of Independent Study will be counted toward the MBA degree. (For dual degree students, the maximum number of independent study credits is 3.) The number of allowable Independent Study credits may be lower if the student has also taken B9002 Field Studies or cross-registered. For details, follow the degree requirements links at the bottom of the screen.Students should bring a completed Independent Study Application form, signed by the faculty sponsor, to the Office of Student Affairs prior to registration for the course.",
     "instructor":"Raymond G Falci",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -7863,7 +7863,9 @@
     ],
     "points":"1.5",
     "prerequisites":[
-
+      [
+        "B9002"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20252BUSI8802B001",
@@ -7872,7 +7874,7 @@
   {
     "course_code":"BUSI B8802",
     "course_title":"Independent Study - 1.5 credit",
-    "course_descr":null,
+    "course_descr":"The Independent Study is available to students who would like to explore a significant research problem related to their professional needs; the nature and extent of this independent study are determined by the student and a faculty sponsor. In certain instances, professional work at an internship or other engagement may be appropriate for academic credit through the Independent Study; this should also be determined with the guidance of a faculty member.For the Independent Study, students are required to meet with the faculty sponsor a minimum of two times: once, for an initial planning discussion, and again in the middle of the semester to confirm that the project is on track. The student must provide written confirmation of this second meeting, signed by the faculty sponsor, to the Office of Student Affairs. Students are expected to commit to the original project plan approved by the faculty sponsor; any change to the topic or scope of the project must be agreed to by the professor prior to the midpoint of the semester. Students who fail to obtain this approval risk not receiving academic credit for the course.The student may register for an independent study only once in a term; the course may be taken for either 1.5 or 3 credits. The independent study is designed to be independent of the classroom experience; it may not be used asa means of adding a seat to a course with a full capacity.No more than six credits of Independent Study will be counted toward the MBA degree. (For dual degree students, the maximum number of independent study credits is 3.) The number of allowable Independent Study credits may be lower if the student has also taken B9002 Field Studies or cross-registered. For details, follow the degree requirements links at the bottom of the screen.Students should bring a completed Independent Study Application form, signed by the faculty sponsor, to the Office of Student Affairs prior to registration for the course.",
     "instructor":"Paul Glasserman",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -7891,7 +7893,9 @@
     ],
     "points":"1.5",
     "prerequisites":[
-
+      [
+        "B9002"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20252BUSI8802B002",
@@ -10545,6 +10549,34 @@
     "scheduled_days":"MTWRF",
     "section_key":"20252COMO0101K001",
     "type":"LECTURE"
+  },
+  {
+    "course_code":"COMS E6901",
+    "course_title":"PROJECTS IN COMPUTER SCIENCE",
+    "course_descr":null,
+    "instructor":"Eleni Drinea",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11970",
+    "campus":null,
+    "class_id":"E6901-20252-017",
+    "course_subtitle":"PROJECTS IN COMPUTER SCIE",
+    "department":"Computer Science",
+    "department_code":"COMS",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMS\/E6901-20252-017\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Engineering:Graduate"
+    ],
+    "points":"1-12",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20252COMS6901E017",
+    "type":"INDEPENDENT"
   },
   {
     "course_code":"COMS E6902",
