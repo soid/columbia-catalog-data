@@ -9938,7 +9938,7 @@
     "course_code":"COMM PS0103",
     "course_title":"Communicating For Effect: Speaking And W",
     "course_descr":"",
-    "instructor":"Wesley Stroud",
+    "instructor":null,
     "scheduled_time_start":"3:10pm",
     "scheduled_time_end":"5:00pm",
     "call_number":"10340",
@@ -22889,7 +22889,7 @@
         "HUMA C1121"
       ]
     ],
-    "scheduled_days":"TR",
+    "scheduled_days":"MW",
     "section_key":"20252HUMA1121S016",
     "type":"LECTURE"
   },
@@ -34251,7 +34251,7 @@
     "course_code":"NURO PS0101",
     "course_title":"Introduction to Neuroscience: Understand",
     "course_descr":"",
-    "instructor":null,
+    "instructor":"David Lipton",
     "scheduled_time_start":"3:10pm",
     "scheduled_time_end":"5:00pm",
     "call_number":"10459",
@@ -34335,7 +34335,7 @@
     "course_code":"NURO PS0101",
     "course_title":"Introduction to Neuroscience: Understand",
     "course_descr":"",
-    "instructor":null,
+    "instructor":"Ayanna Alexander-Street",
     "scheduled_time_start":"3:10pm",
     "scheduled_time_end":"5:00pm",
     "call_number":"10463",
@@ -34357,6 +34357,34 @@
     ],
     "scheduled_days":"MTWRF",
     "section_key":"20252NURO0101N007",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"NURO PS0101",
+    "course_title":"Introduction to Neuroscience: Understand",
+    "course_descr":"",
+    "instructor":null,
+    "scheduled_time_start":"3:10pm",
+    "scheduled_time_end":"5:00pm",
+    "call_number":"10464",
+    "campus":null,
+    "class_id":"N0101-20252-008",
+    "course_subtitle":"Introduction to Neuroscie",
+    "department":"Pre-College Programs (SHSP)",
+    "department_code":"NURO",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURO\/N0101-20252-008\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Pre-College Programs"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MTWRF",
+    "section_key":"20252NURO0101N008",
     "type":"LECTURE"
   },
   {
@@ -40559,7 +40587,7 @@
     "course_code":"PHYS PS0102",
     "course_title":"Weird Science: The World of Quantum Mech",
     "course_descr":"",
-    "instructor":null,
+    "instructor":"Pawan Khatiwada",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"3:00pm",
     "call_number":"10469",
@@ -40643,7 +40671,7 @@
     "course_code":"PHYS PS0104",
     "course_title":"Mathematical Methods in Physics",
     "course_descr":"",
-    "instructor":null,
+    "instructor":"Bart P Rosenzweig",
     "scheduled_time_start":"3:10pm",
     "scheduled_time_end":"5:00pm",
     "call_number":"11684",
