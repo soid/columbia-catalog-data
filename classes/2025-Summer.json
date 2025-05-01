@@ -2087,34 +2087,6 @@
     "course_code":"APAN PS5600",
     "course_title":"STRATEGY AND ANALYTICS",
     "course_descr":"n\/a",
-    "instructor":"Ranjit Kumble",
-    "scheduled_time_start":"8:10pm",
-    "scheduled_time_end":"10:00pm",
-    "call_number":"11110",
-    "campus":null,
-    "class_id":"K5600-20252-002",
-    "course_subtitle":null,
-    "department":"Applied Analytics",
-    "department_code":"APAN",
-    "instructor_wikipedia_link":null,
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/APAN\/K5600-20252-002\/",
-    "location":"To be announced",
-    "method_of_instruction":"In-Person",
-    "open_to":[
-      "Professional Studies"
-    ],
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"M",
-    "section_key":"20252APAN5600K002",
-    "type":"LECTURE"
-  },
-  {
-    "course_code":"APAN PS5600",
-    "course_title":"STRATEGY AND ANALYTICS",
-    "course_descr":"n\/a",
     "instructor":"Lisa Godek",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -2221,62 +2193,6 @@
     ],
     "scheduled_days":"S",
     "section_key":"20252APAN5700K004",
-    "type":"LECTURE"
-  },
-  {
-    "course_code":"APAN PS5800",
-    "course_title":"STORYTELLING WITH DATA AND AI",
-    "course_descr":"Data does not have meaning without context and interpretation. Being able to effectively present data analytics in a compelling narrative to a particular audience will differentiate you from others in your field. This course takes students through the lifecycle of an analytical project from a communication perspective. Students develop written, verbal, and visual deliverables for three major audiences: data experts (e.g., head of analytics); consumer and presentation experts (e.g., chief marketing officer); and executive leadership (e.g., chief executive officer).\n  \nStudents get ample practice in strategic interactions in relevant social and professional contexts (e.g., business meetings, team projects, and one-on-one interactions); active listening; strategic storytelling; and creating persuasive professional spoken and written messages, reports, and presentations. Throughout the course, students create and receive feedback on data storytelling while sharpening their ability to communicate complex analytics to technical and nontechnical audiences with clarity, precision, and influence.",
-    "instructor":"Bum Chul Kwon",
-    "scheduled_time_start":"8:10pm",
-    "scheduled_time_end":"10:00pm",
-    "call_number":"11116",
-    "campus":null,
-    "class_id":"K5800-20252-D01",
-    "course_subtitle":"STORYTELLING WITH DATA ONLINE",
-    "department":"Applied Analytics",
-    "department_code":"APAN",
-    "instructor_wikipedia_link":null,
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/APAN\/K5800-20252-D01\/",
-    "location":"To be announced",
-    "method_of_instruction":"On-Line Only",
-    "open_to":[
-      "Professional Studies"
-    ],
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"W",
-    "section_key":"20252APAN5800KD01",
-    "type":"LECTURE"
-  },
-  {
-    "course_code":"APAN PS5902",
-    "course_title":"DATA SCIENCE CONSULTING",
-    "course_descr":null,
-    "instructor":"David Shilane",
-    "scheduled_time_start":"6:10pm",
-    "scheduled_time_end":"8:00pm",
-    "call_number":"11117",
-    "campus":null,
-    "class_id":"K5902-20252-001",
-    "course_subtitle":null,
-    "department":"Applied Analytics",
-    "department_code":"APAN",
-    "instructor_wikipedia_link":null,
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/APAN\/K5902-20252-001\/",
-    "location":"To be announced",
-    "method_of_instruction":"In-Person",
-    "open_to":[
-      "Professional Studies"
-    ],
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"R",
-    "section_key":"20252APAN5902K001",
     "type":"LECTURE"
   },
   {
@@ -17526,6 +17442,34 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"ENVP IA6115",
+    "course_title":"Climatology",
+    "course_descr":"Students learn how the atmosphere, oceans, and freshwater systems interact to affect climate. Causes of greenhouse warming, energy production and alternatives are studied. A local case study focuses on planning for climate change on inter-annual, decadal, and centennial time scales. A goal of the course is to teach an appreciation of uncertainties and predictability in earth systems.\u00a0 A particular emphasis will be placed on the role of humans over the last centuries, in the perturbation of the natural climate. Students will learn how these perturbations can be characterized and distinguished from natural fluctuations. The course will also examine an integrated view of the Earth\u2019s energy budget, structure and circulation of the atmosphere and the ocean, and the interaction between oceans and atmosphere.",
+    "instructor":"Yutian Wu",
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"12:00pm",
+    "call_number":"11971",
+    "campus":null,
+    "class_id":"U6115-20252-001",
+    "course_subtitle":null,
+    "department":"MPA-ENVIRONMENTAL SCIENCE POL",
+    "department_code":"ENVP",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENVP\/U6115-20252-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"2",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20252ENVP6115U001",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"EPID P8400",
     "course_title":"Principles of Epidemiology III: Applied",
     "course_descr":"The purpose of this course is to provide practical experience in analyzing epidemiologic data.  The goal is to familiarize you with various analytic methods and their uses to answer specific epidemiologic research questions.  Brief reviews of relevant statistical methods, their applications in epidemiologic research and interpretation of results will be covered step by step in this course. You will be provided with several data sets from epidemiologic (case-control and cohort) studies and will be asked to conduct analyses of these data.",
@@ -22945,7 +22889,7 @@
         "HUMA C1121"
       ]
     ],
-    "scheduled_days":"MW",
+    "scheduled_days":"TR",
     "section_key":"20252HUMA1121S016",
     "type":"LECTURE"
   },
