@@ -42624,7 +42624,7 @@
   {
     "course_code":"POLS S3500",
     "course_title":"INDEPENDENT RESEARCH",
-    "course_descr":null,
+    "course_descr":"Prerequisites: POLS V1501 or the equivalent. Admission by application through the Barnard department only. Enrollment limited to 16 students. Barnard syllabus. Comparative political economy course which addresses some important questions concerning corruption and its control: the concept, causes, patterns, consequences, and control of corruption. Introduces students to and engages them in several key social science debates on the causes and effects of political corruption.",
     "instructor":"Bernard E Harcourt",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -42641,7 +42641,9 @@
     "open_to":null,
     "points":"1-6",
     "prerequisites":[
-
+      [
+        "POLS V1501"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20252POLS3500S001",
