@@ -9045,7 +9045,7 @@
   {
     "course_code":"CHEN E9400",
     "course_title":"MASTERS RESEARCH",
-    "course_descr":null,
+    "course_descr":"Prescribed for M.S.\u00a0candidates; elective for others with the approval of the Department. Degree candidates are\u00a0to conduct an investigation of some problem in chemical engineering. No more than 6 points in this course may be counted for graduate credit.",
     "instructor":"Neil D Dolinski",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -15809,8 +15809,8 @@
     "course_title":"ALP INTENSIVE-SUMMER A",
     "course_descr":null,
     "instructor":null,
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"5:00pm",
     "call_number":"10758",
     "campus":null,
     "class_id":"Z0004-20252-001",
@@ -15819,7 +15819,7 @@
     "department_code":"ENGL",
     "instructor_wikipedia_link":null,
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/Z0004-20252-001\/",
-    "location":null,
+    "location":"To be announced",
     "method_of_instruction":"In-Person",
     "open_to":[
       "ALP"
@@ -15828,7 +15828,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"W",
     "section_key":"20252ENGL0004Z001",
     "type":"RESEARCH SEM"
   },
@@ -15837,8 +15837,8 @@
     "course_title":"ALP INTENSIVE-SUMMER A",
     "course_descr":null,
     "instructor":null,
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"5:00pm",
     "call_number":"10759",
     "campus":null,
     "class_id":"Z0004-20252-002",
@@ -15847,7 +15847,7 @@
     "department_code":"ENGL",
     "instructor_wikipedia_link":null,
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/Z0004-20252-002\/",
-    "location":null,
+    "location":"To be announced",
     "method_of_instruction":"In-Person",
     "open_to":[
       "ALP"
@@ -15856,7 +15856,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"W",
     "section_key":"20252ENGL0004Z002",
     "type":"RESEARCH SEM"
   },
@@ -15865,8 +15865,8 @@
     "course_title":"ALP INTENSIVE-SUMMER A",
     "course_descr":null,
     "instructor":null,
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"5:00pm",
     "call_number":"10760",
     "campus":null,
     "class_id":"Z0004-20252-003",
@@ -15875,7 +15875,7 @@
     "department_code":"ENGL",
     "instructor_wikipedia_link":null,
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/Z0004-20252-003\/",
-    "location":null,
+    "location":"To be announced",
     "method_of_instruction":"In-Person",
     "open_to":[
       "ALP"
@@ -15884,7 +15884,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"W",
     "section_key":"20252ENGL0004Z003",
     "type":"RESEARCH SEM"
   },
@@ -31769,6 +31769,58 @@
     "type":"DISCUSSION"
   },
   {
+    "course_code":"MECE E3899",
+    "course_title":"Research Training",
+    "course_descr":"Research training course. Recommended in preparation for laboratory related research.",
+    "instructor":"Matei T Ciocarlie",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12028",
+    "campus":null,
+    "class_id":"E3899-20252-001",
+    "course_subtitle":null,
+    "department":"Mechanical Engineering",
+    "department_code":"MECE",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/MECE\/E3899-20252-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20252MECE3899E001",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"MECE E3899",
+    "course_title":"Research Training",
+    "course_descr":"Research training course. Recommended in preparation for laboratory related research.",
+    "instructor":"Hod Lipson",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12030",
+    "campus":null,
+    "class_id":"E3899-20252-002",
+    "course_subtitle":null,
+    "department":"Mechanical Engineering",
+    "department_code":"MECE",
+    "instructor_wikipedia_link":"https:\/\/en.wikipedia.org\/wiki\/Hod_Lipson",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/MECE\/E3899-20252-002\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20252MECE3899E002",
+    "type":"INDEPENDENT"
+  },
+  {
     "course_code":"MECE E3998",
     "course_title":"PROJECTS IN MECH ENGINEERING",
     "course_descr":"Independent project involving theoretical, computational, experimental, or engineering design work. May be repeated, but no more than 3 points may be counted toward degree requirements. Projects requiring machine-shop use must be approved by the laboratory supervisor. Students must submit both a project outline prior to registration and a final project write-up at the end of the semester.",
@@ -31925,6 +31977,58 @@
     "type":"INDEPENDENT"
   },
   {
+    "course_code":"MECE E3998",
+    "course_title":"PROJECTS IN MECH ENGINEERING",
+    "course_descr":"Independent project involving theoretical, computational, experimental, or engineering design work. May be repeated, but no more than 3 points may be counted toward degree requirements. Projects requiring machine-shop use must be approved by the laboratory supervisor. Students must submit both a project outline prior to registration and a final project write-up at the end of the semester.",
+    "instructor":"Arvind Narayanaswamy",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12032",
+    "campus":null,
+    "class_id":"E3998-20252-001",
+    "course_subtitle":"PROJECTS IN MECH ENGINEER",
+    "department":"Mechanical Engineering",
+    "department_code":"MECE",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/MECE\/E3998-20252-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"1-3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20252MECE3998E001",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"MECE E3998",
+    "course_title":"PROJECTS IN MECH ENGINEERING",
+    "course_descr":"Independent project involving theoretical, computational, experimental, or engineering design work. May be repeated, but no more than 3 points may be counted toward degree requirements. Projects requiring machine-shop use must be approved by the laboratory supervisor. Students must submit both a project outline prior to registration and a final project write-up at the end of the semester.",
+    "instructor":"Jeffrey W Kysar",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12033",
+    "campus":null,
+    "class_id":"E3998-20252-002",
+    "course_subtitle":"PROJECTS IN MECH ENGINEER",
+    "department":"Mechanical Engineering",
+    "department_code":"MECE",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/MECE\/E3998-20252-002\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"1-3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20252MECE3998E002",
+    "type":"INDEPENDENT"
+  },
+  {
     "course_code":"MECE E3999",
     "course_title":"FIELDWORK",
     "course_descr":"May be repeated for credit, but no more than 3 total points may be used toward the 128-credit degree requirement. Only for MECE undergraduate students who include relevant on-campus and off-campus work experience as part of their approved program of study. Final report and letter of evaluation required. Fieldwork credits may not count toward any major core, technical, elective, and nontechnical requirements. May not be taken for pass\/fail credit or audited.",
@@ -31949,6 +32053,58 @@
     "scheduled_days":null,
     "section_key":"20252MECE3999E001",
     "type":"FIELD WORK"
+  },
+  {
+    "course_code":"MECE E4899",
+    "course_title":"Research Training",
+    "course_descr":"Research training course. Recommended in preparation for laboratory related research.",
+    "instructor":"Matei T Ciocarlie",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12029",
+    "campus":null,
+    "class_id":"E4899-20252-001",
+    "course_subtitle":null,
+    "department":"Mechanical Engineering",
+    "department_code":"MECE",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/MECE\/E4899-20252-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20252MECE4899E001",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"MECE E4899",
+    "course_title":"Research Training",
+    "course_descr":"Research training course. Recommended in preparation for laboratory related research.",
+    "instructor":"Hod Lipson",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12031",
+    "campus":null,
+    "class_id":"E4899-20252-002",
+    "course_subtitle":null,
+    "department":"Mechanical Engineering",
+    "department_code":"MECE",
+    "instructor_wikipedia_link":"https:\/\/en.wikipedia.org\/wiki\/Hod_Lipson",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/MECE\/E4899-20252-002\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20252MECE4899E002",
+    "type":"INDEPENDENT"
   },
   {
     "course_code":"MECE E4998",
