@@ -9157,7 +9157,7 @@
   {
     "course_code":"CHEN E9400",
     "course_title":"MASTERS RESEARCH",
-    "course_descr":null,
+    "course_descr":"Prescribed for M.S.\u00a0candidates; elective for others with the approval of the Department. Degree candidates are\u00a0to conduct an investigation of some problem in chemical engineering. No more than 6 points in this course may be counted for graduate credit.",
     "instructor":"Venkat Venkatasubramanian",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -14726,6 +14726,32 @@
     ],
     "scheduled_days":null,
     "section_key":"20252ELEN6001E022",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"ELEN E6001",
+    "course_title":"ADVANCED PROJECTS",
+    "course_descr":"May be repeated for up to 6 points of credit. Graduate-level projects in various areas of electrical engineering and computer science. In consultation with an instructor, each student designs his or her project depending on the students previous training and experience. Students should consult with a professor in their area for detailed arrangements no later than the last day of registration.",
+    "instructor":"Homayoon Beigi",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12050",
+    "campus":null,
+    "class_id":"E6001-20252-036",
+    "course_subtitle":null,
+    "department":"Electrical Engineering",
+    "department_code":"ELEN",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ELEN\/E6001-20252-036\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"1-4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20252ELEN6001E036",
     "type":"INDEPENDENT"
   },
   {
@@ -47645,7 +47671,9 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SOCW\/T7602-20252-001\/",
     "location":"To be announced",
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "Social Work"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -47671,7 +47699,9 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SOCW\/T7603-20252-001\/",
     "location":"To be announced",
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "Social Work"
+    ],
     "points":"3",
     "prerequisites":[
 
