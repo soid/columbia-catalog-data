@@ -1090,6 +1090,32 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"AHMM UN3320",
+    "course_title":"MUSIC IN EAST ASIA",
+    "course_descr":"A topical approach to the concepts and practices of music in relation to other arts in the development of Asian civilizations.",
+    "instructor":"Thomas T Wetmore",
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"12:10pm",
+    "call_number":"12081",
+    "campus":null,
+    "class_id":"V3320-20252-003",
+    "course_subtitle":null,
+    "department":"Summer Session (SUMM)",
+    "department_code":"AHMM",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/AHMM\/V3320-20252-003\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20252AHMM3320V003",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"AHUM S2604",
     "course_title":"ARTS OF CHINA JAPAN KOREA",
     "course_descr":"Introduces distinctive aesthetic traditions of China, Japan, and Korea--their similarities and differences--through an examination of the visual significance of selected works of painting, sculpture, architecture, and other arts in relation to the history, culture, and religions of East Asia.",
@@ -11343,32 +11369,6 @@
     "instructor":null,
     "scheduled_time_start":"5:30pm",
     "scheduled_time_end":"8:40pm",
-    "call_number":"10803",
-    "campus":null,
-    "class_id":"W4995-20252-001",
-    "course_subtitle":"APPLIED CRYPTOGRAPHY",
-    "department":"Computer Science",
-    "department_code":"COMS",
-    "instructor_wikipedia_link":null,
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMS\/W4995-20252-001\/",
-    "location":"To be announced",
-    "method_of_instruction":"In-Person",
-    "open_to":null,
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"MW",
-    "section_key":"20252COMS4995W001",
-    "type":"LECTURE"
-  },
-  {
-    "course_code":"COMS W4995",
-    "course_title":"TOPICS IN COMPUTER SCIENCE",
-    "course_descr":"Selected topics in computer science. Content and prerequisites vary between sections and semesters.\u00a0May be repeated for credit. Check \u201ctopics course\u201d webpage on the department website for more information on each section.",
-    "instructor":null,
-    "scheduled_time_start":"5:30pm",
-    "scheduled_time_end":"8:40pm",
     "call_number":"10804",
     "campus":null,
     "class_id":"W4995-20252-002",
@@ -13707,7 +13707,7 @@
     "course_code":"ECON UN2105",
     "course_title":"THE AMERICAN ECONOMY",
     "course_descr":"Prerequisites: ECON UN1105 The course surveys issues of interest in the American economy, including economic measurement, well-being and income distribution, business cycles and recession, the labor and housing markets, saving and wealth, fiscal policy, banking and finance, and topics in central banking. We study historical issues, institutions, measurement, current performance and recent research.",
-    "instructor":null,
+    "instructor":"Claudia Halbac",
     "scheduled_time_start":"5:00pm",
     "scheduled_time_end":"8:10pm",
     "call_number":"10043",
@@ -18023,9 +18023,457 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":"F",
+    "scheduled_days":"R",
     "section_key":"20252ENVP6220UR01",
     "type":"LECTURE"
+  },
+  {
+    "course_code":"ENVP IA6221",
+    "course_title":"Risk Assessment & Toxicology",
+    "course_descr":"The purpose of this course is to foster an understanding of how environmental scientists think and solve environmental issues, and to develop an expertise in assessing the validity of scientific research and its conclusions. The course explores the effects of contaminants on human health and the health of other living beings within an ecosystem. While toxicologists study a wide variety of toxicants, from naturally occurring poisons (venoms) to synthetic chemicals, this course will emphasize anthropogenic toxicants, and whether and how exposure to these chemicals should be controlled.",
+    "instructor":"Michael P Musso",
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"12:00pm",
+    "call_number":"12065",
+    "campus":null,
+    "class_id":"U6221-20252-001",
+    "course_subtitle":null,
+    "department":"MPA-ENVIRONMENTAL SCIENCE POL",
+    "department_code":"ENVP",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENVP\/U6221-20252-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"2",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20252ENVP6221U001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENVP IA6221",
+    "course_title":"Risk Assessment & Toxicology",
+    "course_descr":"The purpose of this course is to foster an understanding of how environmental scientists think and solve environmental issues, and to develop an expertise in assessing the validity of scientific research and its conclusions. The course explores the effects of contaminants on human health and the health of other living beings within an ecosystem. While toxicologists study a wide variety of toxicants, from naturally occurring poisons (venoms) to synthetic chemicals, this course will emphasize anthropogenic toxicants, and whether and how exposure to these chemicals should be controlled.",
+    "instructor":null,
+    "scheduled_time_start":"1:00pm",
+    "scheduled_time_end":"6:00pm",
+    "call_number":"12066",
+    "campus":null,
+    "class_id":"U6221-20252-R01",
+    "course_subtitle":null,
+    "department":"MPA-ENVIRONMENTAL SCIENCE POL",
+    "department_code":"ENVP",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENVP\/U6221-20252-R01\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20252ENVP6221UR01",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENVP IA6241",
+    "course_title":"Earth Systems and Environmental Policy,",
+    "course_descr":null,
+    "instructor":"Sara Tjossem",
+    "scheduled_time_start":"1:00pm",
+    "scheduled_time_end":"3:00pm",
+    "call_number":"12067",
+    "campus":null,
+    "class_id":"U6241-20252-001",
+    "course_subtitle":"Earth Sys,Envir Pol,Policy Mgt",
+    "department":"MPA-ENVIRONMENTAL SCIENCE POL",
+    "department_code":"ENVP",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENVP\/U6241-20252-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20252ENVP6241U001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENVP IA6246",
+    "course_title":"Analytics in Environmental Science Polic",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"10:00am",
+    "scheduled_time_end":"12:30pm",
+    "call_number":"12068",
+    "campus":null,
+    "class_id":"U6246-20252-001",
+    "course_subtitle":"Analytics in Enviro Sci Policy",
+    "department":"MPA-ENVIRONMENTAL SCIENCE POL",
+    "department_code":"ENVP",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENVP\/U6246-20252-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20252ENVP6246U001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENVP IA6246",
+    "course_title":"Analytics in Environmental Science Polic",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"1:00pm",
+    "scheduled_time_end":"3:30pm",
+    "call_number":"12069",
+    "campus":null,
+    "class_id":"U6246-20252-002",
+    "course_subtitle":"Analytics in Enviro Sci Policy",
+    "department":"MPA-ENVIRONMENTAL SCIENCE POL",
+    "department_code":"ENVP",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENVP\/U6246-20252-002\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20252ENVP6246U002",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENVP IA9229",
+    "course_title":"Workshop in Applied Earth Systems Manage",
+    "course_descr":null,
+    "instructor":"Louise A Rosen",
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"10:50am",
+    "call_number":"12070",
+    "campus":null,
+    "class_id":"U9229-20252-001",
+    "course_subtitle":"Wks in Appld Earth Syst Mgmt I",
+    "department":"MPA-ENVIRONMENTAL SCIENCE POL",
+    "department_code":"ENVP",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENVP\/U9229-20252-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20252ENVP9229U001",
+    "type":"WORKSHOP"
+  },
+  {
+    "course_code":"ENVP IA9229",
+    "course_title":"Workshop in Applied Earth Systems Manage",
+    "course_descr":null,
+    "instructor":"Steven Cohen",
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"10:50am",
+    "call_number":"12071",
+    "campus":null,
+    "class_id":"U9229-20252-002",
+    "course_subtitle":"Wks in Appld Earth Syst Mgmt I",
+    "department":"MPA-ENVIRONMENTAL SCIENCE POL",
+    "department_code":"ENVP",
+    "instructor_wikipedia_link":"https:\/\/en.wikipedia.org\/wiki\/Steven_M._Cohen",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENVP\/U9229-20252-002\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20252ENVP9229U002",
+    "type":"WORKSHOP"
+  },
+  {
+    "course_code":"ENVP IA9229",
+    "course_title":"Workshop in Applied Earth Systems Manage",
+    "course_descr":null,
+    "instructor":"Howard N Apsan",
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"10:50am",
+    "call_number":"12072",
+    "campus":null,
+    "class_id":"U9229-20252-003",
+    "course_subtitle":"Wks in Appld Earth Syst Mgmt I",
+    "department":"MPA-ENVIRONMENTAL SCIENCE POL",
+    "department_code":"ENVP",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENVP\/U9229-20252-003\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20252ENVP9229U003",
+    "type":"WORKSHOP"
+  },
+  {
+    "course_code":"ENVP IA9229",
+    "course_title":"Workshop in Applied Earth Systems Manage",
+    "course_descr":null,
+    "instructor":"Matthew I Palmer",
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"10:50am",
+    "call_number":"12073",
+    "campus":null,
+    "class_id":"U9229-20252-004",
+    "course_subtitle":"Wks in Appld Earth Syst Mgmt I",
+    "department":"MPA-ENVIRONMENTAL SCIENCE POL",
+    "department_code":"ENVP",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENVP\/U9229-20252-004\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20252ENVP9229U004",
+    "type":"WORKSHOP"
+  },
+  {
+    "course_code":"ENVP IA9229",
+    "course_title":"Workshop in Applied Earth Systems Manage",
+    "course_descr":null,
+    "instructor":"Robert A Cook",
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"10:50am",
+    "call_number":"12074",
+    "campus":null,
+    "class_id":"U9229-20252-005",
+    "course_subtitle":"Wks in Appld Earth Syst Mgmt I",
+    "department":"MPA-ENVIRONMENTAL SCIENCE POL",
+    "department_code":"ENVP",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENVP\/U9229-20252-005\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20252ENVP9229U005",
+    "type":"WORKSHOP"
+  },
+  {
+    "course_code":"ENVP IA9229",
+    "course_title":"Workshop in Applied Earth Systems Manage",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"10:50am",
+    "call_number":"12075",
+    "campus":null,
+    "class_id":"U9229-20252-006",
+    "course_subtitle":"Wks in Appld Earth Syst Mgmt I",
+    "department":"MPA-ENVIRONMENTAL SCIENCE POL",
+    "department_code":"ENVP",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENVP\/U9229-20252-006\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20252ENVP9229U006",
+    "type":"WORKSHOP"
+  },
+  {
+    "course_code":"ENVP IA9229",
+    "course_title":"Workshop in Applied Earth Systems Manage",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"6:00pm",
+    "call_number":"12076",
+    "campus":null,
+    "class_id":"U9229-20252-R01",
+    "course_subtitle":"Wks in Appld Earth Syst Mgmt I",
+    "department":"MPA-ENVIRONMENTAL SCIENCE POL",
+    "department_code":"ENVP",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENVP\/U9229-20252-R01\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20252ENVP9229UR01",
+    "type":"WORKSHOP"
+  },
+  {
+    "course_code":"ENVP IA9229",
+    "course_title":"Workshop in Applied Earth Systems Manage",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"6:00pm",
+    "call_number":"12077",
+    "campus":null,
+    "class_id":"U9229-20252-R02",
+    "course_subtitle":"Wks in Appld Earth Syst Mgmt I",
+    "department":"MPA-ENVIRONMENTAL SCIENCE POL",
+    "department_code":"ENVP",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENVP\/U9229-20252-R02\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20252ENVP9229UR02",
+    "type":"WORKSHOP"
+  },
+  {
+    "course_code":"ENVP IA9229",
+    "course_title":"Workshop in Applied Earth Systems Manage",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"6:00pm",
+    "call_number":"12078",
+    "campus":null,
+    "class_id":"U9229-20252-R03",
+    "course_subtitle":"Wks in Appld Earth Syst Mgmt I",
+    "department":"MPA-ENVIRONMENTAL SCIENCE POL",
+    "department_code":"ENVP",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENVP\/U9229-20252-R03\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20252ENVP9229UR03",
+    "type":"WORKSHOP"
+  },
+  {
+    "course_code":"ENVP IA9229",
+    "course_title":"Workshop in Applied Earth Systems Manage",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"6:00pm",
+    "call_number":"12079",
+    "campus":null,
+    "class_id":"U9229-20252-R04",
+    "course_subtitle":"Wks in Appld Earth Syst Mgmt I",
+    "department":"MPA-ENVIRONMENTAL SCIENCE POL",
+    "department_code":"ENVP",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENVP\/U9229-20252-R04\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20252ENVP9229UR04",
+    "type":"WORKSHOP"
+  },
+  {
+    "course_code":"ENVP IA9229",
+    "course_title":"Workshop in Applied Earth Systems Manage",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"6:00pm",
+    "call_number":"12080",
+    "campus":null,
+    "class_id":"U9229-20252-R05",
+    "course_subtitle":"Wks in Appld Earth Syst Mgmt I",
+    "department":"MPA-ENVIRONMENTAL SCIENCE POL",
+    "department_code":"ENVP",
+    "instructor_wikipedia_link":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENVP\/U9229-20252-R05\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20252ENVP9229UR05",
+    "type":"WORKSHOP"
   },
   {
     "course_code":"EPID P8400",
