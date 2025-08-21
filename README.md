@@ -76,5 +76,7 @@ Reading instructors list:
 
 [CUGraph.info](http://cugraph.info) - all Columbia classes visualized as a graph of prerequisites.
 
+[EquiNote](not yet, but soon.info) - Columbia note exchange for its students.
+
 
 If you use this data set in your project, feel free to create a pull request with the link and a description of your project here. 
