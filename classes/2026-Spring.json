@@ -4542,6 +4542,31 @@
     "type":"SEMINAR"
   },
   {
+    "course_code":"COMS BC1016",
+    "course_title":"Introduction to Computational Thinking a",
+    "course_descr":"This course and its co-requisite lab course will introduce students to the methods and tools used in data science to obtain insights from data. Students will learn how to analyze data arising from real-world phenomena while mastering critical concepts and skills in computer programming and statistical inference. The course will involve hands-on analysis of real-world datasets, including economic data, document collections, geographical data, and social networks. The course is ideal for students looking to increase their digital literacy and expand their use and understanding of computation and data analysis across disciplines. No prior programming or college-level math background is required.",
+    "instructor":"Eysa Lee",
+    "scheduled_time_start":"10:15am",
+    "scheduled_time_end":"11:25am",
+    "call_number":"00601",
+    "campus":null,
+    "class_id":"X1016-20261-001",
+    "course_subtitle":"INTRO COMP THINK AND DATA",
+    "department":"Computer Science @Barnard",
+    "department_code":"COMS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMS\/X1016-20261-001\/",
+    "location":"To be announced",
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20261COMS1016X001",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"COMS BC1428",
     "course_title":"WRITING WITH\/ON COMPUTING",
     "course_descr":"Writing with\/on Computing\n is an interdisciplinary course at the intersection of data science, visual arts, and narrative journalism, designed to equip students with the tools to investigate and narrate the impact of technology on marginalized communities. Through project-based learning, students explore how computing influences various social systems, with a particular focus on health, justice, migration, and digital surveillance. Investigations are based in the New York City metro area and result in interactive stories rooted in complex data analysis and visualization. The course fosters both technical training and a deeper understanding of social inequities, promoting a more equitable representation in media. There are no prerequisites for this class.",
@@ -4564,6 +4589,81 @@
     ],
     "scheduled_days":null,
     "section_key":"20261COMS1428X001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"COMS BC3168",
+    "course_title":"DEEP LEARNING FOR COMPUTER GRAPHICS",
+    "course_descr":null,
+    "instructor":"Corey Toler-Franklin",
+    "scheduled_time_start":"11:40am",
+    "scheduled_time_end":"12:55pm",
+    "call_number":"00649",
+    "campus":null,
+    "class_id":"X3168-20261-001",
+    "course_subtitle":"DEEP LEARNING FOR GRAPHIC",
+    "department":"Computer Science @Barnard",
+    "department_code":"COMS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMS\/X3168-20261-001\/",
+    "location":"To be announced",
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20261COMS3168X001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"COMS BC3997",
+    "course_title":"NEW DIRECTIONS IN COMPUTING",
+    "course_descr":null,
+    "instructor":"Lucy Simko",
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"10:50am",
+    "call_number":"00650",
+    "campus":null,
+    "class_id":"X3997-20261-001",
+    "course_subtitle":"BUILDING USABLE SECURITY",
+    "department":"Computer Science @Barnard",
+    "department_code":"COMS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMS\/X3997-20261-001\/",
+    "location":"To be announced",
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"1-3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20261COMS3997X001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"COMS BC3997",
+    "course_title":"NEW DIRECTIONS IN COMPUTING",
+    "course_descr":null,
+    "instructor":"Smaranda Muresan",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"11:25am",
+    "call_number":"00651",
+    "campus":null,
+    "class_id":"X3997-20261-002",
+    "course_subtitle":"LLM FOUNDATIONS & ETHICS",
+    "department":"Computer Science @Barnard",
+    "department_code":"COMS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMS\/X3997-20261-002\/",
+    "location":"To be announced",
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"1-3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20261COMS3997X002",
     "type":"SEMINAR"
   },
   {
