@@ -327,7 +327,7 @@
   {
     "course_code":"AFCV UN1020",
     "course_title":"AFRICAN CIVILIZATION",
-    "course_descr":null,
+    "course_descr":"This course provides a general introduction to some of the key intellectual debates in Africa by Africans through primary sources, including scholarly works, political tracts, fiction, art, and film. Beginning with an exploration of African notions of spiritual and philosophical uniqueness and ending with contemporary debates on the meaning and historical viability of an African Renaissance, this course explores the meanings of \u2018Africa and \u2018being African. Field(s): AFR*. NO FIRST YEAR STUDENTS PERMITTED.",
     "instructor":"Gregory Mann",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -731,7 +731,7 @@
   {
     "course_code":"ANTH BC2012",
     "course_title":"LAB METHODS ARCHAEOLOGY",
-    "course_descr":null,
+    "course_descr":"Only the most recent chapters of the past are able to be studied using traditional historiographical methods focused on archives of textual documents. How, then, are we to analyze the deep history of human experiences prior to the written word? And even when textual archives do survive from a given historical period, these archives are typically biased toward the perspectives of those in power. How, then, are we to undertake analyses of the past that take into account the lives and experiences of all of society\u2019s members, including the poor, the working class, the colonized, and others whose voices appear far less frequently in historical documents? From its disciplinary origins in nineteenth century antiquarianism, archaeology has grown to become a rigorous science of the past, dedicated to the exploration of long-term and inclusive social histories.\n  \n\u201cLaboratory Methods in Archaeology\u201d is an intensive introduction to the analysis of archaeological artifacts and samples in which we explore how the organic and inorganic remains from archaeological sites can be used to build rigorous claims about the human past. The 2022 iteration of the course centers on assemblages from two sites, both excavated by Barnard\u2019s archaeological field program in the Taos region of northern New Mexico: (1) the Spanish colonial site of San Antonio del Embudo founded in 1725 and (2) the hippie commune known as New Buffalo, founded in 1967. Participants in ANTH BC2012 will be introduced to the history, geology, and ecology of the Taos region, as well as to the excavation histories of the two sites. Specialized laboratory modules focus on the analysis of chipped stone artifacts ceramics, animal bone, glass, and industrial artifacts.\n  \nThe course only demands participation in the seminars and laboratory modules and successful completion of the written assignments, but all students are encouraged to develop specialized research projects to be subsequently expanded into either (1) a senior thesis project or (2) a conference presentation at the Society for American Archaeology, Society for Historical Archaeology, or Theoretical Archaeology Group meeting.",
     "instructor":"Severin Fowles",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -747,7 +747,9 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "ANTH BC2012"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20261ANTH2012X001",
@@ -1237,7 +1239,7 @@
   {
     "course_code":"ANTH UN3663",
     "course_title":"The Ancient Table: Archaeology of Cookin",
-    "course_descr":null,
+    "course_descr":"Prerequisites: None Humans don\u2019t just eat to live. The ways we prepare, eat, and share our food is a complex reflection of our histories, environments, and ideologies. Whether we prefer coffee or tea, cornbread or challah, chicken breast or chicken feet, our tastes are expressive of social ties and social boundaries, and are linked to ideas of family and of foreignness. How did eating become such a profoundly cultural experience? This seminar takes an archaeological approach to two broad issues central to eating: First, what drives human food choices both today and in the past? Second, how have social forces shaped practices of food acquisition, preparation, and consumption (and how, in turn, has food shaped society)? We will explore these questions from various evolutionary, physiological, and cultural viewpoints, highlighted by information from the best archaeological and historic case studies. Topics that will be covered include the nature of the first cooking, beer-brewing and feasting, writing of the early recipes, gender roles and \u2018domestic\u2019 life, and how a national cuisine takes shape. Through the course of the semester we will explore food practices from Pleistocene Spain to historic Monticello, with particular emphasis on the earliest cuisines of China, Mesoamerica, and the Mediterranean.",
     "instructor":"Camilla Sturm",
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"2:00pm",
@@ -1287,7 +1289,7 @@
   {
     "course_code":"ANTH UN3828",
     "course_title":"THE ANTHROPOLOGY OF WAR",
-    "course_descr":null,
+    "course_descr":"In this class, we will think about the various ways in which philosophers, social theorists, historians and anthropologists have thought about war, violence, and responsibility. The course focuses on a set of themes and questions: for example, the nature of violence and the question of responsibility or accountability, shifting technologies of warfare, and the phenomenology and aftermath of warfare, for civilians and for combatants. The reading list incorporates different approaches to such questions\u2014from historical to philosophical to ethnographic accounts.",
     "instructor":"Nadia Abu El-Haj",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -4288,7 +4290,7 @@
   {
     "course_code":"CLCV GU4411",
     "course_title":"EGYPT IN THE CLASSICAL WORLD",
-    "course_descr":null,
+    "course_descr":"This class traces Egypt's evolving integration into the Classical World from the Saite Dynasty (c. 685 BCE) to the suppression of paganism by the Coptic church. We'll pay close attention to the flashpoints that created conflicts between pagan Egyptians, Greeks, Jews, and Christians and also to integrative aspects of society.",
     "instructor":"Ellen Morris",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -4336,9 +4338,34 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"CLST UN3037",
+    "course_title":"Writing and Power in the Roman Empire",
+    "course_descr":null,
+    "instructor":"Susan Rahyab",
+    "scheduled_time_start":"11:10am",
+    "scheduled_time_end":"1:00pm",
+    "call_number":"10739",
+    "campus":null,
+    "class_id":"W3037-20261-001",
+    "course_subtitle":"Writing & Power Roman Emp",
+    "department":"Classical Studies",
+    "department_code":"CLST",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CLST\/W3037-20261-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20261CLST3037W001",
+    "type":"SEMINAR"
+  },
+  {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Joseph Schittone",
     "scheduled_time_start":"8:10am",
     "scheduled_time_end":"12:00pm",
@@ -4366,7 +4393,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Zehra Mehdi",
     "scheduled_time_start":"8:10am",
     "scheduled_time_end":"10:00am",
@@ -4394,7 +4421,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Noah B Strote",
     "scheduled_time_start":"8:10am",
     "scheduled_time_end":"10:00am",
@@ -4422,7 +4449,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Michael F Stanislawski",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -4450,7 +4477,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Madeleine Dobie",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -4478,7 +4505,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Isaac J Stethem",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -4506,7 +4533,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"James Stafford",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -4534,7 +4561,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Jonathan Peterson",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -4562,7 +4589,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Jesse W Izzo",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -4590,7 +4617,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Matthew J Connelly",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -4618,7 +4645,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Timothy Williamson",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -4646,7 +4673,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Lam Hui",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -4674,7 +4701,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Natalia R Alexander",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -4702,7 +4729,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Zehra Mehdi",
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"2:00pm",
@@ -4730,7 +4757,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Natalia R Alexander",
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"2:00pm",
@@ -4758,7 +4785,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Anthony E Garruzzo",
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"2:00pm",
@@ -4786,7 +4813,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Angela M Giordani",
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"2:00pm",
@@ -4814,7 +4841,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Isaac J Stethem",
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"2:00pm",
@@ -4842,7 +4869,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Noah B Strote",
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"2:00pm",
@@ -4870,7 +4897,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Liam Dee",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -4898,7 +4925,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Jennifer McDonald",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -4926,7 +4953,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Gil Anidjar",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -4954,7 +4981,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Nader H Atassi",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -4982,7 +5009,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Jesse W Izzo",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -5010,7 +5037,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Andrew J Nathan",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -5038,7 +5065,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Daniel Luban",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -5066,7 +5093,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Liam Dee",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -5094,7 +5121,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Richard John",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -5122,7 +5149,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Dennis Tenen",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -5150,7 +5177,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Anthony E Garruzzo",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -5178,7 +5205,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Branka Arsic",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -5206,7 +5233,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Nader H Atassi",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -5234,7 +5261,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Ruairidh J Macleod",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -5262,7 +5289,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Jennifer McDonald",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -5290,7 +5317,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Kyle Baasch",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -5318,7 +5345,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Luke S Macinnis",
     "scheduled_time_start":"8:10am",
     "scheduled_time_end":"10:00am",
@@ -5346,7 +5373,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Samuel E Abrams",
     "scheduled_time_start":"8:10am",
     "scheduled_time_end":"10:00am",
@@ -5374,7 +5401,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Joseph Schittone",
     "scheduled_time_start":"8:10am",
     "scheduled_time_end":"10:00am",
@@ -5402,7 +5429,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Matthew Engelke",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -5430,7 +5457,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Christopher T Hoffman",
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"2:00pm",
@@ -5458,7 +5485,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Jesse A Chevan",
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"2:00pm",
@@ -5486,7 +5513,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Ali Karjoo-Ravary",
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"2:00pm",
@@ -5514,7 +5541,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Neslihan Senocak",
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"2:00pm",
@@ -5542,7 +5569,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Margaret Scarborough",
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"2:00pm",
@@ -5570,7 +5597,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Jeronimo Duarte Riascos",
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"2:00pm",
@@ -5598,7 +5625,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Clara Maier",
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"2:00pm",
@@ -5626,7 +5653,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Mana Kia",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -5654,7 +5681,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Amnah Almukhtar",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -5682,7 +5709,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Prashant Iyengar",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -5710,7 +5737,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Shaunna Rodrigues",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -5738,7 +5765,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Charly J Coleman",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -5766,7 +5793,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Jonathon S Kahn",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -5794,7 +5821,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Karuna Mantena",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -5822,7 +5849,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Richard A Billows",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -5850,7 +5877,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Christopher T Hoffman",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -5878,7 +5905,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Ethan Jacobs",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -5906,7 +5933,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Prashant Iyengar",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -5934,7 +5961,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Shaunna Rodrigues",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -5962,7 +5989,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Nathaniel Berman",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -5990,7 +6017,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Margaret Scarborough",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -6018,7 +6045,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Amnah Almukhtar",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -6046,7 +6073,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Ethan Jacobs",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -6074,7 +6101,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Kyle Baasch",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -6152,7 +6179,7 @@
   {
     "course_code":"COGS UN3902",
     "course_title":"Senior Project Seminar",
-    "course_descr":null,
+    "course_descr":"Discussion of senior research projects during the fall and spring terms\u00a0that culminate in written and oral senior theses. Each project must be supervised by a cognitive scientist working at Barnard or Columbia.",
     "instructor":"John Morrison",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -7974,7 +8001,7 @@
     "course_code":"DNCE BC3605",
     "course_title":"REHEARSAL&PERFRMNCE IN DANCE",
     "course_descr":"Prerequisites: Audition. Do not register for this course until you have been selected at the audition. Subject to cap on studio credit. Can be taken more than once for credit up to a maximum of 3 credits a semester. Students are graded and take part in the full production of a dance as performers, choreographers, designers, or stage technicians.",
-    "instructor":null,
+    "instructor":"Jean-Paul Bjorlin",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"9:00pm",
     "call_number":"00573",
@@ -7999,7 +8026,7 @@
     "course_code":"DNCE BC3605",
     "course_title":"REHEARSAL&PERFRMNCE IN DANCE",
     "course_descr":"Prerequisites: Audition. Do not register for this course until you have been selected at the audition. Subject to cap on studio credit. Can be taken more than once for credit up to a maximum of 3 credits a semester. Students are graded and take part in the full production of a dance as performers, choreographers, designers, or stage technicians.",
-    "instructor":null,
+    "instructor":"Ehizoje J Azeke",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"9:00pm",
     "call_number":"00574",
@@ -8309,7 +8336,7 @@
   {
     "course_code":"DTCH UN1102",
     "course_title":"ELEMENTARY DUTCH II",
-    "course_descr":null,
+    "course_descr":"Fundamentals of grammar, reading, speaking, and comprehension of the spoken language. During the spring term supplementary reading is selected according to students needs.",
     "instructor":"Wijnie de Groot",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -8334,7 +8361,7 @@
   {
     "course_code":"DTCH UN1102",
     "course_title":"ELEMENTARY DUTCH II",
-    "course_descr":null,
+    "course_descr":"Fundamentals of grammar, reading, speaking, and comprehension of the spoken language. During the spring term supplementary reading is selected according to students needs.",
     "instructor":"Ben de Witte de Witte",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -8359,7 +8386,7 @@
   {
     "course_code":"DTCH UN2102",
     "course_title":"INTERMEDIATE DUTCH II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: DTCH UN1101-UN1102 or the equivalent. Continued practice in the four skills (aural comprehension, reading, speaking, and writing); review and refinement of basic grammar; vocabulary building. Readings in Dutch literature.",
     "instructor":"Wijnie de Groot",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -8375,7 +8402,12 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "DTCH UN1101"
+      ],
+      [
+        "UN1102"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20261DTCH2102W001",
@@ -8384,7 +8416,7 @@
   {
     "course_code":"DTCH UN2102",
     "course_title":"INTERMEDIATE DUTCH II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: DTCH UN1101-UN1102 or the equivalent. Continued practice in the four skills (aural comprehension, reading, speaking, and writing); review and refinement of basic grammar; vocabulary building. Readings in Dutch literature.",
     "instructor":"Nicolette Dekens",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -8400,7 +8432,12 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "DTCH UN1101"
+      ],
+      [
+        "UN1102"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20261DTCH2102W002",
@@ -8409,7 +8446,7 @@
   {
     "course_code":"DTCH UN3102",
     "course_title":"ADVANCED DUTCH II",
-    "course_descr":null,
+    "course_descr":"see department for details",
     "instructor":"Wijnie de Groot",
     "scheduled_time_start":"1:15pm",
     "scheduled_time_end":"2:30pm",
@@ -8951,7 +8988,7 @@
   {
     "course_code":"DVPR IA7120",
     "course_title":"Emerging Digital Tech for Impact",
-    "course_descr":null,
+    "course_descr":"This course examines the promises and complexities of emerging digital technologies\u2014Artificial Intelligence, Generative AI, Blockchain, and the Internet of Things (IoT)\u2014in advancing sustainable development. Designed for development practitioners and policymakers, it provides a practical framework to assess how these tools can be responsibly scaled to generate positive social and environmental impact.\n  \nThrough critical readings, expert guest speakers, and applied case studies, students will analyze both historical lessons and current implementation challenges. The course emphasizes the importance of infrastructure, ecosystem readiness, ethical design, and inclusive access, especially in under-resourced settings. Topics include digital equity, environmental sustainability, and the enabling conditions for scaling innovation.",
     "instructor":"Mariela J Machado",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -10074,7 +10111,7 @@
     "course_code":"ENGL BC3108",
     "course_title":"INTRODUCTION TO FICTION WRITING",
     "course_descr":"Writing sample required to apply. Instructions and the application form can be found here:\u00a0\nhttps:\/\/english.barnard.edu\/english\/creative-writing-courses\n. In this course, we will learn and practice essential concepts and techniques of writing fiction. We\u2019ll break down the elements of the craft\u2014everything from character, setting, and pacing to point of view, syntax, and imagery\u2013\u2013and we\u2019ll build an understanding of how stories work. Class time will include exercises and prompts; close reading of a wide range of published stories; discussions of process; and workshops of student stories. Come prepared to work hard, be open, and take risks.",
-    "instructor":"Cleyvis Natera",
+    "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"00097",
@@ -10098,7 +10135,7 @@
   {
     "course_code":"ENGL BC3110",
     "course_title":"INTRODUCTION TO POETRY WRITING",
-    "course_descr":"Writing sample required to apply. Instructions and the application form can be found here: \nhttps:\/\/english.barnard.edu\/english\/creative-writing-courses\n.\n  \nSection 1 (taught by Brionne Janae):\n Updated course description forthcoming\n  \nSection 2 (taught by Farnoosh Fathi):\n\u00a0 \u201cIn the beginner\u2019s mind, possibilities are many, in the expert\u2019s mind, there are few.\u201d \u2014 Shunryu Suzuki, Zen Mind, Beginner\u2019s Mind\n  \nIn this introductory poetry writing workshop, we will cultivate an ardently playful approach to writing, one committed to honoring \u201cbeginner\u2019s mind.\u201d Embarrassment, error and amateurism will be embraced as values and fertile grounds (rather than obstructions) for writing.\n  \nTogether we will explore poetry writing as the pursuit and \u00a0expression of a liberatory language\u2013the language of our highest attention and freedom\u2013 shared \u00a0between reader and writer.\n  \nIn addition to workshops, we will alternate between classes centered on formal and thematic \u00a0studies with others focussed on contemplative practices and the writing process. Formal and revisionary explorations will be guided by the experiments of Bernadette Mayer, Inger Christensen, Dadaists and the Oulipo; by generative varieties of translation as practiced by M\u00f3nica de la Torre and Sawako Nagasaku\u2013homophonic and self-translation; the role of inside jokes and an innocent attention to our environment, inspired by Gertrude Stein and Wadih Saadeh.\n  \nDrawing on teachings by Corita Kent, art exercises by Kim Beom and Zen Buddhist rituals we will learn contemplative practices that help us create, combine and \u00a0consider our attention in order to see how receptive, open, beginner\u2019s mind effort, rather than forced determination toward a particular outcome, underpins our deepest work in writing.",
+    "course_descr":"Writing sample required to apply. Instructions and the application form can be found here: \nhttps:\/\/english.barnard.edu\/english\/creative-writing-courses\n.\n  \nSpring 2026: Poetry Belongs With Us\n  \nAs legend Lucille Clifton said, \u201cpoetry began when somebody walked out of a cave and looked up at the sky with wonder and said, \u201cAhhh.\u201d That was the first poem.\u201d In this class we will be demystifying the fundamentals of writing poetry by sharpening our most natural sonic and narrative instincts. We will use these instincts to guide our insights as we explore and practice specific craft elements and structural gestures\u2014from the Ode, Elegy, and Sonnet, to Ekphrasis and Erasure. We\u2019ll study the work of contemporary luminaries like Gwendolyn Brooks, Kaveh Akbar, Sharon Olds, Jenny Xie, June Jordan, Ocean Vuong, and more; using their example to inspire us on how best to understand and command the poetic line. Class time will include weekly writing prompts and share-outs, and each student will have one poem workshopped during the semester. And because there is no better way to understand the impact and power of poetry than to learn from its living practitioners, we will also have the pleasure of welcoming a few guest authors who will share their work and answer questions! Come prepared to take risks and foster curiosity.",
     "instructor":"Angel Nafis",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -10123,7 +10160,7 @@
   {
     "course_code":"ENGL BC3110",
     "course_title":"INTRODUCTION TO POETRY WRITING",
-    "course_descr":null,
+    "course_descr":"Writing sample required to apply. Instructions and the application form can be found here: \nhttps:\/\/english.barnard.edu\/english\/creative-writing-courses\n.\n  \nSpring 2026: Poetry Belongs With Us\n  \nAs legend Lucille Clifton said, \u201cpoetry began when somebody walked out of a cave and looked up at the sky with wonder and said, \u201cAhhh.\u201d That was the first poem.\u201d In this class we will be demystifying the fundamentals of writing poetry by sharpening our most natural sonic and narrative instincts. We will use these instincts to guide our insights as we explore and practice specific craft elements and structural gestures\u2014from the Ode, Elegy, and Sonnet, to Ekphrasis and Erasure. We\u2019ll study the work of contemporary luminaries like Gwendolyn Brooks, Kaveh Akbar, Sharon Olds, Jenny Xie, June Jordan, Ocean Vuong, and more; using their example to inspire us on how best to understand and command the poetic line. Class time will include weekly writing prompts and share-outs, and each student will have one poem workshopped during the semester. And because there is no better way to understand the impact and power of poetry than to learn from its living practitioners, we will also have the pleasure of welcoming a few guest authors who will share their work and answer questions! Come prepared to take risks and foster curiosity.",
     "instructor":"Miranda Field",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -10175,7 +10212,7 @@
   {
     "course_code":"ENGL BC3116",
     "course_title":"STORY WRITING II",
-    "course_descr":"Writing sample required to apply. Instructions and the application form can be found here:\u00a0\nhttps:\/\/english.barnard.edu\/english\/creative-writing-courses\n. Advanced workshop in writing, with emphasis on the short story. Some experience in the writing of fiction required. Conference hours to be arranged.",
+    "course_descr":"Writing sample required to apply. Instructions and the application form can be found here:\u00a0\nhttps:\/\/english.barnard.edu\/english\/creative-writing-courses\n.\u00a0\n  \nSpring 2026\nStory Writing II is an advanced workshop in writing, with emphasis on the short story. Some experience in the writing of fiction is required. Each week we will read and analyze a variety of published short stories with an eye for craft and authorial decisions that might be applied to our own work. Writers we will read may include: Jean Stafford, Yiyun Li, Bryan Washington, Garth Greenwell, Lorrie Moore, Jamel Brinkley, Ling Ma, Cesar Aira, Mavis Gallant, and more. Exercises and in-depth workshop letters will push students to think more deeply about their own choices and the many layers that make up each work. Conference hours to be arranged.",
     "instructor":"Nellie G Hermann",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -10200,7 +10237,7 @@
   {
     "course_code":"ENGL BC3117",
     "course_title":"FICTION WRITING",
-    "course_descr":"Writing sample required to apply. Instructions and the application form can be found here: \nhttps:\/\/english.barnard.edu\/english\/creative-writing-courses\n.\u00a0\n  \nSection 1 (taught by Weike Wang):\n\u00a0\nFlash Fiction Workshop.\u00a0\nThis course is an intensive writing workshop focused on the art of flash fiction\u2014stories told in under 1,500 words. The workshop will emphasize experimentation, encouraging students to push the boundaries of traditional storytelling by playing with form, language, and perspective. Readings will include works originally written in English as well as those in translation, offering a broad view of global approaches to flash fiction. Discussions will cover the mechanics of storytelling on a compressed scale, including structure, character development, point of view, dialogue, and style. Authors will include Cheever, Couto, Hempel, Davis, and Wang, and through these readings, students will explore the structural possibilities of the short form, the role of voice, and the ways in which brevity can intensify narrative impact. The class will examine how compression, omission, and implication create resonance in fiction.Each student will write and workshop three original short pieces, receiving detailed feedback from peers and the instructor. The goal is to develop a keen sense of how the economy of language can create depth and complexity in fiction.\n  \nSection 2 (taught by Idra Novey):\n\u00a0\nOld Wolves and New Grandmothers.\u00a0\nOnce upon a time there was a fiction workshop and each student in the workshop conjured a new role for the animal in their grandmother\u2019s bed. In this workshop, we\u2019ll experiment with how the tone and iconic figures of fairy tales may provide a way into a new work of fiction, though not necessarily a way out. We\u2019ll talk about myriad ways to subvert the expected meaning of the wolf and the wicked in our own time, and what new subtexts may be lurking in the shared stories we reconsider at different points in our lives. \u201cYou shift time and location to see what holds true, and why or why not,\u201d novelist Helen Oyeyemi says of the allure of fairy tales as a place of departure for a new work of fiction. We\u2019ll discuss work from writers drawn to subvert and repurpose fairy tales, including Helen Oyeyemi, Barbara Comyns, and Cristina Rivera Garza.",
+    "course_descr":"Writing sample required to apply. Instructions and the application form can be found here: \nhttps:\/\/english.barnard.edu\/english\/creative-writing-courses\n.\u00a0\n  \nSection 1 (taught by Sarah Wang in Spring 2026):\n\u00a0Full course description forthcoming\n  \nSection 2 (taught by Gina Apostol in Spring 2026):\n\u00a0\nThis\u00a0course\u00a0will focus particularly on crafting the literary technique of point of view in fiction. Students will craft work with this question in mind: in what ways are art and ethics combined in the crafting of point of view? Students will practice writing from different narration modes: third person limited and omniscient, free indirect discourse, first person, and so on. They will consider the ethics of point of view by reading short stories, among them stories from Borges\u2019s\u00a0\nLabyrinths\n, John Keene\u2019s\u00a0\nCounternarratives\n, and Angela Carter\u2019s\u00a0\nSaints and Strangers.\n\u00a0Some theoretical matters will include: postcoloniality in narration; identity in narration; \u2018queering\u2019 history; and critical race thought. Students will write three different pieces with the crafting of point of view in mind. Students will workshop each other\u2019s pieces as well as discuss the texts in relation to their practice of the art of fiction.",
     "instructor":"Sarah Wang",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -10225,7 +10262,7 @@
   {
     "course_code":"ENGL BC3117",
     "course_title":"FICTION WRITING",
-    "course_descr":"Writing sample required to apply. Instructions and the application form can be found here: \nhttps:\/\/english.barnard.edu\/english\/creative-writing-courses\n.\u00a0\n  \nSection 1 (taught by Weike Wang):\n\u00a0\nFlash Fiction Workshop.\u00a0\nThis course is an intensive writing workshop focused on the art of flash fiction\u2014stories told in under 1,500 words. The workshop will emphasize experimentation, encouraging students to push the boundaries of traditional storytelling by playing with form, language, and perspective. Readings will include works originally written in English as well as those in translation, offering a broad view of global approaches to flash fiction. Discussions will cover the mechanics of storytelling on a compressed scale, including structure, character development, point of view, dialogue, and style. Authors will include Cheever, Couto, Hempel, Davis, and Wang, and through these readings, students will explore the structural possibilities of the short form, the role of voice, and the ways in which brevity can intensify narrative impact. The class will examine how compression, omission, and implication create resonance in fiction.Each student will write and workshop three original short pieces, receiving detailed feedback from peers and the instructor. The goal is to develop a keen sense of how the economy of language can create depth and complexity in fiction.\n  \nSection 2 (taught by Idra Novey):\n\u00a0\nOld Wolves and New Grandmothers.\u00a0\nOnce upon a time there was a fiction workshop and each student in the workshop conjured a new role for the animal in their grandmother\u2019s bed. In this workshop, we\u2019ll experiment with how the tone and iconic figures of fairy tales may provide a way into a new work of fiction, though not necessarily a way out. We\u2019ll talk about myriad ways to subvert the expected meaning of the wolf and the wicked in our own time, and what new subtexts may be lurking in the shared stories we reconsider at different points in our lives. \u201cYou shift time and location to see what holds true, and why or why not,\u201d novelist Helen Oyeyemi says of the allure of fairy tales as a place of departure for a new work of fiction. We\u2019ll discuss work from writers drawn to subvert and repurpose fairy tales, including Helen Oyeyemi, Barbara Comyns, and Cristina Rivera Garza.",
+    "course_descr":"Writing sample required to apply. Instructions and the application form can be found here: \nhttps:\/\/english.barnard.edu\/english\/creative-writing-courses\n.\u00a0\n  \nSection 1 (taught by Sarah Wang in Spring 2026):\n\u00a0Full course description forthcoming\n  \nSection 2 (taught by Gina Apostol in Spring 2026):\n\u00a0\nThis\u00a0course\u00a0will focus particularly on crafting the literary technique of point of view in fiction. Students will craft work with this question in mind: in what ways are art and ethics combined in the crafting of point of view? Students will practice writing from different narration modes: third person limited and omniscient, free indirect discourse, first person, and so on. They will consider the ethics of point of view by reading short stories, among them stories from Borges\u2019s\u00a0\nLabyrinths\n, John Keene\u2019s\u00a0\nCounternarratives\n, and Angela Carter\u2019s\u00a0\nSaints and Strangers.\n\u00a0Some theoretical matters will include: postcoloniality in narration; identity in narration; \u2018queering\u2019 history; and critical race thought. Students will write three different pieces with the crafting of point of view in mind. Students will workshop each other\u2019s pieces as well as discuss the texts in relation to their practice of the art of fiction.",
     "instructor":"Gina Apostol",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -12672,7 +12709,7 @@
   {
     "course_code":"FYWB BC1001",
     "course_title":"FIRST-YEAR WRITING AT BARNARD",
-    "course_descr":null,
+    "course_descr":"First-Year Writing (FYW) courses invite students into the vibrant scholarly life of the college. Working in small, discussion-based seminar classes over the course of one semester, we read challenging literary texts and critical scholarship, helping students to develop fundamental skills in analysis and academic writing that allow them to take their place in vitally important scholarly conversations. Students may choose from a variety of special topics\u00a0that focus\u00a0on a particular literary tradition, theme, or phenomenon. Please see\u00a0https:\/\/firstyear.barnard.edu\/fyw\/course-listings for full course descriptions.",
     "instructor":"Michael Shelichach",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"7:25pm",
@@ -13301,7 +13338,7 @@
   {
     "course_code":"HRTS BC3935",
     "course_title":"Power, Politics, and Procedure in US Imm",
-    "course_descr":null,
+    "course_descr":"Immigration court has been described as akin to trying death penalty cases in traffic court. With a backlog of over two million cases and counting, judges have impossibly full dockets, cases get continued at the last minute, and many people are left to their own devices to try to make sense of what their options might be to stay in the United States. A key part of this confusion is because immigration court \u2013 though the stakes of decisions are as high as can be \u2013 is civil, not criminal. Given this, individuals are not guaranteed the right to a court appointed attorney. New York City, however, has been on the forefront of trying to remedy at least this part of the equation, piloting a unique program to guarantee representation to New Yorkers facing removal proceedings. While having access to an attorney can make a meaningful difference, immigration judges still enjoy wide discretion in how they decide a given case.\n  \nThe core idea of this course is that there is a real utility to observing immigration court, both for research and for contributing to social change. \u00a0This course will center around a practice of court watching in immigration court in order to develop a scholarly analysis of systems, institutions, and the functioning (or not) of the law. At the same time, this court watching practice will also involve the systematic collection of qualitative data that may be directly useful to immigration attorneys and their clients in their perpetual effort to hold immigration courts accountable and create as fair as possible of a playing field that upholds the basic principles of human rights. To that end, in this class we will study how to conduct courtroom observations, drawing from different methodological approaches and findings, study the idea, history, and critiques of immigration law from across disciplines, and conduct extensive, in depth, immigration court watching. We will partner with local legal services organizations in order to sharpen our sense of what kinds of data is useful for their specific legal interventions and to ensure that the data that we do collect and interpret can become part of a larger project to hold courts accountable.\n  \nThis course will offer students a unique opportunity to see how rigorous social science research and analysis can have real impacts in the world beyond the classroom, and how those two realms, through collaboration, can mutually contribute to advancing social change. They will learn first-hand how the careful application of qualitative",
     "instructor":"Jennifer Trowbridge",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -13347,6 +13384,1406 @@
     "scheduled_days":null,
     "section_key":"20261HRTS3934V001",
     "type":"SEMINAR"
+  },
+  {
+    "course_code":"HUMA CC1002",
+    "course_title":"Literature Humanities II",
+    "course_descr":null,
+    "instructor":"Adrian A Guo-Silver",
+    "scheduled_time_start":"8:10am",
+    "scheduled_time_end":"10:00am",
+    "call_number":"10689",
+    "campus":null,
+    "class_id":"C1002-20261-001",
+    "course_subtitle":null,
+    "department":"Core (A&S)",
+    "department_code":"HUMA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HUMA\/C1002-20261-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20261HUMA1002C001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"HUMA CC1002",
+    "course_title":"Literature Humanities II",
+    "course_descr":null,
+    "instructor":"Ben Hooyman",
+    "scheduled_time_start":"8:10am",
+    "scheduled_time_end":"10:00am",
+    "call_number":"10690",
+    "campus":null,
+    "class_id":"C1002-20261-002",
+    "course_subtitle":null,
+    "department":"Core (A&S)",
+    "department_code":"HUMA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HUMA\/C1002-20261-002\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20261HUMA1002C002",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"HUMA CC1002",
+    "course_title":"Literature Humanities II",
+    "course_descr":null,
+    "instructor":"Emma E Hitchcock",
+    "scheduled_time_start":"8:10am",
+    "scheduled_time_end":"10:00am",
+    "call_number":"10691",
+    "campus":null,
+    "class_id":"C1002-20261-003",
+    "course_subtitle":null,
+    "department":"Core (A&S)",
+    "department_code":"HUMA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HUMA\/C1002-20261-003\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20261HUMA1002C003",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"HUMA CC1002",
+    "course_title":"Literature Humanities II",
+    "course_descr":null,
+    "instructor":"Jenny Rhodes",
+    "scheduled_time_start":"8:10am",
+    "scheduled_time_end":"10:00am",
+    "call_number":"10692",
+    "campus":null,
+    "class_id":"C1002-20261-004",
+    "course_subtitle":null,
+    "department":"Core (A&S)",
+    "department_code":"HUMA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HUMA\/C1002-20261-004\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20261HUMA1002C004",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"HUMA CC1002",
+    "course_title":"Literature Humanities II",
+    "course_descr":null,
+    "instructor":"Alex Pekov",
+    "scheduled_time_start":"12:10pm",
+    "scheduled_time_end":"2:00pm",
+    "call_number":"10693",
+    "campus":null,
+    "class_id":"C1002-20261-005",
+    "course_subtitle":null,
+    "department":"Core (A&S)",
+    "department_code":"HUMA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HUMA\/C1002-20261-005\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20261HUMA1002C005",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"HUMA CC1002",
+    "course_title":"Literature Humanities II",
+    "course_descr":null,
+    "instructor":"Ben Hooyman",
+    "scheduled_time_start":"12:10pm",
+    "scheduled_time_end":"2:00pm",
+    "call_number":"10694",
+    "campus":null,
+    "class_id":"C1002-20261-006",
+    "course_subtitle":null,
+    "department":"Core (A&S)",
+    "department_code":"HUMA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HUMA\/C1002-20261-006\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20261HUMA1002C006",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"HUMA CC1002",
+    "course_title":"Literature Humanities II",
+    "course_descr":null,
+    "instructor":"Naomi Michalowicz",
+    "scheduled_time_start":"12:10pm",
+    "scheduled_time_end":"2:00pm",
+    "call_number":"10695",
+    "campus":null,
+    "class_id":"C1002-20261-007",
+    "course_subtitle":null,
+    "department":"Core (A&S)",
+    "department_code":"HUMA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HUMA\/C1002-20261-007\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20261HUMA1002C007",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"HUMA CC1002",
+    "course_title":"Literature Humanities II",
+    "course_descr":null,
+    "instructor":"Anna Borgarello",
+    "scheduled_time_start":"12:10pm",
+    "scheduled_time_end":"2:00pm",
+    "call_number":"10696",
+    "campus":null,
+    "class_id":"C1002-20261-008",
+    "course_subtitle":null,
+    "department":"Core (A&S)",
+    "department_code":"HUMA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HUMA\/C1002-20261-008\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20261HUMA1002C008",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"HUMA CC1002",
+    "course_title":"Literature Humanities II",
+    "course_descr":null,
+    "instructor":"Adrian A Guo-Silver",
+    "scheduled_time_start":"12:10pm",
+    "scheduled_time_end":"2:00pm",
+    "call_number":"10697",
+    "campus":null,
+    "class_id":"C1002-20261-009",
+    "course_subtitle":null,
+    "department":"Core (A&S)",
+    "department_code":"HUMA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HUMA\/C1002-20261-009\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20261HUMA1002C009",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"HUMA CC1002",
+    "course_title":"Literature Humanities II",
+    "course_descr":null,
+    "instructor":"Tamara A Hache",
+    "scheduled_time_start":"12:10pm",
+    "scheduled_time_end":"2:00pm",
+    "call_number":"10698",
+    "campus":null,
+    "class_id":"C1002-20261-010",
+    "course_subtitle":null,
+    "department":"Core (A&S)",
+    "department_code":"HUMA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HUMA\/C1002-20261-010\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20261HUMA1002C010",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"HUMA CC1002",
+    "course_title":"Literature Humanities II",
+    "course_descr":null,
+    "instructor":"Emma E Hitchcock",
+    "scheduled_time_start":"12:10pm",
+    "scheduled_time_end":"2:00pm",
+    "call_number":"10699",
+    "campus":null,
+    "class_id":"C1002-20261-011",
+    "course_subtitle":null,
+    "department":"Core (A&S)",
+    "department_code":"HUMA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HUMA\/C1002-20261-011\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20261HUMA1002C011",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"HUMA CC1002",
+    "course_title":"Literature Humanities II",
+    "course_descr":null,
+    "instructor":"Jenny Rhodes",
+    "scheduled_time_start":"12:10pm",
+    "scheduled_time_end":"2:00pm",
+    "call_number":"10700",
+    "campus":null,
+    "class_id":"C1002-20261-012",
+    "course_subtitle":null,
+    "department":"Core (A&S)",
+    "department_code":"HUMA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HUMA\/C1002-20261-012\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20261HUMA1002C012",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"HUMA CC1002",
+    "course_title":"Literature Humanities II",
+    "course_descr":null,
+    "instructor":"Naomi Michalowicz",
+    "scheduled_time_start":"12:10pm",
+    "scheduled_time_end":"2:00pm",
+    "call_number":"10701",
+    "campus":null,
+    "class_id":"C1002-20261-013",
+    "course_subtitle":null,
+    "department":"Core (A&S)",
+    "department_code":"HUMA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HUMA\/C1002-20261-013\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20261HUMA1002C013",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"HUMA CC1002",
+    "course_title":"Literature Humanities II",
+    "course_descr":null,
+    "instructor":"Maude F Meisel",
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"10702",
+    "campus":null,
+    "class_id":"C1002-20261-014",
+    "course_subtitle":null,
+    "department":"Core (A&S)",
+    "department_code":"HUMA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HUMA\/C1002-20261-014\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20261HUMA1002C014",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"HUMA CC1002",
+    "course_title":"Literature Humanities II",
+    "course_descr":null,
+    "instructor":"Laura F Dinardo",
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"10703",
+    "campus":null,
+    "class_id":"C1002-20261-015",
+    "course_subtitle":null,
+    "department":"Core (A&S)",
+    "department_code":"HUMA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HUMA\/C1002-20261-015\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20261HUMA1002C015",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"HUMA CC1002",
+    "course_title":"Literature Humanities II",
+    "course_descr":null,
+    "instructor":"Katrina M Dzyak",
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"10704",
+    "campus":null,
+    "class_id":"C1002-20261-016",
+    "course_subtitle":null,
+    "department":"Core (A&S)",
+    "department_code":"HUMA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HUMA\/C1002-20261-016\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20261HUMA1002C016",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"HUMA CC1002",
+    "course_title":"Literature Humanities II",
+    "course_descr":null,
+    "instructor":"Rebecca Kastleman",
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"10705",
+    "campus":null,
+    "class_id":"C1002-20261-017",
+    "course_subtitle":null,
+    "department":"Core (A&S)",
+    "department_code":"HUMA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HUMA\/C1002-20261-017\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20261HUMA1002C017",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"HUMA CC1002",
+    "course_title":"Literature Humanities II",
+    "course_descr":null,
+    "instructor":"Sarah Bin Tyeer",
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"10706",
+    "campus":null,
+    "class_id":"C1002-20261-018",
+    "course_subtitle":null,
+    "department":"Core (A&S)",
+    "department_code":"HUMA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HUMA\/C1002-20261-018\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20261HUMA1002C018",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"HUMA CC1002",
+    "course_title":"Literature Humanities II",
+    "course_descr":null,
+    "instructor":"Chloe Kitzinger",
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"10707",
+    "campus":null,
+    "class_id":"C1002-20261-019",
+    "course_subtitle":null,
+    "department":"Core (A&S)",
+    "department_code":"HUMA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HUMA\/C1002-20261-019\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20261HUMA1002C019",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"HUMA CC1002",
+    "course_title":"Literature Humanities II",
+    "course_descr":null,
+    "instructor":"James E Adams",
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"10708",
+    "campus":null,
+    "class_id":"C1002-20261-020",
+    "course_subtitle":null,
+    "department":"Core (A&S)",
+    "department_code":"HUMA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HUMA\/C1002-20261-020\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20261HUMA1002C020",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"HUMA CC1002",
+    "course_title":"Literature Humanities II",
+    "course_descr":null,
+    "instructor":"Tyler C Archer",
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"10709",
+    "campus":null,
+    "class_id":"C1002-20261-021",
+    "course_subtitle":null,
+    "department":"Core (A&S)",
+    "department_code":"HUMA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HUMA\/C1002-20261-021\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20261HUMA1002C021",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"HUMA CC1002",
+    "course_title":"Literature Humanities II",
+    "course_descr":null,
+    "instructor":"Ethan A Plaue",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"6:00pm",
+    "call_number":"10710",
+    "campus":null,
+    "class_id":"C1002-20261-022",
+    "course_subtitle":null,
+    "department":"Core (A&S)",
+    "department_code":"HUMA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HUMA\/C1002-20261-022\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20261HUMA1002C022",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"HUMA CC1002",
+    "course_title":"Literature Humanities II",
+    "course_descr":null,
+    "instructor":"Alec L Joyner",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"6:00pm",
+    "call_number":"10711",
+    "campus":null,
+    "class_id":"C1002-20261-023",
+    "course_subtitle":null,
+    "department":"Core (A&S)",
+    "department_code":"HUMA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HUMA\/C1002-20261-023\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20261HUMA1002C023",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"HUMA CC1002",
+    "course_title":"Literature Humanities II",
+    "course_descr":null,
+    "instructor":"Anna Borgarello",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"6:00pm",
+    "call_number":"10712",
+    "campus":null,
+    "class_id":"C1002-20261-024",
+    "course_subtitle":null,
+    "department":"Core (A&S)",
+    "department_code":"HUMA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HUMA\/C1002-20261-024\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20261HUMA1002C024",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"HUMA CC1002",
+    "course_title":"Literature Humanities II",
+    "course_descr":null,
+    "instructor":"Tamara A Hache",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"6:00pm",
+    "call_number":"10713",
+    "campus":null,
+    "class_id":"C1002-20261-025",
+    "course_subtitle":null,
+    "department":"Core (A&S)",
+    "department_code":"HUMA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HUMA\/C1002-20261-025\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20261HUMA1002C025",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"HUMA CC1002",
+    "course_title":"Literature Humanities II",
+    "course_descr":null,
+    "instructor":"Matthew Hart",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"6:00pm",
+    "call_number":"10714",
+    "campus":null,
+    "class_id":"C1002-20261-026",
+    "course_subtitle":null,
+    "department":"Core (A&S)",
+    "department_code":"HUMA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HUMA\/C1002-20261-026\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20261HUMA1002C026",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"HUMA CC1002",
+    "course_title":"Literature Humanities II",
+    "course_descr":null,
+    "instructor":"Thomas G Preston",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"6:00pm",
+    "call_number":"10715",
+    "campus":null,
+    "class_id":"C1002-20261-027",
+    "course_subtitle":null,
+    "department":"Core (A&S)",
+    "department_code":"HUMA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HUMA\/C1002-20261-027\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20261HUMA1002C027",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"HUMA CC1002",
+    "course_title":"Literature Humanities II",
+    "course_descr":null,
+    "instructor":"Laura F Dinardo",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"6:00pm",
+    "call_number":"10716",
+    "campus":null,
+    "class_id":"C1002-20261-028",
+    "course_subtitle":null,
+    "department":"Core (A&S)",
+    "department_code":"HUMA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HUMA\/C1002-20261-028\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20261HUMA1002C028",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"HUMA CC1002",
+    "course_title":"Literature Humanities II",
+    "course_descr":null,
+    "instructor":"Alex Pekov",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"10717",
+    "campus":null,
+    "class_id":"C1002-20261-029",
+    "course_subtitle":null,
+    "department":"Core (A&S)",
+    "department_code":"HUMA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HUMA\/C1002-20261-029\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20261HUMA1002C029",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"HUMA CC1002",
+    "course_title":"Literature Humanities II",
+    "course_descr":null,
+    "instructor":"Alexis Stanley",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"10718",
+    "campus":null,
+    "class_id":"C1002-20261-030",
+    "course_subtitle":null,
+    "department":"Core (A&S)",
+    "department_code":"HUMA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HUMA\/C1002-20261-030\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20261HUMA1002C030",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"HUMA CC1002",
+    "course_title":"Literature Humanities II",
+    "course_descr":null,
+    "instructor":"Thomas G Preston",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"10719",
+    "campus":null,
+    "class_id":"C1002-20261-031",
+    "course_subtitle":null,
+    "department":"Core (A&S)",
+    "department_code":"HUMA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HUMA\/C1002-20261-031\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20261HUMA1002C031",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"HUMA CC1002",
+    "course_title":"Literature Humanities II",
+    "course_descr":null,
+    "instructor":"Tyler C Archer",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"10720",
+    "campus":null,
+    "class_id":"C1002-20261-032",
+    "course_subtitle":null,
+    "department":"Core (A&S)",
+    "department_code":"HUMA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HUMA\/C1002-20261-032\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20261HUMA1002C032",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"HUMA CC1002",
+    "course_title":"Literature Humanities II",
+    "course_descr":null,
+    "instructor":"Tylar A Colleluori",
+    "scheduled_time_start":"8:10am",
+    "scheduled_time_end":"10:00am",
+    "call_number":"10721",
+    "campus":null,
+    "class_id":"C1002-20261-033",
+    "course_subtitle":null,
+    "department":"Core (A&S)",
+    "department_code":"HUMA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HUMA\/C1002-20261-033\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20261HUMA1002C033",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"HUMA CC1002",
+    "course_title":"Literature Humanities II",
+    "course_descr":null,
+    "instructor":"Nancy J Workman",
+    "scheduled_time_start":"8:10am",
+    "scheduled_time_end":"10:00am",
+    "call_number":"10722",
+    "campus":null,
+    "class_id":"C1002-20261-034",
+    "course_subtitle":null,
+    "department":"Core (A&S)",
+    "department_code":"HUMA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HUMA\/C1002-20261-034\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20261HUMA1002C034",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"HUMA CC1002",
+    "course_title":"Literature Humanities II",
+    "course_descr":null,
+    "instructor":"Nadrah S Mohammed",
+    "scheduled_time_start":"8:10am",
+    "scheduled_time_end":"10:00am",
+    "call_number":"10723",
+    "campus":null,
+    "class_id":"C1002-20261-035",
+    "course_subtitle":null,
+    "department":"Core (A&S)",
+    "department_code":"HUMA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HUMA\/C1002-20261-035\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20261HUMA1002C035",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"HUMA CC1002",
+    "course_title":"Literature Humanities II",
+    "course_descr":null,
+    "instructor":"Benjamin D Vanwagoner",
+    "scheduled_time_start":"8:10am",
+    "scheduled_time_end":"10:00am",
+    "call_number":"10724",
+    "campus":null,
+    "class_id":"C1002-20261-036",
+    "course_subtitle":null,
+    "department":"Core (A&S)",
+    "department_code":"HUMA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HUMA\/C1002-20261-036\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20261HUMA1002C036",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"HUMA CC1002",
+    "course_title":"Literature Humanities II",
+    "course_descr":null,
+    "instructor":"Tylar A Colleluori",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"12:00pm",
+    "call_number":"10725",
+    "campus":null,
+    "class_id":"C1002-20261-037",
+    "course_subtitle":null,
+    "department":"Core (A&S)",
+    "department_code":"HUMA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HUMA\/C1002-20261-037\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20261HUMA1002C037",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"HUMA CC1002",
+    "course_title":"Literature Humanities II",
+    "course_descr":null,
+    "instructor":"Pier Mattia Tommasino",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"12:00pm",
+    "call_number":"10726",
+    "campus":null,
+    "class_id":"C1002-20261-038",
+    "course_subtitle":null,
+    "department":"Core (A&S)",
+    "department_code":"HUMA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HUMA\/C1002-20261-038\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20261HUMA1002C038",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"HUMA CC1002",
+    "course_title":"Literature Humanities II",
+    "course_descr":null,
+    "instructor":"Geoffrey Harmsworth",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"12:00pm",
+    "call_number":"10727",
+    "campus":null,
+    "class_id":"C1002-20261-039",
+    "course_subtitle":null,
+    "department":"Core (A&S)",
+    "department_code":"HUMA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HUMA\/C1002-20261-039\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20261HUMA1002C039",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"HUMA CC1002",
+    "course_title":"Literature Humanities II",
+    "course_descr":null,
+    "instructor":"Benjamin D Vanwagoner",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"12:00pm",
+    "call_number":"10728",
+    "campus":null,
+    "class_id":"C1002-20261-040",
+    "course_subtitle":null,
+    "department":"Core (A&S)",
+    "department_code":"HUMA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HUMA\/C1002-20261-040\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20261HUMA1002C040",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"HUMA CC1002",
+    "course_title":"Literature Humanities II",
+    "course_descr":null,
+    "instructor":"Skye S Savage",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"12:00pm",
+    "call_number":"10729",
+    "campus":null,
+    "class_id":"C1002-20261-041",
+    "course_subtitle":null,
+    "department":"Core (A&S)",
+    "department_code":"HUMA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HUMA\/C1002-20261-041\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20261HUMA1002C041",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"HUMA CC1002",
+    "course_title":"Literature Humanities II",
+    "course_descr":null,
+    "instructor":"Clemence C Boulouque",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"12:00pm",
+    "call_number":"10730",
+    "campus":null,
+    "class_id":"C1002-20261-042",
+    "course_subtitle":null,
+    "department":"Core (A&S)",
+    "department_code":"HUMA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HUMA\/C1002-20261-042\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20261HUMA1002C042",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"HUMA CC1002",
+    "course_title":"Literature Humanities II",
+    "course_descr":null,
+    "instructor":"Seth R Kimmel",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"12:00pm",
+    "call_number":"10731",
+    "campus":null,
+    "class_id":"C1002-20261-043",
+    "course_subtitle":null,
+    "department":"Core (A&S)",
+    "department_code":"HUMA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HUMA\/C1002-20261-043\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20261HUMA1002C043",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"HUMA CC1002",
+    "course_title":"Literature Humanities II",
+    "course_descr":null,
+    "instructor":"Eliza Zingesser",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"12:00pm",
+    "call_number":"10732",
+    "campus":null,
+    "class_id":"C1002-20261-044",
+    "course_subtitle":null,
+    "department":"Core (A&S)",
+    "department_code":"HUMA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HUMA\/C1002-20261-044\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20261HUMA1002C044",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"HUMA CC1002",
+    "course_title":"Literature Humanities II",
+    "course_descr":null,
+    "instructor":"Katherine M Manansala",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"12:00pm",
+    "call_number":"10733",
+    "campus":null,
+    "class_id":"C1002-20261-045",
+    "course_subtitle":null,
+    "department":"Core (A&S)",
+    "department_code":"HUMA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HUMA\/C1002-20261-045\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20261HUMA1002C045",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"HUMA CC1002",
+    "course_title":"Literature Humanities II",
+    "course_descr":null,
+    "instructor":"Ararat Sekeryan",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"12:00pm",
+    "call_number":"10734",
+    "campus":null,
+    "class_id":"C1002-20261-046",
+    "course_subtitle":null,
+    "department":"Core (A&S)",
+    "department_code":"HUMA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HUMA\/C1002-20261-046\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20261HUMA1002C046",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"HUMA CC1002",
+    "course_title":"Literature Humanities II",
+    "course_descr":null,
+    "instructor":"Eleanor Johnson",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"12:00pm",
+    "call_number":"10735",
+    "campus":null,
+    "class_id":"C1002-20261-047",
+    "course_subtitle":null,
+    "department":"Core (A&S)",
+    "department_code":"HUMA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HUMA\/C1002-20261-047\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20261HUMA1002C047",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"HUMA CC1002",
+    "course_title":"Literature Humanities II",
+    "course_descr":null,
+    "instructor":"Molly Murray",
+    "scheduled_time_start":"12:10pm",
+    "scheduled_time_end":"2:00pm",
+    "call_number":"10736",
+    "campus":null,
+    "class_id":"C1002-20261-048",
+    "course_subtitle":null,
+    "department":"Core (A&S)",
+    "department_code":"HUMA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HUMA\/C1002-20261-048\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20261HUMA1002C048",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"HUMA CC1002",
+    "course_title":"Literature Humanities II",
+    "course_descr":null,
+    "instructor":"Louis J Moffa",
+    "scheduled_time_start":"12:10pm",
+    "scheduled_time_end":"2:00pm",
+    "call_number":"10737",
+    "campus":null,
+    "class_id":"C1002-20261-049",
+    "course_subtitle":null,
+    "department":"Core (A&S)",
+    "department_code":"HUMA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HUMA\/C1002-20261-049\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20261HUMA1002C049",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"HUMA CC1002",
+    "course_title":"Literature Humanities II",
+    "course_descr":null,
+    "instructor":"Jude P Webre",
+    "scheduled_time_start":"12:10pm",
+    "scheduled_time_end":"2:00pm",
+    "call_number":"10738",
+    "campus":null,
+    "class_id":"C1002-20261-050",
+    "course_subtitle":null,
+    "department":"Core (A&S)",
+    "department_code":"HUMA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HUMA\/C1002-20261-050\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20261HUMA1002C050",
+    "type":"LECTURE"
   },
   {
     "course_code":"IFEP IA7045",
@@ -14662,7 +16099,7 @@
   {
     "course_code":"LATN GR8030",
     "course_title":"Oratory, History, and Power: Cicero   s",
-    "course_descr":null,
+    "course_descr":"A close analysis of Cicero\u2019s \nBrutus\n in its many contexts: as a response to Caesar\u2019s dictatorship; as an account of oratory and rhetorical practices in Rome; and as the earliest surviving account of Roman literary history.",
     "instructor":"James E Zetzel",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -14687,7 +16124,7 @@
   {
     "course_code":"LATN GU4100",
     "course_title":"Survey of Latin Literature",
-    "course_descr":null,
+    "course_descr":"This course provides a survey of Latin literature.\u00a0 It aims to improve students\u2019 reading skills, familiarize them with some of the most canonical works of Latin literature, afford them a sense of Latin literary history, and introduce them to modern methodological approaches.\u00a0 Readings are drawn from the Classics Ph.D. reading list.",
     "instructor":"Katharina Volk",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -24724,7 +26161,7 @@
   {
     "course_code":"RELI UN3314",
     "course_title":"QURAN",
-    "course_descr":null,
+    "course_descr":"This course conceives of the Qur\u2019\u0101n as a living text in constant flux through interactions with other religious traditions.\u00a0 It focuses on developing an understanding of the Qur\u2019\u0101n\u2019s form, style, and content through a\u00a0 close reading of comparable religious texts.\u00a0 Major topics covered include the Qur\u2019\u0101nic theory of prophecy, its treatment of the Biblical tradition (both that of the Hebrew Bible and the New Testament), and its perspective on pre-Islamic pagan religion.\u00a0 The central goals of the course include the ability to (a) analyze primary religious sources in a critical and objective manner and (b) construct coherent arguments based on concrete evidence.\u00a0\u00a0 In a class of this nature, class members will naturally hold or develop a wide variety of opinions about the topics covered.\u00a0 The goal is not to adopt a single opinion concerning the interpretation of a particular text, but rather to support personal conclusions in a clear logical manner.",
     "instructor":"Hussein Rashid",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:25pm",
@@ -32807,6 +34244,46 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"URBS GU4000",
+    "course_title":"ADVANCED GEOGRAPHIC INFORMATION SYSTEMS",
+    "course_descr":null,
+    "instructor":"Leah M Meisterlin",
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"00677",
+    "campus":null,
+    "class_id":"V4000-20261-001",
+    "course_subtitle":"ADV GEOGRAPHIC INFO SYSTE",
+    "department":"Urban Studies @Barnard",
+    "department_code":"URBS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/URBS\/V4000-20261-001\/",
+    "location":"To be announced",
+    "method_of_instruction":null,
+    "open_to":[
+      "Architecture",
+      "Business",
+      "Columbia College",
+      "Engineering:Graduate",
+      "Engineering:Undergraduate",
+      "GSAS",
+      "General Studies",
+      "Journalism",
+      "Law",
+      "Professional Studies",
+      "Public Health",
+      "SIPA",
+      "Schools of the Arts",
+      "Social Work"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20261URBS4000V001",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"URBS UN1515",
     "course_title":"INTRODUCTION TO URBAN STUDIES",
     "course_descr":"This course is intended to be both an interdisciplinary introduction to the city and to the field of Urban Studies. As an introduction to the city, the course will address a variety of questions: What is a city? How did cities develop? How do cities function socially, politically, and economically? Why do people live in cities? What are some of the major issues facing cities in the early twenty-first century, and how can cities address these issues? As an introduction to the interdisciplinary field of Urban Studies, the course will present models of how scholars approach cities from a variety of disciplinary viewpoints, including architecture, planning, law, sociology, history, archaeology, anthropology, political science, public policy, and geography. Students will learn some of the major concepts in the field of Urban Studies, and will study the works of leading scholars in the field. Students in the course will approach cities from a number of disciplines, not only through the reading, but also through assignments that take place in different locations throughout New York City.",
@@ -33205,38 +34682,6 @@
     "scheduled_days":"M",
     "section_key":"20261URBS3546V002",
     "type":"COLLOQUIA"
-  },
-  {
-    "course_code":"URBS UN3800",
-    "course_title":"ADVANCED GEOGRAPHIC INFORMATION SYSTEMS",
-    "course_descr":"Prerequisite: Successful completion of URBS UN2200 Introduction to GIS Methods, or equivalent with instructor permission.\n  \nWith the veritable explosion of urban data alongside the continued proliferation of new tools for its consideration, this course allows students to develop specialized approaches to spatial analysis while introducing a series of common advanced techniques and nuanced methodological questions. Aimed at covering a variety of topics with immediate relevance to urbanism in practice and in research, the course operates with a two-fold mission: (1) to critically discuss the theories, concepts, and research methods involved in spatial analysis and (2) to learn the techniques necessary for engaging those theories and deploying those methods. The class will work to meet this mission with a dedicated focus on the urban environment and the spatial particularities and relationships that arise from the urban context.\n  \nAmong others, this course takes as a foundational premise that spatial analysis within geographic information systems is an incredibly powerful and double-edged weapon: it provides both the methods for answering complex spatial questions and the means for effectively communicating the results. Like any other weapon it can serve many ends, and as such an advanced course in spatial analysis must frame its use within the developing discourse on professional practice and responsibility.\n  \nThe course is designed with a combination format. Early weeks are predominantly lecture-style presentations supplemented with discussion and technical demonstration and exercises. Students are expected to complete these exercises outside of class (as homework), bringing their questions to our discussion. The latter half of the course is a project-based seminar. Seminar-style presentation and discussion will rely heavily on student participation and preparation to consider the variety of spatial methods available and their implications on urban research and intervention. Woven throughout the semester is the development of a self-driven research project, through which students will engage and compare the methodological advantages and disadvantages of several assumptions, approaches, analyses, and datasets.",
-    "instructor":"Leah M Meisterlin",
-    "scheduled_time_start":"2:10pm",
-    "scheduled_time_end":"4:00pm",
-    "call_number":"00433",
-    "campus":null,
-    "class_id":"V3800-20261-001",
-    "course_subtitle":"ADVANCED GIS",
-    "department":"Urban Studies @Barnard",
-    "department_code":"URBS",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/URBS\/V3800-20261-001\/",
-    "location":"To be announced",
-    "method_of_instruction":null,
-    "open_to":[
-      "Barnard College",
-      "Columbia College",
-      "Engineering:Undergraduate",
-      "General Studies"
-    ],
-    "points":"3",
-    "prerequisites":[
-      [
-        "URBS UN2200"
-      ]
-    ],
-    "scheduled_days":"M",
-    "section_key":"20261URBS3800V001",
-    "type":"LECTURE"
   },
   {
     "course_code":"URBS UN3993",
