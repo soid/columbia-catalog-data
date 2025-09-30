@@ -2303,6 +2303,31 @@
     "type":"INDEPENDENT"
   },
   {
+    "course_code":"ASTR BC1754",
+    "course_title":"STARS GALAXIES & COSMOLOGY",
+    "course_descr":null,
+    "instructor":"Nicholas M Luber",
+    "scheduled_time_start":"2:40pm",
+    "scheduled_time_end":"3:55pm",
+    "call_number":"00748",
+    "campus":null,
+    "class_id":"X1754-20261-001",
+    "course_subtitle":"STARS GALAXIES & COSMOLOG",
+    "department":"Physics and Astronomy @Barnard",
+    "department_code":"ASTR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ASTR\/X1754-20261-001\/",
+    "location":"To be announced",
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20261ASTR1754X001",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"BCHM GR6400",
     "course_title":"CRYO-ELECTRON MICROSCOPY",
     "course_descr":"Electron microscopy in combination with image analysis is increasingly powerful in producing 3D structures of individual molecules and large macromolecular complexes that are unapproachable by other methods. Cryo-electron microscopy (cryo-EM), is a form of transmission electron microscopy where the sample is studied at cryogenic temperatures (generally below -180 \u00b0C). This course is focused on the concepts and theories behind cryo-electron microscopy and its application in structural biology.",
@@ -3846,7 +3871,7 @@
   {
     "course_code":"BIOL GU4001",
     "course_title":"ADVANCED GENETIC ANALYSIS",
-    "course_descr":null,
+    "course_descr":"Prerequisites: for undergraduates: Introductory Genetics (W3031) and the instructors permission. This seminar course provides a detailed presentation of areas in classical and molecular genetics for advanced undergraduates and beginning graduate students. Topics include transmission genetics, gain and loss of function mutations, genetic redundancy, suppressors, enhancers, epistasis, expression patterns, using transposons, and genome analysis. The course is a mixture of lectures, student presentations, seminar discussions, and readings from the original literature.",
     "instructor":"Martin Chalfie",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"4:00pm",
@@ -3862,16 +3887,74 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "W3031"
+      ]
     ],
     "scheduled_days":"M",
     "section_key":"20261BIOL4001W001",
     "type":"SEMINAR"
   },
   {
+    "course_code":"BIOL GU4080",
+    "course_title":"ANCIENT AND MODERN RNA WORLDS",
+    "course_descr":null,
+    "instructor":"Laura Landweber",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"12:00pm",
+    "call_number":"10973",
+    "campus":null,
+    "class_id":"W4080-20261-001",
+    "course_subtitle":"Ancient and Modern RNA Wo",
+    "department":"Biological Sciences",
+    "department_code":"BIOL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/BIOL\/W4080-20261-001\/",
+    "location":"800 Sherman Fairchild Life Sciences Building",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20261BIOL4080W001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"BIOL GU4512",
+    "course_title":"Molecular Biology",
+    "course_descr":null,
+    "instructor":"Alice Heicklen",
+    "scheduled_time_start":"2:40pm",
+    "scheduled_time_end":"3:55pm",
+    "call_number":"10975",
+    "campus":null,
+    "class_id":"W4512-20261-001",
+    "course_subtitle":null,
+    "department":"Biological Sciences",
+    "department_code":"BIOL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/BIOL\/W4512-20261-001\/",
+    "location":"601 Sherman Fairchild Life Sciences Building",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "GSAS",
+      "General Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20261BIOL4512W001",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"BIOL GU4551",
     "course_title":"A Structural View of Biology",
-    "course_descr":null,
+    "course_descr":"The course covers a general introduction to the theory and experimental techniques of structural biology (protein expression and purification, protein crystallography, cryo-electron microscopy, nuclear magnetic resonance) and then how to use the structural information to understand biochemical and biological processes. The first part of the course will cover the general introduction to structural biology. The second part of the course will involve discussions and explorations of various structures, led by the instructor but with substantial participation from the students, to understand the molecular mechanisms of selected biochemical and biological processes. In the final part of the course, each student will select and lead discussions on a primary structural biology paper. The overall goal of the course is to increase the understanding of how protein structures are determined, what protein structures look like, and how to use the structures to understand biology.",
     "instructor":"Liang Tong",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -3896,7 +3979,7 @@
   {
     "course_code":"BIOL GU4777",
     "course_title":"From Curiosity to Cure     Case Studies",
-    "course_descr":null,
+    "course_descr":"Course overview: The goal of this course is to engage upper-level undergraduates and beginning graduate students in an immersive intellectual experience at the intersection of rigorous scientific inquiry and the history of innovation in molecular biology. The central theme will be curiosity and critical thinking as the twin drivers of both technological innovation and scientific discovery. The course will be divided into a series of modules focused on analysis and presentation of original research papers related to one important breakthrough in molecular biology that occurred during the past century. A prominent theme of the course will be the persistently unpredictable trajectory linking technical research and methodological developments to breakthrough science. Approximately six-to-eight original research papers will be covered in each module, spanning topics from the development of the methods that made the breakthrough possible through practical application of the resulting knowledge.\n  \nThree or four of the following breakthroughs will likely be covered in 2023:\n  \n  \nDiscovery and clinical application of insulin by Banting & Best.\n  \nDevelopment of the Trikafta triple drug treatment for cystic fibrosis.\n  \nDevelopment of CRISPR for human genetic engineering.\n  \nGenetics and pharmacological treatment of human hyperlipidemia.\n  \nDevelopment of the Gleevec tyrosine kinase inhibitor to cure Ph+ leukemias.\n  \nDevelopment of \u201cnext-generation\u201d nucleic acid sequencing methods.",
     "instructor":"John Hunt",
     "scheduled_time_start":"9:25am",
     "scheduled_time_end":"11:25am",
@@ -4033,6 +4116,31 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"BIOL UN3006",
+    "course_title":"PHYSIOLOGY",
+    "course_descr":null,
+    "instructor":"Ava E Brent",
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"2:25pm",
+    "call_number":"10974",
+    "campus":null,
+    "class_id":"F3006-20261-001",
+    "course_subtitle":null,
+    "department":"Biological Sciences",
+    "department_code":"BIOL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/BIOL\/F3006-20261-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20261BIOL3006F001",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"BIOL UN3300",
     "course_title":"Biochemistry",
     "course_descr":"Prerequisites: 1\u00a0year\u00a0of Introductory Biology, 1 year General Chemistry, and 1st semester Organic Chemistry.\u00a0 Biochemistry is the study of the chemical processes within organisms that give rise to the immense complexity of life. This complexity emerges from a highly regulated and coordinated flow of chemical energy from one biomolecule to another. This course serves to familiarize students with the spectrum of biomolecules (carbohydrates, lipids, amino acids, nucleic acids, etc.) as well as the fundamental chemical processes (glycolysis, citric acid cycle, fatty acid metabolism, etc.) that allow life to happen.\u00a0The course will end with a discussion of diseases that have biochemical etiologies.\u00a0In particular, this course will employ active learning techniques and critical thinking problem-solving to engage students in answering the question: how is the complexity of life possible? NOTE: While\u00a0only the 1st\u00a0semester of Organic Chemistry is listed as a pre-requisite, it is highly recommended that you take all of Organic Chemistry beforehand.",
@@ -4113,6 +4221,56 @@
     ],
     "scheduled_days":"T",
     "section_key":"20261BIOL3510W001",
+    "type":"RECITATION"
+  },
+  {
+    "course_code":"BIOL UN3510",
+    "course_title":"INDEP BIOLOGICAL RESEARCH - REC",
+    "course_descr":null,
+    "instructor":"Ron M Prywes",
+    "scheduled_time_start":"5:40pm",
+    "scheduled_time_end":"6:30pm",
+    "call_number":"10976",
+    "campus":null,
+    "class_id":"W3510-20261-002",
+    "course_subtitle":"INDEP BIOLOGICAL RESEARCH",
+    "department":"Biological Sciences",
+    "department_code":"BIOL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/BIOL\/W3510-20261-002\/",
+    "location":"800 Sherman Fairchild Life Sciences Building",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20261BIOL3510W002",
+    "type":"RECITATION"
+  },
+  {
+    "course_code":"BIOL UN3510",
+    "course_title":"INDEP BIOLOGICAL RESEARCH - REC",
+    "course_descr":null,
+    "instructor":"Ron M Prywes",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"5:00pm",
+    "call_number":"10977",
+    "campus":null,
+    "class_id":"W3510-20261-003",
+    "course_subtitle":"INDEP BIOLOGICAL RESEARCH",
+    "department":"Biological Sciences",
+    "department_code":"BIOL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/BIOL\/W3510-20261-003\/",
+    "location":"800 Sherman Fairchild Life Sciences Building",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20261BIOL3510W003",
     "type":"RECITATION"
   },
   {
@@ -5292,6 +5450,33 @@
     "scheduled_days":null,
     "section_key":"20261CLST8999G002",
     "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"CLST GR9000",
+    "course_title":"CLASSICAL STUDIES RESEARCH SEM",
+    "course_descr":null,
+    "instructor":"Seth R Schwartz",
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"10972",
+    "campus":null,
+    "class_id":"G9000-20261-001",
+    "course_subtitle":null,
+    "department":"Classical Studies",
+    "department_code":"CLST",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CLST\/G9000-20261-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "GSAS"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20261CLST9000G001",
+    "type":"SEMINAR"
   },
   {
     "course_code":"CLST UN3037",
@@ -11264,6 +11449,31 @@
     "type":"INDEPENDENT"
   },
   {
+    "course_code":"EESC BC3012",
+    "course_title":"BROWNFIELDS",
+    "course_descr":null,
+    "instructor":"Sedelia Rodriguez",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"11:25am",
+    "call_number":"00738",
+    "campus":null,
+    "class_id":"X3012-20261-001",
+    "course_subtitle":null,
+    "department":"Environmental Sciences @Barnard",
+    "department_code":"EESC",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/EESC\/X3012-20261-001\/",
+    "location":"To be announced",
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20261EESC3012X001",
+    "type":"WORKSHOP"
+  },
+  {
     "course_code":"EESC BC3017",
     "course_title":"ENVIRONMENTAL DATA ANALYSIS",
     "course_descr":"Prerequisites: One year of college science or EESC V2100 or permission of the instructor. Acquisition, analysis, interpretation, and presentation of environmental data, assessment of spatial and temporal variability. Focus on water quality issues and storm surges. Uses existing and student-generated data sets. Basic principles of statistics and GIS, uses standard software packages including EXCEL and ArcGIS. Includes a half-day field trip on a Saturday or Sunday. General Education Requirement: Quantitative and Deductive Reasoning (QUA).",
@@ -11279,10 +11489,7 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/EESC\/X3017-20261-001\/",
     "location":"To be announced",
     "method_of_instruction":null,
-    "open_to":[
-      "Columbia College",
-      "General Studies"
-    ],
+    "open_to":null,
     "points":"3",
     "prerequisites":[
       [
@@ -11291,6 +11498,31 @@
     ],
     "scheduled_days":"MW",
     "section_key":"20261EESC3017X001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"EESC BC3017",
+    "course_title":"ENVIRONMENTAL DATA ANALYSIS",
+    "course_descr":null,
+    "instructor":"Garrett Albistegui-Adler",
+    "scheduled_time_start":"11:40am",
+    "scheduled_time_end":"12:55pm",
+    "call_number":"00737",
+    "campus":null,
+    "class_id":"X3017-20261-002",
+    "course_subtitle":"ENVIRONMENTAL DATA ANALYS",
+    "department":"Environmental Sciences @Barnard",
+    "department_code":"EESC",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/EESC\/X3017-20261-002\/",
+    "location":"To be announced",
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20261EESC3017X002",
     "type":"LECTURE"
   },
   {
@@ -13046,22 +13278,7 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENTA\/W4725-20261-001\/",
     "location":"LL105 Diana Center",
     "method_of_instruction":null,
-    "open_to":[
-      "Architecture",
-      "Barnard College",
-      "Business",
-      "Columbia College",
-      "Engineering:Graduate",
-      "Engineering:Undergraduate",
-      "GSAS",
-      "General Studies",
-      "Journalism",
-      "Law",
-      "Public Health",
-      "SIPA",
-      "Schools of the Arts",
-      "Social Work"
-    ],
+    "open_to":null,
     "points":"4",
     "prerequisites":[
 
@@ -14081,31 +14298,6 @@
     "type":"SEMINAR"
   },
   {
-    "course_code":"FREN BC3080",
-    "course_title":"ADVANCED SEMINAR",
-    "course_descr":null,
-    "instructor":"Peter T Connor",
-    "scheduled_time_start":"4:10pm",
-    "scheduled_time_end":"6:00pm",
-    "call_number":"00132",
-    "campus":null,
-    "class_id":"X3080-20261-001",
-    "course_subtitle":null,
-    "department":"French @Barnard",
-    "department_code":"FREN",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FREN\/X3080-20261-001\/",
-    "location":"To be announced",
-    "method_of_instruction":null,
-    "open_to":null,
-    "points":"4",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"R",
-    "section_key":"20261FREN3080X001",
-    "type":"SEMINAR"
-  },
-  {
     "course_code":"FREN BC3091",
     "course_title":"SENIOR THESIS",
     "course_descr":"French majors will write their senior thesis under the supervision of the instructor.",
@@ -14255,6 +14447,81 @@
     ],
     "scheduled_days":null,
     "section_key":"20261FYSB1001X007",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"FYSB BC1001",
+    "course_title":"FIRST-YEAR SEMINAR AT BARNARD",
+    "course_descr":null,
+    "instructor":"Daniella Gitlin",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"00742",
+    "campus":null,
+    "class_id":"X1001-20261-002",
+    "course_subtitle":"A PLACE TO LIVE: FILM\/LIT",
+    "department":"First-Year Seminar Program @Barnard",
+    "department_code":"FYSB",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FYSB\/X1001-20261-002\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20261FYSB1001X002",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"FYSB BC1002",
+    "course_title":"FIRST-YEAR SEMINAR WORKSHOP",
+    "course_descr":null,
+    "instructor":"Penelope Usher",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"00740",
+    "campus":null,
+    "class_id":"X1002-20261-002",
+    "course_subtitle":"DEAD AND UNDEAD (WKSHOP)",
+    "department":"First-Year Seminar Program @Barnard",
+    "department_code":"FYSB",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FYSB\/X1002-20261-002\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20261FYSB1002X002",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"FYSB BC1002",
+    "course_title":"FIRST-YEAR SEMINAR WORKSHOP",
+    "course_descr":null,
+    "instructor":"Francesca E Austin Ochoa",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"00741",
+    "campus":null,
+    "class_id":"X1002-20261-001",
+    "course_subtitle":"BORDER STORIES (WKSHOP)",
+    "department":"First-Year Seminar Program @Barnard",
+    "department_code":"FYSB",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FYSB\/X1002-20261-001\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20261FYSB1002X001",
     "type":"SEMINAR"
   },
   {
@@ -14885,7 +15152,7 @@
   {
     "course_code":"GERM UN1101",
     "course_title":"ELEMENTARY GERMAN I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: No prior German.\n  \nGerman 1101 is a communicative language course for beginners, taught in German, in which students develop the four skills -listening, speaking, reading, and writing- and a basic understanding of German-speaking cultures. Emphasis is placed on acquiring the four language skills within a cultural context. Upon successful completion of the course, students will be able to understand, speak, read, and write German at a level enabling them to communicate with native speakers and provide basic information about their background, family, daily activities, student life, work, and living quarters. Completion of daily assignments, which align with class content, and consistent work are necessary in order to achieve basic communicative proficiency. If you have prior German, the placement exam is required.",
     "instructor":"Johanna Veth-Abinusawa",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -15829,7 +16096,7 @@
   {
     "course_code":"HIST BC3999",
     "course_title":"INDEPENDENT STUDY",
-    "course_descr":null,
+    "course_descr":"Prerequisites: Permission of the instructor. Enrollment limited to 15. Preregistration required. Examines the theory and practice of transnational feminist activism. We will explore the ways in which race, class, culture and nationality facilitate alliances among women, reproduce hierarchical power relations, and help reconstruct gender. The course covers a number of topics: the African Diaspora, suffrage, labor, development policy, colonialism, trafficking, consumerism, Islam, and the criminal justice system.",
     "instructor":"Matthew Delvaux",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -15854,7 +16121,7 @@
   {
     "course_code":"HIST BC3999",
     "course_title":"INDEPENDENT STUDY",
-    "course_descr":null,
+    "course_descr":"Prerequisites: Permission of the instructor. Enrollment limited to 15. Preregistration required. Examines the theory and practice of transnational feminist activism. We will explore the ways in which race, class, culture and nationality facilitate alliances among women, reproduce hierarchical power relations, and help reconstruct gender. The course covers a number of topics: the African Diaspora, suffrage, labor, development policy, colonialism, trafficking, consumerism, Islam, and the criminal justice system.",
     "instructor":"Dale Booth",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -29285,6 +29552,131 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"PHYS BC2002",
+    "course_title":"ELECTRICITY&MAGNETISM-LEC+LAB",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"11:25am",
+    "call_number":"00743",
+    "campus":null,
+    "class_id":"X2002-20261-001",
+    "course_subtitle":"ELECTRICITY&MAGNETISM-LEC",
+    "department":"Physics and Astronomy @Barnard",
+    "department_code":"PHYS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PHYS\/X2002-20261-001\/",
+    "location":"To be announced",
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"4.5",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20261PHYS2002X001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"PHYS BC2019",
+    "course_title":"ELECTRICITY&MAGNETISM-LAB ONLY",
+    "course_descr":null,
+    "instructor":"Stiliana Savin",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"00744",
+    "campus":null,
+    "class_id":"X2019-20261-001",
+    "course_subtitle":"ELECTRICITY&MAGNETISM-LAB",
+    "department":"Physics and Astronomy @Barnard",
+    "department_code":"PHYS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PHYS\/X2019-20261-001\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"1.5",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20261PHYS2019X001",
+    "type":"LABORATORY"
+  },
+  {
+    "course_code":"PHYS BC2020",
+    "course_title":"ELECTRICITY&MAGNETISM-LEC ONLY",
+    "course_descr":null,
+    "instructor":"Janna Levin",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"11:25am",
+    "call_number":"00745",
+    "campus":null,
+    "class_id":"X2020-20261-001",
+    "course_subtitle":"ELECTRICITY&MAGNETISM-LEC",
+    "department":"Physics and Astronomy @Barnard",
+    "department_code":"PHYS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PHYS\/X2020-20261-001\/",
+    "location":"To be announced",
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20261PHYS2020X001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"PHYS BC3006",
+    "course_title":"QUANTUM PHYSICS",
+    "course_descr":null,
+    "instructor":"Reshmi Mukherjee",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"11:25am",
+    "call_number":"00746",
+    "campus":null,
+    "class_id":"X3006-20261-001",
+    "course_subtitle":null,
+    "department":"Physics and Astronomy @Barnard",
+    "department_code":"PHYS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PHYS\/X3006-20261-001\/",
+    "location":"To be announced",
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20261PHYS3006X001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"PHYS BC3900",
+    "course_title":"SUPERVISED INDIVIDUAL RESEARCH",
+    "course_descr":null,
+    "instructor":"Timothy J Halpin-Healy",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"00747",
+    "campus":null,
+    "class_id":"X3900-20261-001",
+    "course_subtitle":"SUPERVISED INDIVIDUAL RES",
+    "department":"Physics and Astronomy @Barnard",
+    "department_code":"PHYS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PHYS\/X3900-20261-001\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"1-5",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20261PHYS3900X001",
+    "type":"INDEPENDENT"
+  },
+  {
     "course_code":"POLS BC3048",
     "course_title":"COLL: CAPITALISM AND ITS CRITICS",
     "course_descr":"Capitalism is usually thought of as an economic system, but what does it have to do with politics? This course examines how thinkers of contrasting perspectives have understood capitalism politically. Some have celebrated the market as an escape from coercion, while others criticize it as a source of disguised domination; some see capitalism as leveling social hierarchies, while others point to its creation of class and racial hierarchy; some see capitalism as an engine of wealth creation and heightened living standards, while others emphasize its destruction of existing ways of life and production of inequality; some see capitalism as an engine of peace, while others emphasize its reliance on violence. In particular, we will consider the relationship between state and market, moral critiques of markets and exchange, analyses of the role of force and violence in accumulation, and theories of freedom and domination.",
@@ -32021,6 +32413,31 @@
     ],
     "scheduled_days":"R",
     "section_key":"20261RELI3096X001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"RELI BC3216",
+    "course_title":"Religious Histories of New York City",
+    "course_descr":null,
+    "instructor":"Andrew E Jungclaus",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"6:00pm",
+    "call_number":"00750",
+    "campus":null,
+    "class_id":"X3216-20261-001",
+    "course_subtitle":"Religious Histories of NY",
+    "department":"Religion @Barnard",
+    "department_code":"RELI",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/RELI\/X3216-20261-001\/",
+    "location":"To be announced",
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20261RELI3216X001",
     "type":"SEMINAR"
   },
   {
@@ -39042,6 +39459,31 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"SPAN UN3349",
+    "course_title":"HISPANIC CULTURES I (SP)",
+    "course_descr":null,
+    "instructor":"Alexandra V Mendez",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"5:25pm",
+    "call_number":"00749",
+    "campus":null,
+    "class_id":"W3349-20261-002",
+    "course_subtitle":null,
+    "department":"Spanish and Latin American Culture",
+    "department_code":"SPAN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SPAN\/W3349-20261-002\/",
+    "location":"To be announced",
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20261SPAN3349W002",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"SPAN UN3350",
     "course_title":"HISPANIC CULTURES II (SP)",
     "course_descr":"This course surveys cultural production of Spain and Spanish America from the eighteenth to the twenty-first centuries. Students will acquire the knowledge needed for the study of the cultural manifestations of the Hispanic world in the context of modernity. Among the issues and events studied will be the Enlightenment as ideology and practice, the Napoleonic invasion of Spain, the wars of Spanish American independence, the fin-de-siecle and the cultural avant-gardes, the wars and revolutions of the twentieth century (Spanish Civil War, the Mexican and Cuban revolutions), neoliberalism, globalization, and the Hispanic presence in the United States. The goal of the course is to study some key moments of this trajectory through the analysis of representative texts, documents, and works of art. Class discussions will seek to situate the works studied within the political and cultural currents and debates of the time. All primary materials, class discussion, and assignments are in Spanish. This course is required for the major and the concentration in Hispanic Studies.",
@@ -39213,12 +39655,7 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/THTR\/V2022-20261-001\/",
     "location":null,
     "method_of_instruction":null,
-    "open_to":[
-      "Barnard College",
-      "Columbia College",
-      "Engineering:Undergraduate",
-      "General Studies"
-    ],
+    "open_to":null,
     "points":"3",
     "prerequisites":[
 
@@ -40885,22 +41322,7 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/URBS\/V4000-20261-001\/",
     "location":"To be announced",
     "method_of_instruction":null,
-    "open_to":[
-      "Architecture",
-      "Business",
-      "Columbia College",
-      "Engineering:Graduate",
-      "Engineering:Undergraduate",
-      "GSAS",
-      "General Studies",
-      "Journalism",
-      "Law",
-      "Professional Studies",
-      "Public Health",
-      "SIPA",
-      "Schools of the Arts",
-      "Social Work"
-    ],
+    "open_to":null,
     "points":"3",
     "prerequisites":[
       [
@@ -41157,12 +41579,7 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/URBS\/V3352-20261-003\/",
     "location":null,
     "method_of_instruction":null,
-    "open_to":[
-      "Barnard College",
-      "Columbia College",
-      "Engineering:Undergraduate",
-      "General Studies"
-    ],
+    "open_to":null,
     "points":"0",
     "prerequisites":[
 
@@ -41187,12 +41604,7 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/URBS\/W3420-20261-001\/",
     "location":"To be announced",
     "method_of_instruction":null,
-    "open_to":[
-      "Barnard College",
-      "Columbia College",
-      "Engineering:Undergraduate",
-      "General Studies"
-    ],
+    "open_to":null,
     "points":"3",
     "prerequisites":[
 
@@ -41242,12 +41654,7 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/URBS\/V3546-20261-001\/",
     "location":null,
     "method_of_instruction":null,
-    "open_to":[
-      "Barnard College",
-      "Columbia College",
-      "Engineering:Undergraduate",
-      "General Studies"
-    ],
+    "open_to":null,
     "points":"4",
     "prerequisites":[
 
@@ -41798,7 +42205,7 @@
   {
     "course_code":"WMST GR8001",
     "course_title":"GRAD STUDENT & FACULTY COLLOQ",
-    "course_descr":null,
+    "course_descr":"This is a course is oriented to graduate students who are thinking about issues in teaching in the near and distant future and want to explore forms of pedagogy. The course will ask what it means to teach \u201cas a feminist\u201d and will explore how to create a classroom receptive to feminist and queer methodologies and theories regardless of course theme\/content. Topics include: participatory pedagogy, the role of political engagement, the gender dynamics of the classroom, modes of critical thought and disagreement. Discussions will be oriented around student interest. The course will meet 4-5 times per SEMESTER (dates TBD) and the final assignment is to develop and workshop a syllabus for a new gender\/sexuality course in your field. Because this course is required for graduate students choosing to fulfill Option 2 for the Graduate Certificate in Feminist Studies at IRWGS, priority will be given to graduate students completing the certificate.",
     "instructor":"Julia Bryan-Wilson",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -41873,7 +42280,7 @@
   {
     "course_code":"WMST UN3514",
     "course_title":"HIST APPROACHES TO FEM QUESTNS",
-    "course_descr":null,
+    "course_descr":"This course will provide students with a comparative perspective on gender, race, and\n sexuality by illuminating historically specific and culturally distinct conditions in which\n these systems of power have operated. Beginning in the early modern period, the\n course seeks to destabilize contemporary notions of gender and sexuality and instead\n probe how race, sexuality, and gender have functioned as mechanisms of differentiation\n embedded in historically contingent processes. Moving from \u201cCaliban to Comstock,\u201d\n students will probe historical methods for investigating and critically evaluating claims\n about the past. In making these inquiries, the course will pay attention to the\n intersectional nature of race, gender, and sexuality and to strategic performances of\n identity by marginalized groups. This semester, we will engage research by historians\n of sexuality, gender, and capitalism to critically reflect on the relationship between\n critical studies of the past and debates about reproductive justice, bodily autonomy, and\n gay and lesbian rights in our contemporary moment.",
     "instructor":"Sarah Haley",
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"2:00pm",
@@ -41898,7 +42305,7 @@
   {
     "course_code":"WMST UN3522",
     "course_title":"SENIOR SEMINAR II",
-    "course_descr":null,
+    "course_descr":"Individual research in Womens Studies conducted in consultation with the instructor. The result of each research project is submitted in the form of the senior essay and presented to the seminar.",
     "instructor":"Lila Abu-Lughod",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
