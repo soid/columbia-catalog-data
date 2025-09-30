@@ -808,7 +808,7 @@
   {
     "course_code":"ANTH BC3234",
     "course_title":"Indigenous Place-Thought",
-    "course_descr":null,
+    "course_descr":"This seminar\u00a0considers what it means to be of a place and to think with and be committed to that place\u2014environmentally, politically, and spiritually. After locating ourselves in our own particular places and place-based commitments, our attention turns to the Indigenous traditions of North America, to accounts of tribal emergence and pre-colonial being, to colonial histories of land dispossession, to ongoing struggles to protect ecological health and land-based sovereignty, to the epistemological and moral systems that have developed over the course of many millennia of living with and for the land, and to the contributions such systems might make to our collective future. The\u00a0seminar\u2019s title is borrowed from an essay on \u201cIndigenous place-thought\u201d by Mohawk\/Anishinaabe scholar Vanessa Watts.",
     "instructor":"Severin Fowles",
     "scheduled_time_start":"8:40am",
     "scheduled_time_end":"9:55am",
@@ -2330,7 +2330,7 @@
   {
     "course_code":"BCRS GU4332",
     "course_title":"ADV BOSNIAN\/CROATIAN\/SERBIAN",
-    "course_descr":null,
+    "course_descr":"Prerequisites: BCRS UN2102 Further develops skills in speaking, reading, and writing, using essays, short stories, films, and fragments of larger works. Reinforces basic grammar and introduces more complete structures.",
     "instructor":"Aleksandar Boskovic",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:25pm",
@@ -2346,7 +2346,9 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "BCRS UN2102"
+      ]
     ],
     "scheduled_days":"TW",
     "section_key":"20261BCRS4332W001",
@@ -2355,7 +2357,7 @@
   {
     "course_code":"BCRS UN1101",
     "course_title":"ELEM BOSNIAN\/CROATIAN\/SERBIAN",
-    "course_descr":null,
+    "course_descr":"Essentials of the spoken and written language. Prepares students to read texts of moderate difficulty by the end of the first year.",
     "instructor":"Aleksandar Boskovic",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -2380,7 +2382,7 @@
   {
     "course_code":"BCRS UN1102",
     "course_title":"ELEM BOSNIAN\/CROATIAN\/SERBIAN",
-    "course_descr":null,
+    "course_descr":"Essentials of the spoken and written language. Prepares students to read texts of moderate difficulty by the end of the first year.",
     "instructor":"Aleksandar Boskovic",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -3003,7 +3005,7 @@
   {
     "course_code":"BIOL BC1599",
     "course_title":"SCIENCE JOURNAL CLUB",
-    "course_descr":null,
+    "course_descr":"Prerequisites: ) Limited to 16 students who are participating in the Science Pathways Scholars Program. Students in this seminar course will be introduced to the scientific literature by reading a mix of classic papers and papers that describe significant new developments in the field. Seminar periods will be devoted to oral reports, discussion of assigned reading, and student responses. Section 1: Limited to students in the Science Pathways Scholars Program. Section 2: Limited to first-year students who received a 4 or 5 on the AP and are currently enrolled in BIOL BC1500.",
     "instructor":"Sedelia Rodriguez",
     "scheduled_time_start":"1:00pm",
     "scheduled_time_end":"2:00pm",
@@ -3021,7 +3023,9 @@
     ],
     "points":"1",
     "prerequisites":[
-
+      [
+        "BIOL BC1500"
+      ]
     ],
     "scheduled_days":"W",
     "section_key":"20261BIOL1599X001",
@@ -4774,7 +4778,7 @@
   {
     "course_code":"CHEM UN1403",
     "course_title":"GENERAL CHEMISTRY I-LECTURES",
-    "course_descr":null,
+    "course_descr":"Corequisites: MATH UN1101 Preparation equivalent to one year of high school chemistry is assumed. Students lacking such preparation should plan independent study of chemistry over the summer or take CHEM UN0001 before taking CHEM UN1403. Topics include stoichiometry, states of matter, nuclear properties, electronic structures of atoms, periodic properties, chemical bonding, molecular geometry, introduction to quantum mechanics and atomic theory, introduction to organic and biological chemistry, solid state and materials science, polymer science and macromolecular structures and coordination chemistry. Although CHEM UN1403 and CHEM UN1404 are separate courses, students are expected to take both terms sequentially. The order of presentation of topics may differ from the order presented here, and from year to year. Students must ensure they register for the recitation that corresponds to the lecture section.\n  \nWhen registering, please add your name to the wait list for the recitation\u00a0corresponding to the lecture section (1405 for lecture sec 001; 1407 for lecture sec 002; 1409 for lecture sec 003; 1411 for lecture sec 004).\u00a0 Information about recitation registration will be sent out before classes begin.\u00a0 DO NOT EMAIL THE INSTRUCTOR. Please check\u00a0the Directory of Classes for details.",
     "instructor":"Ruben M Savizky",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"7:25pm",
@@ -4798,7 +4802,15 @@
     ],
     "points":"4",
     "prerequisites":[
-
+      [
+        "CHEM UN1404"
+      ],
+      [
+        "MATH UN1101",
+        "CHEM UN0001",
+        "CHEM UN1403",
+        "CHEM UN1403"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20261CHEM1403W001",
@@ -4807,7 +4819,7 @@
   {
     "course_code":"CHEM UN1404",
     "course_title":"GENERAL CHEMISTRY II-LECTURES",
-    "course_descr":null,
+    "course_descr":"Prerequisites: CHEM UN1403 Although CHEM UN1403 and CHEM UN 1404 are separate courses, students are expected to take both terms sequentially. Topics include gases, kinetic theory of gases, states of matter: liquids and solids, chemical equilibria, applications of equilibria, acids and bases, chemical thermodynamics, energy, enthalpy, entropy, free energy, periodic properties, chemical kinetics, and electrochemistry. The order of presentation of topics may differ from the order presented here, and from year to year. Students must ensure they register for the recitation that corresponds to the lecture section. Please check the Directory of Classes for details.",
     "instructor":"Christopher Eckdahl",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -4831,11 +4843,76 @@
     ],
     "points":"4",
     "prerequisites":[
-
+      [
+        "CHEM UN1403"
+      ],
+      [
+        "CHEM UN1403"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20261CHEM1404W001",
     "type":"LECTURE"
+  },
+  {
+    "course_code":"CHNS BC1002",
+    "course_title":"First-Year Chinese II",
+    "course_descr":"First Year Chinese II (CHNX1002) is the continuation of First Year Chinese I (CHNSX1001). It is designed for students with some prior knowledge of Mandarin Chinese and either one semester or one year of college-level learning experience in Mandarin Chinese. Upon successful completion of First Year Chinese II, students are expected to reach Novice High to Intermediate Low proficiency. At this level, you will be able to understand, interpret, speak, and write about everyday topics such as greetings, dining, and exchanging personal information. In addition to language skills, you will gain an understanding of the cultural products, practices, and perspectives of the Chinese-speaking world and be able to relate them to your own cultural experiences. As a language course, it emphasizes immersion: Chinese will be the primary language spoken and heard in the classroom.",
+    "instructor":"Danwei Li",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"00732",
+    "campus":null,
+    "class_id":"X1002-20261-001",
+    "course_subtitle":null,
+    "department":"Asian and Middle East @Barnard",
+    "department_code":"CHNS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CHNS\/X1002-20261-001\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"5",
+    "prerequisites":[
+      [
+        "NX1002"
+      ],
+      [
+        "SX1001"
+      ]
+    ],
+    "scheduled_days":null,
+    "section_key":"20261CHNS1002X001",
+    "type":"LANGUAGE"
+  },
+  {
+    "course_code":"CHNS BC2002",
+    "course_title":"Second Year Chinese II",
+    "course_descr":"Second Year Chinese II (CHNX2002) is the continuation of Second Year Chinese I (CHNSX2001). It is designed for students who have completed a rigorous three-semester college-level Mandarin course or its equivalent. This course aims to develop proficiency in listening, speaking, reading, and writing at the Intermediate High to Advanced Low levels according to the ACTFL guidelines. Students will engage with real-world scenarios relevant to studying abroad and gain a deeper understanding of modern Chinese society and culture. Emphasis is placed on narration, description, comparison, and the development of intercultural competence through comparative cultural analysis. Course materials include dialogues and narratives to support vocabulary, grammar, communication, and cultural learning.",
+    "instructor":"Danwei Li",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"00733",
+    "campus":null,
+    "class_id":"X2002-20261-001",
+    "course_subtitle":null,
+    "department":"Asian and Middle East @Barnard",
+    "department_code":"CHNS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CHNS\/X2002-20261-001\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"5",
+    "prerequisites":[
+      [
+        "NX2002"
+      ],
+      [
+        "SX2001"
+      ]
+    ],
+    "scheduled_days":null,
+    "section_key":"20261CHNS2002X001",
+    "type":"LANGUAGE"
   },
   {
     "course_code":"CLCV BC3000",
@@ -4965,7 +5042,7 @@
   {
     "course_code":"CLRS GR6217",
     "course_title":"Dostoevsky's Afterlives",
-    "course_descr":null,
+    "course_descr":"Few modern writers have been as adored, reviled, translated, or adapted as Fyodor Dostoevsky. In this seminar, we explore the \u201cafterlife\/survival\u201d (\n\u00dcberleben\n) of Dostoevsky\u2019s writings, with a particular emphasis on his reception and transformations during the decades of global modernism. We will ask: when and how was the dominant 20th-century image of Dostoevsky made? How is this image reflected, and refracted, in the later theory and practice of the novel? What resonances has it found across the political spectrum, from the pre-revolutionary Russian Empire through interwar Europe, the mid-century United States, and our present era of resurgent technocracy, imperialism, and nationalism? The first half of the course focuses on the Silver Age writers who did most to frame Dostoevsky\u2019s legacy and artistic persona for an international readership. In the second half, we turn to a range of historical, literary, and theoretical contexts where this legacy comes into play. Students will take an active role in researching and shaping the story about Dostoevsky\u2019s uncanny \u201csurvival\u201d that our course tells, engaging with a range of readings in modernist literature, criticism, and novel theory. Midway through the course, each student will be responsible for a reception case study, researching either a place and time where Dostoevsky was widely influential or (by permission) a single author whose work comes into close dialogue with his.\n  \nNote: Russian-language readings will be provided in the original; many are also available in translation. Other readings will be provided and discussed in English translation, though reading in the original is always encouraged. The course is open to all graduate students by permission.",
     "instructor":"Chloe Kitzinger",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -4990,7 +5067,7 @@
   {
     "course_code":"CLRS GU4039",
     "course_title":"Chekhov and Others",
-    "course_descr":null,
+    "course_descr":"We will explore Anton Chekhov\u2019s work on its own terms, in its cultural context, and in relation to the work of others, especially Anglophone writers who responded, directly or indirectly, to Chekhov and his work. Readings by Chekhov include selected stories (short and long), his four major plays, and \nSakhalin Island, \nhis study of the Russian penal colony.\n  \nThere are no prerequisites.\u00a0 Knowledge of Russian is not required; all readings in English.\n  \nStudents who know Russian are encouraged to read Chekhov\u2019s work in Russian.\n  \nThe course will be comparative as it addresses Chekhov on his own and in relation to anglophone writers.\n  \nThe course is open to undergraduates (CC, GS, BC) and graduates in GSAS and other schools. The attention to \nhow \nChekhov writes may interest students in the School of the Arts.",
     "instructor":"Liza Knapp",
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:55pm",
@@ -5040,7 +5117,7 @@
   {
     "course_code":"CLSL GU4012",
     "course_title":"Holocaust Literature: Critical Thinking",
-    "course_descr":null,
+    "course_descr":"How do you write literature in the midst of catastrophe? To whom do you write if you don\u2019t know whether your readership will survive? Or that you yourself will survive? How do you theorize society when the social fabric is tearing apart? How do you develop a concept of human rights at a time when mass extermination is deemed legal? How do you write Jewish history when Jewish future seems uncertain?\n  \nThis course offers a survey of the literature and intellectual history written during World War II (1939-1945) both in Nazi occupied Europe and in the free world, written primarily, but not exclusively, by Jews. We will read novels, poems, science fiction, historical fiction, legal theory and social theory and explore how intellectuals around the world responded to the extermination of European Jewry as it happened and how they changed their understanding of what it means to be a public intellectual, what it means to be Jewish, and what it means to be human.\n  \nThe aim of the course is threefold. First, it offers a survey of the Jewish experience during WWII, in France, Russia, Poland, Latvia, Romania, Greece, Palestine, Morocco, Iraq, the USSR, Argentina, and the United States. Second, it introduces some of the major contemporary debates in holocaust studies. Finally, it provides a space for a methodological reflection on how literary analysis, cultural studies, and historical research intersect.",
     "instructor":"Offer Dynes",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -5065,7 +5142,7 @@
   {
     "course_code":"CLSL GU4029",
     "course_title":"Bible, Literature, Theory",
-    "course_descr":null,
+    "course_descr":"This class aims to introduce the students to the field of Bible and Literature, with special attention to the Hebrew Bible and to Literary Theory. We will read portions of \nGenesis, Numbers, Jonah, Hosea, Ezekiel, Esther, Mark, \nand\n Revelations\n, and discuss it in tandem with literary theory as well as 20th Century literary texts. Literary theory, this class will argue, is central for our understanding of the Bible, and, at the same time, the Biblical text is essential for the manner in which we theorize literature. Our discussion will be guided by four loosely interconnected questions: What insights can we gain about the theology of the Biblical text from a literary analysis? What happens to theological ideas once they are dramatized and narrativized? In what way can modern literary adaptations of the Bible contribute to our understanding of the Biblical text? How does the Bible challenge and trouble some of the perceived ideas of literary theory?\n  \nThe syllabus is divided into three units. The first unit \u2014\nBible and Literature in Theory,\n offers a survey of some of the scholarly approaches to the intersection of literature and theology. We will read theory that interrogates the intersection of theological and literary concepts, focusing on omniscience, authorship, temporality, characterization, and plot. The second unit \u2014\nLiterature as Biblical Exegesis, \nshifts the focus to a reading of Biblical texts in tandem with their modern literary and cinematic interpretations, focusing on \nJob \nand \nEsther\n.\u00a0 What, we will ask, happen to the Biblical world once it is being refracted through a modern sensibility? How can we take literature seriously as Biblical hermeneutics? The third unit \u2014\nRecent Directions, \nintroduces some of the recent directions in the field, focusing on how literature imagines the relationship between Bible, archeology, and modernity, as well as on the intersection of Biblical literature, fantasy, and science fiction.",
     "instructor":"Offer Dynes",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -7801,7 +7878,7 @@
   {
     "course_code":"CPLT BC3000",
     "course_title":"GLOBAL LONG-FORM PHOTOGRAPHY",
-    "course_descr":null,
+    "course_descr":"How have artists been informed and influenced by the natural world? This course will examine how photography and literature have responded to nature, ecology, and the environment. We will explore how close-looking might inform an artist\u2019s practice regarding the living environment - its bounty - and its degradation. Students will study works whose makers have seen art as a form of praise of the natural world, as well as those who investigate the relationship between art and environmental activism. Readings will include those by John Muir, Rachel Carson, Robin Wall Kimmerer, Carl Jung, Robert Macfarlane, Mary Oliver, Kerri ni Dochartaigh and others. Particular emphasis will be placed on how photography over the past hundred years has responded to shrinking natural landscapes, environmental destruction, and global warming. We will study in-depth photographic essays by some of the following artists: Robert Adams; Rene Effendi; Kikuji Kawada; Dornith Doherty; Kirk Crippens and Gretchen Le Maistre; Brad Tempkin; Pablo Lopez Luz; Mandy Barker; Robert Zhoa Renhui, Masahisa Fukashe, and Meghann Riepenhoff. Students will be required to write response papers weekly, participate in weekly discussions, and produce a term-long photographic essay.",
     "instructor":"Diana Matar",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -7876,7 +7953,7 @@
   {
     "course_code":"CPLT BC3145",
     "course_title":"DERRIDA & LITERATURE",
-    "course_descr":null,
+    "course_descr":"Jacques Derrida was one of the most important thinkers of the 20th century and his impact on literary studies was enormously significant. The objective of this course is to take stock of Derrida\u2019s contribution to literature, and to do so by assessing the intricate relations he establishes between literature, philosophy, economic and political theory, gender studies, translation studies, postcolonial theory, and theology. The course is divided into six parts. Part 1 introduces Derrida\u2019s approach to \u2018deconstruction,\u2019 particularly as regards his engagement with the fundamental concepts of Western thought and the importance he confers upon the notion of \u2018writing\u2019 itself. Part 2 examines Derrida\u2019s autobiographical texts wherein he positions himself as a subject for deconstruction, interrogating his own gender, his sense of being an organic, creaturely life-form, the relationship he has to his own language, and the matter of his identity as French, but also as Algerian, and Jewish. While the majority of the Derrida texts we will be reading are excerpts from larger works or short essays and interviews, in this section we will read a full-length text \u2013 \nMonolingualism of the Other\n \u2013 so that we can trace Derrida\u2019s train of thought from beginning to end. In Part 3 we will use an interview conducted by Derek Attridge, \u201cThis Strange Institution Called Literature,\u201d as a template for thinking about Derrida\u2019s relation to literature, and in Part 4 we will read our second full-length text by Derrida, namely \nGiven Time 1: Counterfeit Money\n, an in-depth analysis of a prose poem by the French poet Charles Baudelaire. Part 5 considers an aspect of Derrida\u2019s work that reveals the extent of his embrace of provisional, in-between positions for thought in general, and for literary texts in particular, namely translation. For deconstruction is keenly invested in words beginning with \u2018trans\u2019: transposition, transplant, trans-valuation, and indeed trans-gender. Translation provides Derrida with a scenario whereby crossings and transits can be imagined \u2013 for literary texts, and for identities that wish to remain un-determined by fixed poles or normative values. The course finishes with an assessment of Derrida\u2019s reflections on death, mourning, and the matter of leaving a legacy. In Part 6, we therefore read more of the essay \u201cLiving On,\u201d and also Derrida\u2019s final interview, \u201cLearning to Live, F",
     "instructor":"Brian D O'Keeffe",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:25pm",
@@ -11300,7 +11377,7 @@
   {
     "course_code":"ENGI E1102",
     "course_title":"THE ART OF ENGINEERING",
-    "course_descr":null,
+    "course_descr":"Bridge between the science-oriented, high school way of thinking and the engineering point of view. Fundamental concepts of math and science reviewed and re-framed in an engineering context; numerous examples of each concept drawn from all disciplines of engineering represented at Columbia. Non-technical issues of importance in professional engineering practice such as ethics, engineering project management, and societal impact. \nOnly open to Columbia Engineering first-year undergraduate students or second-year transfer students. Lab fee: $150.",
     "instructor":"David G Vallancourt",
     "scheduled_time_start":"11:00am",
     "scheduled_time_end":"1:00pm",
@@ -11550,37 +11627,12 @@
     "type":"WORKSHOP"
   },
   {
-    "course_code":"ENGL BC3108",
-    "course_title":"INTRODUCTION TO FICTION WRITING",
-    "course_descr":"Writing sample required to apply. Instructions and the application form can be found here:\u00a0\nhttps:\/\/english.barnard.edu\/english\/creative-writing-courses\n. In this course, we will learn and practice essential concepts and techniques of writing fiction. We\u2019ll break down the elements of the craft\u2014everything from character, setting, and pacing to point of view, syntax, and imagery\u2013\u2013and we\u2019ll build an understanding of how stories work. Class time will include exercises and prompts; close reading of a wide range of published stories; discussions of process; and workshops of student stories. Come prepared to work hard, be open, and take risks.",
-    "instructor":null,
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
-    "call_number":"00097",
-    "campus":null,
-    "class_id":"X3108-20261-001",
-    "course_subtitle":"INTRO TO FICTION WRITING",
-    "department":"English @Barnard",
-    "department_code":"ENGL",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/X3108-20261-001\/",
-    "location":null,
-    "method_of_instruction":null,
-    "open_to":null,
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":null,
-    "section_key":"20261ENGL3108X001",
-    "type":"WORKSHOP"
-  },
-  {
     "course_code":"ENGL BC3110",
     "course_title":"INTRODUCTION TO POETRY WRITING",
     "course_descr":"Writing sample required to apply. Instructions and the application form can be found here: \nhttps:\/\/english.barnard.edu\/english\/creative-writing-courses\n.\n  \nSpring 2026: Poetry Belongs With Us\n  \nAs legend Lucille Clifton said, \u201cpoetry began when somebody walked out of a cave and looked up at the sky with wonder and said, \u201cAhhh.\u201d That was the first poem.\u201d In this class we will be demystifying the fundamentals of writing poetry by sharpening our most natural sonic and narrative instincts. We will use these instincts to guide our insights as we explore and practice specific craft elements and structural gestures\u2014from the Ode, Elegy, and Sonnet, to Ekphrasis and Erasure. We\u2019ll study the work of contemporary luminaries like Gwendolyn Brooks, Kaveh Akbar, Sharon Olds, Jenny Xie, June Jordan, Ocean Vuong, and more; using their example to inspire us on how best to understand and command the poetic line. Class time will include weekly writing prompts and share-outs, and each student will have one poem workshopped during the semester. And because there is no better way to understand the impact and power of poetry than to learn from its living practitioners, we will also have the pleasure of welcoming a few guest authors who will share their work and answer questions! Come prepared to take risks and foster curiosity.",
     "instructor":"Angel Nafis",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"6:00pm",
     "call_number":"00160",
     "campus":null,
     "class_id":"X3110-20261-001",
@@ -11588,14 +11640,14 @@
     "department":"English @Barnard",
     "department_code":"ENGL",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/X3110-20261-001\/",
-    "location":null,
+    "location":"To be announced",
     "method_of_instruction":null,
     "open_to":null,
     "points":"3",
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"T",
     "section_key":"20261ENGL3110X001",
     "type":"WORKSHOP"
   },
@@ -11604,8 +11656,8 @@
     "course_title":"INTRODUCTION TO POETRY WRITING",
     "course_descr":"Writing sample required to apply. Instructions and the application form can be found here: \nhttps:\/\/english.barnard.edu\/english\/creative-writing-courses\n.\n  \nSpring 2026: Poetry Belongs With Us\n  \nAs legend Lucille Clifton said, \u201cpoetry began when somebody walked out of a cave and looked up at the sky with wonder and said, \u201cAhhh.\u201d That was the first poem.\u201d In this class we will be demystifying the fundamentals of writing poetry by sharpening our most natural sonic and narrative instincts. We will use these instincts to guide our insights as we explore and practice specific craft elements and structural gestures\u2014from the Ode, Elegy, and Sonnet, to Ekphrasis and Erasure. We\u2019ll study the work of contemporary luminaries like Gwendolyn Brooks, Kaveh Akbar, Sharon Olds, Jenny Xie, June Jordan, Ocean Vuong, and more; using their example to inspire us on how best to understand and command the poetic line. Class time will include weekly writing prompts and share-outs, and each student will have one poem workshopped during the semester. And because there is no better way to understand the impact and power of poetry than to learn from its living practitioners, we will also have the pleasure of welcoming a few guest authors who will share their work and answer questions! Come prepared to take risks and foster curiosity.",
     "instructor":"Miranda Field",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"4:00pm",
     "call_number":"00669",
     "campus":null,
     "class_id":"X3110-20261-002",
@@ -11613,14 +11665,14 @@
     "department":"English @Barnard",
     "department_code":"ENGL",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/X3110-20261-002\/",
-    "location":null,
+    "location":"To be announced",
     "method_of_instruction":null,
     "open_to":null,
     "points":"3",
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"R",
     "section_key":"20261ENGL3110X002",
     "type":"WORKSHOP"
   },
@@ -11629,8 +11681,8 @@
     "course_title":"PLAYWRITING II",
     "course_descr":"Writing sample required to apply. Instructions and the application form can be found here: \nhttps:\/\/english.barnard.edu\/english\/creative-writing-courses\n. What makes a play alive? Often a playwright is surprised into their strongest work. The practices of experimentation and analysis, curiosity and audacity lead to new possibilities. Students will read and respond to plays, identifying elements and strategies, and each week bring in fragments and scenes written in response to weekly prompts. By the middle of the semester, students will choose the piece that feels the most viable and develop it into what in most cases will be a thirty page play. NOTE: Playwriting I (ENGL BC3113) is NOT a prerequisite, and students need not have written a play before.",
     "instructor":"Kathleen Tolan",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"6:00pm",
     "call_number":"00163",
     "campus":null,
     "class_id":"X3114-20261-001",
@@ -11638,7 +11690,7 @@
     "department":"English @Barnard",
     "department_code":"ENGL",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/X3114-20261-001\/",
-    "location":null,
+    "location":"To be announced",
     "method_of_instruction":null,
     "open_to":null,
     "points":"3",
@@ -11647,7 +11699,7 @@
         "ENGL BC3113"
       ]
     ],
-    "scheduled_days":null,
+    "scheduled_days":"T",
     "section_key":"20261ENGL3114X001",
     "type":"WORKSHOP"
   },
@@ -11656,8 +11708,8 @@
     "course_title":"STORY WRITING II",
     "course_descr":"Writing sample required to apply. Instructions and the application form can be found here:\u00a0\nhttps:\/\/english.barnard.edu\/english\/creative-writing-courses\n.\u00a0\n  \nSpring 2026\nStory Writing II is an advanced workshop in writing, with emphasis on the short story. Some experience in the writing of fiction is required. Each week we will read and analyze a variety of published short stories with an eye for craft and authorial decisions that might be applied to our own work. Writers we will read may include: Jean Stafford, Yiyun Li, Bryan Washington, Garth Greenwell, Lorrie Moore, Jamel Brinkley, Ling Ma, Cesar Aira, Mavis Gallant, and more. Exercises and in-depth workshop letters will push students to think more deeply about their own choices and the many layers that make up each work. Conference hours to be arranged.",
     "instructor":"Nellie G Hermann",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"11:00am",
+    "scheduled_time_end":"12:50pm",
     "call_number":"00173",
     "campus":null,
     "class_id":"X3116-20261-001",
@@ -11665,14 +11717,14 @@
     "department":"English @Barnard",
     "department_code":"ENGL",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/X3116-20261-001\/",
-    "location":null,
+    "location":"To be announced",
     "method_of_instruction":null,
     "open_to":null,
     "points":"3",
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"T",
     "section_key":"20261ENGL3116X001",
     "type":"WORKSHOP"
   },
@@ -11806,8 +11858,8 @@
     "course_title":"CREATIVE NON-FICTION",
     "course_descr":"Writing sample required to apply. Instructions and the application form can be found here: \nhttps:\/\/english.barnard.edu\/english\/creative-writing-courses\n.\n  \nSpring 2026: Drawing Cartoons and Comics\n  \nIn this class, New Yorker cartoonist and graphic novelist Liana Finck will teach you the basics of making single-panel cartoons, writing and drawing comics, and generally expressing yourself in a mixture of words and pictures. You will learn to diagram your problems, craft jokes, and tell stories visually. You\u2019ll get an overview of useful materials, programs and machines, and how to use all these things with a light enough touch that you can still focus on your art. You will get comfortable with processes for generating ideas and editing your work. We will read some graphic novels, look at lots of cartoons, and dip a toe into the history of colloquial visual storytelling. You will finish the semester with a large body of small-scale work, one serious longer piece, and a better understanding of your voice and what you have to say. My hope is that you\u2019ll leave the class confident in your ability to work visually, and with a regular practice if you want one.",
     "instructor":"Liana Finck",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"11:00am",
+    "scheduled_time_end":"12:50pm",
     "call_number":"00158",
     "campus":null,
     "class_id":"X3134-20261-001",
@@ -11815,14 +11867,14 @@
     "department":"English @Barnard",
     "department_code":"ENGL",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/X3134-20261-001\/",
-    "location":null,
+    "location":"To be announced",
     "method_of_instruction":null,
     "open_to":null,
     "points":"3",
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"W",
     "section_key":"20261ENGL3134X001",
     "type":"WORKSHOP"
   },
@@ -11831,8 +11883,8 @@
     "course_title":"THE CANTERBURY TALES",
     "course_descr":"Chaucer as inheritor of late-antique and medieval conventions and founder of early modern literature and the fiction of character.\u00a0 Selections from related medieval texts.",
     "instructor":"Eugene A Petracca",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"11:40am",
+    "scheduled_time_end":"12:55pm",
     "call_number":"00178",
     "campus":null,
     "class_id":"X3155-20261-001",
@@ -11840,14 +11892,14 @@
     "department":"English @Barnard",
     "department_code":"ENGL",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/X3155-20261-001\/",
-    "location":null,
+    "location":"To be announced",
     "method_of_instruction":null,
     "open_to":null,
     "points":"3",
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"MW",
     "section_key":"20261ENGL3155X001",
     "type":"LECTURE"
   },
@@ -11925,31 +11977,6 @@
     "scheduled_days":"M",
     "section_key":"20261ENGL3160X004",
     "type":"COLLOQUIA"
-  },
-  {
-    "course_code":"ENGL BC3161",
-    "course_title":"MEDIEVAL LOVE LITERATURE",
-    "course_descr":"Love dominates, according to received opinion, the literature of the Middle Ages, a period that indeed saw the emergence of courtly romance and Troubadour poetry. But medieval love literature is not all brave knights pining for haughty ladies. Love, for medieval writers, could be sacred or transgressive, irrational or philosophical, transcendent or debasing \u2013 and often it was several of these things at once. On the other hand, in a time when everything claims to be about love, one may sometimes be tempted to wonder if nothing is, and the topic certainly provided a space for medieval writers to explore a number of related themes such as gender, class, cultural difference, nature, and truth. In this course we will consider a selection of these rich and paradoxical texts, as we read in a variety of\n genres by authors across Europe including but not limited to: Abelard and Heloise, Ibn Hazm, Marie de France, Chretien de Troyes, Boccaccio, Petrarch, and Christine de Pisan.",
-    "instructor":"Eugene A Petracca",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
-    "call_number":"00098",
-    "campus":null,
-    "class_id":"X3161-20261-001",
-    "course_subtitle":null,
-    "department":"English @Barnard",
-    "department_code":"ENGL",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/X3161-20261-001\/",
-    "location":null,
-    "method_of_instruction":null,
-    "open_to":null,
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":null,
-    "section_key":"20261ENGL3161X001",
-    "type":"LECTURE"
   },
   {
     "course_code":"ENGL BC3164",
@@ -12061,8 +12088,8 @@
     "course_title":"CRITICAL WRITING",
     "course_descr":"Open to all students.This course teaches clear writing and provides exposure to a range of interpretative strategies. \u00a0Frequent short papers. Required of all English majors before the end of the junior year. Sophomores are encouraged to take it in the spring semester even before officially declaring their major. Transfer students should plan to take it in the fall semester.",
     "instructor":"Kristi-Lynn Cassaro",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"2:15pm",
     "call_number":"00174",
     "campus":null,
     "class_id":"X3193-20261-001",
@@ -12070,14 +12097,14 @@
     "department":"English @Barnard",
     "department_code":"ENGL",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/X3193-20261-001\/",
-    "location":null,
+    "location":"To be announced",
     "method_of_instruction":null,
     "open_to":null,
     "points":"4",
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"TR",
     "section_key":"20261ENGL3193X001",
     "type":"COLLOQUIA"
   },
@@ -12085,9 +12112,9 @@
     "course_code":"ENGL BC3193",
     "course_title":"CRITICAL WRITING",
     "course_descr":"Open to all students.This course teaches clear writing and provides exposure to a range of interpretative strategies. \u00a0Frequent short papers. Required of all English majors before the end of the junior year. Sophomores are encouraged to take it in the spring semester even before officially declaring their major. Transfer students should plan to take it in the fall semester.",
-    "instructor":"Monica F Cohen",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "instructor":"Eugene A Petracca",
+    "scheduled_time_start":"2:40pm",
+    "scheduled_time_end":"3:55pm",
     "call_number":"00175",
     "campus":null,
     "class_id":"X3193-20261-002",
@@ -12095,14 +12122,14 @@
     "department":"English @Barnard",
     "department_code":"ENGL",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/X3193-20261-002\/",
-    "location":null,
+    "location":"To be announced",
     "method_of_instruction":null,
     "open_to":null,
     "points":"4",
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"MW",
     "section_key":"20261ENGL3193X002",
     "type":"COLLOQUIA"
   },
@@ -12111,8 +12138,8 @@
     "course_title":"CRITICAL WRITING",
     "course_descr":"Open to all students.This course teaches clear writing and provides exposure to a range of interpretative strategies. \u00a0Frequent short papers. Required of all English majors before the end of the junior year. Sophomores are encouraged to take it in the spring semester even before officially declaring their major. Transfer students should plan to take it in the fall semester.",
     "instructor":"Michael C Dickman",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"11:40am",
+    "scheduled_time_end":"12:55pm",
     "call_number":"00176",
     "campus":null,
     "class_id":"X3193-20261-003",
@@ -12120,40 +12147,15 @@
     "department":"English @Barnard",
     "department_code":"ENGL",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/X3193-20261-003\/",
-    "location":null,
+    "location":"To be announced",
     "method_of_instruction":null,
     "open_to":null,
     "points":"4",
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"MW",
     "section_key":"20261ENGL3193X003",
-    "type":"COLLOQUIA"
-  },
-  {
-    "course_code":"ENGL BC3193",
-    "course_title":"CRITICAL WRITING",
-    "course_descr":"Open to all students.This course teaches clear writing and provides exposure to a range of interpretative strategies. \u00a0Frequent short papers. Required of all English majors before the end of the junior year. Sophomores are encouraged to take it in the spring semester even before officially declaring their major. Transfer students should plan to take it in the fall semester.",
-    "instructor":"Eugene A Petracca",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
-    "call_number":"00177",
-    "campus":null,
-    "class_id":"X3193-20261-004",
-    "course_subtitle":null,
-    "department":"English @Barnard",
-    "department_code":"ENGL",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/X3193-20261-004\/",
-    "location":null,
-    "method_of_instruction":null,
-    "open_to":null,
-    "points":"4",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":null,
-    "section_key":"20261ENGL3193X004",
     "type":"COLLOQUIA"
   },
   {
@@ -12180,6 +12182,31 @@
     "scheduled_days":"TR",
     "section_key":"20261ENGL3215X001",
     "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGL BC3229",
+    "course_title":"AMERICAN LIVES, AMERICAN STORIES",
+    "course_descr":"Writing sample required to apply: https:\/\/english.barnard.edu\/english\/creative-writing-courses\n  \nIn this class we will discuss the narrative of the \"American\" story, and how stories of immigrants and minority identities redefine and complicate it. The goal of the class is to investigate how writers frame a sense of identity in relation to the \"American ideal\". We will explore this theme through three creative non-fiction pieces each focusing on a different perspective of place, person, and personal experience. What are your stories, and what makes them \"American\"?",
+    "instructor":"Maria D Hinojosa",
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"10:50am",
+    "call_number":"00731",
+    "campus":null,
+    "class_id":"X3229-20261-001",
+    "course_subtitle":"AMER. LIVES, AMER. STORIE",
+    "department":"English @Barnard",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/X3229-20261-001\/",
+    "location":"To be announced",
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20261ENGL3229X001",
+    "type":"WORKSHOP"
   },
   {
     "course_code":"ENGL BC3321",
@@ -12311,8 +12338,8 @@
     "course_title":"DEPRESSION",
     "course_descr":"Depression has existed for all time.\u00a0 But our explanations of it has shifted, from sin, to an imbalance of the humours, and a poetic inspiration; from the eighteenth-century mechanistic understanding of the self, to the Freudian family romance that generates trauma, and to our current neuro-genetic understanding of the mind as a machine that can achieve happiness with pharmaceutical intervention.\u00a0 \u00a0 We will follow these permutations, even as we read novels, poems, plays, and view film (and art) for their diagnostic awareness of mental suffering. \u00a0 And we will also ask the question: what if depression comes not from within but without, the intelligent response of aware minds to a world that has become undone.",
     "instructor":"Daphne Miriam Merkin",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"6:00pm",
     "call_number":"00094",
     "campus":null,
     "class_id":"X3644-20261-001",
@@ -12320,14 +12347,14 @@
     "department":"English @Barnard",
     "department_code":"ENGL",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/X3644-20261-001\/",
-    "location":null,
+    "location":"To be announced",
     "method_of_instruction":null,
     "open_to":null,
     "points":"4",
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"W",
     "section_key":"20261ENGL3644X001",
     "type":"SEMINAR"
   },
@@ -12461,8 +12488,8 @@
     "course_title":"SENIOR SEMINAR IN ENGLISH",
     "course_descr":"Enrollment is limited to Barnard senior English majors. To see the current course description for each section, visit the English Department website: \nhttps:\/\/english.barnard.edu\/english\/senior-seminars",
     "instructor":"Jonathan L Beller",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"12:10pm",
+    "scheduled_time_end":"2:00pm",
     "call_number":"00154",
     "campus":null,
     "class_id":"X3998-20261-001",
@@ -12470,14 +12497,14 @@
     "department":"English @Barnard",
     "department_code":"ENGL",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/X3998-20261-001\/",
-    "location":null,
+    "location":"To be announced",
     "method_of_instruction":null,
     "open_to":null,
     "points":"4",
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"R",
     "section_key":"20261ENGL3998X001",
     "type":"SEMINAR"
   },
@@ -12486,8 +12513,8 @@
     "course_title":"SENIOR SEMINAR IN ENGLISH",
     "course_descr":"Enrollment is limited to Barnard senior English majors. To see the current course description for each section, visit the English Department website: \nhttps:\/\/english.barnard.edu\/english\/senior-seminars",
     "instructor":"Atefeh Akbari Shahmirzadi",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"11:00am",
+    "scheduled_time_end":"12:50pm",
     "call_number":"00200",
     "campus":null,
     "class_id":"X3998-20261-002",
@@ -12495,14 +12522,14 @@
     "department":"English @Barnard",
     "department_code":"ENGL",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/X3998-20261-002\/",
-    "location":null,
+    "location":"To be announced",
     "method_of_instruction":null,
     "open_to":null,
     "points":"4",
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"T",
     "section_key":"20261ENGL3998X002",
     "type":"SEMINAR"
   },
@@ -12511,8 +12538,8 @@
     "course_title":"SENIOR SEMINAR IN ENGLISH",
     "course_descr":"Enrollment is limited to Barnard senior English majors. To see the current course description for each section, visit the English Department website: \nhttps:\/\/english.barnard.edu\/english\/senior-seminars",
     "instructor":"Ken Chen",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"4:00pm",
     "call_number":"00202",
     "campus":null,
     "class_id":"X3998-20261-003",
@@ -12520,15 +12547,40 @@
     "department":"English @Barnard",
     "department_code":"ENGL",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/X3998-20261-003\/",
-    "location":null,
+    "location":"To be announced",
     "method_of_instruction":null,
     "open_to":null,
     "points":"4",
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"M",
     "section_key":"20261ENGL3998X003",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"ENGL BC3998",
+    "course_title":"SENIOR SEMINAR IN ENGLISH",
+    "course_descr":"Enrollment is limited to Barnard senior English majors. To see the current course description for each section, visit the English Department website: \nhttps:\/\/english.barnard.edu\/english\/senior-seminars",
+    "instructor":"Eugene A Petracca",
+    "scheduled_time_start":"5:40pm",
+    "scheduled_time_end":"7:30pm",
+    "call_number":"00689",
+    "campus":null,
+    "class_id":"X3998-20261-004",
+    "course_subtitle":null,
+    "department":"English @Barnard",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/X3998-20261-004\/",
+    "location":"To be announced",
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20261ENGL3998X004",
     "type":"SEMINAR"
   },
   {
@@ -12561,7 +12613,7 @@
   {
     "course_code":"ENGL PS0005",
     "course_title":"ACADEMIC WRITING",
-    "course_descr":null,
+    "course_descr":"This course helps students whose first language is not English\u00a0develop their academic writing skills. The course covers essay structure, rhetoric, grammatical accuracy, paraphrasing, citing sources, critical thinking, and editing\/revising work.\n  \nThe course is thematic: you will explore different topics and themes (current affairs, social issues, etc.) by reading, listening, and discussing material, and then write essays about that material. The instructors will provide extensive feedback to help you edit and revise your own writing.",
     "instructor":null,
     "scheduled_time_start":"9:10am",
     "scheduled_time_end":"11:25am",
@@ -12588,7 +12640,7 @@
   {
     "course_code":"ENGL PS0005",
     "course_title":"ACADEMIC WRITING",
-    "course_descr":null,
+    "course_descr":"This course helps students whose first language is not English\u00a0develop their academic writing skills. The course covers essay structure, rhetoric, grammatical accuracy, paraphrasing, citing sources, critical thinking, and editing\/revising work.\n  \nThe course is thematic: you will explore different topics and themes (current affairs, social issues, etc.) by reading, listening, and discussing material, and then write essays about that material. The instructors will provide extensive feedback to help you edit and revise your own writing.",
     "instructor":null,
     "scheduled_time_start":"9:10am",
     "scheduled_time_end":"11:25am",
@@ -12615,7 +12667,7 @@
   {
     "course_code":"ENGL PS0006",
     "course_title":"ACADEMIC WRITING",
-    "course_descr":null,
+    "course_descr":"This course helps students whose first language is not English\u00a0develop their academic writing skills. The course covers essay structure, rhetoric, grammatical accuracy, paraphrasing, citing sources, critical thinking, and editing\/revising work.\n  \nThe course is thematic: you will explore different topics and themes (current affairs, social issues, etc.) by reading, listening, and discussing material, and then write essays about that material. The instructors will provide extensive feedback to help you edit and revise your own writing.",
     "instructor":null,
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:25pm",
@@ -12642,7 +12694,7 @@
   {
     "course_code":"ENGL PS0006",
     "course_title":"ACADEMIC WRITING",
-    "course_descr":null,
+    "course_descr":"This course helps students whose first language is not English\u00a0develop their academic writing skills. The course covers essay structure, rhetoric, grammatical accuracy, paraphrasing, citing sources, critical thinking, and editing\/revising work.\n  \nThe course is thematic: you will explore different topics and themes (current affairs, social issues, etc.) by reading, listening, and discussing material, and then write essays about that material. The instructors will provide extensive feedback to help you edit and revise your own writing.",
     "instructor":null,
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:25pm",
@@ -12800,168 +12852,6 @@
     "scheduled_days":"TR",
     "section_key":"20261ENGL0719Z001",
     "type":"WORKSHOP"
-  },
-  {
-    "course_code":"ENGL PS0810",
-    "course_title":"THESIS WRITING",
-    "course_descr":null,
-    "instructor":null,
-    "scheduled_time_start":"12:10pm",
-    "scheduled_time_end":"2:00pm",
-    "call_number":"10905",
-    "campus":null,
-    "class_id":"Z0810-20261-001",
-    "course_subtitle":null,
-    "department":"American Language Program",
-    "department_code":"ENGL",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/Z0810-20261-001\/",
-    "location":"To be announced",
-    "method_of_instruction":"In-Person",
-    "open_to":[
-      "GSAS"
-    ],
-    "points":"0",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"R",
-    "section_key":"20261ENGL0810Z001",
-    "type":"LANGUAGE"
-  },
-  {
-    "course_code":"ENGL PS1007",
-    "course_title":"ADV ACAD WRITING FOR GS",
-    "course_descr":null,
-    "instructor":null,
-    "scheduled_time_start":"9:10am",
-    "scheduled_time_end":"11:00am",
-    "call_number":"10906",
-    "campus":null,
-    "class_id":"Z1007-20261-001",
-    "course_subtitle":null,
-    "department":"American Language Program",
-    "department_code":"ENGL",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/Z1007-20261-001\/",
-    "location":"To be announced",
-    "method_of_instruction":"In-Person",
-    "open_to":[
-      "General Studies"
-    ],
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"TR",
-    "section_key":"20261ENGL1007Z001",
-    "type":"LANGUAGE"
-  },
-  {
-    "course_code":"ENGL PS1007",
-    "course_title":"ADV ACAD WRITING FOR GS",
-    "course_descr":null,
-    "instructor":null,
-    "scheduled_time_start":"11:10am",
-    "scheduled_time_end":"1:00pm",
-    "call_number":"10907",
-    "campus":null,
-    "class_id":"Z1007-20261-002",
-    "course_subtitle":null,
-    "department":"American Language Program",
-    "department_code":"ENGL",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/Z1007-20261-002\/",
-    "location":"To be announced",
-    "method_of_instruction":"In-Person",
-    "open_to":[
-      "General Studies"
-    ],
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"TR",
-    "section_key":"20261ENGL1007Z002",
-    "type":"LANGUAGE"
-  },
-  {
-    "course_code":"ENGL PS1007",
-    "course_title":"ADV ACAD WRITING FOR GS",
-    "course_descr":null,
-    "instructor":null,
-    "scheduled_time_start":"6:10pm",
-    "scheduled_time_end":"8:00pm",
-    "call_number":"10908",
-    "campus":null,
-    "class_id":"Z1007-20261-003",
-    "course_subtitle":null,
-    "department":"American Language Program",
-    "department_code":"ENGL",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/Z1007-20261-003\/",
-    "location":"To be announced",
-    "method_of_instruction":"In-Person",
-    "open_to":[
-      "General Studies"
-    ],
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"MW",
-    "section_key":"20261ENGL1007Z003",
-    "type":"LANGUAGE"
-  },
-  {
-    "course_code":"ENGL PS1007",
-    "course_title":"ADV ACAD WRITING FOR GS",
-    "course_descr":null,
-    "instructor":null,
-    "scheduled_time_start":"6:10pm",
-    "scheduled_time_end":"8:00pm",
-    "call_number":"10909",
-    "campus":null,
-    "class_id":"Z1007-20261-004",
-    "course_subtitle":null,
-    "department":"American Language Program",
-    "department_code":"ENGL",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/Z1007-20261-004\/",
-    "location":"To be announced",
-    "method_of_instruction":"In-Person",
-    "open_to":[
-      "General Studies"
-    ],
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"TR",
-    "section_key":"20261ENGL1007Z004",
-    "type":"LANGUAGE"
-  },
-  {
-    "course_code":"ENGL PS1007",
-    "course_title":"ADV ACAD WRITING FOR GS",
-    "course_descr":null,
-    "instructor":null,
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
-    "call_number":"10910",
-    "campus":null,
-    "class_id":"Z1007-20261-005",
-    "course_subtitle":null,
-    "department":"American Language Program",
-    "department_code":"ENGL",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/Z1007-20261-005\/",
-    "location":null,
-    "method_of_instruction":"In-Person",
-    "open_to":[
-      "General Studies"
-    ],
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":null,
-    "section_key":"20261ENGL1007Z005",
-    "type":"LANGUAGE"
   },
   {
     "course_code":"ENGL UN1000",
@@ -14068,7 +13958,7 @@
   {
     "course_code":"FREN BC3044",
     "course_title":"THEATER OF THE ABSURD",
-    "course_descr":null,
+    "course_descr":"Close reading and occasional screening of major plays associated with the Theater of the Absurd. Philosophical and literary origins of the concept of the absurd; social and political context of its emergence; theatrical conventions of early performances; popular and critical reception. Authors include: Adamov, Artaud, Beckett, Camus, Ionesco, Jarry, Maeterlinck.",
     "instructor":"Peter T Connor",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -14270,7 +14160,7 @@
   {
     "course_code":"FYSB BC1001",
     "course_title":"FIRST-YEAR SEMINAR AT BARNARD",
-    "course_descr":null,
+    "course_descr":"First-Year Seminars initiate students into the academic life of the College by offering intellectually engaging experiences in which students and faculty from a wide range of home departments\u00a0work through challenging material, often across disciplinary lines. Each one-semester seminar is designed to develop essential skills for college work, such as the ability to read critically and analytically, to speak clearly and effectively, and to write logically and persuasively.\n  \nFirst-Year Seminars vary in content and format, and fall into two categories: Special Topics and Reacting to the Past.\u00a0 \u00a0Descriptions are available in Vergil.",
     "instructor":"Michael Shelichach",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -14843,29 +14733,54 @@
     "type":"SEMINAR"
   },
   {
-    "course_code":"GERM BC2210",
-    "course_title":"GRAMMATIK AKTIV",
-    "course_descr":"An intensive study of key features of German grammar, with an emphasis on skill-building exercises and practical solutions to common problems of writing and speaking on the intermediate level; aims at building confidence in using simple and more complex sentence structures.",
-    "instructor":"Irene Motyl",
-    "scheduled_time_start":"4:10pm",
-    "scheduled_time_end":"6:00pm",
-    "call_number":"00578",
+    "course_code":"FYWB BC1001",
+    "course_title":"FIRST-YEAR WRITING AT BARNARD",
+    "course_descr":"First-Year Writing (FYW) courses invite students into the vibrant scholarly life of the college. Working in small, discussion-based seminar classes over the course of one semester, we read challenging literary texts and critical scholarship, helping students to develop fundamental skills in analysis and academic writing that allow them to take their place in vitally important scholarly conversations. Students may choose from a variety of special topics\u00a0that focus\u00a0on a particular literary tradition, theme, or phenomenon. Please see\u00a0https:\/\/firstyear.barnard.edu\/fyw\/course-listings for full course descriptions.",
+    "instructor":"Faculty",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"11:25am",
+    "call_number":"00729",
     "campus":null,
-    "class_id":"X2210-20261-001",
-    "course_subtitle":null,
-    "department":"German @Barnard",
-    "department_code":"GERM",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/GERM\/X2210-20261-001\/",
+    "class_id":"X1001-20261-025",
+    "course_subtitle":"The Trouble With Parents",
+    "department":"First-Year Writing @Barnard",
+    "department_code":"FYWB",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FYWB\/X1001-20261-025\/",
     "location":"To be announced",
     "method_of_instruction":null,
     "open_to":null,
-    "points":"2",
+    "points":"3",
     "prerequisites":[
 
     ],
-    "scheduled_days":"W",
-    "section_key":"20261GERM2210X001",
-    "type":"LECTURE"
+    "scheduled_days":"MW",
+    "section_key":"20261FYWB1001X025",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"FYWB BC1001",
+    "course_title":"FIRST-YEAR WRITING AT BARNARD",
+    "course_descr":"First-Year Writing (FYW) courses invite students into the vibrant scholarly life of the college. Working in small, discussion-based seminar classes over the course of one semester, we read challenging literary texts and critical scholarship, helping students to develop fundamental skills in analysis and academic writing that allow them to take their place in vitally important scholarly conversations. Students may choose from a variety of special topics\u00a0that focus\u00a0on a particular literary tradition, theme, or phenomenon. Please see\u00a0https:\/\/firstyear.barnard.edu\/fyw\/course-listings for full course descriptions.",
+    "instructor":"Faculty",
+    "scheduled_time_start":"11:40am",
+    "scheduled_time_end":"12:55pm",
+    "call_number":"00730",
+    "campus":null,
+    "class_id":"X1001-20261-026",
+    "course_subtitle":"The Trouble With Parents",
+    "department":"First-Year Writing @Barnard",
+    "department_code":"FYWB",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FYWB\/X1001-20261-026\/",
+    "location":"To be announced",
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20261FYWB1001X026",
+    "type":"SEMINAR"
   },
   {
     "course_code":"GERM BC2212",
@@ -14893,31 +14808,32 @@
     "type":"LECTURE"
   },
   {
-    "course_code":"GERM UN3002",
-    "course_title":"ADVANCED GERMAN II",
-    "course_descr":"Corequisites: Course either taken before or after GERM V3001. Intensive practice in oral and written German. Discussions, oral reports, and weekly written assignments, based on material of topical and stylistic variety taken from German press and from literary sources.",
+    "course_code":"GERM UN2102",
+    "course_title":"INTERMEDIATE GERMAN II",
+    "course_descr":"Prerequisites: GERM UN2101 or the equivalent.\n  \nIntermediate German UN2102 is conducted entirely in German and emphasizes the four basic language skills, cultural awareness, and critical thinking. A wide range of topics (from politics and poetry to art) as well as authentic materials (texts, film, art, etc.) are used to improve the 4 skill. Practice in conversation aims at enlarging the vocabulary necessary for daily communication. Grammar is practiced in the context of the topics. Learning and evaluation are individualized (individual vocabulary lists, essays, oral presentations, final portfolio) and project-based (group work and final group project).",
     "instructor":"Irene Motyl",
-    "scheduled_time_start":"2:40pm",
-    "scheduled_time_end":"3:55pm",
-    "call_number":"00217",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"00216",
     "campus":null,
-    "class_id":"V3002-20261-001",
+    "class_id":"V2102-20261-005",
     "course_subtitle":null,
     "department":"German @Barnard",
     "department_code":"GERM",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/GERM\/V3002-20261-001\/",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/GERM\/V2102-20261-005\/",
     "location":"To be announced",
     "method_of_instruction":null,
     "open_to":null,
-    "points":"3",
+    "points":"4",
     "prerequisites":[
       [
-        "GERM V3001"
+        "GERM UN2101",
+        "UN2102"
       ]
     ],
     "scheduled_days":"MW",
-    "section_key":"20261GERM3002V001",
-    "type":"LECTURE"
+    "section_key":"20261GERM2102V005",
+    "type":"LANGUAGE"
   },
   {
     "course_code":"GERM UN3780",
@@ -15197,7 +15113,7 @@
   {
     "course_code":"HIST BC1412",
     "course_title":"INTRO TO AMERICAN HISTORY SINCE 1865-DIS",
-    "course_descr":null,
+    "course_descr":"Discussion section for HIST UN1402\u00a0Intro to American History since 1865.",
     "instructor":"Matthew Vaz",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -15213,7 +15129,9 @@
     "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "HIST UN1402"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20261HIST1412X001",
@@ -15222,7 +15140,7 @@
   {
     "course_code":"HIST BC1412",
     "course_title":"INTRO TO AMERICAN HISTORY SINCE 1865-DIS",
-    "course_descr":null,
+    "course_descr":"Discussion section for HIST UN1402\u00a0Intro to American History since 1865.",
     "instructor":"Matthew Vaz",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -15238,7 +15156,9 @@
     "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "HIST UN1402"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20261HIST1412X002",
@@ -15247,7 +15167,7 @@
   {
     "course_code":"HIST BC1412",
     "course_title":"INTRO TO AMERICAN HISTORY SINCE 1865-DIS",
-    "course_descr":null,
+    "course_descr":"Discussion section for HIST UN1402\u00a0Intro to American History since 1865.",
     "instructor":"Matthew Vaz",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -15263,7 +15183,9 @@
     "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "HIST UN1402"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20261HIST1412X003",
@@ -15272,7 +15194,7 @@
   {
     "course_code":"HIST BC1412",
     "course_title":"INTRO TO AMERICAN HISTORY SINCE 1865-DIS",
-    "course_descr":null,
+    "course_descr":"Discussion section for HIST UN1402\u00a0Intro to American History since 1865.",
     "instructor":"Matthew Vaz",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -15288,7 +15210,9 @@
     "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "HIST UN1402"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20261HIST1412X004",
@@ -15422,7 +15346,7 @@
   {
     "course_code":"HIST BC2375",
     "course_title":"Fascism in European History",
-    "course_descr":null,
+    "course_descr":"What was Fascism? What kind of appeal did authoritarianism and dictatorship have in interwar Europe? How did the Fascist \u201cNew Order\u201d challenge liberal democracies and why did it fail in World War II? What was the common denominator of Fascist movements across Europe, and in particular in Mussolini\u2019s Italy, Salazar\u2019s Portugal, Franco\u2019s Spain, culminating in Nazi Germany?\n  \nThis class examines the history of Fascism as an ideology, constellation of political movements, and authoritarian regimes that aimed at controlling the modernization of European societies in the interwar period. Thus, the course focuses in particular on the relationship between politics, science and society to investigate how Fascism envisioned the modernity of new technologies, new social norms, and new political norms. The class will also explore Fascism\u2019s imperialist goals, such as the calls for national renewal, the engineering of a new race, and the creation of a new world order.",
     "instructor":"Angelo Caglioti",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:25pm",
@@ -15472,7 +15396,7 @@
   {
     "course_code":"HIST BC2681",
     "course_title":"WOMEN AND GENDER IN LATIN AMERICA",
-    "course_descr":null,
+    "course_descr":"Examines the gendered roles of women and men in Latin American society from the colonial period to the present. Explores a number of themes, including the intersection of social class, race, ethnicity, and gender; the nature of patriarchy; masculinity; gender and the state; and the gendered nature of political mobilization.",
     "instructor":"Nara Milanich",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -15497,7 +15421,7 @@
   {
     "course_code":"HIST BC2698",
     "course_title":"Latin American Civilization II - DIS",
-    "course_descr":null,
+    "course_descr":"This is the discussion section for HIST BC2699: Latin American Civilization II.",
     "instructor":"Alfonso Salgado",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -15513,7 +15437,9 @@
     "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "HIST BC2699"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20261HIST2698X001",
@@ -15522,7 +15448,7 @@
   {
     "course_code":"HIST BC2698",
     "course_title":"Latin American Civilization II - DIS",
-    "course_descr":null,
+    "course_descr":"This is the discussion section for HIST BC2699: Latin American Civilization II.",
     "instructor":"Alfonso Salgado",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -15538,7 +15464,9 @@
     "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "HIST BC2699"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20261HIST2698X002",
@@ -15547,7 +15475,7 @@
   {
     "course_code":"HIST BC2698",
     "course_title":"Latin American Civilization II - DIS",
-    "course_descr":null,
+    "course_descr":"This is the discussion section for HIST BC2699: Latin American Civilization II.",
     "instructor":"Alfonso Salgado",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -15563,7 +15491,9 @@
     "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "HIST BC2699"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20261HIST2698X003",
@@ -15572,7 +15502,7 @@
   {
     "course_code":"HIST BC2698",
     "course_title":"Latin American Civilization II - DIS",
-    "course_descr":null,
+    "course_descr":"This is the discussion section for HIST BC2699: Latin American Civilization II.",
     "instructor":"Alfonso Salgado",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -15588,7 +15518,9 @@
     "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "HIST BC2699"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20261HIST2698X004",
@@ -15622,7 +15554,7 @@
   {
     "course_code":"HIST BC2803",
     "course_title":"GENDER AND EMPIRE",
-    "course_descr":null,
+    "course_descr":"This course provides a political and social history of India from the 16th-19th century, focusing on the Mughal empire. Two central concerns: first, the Mughal regnal politics towards their rival imperial concerns within India and West Asia (the Maratha, the Rajput, the Safavid, the Ottoman); and second, the foreign gaze onto the Mughals (via the presence of Portuguese, English, and French travelers, merchants, and diplomats in India). These interlocked practices (how Mughals saw the world and how the world saw the Mughals) will allow us develop a nuanced knowledge of universally acknowledged power of the early modern world. Partially fulfills Global Core Requirement.",
     "instructor":"Anupama Rao",
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:55pm",
@@ -15672,7 +15604,7 @@
   {
     "course_code":"HIST BC3301",
     "course_title":"Science and Fascism",
-    "course_descr":null,
+    "course_descr":"In 1942, the American sociologist Robert Merton described modern science as an intellectual enterprise that can produce truthful and factual knowledge only if inspired by democratic values. Yet such concept contrasted starkly with the reality of science in the interwar period and World War II, at the peak of the clash between liberal democracies and fascist dictatorships. What was the role of science in the global conflict between liberalism and the fascist \u2018New Order\u2019? What did science and technology look like under fascism?\n  \nThis class examines the relationship between science and fascism in Fascist Italy, Nazi Germany, Franco\u2019s Spain, and Salazar\u2019s Portugal. During the Great War (1914-1918), science and technology were enlisted as critical assets for the war effort and the international scientific community was shattered across national lines. The Great War proved the importance of the scientific organization of society and state-controlled scientific advancement. Fascism developed this lesson in the interwar period to pursue its nationalist and imperialist goal: the creation of a new world order.\n  \nThus, the seminar explores the entanglement between science, technology and fascism by examining a wide range of disciplines, such as physics, medicine, eugenics, statistics, demography, agronomy, and engineering. Focusing in particular on fascism\u2019s central themes of race and empire, the course examines the relationship between state power and scientific expertise, the persecution of Jewish scientists in Nazi Germany and Fascist Italy, and scientists\u2019 critical competition in World War II ahead of the creation of the atomic bomb, which ushered in the new era of the Cold War.",
     "instructor":"Angelo Caglioti",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -15697,7 +15629,7 @@
   {
     "course_code":"HIST BC3392",
     "course_title":"RESRCH SEMINAR IN HISTORY II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: Open to Barnard College History Senior Majors. Individual guided research and writing in history and the presentation of results in seminar and in the form of the senior essay. See Requirements for the Major for details.",
     "instructor":"Andrew C Lipman",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -15747,7 +15679,7 @@
   {
     "course_code":"HIST BC3791",
     "course_title":"Lagos: From the Pepperfarm to the Megaci",
-    "course_descr":null,
+    "course_descr":"Lagos: The City Is\u2026\n  \n  \nthe unofficial capital of Nigeria\n  \nthe go-slow capital of the world\n  \nRem Koolhaas\u2019 planning mystery\n  \nGeorge Packer\u2019s mega-city nightmare\n \n  \n\u00a0\n  \nAbove all, as social scientist Margaret Peil once said, Lagos: The city is the people. At last count, over 15 million people to be (in)exact which makes Lagos the second most densely populated city in Africa. How does a city like Lagos come into being? What are its origins?\u00a0 What is its history in regional, continental, and global context?\u00a0 How does it \u2018work\u2019 and what work does it do for our understandings of cities, urbanization, urbanism, colonialism, globalization, trans-nationalism, and the spatial factor in Africanist historical analyses?\u00a0 This course examines the many Lagoses that have existed over time, in space, and in the imagination from the city\u2019s origins to the 21st century.\u00a0 This is a reading, writing, viewing, and listening intensive course.\u00a0 We will be reading scholarly, policy-oriented, and popular sources on Lagos as well as screening films and audio recordings that feature Lagos in order to learn about the social, cultural, and intellectual history of this West African mega-city.",
     "instructor":"Abosede A George",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -15772,7 +15704,7 @@
   {
     "course_code":"HIST BC3825",
     "course_title":"RACE, CASTE, AND THE UNIVERSITY: B. R. A",
-    "course_descr":null,
+    "course_descr":"B. R. Ambedkar is arguably one of Columbia University\u2019s most illustrious alumni, and a democratic thinker and constitutional lawyer who had enormous impact in shaping India, the world\u2019s largest democracy. As is well known, Ambedkar came to Columbia University in July 1913 to start a doctoral program in Political Science. He graduated in 1915 with a Masters degree, and got his doctorate from Columbia in 1927 after having studied with some of the great figures of interwar American thought including Edwin Seligman, James Shotwell, Harvey Robinson, and John Dewey.\n  \n\u00a0\n  \nThis course follows the model of the Columbia University and Slavery course and draws extensively on the relevant holdings and resources of Columbia\u2019s RBML, Rare Books and Manuscript Library Burke Library (Union Theological Seminar), and the Schomburg Center for Research in Black Culture among others to explore a set of relatively understudied links between Ambedkar, Columbia University, and the intellectual history of the interwar period. Themes include: the development of the disciplines at Columbia University and their relationship to new paradigms of social scientific study; the role of historical comparison between caste and race in producing new models of scholarship and political solidarity; links between figures such as Ambedkar, Lala Lajpat Rai, W. E. B. Du Bois and others who were shaped by the distinctive public and political culture of New York City, and more.\n  \nThis is a hybrid course which aims to create a finding aid for B. R. Ambedkar that traverses RBML private papers. Students will engage in a number of activities towards that purpose. They will attend multiple instructional sessions at the RBML\u00a0to train students in using archives; they will make public presentations on their topics, which will be archived in video form; and stuents will produce digital essays on a variety of themes and topics related to the course. Students will work collaboratively in small groups and undertake focused archival research. \u00a0This seminar inaugurates an on-going, multiyear effort to grapple with globalizing the reach and relevance of B. R. Ambedkar and to share our findings with the Columbia community and beyond.\u00a0 Working independently, students will define and pursue individual research projects.\u00a0 Working together, the class will create digital visualizations of these projects.",
     "instructor":"Anupama Rao",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -15797,7 +15729,7 @@
   {
     "course_code":"HNUT N6225",
     "course_title":"Lifestyle Medicine",
-    "course_descr":null,
+    "course_descr":"Lifestyle medicine is an area of medicine focusing on lifestyle modification for prevention and treatment of chronic illness.\u00a0\u00a0The course aims to describe the practice of lifestyle medicine and evidence-based understanding of 6 key principles of lifestyle medicine, including nutrition, physical activity, stress management, sleep, social connection and risk avoidance. Through the course students will learn the evidence behind the 6 principles and how to apply them in a clinical encounter. Each module will begin with asynchronous pre-class work, followed by a synchronous didactic lecture and interactive workshop, and then concluded with post-class homework on the topic.",
     "instructor":"Moneek Madra",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -21145,7 +21077,7 @@
   {
     "course_code":"JWST GU4155",
     "course_title":"Auteur Study: Steven Spielberg",
-    "course_descr":null,
+    "course_descr":"The world\u2019s most influential living film director and the most impactful creator of\n  \npopular culture in the last quarter of the Twentieth Century is a Jewish-American. Steven\n  \nSpielberg\u2019s uncanny grasp of visual storytelling and his auteurist signature can be found\n  \non every film he has directed, as well as many he has produced. This course will analyze\n  \nthe content and formal construction of Spielberg\u2019s films by following their thematic\n  \nthrough-lines \u2013 family ties (strained and healthy), the implacable threat, humanity at war,\n  \nman vs. the natural world, the child\u2019s perspective, Jewish identity and others \u2013 in films as\n  \ndisparate as Jaws and The Color Purple.\n  \nEach class meeting will include a complete screening of a feature film directed by Steven\n  \nSpielberg, as well as clips of related films by Spielberg. Readings will include critical\n  \nessays, histories, and interviews which elaborate on in-class screenings and cover\n  \nadditional topics and films. Written assignments will be three analytical essays which\n  \nwill encourage critical thinking, close analysis of film texts, and independent research\n  \nbeyond the materials presented in class.",
     "instructor":"Stuart Weinstock",
     "scheduled_time_start":"10:00am",
     "scheduled_time_end":"1:45pm",
@@ -26305,6 +26237,83 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"LING GU4023",
+    "course_title":"Semantics",
+    "course_descr":"This course provides an introduction to semantics, the study of meaning in language. We will explore a range of semantic phenomena, and students will learn the tools and techniques of formal semantic analysis as well as core concepts, goals, and findings of the field.",
+    "instructor":"Meredith Landman",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"11:25am",
+    "call_number":"10952",
+    "campus":null,
+    "class_id":"W4023-20261-001",
+    "course_subtitle":null,
+    "department":"Slavic Languages",
+    "department_code":"LING",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/LING\/W4023-20261-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20261LING4023W001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"LING GU4800",
+    "course_title":"LANGUAGE & SOCIETY",
+    "course_descr":"How language structure and usage varies according to societal factors such as social history and socioeconomic factors, illustrated with study modules on language contact, language standardization and literacy, quantitative sociolinguistic theory, language allegiance, language, and power.",
+    "instructor":"John H McWhorter",
+    "scheduled_time_start":"11:40am",
+    "scheduled_time_end":"12:55pm",
+    "call_number":"10954",
+    "campus":null,
+    "class_id":"W4800-20261-001",
+    "course_subtitle":null,
+    "department":"Slavic Languages",
+    "department_code":"LING",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/LING\/W4800-20261-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20261LING4800W001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"LING GU4903",
+    "course_title":"SYNTAX",
+    "course_descr":"Prerequisites: LING UN3101 Syntax - the combination of words - has been at the center of the Chomskyan revolution in Linguistics. This is a technical course which examines modern formal theories of syntax, focusing on later versions of generative syntax (Government and Binding) with secondary attention to alternative models (HPSG, Categorial Grammar).",
+    "instructor":"Meredith Landman",
+    "scheduled_time_start":"2:40pm",
+    "scheduled_time_end":"3:55pm",
+    "call_number":"10953",
+    "campus":null,
+    "class_id":"W4903-20261-001",
+    "course_subtitle":null,
+    "department":"Slavic Languages",
+    "department_code":"LING",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/LING\/W4903-20261-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+      [
+        "LING UN3101"
+      ]
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20261LING4903W001",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"LING UN3101",
     "course_title":"INTRODUCTION TO LINGUISTICS",
     "course_descr":"An introduction to the study of language from a scientific perspective. The course is divided into three units: language as a system (sounds, morphology, syntax, and semantics), language in context (in space, time, and community), and language of the individual (psycholinguistics, errors, aphasia, neurology of language, and acquisition). Workload: lecture, weekly homework, and final examination.",
@@ -26328,6 +26337,31 @@
     "scheduled_days":"TR",
     "section_key":"20261LING3101W001",
     "type":"LECTURE"
+  },
+  {
+    "course_code":"LING UN3994",
+    "course_title":"SUPERVISED IND RES-LING THESIS",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"11:30am",
+    "scheduled_time_end":"1:00pm",
+    "call_number":"10955",
+    "campus":null,
+    "class_id":"W3994-20261-001",
+    "course_subtitle":"SUPERVISED IND RES-LING T",
+    "department":"Slavic Languages",
+    "department_code":"LING",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/LING\/W3994-20261-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"1-4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"F",
+    "section_key":"20261LING3994W001",
+    "type":"WORKSHOP"
   },
   {
     "course_code":"LWPS GR8829",
@@ -27988,7 +28022,7 @@
   {
     "course_code":"NURS N5800",
     "course_title":"Topics in Nursing Practice",
-    "course_descr":null,
+    "course_descr":"This course is designed to introduce pre-licensure students to relevant and emergent topics which affect the practice of nursing in the national and international healthcare system. The focus will be on issues confronting professional nurses including global health, cultural awareness, gender identity, and evidence-based wellness. State mandated topics for licensure will be covered.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -28013,7 +28047,7 @@
   {
     "course_code":"NURS N6122",
     "course_title":"Pathophysiology of the Child",
-    "course_descr":null,
+    "course_descr":"This course is required for students in Pediatric Primary Care and the Pediatric Specialty Care programs. The pathogenesis of common conditions affecting children is presented and serves as a basis for clinical management. Relevant pharmacology is presented for each of the disease entities.",
     "instructor":"Deanna M Schneider",
     "scheduled_time_start":"1:00pm",
     "scheduled_time_end":"3:50pm",
@@ -28067,7 +28101,7 @@
   {
     "course_code":"NURS N6299",
     "course_title":"Independent Study in Family Primary Care",
-    "course_descr":null,
+    "course_descr":"Individualized, guided learning experiences at the graduate level in a selected area of concentration. The area of concentration selected should reflect both the role of the clinical specialist \/ nurse practitioner and the student\u2019s specific interests. Proposed work must be outlined prior to registration and agreed upon by both faculty and student.",
     "instructor":"Ellen M Fahey",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -28094,7 +28128,7 @@
   {
     "course_code":"NURS N6614",
     "course_title":"Pediatric Nurse Practitioner Clinical Pr",
-    "course_descr":null,
+    "course_descr":"This is the first clinical experience with pediatric patients for the PNP student. The student will be responsible for developing objectives and sharing them with the preceptor. The skills needed to obtain a good history and physical will be honed and further developed. When possible, the student will proactively seek opportunities to practice clinical skills of vision screening, hearing screening and venous access. The student will develop their skills in developmental and mental health screening.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -28121,7 +28155,7 @@
   {
     "course_code":"NURS N7307",
     "course_title":"Primary Care for the FNP: Practicum",
-    "course_descr":null,
+    "course_descr":"The clinical practicum is designed to prepare the students to provide primary care across the lifespan focusing on health maintenance. The clinical experience will familiarize the student with age-appropriate physical, cognitive and emotional\u00a0development, routine well and episodic care\u00a0as well as\u00a0identifying social determinants of health and health disparities in primary care.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -28148,7 +28182,7 @@
   {
     "course_code":"NURS N8331",
     "course_title":"Diagnosis and Management of the Complex",
-    "course_descr":null,
+    "course_descr":"This is the third course of three consecutive courses focusing on a systems and developmental approach in primary care with emphasis on risk assessment, comorbidities and acuity to determine the most appropriate level of care. This course will focus on the differential diagnosis and comprehensive management of commonly encountered acute and chronic physical and mental health illnesses as they affect individuals across the lifespan.",
     "instructor":"Marlene E Mc Hugh",
     "scheduled_time_start":"9:00am",
     "scheduled_time_end":"11:50am",
@@ -28173,7 +28207,7 @@
   {
     "course_code":"NURS N8361",
     "course_title":"Clinical Seminar in Women's Health",
-    "course_descr":null,
+    "course_descr":"Clinical seminar in Women's Health is designed to provide the Women's Health Subspecialty student with an opportunity to expand on clinical practicum experiences via case presentation and faculty led group clinical discussion. Each student will present a case chosen from the women's health practicum experience. The presenting student will lead a class discussion based on their case facilitated by the course instructor. Some seminar sessions will include a didactic component presented by the course instructor to further elaborate on clinical issues presented in the cases over the course of the semester.",
     "instructor":"Adena Bargad",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -28200,7 +28234,7 @@
   {
     "course_code":"NURS N9155",
     "course_title":"Scholarly Writing I",
-    "course_descr":null,
+    "course_descr":"This online, self-directed course is the first of two designed to introduce students to scholarly writing and dissemination for clinicians. The course provides students with practical information, exercises, and resources for successful clinical manuscript preparation and clinical conference poster and oral presentation. The course introduces students to fundamental skills for scholarly writing including strategies for identifying topics and constructing clinical questions and understanding how different kinds of clinical questions are best answered by different approaches to scholarly writing. Students learn to differentiate among quality improvement projects, research projects, types of literature reviews, case studies and clinical practice manuscripts. Students utilize electronic resources for literature searches and citation management and develop familiarity with professional journals and conferences in their specialty areas. This course content allows for the synthesis and application of the skills and resources developed over the semester and will serve as the basis for a draft of a scholarly product (manuscript, poster, podium presentation) prepared in Scholarly Writing II. As a result, students are prepared for a lifelong approach to integrating scholarship into clinical practice.",
     "instructor":"Adena Bargad",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -28227,7 +28261,7 @@
   {
     "course_code":"NURS N9405",
     "course_title":"Practice Leadership and Quality",
-    "course_descr":null,
+    "course_descr":"This course is designed to provide the student with the knowledge and skills necessary to serve as a member and lead interdisciplinary groups in organizational assessment to identify systems issues and facilitate organization-wide changes in practice delivery utilizing quality improvement strategies. Course content focusses on understanding systems concepts and thinking to achieve results in complex health care delivery systems. Frameworks, approaches, and tools that foster critical thinking are examined as mechanisms to formulate vital questions, gather and assess relevant information, develop well-reasoned conclusions, test conclusions against relevant standards, compare conclusions with alternative systems of thought, and communicate effectively throughout the process.",
     "instructor":null,
     "scheduled_time_start":"5:00pm",
     "scheduled_time_end":"7:50pm",
@@ -28254,7 +28288,7 @@
   {
     "course_code":"NURS N9730",
     "course_title":"DNP Intensive Practicum",
-    "course_descr":null,
+    "course_descr":"The DNP intensive practicum focuses on the delivery of fully accountable, evidenced based care for patients across clinical sites. The DNP student will demonstrate an integration of comprehensive assessment, advanced differential diagnosis, therapeutic intervention, evaluation of care for patients and synthesis of evidence-based practice with patients with a variety of conditions. In this context, the DNP student will organize and develop a professional portfolio.",
     "instructor":"Ellen M Fahey",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -28281,7 +28315,7 @@
   {
     "course_code":"NUTR G4020",
     "course_title":"MOLECULR\/CELL BIO OF NUTRIENTS",
-    "course_descr":null,
+    "course_descr":"Second Term. Explores molecular and cellular mechanisms of nutrient action. Six major foci of modern nutritional science. These include the actions of nutrients in transcriptional regulation, in signaling pathways, on intra- and extracellular trafficking, in assuring normal development, in the maintance of antioxidant defences and nutrient\/gene interations.",
     "instructor":"Lori M Zeltser",
     "scheduled_time_start":"9:00am",
     "scheduled_time_end":"10:30am",
@@ -28316,7 +28350,7 @@
   {
     "course_code":"NUTR G9011",
     "course_title":"DOCTORAL RESEARCH IN NUTRITION",
-    "course_descr":null,
+    "course_descr":"Students are required to carry out independent research under the direction of a faculty member of the Doctoral Subcommittee on Nutrition.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -28345,7 +28379,7 @@
   {
     "course_code":"NUTR G9205",
     "course_title":"DOCTORAL SEMINAR IN NUTRITION",
-    "course_descr":null,
+    "course_descr":"Presentation of doctoral student research and guest speakers.",
     "instructor":null,
     "scheduled_time_start":"12:00pm",
     "scheduled_time_end":"12:50pm",
@@ -28484,7 +28518,7 @@
   {
     "course_code":"NUTR M8207",
     "course_title":"INTEGRATIVE NUTRITION & PATHOPHYSIOLOGY",
-    "course_descr":null,
+    "course_descr":"Prerequisite: registration as a nutrition degree candidate or instructors permission. Discussion of pathology, symptomatology, and clinical manifestations with case presentations when possible. Laboratory assessments of each condition. Principles of nutritional intervention for therapy and prevention.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -28565,7 +28599,7 @@
   {
     "course_code":"NUTR M9750",
     "course_title":"THESIS RESEARCH",
-    "course_descr":null,
+    "course_descr":"Independent nutrition research arranged in conjunction with one of the faculty. This forms the basis for the M.S. thesis.",
     "instructor":"Moneek Madra",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -32242,7 +32276,7 @@
   {
     "course_code":"RUSS GU4434",
     "course_title":"PRACTICAL STYLISTICS-RUSS LANG",
-    "course_descr":null,
+    "course_descr":"Prerequisites: RUSS W4334 or the equivalent or the instructor's permission. Prerequisite: four years of college Russian or instructor's permission. The course will focus on theoretical matters of language and style and on the practical aspect of improving students' writing skills. Theoretical aspects of Russian style and specific Russian stylistic conventions will be combined with the analysis of student papers and translation assignments, as well as exercises focusing on reviewing certain specific difficulties in mastering written Russian.",
     "instructor":"Irina Reyfman",
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:55pm",
@@ -32258,7 +32292,9 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "RUSS W4334"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20261RUSS4434W001",
@@ -32267,7 +32303,7 @@
   {
     "course_code":"RUSS UN1102",
     "course_title":"FIRST-YEAR RUSSIAN II",
-    "course_descr":null,
+    "course_descr":"Grammar, reading, composition, and conversation.",
     "instructor":null,
     "scheduled_time_start":"8:50am",
     "scheduled_time_end":"9:55am",
@@ -32292,7 +32328,7 @@
   {
     "course_code":"RUSS UN1102",
     "course_title":"FIRST-YEAR RUSSIAN II",
-    "course_descr":null,
+    "course_descr":"Grammar, reading, composition, and conversation.",
     "instructor":null,
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:15am",
@@ -32315,9 +32351,34 @@
     "type":"LANGUAGE"
   },
   {
+    "course_code":"RUSS UN1102",
+    "course_title":"FIRST-YEAR RUSSIAN II",
+    "course_descr":"Grammar, reading, composition, and conversation.",
+    "instructor":null,
+    "scheduled_time_start":"11:40am",
+    "scheduled_time_end":"12:45pm",
+    "call_number":"10951",
+    "campus":null,
+    "class_id":"V1102-20261-003",
+    "course_subtitle":null,
+    "department":"Slavic Languages",
+    "department_code":"RUSS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/RUSS\/V1102-20261-003\/",
+    "location":"709 Hamilton Hall",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"5",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MTWR",
+    "section_key":"20261RUSS1102V003",
+    "type":"LANGUAGE"
+  },
+  {
     "course_code":"RUSS UN2102",
     "course_title":"SECOND-YEAR RUSSIAN II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: RUSS UN2101 or the equivalent. Drill practice in small groups. Reading, composition, and grammar review.",
     "instructor":null,
     "scheduled_time_start":"8:50am",
     "scheduled_time_end":"9:55am",
@@ -32333,7 +32394,9 @@
     "open_to":null,
     "points":"5",
     "prerequisites":[
-
+      [
+        "RUSS UN2101"
+      ]
     ],
     "scheduled_days":"MTWR",
     "section_key":"20261RUSS2102V001",
@@ -32342,7 +32405,7 @@
   {
     "course_code":"RUSS UN2102",
     "course_title":"SECOND-YEAR RUSSIAN II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: RUSS UN2101 or the equivalent. Drill practice in small groups. Reading, composition, and grammar review.",
     "instructor":null,
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:15am",
@@ -32358,7 +32421,9 @@
     "open_to":null,
     "points":"5",
     "prerequisites":[
-
+      [
+        "RUSS UN2101"
+      ]
     ],
     "scheduled_days":"MTWR",
     "section_key":"20261RUSS2102V002",
@@ -32367,7 +32432,7 @@
   {
     "course_code":"RUSS UN3102",
     "course_title":"THIRD-YEAR RUSSIAN II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: RUSS UN2102 or the equivalent and the instructors permission. Enrollment limited. Recommended for students who wish to improve their active command of Russian. Emphasis on conversation and composition. Reading and discussion of selected texts and videotapes. Lectures. Papers and oral reports required. Conducted entirely in Russian.",
     "instructor":"Tatiana Mikhailova",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -32383,7 +32448,9 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "RUSS UN2102"
+      ]
     ],
     "scheduled_days":"MWF",
     "section_key":"20261RUSS3102V001",
@@ -32392,7 +32459,7 @@
   {
     "course_code":"RUSS UN3107",
     "course_title":"Russian Through Theater",
-    "course_descr":null,
+    "course_descr":"Russian Through Theater is a content-based language course designed for students who already have the equivalent of two semesters of college-level Russian and want to continue exploring their path as Russian language learners. This course is experimental in that it combines elements of traditional language learning with theatricality and creativity.\u00a0 A stress-free learning environment will stimulate language skills and fluency. Staging skits, theatrical pieces, short at first and longer by the end of the semester, will encourage students to focus on phonetics, intonation contour, and idiomatic expressions. In addition to performing skits and short plays, the course includes various forms of improvisation. Reading, listening and speaking - these three essential skills of language learning are constantly practiced. Incorporating theater into language learning not only makes the process enjoyable but also creates a rich, immersive environment that supports language development holistically. Various performative and ludic models, offered by the theater productions -- rehearsed and improvised alike \u2013 will help students with shaping a language persona, a skill that students may use in life situations. This skill adds confidence to their conduct of language and allows to communicate effectively with limited linguistic knowledge.\n  \nClasses will be conducted primarily in Russian, with sporadic instruction in English when necessary for clarification of assignments or for better understanding of terminology used during mini-lectures.",
     "instructor":"Tatiana Mikhailova",
     "scheduled_time_start":"5:00pm",
     "scheduled_time_end":"6:40pm",
@@ -32417,7 +32484,7 @@
   {
     "course_code":"RUSS UN3221",
     "course_title":"LIT & REVOLUTION (20TH C LIT)",
-    "course_descr":null,
+    "course_descr":"The revolutionary period (1905-1938) in Russia was not only one of extreme social upheaval but also of exceptional creativity. Established ideas about individuality and collectivity, about how to depict reality, about language, gender, authority, and violence, were all thrown open to radical questioning. Out of this chaos came ideas about literature and film (just for example) which have shaped Western thought on these subjects to this day. In this course we will study a variety of media and genres (poetry, manifestos, film, painting, photomontage, the novel, theoretical essays) in an effort to gain a deep understanding of this complex and fascinating period in Russian cultural history.",
     "instructor":"Mark Lipovetsky",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:25pm",
@@ -32442,7 +32509,7 @@
   {
     "course_code":"RUSS UN3222",
     "course_title":"TOLSTOY AND DOSTOEVSKY",
-    "course_descr":null,
+    "course_descr":"Two epic novels, Tolstoys War and Peace and Dostoevskys The Brothers Karamazov, will be read along with selected shorter works. Other works by Tolstoy include his early Sebastopol Sketches, which changed the way war is represented in literature; Confession, which describes his spiritual crisis; the late stories Kreutzer Sonata and Hadji Murad; and essays on capital punishment and a visit to a slaughterhouse. Other works by Dostoevsky include his fictionalized account of life in Siberian prison camp, The House of the Dead; Notes from the Underground, his philosophical novella on free will, determinism, and love; A Gentle Creature, a short story on the same themes; and selected essays from Diary of a Writer. The focus will be on close reading of the texts. Our aim will be to develop strategies for appreciating the structure and form, the powerful ideas, the engaging storylines, and the human interest in the writings of Tolstoy and Dostoevsky. No knowledge of Russian is required.",
     "instructor":"Liza Knapp",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -32467,7 +32534,7 @@
   {
     "course_code":"RUSS UN3431",
     "course_title":"RUSSIAN FOR HERITAGE SPKRS II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: RUSS V3430 or the instructors permission. This course is designed to help students who speak Russian at home, but have no or limited reading and writing skills to develop literary skills in Russian. THIS COURSE, TAKEN WITH RUSS V3430, MEET A TWO YEAR FOREIGN LANGUAGE REQUIREMENT. Conducted in Russian.",
     "instructor":null,
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:25pm",
@@ -32483,7 +32550,12 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "RUSS V3430"
+      ],
+      [
+        "RUSS V3430"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20261RUSS3431V001",
@@ -37500,7 +37572,7 @@
   {
     "course_code":"SOCI BC3943",
     "course_title":"Black Americans and Development Politics",
-    "course_descr":null,
+    "course_descr":"This seminar explores theories regarding race\/racism, gendered racism, capitalism, political economy, and processes related to how governments and markets allocate capital to build and maintain public goods and services and private amenities\u2014from drinking water, to homes, to schools, to grocery and retail stores. Focus is on debates within and across Black communities regarding how Black people should seek individual and collective capacity to realize their citizenship rights and privileges, with particular attention to variation in Black Americans\u2019 interests across the class spectrum. The final two weeks are devoted to Black liberation and reparations movements.",
     "instructor":"Angela Simms",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -37525,7 +37597,7 @@
   {
     "course_code":"SOCI BC3947",
     "course_title":"Black Education",
-    "course_descr":null,
+    "course_descr":"This class will examine the development of education for African Americans in the United States. Chattel slavery and its afterlives are marked by questions, debates, and experiments not simply in schooling for Black people, but how to use education for the practice of freedom. Through examining this development, students will learn how the experience of Black people in schools complicates static notions about public vs private schools, demands for school desegregation, and the ongoing role of (mostly) white philanthropy in shaping the development of education for Black youth in the US and around the world.",
     "instructor":"Dominic T Walker",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -40638,7 +40710,7 @@
   {
     "course_code":"UKRN GU4007",
     "course_title":"Advanced Ukrainian Through Literature, M",
-    "course_descr":null,
+    "course_descr":"This course is organized around a number of thematic centers or modules. Each is focused on stylistic peculiarities typical of a given functional style of the Ukrainian language. Each is designed to assist the student in acquiring an active command of lexical, grammatical, discourse, and stylistic traits that distinguish one style from the others and actively using them in real-life communicative settings in contemporary Ukraine. The styles include literary fiction, scholarly prose, and journalism, both printed and broadcast",
     "instructor":"Yuri Shevchuk",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:25pm",
@@ -40663,7 +40735,7 @@
   {
     "course_code":"UKRN GU4037",
     "course_title":"SOV UKRAINIAN MODERNISM: REV, REB, EXPER",
-    "course_descr":null,
+    "course_descr":"This course studies the renaissance in Ukrainian culture of the 1920s - a period of revolution, experimentation, vibrant expression and polemics. Focusing on the most important developments in literature, as well as on the intellectual debates they inspired, the course will also examine the major achievements in Ukrainian theater, visual art and film as integral components of the cultural spirit that defined the era. Additionally, the course also looks at the subsequent implementation of the socialist realism and its impact on Ukrainian culture and on the cultural leaders of the renaissance. The course treats one of the most important periods of Ukrainian culture and examines it lasting impact on today's Ukraine. This period produced several world-renowned cultural figures, whose connections with the 1920s Ukraine have only recently begun to be discussed. The course will be complemented by film screenings, presentations of visual art and rare publications from this period. Entirely in English with a parallel reading list for those who read Ukrainian.",
     "instructor":"Mark Andryczyk",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:25pm",
@@ -40688,7 +40760,7 @@
   {
     "course_code":"UKRN UN1102",
     "course_title":"ELEMENTARY UKRAINIAN II",
-    "course_descr":null,
+    "course_descr":"Designed for students with little or no knowledge of Ukrainian. Basic grammar structures are introduced and reinforced, with equal emphasis on developing oral and written communication skills. Specific attention to acquisition of high-frequency vocabulary and its optimal use in real-life settings.",
     "instructor":"Yuri Shevchuk",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -40713,7 +40785,7 @@
   {
     "course_code":"UKRN UN2102",
     "course_title":"INTERMEDIATE UKRAINIAN II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: UKRN UN1102 or the equivalent. Reviews and reinforces the fundamentals of grammar and a core vocabulary from daily life. Principal emphasis is placed on further development of communicative skills (oral and written). Verbal aspect and verbs of motion receive special attention.",
     "instructor":"Yuri Shevchuk",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -40729,7 +40801,9 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "UKRN UN1102"
+      ]
     ],
     "scheduled_days":"MWR",
     "section_key":"20261UKRN2102W001",
@@ -40952,8 +41026,8 @@
     "course_title":"URBAN ELSEWHERES: EXPLORING A WORLD OF C",
     "course_descr":"We live in an increasingly urbanized world. But what does it mean to be \u201curban\u201d? As urbanization reaches more corners of the globe, its forms and processes become increasingly diverse. \nUrban Elsewheres\n is dedicated to investigating this diversity and to exploring the implications that unfamiliar urban phenomena might have for how we understand urbanization\u2014both elsewhere in the world and in our own backyards. Through a comparative engagement with case studies drawn from around the world, this course will challenge some of our most deeply held, common sense assumptions about urbanization. Students will be asked to stretch the conceptual limits of urbanization and explore the social and political possibilities of an expanded urbanism. In doing so, the course will engage with the many of the most heated theoretical debates about urbanization, equipping students with a set of comparative analytical tools with which to explore the wider field of urban studies.",
     "instructor":"Nick R Smith",
-    "scheduled_time_start":"2:40pm",
-    "scheduled_time_end":"3:55pm",
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"2:25pm",
     "call_number":"00426",
     "campus":null,
     "class_id":"V3351-20261-001",
@@ -40973,7 +41047,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":"TR",
+    "scheduled_days":"F",
     "section_key":"20261URBS3351V001",
     "type":"LECTURE"
   },
