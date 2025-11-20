@@ -127,6 +127,31 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"AHMM UN3320",
+    "course_title":"MUSIC IN EAST ASIA",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"10335",
+    "campus":null,
+    "class_id":"V3320-20262-003",
+    "course_subtitle":null,
+    "department":"Summer Session (SUMM)",
+    "department_code":"AHMM",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/AHMM\/V3320-20262-003\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262AHMM3320V003",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"AMPO PS0101",
     "course_title":"Wealth and Democracy in the United State",
     "course_descr":"",
@@ -1635,7 +1660,7 @@
   {
     "course_code":"CHEM S1403",
     "course_title":"GENERAL CHEMISTRY I-LECTURES",
-    "course_descr":null,
+    "course_descr":"Prerequisites: high school chemistry and algebra, CHEM S0001, or the department's permission. Topics include stoichiometry, states of matter, nuclear properties, electronic structures of atoms, periodic properties, chemical bonding, molecular geometry, introduction to quantum mechanics and atomic theory, introduction to organic, biological chemistry and inorganic coordination chemistry. Topical subjects may include spectroscopy, solid state and materials science, polymer science and macromolecular structures. The order of presentation of topics may differ from the order presented here. Students are required to attend the separate daily morning recitations which accompany the lectures (total time block: MTWR 9:30-12:20). Registering for CHEM S1403D will automatically register students for the recitation section. Students who wish to take the full sequence of General Chemistry Lectures and General Chemistry Laboratory should also register for CHEM S1404Q and CHEM S1500 (see below). This course is equivalent to CHEM W1403 General Chemistry I Lecture.",
     "instructor":"Jason G Polisar",
     "scheduled_time_start":"9:30am",
     "scheduled_time_end":"12:20pm",
@@ -1651,7 +1676,17 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "CHEM S0001",
+        "CHEM S1403",
+        "CHEM S1404"
+      ],
+      [
+        "CHEM S1500"
+      ],
+      [
+        "CHEM W1403"
+      ]
     ],
     "scheduled_days":"MTWR",
     "section_key":"20262CHEM1403S001",
@@ -1660,7 +1695,7 @@
   {
     "course_code":"CHEM S1404",
     "course_title":"GENERAL CHEMISTRY II-LECTURES",
-    "course_descr":null,
+    "course_descr":"Prerequisites: CHEM S1403 General Chemistry I Lecture or the equivalent. Topics include gases, kinetic theory of gases, states of matter: liquids and solids, chemical equilibria, acids and bases, applications of equilibria, thermochemistry and spontaneous processes (energy, enthalpy, entropy, free energy) as well as chemical kinetics and electrochemistry. The order of presentation of topics may differ from the order presented here. Students must also attend the daily morning recitations which accompany the lectures (total time block: MTWR 9:30-12:20). Registering for CHEM S1404Q will automatically register students for the recitation section. The continuation of CHEM S1403D General Chemistry I Lecture. Students who wish to take the full sequence of General Chemistry Lectures and General Chemistry Laboratory should also register for CHEM S1403D and CHEM S1500 (see below). This course is equivalent to CHEM UN1404 General Chemistry II Lecture.",
     "instructor":"Jason G Polisar",
     "scheduled_time_start":"9:30am",
     "scheduled_time_end":"12:20pm",
@@ -1676,7 +1711,18 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "CHEM S1403",
+        "CHEM S1404",
+        "CHEM S1403",
+        "CHEM S1403"
+      ],
+      [
+        "CHEM S1500"
+      ],
+      [
+        "CHEM UN1404"
+      ]
     ],
     "scheduled_days":"MTWR",
     "section_key":"20262CHEM1404S001",
@@ -1685,7 +1731,7 @@
   {
     "course_code":"CHEM S1404",
     "course_title":"GENERAL CHEMISTRY II-LECTURES",
-    "course_descr":null,
+    "course_descr":"Prerequisites: CHEM S1403 General Chemistry I Lecture or the equivalent. Topics include gases, kinetic theory of gases, states of matter: liquids and solids, chemical equilibria, acids and bases, applications of equilibria, thermochemistry and spontaneous processes (energy, enthalpy, entropy, free energy) as well as chemical kinetics and electrochemistry. The order of presentation of topics may differ from the order presented here. Students must also attend the daily morning recitations which accompany the lectures (total time block: MTWR 9:30-12:20). Registering for CHEM S1404Q will automatically register students for the recitation section. The continuation of CHEM S1403D General Chemistry I Lecture. Students who wish to take the full sequence of General Chemistry Lectures and General Chemistry Laboratory should also register for CHEM S1403D and CHEM S1500 (see below). This course is equivalent to CHEM UN1404 General Chemistry II Lecture.",
     "instructor":"Ruben M Savizky",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"7:35pm",
@@ -1701,7 +1747,18 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "CHEM S1403",
+        "CHEM S1404",
+        "CHEM S1403",
+        "CHEM S1403"
+      ],
+      [
+        "CHEM S1500"
+      ],
+      [
+        "CHEM UN1404"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20262CHEM1404S002",
@@ -1710,7 +1767,7 @@
   {
     "course_code":"CHEM S1406",
     "course_title":"GENERAL CHEMISTRY II-REC",
-    "course_descr":null,
+    "course_descr":"Corequisites: CHEM S1404X. To be enrolled in CHEM S1404X, you must be enrolled in CHEM S1406X.",
     "instructor":"Ruben M Savizky",
     "scheduled_time_start":"5:00pm",
     "scheduled_time_end":"5:50pm",
@@ -1726,7 +1783,15 @@
     "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "CHEM S1404"
+      ],
+      [
+        "CHEM S1404"
+      ],
+      [
+        "CHEM S1406"
+      ]
     ],
     "scheduled_days":"T",
     "section_key":"20262CHEM1406S001",
@@ -1735,7 +1800,7 @@
   {
     "course_code":"CHEM S1406",
     "course_title":"GENERAL CHEMISTRY II-REC",
-    "course_descr":null,
+    "course_descr":"Corequisites: CHEM S1404X. To be enrolled in CHEM S1404X, you must be enrolled in CHEM S1406X.",
     "instructor":"Ruben M Savizky",
     "scheduled_time_start":"5:00pm",
     "scheduled_time_end":"5:50pm",
@@ -1751,7 +1816,15 @@
     "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "CHEM S1404"
+      ],
+      [
+        "CHEM S1404"
+      ],
+      [
+        "CHEM S1406"
+      ]
     ],
     "scheduled_days":"R",
     "section_key":"20262CHEM1406S003",
@@ -1760,7 +1833,7 @@
   {
     "course_code":"CHEM S1406",
     "course_title":"GENERAL CHEMISTRY II-REC",
-    "course_descr":null,
+    "course_descr":"Corequisites: CHEM S1404X. To be enrolled in CHEM S1404X, you must be enrolled in CHEM S1406X.",
     "instructor":"Ruben M Savizky",
     "scheduled_time_start":"8:00pm",
     "scheduled_time_end":"8:50pm",
@@ -1776,7 +1849,15 @@
     "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "CHEM S1404"
+      ],
+      [
+        "CHEM S1404"
+      ],
+      [
+        "CHEM S1406"
+      ]
     ],
     "scheduled_days":"T",
     "section_key":"20262CHEM1406S002",
@@ -1785,7 +1866,7 @@
   {
     "course_code":"CHEM S1500",
     "course_title":"GENERAL CHEMISTRY: LABORATORY",
-    "course_descr":null,
+    "course_descr":"Prerequisites: (CHEM UN1403) Introduction to basic experimental techniques in chemistry, including quantitative procedures, chemical analysis, and descriptive chemistry. To be enrolled in CHEM S1500X you must also register for CHEM S1501 Lab Lecture.",
     "instructor":"Sarah J Hansen",
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"4:50pm",
@@ -1801,7 +1882,13 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "CHEM S1500",
+        "CHEM S1501"
+      ],
+      [
+        "CHEM UN1403"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20262CHEM1500S001",
@@ -1810,7 +1897,7 @@
   {
     "course_code":"CHEM S1500",
     "course_title":"GENERAL CHEMISTRY: LABORATORY",
-    "course_descr":null,
+    "course_descr":"Prerequisites: (CHEM UN1403) Introduction to basic experimental techniques in chemistry, including quantitative procedures, chemical analysis, and descriptive chemistry. To be enrolled in CHEM S1500X you must also register for CHEM S1501 Lab Lecture.",
     "instructor":"Joseph C Ulichny",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"4:50pm",
@@ -1826,7 +1913,13 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "CHEM S1500",
+        "CHEM S1501"
+      ],
+      [
+        "CHEM UN1403"
+      ]
     ],
     "scheduled_days":"T",
     "section_key":"20262CHEM1500S002",
@@ -1835,7 +1928,7 @@
   {
     "course_code":"CHEM S1500",
     "course_title":"GENERAL CHEMISTRY: LABORATORY",
-    "course_descr":null,
+    "course_descr":"Prerequisites: (CHEM UN1403) Introduction to basic experimental techniques in chemistry, including quantitative procedures, chemical analysis, and descriptive chemistry. To be enrolled in CHEM S1500X you must also register for CHEM S1501 Lab Lecture.",
     "instructor":"Joseph C Ulichny",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"4:50pm",
@@ -1851,7 +1944,13 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "CHEM S1500",
+        "CHEM S1501"
+      ],
+      [
+        "CHEM UN1403"
+      ]
     ],
     "scheduled_days":"W",
     "section_key":"20262CHEM1500S003",
@@ -1860,7 +1959,7 @@
   {
     "course_code":"CHEM S1500",
     "course_title":"GENERAL CHEMISTRY: LABORATORY",
-    "course_descr":null,
+    "course_descr":"Prerequisites: (CHEM UN1403) Introduction to basic experimental techniques in chemistry, including quantitative procedures, chemical analysis, and descriptive chemistry. To be enrolled in CHEM S1500X you must also register for CHEM S1501 Lab Lecture.",
     "instructor":"Joseph C Ulichny",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"4:50pm",
@@ -1876,16 +1975,47 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "CHEM S1500",
+        "CHEM S1501"
+      ],
+      [
+        "CHEM UN1403"
+      ]
     ],
     "scheduled_days":"R",
     "section_key":"20262CHEM1500S004",
     "type":"LABORATORY"
   },
   {
+    "course_code":"CHEM S1500",
+    "course_title":"GENERAL CHEMISTRY: LABORATORY",
+    "course_descr":null,
+    "instructor":"Sarah J Hansen",
+    "scheduled_time_start":"12:10pm",
+    "scheduled_time_end":"4:50pm",
+    "call_number":"10352",
+    "campus":null,
+    "class_id":"S1500-20262-005",
+    "course_subtitle":"GENERAL CHEMISTRY: LABORA",
+    "department":"Summer Session (SUMM)",
+    "department_code":"CHEM",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CHEM\/S1500-20262-005\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20262CHEM1500S005",
+    "type":"LABORATORY"
+  },
+  {
     "course_code":"CHEM S1501",
     "course_title":"GENERAL CHEMISTRY LAB-LECTURE",
-    "course_descr":null,
+    "course_descr":"Corequisites: CHEM S1500 Lab lecture for CHEM S1500 General Chemistry Laboratory.",
     "instructor":"Joseph C Ulichny",
     "scheduled_time_start":"3:00pm",
     "scheduled_time_end":"4:15pm",
@@ -1901,7 +2031,10 @@
     "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "CHEM S1500",
+        "CHEM S1500"
+      ]
     ],
     "scheduled_days":"M",
     "section_key":"20262CHEM1501S001",
@@ -1910,7 +2043,7 @@
   {
     "course_code":"CHEM S2443",
     "course_title":"ORGANIC CHEMISTRY I-LECTURES",
-    "course_descr":null,
+    "course_descr":"Prerequisites: CHEM S1403 General Chemistry I Lecture, CHEM S1404 General Chemistry II Lecture and CHEM S1500 General Chemistry Lab or their equivalents taken within the previous five years. Principles of organic chemistry. The structure and reactivity of organic molecules from the standpoint of modern theories of chemistry. Stereochemistry, reactions of organic molecules, mechanisms of organic reactions, syntheses and degradations of organic molecules, spectroscopic techniques of structure determination. Please note that students must attend a recitation for this class. Students who wish to take the full organic chemistry lecture sequence and laboratory should also register for CHEM S2444Q Organic Chemistry II Lecture and CHEM S2543Q Organic Chemistry Lab (see below). This course is equivalent to CHEM UN2443 Organic Chemistry I Lecture.",
     "instructor":"Talha Siddiqui",
     "scheduled_time_start":"9:30am",
     "scheduled_time_end":"12:20pm",
@@ -1926,7 +2059,20 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "CHEM S1403"
+      ],
+      [
+        "CHEM S1404"
+      ],
+      [
+        "CHEM S1500",
+        "CHEM S2444"
+      ],
+      [
+        "CHEM S2543",
+        "CHEM UN2443"
+      ]
     ],
     "scheduled_days":"MTWR",
     "section_key":"20262CHEM2443S001",
@@ -1935,7 +2081,7 @@
   {
     "course_code":"CHEM S2444",
     "course_title":"ORGANIC CHEMISTRY II-LECTURES",
-    "course_descr":null,
+    "course_descr":"Prerequisites: CHEM S2443D Organic Chemistry I Lecture or the equivalent. The principles of organic chemistry. The structure and reactivity of organic molecules are examined from the standpoint of modern theories of chemistry. Topics include stereochemistry, reactions of organic molecules, mechanisms of organic reactions, syntheses and degradations of organic molecules, and spectroscopic techniques of structure determination. This course is a continuation of CHEM S2443D Organic Chemistry I Lecture. Please note that students must attend a recitation for this class. Students who wish to take the full organic chemistry lecture sequence and laboratory should also register for CHEM S2443D Organic Chemistry I Lecture and CHEM S2543Q Organic Chemistry Lab - see below. This course is equivalent to CHEM UN2444 Organic Chemistry II Lecture.",
     "instructor":"Talha Siddiqui",
     "scheduled_time_start":"9:30am",
     "scheduled_time_end":"12:20pm",
@@ -1951,7 +2097,17 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "CHEM S2443"
+      ],
+      [
+        "CHEM S2443",
+        "CHEM S2443"
+      ],
+      [
+        "CHEM S2543",
+        "CHEM UN2444"
+      ]
     ],
     "scheduled_days":"MTWR",
     "section_key":"20262CHEM2444S001",
@@ -1960,7 +2116,7 @@
   {
     "course_code":"CHEM S2444",
     "course_title":"ORGANIC CHEMISTRY II-LECTURES",
-    "course_descr":null,
+    "course_descr":"Prerequisites: CHEM S2443D Organic Chemistry I Lecture or the equivalent. The principles of organic chemistry. The structure and reactivity of organic molecules are examined from the standpoint of modern theories of chemistry. Topics include stereochemistry, reactions of organic molecules, mechanisms of organic reactions, syntheses and degradations of organic molecules, and spectroscopic techniques of structure determination. This course is a continuation of CHEM S2443D Organic Chemistry I Lecture. Please note that students must attend a recitation for this class. Students who wish to take the full organic chemistry lecture sequence and laboratory should also register for CHEM S2443D Organic Chemistry I Lecture and CHEM S2543Q Organic Chemistry Lab - see below. This course is equivalent to CHEM UN2444 Organic Chemistry II Lecture.",
     "instructor":"Christopher Eckdahl",
     "scheduled_time_start":"5:35pm",
     "scheduled_time_end":"8:05pm",
@@ -1976,7 +2132,17 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "CHEM S2443"
+      ],
+      [
+        "CHEM S2443",
+        "CHEM S2443"
+      ],
+      [
+        "CHEM S2543",
+        "CHEM UN2444"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20262CHEM2444S002",
@@ -1985,7 +2151,7 @@
   {
     "course_code":"CHEM S2543",
     "course_title":"ORGANIC CHEMISTRY LABORATORY",
-    "course_descr":null,
+    "course_descr":"Prerequisites: CHEM UN1500 General Chemistry Lab, CHEM UN2443 Organic Chemistry I - Lecture. Techniques of experimental organic chemistry, with emphasis on understanding fundamental principles underlying the experiments in methodology of solving laboratory problems involving organic molecules. Attendance at the first laboratory session is mandatory. Please note that you must complete CHEM UN2443 Organic Chemistry I Lecture or the equivalent to register for this lab course. This course is equivalent to CHEM UN2543 Organic Chemistry Laboratory.",
     "instructor":"Heriberto Moran",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"5:50pm",
@@ -2001,7 +2167,14 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "CHEM UN1500"
+      ],
+      [
+        "CHEM UN2443",
+        "CHEM UN2443",
+        "CHEM UN2543"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20262CHEM2543S001",
@@ -2010,7 +2183,7 @@
   {
     "course_code":"CHEM S2543",
     "course_title":"ORGANIC CHEMISTRY LABORATORY",
-    "course_descr":null,
+    "course_descr":"Prerequisites: CHEM UN1500 General Chemistry Lab, CHEM UN2443 Organic Chemistry I - Lecture. Techniques of experimental organic chemistry, with emphasis on understanding fundamental principles underlying the experiments in methodology of solving laboratory problems involving organic molecules. Attendance at the first laboratory session is mandatory. Please note that you must complete CHEM UN2443 Organic Chemistry I Lecture or the equivalent to register for this lab course. This course is equivalent to CHEM UN2543 Organic Chemistry Laboratory.",
     "instructor":"Heriberto Moran",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"5:50pm",
@@ -2026,7 +2199,14 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "CHEM UN1500"
+      ],
+      [
+        "CHEM UN2443",
+        "CHEM UN2443",
+        "CHEM UN2543"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20262CHEM2543S002",
@@ -2062,7 +2242,7 @@
   {
     "course_code":"CLCV UN3058",
     "course_title":"Worlds of Alexander the Great",
-    "course_descr":null,
+    "course_descr":"This course looks at the narrative and the historical context for an extraordinary event: the conquest of the Persian empire by Alexander III of Macedonia, conventionally known as \u201cAlexander the Great\u201d. We will explore the different worlds Alexander grew out of, confronted, and affected: the old Greek world, the Persian empire, the ancient near-east (Egypt, Levant, Babylonia, Iran), and the worlds beyond, namely pre-Islamic (and pre-Silk Road) Central Asia, the Afghan borderlands, and the Indus valley. The first part of the course will establish context, before laying out a narrative framework; the second part of the course will explore a series of themes, especially the tension between military conquest, political negotiation, and social interactions. Overall, the course will serve as an exercise in historical methodology (with particular attention to ancient sources and to interpretation), an introduction to the geography and the history of the ancient world (classical and near-eastern), and the exploration of a complex testcase located at the contact point between several worlds, and at a watershed of world history.",
     "instructor":"Lien Van Geel",
     "scheduled_time_start":"1:00pm",
     "scheduled_time_end":"4:10pm",
@@ -2087,7 +2267,7 @@
   {
     "course_code":"CLLT S3310",
     "course_title":"CLASSICAL MYTHOLOGY",
-    "course_descr":null,
+    "course_descr":"Introduction to and analysis of major myths in classical literature. Topics include the changing attitudes and applications of myth from Greek epic to tragedy, as well as modern approaches to myth. Readings include Homer, Hesiod, Aeschylus, Sophocles, and Euripides. All readings in English.",
     "instructor":"Melody A Wauke",
     "scheduled_time_start":"1:00pm",
     "scheduled_time_end":"4:10pm",
@@ -3192,7 +3372,7 @@
   {
     "course_code":"EEEB S1001",
     "course_title":"BIODIVERSITY",
-    "course_descr":null,
+    "course_descr":"An introduction to the enormous diversity of life on Earth. From bacteria to mammals, this course will survey species diversity, with an emphasis on ecological interactions and conservation. The course will also use basics of genetics and evolutionary biology to explore how diversity is generated and maintained. No previous knowledge of science is assumed. Fulfills a science requirement for most Columbia and GS undergraduates.",
     "instructor":"Steffen Foerster",
     "scheduled_time_start":"5:30pm",
     "scheduled_time_end":"8:40pm",
@@ -3217,7 +3397,7 @@
   {
     "course_code":"EEEB S1001",
     "course_title":"BIODIVERSITY",
-    "course_descr":null,
+    "course_descr":"An introduction to the enormous diversity of life on Earth. From bacteria to mammals, this course will survey species diversity, with an emphasis on ecological interactions and conservation. The course will also use basics of genetics and evolutionary biology to explore how diversity is generated and maintained. No previous knowledge of science is assumed. Fulfills a science requirement for most Columbia and GS undergraduates.",
     "instructor":"Palani R Akana",
     "scheduled_time_start":"9:00am",
     "scheduled_time_end":"12:10pm",
@@ -3242,7 +3422,7 @@
   {
     "course_code":"EEEB S1115",
     "course_title":"THE LIFE AQUATIC",
-    "course_descr":null,
+    "course_descr":"Water covers the majority of the earth\u2019s surface but what of the life in these waters? Rivers, wetlands, lakes, estuaries and oceans provide habitat for an extraordinary diversity of animals. This course explores the amazing array of aquatic animals that occupy both freshwater and marine ecosystems as well as the natural and human activities that impact their survival. No previous knowledge of science is assumed. Fulfills the science requirement for most Columbia and GS undergraduates.",
     "instructor":"Mercer R Brugler",
     "scheduled_time_start":"1:00pm",
     "scheduled_time_end":"4:10pm",
@@ -3267,7 +3447,7 @@
   {
     "course_code":"EEEB S1115",
     "course_title":"THE LIFE AQUATIC",
-    "course_descr":null,
+    "course_descr":"Water covers the majority of the earth\u2019s surface but what of the life in these waters? Rivers, wetlands, lakes, estuaries and oceans provide habitat for an extraordinary diversity of animals. This course explores the amazing array of aquatic animals that occupy both freshwater and marine ecosystems as well as the natural and human activities that impact their survival. No previous knowledge of science is assumed. Fulfills the science requirement for most Columbia and GS undergraduates.",
     "instructor":"Mercer R Brugler",
     "scheduled_time_start":"1:00pm",
     "scheduled_time_end":"4:10pm",
@@ -4356,7 +4536,7 @@
   {
     "course_code":"FREN S1101",
     "course_title":"ELEMENTARY FRENCH I",
-    "course_descr":null,
+    "course_descr":"Equivalent to FREN UN1101. Designed to help students understand, speak, read, and write French, and to recognize cultural features of French-speaking communities, now with the help of a newly digitized audio program. Students learn to provide information in French about their feelings, environment, families, and daily activities. Daily assignments, quizzes, laboratory work, and screening of video material.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -4372,7 +4552,9 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "FREN UN1101"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20262FREN1101S001",
@@ -4381,7 +4563,7 @@
   {
     "course_code":"FREN S1101",
     "course_title":"ELEMENTARY FRENCH I",
-    "course_descr":null,
+    "course_descr":"Equivalent to FREN UN1101. Designed to help students understand, speak, read, and write French, and to recognize cultural features of French-speaking communities, now with the help of a newly digitized audio program. Students learn to provide information in French about their feelings, environment, families, and daily activities. Daily assignments, quizzes, laboratory work, and screening of video material.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -4397,7 +4579,9 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "FREN UN1101"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20262FREN1101S002",
@@ -4406,7 +4590,7 @@
   {
     "course_code":"FREN S1102",
     "course_title":"ELEMENTARY FRENCH II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: one term of college French or one year of secondary school French. $15.00= Language Resource Fee, $15.00 = Materials Fee , Equivalent to FREN UN1102. Continues the work of French S1101D and completes the study of elementary French. Students continue to develop communicative skills, narrating recent events (past, present, and future), describing daily life activities, and learning about cultural features of France and of the wider Francophone world. Following the communicative approach, students, with the help of the instructor, learn to solve problems using the language, to communicate their feelings and opinions, and to obtain information from others. Daily assignments, quizzes, laboratory work, and screening of video materials.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -4422,7 +4606,10 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "FREN UN1102",
+        "S1101"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20262FREN1102S001",
@@ -4531,7 +4718,7 @@
   {
     "course_code":"FREN S2106",
     "course_title":"RAPID READING AND TRANSLATION",
-    "course_descr":null,
+    "course_descr":"Primarily for graduate students in other departments who have some background in French and who wish to meet the French reading requirement for the Ph.D. degree, or for scholars whose research involves references in the French language. Intensive reading and translation, both prepared and at sight, in works drawn from literature, criticism, philosophy, and history. Brief review of grammar; vocabulary exercises.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -4610,7 +4797,7 @@
   {
     "course_code":"GERM S1121",
     "course_title":"INTENSIVE ELEM GERMAN I & II",
-    "course_descr":null,
+    "course_descr":"This intensive program provides one year of German in one six-week session. The course enables students to understand, speak, read, and write in German about a range of subjects (such as: family activities, studies, work and home life, as well as travel, economics, and current events) and helps them develop an understanding of German speaking cultures. Classes are conducted in German and supplemented with written homework and audiovisual materials. Assignments and activities are diversified to integrate undergraduate and graduate students\u2019 academic and personal interests. The program draws on the German heritage of New York City (museums, Goethe Institut, restaurants, etc.). Students are encouraged to attend German-language films and musical performances. Students have many opportunities for informal conversation. Upon successful completion of the course (with a minimum grade of B), students should achieve novice high to intermediate low proficiency (ACTFL scale). Final grades are based on frequent oral and written tests, writing assignments, a project on German culture in New York, and a final examination (written and oral). Students are advised that this course constitutes a full-time commitment. The workload of this course is very intense and students will be expected to spend 4-6 hours studying every day outside of class and additional time on weekends. The Department of Germanic Languages will assist in selecting the appropriate course.\u00a0Equivalent to the combination of\u00a0\nGERM UN1101\n\u00a0and\u00a0\nUN1102\n\u00a0taught during the regular semesters.\n  \nIf prior knowledge of German, a placement exam is required. Students should contact Jutta Schmiers-Heller (js2331) to schedule a test or if they have other questions about the course.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -4626,7 +4813,12 @@
     "open_to":null,
     "points":"6",
     "prerequisites":[
-
+      [
+        "GERM UN1101"
+      ],
+      [
+        "UN1102"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20262GERM1121S001",
@@ -6083,7 +6275,7 @@
   {
     "course_code":"INTL S6540",
     "course_title":"The U.N. and World Politics",
-    "course_descr":null,
+    "course_descr":"The purpose of this six-week course is to provide a greater understanding of the complex role the United Nations plays in world politics and the maintenance of peace and security through multilateral decision making. In this uncertain political climate, it is even more important to understand global institutions, their strengths and weaknesses and how they function. The United Nations with its 193 member states provides a mirror onto the world and if that world is fractured, the UN body will reflect those fissures.",
     "instructor":"Jean Krasno",
     "scheduled_time_start":"2:00pm",
     "scheduled_time_end":"5:10pm",
@@ -6108,7 +6300,7 @@
   {
     "course_code":"INTL S6552",
     "course_title":"UNITED NATIONS & HUMAN RIGHTS",
-    "course_descr":null,
+    "course_descr":"What is the UN track record in promoting and protecting human rights? This intense six-week course will examine the UN human rights standards, mechanisms, institutions and procedures established over the past sixty years and question their effectiveness. With a particular focus on the actions (or lack thereof) of the UN Security Council, the UN Human Rights Council and diverse international judicial institutions like the International Tribunal for Rwanda and the International Criminal Court, the course will illustrate, through practical case studies, the inherent challenges associated with the protection of human dignity, the enforcement of human rights and the fight against impunity.",
     "instructor":"David Marshall",
     "scheduled_time_start":"5:30pm",
     "scheduled_time_end":"8:40pm",
@@ -6133,7 +6325,7 @@
   {
     "course_code":"INTL S6559",
     "course_title":"UN & MAINT OF INTL PEACE & SEC",
-    "course_descr":null,
+    "course_descr":"The United Nations recently passed its seventieth anniversary and a new Secretary-General, Antonio Guterres, was selected by the Security Council to succeed Ban Ki-moon. At this critical juncture, the international system is being challenged to provide adequate responses to the rise of violent extremist groups, waves of refugees arriving in Europe, and to --\u00e2\u20ac fewer but deadlier --armed conflicts. As prevention continues to be elusive and recent - mostly intrastate --armed conflicts have proven to be particularly resistant to peaceful settlement whether through mediation, the deployment of peace operations or peacebuilding projects, the question of the relevance of the UN is posed yet again. Has the Security Council been successful in using the tools at its disposal, from prevention to peace operations and enforcement measures? What has become of the Responsibility to Protect? Is a divided Security Council facing a crisis of relevance? What does it mean for peace operations sent where there is no peace to keep? What are the persisting obstacles to effective prevention? What are the lessons from the evolving partnership with regional organizations? How can peace be sustained over the long term? What will have been Ban Ki Moon's legacy? What are the prospects for UN reform and what could it look like? To address these questions and more, the course will examine the evolving role of the world organization in global security, shaped by its member states with different strategic interests and by the broader geopolitical context in which it operates.",
     "instructor":"Arthur Boutellis",
     "scheduled_time_start":"9:00am",
     "scheduled_time_end":"12:10pm",
@@ -6158,7 +6350,7 @@
   {
     "course_code":"INTL S6569",
     "course_title":"THE UN AND DEVELOPMENT",
-    "course_descr":null,
+    "course_descr":"This six week course provides an overview of the contribution the United Nations development system has made in the sphere of development. The course traces the historical evolution of the UN's contribution in the areas of development cooperation, poverty reduction, environment and climate, human rights, gender and humanitarian action. It explores the emerging role of non-state actors, in particular the private sector and civil society. The last sessions will examine in detail the adoption of the Sustainable Development Goals and Agenda 2030 and the recognition that to be relevant in today's rapidly changing world, the UN must commit itself to major reform. The course will draw extensively from the practical experience of the instructor.",
     "instructor":"Kimberly Gamble-Payne",
     "scheduled_time_start":"2:00pm",
     "scheduled_time_end":"5:10pm",
@@ -6183,7 +6375,7 @@
   {
     "course_code":"INTL S6572",
     "course_title":"COMPARATIVE FOREIGN POLICY",
-    "course_descr":null,
+    "course_descr":"This course explores the unique and distinct foreign policy behavior of different states in the international system. Explanations of state behavior will be drawn from many overarching international relations frameworks including but not necessarily limited to realism, liberalism, and constructivism. The effects of power, culture, institutions and history will be examined.",
     "instructor":"Zachary C Shirkey",
     "scheduled_time_start":"9:00am",
     "scheduled_time_end":"12:10pm",
@@ -6208,7 +6400,7 @@
   {
     "course_code":"INTL S6795",
     "course_title":"US FOREIGN POLICY",
-    "course_descr":null,
+    "course_descr":"This course examines the foundations, decision-making processes, and substance of American foreign policy, particularly as it has developed over the past fifty years. We explore the role of American political culture, the presidency, Congress, and the foreign policy bureaucracy in helping to determine America's relationship with other states and international organizations. We pay particular attention to the recurring tensions that run through American foreign policy: isolationism v. internationalism, security v. prosperity, diplomacy v. military power, unilateralism v. multilateralism, and realism v. idealism. Each week we will explore a broad theoretical\/conceptual theme and then focus on a specific topic that exemplifies a practical application of the theme.",
     "instructor":"Bruce L Cronin",
     "scheduled_time_start":"9:00am",
     "scheduled_time_end":"12:10pm",
@@ -6233,7 +6425,7 @@
   {
     "course_code":"INTL S6797",
     "course_title":"SPECIAL OPERATIONS & NATIONAL SECURITY",
-    "course_descr":null,
+    "course_descr":"Special Operations are typically defined as national security actions in hostile, denied, or sensitive environments, and often require covert, clandestine, or low-visibility approaches. From hostage-rescue operations to tactical reconnaissance, special operations forces are typically deployed for national security objectives in which traditional military units are not suitable or applicable. This course examines the nexus of special operations and national security, with the United States serving as its primary example. It has four core objectives: 1) develop an understanding of the concepts and ideas of special operations in national security; 2) explore the priorities and challenges of the utility of special operations, from intelligence to policies to investments; 3) exchange insights, paradigms, and perspectives in class discussions and assignments; and 4) sharpen analytical thinking, research methods, writing skills, and verbal communication. Major themes of study will be: national security fundamentals; concepts of war, conflict, and special operations; and the use of special operations forces over time.",
     "instructor":"Nancy W Collins",
     "scheduled_time_start":"9:00am",
     "scheduled_time_end":"12:10pm",
@@ -6258,7 +6450,7 @@
   {
     "course_code":"INTL S6800",
     "course_title":"Intl Relations:Thry & Concepts",
-    "course_descr":null,
+    "course_descr":"Through a review of major academic literature, lectures, and class discussion, this course examines many of the central concepts, theories, and analytical tools used in contemporary social science to understand international affairs. The theoretical literature is drawn from fields including comparative politics, international relations, political sociology, and economics. The course is designed to enhance students' abilities to think critically and analytically about current problems and challenges in international politics.",
     "instructor":"Arnaud Kurze",
     "scheduled_time_start":"2:00pm",
     "scheduled_time_end":"5:10pm",
@@ -6283,7 +6475,7 @@
   {
     "course_code":"INTL S6801",
     "course_title":"EAST ASIAN SECURITY",
-    "course_descr":null,
+    "course_descr":"This course empowers students to develop a deep understanding of the major issues of East Asian security. We will examine the various challenges to stability in East Asia in the context of power, institutions, and ideas (the three primary factors that impact international relations), including: China\u2019s increasing assertiveness; the North Korean nuclear crisis; historical stigma amongst Japan, South Korea, and China; lingering Cold War confrontations on the Korean Peninsula and across the Taiwan Strait; and an unstable relationship between the US and China. Through a comparison with the West, students will inquire whether a unique approach is required when considering appropriate responses to security issues in East Asia.",
     "instructor":"Fumiko Sasaki",
     "scheduled_time_start":"2:00pm",
     "scheduled_time_end":"5:10pm",
@@ -6308,7 +6500,7 @@
   {
     "course_code":"INTL S6820",
     "course_title":"INTL POLITICAL ECONOMY",
-    "course_descr":null,
+    "course_descr":"This course serves as an introduction to the study of international political and economic relations. We look at the connections between politics and economics as well as markets and governments and relate them to key substantive issue areas such as finance, trade, investment, marketing, income inequality and poverty, and globalization. In examining the issue areas, we shall look both at how scholars think about them and how private and public decision makers analyze and impact them. The teaching is informed by the sharing with students knowledge deriving from multiple disciplines, cultures, and languages to help them gain useful real-world insights.",
     "instructor":"David E Spiro",
     "scheduled_time_start":"9:00am",
     "scheduled_time_end":"12:10pm",
@@ -9596,7 +9788,7 @@
   {
     "course_code":"VIAR S1001",
     "course_title":"BASIC DRAWING",
-    "course_descr":null,
+    "course_descr":"Fundamentals of visual vocabulary. Students work from observation using still-life objects and the human figure. Emphasizes the relationship of lines and forms to each other and to the picture format. Materials used: vine charcoal, compressed charcoal, pencil, pen, ink, and brushes. Class assignments, discussions, and critiques.",
     "instructor":null,
     "scheduled_time_start":"5:30pm",
     "scheduled_time_end":"8:00pm",
@@ -9621,7 +9813,7 @@
   {
     "course_code":"VIAR S3210",
     "course_title":"PAINTING I",
-    "course_descr":null,
+    "course_descr":"This is an intensive, six-week class moving from the basics of paint materials, techniques, issues of color, light, narrative and most of all representation. Students will begin working from still life set-ups in the studio and gradually move towards more ambitious approaches including figure painting from a model. Towards the end of the class students will be encouraged to work on a project or projects that more closely reflect their personal ideas.",
     "instructor":null,
     "scheduled_time_start":"5:30pm",
     "scheduled_time_end":"8:00pm",
@@ -9646,7 +9838,7 @@
   {
     "course_code":"VIAR S3411",
     "course_title":"PRINTMAKING I",
-    "course_descr":null,
+    "course_descr":"Introduction to the fundamentals of silkscreen techniques. Students gain familiarity with the technical processes of silkscreen and are encouraged to use the processes to develop their visual language. Students are involved in a great deal of drawing for assigned projects. Portfolio required at end.",
     "instructor":null,
     "scheduled_time_start":"6:15pm",
     "scheduled_time_end":"9:25pm",
@@ -9671,7 +9863,7 @@
   {
     "course_code":"VIAR S3411",
     "course_title":"PRINTMAKING I",
-    "course_descr":null,
+    "course_descr":"Introduction to the fundamentals of silkscreen techniques. Students gain familiarity with the technical processes of silkscreen and are encouraged to use the processes to develop their visual language. Students are involved in a great deal of drawing for assigned projects. Portfolio required at end.",
     "instructor":null,
     "scheduled_time_start":"6:15pm",
     "scheduled_time_end":"9:25pm",
@@ -9696,7 +9888,7 @@
   {
     "course_code":"VIAR S4105",
     "course_title":"ADV PAINTING INTENSIVE: NYC",
-    "course_descr":null,
+    "course_descr":"Prerequisites: Must have a BA, BFA or equivalent. Apply directly to the School of the Arts. Access the application here:\u00a0\nhttps:\/\/arts.columbia.edu\/summer\/advanced-painting-intensive\n.\u00a0\n  \nThe Advanced Painting Intensive offers personalized mentorship to up to twelve students through individual and group critique, technical tutorials, workshops, and insights into the New York gallery and museum scenes. Participants will also benefit from lectures and critiques by nationally recognized visiting artists.\u00a0\n  \n\u00a0\n  \nThe six-week, six-credit workshop is structured similarly to Columbia\u2019s MFA degree program and is designed for individuals seeking to challenge and advance their artistic skills in an immersive and supportive environment. The workshop aims to help participants develop a strong visual portfolio and a comprehensive written package suitable for MFA programs applications.",
     "instructor":null,
     "scheduled_time_start":"10:00am",
     "scheduled_time_end":"6:00pm",
@@ -9721,7 +9913,7 @@
   {
     "course_code":"VIAR UN1701",
     "course_title":"INTRO DARKROOM PHOTOGRAPHY",
-    "course_descr":null,
+    "course_descr":"Introductory course to analog photographic tools, techniques, and photo criticism. This class explores black & white, analog camera photography and darkroom processing and printing.\u00a0 Areascovered include camera operations, black and white darkroom work, 8x10 print production, and critique. With an emphasis on the student\u2019s own creative practice, this course will explore the basics of photography and its history through regular shooting assignments, demonstrations, critique, lectures, and readings. No prior photography experience is required.",
     "instructor":null,
     "scheduled_time_start":"1:00pm",
     "scheduled_time_end":"3:30pm",
@@ -9746,7 +9938,7 @@
   {
     "course_code":"VIAR UN1701",
     "course_title":"INTRO DARKROOM PHOTOGRAPHY",
-    "course_descr":null,
+    "course_descr":"Introductory course to analog photographic tools, techniques, and photo criticism. This class explores black & white, analog camera photography and darkroom processing and printing.\u00a0 Areascovered include camera operations, black and white darkroom work, 8x10 print production, and critique. With an emphasis on the student\u2019s own creative practice, this course will explore the basics of photography and its history through regular shooting assignments, demonstrations, critique, lectures, and readings. No prior photography experience is required.",
     "instructor":null,
     "scheduled_time_start":"1:00pm",
     "scheduled_time_end":"3:30pm",
@@ -9771,7 +9963,7 @@
   {
     "course_code":"VIAR UN1702",
     "course_title":"INTRO DIGITAL PHOTOGRAPHY",
-    "course_descr":null,
+    "course_descr":"Since Walter Benjamin\u2019s concept of \u201cwork of art in the age of mechanical reproduction\u201d (1935), photography has been continuously changed by mechanical, and then digital, means of image capture and processing. This class explores the history of the image, as a global phenomenon that accompanied industrialization, conflict, racial reckonings, and decolonization. Students will study case studies, read critical essays, and get hands-on training in capture, workflow, editing, output, and display formats using digital equipment (e.g., DSLR camera) and software (e.g., Lightroom, Photoshop, Scanning Software). Students will complete weekly assignments, a midterm project, and a final project based on research and shooting assignments. No Prerequisites and no equipment needed. All enrolled students will be able to check out Canon EOS 5D DSLR Camera; receive an Adobe Creative Cloud license; and get access to Large Format Print service.",
     "instructor":null,
     "scheduled_time_start":"1:00pm",
     "scheduled_time_end":"3:30pm",
@@ -9796,7 +9988,7 @@
   {
     "course_code":"VIAR UN1706",
     "course_title":"Photo Exhibitions",
-    "course_descr":null,
+    "course_descr":"A photography exhibition is a form of \u201cshow and tell\u201d that combines a photographer\u2019s creativity with the audience\u2019s interaction (applause, excitement, boredom, learning). This course explores historic and modern photography exhibitions designed by curators, organizations, and artists. We explore the ways a photograph breathes in the \u201cliving\u201d world as compared to the \u201cstatic\u201d world of newspapers, magazines, or photobooks. Making use of New York\u2019s vast cultural network, we will go on field trips to public museums, commercial galleries, and independent spaces in Chelsea, Downtown, Long Island City, Bronx, etc. Students will design a mini-exhibition as their final project. Students will maintain a daily \nReflection Journal\n to document their experiences at each location, capturing the ideas discussed and materials presented. The journal serves as a creative space for exploring the topics covered in the course and for developing concepts for the final project. The Final Project will be a collectively curated one-day exhibition on campus.",
     "instructor":null,
     "scheduled_time_start":"1:00pm",
     "scheduled_time_end":"3:30pm",
@@ -9821,7 +10013,7 @@
   {
     "course_code":"VIAR UN1707",
     "course_title":"PhotoBook History",
-    "course_descr":null,
+    "course_descr":"This course explores the photobook as a central medium of lens-based contemporary art practice and bookmaking. You will be exposed to a variety of geographies (Japan, USA, Europe, Latin America, Africa), approaches (formal book, luxury volume, grassroots zine, national archive, art object), subject matters (autobiography, fiction, historical, journalism, epic events), and materials. Using Columbia\u2019s world-famous library holdings, many photo and art books and a diverse range of viewpoints will be studied through historical lectures and New York City field trips. Students will learn hands-on processes of photobook and fanzine making.",
     "instructor":null,
     "scheduled_time_start":"1:00pm",
     "scheduled_time_end":"3:30pm",
@@ -9982,6 +10174,31 @@
     "course_code":"WRIT S1001",
     "course_title":"FICTION WORKSHOP",
     "course_descr":null,
+    "instructor":"Erroll G McDonald",
+    "scheduled_time_start":"5:30pm",
+    "scheduled_time_end":"8:40pm",
+    "call_number":"10369",
+    "campus":null,
+    "class_id":"S1001-20262-001",
+    "course_subtitle":null,
+    "department":"Summer Session (SUMM)",
+    "department_code":"WRIT",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/WRIT\/S1001-20262-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20262WRIT1001S001",
+    "type":"WORKSHOP"
+  },
+  {
+    "course_code":"WRIT S1001",
+    "course_title":"FICTION WORKSHOP",
+    "course_descr":"The Fiction Writing Workshop is designed for students who have little or no experience writing imaginative prose. Students are introduced to a range of craft concerns through exercises and discussions, and eventually produce their own writing for the critical analysis of the class. Outside readings supplement and inform the exercises and longer written projects. Enrollment limited to 15.",
     "instructor":"Molly L McGhee",
     "scheduled_time_start":"1:30pm",
     "scheduled_time_end":"4:40pm",
@@ -10006,7 +10223,7 @@
   {
     "course_code":"WRIT S1101",
     "course_title":"NONFICTION WRITING WORKSHOP",
-    "course_descr":null,
+    "course_descr":"The Nonfiction Writing Workshop is designed for students new to the practice of such genres as reportage, criticism, biography and memoir. Various techniques are explored through exercises and other assignments. Critique of student work is supplemented by outside readings.",
     "instructor":"Matty Davis",
     "scheduled_time_start":"10:00am",
     "scheduled_time_end":"1:10pm",
@@ -10031,7 +10248,7 @@
   {
     "course_code":"WRIT S1201",
     "course_title":"POETRY WRITING WORKSHOP",
-    "course_descr":null,
+    "course_descr":"The Poetry Writing Workshop is designed for all students with a serious interest in poetry writing, from those who lack significant workshop experience or training in the craft of poetry to seasoned workshop participants looking for new challenges and perspectives on their work. Students will be assigned writing exercises emphasizing such aspects of verse composition as the poetic line, the image, rhyme and other sound devices, verse forms, repetition, collage, and others. Students will also read an variety of exemplary work in verse, submit brief critical analyses of poems, and critique each others original work.",
     "instructor":"Timothy B Donnelly",
     "scheduled_time_start":"5:30pm",
     "scheduled_time_end":"8:40pm",
@@ -10056,7 +10273,7 @@
   {
     "course_code":"WRIT S1201",
     "course_title":"POETRY WRITING WORKSHOP",
-    "course_descr":null,
+    "course_descr":"The Poetry Writing Workshop is designed for all students with a serious interest in poetry writing, from those who lack significant workshop experience or training in the craft of poetry to seasoned workshop participants looking for new challenges and perspectives on their work. Students will be assigned writing exercises emphasizing such aspects of verse composition as the poetic line, the image, rhyme and other sound devices, verse forms, repetition, collage, and others. Students will also read an variety of exemplary work in verse, submit brief critical analyses of poems, and critique each others original work.",
     "instructor":"Dorothea S Lasky",
     "scheduled_time_start":"5:30pm",
     "scheduled_time_end":"8:40pm",
@@ -10081,7 +10298,7 @@
   {
     "course_code":"WRIT S4313",
     "course_title":"WRITING CHILDREN'S BOOKS",
-    "course_descr":null,
+    "course_descr":"There are many misconceptions as to what makes an appealing story for children and how to get a story published. Many novice writers are simply relating an incident as opposed to creating a story. This course will show beginner and experienced writers how to mine their lives and imaginations for ideas and how to develop those ideas into children's stories-a step by step process from inspiration to finished manuscript for picture books, early readers, emerging readers and chapter books. Students will also learn the importance of reading their writing out loud-a process that helps both reader and listener develop a better ear for the story's pace, cadence and structure. Writing for children has become incredibly popular in the past fifteen years and publishing houses have been inundated with manuscripts. Many houses have ceased accepting unsolicited manuscripts all together. This course will disclose other avenues to getting your manuscript into the hands of agents and editors.",
     "instructor":"Peter Catalanotto",
     "scheduled_time_start":"10:00am",
     "scheduled_time_end":"1:10pm",
@@ -10106,7 +10323,7 @@
   {
     "course_code":"WRIT S4320",
     "course_title":"TRAVEL WRITING",
-    "course_descr":null,
+    "course_descr":"How does the traveler become the travel writer? What makes good travel writing? Why does it matter today? This course examines and breaks down the very specific craft of travel writing. Simply because we like to travel, does it qualify us to write about it? Everywhere has been written about, so how do we find something fresh to say about\u2026 Paris, or even Patagonia? In this course, we both dispel, and prove, some of the myths of travel writing. Students learn to find an angle in order to uncover destinations anew and make them personal\u2014 it\u2019s in the personal that the universal is revealed. From crafting a compelling lede and understanding the need for a strong \u201cnut graph,\u201d to knowing the value of dialogue in propelling the story forward, and then finding the ideal kicker to send the reader away satisfied, students dissect published stories and are sent out into \u201cthe field\u201d (of New York City) to craft their own. Travel writing is more than, \u201cI went here, I did this, I ate that.\u201d From front-of-book and service pieces, to destination features, we discuss magazine and newspaper travel writing in depth, as well as touch on longer form travel writing. Finally, through exercises and assignments, students learn to craft a compelling pitch in order to approach editors.",
     "instructor":"Porter T Fox",
     "scheduled_time_start":"5:30pm",
     "scheduled_time_end":"8:40pm",
@@ -10131,7 +10348,7 @@
   {
     "course_code":"WRIT S4323",
     "course_title":"WRITING THE YOUNG ADULT NOVEL",
-    "course_descr":null,
+    "course_descr":"The Young Adult (YA) publishing boom has changed the way we read\u2014and write\u2014coming-of-age stories. This course will introduce students to the elements that shape YA novels, and explore the fiction writing techniques needed for long projects, including narrative arcs, character construction, worldbuilding, and scene work. We\u2019ll study work from a wide range of YA genres and authors, including Angie Thomas, Elana K. Arnold, Leigh Bardugo, Jason Reynolds, A.S. King, Elizabeth Acevedo, and more.\n  \nStudents will begin to write and outline their own YA novel, and a variety of in-class writing exercises will support the development of each project. All students will workshop their own writing and respond to the work of others. By the end of class, students will have a portfolio of materials to draw from, and a richer understanding of the YA landscape and its possibilities.",
     "instructor":"Emily K Austin",
     "scheduled_time_start":"10:00am",
     "scheduled_time_end":"1:10pm",
@@ -10156,7 +10373,7 @@
   {
     "course_code":"WRIT S4324",
     "course_title":"MISFITS AND MISANTHROPES",
-    "course_descr":null,
+    "course_descr":"People like to be liked. And writers obsess about likability in fiction. But is it that important? What about visionaries, iconoclasts, stragglers, strangers, weirdos, and cringe-inducers? What happens when there is friction between a person and their surroundings? Between people? What if a character throws aside motivations to be liked and impulses to comply?\n  \nAt its heart, this is a class focused on analyzing and crafting characters. We\u2019ll look at loners and lonely hearts, articulate big mouths, and introverted self-imploders. We\u2019ll observe their circumstances and question how their desires encourage them to think and act. Students will regularly respond to prompts and workshop their own writing.\n  \nOur discussions will consider what choices writers make to render, shape, define, and refine characters. We\u2019ll take on craft-oriented concerns such as: How is dialogue used to differentiate characters? How does a writer demonstrate a character\u2019s compassion, even if their attitude stinks? How do the story's events affect the reader\u2019s understanding of character? What elements in the narrative change\u2014or don\u2019t\u2014over time to signal to the reader that a character is developing?\n  \nThroughout, students will investigate how emerging writers move from maintaining characters\u2019 status quo and progress to allowing characters to do the unexpected. With every question, we will advance our comprehension of building dynamic representations of people in the world, how they act out, and what it takes to fit in.\n  \nReadings may include:\n  \nNights at the Circus\n by Angela Carter, \nGeek Love\n by Katherine Dunn, \u201cSpeech Sounds\u201d by Octavia Butler, \nMcGlue \nby Ottessa Moshfegh, \nTrue Grit \nby Charles Portis, \nDistant Star\n by Roberto Bola\u00f1o, \nHome Land\n by Sam Lipsyte,\n CivilWarLand in Bad Decline\n by George Saunders, \u201cFriday Black\u201d by Nana Kwame Adje Brenya, \u201cEmergency\u201d by Denis Johnson, \u201cTall Tales from the Mekong Delta\u201d by Kate Braverman, \u201cMe and Miss Mandible\u201d by Donald Barthelme, \nThe Book of Goose\n by Yiyun Li,\u00a0\nMezzanine \nby Nicholson Baker, \nWittgenstein's Mistress\n by David Markson, \nNo Longer Human\n by Osamu Dazai",
     "instructor":"Franklin Winslow",
     "scheduled_time_start":"1:30pm",
     "scheduled_time_end":"4:40pm",
@@ -10181,7 +10398,7 @@
   {
     "course_code":"WRIT S4810",
     "course_title":"HOW TO WRITE FUNNY",
-    "course_descr":null,
+    "course_descr":"In this class we will consider the various forms and functions of humor in written prose, discussing techniques and approaches to humor writing. Students will write their own humorous stories and essays which we will read and discuss in class, focusing not only on what is or isn't funny, but on how humor can be advantageously used to increase the power of an overall piece. The class will also break down stories, novels, and essays from a variety of authors-Bill Hicks' political satire; the darkly comedic fiction of Barry Hannah and Paul Beatty; the absurd humor of Tina Fey and Baratunde Thurston; Anthony Lane's charming British snarkiness; Spy Magazine's sharply parodic voice; Woody Allen's one-liners; Lena Dunham's zeitgeist comedy-in an effort to better understand what makes their humor work. Students will be asked to write stories inspired and influenced by these authors. As we critique each other's work, we will investigate strategies related to the craft of humor writing, including self-deprecation, political satire, humor and the other, going blue, dark comedy, schtick, humor as a means vs. humor as an end, crossing the line, and how to write funny without sacrificing substance.",
     "instructor":"Patricia A Marx",
     "scheduled_time_start":"1:30pm",
     "scheduled_time_end":"4:40pm",
@@ -10206,7 +10423,7 @@
   {
     "course_code":"WRIT UN3215",
     "course_title":"WRITING ABOUT ART",
-    "course_descr":null,
+    "course_descr":"Prerequisites: No prerequisites. Department approval NOT required.\u00a0\n  \nThis course will introduce students to writing about visual art. We will take our models from art history and contemporary art discourse, and students will be prompted to write with and about current art exhibitions and events throughout the city. The modes of art writing we will encounter include: the practice of ekphrasis (poems which describe or derive their inspiration from a work of art); writers such as John Ashbery, Gary Indiana, Eileen Myles, and others who for periods of their life held positions as art critics while composing poetry and works of fiction; writers such as Etel Adnan, Susan Howe, and Renee Gladman who have produced literature and works of art in equal measure. We will also look at artists who have written essays and poetry throughout their careers such as Robert Smithson, Glenn Ligon, Gregg Bordowitz, Moyra Davey, and Hannah Black, and consider both the visual qualities of writing and the ways that visual artists have used writing in their work. Lastly, we will consider what it means to write through a \u201cmilieu\u201d of visual artists, such as those associated with the New York School and Moscow Conceptualism. Throughout the course students will produce original works and complete a final writing project that enriches, complicates, and departs from their own interests and preoccupations.",
     "instructor":"Thomas A Donovan",
     "scheduled_time_start":"1:30pm",
     "scheduled_time_end":"4:40pm",
