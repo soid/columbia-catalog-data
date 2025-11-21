@@ -129,7 +129,7 @@
   {
     "course_code":"AHMM UN3320",
     "course_title":"MUSIC IN EAST ASIA",
-    "course_descr":null,
+    "course_descr":"A topical approach to the concepts and practices of music in relation to other arts in the development of Asian civilizations.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -931,7 +931,7 @@
   {
     "course_code":"BIOL GR5502",
     "course_title":"Supervised Research in Biotechnology",
-    "course_descr":null,
+    "course_descr":"Students enrolled in the MA in Biotechnology Program have the opportunity to receive academic credit while conducting Supervised Research under the guidance of a faculty mentor within the University (S5502) or a biotech business-specific Supervised Internship outside the University (S5503) within the New York City Metropolitan Area unless otherwise approved by the Program. Credits received from this course are used to fulfill the Practical Training requirement for the MA degree.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -949,7 +949,10 @@
     ],
     "points":"3-6",
     "prerequisites":[
-
+      [
+        "S5502",
+        "S5503"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20262BIOL5502S002",
@@ -958,7 +961,7 @@
   {
     "course_code":"BIOL GR5502",
     "course_title":"Supervised Research in Biotechnology",
-    "course_descr":null,
+    "course_descr":"Students enrolled in the MA in Biotechnology Program have the opportunity to receive academic credit while conducting Supervised Research under the guidance of a faculty mentor within the University (S5502) or a biotech business-specific Supervised Internship outside the University (S5503) within the New York City Metropolitan Area unless otherwise approved by the Program. Credits received from this course are used to fulfill the Practical Training requirement for the MA degree.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -976,7 +979,10 @@
     ],
     "points":"3-6",
     "prerequisites":[
-
+      [
+        "S5502",
+        "S5503"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20262BIOL5502S001",
@@ -985,7 +991,7 @@
   {
     "course_code":"BIOL GR5503",
     "course_title":"Supervised Research in Biotechnology",
-    "course_descr":null,
+    "course_descr":"Students enrolled in the MA in Biotechnology Program have the opportunity to receive academic credit while conducting Supervised Research under the guidance of a faculty mentor within the University (S5502) or a biotech business-specific Supervised Internship outside the University (S5503) within the New York City Metropolitan Area unless otherwise approved by the Program. Credits received from this course are used to fulfill the Practical Training requirement for the MA degree.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -1003,7 +1009,10 @@
     ],
     "points":"3-6",
     "prerequisites":[
-
+      [
+        "S5502",
+        "S5503"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20262BIOL5503G001",
@@ -1012,7 +1021,7 @@
   {
     "course_code":"BIOL GR5503",
     "course_title":"Supervised Research in Biotechnology",
-    "course_descr":null,
+    "course_descr":"Students enrolled in the MA in Biotechnology Program have the opportunity to receive academic credit while conducting Supervised Research under the guidance of a faculty mentor within the University (S5502) or a biotech business-specific Supervised Internship outside the University (S5503) within the New York City Metropolitan Area unless otherwise approved by the Program. Credits received from this course are used to fulfill the Practical Training requirement for the MA degree.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -1030,7 +1039,10 @@
     ],
     "points":"3-6",
     "prerequisites":[
-
+      [
+        "S5502",
+        "S5503"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20262BIOL5503G002",
@@ -2098,7 +2110,7 @@
   {
     "course_code":"CHEM S1500",
     "course_title":"GENERAL CHEMISTRY: LABORATORY",
-    "course_descr":null,
+    "course_descr":"Prerequisites: (CHEM UN1403) Introduction to basic experimental techniques in chemistry, including quantitative procedures, chemical analysis, and descriptive chemistry. To be enrolled in CHEM S1500X you must also register for CHEM S1501 Lab Lecture.",
     "instructor":"Sarah J Hansen",
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"4:50pm",
@@ -2114,7 +2126,13 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "CHEM S1500",
+        "CHEM S1501"
+      ],
+      [
+        "CHEM UN1403"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20262CHEM1500S005",
@@ -5055,7 +5073,7 @@
   {
     "course_code":"HRTS GU4050",
     "course_title":"Gun Violence & Human Rights: Children Un",
-    "course_descr":null,
+    "course_descr":"The course adopts the perspective of gun violence as a pressing human rights concern, emphasizing the state's responsibility to maximize the protection of human rights and establish the safest possible environment, particularly for young people who are most vulnerable to such violence.\u00a0Students will gain an understanding of the international and national human rights laws that protect the rights to life, development, survival, and protection, with a specific focus on young individuals.\u00a0The course will delve into the root causes, prevalence, and potential remedies for gun violence in all communities but we recognize that the risk of firearm violence and racial disparities persist across all age groups.\u00a0Lastly, the course will examine the crucial role of young people in developing solutions, including their activism and advocacy work.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -5078,9 +5096,34 @@
     "type":"SEMINAR"
   },
   {
+    "course_code":"HRTS GU4260",
+    "course_title":"Human Rights and Populism",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"10420",
+    "campus":null,
+    "class_id":"W4260-20262-001",
+    "course_subtitle":"Human Rights & Populism",
+    "department":"Summer Session (SUMM)",
+    "department_code":"HRTS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HRTS\/W4260-20262-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262HRTS4260W001",
+    "type":"SEMINAR"
+  },
+  {
     "course_code":"HRTS S4020",
     "course_title":"INTRODUCTION TO HUMAN RIGHTS",
-    "course_descr":null,
+    "course_descr":"This course will provide a wide-ranging survey of conceptual foundations and issues in contemporary human rights. The class will examine the philosophical origins of human rights, contemporary debates, the evolution of human rights, key human rights documents, and the questions of human rights enforcement. This course will examine specific civil, political, economic, social and cultural rights and various thematic topics in human rights.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -5105,7 +5148,7 @@
   {
     "course_code":"HRTS S4185",
     "course_title":"HUM RIGHTS\/GLOBAL ECON JUSTICE",
-    "course_descr":null,
+    "course_descr":"The world economy is a patchwork of competing and complementary interests among and between governments, corporations, and civil society. These stakeholders at times cooperate and also conflict over issues of global poverty, inequality, and sustainability. What role do human rights play in coordinating the different interests that drive global economic governance? This seminar will introduce students to different structures of global governance for development, trade, labor, finance, the environment, migration, and intellectual property and investigate their relationship with human rights. Students will learn about public, private, and mixed forms of governance, analyze the ethical and strategic perspectives of the various stakeholders and relate them to existing human rights norms. The course will examine the work of multilateral organizations such as the United Nations and the International Financial Institutions, as well as international corporate and non-governmental initiatives.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -5130,7 +5173,7 @@
   {
     "course_code":"HRTS S4215",
     "course_title":"NGOS&THE HUMAN RIGHTS MOVEMENT",
-    "course_descr":null,
+    "course_descr":"The human rights movement is one of the most successful social justice movements of our time, establishing universal principles that govern how states should treat citizens and non-citizens. The movement strengthens, and is strengthened by, a complex web of institutions, laws, and norms that constitute a functioning global system that builds on itself progressively, animated by strong NGOs. The course will address the evolution of the international human rights movement and on the NGOs that drive the movement on the international, regional and domestic levels. Sessions will highlight the experiences of major human rights NGOs and will address topics including strategy development, institutional representation, research methodologies, partnerships, networks, venues of engagement, campaigning, fundraising and, perhaps most importantly, the fraught and complex debates about adaptation to changing global circumstances.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -5155,7 +5198,7 @@
   {
     "course_code":"HRTS S4220",
     "course_title":"INTERNATIONAL HUMAN RIGHTS LAW",
-    "course_descr":null,
+    "course_descr":"This course introduces the fundamental concepts and problems of international human rights law. What are the origins of modern human rights law? What is the substance of this law, who is obligated by it, and how is it enforced? The course will cover the major international human rights treaties and mechanisms and consider some of today's most significant human rights issues and controversies. While the topics are necessarily law-related, the course will assume no prior exposure to legal studies.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -6974,7 +7017,7 @@
   {
     "course_code":"ITAL S1101",
     "course_title":"ELEMENTARY ITALIAN I",
-    "course_descr":null,
+    "course_descr":"Equivalent to ITAL V1101. Students will develop listening, speaking, reading, and writing skills in Italian and an understanding of Italian culture. Upon successful completion of this course, students should be able to provide basic information in Italian about themselves, their families, interests, likes and dislikes, and daily activities; participate in a simple conversation on everyday topics; to read edited texts on familiar topics; and produce Italian with basic grammatical accuracy and accurate pronunciation.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -6990,7 +7033,9 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "ITAL V1101"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20262ITAL1101S001",
@@ -6999,7 +7044,7 @@
   {
     "course_code":"ITAL S1102",
     "course_title":"ELEMENTARY ITALIAN II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: ITAL S1101, or the equivalent. Continues the work of ITAL 1101 and completes the study of elementary Italian. Students continue to develop communicative skills (listening, speaking, reading, and writing skills). Upon successful completion of this course, students should be able to provide basic information in Italian about wants and needs, personal opinions and wishes, personal experiences, past activities, and daily routines; read simple texts on familiar matters of high frequency everyday or job-related language; draw on a repertoire of vocabulary and syntax sufficient for dealing with everyday situations.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -7015,7 +7060,9 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "ITAL S1101"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20262ITAL1102S001",
@@ -7024,7 +7071,7 @@
   {
     "course_code":"ITAL S1201",
     "course_title":"INTERMEDIATE ITALIAN I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: ITAL V1102 or W1102, or the equivalent. If you did not take Elementary Italian at Columbia in the semester preceding the current one, you must take the placement test, offered by the Italian Department at the beginning of each semester. Same course as ITAL V1201-V1202.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -7040,7 +7087,14 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "ITAL V1102",
+        "W1102",
+        "ITAL V1201"
+      ],
+      [
+        "V1202"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20262ITAL1201S001",
@@ -7049,7 +7103,7 @@
   {
     "course_code":"ITAL S1202",
     "course_title":"INTERMEDIATE ITALIAN II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: ITAL V1201 or W1201, or the equivalent. If you did not take Elementary Italian at Columbia in the semester preceding the current one, you must take the placement test, offered by the Italian Department at the beginning of each semester. A review of grammar, intensive reading, composition, and practice in conversation. Exploration of literary and cultural material. Lab: hours to be arranged. ITAL V1202 fulfils the basic foreign language requirement and prepares students for advanced study in Italian language and literature.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -7065,7 +7119,13 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "ITAL V1201",
+        "W1201"
+      ],
+      [
+        "ITAL V1202"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20262ITAL1202S001",
@@ -7824,7 +7884,7 @@
   {
     "course_code":"MARW PS0101",
     "course_title":"Thinking and Problem Solving: Math in th",
-    "course_descr":null,
+    "course_descr":"",
     "instructor":null,
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"3:00pm",
@@ -7905,7 +7965,7 @@
   {
     "course_code":"MDES S1210",
     "course_title":"FIRST YEAR ARABIC I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: Students that are not registering for MDES S1211 will be required to request professor permission (tb46@columbia.edu) to enroll.",
     "instructor":"May Ahmar",
     "scheduled_time_start":"9:00am",
     "scheduled_time_end":"1:00pm",
@@ -7921,7 +7981,9 @@
     "open_to":null,
     "points":"5",
     "prerequisites":[
-
+      [
+        "MDES S1211"
+      ]
     ],
     "scheduled_days":"MTWRF",
     "section_key":"20262MDES1210S001",
@@ -7930,7 +7992,7 @@
   {
     "course_code":"MDES S1211",
     "course_title":"FIRST YEAR ARABIC II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: MDES S1210, or the equivalent.",
     "instructor":"Reem Faraj",
     "scheduled_time_start":"9:00am",
     "scheduled_time_end":"1:00pm",
@@ -7946,7 +8008,9 @@
     "open_to":null,
     "points":"5",
     "prerequisites":[
-
+      [
+        "MDES S1210"
+      ]
     ],
     "scheduled_days":"MTWRF",
     "section_key":"20262MDES1211S001",
@@ -7955,7 +8019,7 @@
   {
     "course_code":"MDES S1214",
     "course_title":"SECOND YEAR ARABIC I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: MDES UN1211-UN1212, or the equivalent.",
     "instructor":"Nasr Abdo",
     "scheduled_time_start":"9:00am",
     "scheduled_time_end":"1:00pm",
@@ -7971,7 +8035,12 @@
     "open_to":null,
     "points":"5",
     "prerequisites":[
-
+      [
+        "MDES UN1211"
+      ],
+      [
+        "UN1212"
+      ]
     ],
     "scheduled_days":"MTWRF",
     "section_key":"20262MDES1214S001",
@@ -7980,7 +8049,7 @@
   {
     "course_code":"MDES S1215",
     "course_title":"SECOND YEAR ARABIC II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: Prerequisites: MDES UN1211-UN1212 and UN1214 or the equivalent.",
     "instructor":"Ouijdane Absi",
     "scheduled_time_start":"9:00am",
     "scheduled_time_end":"1:00pm",
@@ -7996,7 +8065,15 @@
     "open_to":null,
     "points":"5",
     "prerequisites":[
-
+      [
+        "MDES UN1211"
+      ],
+      [
+        "UN1212"
+      ],
+      [
+        "UN1214"
+      ]
     ],
     "scheduled_days":"MTWRF",
     "section_key":"20262MDES1215S001",
@@ -8005,7 +8082,7 @@
   {
     "course_code":"MDES S4210",
     "course_title":"THIRD YEAR ARABIC I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: MDES UN1214-UN1215, or the equivalent $15.00= Language Resource Fee, $10.00 = Materials Fee Improvement of writing and speaking skills through compositions, class discussions, and presentations in Arabic on topics such as areas and cultures of the Middle East; classical and modern Arabic literature; and current, authentic materials available from Middle Eastern sources. Review of grammatical and syntactic rules as needed.",
     "instructor":"Rym Bettaieb",
     "scheduled_time_start":"9:00am",
     "scheduled_time_end":"1:00pm",
@@ -8021,7 +8098,12 @@
     "open_to":null,
     "points":"5",
     "prerequisites":[
-
+      [
+        "MDES UN1214"
+      ],
+      [
+        "UN1215"
+      ]
     ],
     "scheduled_days":"MTWRF",
     "section_key":"20262MDES4210S001",
@@ -8030,7 +8112,7 @@
   {
     "course_code":"MDES S4211",
     "course_title":"THIRD YEAR ARABIC II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: MDES UN1214-UN1215, or the equivalent. $15.00= Language Resource Fee, $10.00 = Materials Fee The continuation of S4210, above.",
     "instructor":"Youssef Nouhi",
     "scheduled_time_start":"9:00am",
     "scheduled_time_end":"1:00pm",
@@ -8046,7 +8128,13 @@
     "open_to":null,
     "points":"5",
     "prerequisites":[
-
+      [
+        "MDES UN1214"
+      ],
+      [
+        "UN1215",
+        "S4210"
+      ]
     ],
     "scheduled_days":"MTWRF",
     "section_key":"20262MDES4211S001",
@@ -8055,7 +8143,7 @@
   {
     "course_code":"MDES UN1001",
     "course_title":"CRITICAL THEORY: A GLOBAL PERSPECTIVE",
-    "course_descr":null,
+    "course_descr":"The purpose of this foundational course is to introduce Columbia undergraduate students, in the context of their Global Core curriculum, to the seminal field of critical theory. The historical domain of this course is within the last century and its geographical spectrum is global. European critical thinkers are included in this course but not privileged. Thinkers from Asia, Africa, Europe, North, South, and Latin America, are examined here in chronological order and in equal democratic footing with each other. This course as a result is decidedly cross-cultural, one step forward towards de-alienating critical thinkers from around the globe and the issues they address without pigeonholing them as something \u201cother\u201d or \u201cdifferent.\u201d The course is designed and offered in the true spirit of the \u201cGlobal Core.\u201d The purpose of the course is to reach for the common denominator of serious critical thinking about the fate of our humanity and the health of our social relations in an increasingly fragile world\u2014where the false binaries of \u201cthe West\u201d and \u201cthe Rest\u201d no longer hold. The roster of critical thinkers we will examine is by no means exhaustive but representative. Any number of other critical thinkers can be added to this roster but none of those we will examine can be excluded from them. The course is divided into thirteen successive weeks and for each week a number of seminal, original, and groundbreaking texts are identified. Each week we will examine selected passages from these texts. The course is designed as a lecture course, and my lectures are based on the totality of these texts but students will be assigned specific shorter passages to read.",
     "instructor":"Hamid Dabashi",
     "scheduled_time_start":"9:00am",
     "scheduled_time_end":"12:10pm",
@@ -8080,7 +8168,7 @@
   {
     "course_code":"MDES UN1002",
     "course_title":"CRITICAL THEORY:G.P.-DISC",
-    "course_descr":null,
+    "course_descr":"Corequisites: MDES UN1001.\u00a0Discussion sections (TWO) to accompany the course MDES UN1001, Critical Theory: A Global Perspective.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -8096,7 +8184,12 @@
     "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "MDES UN1001"
+      ],
+      [
+        "MDES UN1001"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20262MDES1002W001",
@@ -8105,7 +8198,7 @@
   {
     "course_code":"MDES UN1002",
     "course_title":"CRITICAL THEORY:G.P.-DISC",
-    "course_descr":null,
+    "course_descr":"Corequisites: MDES UN1001.\u00a0Discussion sections (TWO) to accompany the course MDES UN1001, Critical Theory: A Global Perspective.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -8121,7 +8214,12 @@
     "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "MDES UN1001"
+      ],
+      [
+        "MDES UN1001"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20262MDES1002W002",
@@ -9044,7 +9142,7 @@
   {
     "course_code":"PHYS S0065",
     "course_title":"BASIC PHYSICS",
-    "course_descr":null,
+    "course_descr":"Prerequisites: high school mathematics, but not calculus. Basic Physics serves as preparation for General Physics 1201-1202 and is intended for those students who do not have a solid foundation in high school physics or who have been away from school for several years. The course will provide an introduction to the basic concepts and fundamental laws of physics, focusing on mechanics, together with a review of the mathematical techniques needed for problem-solving.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -9069,7 +9167,7 @@
   {
     "course_code":"PHYS S1201",
     "course_title":"GENERAL PHYSICS I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: this course uses elementary concepts from calculus, and students should therefore have some basic background in differentiation and integration. Assignments to discussion sections are made after the first lecture. Basic introduction to the study of mechanics, fluids, and thermodynamics. The accompanying laboratory is PHYS S1291D. NOTE: There are two recitation sessions that meet for one hour each week. The recitation times will be selected at the first class meeting.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -9085,7 +9183,9 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "PHYS S1291"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20262PHYS1201S001",
@@ -9094,7 +9194,7 @@
   {
     "course_code":"PHYS S1202",
     "course_title":"GENERAL PHYSICS II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: PHYS S1201 or the equivalent. This course uses elementary concepts from calculus, and students should therefore have some basic background in differentiation and integration. The same course as PHYS S1202X, but given in a six-week session. Assignments to discussion sections are made after the first lecture. Basic introduction to the study of electricity, magnetism, optics, special relativity, quantum mechanics, atomic physics, and nuclear physics. The accompanying laboratory is PHYS S1292Q. NOTE: There are two recitation sessions that meet for one hour each week. The recitation times will be selected at the first class meeting.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -9110,7 +9210,13 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "PHYS S1201"
+      ],
+      [
+        "PHYS S1202",
+        "PHYS S1292"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20262PHYS1202S001",
@@ -9119,7 +9225,7 @@
   {
     "course_code":"PHYS S1202",
     "course_title":"GENERAL PHYSICS II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: PHYS S1201 or the equivalent. This course uses elementary concepts from calculus, and students should therefore have some basic background in differentiation and integration. The same course as PHYS S1202X, but given in a six-week session. Assignments to discussion sections are made after the first lecture. Basic introduction to the study of electricity, magnetism, optics, special relativity, quantum mechanics, atomic physics, and nuclear physics. The accompanying laboratory is PHYS S1292Q. NOTE: There are two recitation sessions that meet for one hour each week. The recitation times will be selected at the first class meeting.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -9135,7 +9241,13 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "PHYS S1201"
+      ],
+      [
+        "PHYS S1202",
+        "PHYS S1292"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20262PHYS1202S002",
@@ -9144,7 +9256,7 @@
   {
     "course_code":"PHYS S1291",
     "course_title":"GENERAL PHYSICS LAB I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: PHYS S1201. May be taken before or concurrently with this course. Laboratory for PHYS S1201D. Assignments to laboratory sections are made after the first lecture, offered Mon\/Wed or Tues\/Thurs 10.30AM-1.30PM.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -9160,7 +9272,10 @@
     "open_to":null,
     "points":"1",
     "prerequisites":[
-
+      [
+        "PHYS S1201",
+        "PHYS S1201"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20262PHYS1291S001",
@@ -9169,7 +9284,7 @@
   {
     "course_code":"PHYS S1291",
     "course_title":"GENERAL PHYSICS LAB I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: PHYS S1201. May be taken before or concurrently with this course. Laboratory for PHYS S1201D. Assignments to laboratory sections are made after the first lecture, offered Mon\/Wed or Tues\/Thurs 10.30AM-1.30PM.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -9185,7 +9300,10 @@
     "open_to":null,
     "points":"1",
     "prerequisites":[
-
+      [
+        "PHYS S1201",
+        "PHYS S1201"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20262PHYS1291S002",
@@ -9194,7 +9312,7 @@
   {
     "course_code":"PHYS S1292",
     "course_title":"GENERAL PHYSICS LAB II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: PHYS S1202. May be taken before or concurrently with this course. Laboratory for PHYS 1202X. Assignments to laboratory sections are made after the first lecture. NOTE: Labs meet one day a week (Mon, Tues, Wed or Thurs) 1:00pm - 4:00pm only. There are no evening lab sections.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -9210,7 +9328,9 @@
     "open_to":null,
     "points":"1",
     "prerequisites":[
-
+      [
+        "PHYS S1202"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20262PHYS1292S001",
@@ -9219,7 +9339,7 @@
   {
     "course_code":"PHYS S1292",
     "course_title":"GENERAL PHYSICS LAB II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: PHYS S1202. May be taken before or concurrently with this course. Laboratory for PHYS 1202X. Assignments to laboratory sections are made after the first lecture. NOTE: Labs meet one day a week (Mon, Tues, Wed or Thurs) 1:00pm - 4:00pm only. There are no evening lab sections.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -9235,7 +9355,9 @@
     "open_to":null,
     "points":"1",
     "prerequisites":[
-
+      [
+        "PHYS S1202"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20262PHYS1292S002",
@@ -9244,7 +9366,7 @@
   {
     "course_code":"PHYS S1292",
     "course_title":"GENERAL PHYSICS LAB II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: PHYS S1202. May be taken before or concurrently with this course. Laboratory for PHYS 1202X. Assignments to laboratory sections are made after the first lecture. NOTE: Labs meet one day a week (Mon, Tues, Wed or Thurs) 1:00pm - 4:00pm only. There are no evening lab sections.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -9260,7 +9382,9 @@
     "open_to":null,
     "points":"1",
     "prerequisites":[
-
+      [
+        "PHYS S1202"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20262PHYS1292S003",
@@ -9269,7 +9393,7 @@
   {
     "course_code":"PHYS S1292",
     "course_title":"GENERAL PHYSICS LAB II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: PHYS S1202. May be taken before or concurrently with this course. Laboratory for PHYS 1202X. Assignments to laboratory sections are made after the first lecture. NOTE: Labs meet one day a week (Mon, Tues, Wed or Thurs) 1:00pm - 4:00pm only. There are no evening lab sections.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -9285,7 +9409,9 @@
     "open_to":null,
     "points":"1",
     "prerequisites":[
-
+      [
+        "PHYS S1202"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20262PHYS1292S004",
@@ -9294,7 +9420,7 @@
   {
     "course_code":"PHYS S1292",
     "course_title":"GENERAL PHYSICS LAB II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: PHYS S1202. May be taken before or concurrently with this course. Laboratory for PHYS 1202X. Assignments to laboratory sections are made after the first lecture. NOTE: Labs meet one day a week (Mon, Tues, Wed or Thurs) 1:00pm - 4:00pm only. There are no evening lab sections.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -9310,7 +9436,9 @@
     "open_to":null,
     "points":"1",
     "prerequisites":[
-
+      [
+        "PHYS S1202"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20262PHYS1292S005",
@@ -9319,7 +9447,7 @@
   {
     "course_code":"PHYS S1292",
     "course_title":"GENERAL PHYSICS LAB II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: PHYS S1202. May be taken before or concurrently with this course. Laboratory for PHYS 1202X. Assignments to laboratory sections are made after the first lecture. NOTE: Labs meet one day a week (Mon, Tues, Wed or Thurs) 1:00pm - 4:00pm only. There are no evening lab sections.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -9335,7 +9463,9 @@
     "open_to":null,
     "points":"1",
     "prerequisites":[
-
+      [
+        "PHYS S1202"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20262PHYS1292S006",
@@ -9965,7 +10095,7 @@
   {
     "course_code":"QMSS GR5067",
     "course_title":"NATURAL LANG PROCESSING SOCIAL SCIENCES",
-    "course_descr":null,
+    "course_descr":"Social scientists need to engage with natural language processing (NLP) approaches that are found in computer science, engineering, AI, tech and in industry. This course will provide an overview of natural language processing as it is applied in a number of domains. The goal is to gain familiarity with a number of critical topics and techniques that use text as data, and then to see how those NLP techniques can be used to produce social science research and insights. This course will be hands-on, with several large-scale exercises. The course will start with an introduction to Python and associated key NLP packages and github. The course will then cover topics like language modeling; part of speech tagging; parsing; information extraction; tokenizing; topic modeling; machine translation; sentiment analysis; summarization; supervised machine learning; and hidden Markov models. Prerequisites are basic probability and statistics, basic linear algebra and calculus. The course will use Python, and so if students have programmed in at least one software language, that will make it easier to keep up with the course.",
     "instructor":"Patrick Houlihan",
     "scheduled_time_start":"5:30pm",
     "scheduled_time_end":"8:40pm",
@@ -9990,7 +10120,7 @@
   {
     "course_code":"QMSS GR5075",
     "course_title":"Artificial Intelligence (AI) & Social Sc",
-    "course_descr":null,
+    "course_descr":"Artificial intelligence (AI) and generative AI \u2013 like ChatGPT, MidJourney, and Gemini \u2013 are poised to change the world for everyone. It is critical that students understand (and utilize) this new technology at several levels. In this class \u2013 through readings and a dozen hands-on activities \u2013 students will come to deeply understand AI. Specifically, students will construct (using Python) some of the basic building-blocks of AI, like machine learning (like recommendation systems), natural language processing (like word embeddings) and chatbots. They will test out AI\u2019s capabilities and refine prompts in real-world settings, whether in art, video, writing or Internet-of-Things. They will learn about how generative AI fits into the history of technology adoption and the diffusion of innovation, answering questions like: Will AI be able to replace whole jobs? And if so, when? They will use the lenses of psychology and economics to explore the impact of AI in people\u2019s lives, including in the context of algorithmic fairness, regulation and intellectual property. They will be pushed to take human creativity in new directions, augmented by AI\u2019s \u201cweirdness.\u201d Lastly, students will be pushed to further develop their own uniquely-human skills \u2013 like in critical thinking and empathy \u2013 in response to the power of generative AI to mimic humans. As best-selling author Seth Stephen-Davidowitz has recently (Dec. 2023) written, \u201cSo far, my newest book has higher ratings than either of my previous two books -- even though it was written in 1\/36th of the time, thanks to AI. AI is wild!\" By the end of this class, students will feel empowered technically and philosophically to handle all new generative AI developments. There are no specific prerequisites for this class.",
     "instructor":"Gregory M Eirich",
     "scheduled_time_start":"9:00am",
     "scheduled_time_end":"12:10pm",
@@ -10015,7 +10145,7 @@
   {
     "course_code":"QMSS GR5997",
     "course_title":"INDEPENDENT STUDY",
-    "course_descr":null,
+    "course_descr":"This course offers students an opportunity to expand their curriculum beyond the established course offerings. Interested parties must consult with the QMSS Program Director before adding the class. This course may be taken for 2-4 points.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -10040,7 +10170,7 @@
   {
     "course_code":"QMSS S5019",
     "course_title":"DATA ANALYSIS WITH PYTHON",
-    "course_descr":null,
+    "course_descr":"This course is meant to provide an introduction to regression and applied statistics for the social sciences, with a strong emphasis on utilizing the Python software language to perform the key tasks in the data analysis workflow. Topics to be covered include various data structures, basic descriptive statistics, regression models, multiple regression analysis, interactions, polynomials, Gauss-Markov assumptions and asymptotics, heteroskedasticity and diagnostics, data visualization, models for binary outcomes, models for ordered data, first difference analysis, factor analysis, and cluster analysis. Through a variety of lab assignments, students will be able to generate and interpret quantitative data in helpful and provocative ways. Only relatively basic mathematics skills are assumed, but some more advanced math will be introduced as needed. A previous introductory statistics course that includes linear regression is helpful, but not required.",
     "instructor":"Gregory M Eirich",
     "scheduled_time_start":"9:00am",
     "scheduled_time_end":"12:10pm",
@@ -11158,7 +11288,7 @@
   {
     "course_code":"WRIT S1001",
     "course_title":"FICTION WORKSHOP",
-    "course_descr":null,
+    "course_descr":"The Fiction Writing Workshop is designed for students who have little or no experience writing imaginative prose. Students are introduced to a range of craft concerns through exercises and discussions, and eventually produce their own writing for the critical analysis of the class. Outside readings supplement and inform the exercises and longer written projects. Enrollment limited to 15.",
     "instructor":"Erroll G McDonald",
     "scheduled_time_start":"5:30pm",
     "scheduled_time_end":"8:40pm",
