@@ -1805,7 +1805,7 @@
   {
     "course_code":"CHEM S0001",
     "course_title":"PREPARATION-COLLEGE CHEMISTRY",
-    "course_descr":null,
+    "course_descr":"Prerequisites: High school algebra or the instructor's permission. Recommended: high school physics and chemistry. This course is preparation for CHEM UN1403 General Chemistry I Lecture or the equivalent, as well as for other science courses. It is intended for students who have not attended school for sometime or who do not have a firm grasp of high school chemistry. Topics include inorganic nomenclature, chemical reactions, chemical bonding and its relation to molecular structure, stoichiometry, periodic properties of elements, chemical equilibrium, gas laws, acids and bases, and electrochemistry. Please note that students must attend a recitation section.",
     "instructor":"Luis A Avila",
     "scheduled_time_start":"6:15pm",
     "scheduled_time_end":"7:50pm",
@@ -1821,7 +1821,9 @@
     "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "CHEM UN1403"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20262CHEM0001S001",
@@ -3536,7 +3538,7 @@
   {
     "course_code":"ECON GU4911",
     "course_title":"MICROECONOMICS SEMINAR",
-    "course_descr":null,
+    "course_descr":"Prerequisites: ECON UN3211 and ECON UN3213 and ECON UN3412\u00a0 Selected topics in microeconomics.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -3552,7 +3554,15 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "ECON UN3211"
+      ],
+      [
+        "ECON UN3213"
+      ],
+      [
+        "ECON UN3412"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20262ECON4911W001",
@@ -3723,7 +3733,7 @@
   {
     "course_code":"ECON S1105",
     "course_title":"PRINCIPLES OF ECONOMICS",
-    "course_descr":null,
+    "course_descr":"Equivalent to ECON UN1105, the first course for the major in economics. How a market economy determines the relative prices of goods, factors of production, and the allocation of resources; the circumstances under which it does these things efficiently. Why such an economy has fluctuations and how they may be controlled.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -3739,7 +3749,9 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "ECON UN1105"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20262ECON1105S001",
@@ -3748,7 +3760,7 @@
   {
     "course_code":"ECON S3025",
     "course_title":"FINANCIAL ECONOMICS",
-    "course_descr":null,
+    "course_descr":"Prerequisites: STAT UN1201, ECON UN3211 Intermediate Microeconomics and ECON UN3213 Intermediate Macroeconomics. Equivalent to ECON UN3025. Institutional nature and economic function of financial markets. Emphasis on both domestic and international markets (debt, stock, foreign exchange, Eurobond, Eurocurrency, futures, options, and others). Principles of security pricing and portfolio management; the capital asset pricing model and the efficient markets hypothesis.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -3764,7 +3776,18 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "ECON UN3025"
+      ],
+      [
+        "ECON UN3211"
+      ],
+      [
+        "ECON UN3213"
+      ],
+      [
+        "STAT UN1201"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20262ECON3025S001",
@@ -3773,7 +3796,7 @@
   {
     "course_code":"ECON S3025",
     "course_title":"FINANCIAL ECONOMICS",
-    "course_descr":null,
+    "course_descr":"Prerequisites: STAT UN1201, ECON UN3211 Intermediate Microeconomics and ECON UN3213 Intermediate Macroeconomics. Equivalent to ECON UN3025. Institutional nature and economic function of financial markets. Emphasis on both domestic and international markets (debt, stock, foreign exchange, Eurobond, Eurocurrency, futures, options, and others). Principles of security pricing and portfolio management; the capital asset pricing model and the efficient markets hypothesis.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -3789,7 +3812,18 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "ECON UN3025"
+      ],
+      [
+        "ECON UN3211"
+      ],
+      [
+        "ECON UN3213"
+      ],
+      [
+        "STAT UN1201"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20262ECON3025S002",
@@ -3798,7 +3832,7 @@
   {
     "course_code":"ECON S3213",
     "course_title":"INTERMEDIATE MACROECONOMICS",
-    "course_descr":null,
+    "course_descr":"Prerequisites: MATH UN1101 and ECON UN1105 or the equivalent; one term of calculus. Corequisites: MATH UN1201. This course covers the determination of output, employment, inflation and interest rates. Topics include economic growth, business cycles, monetary and fiscal policy, consumption and savings and national income accounting.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -3814,7 +3848,13 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "ECON UN1105",
+        "MATH UN1201"
+      ],
+      [
+        "MATH UN1101"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20262ECON3213S001",
@@ -3823,7 +3863,7 @@
   {
     "course_code":"ECON S3412",
     "course_title":"INTRO TO ECONOMETRICS",
-    "course_descr":null,
+    "course_descr":"Prerequisites: STAT UN1201 Intro to Stats w\/Calculus, MATH UN1201 Calculus III, and either intermediate micro or macro (UN3211 or UN3213). Equivalent to ECON UN3412. Modern econometric methods, the general linear statistical model and its extensions, simultaneous equations and the identification problem, time series problems, forecasting methods, extensive practice with the analysis of different types of data.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -3839,7 +3879,17 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "ECON UN3412"
+      ],
+      [
+        "MATH UN1201",
+        "UN3211",
+        "UN3213"
+      ],
+      [
+        "STAT UN1201"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20262ECON3412S001",
@@ -3848,7 +3898,7 @@
   {
     "course_code":"ECON S4020",
     "course_title":"ECON OF UNCERTAINTY & INFORMTN",
-    "course_descr":null,
+    "course_descr":"Uncertainty is ubiquitous and information about that uncertainty plays a key role in economic\n decision-making and exchange. In this course, we will first consider how individuals and society\n can manage uncertainty. We will then focus on how economic relationships may suffer from\n some parties not having all the information that is relevant to their decision-making. We will see\n how these kinds of information asymmetries invite lying and cheating. We will also study how\n parties can structure their agreements to address the problems that such information asymmetries\n create.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -3873,7 +3923,7 @@
   {
     "course_code":"ECON S4400",
     "course_title":"LABOR ECONOMICS",
-    "course_descr":null,
+    "course_descr":"Prerequisites: ECON UN3211 and ECON UN3213. This course examines labor markets through the lens of economics. In broad terms, labor economics is the study of the exchange of labor services for wages\u2014a category that takes in a wide range of topics. Our objective in this course is to lay the foundations for explaining labor market phenomena within an economic framework and subsequently apply this knowledge-structure to a select set of questions. Throughout this process we will discuss empirical research, which will highlight the power (as well as the limitations) of employing economic models to real-world problems. By the end of this course we will have the tools\/intuition to adequately formulate and critically contest arguments concerning labor markets.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -3889,7 +3939,12 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "ECON UN3211"
+      ],
+      [
+        "ECON UN3213"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20262ECON4400S001",
@@ -3898,7 +3953,7 @@
   {
     "course_code":"ECON S4415",
     "course_title":"GAME THEORY",
-    "course_descr":null,
+    "course_descr":"Prerequisites: ECON UN3211 and ECON UN3213. Equivalent to ECON UN4415. Introduction to the systematic treatment of game theory and its applications in economic analysis.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -3914,7 +3969,15 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "ECON UN3211"
+      ],
+      [
+        "ECON UN3213"
+      ],
+      [
+        "ECON UN4415"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20262ECON4415S001",
@@ -3923,7 +3986,7 @@
   {
     "course_code":"ECON S4415",
     "course_title":"GAME THEORY",
-    "course_descr":null,
+    "course_descr":"Prerequisites: ECON UN3211 and ECON UN3213. Equivalent to ECON UN4415. Introduction to the systematic treatment of game theory and its applications in economic analysis.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -3939,7 +4002,15 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "ECON UN3211"
+      ],
+      [
+        "ECON UN3213"
+      ],
+      [
+        "ECON UN4415"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20262ECON4415S002",
@@ -3948,7 +4019,7 @@
   {
     "course_code":"ECON S4500",
     "course_title":"INTERNATIONAL TRADE",
-    "course_descr":null,
+    "course_descr":"Prerequisites: ECON UN3211 and ECON UN3213. Equivalent to ECON UN4500. The theory of international trade, comparative advantage and the factor endowments explanation of trade, analysis of the theory and practice of commercial policy, economic integration. International mobility of capital and labor, the North-South debate.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -3964,7 +4035,15 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "ECON UN3211"
+      ],
+      [
+        "ECON UN3213"
+      ],
+      [
+        "ECON UN4500"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20262ECON4500S001",
@@ -3973,7 +4052,7 @@
   {
     "course_code":"ECON UN2105",
     "course_title":"THE AMERICAN ECONOMY",
-    "course_descr":null,
+    "course_descr":"Prerequisites: ECON UN1105 The course surveys issues of interest in the American economy, including economic measurement, well-being and income distribution, business cycles and recession, the labor and housing markets, saving and wealth, fiscal policy, banking and finance, and topics in central banking. We study historical issues, institutions, measurement, current performance and recent research.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -3989,7 +4068,9 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "ECON UN1105"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20262ECON2105W001",
@@ -3998,7 +4079,7 @@
   {
     "course_code":"ECON UN2261",
     "course_title":"ACCOUNTING & FINANCE FOR ECONOMICS",
-    "course_descr":null,
+    "course_descr":"The purpose of this course is to provide a basic introduction to accounting, including the\n foundations of accounting concepts, the underlying mechanics, and the overall perspective required\n to become intelligent users of accounting information. The course will focus on the main\n financial statements, the nature of accrual measurement, and the information perspective. In addition,\n we will explore some accounting methods in detail, such as revenue recognition, assets,\n liabilities, and equity.\n The overarching perspective is that accounting reports provide information that is useful for\n a variety of purposes. In the course, I will also provide insights into how the financial markets\n use accounting information to evaluate executives, predict future stock returns, assess firms\u2019\n riskiness, and allocate society\u2019s resources to their most productive uses.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -4023,7 +4104,7 @@
   {
     "course_code":"ECON UN2261",
     "course_title":"ACCOUNTING & FINANCE FOR ECONOMICS",
-    "course_descr":null,
+    "course_descr":"The purpose of this course is to provide a basic introduction to accounting, including the\n foundations of accounting concepts, the underlying mechanics, and the overall perspective required\n to become intelligent users of accounting information. The course will focus on the main\n financial statements, the nature of accrual measurement, and the information perspective. In addition,\n we will explore some accounting methods in detail, such as revenue recognition, assets,\n liabilities, and equity.\n The overarching perspective is that accounting reports provide information that is useful for\n a variety of purposes. In the course, I will also provide insights into how the financial markets\n use accounting information to evaluate executives, predict future stock returns, assess firms\u2019\n riskiness, and allocate society\u2019s resources to their most productive uses.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -4048,7 +4129,7 @@
   {
     "course_code":"ECON UN3265",
     "course_title":"MONEY AND BANKING",
-    "course_descr":null,
+    "course_descr":"Prerequisites: ECON UN3211 and ECON UN3213\u00a0or the equivalent. Introduction to the principles of money and banking. The intermediary institutions of the American economy and their historical developments, current issues in monetary and financial reform.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -4064,7 +4145,12 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "ECON UN3211"
+      ],
+      [
+        "ECON UN3213"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20262ECON3265V001",
@@ -4073,7 +4159,7 @@
   {
     "course_code":"ECON UN3265",
     "course_title":"MONEY AND BANKING",
-    "course_descr":null,
+    "course_descr":"Prerequisites: ECON UN3211 and ECON UN3213\u00a0or the equivalent. Introduction to the principles of money and banking. The intermediary institutions of the American economy and their historical developments, current issues in monetary and financial reform.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -4089,7 +4175,12 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "ECON UN3211"
+      ],
+      [
+        "ECON UN3213"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20262ECON3265V002",
@@ -4385,7 +4476,7 @@
   {
     "course_code":"ENGL S3233",
     "course_title":"SHAKESPEARE",
-    "course_descr":null,
+    "course_descr":"This course provides an introduction to Shakespeare through a combination of reading his plays and viewing them in performance. On the one hand, we approach each play as a written, published text: our in-class conversation consist primarily in close analysis of key passages, and, in one class period, we visit Rare Books to examine the earliest printed versions of the plays in light of English Renaissance print technology. On the other hand, we view performances of each assigned play, including the attendance as a group of at least one Shakespeare production on an NYC stage. Our semester\u2019s through line is to trace, from his earliest plays to Hamlet, Shakespeare\u2019s remarkable development of the techniques of characterization that have made generations of both playgoers and readers feel that his dramatis personae are so modern, real, human. We will also devote attention to exploring the value of each play in our present moment and on our local stages. We read 8 plays in all, including Titus Andronicus, Midsummer Night's Dream, Julius Caesar, Macbeth, Merchant of Venice, and Hamlet.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -4410,7 +4501,7 @@
   {
     "course_code":"ENGL S3273",
     "course_title":"WALT WHITMAN AND NEW YORK",
-    "course_descr":null,
+    "course_descr":"Walt Whitman was not the first to write about New York. But he was the first of many to let New York write him. By age 43, Whitman had composed most of his best poetry, published three editions of Leaves of Grass, and left New York only twice. How did the second son of an unsuccessful farmer, a grammar school dropout and hack writer become America\u2019s greatest poet? This course offers a response to this perennial mystery of literary scholarship by proposing that \u201cWalt Whitman, a kosmos, of Manhattan the son\u201d was indeed a product of his environment. Coming of age as a writer at the same time the city was emerging as a great metropolis, he received his education and inspiration from New York itself. Course time is equally divided between discussions of Whitman\u2019s antebellum poetry, journalism, and prose (including the newly recovered Life and Adventures of Jack Engle) in their cultural and geographical contexts, and on-site explorations that retread Whitman\u2019s footsteps through Brooklyn and his beloved Mannahatta. Experiential learning is further encouraged through assignments based in archives, museums, and at historic sites throughout the city.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -4435,7 +4526,7 @@
   {
     "course_code":"ENGL S3782",
     "course_title":"WHEN AMERICAN TELEVISION BECAME AMERICAN",
-    "course_descr":null,
+    "course_descr":"In a 2015 interview with David Simon (creator of \nThe Wire\n) President Barak Obama offered that \nThe Wire \nis, \"one of the greatest -- not just television shows, but pieces of American art in the last couple of decades.\" \u00a0\nThe Wire \ncombines hyperrealism (from a-quasi anthropological capture of syntax and dialect that recalls the language of Langston Hughes and Zora Neal Hurston to a preference for actors who lived \u201cthe game\u201d in Baltimore\u2019s inner city) with the reinvention of fundamental American themes (from picaresque individualisms, to coming to terms with the illusory \u201cAmerican dream\u201d, to a fundamental loss of faith in American institutions), and engages in a scathing expose of the shared dysfunction among the bureaucracies (police, courts, public schools etc.) that manage a troubled American inner city.\u00a0 On a more macro level \nThe Wire\n humanizes (and therefore vastly problematizes) assumptions about the individual Americans\u2019 who inhabit America\u2019s most dangerous urban environments from gang members to police officers to teachers and even ordinary citizens.\n  \nThe Wire\n, of course, did not single-handedly reshape American television. Scholars like Martin Shuster refer to this period of television history as \u201cnew television.\u201d That is, the product of new imaginations that felt television had exhausted its normative points of reference, subject matter and narrative technique. Many of the shows from this period sought to reinvent television for interaction with an evolving zeitgeist shaped by shared dissolution with 21st century American life: \u201cI\u2019d been thinking: it\u2019s good to be in a thing from the ground floor, I came too late for that, I know.\u00a0 But lately I\u2019m getting the feeling I might be in at the end.\u00a0 That the best is over,\u201d Tony Soprano confides to Dr. Malfi in S1.E1 of the Sopranos.\u00a0 Series that fall within this rubric include (in chronological order): \nThe Sopranos\n; \nThe Wire\n; \nDeadwood\n; \nMadmen\n; and \nBreaking Bad.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -4460,7 +4551,7 @@
   {
     "course_code":"ENGL UN3048",
     "course_title":"British Literature to 1500",
-    "course_descr":null,
+    "course_descr":"This course will introduce some of the most fascinating texts of the first eight hundred years of English literature, from the period of Anglo-Saxon rule through the Hundred Years\u2019 War and beyond\u2014roughly, 700\u20131500 CE. We\u2019ll hit on some texts you\u2019ve heard of \u2013\u00a0\nBeowulf\n\u00a0and selections from Chaucer\u2019s\u00a0\nCanterbury Tales\n\u00a0\u2013 while leaving time for some you may not have encountered \u2013 Marie de France\u2019s\u00a0\nLais\n\u00a0and Margery of Kempe\u2019s\u00a0\nBook\n. Along the way, we\u2019ll also hone skills of reading, writing, and oral expression crucial to appreciating and discussing literature in nuanced, supple ways.\u00a0\n  \nIf you take this course, you\u2019ll discover how medieval literature is both a mirror and a foil to modern literature. You\u2019ll explore the plurilingual and cross-cultural nature of medieval literary production and improve (or acquire!) your knowledge of Middle English. Plus, you\u2019ll flex your writing muscles with two papers.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -4485,7 +4576,7 @@
   {
     "course_code":"ENGL UN3804",
     "course_title":"British Women Writers: the Woman Questio",
-    "course_descr":null,
+    "course_descr":"This course will examine British women writers including Jane Austen, Charlotte Bront\u00eb, George Eliot, and Virginia Woolf in the context of the (long-) nineteenth-century \"Woman Question\". Our inquiry will engage the controversy over a woman\u2019s status in terms of the social and political debates of early feminism as well as the enigma of \u201cwoman\u2019s nature\u201d in light of the rise of psychology and psychoanalysis in the period. We will consider how women writers negotiate these current social and psychological discourses in the stories they tell about themselves and others: how do they portray a woman\u2019s life, especially as it manifests the tension George Eliot articulates between \u201cinward impulse and outward fact\u201d? We will pay attention to representations of gender, subjectivity, interiority, desire, domestic affections, friendship, education, economic and professional experience, faith, and creativity as reflecting the struggle, rising influence, and emergent identity of woman. In addition to novels, poetry, and drama, we will read excerpts of critical essays from among our primary authors and other prominent thinkers of the period, such as Wollstonecraft, Martineau, Taylor Mill, and Freud, who, by the early twentieth century, still famously puzzles: \u201cWhat does a woman want?\u201d",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -5794,6 +5885,231 @@
     "scheduled_days":"MTWRF",
     "section_key":"20262GOPO0101K002",
     "type":"LECTURE"
+  },
+  {
+    "course_code":"HIST S3116",
+    "course_title":"HISTORY OF CAPITALISM",
+    "course_descr":null,
+    "instructor":"Carl Wennerlind",
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"1:00pm",
+    "call_number":"10497",
+    "campus":null,
+    "class_id":"S3116-20262-001",
+    "course_subtitle":null,
+    "department":"Summer Session (SUMM)",
+    "department_code":"HIST",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HIST\/S3116-20262-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20262HIST3116S001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"HIST S3299",
+    "course_title":"TYRANNY & AUTOCRACY-RUSS\/SOV UNION",
+    "course_descr":null,
+    "instructor":"Michael F Stanislawski",
+    "scheduled_time_start":"1:00pm",
+    "scheduled_time_end":"4:10pm",
+    "call_number":"10498",
+    "campus":null,
+    "class_id":"S3299-20262-001",
+    "course_subtitle":"TYRANNY & AUTOCRACY-RUSS\/",
+    "department":"Summer Session (SUMM)",
+    "department_code":"HIST",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HIST\/S3299-20262-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20262HIST3299S001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"HIST S3428",
+    "course_title":"US PRESIDENCY WASHINGTON TO TRUMP",
+    "course_descr":null,
+    "instructor":"David Eisenbach",
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"12:10pm",
+    "call_number":"10500",
+    "campus":null,
+    "class_id":"S3428-20262-001",
+    "course_subtitle":"US PRESIDENCY WASHINGTON",
+    "department":"Summer Session (SUMM)",
+    "department_code":"HIST",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HIST\/S3428-20262-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20262HIST3428S001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"HIST S3455",
+    "course_title":"GLOBAL HIST OF THE US MILITARY",
+    "course_descr":null,
+    "instructor":"Robert M Jr Neer",
+    "scheduled_time_start":"1:00pm",
+    "scheduled_time_end":"4:10pm",
+    "call_number":"10502",
+    "campus":null,
+    "class_id":"S3455-20262-001",
+    "course_subtitle":"GLOBAL HIST OF THE US MIL",
+    "department":"Summer Session (SUMM)",
+    "department_code":"HIST",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HIST\/S3455-20262-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20262HIST3455S001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"HIST S3535",
+    "course_title":"HIST OF THE CITY OF NEW YORK",
+    "course_descr":null,
+    "instructor":"Stephen J Sullivan",
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"12:10pm",
+    "call_number":"10503",
+    "campus":null,
+    "class_id":"S3535-20262-001",
+    "course_subtitle":"HIST OF THE CITY OF NEW Y",
+    "department":"Summer Session (SUMM)",
+    "department_code":"HIST",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HIST\/S3535-20262-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20262HIST3535S001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"HIST S3596",
+    "course_title":"HIST OF LATINOS\/AS IN THE U.S.",
+    "course_descr":null,
+    "instructor":"Darius V Echeverria",
+    "scheduled_time_start":"1:00pm",
+    "scheduled_time_end":"4:10pm",
+    "call_number":"10505",
+    "campus":null,
+    "class_id":"S3596-20262-001",
+    "course_subtitle":"HIST OF LATINOS\/AS IN THE",
+    "department":"Summer Session (SUMM)",
+    "department_code":"HIST",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HIST\/S3596-20262-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20262HIST3596S001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"HIST S4327",
+    "course_title":"CONSUMER CULTURE IN MOD EUROPE",
+    "course_descr":null,
+    "instructor":"Lisa Tiersten",
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"1:00pm",
+    "call_number":"10508",
+    "campus":null,
+    "class_id":"S4327-20262-001",
+    "course_subtitle":"CONSUMER CULTURE IN MOD E",
+    "department":"Summer Session (SUMM)",
+    "department_code":"HIST",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HIST\/S4327-20262-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20262HIST4327S001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"HIST S4981",
+    "course_title":"REVOL\/RAD POLITICS-MARX-MAY'68",
+    "course_descr":null,
+    "instructor":"Alheli Alvarado-Diaz",
+    "scheduled_time_start":"1:00pm",
+    "scheduled_time_end":"5:00pm",
+    "call_number":"10509",
+    "campus":null,
+    "class_id":"S4981-20262-001",
+    "course_subtitle":"REVOL\/RAD POLITICS-MARX-M",
+    "department":"Summer Session (SUMM)",
+    "department_code":"HIST",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HIST\/S4981-20262-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20262HIST4981S001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"HIST UN3779",
+    "course_title":"AFRICA AND FRANCE",
+    "course_descr":null,
+    "instructor":"Gregory Mann",
+    "scheduled_time_start":"5:30pm",
+    "scheduled_time_end":"8:40pm",
+    "call_number":"10506",
+    "campus":null,
+    "class_id":"Q3779-20262-001",
+    "course_subtitle":null,
+    "department":"Summer Session (SUMM)",
+    "department_code":"HIST",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HIST\/Q3779-20262-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20262HIST3779Q001",
+    "type":"SEMINAR"
   },
   {
     "course_code":"HRTS GU4050",
@@ -8659,6 +8975,56 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"MATH GR5510",
+    "course_title":"MAFN FIELDWORK",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"10534",
+    "campus":null,
+    "class_id":"G5510-20262-001",
+    "course_subtitle":null,
+    "department":"Summer Session (SUMM)",
+    "department_code":"MATH",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/MATH\/G5510-20262-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"1-3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262MATH5510G001",
+    "type":"FIELD WORK"
+  },
+  {
+    "course_code":"MATH GU4041",
+    "course_title":"INTRO MODERN ALGEBRA I",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"10532",
+    "campus":null,
+    "class_id":"W4041-20262-001",
+    "course_subtitle":null,
+    "department":"Summer Session (SUMM)",
+    "department_code":"MATH",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/MATH\/W4041-20262-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262MATH4041W001",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"MATH PS0101",
     "course_title":"A Bridge to Higher Mathematics",
     "course_descr":"",
@@ -8710,6 +9076,331 @@
     ],
     "scheduled_days":"MTWRF",
     "section_key":"20262MATH0101K002",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"MATH S1003",
+    "course_title":"COLLEGE ALGEBRA-ANLYTC GEOMTRY",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"10520",
+    "campus":null,
+    "class_id":"S1003-20262-001",
+    "course_subtitle":"COLLEGE ALGEBRA-ANLYTC GE",
+    "department":"Summer Session (SUMM)",
+    "department_code":"MATH",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/MATH\/S1003-20262-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262MATH1003S001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"MATH S1101",
+    "course_title":"CALCULUS I",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"10521",
+    "campus":null,
+    "class_id":"S1101-20262-001",
+    "course_subtitle":null,
+    "department":"Summer Session (SUMM)",
+    "department_code":"MATH",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/MATH\/S1101-20262-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262MATH1101S001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"MATH S1101",
+    "course_title":"CALCULUS I",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"10522",
+    "campus":null,
+    "class_id":"S1101-20262-002",
+    "course_subtitle":null,
+    "department":"Summer Session (SUMM)",
+    "department_code":"MATH",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/MATH\/S1101-20262-002\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262MATH1101S002",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"MATH S1102",
+    "course_title":"CALCULUS II",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"10523",
+    "campus":null,
+    "class_id":"S1102-20262-001",
+    "course_subtitle":null,
+    "department":"Summer Session (SUMM)",
+    "department_code":"MATH",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/MATH\/S1102-20262-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262MATH1102S001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"MATH S1201",
+    "course_title":"CALCULUS III",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"10524",
+    "campus":null,
+    "class_id":"S1201-20262-001",
+    "course_subtitle":null,
+    "department":"Summer Session (SUMM)",
+    "department_code":"MATH",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/MATH\/S1201-20262-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262MATH1201S001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"MATH S1201",
+    "course_title":"CALCULUS III",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"10525",
+    "campus":null,
+    "class_id":"S1201-20262-002",
+    "course_subtitle":null,
+    "department":"Summer Session (SUMM)",
+    "department_code":"MATH",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/MATH\/S1201-20262-002\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262MATH1201S002",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"MATH S2010",
+    "course_title":"LINEAR ALGEBRA",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"10526",
+    "campus":null,
+    "class_id":"S2010-20262-001",
+    "course_subtitle":null,
+    "department":"Summer Session (SUMM)",
+    "department_code":"MATH",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/MATH\/S2010-20262-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262MATH2010S001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"MATH S2010",
+    "course_title":"LINEAR ALGEBRA",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"10527",
+    "campus":null,
+    "class_id":"S2010-20262-002",
+    "course_subtitle":null,
+    "department":"Summer Session (SUMM)",
+    "department_code":"MATH",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/MATH\/S2010-20262-002\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262MATH2010S002",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"MATH S2100",
+    "course_title":"Introduction to Mathematical Modeling I",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"10530",
+    "campus":null,
+    "class_id":"S2100-20262-001",
+    "course_subtitle":"Intro Mathematical Modeli",
+    "department":"Summer Session (SUMM)",
+    "department_code":"MATH",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/MATH\/S2100-20262-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262MATH2100S001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"MATH S2500",
+    "course_title":"ANALYSIS AND OPTIMIZATION",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"10531",
+    "campus":null,
+    "class_id":"S2500-20262-001",
+    "course_subtitle":null,
+    "department":"Summer Session (SUMM)",
+    "department_code":"MATH",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/MATH\/S2500-20262-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262MATH2500S001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"MATH S4061",
+    "course_title":"INTRO TO MODERN ANALYSIS I",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"10533",
+    "campus":null,
+    "class_id":"S4061-20262-001",
+    "course_subtitle":"INTRO TO MODERN ANALYSIS",
+    "department":"Summer Session (SUMM)",
+    "department_code":"MATH",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/MATH\/S4061-20262-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262MATH4061S001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"MATH UN2015",
+    "course_title":"Linear Algebra and Probability",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"10528",
+    "campus":null,
+    "class_id":"W2015-20262-001",
+    "course_subtitle":"Linear Algebra and Probab",
+    "department":"Summer Session (SUMM)",
+    "department_code":"MATH",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/MATH\/W2015-20262-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262MATH2015W001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"MATH UN2030",
+    "course_title":"ORDINARY DIFFERENTIAL EQUATIONS",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"10529",
+    "campus":null,
+    "class_id":"V2030-20262-001",
+    "course_subtitle":"ORDINARY DIFFERENTIAL EQU",
+    "department":"Summer Session (SUMM)",
+    "department_code":"MATH",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/MATH\/V2030-20262-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262MATH2030V001",
     "type":"LECTURE"
   },
   {
@@ -9811,7 +10502,7 @@
   {
     "course_code":"PHIL S2201",
     "course_title":"HIST OF PHIL: AQUINAS TO KANT",
-    "course_descr":null,
+    "course_descr":"PHIL UN2101 is not a prerequisite for this course. Exposition and analysis of central philosophical problems as discussed by innovative thinkers from Aquinas through Kant. Authors include figures like Descartes, Elisabeth of Bohemia, Spinoza, Anne Conway, Leibniz, Berkeley, Hume, \u00c9milie du Ch\u00e2telet, and Kant. ,",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -9832,7 +10523,9 @@
     ],
     "points":"3",
     "prerequisites":[
-
+      [
+        "PHIL UN2101"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20262PHIL2201S001",
@@ -9841,7 +10534,7 @@
   {
     "course_code":"PHIL S3411",
     "course_title":"INTRO TO SYMBOLIC LOGIC",
-    "course_descr":null,
+    "course_descr":"Advanced introduction to classical sentential and predicate logic. No previous acquaintance with logic is required; nonetheless a willingness to master technicalities and to work at a certain level of abstraction is desirable.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -9871,7 +10564,7 @@
   {
     "course_code":"PHIL S3551",
     "course_title":"PHILOSOPHY OF SCIENCE",
-    "course_descr":null,
+    "course_descr":"Philosophical problems within science and about the nature of scientific knowledge in the 17th-20th centuries. Sample problems: causation and scientific explanation; induction and real kinds; verification and falsification; models, analogies and simulations; the historical origins of the modern sciences; scientific revolutions; reductionism and supervenience; differences between physics, biology and the social sciences; the nature of life; cultural evolution; human nature; philosophical issues in cosmology.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -9901,7 +10594,7 @@
   {
     "course_code":"PHIL S3701",
     "course_title":"ETHICS",
-    "course_descr":null,
+    "course_descr":"Prerequisites: One philosophy course This course is mainly an introduction to three influential approaches to normative ethics: utilitarianism, deontological views, and virtue ethics. We also consider the ethics of care, and selected topics in meta-ethics.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -9931,7 +10624,7 @@
   {
     "course_code":"PHIL S3960",
     "course_title":"EPISTEMOLOGY",
-    "course_descr":null,
+    "course_descr":"What can we know? What is knowledge? How is it different from belief? Are there irrational beliefs? Are false beliefs a mark of irrationality? These are just some of the topics that we will explore as we read various classical works in epistemology.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -10451,6 +11144,381 @@
     "scheduled_days":"MTWRF",
     "section_key":"20262PNTN0210N002",
     "type":"STUDIO"
+  },
+  {
+    "course_code":"POLS GU4712",
+    "course_title":"PRINC OF QUANT POL RESEARCH 2",
+    "course_descr":null,
+    "instructor":"Abdullah Aydogan",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"10512",
+    "campus":null,
+    "class_id":"W4712-20262-001",
+    "course_subtitle":"PRINC OF QUANT POL RESEAR",
+    "department":"Summer Session (SUMM)",
+    "department_code":"POLS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/POLS\/W4712-20262-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262POLS4712W001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"POLS GU4713",
+    "course_title":"PRINC OF QUANT POL RESEARCH 2-DISC",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"10513",
+    "campus":null,
+    "class_id":"W4713-20262-001",
+    "course_subtitle":"PRINC OF QUANT POL RES 2-",
+    "department":"Summer Session (SUMM)",
+    "department_code":"POLS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/POLS\/W4713-20262-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262POLS4713W001",
+    "type":"DISCUSSION"
+  },
+  {
+    "course_code":"POLS GU4814",
+    "course_title":"GLOBAL ENERGY: SECURITY\/GEOPOL",
+    "course_descr":null,
+    "instructor":"Albert Bininachvili",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"10507",
+    "campus":null,
+    "class_id":"W4814-20262-001",
+    "course_subtitle":"GLOBAL ENERGY: SECURITY\/G",
+    "department":"Summer Session (SUMM)",
+    "department_code":"POLS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/POLS\/W4814-20262-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262POLS4814W001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"POLS S3290",
+    "course_title":"VOTING AND AMERICAN POLITICS",
+    "course_descr":null,
+    "instructor":"Yamil R Velez",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"10504",
+    "campus":null,
+    "class_id":"S3290-20262-001",
+    "course_subtitle":"VOTING AND AMERICAN POLIT",
+    "department":"Summer Session (SUMM)",
+    "department_code":"POLS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/POLS\/S3290-20262-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262POLS3290S001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"POLS S3628",
+    "course_title":"ADVANCES IN IPE",
+    "course_descr":null,
+    "instructor":"Sharyn L O'Halloran",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"10496",
+    "campus":null,
+    "class_id":"S3628-20262-001",
+    "course_subtitle":null,
+    "department":"Summer Session (SUMM)",
+    "department_code":"POLS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/POLS\/S3628-20262-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262POLS3628S001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"POLS S3629",
+    "course_title":"ADVANCES IN IPE-DISC",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"10499",
+    "campus":null,
+    "class_id":"S3629-20262-001",
+    "course_subtitle":null,
+    "department":"Summer Session (SUMM)",
+    "department_code":"POLS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/POLS\/S3629-20262-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262POLS3629S001",
+    "type":"DISCUSSION"
+  },
+  {
+    "course_code":"POLS S4832",
+    "course_title":"STRAT INTELLIGNC\/POL DEC MAKNG",
+    "course_descr":null,
+    "instructor":"Albert Bininachvili",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"10510",
+    "campus":null,
+    "class_id":"S4832-20262-001",
+    "course_subtitle":"STRAT INTELLIGNC\/POL DEC",
+    "department":"Summer Session (SUMM)",
+    "department_code":"POLS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/POLS\/S4832-20262-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262POLS4832S001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"POLS UN3108",
+    "course_title":"Democracy: Theory & Practice",
+    "course_descr":null,
+    "instructor":"David Ragazzoni",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"10511",
+    "campus":null,
+    "class_id":"S3108-20262-D01",
+    "course_subtitle":"Democracy: Theory & Pract",
+    "department":"Summer Session (SUMM)",
+    "department_code":"POLS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/POLS\/S3108-20262-D01\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262POLS3108SD01",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"POLS UN3210",
+    "course_title":"JUDICIAL POLITICS",
+    "course_descr":null,
+    "instructor":"Jeffrey R Lax",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"10501",
+    "campus":null,
+    "class_id":"W3210-20262-001",
+    "course_subtitle":null,
+    "department":"Summer Session (SUMM)",
+    "department_code":"POLS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/POLS\/W3210-20262-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262POLS3210W001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"POLS UN3623",
+    "course_title":"ENDING WAR & BUILDING PEACE",
+    "course_descr":null,
+    "instructor":"Gilbert Lai",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"10518",
+    "campus":null,
+    "class_id":"W3623-20262-001",
+    "course_subtitle":"ENDING WAR & BUILDING PEA",
+    "department":"Summer Session (SUMM)",
+    "department_code":"POLS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/POLS\/W3623-20262-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262POLS3623W001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"POLS UN3704",
+    "course_title":"RESEARCH DESIGN: DATA ANALYSIS",
+    "course_descr":null,
+    "instructor":"Daniel B Markovits",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"10519",
+    "campus":null,
+    "class_id":"W3704-20262-001",
+    "course_subtitle":"RESEARCH DESIGN: DATA ANA",
+    "department":"Summer Session (SUMM)",
+    "department_code":"POLS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/POLS\/W3704-20262-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262POLS3704W001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"POLS UN3720",
+    "course_title":"RESEARCH DESIGN: SCOPE AND METHODS",
+    "course_descr":null,
+    "instructor":"Giulia Leila Travaglini",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"10514",
+    "campus":null,
+    "class_id":"W3720-20262-001",
+    "course_subtitle":"RESEARCH DESIGN: SCOPE&ME",
+    "department":"Summer Session (SUMM)",
+    "department_code":"POLS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/POLS\/W3720-20262-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262POLS3720W001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"POLS UN3720",
+    "course_title":"RESEARCH DESIGN: SCOPE AND METHODS",
+    "course_descr":null,
+    "instructor":"Natasha I Gordon",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"10515",
+    "campus":null,
+    "class_id":"W3720-20262-002",
+    "course_subtitle":"RESEARCH DESIGN: SCOPE&ME",
+    "department":"Summer Session (SUMM)",
+    "department_code":"POLS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/POLS\/W3720-20262-002\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262POLS3720W002",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"POLS UN3722",
+    "course_title":"SCOPE AND METHODS - DISC",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"10516",
+    "campus":null,
+    "class_id":"W3722-20262-001",
+    "course_subtitle":null,
+    "department":"Summer Session (SUMM)",
+    "department_code":"POLS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/POLS\/W3722-20262-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262POLS3722W001",
+    "type":"DISCUSSION"
+  },
+  {
+    "course_code":"POLS UN3722",
+    "course_title":"SCOPE AND METHODS - DISC",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"10517",
+    "campus":null,
+    "class_id":"W3722-20262-002",
+    "course_subtitle":null,
+    "department":"Summer Session (SUMM)",
+    "department_code":"POLS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/POLS\/W3722-20262-002\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262POLS3722W002",
+    "type":"DISCUSSION"
   },
   {
     "course_code":"PPEC PS0100",
@@ -11439,7 +12507,7 @@
   {
     "course_code":"RELI UN3771",
     "course_title":"Indigenous Enlightenment",
-    "course_descr":null,
+    "course_descr":"What is the source of truth and authority? What is the origin of the world and how does that determine the social order? Who ought to rule, why, and how? What are the standards for measuring justice and injustice? What is our relationship to the environment around us and how should its resources be distributed among people? How do we relate to those who are different from us, and what does it mean to be a community in the first place? Historically, the answers to these questions that have been described as \u201creligious\u201d and \u201cpolitical\u201d have been the restricted to a specific tradition of Western European Christianity and its secular afterlives. However, these are questions that every society asks, in order to be a society in the first place. This course analyzes how indigenous peoples in the Americas asked and answered these questions through the first three centuries of Western European imperial rule. At the same time, this course pushes students to question what gets categorized as uniquely \u201cindigenous\u201d thought, how, and why.",
     "instructor":"Timothy Vasko",
     "scheduled_time_start":"1:00pm",
     "scheduled_time_end":"4:10pm",
@@ -11997,6 +13065,381 @@
     "scheduled_days":null,
     "section_key":"20262SPAN2102S003",
     "type":"LANGUAGE"
+  },
+  {
+    "course_code":"STAT GR5203",
+    "course_title":"PROBABILITY",
+    "course_descr":null,
+    "instructor":"Young S Kim",
+    "scheduled_time_start":"4:30pm",
+    "scheduled_time_end":"6:05pm",
+    "call_number":"10548",
+    "campus":null,
+    "class_id":"W5203-20262-001",
+    "course_subtitle":null,
+    "department":"Summer Session (SUMM)",
+    "department_code":"STAT",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/STAT\/W5203-20262-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MTWR",
+    "section_key":"20262STAT5203W001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"STAT GR5204",
+    "course_title":"STATISTICAL INFERENCE",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"6:15pm",
+    "scheduled_time_end":"7:50pm",
+    "call_number":"10549",
+    "campus":null,
+    "class_id":"W5204-20262-001",
+    "course_subtitle":null,
+    "department":"Summer Session (SUMM)",
+    "department_code":"STAT",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/STAT\/W5204-20262-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MTWR",
+    "section_key":"20262STAT5204W001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"STAT GU4224",
+    "course_title":"BAYESIAN STATISTICS",
+    "course_descr":null,
+    "instructor":"Casey Bradshaw",
+    "scheduled_time_start":"6:15pm",
+    "scheduled_time_end":"7:50pm",
+    "call_number":"10545",
+    "campus":null,
+    "class_id":"W4224-20262-001",
+    "course_subtitle":null,
+    "department":"Summer Session (SUMM)",
+    "department_code":"STAT",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/STAT\/W4224-20262-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MTWR",
+    "section_key":"20262STAT4224W001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"STAT S1101",
+    "course_title":"INTRODUCTION TO STATISTICS",
+    "course_descr":null,
+    "instructor":"Anthony Donoghue",
+    "scheduled_time_start":"10:45am",
+    "scheduled_time_end":"12:20pm",
+    "call_number":"10535",
+    "campus":null,
+    "class_id":"S1101-20262-D01",
+    "course_subtitle":"INTRODUCTION TO STATISTIC",
+    "department":"Summer Session (SUMM)",
+    "department_code":"STAT",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/STAT\/S1101-20262-D01\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MTWR",
+    "section_key":"20262STAT1101SD01",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"STAT S1101",
+    "course_title":"INTRODUCTION TO STATISTICS",
+    "course_descr":null,
+    "instructor":"Ji Meng Loh",
+    "scheduled_time_start":"6:15pm",
+    "scheduled_time_end":"7:50pm",
+    "call_number":"10536",
+    "campus":null,
+    "class_id":"S1101-20262-002",
+    "course_subtitle":"INTRODUCTION TO STATISTIC",
+    "department":"Summer Session (SUMM)",
+    "department_code":"STAT",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/STAT\/S1101-20262-002\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MTWR",
+    "section_key":"20262STAT1101S002",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"STAT S1201",
+    "course_title":"CALC-BASED INTRO TO STATISTICS",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"10:45am",
+    "scheduled_time_end":"12:20pm",
+    "call_number":"10537",
+    "campus":null,
+    "class_id":"S1201-20262-001",
+    "course_subtitle":"CALC-BASED INTRO TO STATI",
+    "department":"Summer Session (SUMM)",
+    "department_code":"STAT",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/STAT\/S1201-20262-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MTWR",
+    "section_key":"20262STAT1201S001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"STAT S1201",
+    "course_title":"CALC-BASED INTRO TO STATISTICS",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"6:15pm",
+    "scheduled_time_end":"7:50pm",
+    "call_number":"10538",
+    "campus":null,
+    "class_id":"S1201-20262-002",
+    "course_subtitle":"CALC-BASED INTRO TO STATI",
+    "department":"Summer Session (SUMM)",
+    "department_code":"STAT",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/STAT\/S1201-20262-002\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MTWR",
+    "section_key":"20262STAT1201S002",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"STAT S4001",
+    "course_title":"INTRODUCTION TO PROBABILITY AND STATISTI",
+    "course_descr":null,
+    "instructor":"Gabriel Young",
+    "scheduled_time_start":"4:30pm",
+    "scheduled_time_end":"6:05pm",
+    "call_number":"10539",
+    "campus":null,
+    "class_id":"S4001-20262-001",
+    "course_subtitle":"INTRO TO PROBABILITY & ST",
+    "department":"Summer Session (SUMM)",
+    "department_code":"STAT",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/STAT\/S4001-20262-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MTWR",
+    "section_key":"20262STAT4001S001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"STAT S4203",
+    "course_title":"PROBABILITY THEORY",
+    "course_descr":null,
+    "instructor":"Young S Kim",
+    "scheduled_time_start":"4:30pm",
+    "scheduled_time_end":"6:05pm",
+    "call_number":"10540",
+    "campus":null,
+    "class_id":"S4203-20262-001",
+    "course_subtitle":null,
+    "department":"Summer Session (SUMM)",
+    "department_code":"STAT",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/STAT\/S4203-20262-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MTWR",
+    "section_key":"20262STAT4203S001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"STAT S4204",
+    "course_title":"STATISTICAL INFERENCE",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"6:15pm",
+    "scheduled_time_end":"7:50pm",
+    "call_number":"10541",
+    "campus":null,
+    "class_id":"S4204-20262-001",
+    "course_subtitle":null,
+    "department":"Summer Session (SUMM)",
+    "department_code":"STAT",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/STAT\/S4204-20262-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MTWR",
+    "section_key":"20262STAT4204S001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"STAT S4205",
+    "course_title":"Linear Regression Models",
+    "course_descr":null,
+    "instructor":"Daniel Rabinowitz",
+    "scheduled_time_start":"6:15pm",
+    "scheduled_time_end":"7:50pm",
+    "call_number":"10542",
+    "campus":null,
+    "class_id":"S4205-20262-001",
+    "course_subtitle":null,
+    "department":"Summer Session (SUMM)",
+    "department_code":"STAT",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/STAT\/S4205-20262-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MTWR",
+    "section_key":"20262STAT4205S001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"STAT S4206",
+    "course_title":"STAT COMP & INTRO DATA SCIENCE",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"10543",
+    "campus":null,
+    "class_id":"S4206-20262-001",
+    "course_subtitle":"STAT COMP & INTRO DATA SC",
+    "department":"Summer Session (SUMM)",
+    "department_code":"STAT",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/STAT\/S4206-20262-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262STAT4206S001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"STAT S4221",
+    "course_title":"Time Series Analysis",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"6:15pm",
+    "scheduled_time_end":"7:50pm",
+    "call_number":"10544",
+    "campus":null,
+    "class_id":"S4221-20262-001",
+    "course_subtitle":null,
+    "department":"Summer Session (SUMM)",
+    "department_code":"STAT",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/STAT\/S4221-20262-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MTWR",
+    "section_key":"20262STAT4221S001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"STAT S4241",
+    "course_title":"STATISTICAL MACHINE LEARNING",
+    "course_descr":null,
+    "instructor":"Alex Pijyan",
+    "scheduled_time_start":"6:15pm",
+    "scheduled_time_end":"7:50pm",
+    "call_number":"10546",
+    "campus":null,
+    "class_id":"S4241-20262-001",
+    "course_subtitle":"STATISTICAL MACHINE LEARN",
+    "department":"Summer Session (SUMM)",
+    "department_code":"STAT",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/STAT\/S4241-20262-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MTWR",
+    "section_key":"20262STAT4241S001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"STAT S4261",
+    "course_title":"STATISTICAL METHODS FOR FINANCE",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"12:10pm",
+    "call_number":"10547",
+    "campus":null,
+    "class_id":"S4261-20262-001",
+    "course_subtitle":"STATISTICAL METHODS FOR F",
+    "department":"Summer Session (SUMM)",
+    "department_code":"STAT",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/STAT\/S4261-20262-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20262STAT4261S001",
+    "type":"LECTURE"
   },
   {
     "course_code":"SUPR PS0101",
