@@ -1411,7 +1411,7 @@
   {
     "course_code":"ANTH UN2004",
     "course_title":"INTRO TO SOC & CULTURAL THEORY",
-    "course_descr":null,
+    "course_descr":"This course presents students with crucial theories of society, paying particular attention at the outset to classic social theory of the early 20th century. It traces a trajectory of writings essential for an understanding of the social: from Saussure, Durkheim, Mauss, Weber, and Marx, on to the structuralist ethnographic elaboration of Claude Levi-Strauss and the historiographic reflections on modernity of Michel Foucault. We revisit periodically, reflections by Franz Boas, founder of anthropology in the United States (and of Anthropology at Columbia), for a sense of origins, an early anthropological critique of racism and cultural chauvinism, and a prescient denunciation of fascism.\u00a0 We turn as well, also with ever-renewed interest in these times, to the expansive critical thought of W. E. B. Du Bois.\u00a0 We conclude with Kathleen Stewart\u2019s \nA Space on the Side of the Road\n--an ethnography of late-twentieth-century Appalachia and the haunted remains of coal-mining country--with its depictions of an uncanny otherness within dominant American narratives.",
     "instructor":"John Pemberton",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -1464,7 +1464,7 @@
   {
     "course_code":"ANTH UN3151",
     "course_title":"LIVING WITH ANIMALS: ANTHROPOLOGICAL PER",
-    "course_descr":null,
+    "course_descr":"This course examines how humans and animals shape each other\u2019s lives, using the tools and perspectives of anthropology. We\u2019ll explore the astounding diversity of human-animal relationships in time and space, tracing the ways animals have made their impact on human societies (and vice-versa). Using contemporary ethnographic, historical, and archaeological examples from a variety of geographical regions and chronological periods, this class will consider how humans and animals live and work together, and the ways in which humans have found animals \u201cgood to think with\u201d.\u00a0 In this course, we will also discuss how knowledge about human-animal relationships in the past might change contemporary and future approaches to living with animals. Through the reading and thinking that this course requires, you will explore what an anthropological perspective on living with animals looks like and how thinking about animals might change anthropology.",
     "instructor":"Hannah Chazin",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -17394,7 +17394,7 @@
   {
     "course_code":"NOPM PS5390",
     "course_title":"CAPSTONE",
-    "course_descr":null,
+    "course_descr":"Capstone projects afford a group of students the opportunity to undertake complex, real-world, client-based projects for nonprofit organizations, supervised by a Nonprofit Management program faculty member. Through the semester-long capstone project, students will experience the process of organizational assimilation and integration as they tackle a discrete management project of long or short-term benefit to the client organization. The larger theoretical issues that affect nonprofit managers and their relationships with other stakeholders, both internal and external, will also be discussed within the context of this project-based course.",
     "instructor":"Basil A Jr Smikle",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -17439,6 +17439,31 @@
     ],
     "scheduled_days":"TR",
     "section_key":"20263NSBV1001X001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"NSBV BC1001",
+    "course_title":"INTRODUCTION TO NEUROSCIENCE",
+    "course_descr":null,
+    "instructor":"Faculty",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"00856",
+    "campus":null,
+    "class_id":"X1001-20263-002",
+    "course_subtitle":"INTRODUCTION TO NEUROSCIE",
+    "department":"Neuroscience & Behavior @Barnard",
+    "department_code":"NSBV",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NSBV\/X1001-20263-002\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263NSBV1001X002",
     "type":"LECTURE"
   },
   {
@@ -17495,7 +17520,7 @@
     "course_code":"NSBV BC1002",
     "course_title":"Introductory Laboratory in Neuroscience",
     "course_descr":"This laboratory course will introduce students to concepts, topics, and techniques used to examine brain and behavior. Specifically, this class will engage students in experimental design, data collection and analysis, and results presentation. The experimental units are designed to provide students with a basic understanding of the structure and function of the nervous system.",
-    "instructor":null,
+    "instructor":"Faculty",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"4:00pm",
     "call_number":"00304",
@@ -17545,7 +17570,7 @@
     "course_code":"NSBV BC2001",
     "course_title":"LABORATORY IN NEUROSCIENCE",
     "course_descr":"This course provides a hands-on introduction to techniques commonly used in current neurobiological research. Topics covered will include neuroanatomy, neurophysiology, and invertebrate animal behavioral genetics. Participation in this course involves dissection of sheep brains and experimentation with invertebrate animals.",
-    "instructor":null,
+    "instructor":"Faculty",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"00306",
@@ -17570,7 +17595,7 @@
     "course_code":"NSBV BC2001",
     "course_title":"LABORATORY IN NEUROSCIENCE",
     "course_descr":"This course provides a hands-on introduction to techniques commonly used in current neurobiological research. Topics covered will include neuroanatomy, neurophysiology, and invertebrate animal behavioral genetics. Participation in this course involves dissection of sheep brains and experimentation with invertebrate animals.",
-    "instructor":null,
+    "instructor":"Faculty",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"00307",
@@ -17595,7 +17620,7 @@
     "course_code":"NSBV BC2001",
     "course_title":"LABORATORY IN NEUROSCIENCE",
     "course_descr":"This course provides a hands-on introduction to techniques commonly used in current neurobiological research. Topics covered will include neuroanatomy, neurophysiology, and invertebrate animal behavioral genetics. Participation in this course involves dissection of sheep brains and experimentation with invertebrate animals.",
-    "instructor":null,
+    "instructor":"Faculty",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"00308",
@@ -17646,8 +17671,8 @@
     "course_title":"Fundamentals in Computational Neuroscien",
     "course_descr":"Computational neuroscience is an exciting, constantly evolving subfield in neuroscience that brings together theories and ideas from many different areas in STEM such as physics, chemistry, math, computer science, and psychology. Through the exploration of computational models of neuronal and neural network activity, students will be introduced to a handful of quantitative STEM concepts that intersect with neuroscience. Before beginning this course students are expected to know about the action potential and synaptic transmission (see prerequisites). In this course, we will connect those biological phenomena to quantitative STEM concepts and then to computational models in Matlab. This course is designed for Neuroscience and Biology majors who want to take their first steps towards mathematical and computational models of the brain. Students interested in the computational track for the Neuroscience major should consider taking this course. By the end of this course students will be able to:\n \u25cf Identify the scope of a neuroscience model and determine what it can and cannot tell us.\n \u25cf Compare models and select an appropriate model for a given scientific question from among the models covered in this course.\n \u25cf Make connections from the action potential and synaptic transmission to quantitative concepts from other STEM disciplines.\n \u25cf Design, construct, and implement computational neuroscience models of neurons and neural networks using Matlab.",
     "instructor":"Gabrielle J Gutierrez",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"2:25pm",
     "call_number":"00311",
     "campus":null,
     "class_id":"X2004-20263-001",
@@ -17655,6 +17680,31 @@
     "department":"Neuroscience & Behavior @Barnard",
     "department_code":"NSBV",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/NSBV\/X2004-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20263NSBV2004X001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"NSBV BC2120",
+    "course_title":"NEUROBIOLOGY OF LEARNING AND MEMORY",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"00857",
+    "campus":null,
+    "class_id":"X2120-20263-001",
+    "course_subtitle":"NEURO OF LEARNING AND MEM",
+    "department":"Neuroscience & Behavior @Barnard",
+    "department_code":"NSBV",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NSBV\/X2120-20263-001\/",
     "location":null,
     "method_of_instruction":null,
     "open_to":null,
@@ -17663,7 +17713,7 @@
 
     ],
     "scheduled_days":null,
-    "section_key":"20263NSBV2004X001",
+    "section_key":"20263NSBV2120X001",
     "type":"LECTURE"
   },
   {
@@ -17917,6 +17967,31 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"NSBV BC3361",
+    "course_title":"CELLULAR & MOLECULAR NEUROSCIENCE",
+    "course_descr":null,
+    "instructor":"Elizabeth P Bauer",
+    "scheduled_time_start":"11:40am",
+    "scheduled_time_end":"12:55pm",
+    "call_number":"00858",
+    "campus":null,
+    "class_id":"X3361-20263-002",
+    "course_subtitle":"CELLULAR & MOLECULAR NEUR",
+    "department":"Neuroscience & Behavior @Barnard",
+    "department_code":"NSBV",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NSBV\/X3361-20263-002\/",
+    "location":"To be announced",
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20263NSBV3361X002",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"NSBV BC3381",
     "course_title":"Visual Neuroscience: From the Eyeball to",
     "course_descr":"By absorbing electromagnetic radiation through their eyes, people are able to catch frisbees, recognize faces, and judge the beauty of art. For most of us, seeing feels effortless. That feeling is misleading. Seeing requires not only precise optics to focus images on the retina, but also the concerted action of millions of nerve cells in the brain. This intricate circuitry infers the likely causes of incoming patterns of light and transforms that information into feelings, thoughts, and actions. In this course we will study how light evokes electrical activity in a hierarchy of specialized neural networks that accomplish many unique aspects of seeing. Students will have the opportunity to focus their study on particular aspects, such as color, motion, object recognition, learning, attention, awareness, and how sight can be lost and recovered.\u00a0 Throughout the course we will discuss principles of neural information coding (e.g., receptive field tuning, adaptation, normalization, etc.) that are relevant to other areas of neuroscience, as well as medicine, engineering, art and design.",
@@ -18141,6 +18216,31 @@
     ],
     "scheduled_days":"R",
     "section_key":"20263NSBV3593X004",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"NSBV BC3593",
+    "course_title":"RSRCH\/SEM-NEUROSCNCE&BEHAVIOR",
+    "course_descr":null,
+    "instructor":"Faculty",
+    "scheduled_time_start":"4:00pm",
+    "scheduled_time_end":"6:00pm",
+    "call_number":"00859",
+    "campus":null,
+    "class_id":"X3593-20263-005",
+    "course_subtitle":"RSRCH\/SEM-NEUROSCNCE&BEHA",
+    "department":"Neuroscience & Behavior @Barnard",
+    "department_code":"NSBV",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NSBV\/X3593-20263-005\/",
+    "location":"To be announced",
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20263NSBV3593X005",
     "type":"SEMINAR"
   },
   {
@@ -23153,7 +23253,7 @@
   {
     "course_code":"PSYC BC1099",
     "course_title":"SCIENCE AND SCIENTISTS",
-    "course_descr":null,
+    "course_descr":"Weekly meetings with researchers from Barnard, Columbia, and other guests to discuss the nature of scientific inquiry in psychology; and intellectual, professional, and personal issues in the work of scientists.",
     "instructor":"Isabelle Portelinha",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -23852,7 +23952,7 @@
   {
     "course_code":"PSYC BC3171",
     "course_title":"Moral Psychology: Ancient Wisdom and Mod",
-    "course_descr":null,
+    "course_descr":"This seminar is designed to introduce you to the psychological foundations of morality, examining how moral judgment and behavior develop across cultures and throughout human history. Drawing from ancient wisdom traditions, contemporary psychology, philosophy, and emerging fields like AI ethics, you will gain a nuanced understanding of moral psychology and its applications.",
     "instructor":"Angelika Seidel",
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"2:00pm",
@@ -27396,7 +27496,7 @@
   {
     "course_code":"TMGT PS5128",
     "course_title":"Essentials for Technology Management and",
-    "course_descr":null,
+    "course_descr":"This 3-credit core course in the M.S. in Technology Management program provides an overview of the strategic role of the technology function to improve business processes, drive transformations, and fuel innovation. Through lectures and applied case study work, students will learn how to develop and keep technology strategies aligned with business goals, navigate governance, regulatory, and budgetary frameworks, and evaluate risks to protect the organization\u2019s IT investments.",
     "instructor":"Shahryar Shaghaghi",
     "scheduled_time_start":null,
     "scheduled_time_end":null,

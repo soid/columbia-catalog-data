@@ -557,7 +557,7 @@
     "course_code":"AMST UN3942",
     "course_title":"Ottoman Americana",
     "course_descr":"This seminar explores the intertwined histories of the Ottoman Empire and the United States during the nineteenth and early twentieth centuries through migration, mobility, and cultural exchange. It examines why diverse Ottoman subjects (Armenian, Greek, Turkish, Arab, Jewish, etc.) migrated to the United States and how they navigated life and contributed to the country\u2019s evolving social and cultural fabric. Students will analyze migration experiences, community formations, and identity negotiations while considering how race, religion, class, and gender shaped the lives of transnational Ottoman communities in America. The course also investigates how Americans imagined the Ottoman world through missionary writings and journalism, and how Ottoman migrants themselves influenced these representations. Combining global and local perspectives, the seminar draws on historical, cultural, and sociological methods. Field-based learning, including visits to historic sites in New York City once home to Ottoman immigrant communities, complements classroom discussions.",
-    "instructor":"Tunc Sen",
+    "instructor":null,
     "scheduled_time_start":"11:00am",
     "scheduled_time_end":"3:00pm",
     "call_number":"10566",
@@ -3373,7 +3373,7 @@
   {
     "course_code":"COMS W1004",
     "course_title":"INTRO-COMPUT SCI\/PROG IN JAVA",
-    "course_descr":null,
+    "course_descr":"A general introduction to computer science for science and engineering students interested in majoring in computer science or engineering. Covers fundamental concepts of computer science, algorithmic problem-solving capabilities, and introductory Java programming skills. Assumes no prior programming background. Columbia University students may receive credit for only one of the following two courses: 1004 or 1005.",
     "instructor":"Paul S Blaer",
     "scheduled_time_start":"5:30pm",
     "scheduled_time_end":"8:40pm",
@@ -3398,7 +3398,7 @@
   {
     "course_code":"COMS W3107",
     "course_title":"Clean Object-Oriented Design",
-    "course_descr":null,
+    "course_descr":"A course in designing, documenting, coding, and testing robust computer software, according to object-oriented design patterns and clean coding practices. Taught in Java.Object-oriented design principles include: use cases; CRC; UML; javadoc; patterns (adapter, builder, command, composite, decorator, facade, factory, iterator, lazy evaluation, observer, singleton, strategy, template, visitor); design by contract; loop invariants; interfaces and inheritance hierarchies; anonymous classes and null objects; graphical widgets; events and listeners; Java's Object class; generic types; reflection; timers, threads, and locks.",
     "instructor":"Chris Murphy",
     "scheduled_time_start":"1:00pm",
     "scheduled_time_end":"4:10pm",
@@ -3423,7 +3423,7 @@
   {
     "course_code":"COMS W3134",
     "course_title":"DATA STRUCTURES IN JAVA",
-    "course_descr":null,
+    "course_descr":"Data types and structures: arrays, stacks, singly and doubly linked lists, queues, trees, sets, and graphs. Programming techniques for processing such structures: sorting and searching, hashing, garbage collection. Storage management. Rudiments of the analysis of algorithms. Taught in Java. Note: Due to significant overlap, students may receive credit for only one of the following three courses: COMS W3134, COMS W3136, COMS W3137.",
     "instructor":"Paul S Blaer",
     "scheduled_time_start":"5:30pm",
     "scheduled_time_end":"8:40pm",
@@ -3439,7 +3439,15 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "COMS W3134"
+      ],
+      [
+        "COMS W3136"
+      ],
+      [
+        "COMS W3137"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20262COMS3134W001",
@@ -3448,7 +3456,7 @@
   {
     "course_code":"COMS W3157",
     "course_title":"ADVANCED PROGRAMMING",
-    "course_descr":null,
+    "course_descr":"C programming language and Unix systems programming. Also covers Git, Make, TCP\/IP networking basics, C++ fundamentals.",
     "instructor":"Brian Borowski",
     "scheduled_time_start":"5:30pm",
     "scheduled_time_end":"8:40pm",
@@ -3473,7 +3481,7 @@
   {
     "course_code":"COMS W3203",
     "course_title":"DISCRETE MATHEMATICS",
-    "course_descr":null,
+    "course_descr":"Logic and formal proofs, sequences and summation, mathematical induction, binomial coefficients, elements of finite probability, recurrence relations, equivalence relations and partial orderings, and topics in graph theory (including isomorphism, traversability, planarity, and colorings).",
     "instructor":"Ansaf Salleb-Aouissi",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"1:20pm",
@@ -3498,7 +3506,7 @@
   {
     "course_code":"COMS W3261",
     "course_title":"COMPUTER SCIENCE THEORY",
-    "course_descr":null,
+    "course_descr":"Regular languages: deterministic and non-deterministic finite automata, regular expressions. Context-free languages: context-free grammars, push-down automata. Turing machines, the Chomsky hierarchy, and the Church-Turing thesis. Introduction to Complexity Theory and NP-Completeness.",
     "instructor":"Xi Chen",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"1:20pm",
@@ -3523,7 +3531,7 @@
   {
     "course_code":"COMS W3770",
     "course_title":"Mathematics for Machine Learning",
-    "course_descr":null,
+    "course_descr":"Mathematical foundations of machine learning: Linear algebra, multivariable calculus, and probability and statistics. Comprehensive review and additional treatment of\n relevant topics used in the analysis and design of machine learning models. Preliminary exposure to core algorithms such as linear regression, gradient descent, principal\n component analysis, low-rank approximations, and kernel methods.",
     "instructor":"Nakul Verma",
     "scheduled_time_start":"1:00pm",
     "scheduled_time_end":"4:10pm",
@@ -3548,7 +3556,7 @@
   {
     "course_code":"COMS W4137",
     "course_title":"From Algorithmic Thinking to Development",
-    "course_descr":null,
+    "course_descr":"Algorithmic problem-solving and coding skills needed to devise solutions to interview questions for software engineering positions. Solutions are implemented in\u00a0Python, Java, C, and C++.\u00a0Approaches include brute-force, hashing, sorting, transform-and-conquer, greedy, and dynamic programming. Focus on experimentation and team work.",
     "instructor":"Brian Borowski",
     "scheduled_time_start":"5:30pm",
     "scheduled_time_end":"8:40pm",
@@ -3573,7 +3581,7 @@
   {
     "course_code":"COMS W4701",
     "course_title":"ARTIFICIAL INTELLIGENCE",
-    "course_descr":null,
+    "course_descr":"Prior knowledge of Python is recommended. Provides a broad understanding of the basic techniques for building intelligent computer systems. Topics include state-space problem representations, problem reduction and and-or graphs, game playing and heuristic search, predicate calculus, and resolution theorem proving, AI systems and languages for knowledge representation, machine learning and concept formation and other topics such as natural language processing may be included as time permits.",
     "instructor":"Tony B Dear",
     "scheduled_time_start":"4:20pm",
     "scheduled_time_end":"7:30pm",
@@ -3586,7 +3594,16 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMS\/W4701-20262-001\/",
     "location":"To be announced",
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "Barnard College",
+      "Business",
+      "Columbia College",
+      "Engineering:Graduate",
+      "Engineering:Undergraduate",
+      "GSAS",
+      "General Studies",
+      "Journalism"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -3598,7 +3615,7 @@
   {
     "course_code":"COMS W4705",
     "course_title":"NATURAL LANGUAGE PROCESSING",
-    "course_descr":null,
+    "course_descr":"Computational approaches to the analysis, understanding, and generation of natural language text at scale. Emphasis on machine learning techniques for NLP, including deep learning and large language models. Applications may include information extraction, sentiment analysis, question answering, summarization, machine translation, and conversational AI. Discussion of datasets, benchmarking and evaluation, interpretability, and ethical considerations.\n Due to significant overlap in content, only one of COMS 4705 or Barnard COMS 3705BC may be taken for credit.",
     "instructor":"Daniel Bauer",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"7:20pm",
@@ -3623,7 +3640,7 @@
   {
     "course_code":"COMS W4710",
     "course_title":"Ethical and Responsible AI",
-    "course_descr":null,
+    "course_descr":"Principles of Ethical Artificial Intelligence across technical and societal dimensions. Combines technical AI and machine learning implementations and ethical analysis. Students will learn to build, audit, and mitigate ethical risks in AI systems using tools like fairness libraries, explainability frameworks, and privacy-preserving techniques. Emphasizes coding, algorithmic critique, and real-world cases.\n Topics include: foundations of AI ethics, fairness, interpretability, explainability,\u00a0 accountability, privacy, robustness, alignment, safety, and societal benefit.\u00a0\n Assessments include coding projects, bias auditing assignments, and ethical analysis papers.",
     "instructor":"Ansaf Salleb-Aouissi",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"1:20pm",
@@ -3648,7 +3665,7 @@
   {
     "course_code":"COMS W4771",
     "course_title":"MACHINE LEARNING",
-    "course_descr":null,
+    "course_descr":"Basic statistical principles and algorithmic paradigms of supervised machine learning.\n  \nPrerequisites:\u00a0\n Multivariable calculus (e.g. MATH1201 or MATH1205 or APMA2000), linear algebra (e.g. COMS3251 or MATH2010 or MATH2015), probability (e.g. STAT1201 or STAT4001 or IEOR3658 or MATH2015), discrete math (COMS3203), and general mathematical maturity. Programming and algorithm analysis (e.g. COMS 3134). COMS 3770\u00a0is recommended for students who wish to refresh\u00a0their math background.",
     "instructor":"Nakul Verma",
     "scheduled_time_start":"1:00pm",
     "scheduled_time_end":"4:10pm",
@@ -3664,7 +3681,25 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "AT1201",
+        "AT4001",
+        "OR3658",
+        "TH2015"
+      ],
+      [
+        "MS3203"
+      ],
+      [
+        "MS3251",
+        "TH2010",
+        "TH2015"
+      ],
+      [
+        "TH1201",
+        "TH1205",
+        "MA2000"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20262COMS4771W001",
@@ -3673,7 +3708,7 @@
   {
     "course_code":"COMS W4995",
     "course_title":"TOPICS IN COMPUTER SCIENCE",
-    "course_descr":null,
+    "course_descr":"Selected topics in computer science. Content and prerequisites vary between sections and semesters.\u00a0May be repeated for credit. Check \u201ctopics course\u201d webpage on the department website for more information on each section.",
     "instructor":"Chris Murphy",
     "scheduled_time_start":"1:00pm",
     "scheduled_time_end":"4:10pm",
@@ -4022,7 +4057,7 @@
   {
     "course_code":"CSOR W4231",
     "course_title":"ANALYSIS OF ALGORITHMS I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: (COMS W3134 or COMS W3136COMS W3137) and (COMS W3203) Introduction to the design and analysis of efficient algorithms. Topics include models of computation, efficient sorting and searching, algorithms for algebraic problems, graph algorithms, dynamic programming, probabilistic methods, approximation algorithms, and NP-completeness.",
     "instructor":"Alexandr Andoni",
     "scheduled_time_start":"1:00pm",
     "scheduled_time_end":"4:10pm",
@@ -4038,7 +4073,16 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "COMS W3134",
+        "COMS W3136"
+      ],
+      [
+        "COMS W3137"
+      ],
+      [
+        "COMS W3203"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20262CSOR4231W001",
@@ -14988,6 +15032,31 @@
     ],
     "scheduled_days":null,
     "section_key":"20262RESI0003G001",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"RSRH E0001",
+    "course_title":"FULL TIME ENGINEERING RESEARCH",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"10674",
+    "campus":null,
+    "class_id":"E0001-20262-001",
+    "course_subtitle":"FULL TIME ENGINEERING RES",
+    "department":"Engineering",
+    "department_code":"RSRH",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/RSRH\/E0001-20262-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262RSRH0001E001",
     "type":"INDEPENDENT"
   },
   {
