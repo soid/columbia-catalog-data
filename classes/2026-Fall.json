@@ -1424,7 +1424,10 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ANTH\/V2004-20263-001\/",
     "location":"To be announced",
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "Columbia College",
+      "General Studies"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -1456,6 +1459,34 @@
     ],
     "scheduled_days":null,
     "section_key":"20263ANTH3040W001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ANTH UN3151",
+    "course_title":"LIVING WITH ANIMALS: ANTHROPOLOGICAL PER",
+    "course_descr":null,
+    "instructor":"Hannah Chazin",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"11:25am",
+    "call_number":"10288",
+    "campus":null,
+    "class_id":"W3151-20263-001",
+    "course_subtitle":"LIVING WITH ANIMALS: ANTHROPOL",
+    "department":"Anthropology",
+    "department_code":"ANTH",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ANTH\/W3151-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "General Studies"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20263ANTH3151W001",
     "type":"LECTURE"
   },
   {
