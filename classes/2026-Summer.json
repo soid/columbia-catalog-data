@@ -9719,29 +9719,58 @@
     "type":"LECTURE"
   },
   {
-    "course_code":"IMGT PS5101",
-    "course_title":"Insurance Management Student Community C",
-    "course_descr":"Insurance Management Student Community Center helps facilitate remote pre-residency requirements and preparatory activities to preserve the limited in-person time we have during the residency for other activities. Given that we are a remote program, this is the most effective way to introduce, assign, inform and track new student activity prior to starting the core courses. The use of a dedicated site helps the students practice using the LMS, in addition to acclimating to Columbia, the faculty and the resources. The activities in which the students participate for the residency are critical to their success in the 16-months of remote learning in which they engage. Recordings and other materials are provided to students in continuity with completed activities and the site is also used as a general communications tool with the students outside of the dedicated Canvas courses.",
-    "instructor":"Teresa W Chan",
+    "course_code":"IMGT PS5700",
+    "course_title":"DATA, TECHNOLOGY AND AI IN INSURANCE",
+    "course_descr":null,
+    "instructor":"Alejandro Zarate Santovena",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
-    "call_number":"10654",
+    "call_number":"10676",
     "campus":null,
-    "class_id":"K5101-20262-D01",
-    "course_subtitle":"IMGT SCC",
+    "class_id":"K5700-20262-D01",
+    "course_subtitle":"DATA, TECH & AI IN INSURA",
     "department":"Insurance Management",
     "department_code":"IMGT",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/IMGT\/K5101-20262-D01\/",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/IMGT\/K5700-20262-D01\/",
     "location":null,
     "method_of_instruction":"On-Line Only",
-    "open_to":null,
-    "points":"0",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
     "prerequisites":[
 
     ],
     "scheduled_days":null,
-    "section_key":"20262IMGT5101KD01",
-    "type":"ONLINE COURS"
+    "section_key":"20262IMGT5700KD01",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"IMGT PS5800",
+    "course_title":"EMERGING RISK & INSURANCE TOPICS",
+    "course_descr":null,
+    "instructor":"Teresa W Chan",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"10677",
+    "campus":null,
+    "class_id":"K5800-20262-D01",
+    "course_subtitle":"EMERGING RSK & INSURNCE T",
+    "department":"Insurance Management",
+    "department_code":"IMGT",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/IMGT\/K5800-20262-D01\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262IMGT5800KD01",
+    "type":"LECTURE"
   },
   {
     "course_code":"INCR PS0150",
