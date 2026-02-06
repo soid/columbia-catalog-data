@@ -3030,7 +3030,7 @@
   {
     "course_code":"CLIA GU4699",
     "course_title":"Mediterranean Humanities I",
-    "course_descr":null,
+    "course_descr":"Mediterranean Humanities I (Med Hum) explores the literatures of the Mediterranean from the late Middle Ages until the early Eighteenth Century. We will read Boccaccio, Bandello, and Cervantes, Ottoman and Arabic travel literature, as well as the Eurasian versions of the \nOne Thousand and One Nights\n. We will dive into the travel of texts and people, stories and storytellers across the shores of the Middle Sea, as well as into the relationship between literary texts and historiographical theories of the Mediterranean. Based on the reading of literary texts (short stories, theater), as well as letters, biographies, memoirs, and other ego-documents produced and consumed in the Early Modern Mediterranean, we will discuss big themes as Orientalism, estrangement, forced mobility, connectivity, multiculturalism and the clash of civilizations. Also, we will visit the Metropolitan Museum of Art, the Rare Books Room of Butler Library, and we will discuss movies in class.\n \nFollowing in the footsteps of Fernand Braudel, we will reflect on the Mediterranean in the age of the first globalization as a laboratory of the modern global world and world literature.",
     "instructor":"Pier Mattia Tommasino",
     "scheduled_time_start":"9:00am",
     "scheduled_time_end":"12:10pm",
@@ -15788,7 +15788,7 @@
   {
     "course_code":"STAT GR5398",
     "course_title":"MA Mentored Research",
-    "course_descr":null,
+    "course_descr":"This course is intended to provide a mechanism to MA students in Statistics who undertake on-campus project work or research. The course may be signed up with a faculty member from the Department of Statistics for academic credit. Students seeking to enroll in the course should identify an on-campus project and a congenial faculty member whose research is appealing to them, and who are able to serve as their mentor. Students should then submit an application to enroll in this course, which will be reviewed and approved by the Faculty Director of the MA in Statistics program.",
     "instructor":"Demissie Alemayehu",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -15815,7 +15815,7 @@
   {
     "course_code":"STAT GR5399",
     "course_title":"Statistical Fieldwork",
-    "course_descr":null,
+    "course_descr":"Prerequisites: GR5203; GR5204 &GR5205 and at least 4 approved electives This course is an elective course for students in the M.A. in Statistics program that counts towards the degree requirements. To receive a grade and academic credits for this course, students are expected to engage in approved off-campus internships that can be counted as an elective. Statistical Fieldwork should provide students an opportunity to apply their statistical skills and gain practical knowledge on how statistics can be applied to solve real-world challenges.",
     "instructor":"Demissie Alemayehu",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -15833,7 +15833,15 @@
     ],
     "points":"1",
     "prerequisites":[
-
+      [
+        "GR5203"
+      ],
+      [
+        "GR5204"
+      ],
+      [
+        "GR5205"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20262STAT5399G001",
@@ -15842,7 +15850,7 @@
   {
     "course_code":"STAT GR8292",
     "course_title":"STATISTICS INTERNSHIP ELECTIVE",
-    "course_descr":null,
+    "course_descr":"n\/a",
     "instructor":"Bodhisattva Sen",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -16376,7 +16384,7 @@
   {
     "course_code":"STAT UN3107",
     "course_title":"Undergraduate Mentored Research",
-    "course_descr":null,
+    "course_descr":"Prerequisites: the project mentors permission. This course provides a mechanism for students who undertake research with a faculty member from the Department of Statistics to receive academic credit. Students seeking research opportunities should be proactive and entrepreneurial: identify congenial faculty whose research is appealing, let them know of your interest and your background and skills.",
     "instructor":"Daniel Rabinowitz",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
