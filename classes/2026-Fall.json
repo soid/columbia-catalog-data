@@ -1170,7 +1170,7 @@
     "call_number":"10308",
     "campus":null,
     "class_id":"G6352-20263-001",
-    "course_subtitle":"MUSEUM ANTHROP:HIST & THE",
+    "course_subtitle":null,
     "department":"Anthropology",
     "department_code":"ANTH",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ANTH\/G6352-20263-001\/",
@@ -1735,6 +1735,31 @@
     "type":"DISCUSSION"
   },
   {
+    "course_code":"ANTH UN3007",
+    "course_title":"ARCHAEOL BEFORE THE BIBLE",
+    "course_descr":null,
+    "instructor":"Brian Boyd",
+    "scheduled_time_start":"11:40am",
+    "scheduled_time_end":"12:55pm",
+    "call_number":"10309",
+    "campus":null,
+    "class_id":"V3007-20263-001",
+    "course_subtitle":null,
+    "department":"Anthropology",
+    "department_code":"ANTH",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ANTH\/V3007-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20263ANTH3007V001",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"ANTH UN3040",
     "course_title":"ANTHROPOLOGICAL THEORY",
     "course_descr":"Prerequisites: an introductory course in anthropology. Institutions of social life. Kinship and locality in the structuring of society. Monographs dealing with both literate and nonliterate societies will be discussed in the context of anthropological fieldwork methods. Required of all Anthropology majors (and tracks) within the Barnard Department. As of Fall, 2018, UN 3040 replaces the two semester sequence of 3040\/4041 Anthropological Theory I\/II). Intended only for Barnard majors and minors.",
@@ -1889,6 +1914,64 @@
     "scheduled_days":"W",
     "section_key":"20263ANTH3861V001",
     "type":"SEMINAR"
+  },
+  {
+    "course_code":"ANTH UN3997",
+    "course_title":"SUPERVISED INDIVIDUAL RESEARCH",
+    "course_descr":null,
+    "instructor":"Brian Boyd",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"10310",
+    "campus":null,
+    "class_id":"W3997-20263-001",
+    "course_subtitle":"SUPERVISED INDIVIDUAL RES",
+    "department":"Anthropology",
+    "department_code":"ANTH",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ANTH\/W3997-20263-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "General Studies"
+    ],
+    "points":"2-6",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263ANTH3997W001",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"ANTH UN3997",
+    "course_title":"SUPERVISED INDIVIDUAL RESEARCH",
+    "course_descr":null,
+    "instructor":"Hannah Chazin",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"10311",
+    "campus":null,
+    "class_id":"W3997-20263-002",
+    "course_subtitle":"SUPERVISED INDIVIDUAL RES",
+    "department":"Anthropology",
+    "department_code":"ANTH",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ANTH\/W3997-20263-002\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "General Studies"
+    ],
+    "points":"2-6",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263ANTH3997W002",
+    "type":"INDEPENDENT"
   },
   {
     "course_code":"ARCH UN1005",
