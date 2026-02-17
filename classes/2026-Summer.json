@@ -1175,10 +1175,10 @@
   {
     "course_code":"BIET K5435",
     "course_title":"ST Leadership, Ethics & Drug Development",
-    "course_descr":null,
+    "course_descr":"Special Topics in Leadership, Ethics and Drug Development\n  \nIn Ethical leadership decisions regarding drug development, regulation and delivery is a multi-dimensional process with varied stakeholders, each having their own objectives.\u00a0 This course will provide students with a look at how leaders in health care faced with real-life decisions utilized ethics to determine an outcome.\u00a0The course is designed as a one week intensive in-person course, with two guest lecturers per day from industry, government, funding organizations, HCPs and patient organizations to help students gain a greater understanding of all stakeholders involved in health care decision making.\u00a0\n  \nThrough posted and classroom discussion, speakers will address and students will be challenged to consider the following questions:\n  \n  \nWho are the relevant stakeholders?\u00a0 What are their preferences and do they conflict?\u00a0 If so, how is this conflict best resolved?\n  \nHow do we apply a bioethical framework \u2013 the principles of beneficence, nonmaleficence, autonomy and justice -- to this problem?\n  \nWhen understanding how a new medicine is developed, how are the long and short term risks, large and small, weighed and evaluated against potential benefits?\n  \nDoes industry consider justice\u2013 such as access and affordability \u2013 when deciding what products to develop?\n  \nWhat would you advise if you were an ethics consultant?\n  \nWhat do you think about the actions taken to address the issue?\n  \nHow are ethical questions handled within organizations?\u00a0 Are consultants used formally or informally to ensure outside perspectives?\n \n  \nThis course is for anyone with an interest in learning from leaders in the field and exploring real-life cases of bioethical decisions that impact all of us.",
     "instructor":null,
     "scheduled_time_start":"10:10am",
-    "scheduled_time_end":"4:30pm",
+    "scheduled_time_end":"5:00pm",
     "call_number":"10853",
     "campus":null,
     "class_id":"K5435-20262-001",
@@ -1288,7 +1288,7 @@
   {
     "course_code":"BIET PS5360",
     "course_title":"CHALLENGES IN ENVIRONMENTAL BIOETHICS",
-    "course_descr":null,
+    "course_descr":"The environment affects human health and well-being, and current health-care technology can impact the environment. Thus, questions about how humans ought to relate both to their own environment and to other living beings on this planet fall squarely within the field of bioethics. While some observers may see bioethics as concerning only the health of human beings defined narrowly, bioethics in fact has many implications for the larger biosphere and vice versa.\u00a0\n  \nThis course discusses important issues at the nexus of bioethics and the\u00a0environment, including climate change, ozone shield depletion, soil erosion, ocean pollution, diminishing biodiversity-all among the\u00a0environmental\u00a0factors with adverse consequences for the health of both human and non-human beings.\u00a0Even\u00a0the technologies employed in health-\ncare\u00a0\nhave\u00a0environmental\u00a0impact harmful\u00a0\nto\u00a0\nhealth.\n  \nAmong the challenges to be addressed: How can healthcare be made \u201cgreen\u201d?\u00a0 What do present generations \u201cowe\u201d to future generations? What is\u00a0environmental\u00a0justice in the relations between developed and developing societies? How should humans relate to the other inhabitants of this planet?",
     "instructor":"Arthur Kuflik",
     "scheduled_time_start":"7:00pm",
     "scheduled_time_end":"9:00pm",
@@ -1315,7 +1315,7 @@
   {
     "course_code":"BIET PS5495",
     "course_title":"AI AND ETHICS: HEALTH, LAW & SOCIETY",
-    "course_descr":null,
+    "course_descr":"Artificial intelligence has become widely available. In some cases, regulations apply already. In other cases, those working in law, public policy, and ethics continue to debate whether and how to regulate use, and which products should require pre-market vetting by regulators. Many principles and guidelines govern the AI space, providing a strong \u201csoft law\u201d framework for state and institutional governance. Some focus on consumer privacy, fairness, protecting workers, and human rights. Students will develop a core competency in AI and ethics with an emphasis on problem-solving, critical thinking, and analysis of AI tools and products related to health, health care, and the social determinants of health.\n Computer scientists, coders, and engineers best understand the development and use of machine learning, but often lack training in ethics, law, and public policy. Ethicists with an understanding of AI and machine learning can help steer AI use in safe and productive ways.\n The course is primarily designed for bioethics master\u2019s students; no formal background in artificial intelligence or machine learning is assumed. Some knowledge of ethics, ethical principles, and foundational philosophy will be presumed, yet students can request additional resources if they have not had the requisite coursework.",
     "instructor":"Anne Zimmerman",
     "scheduled_time_start":"4:30pm",
     "scheduled_time_end":"6:30pm",
@@ -1398,7 +1398,7 @@
   {
     "course_code":"BIET PS5991",
     "course_title":"MASTER THESIS WORKSHOP",
-    "course_descr":null,
+    "course_descr":"TAKEN WITH BIET 5992 Master Thesis (2-credit).\u00a0\n  \nThe Workshop meets six times over four months. These sessions will assist students in starting to focus more fully on a topic and approach. During the Thesis Workshop, students will first speak informally for five minutes about a possible topic, followed by a more formal five-minute presentation and a draft of a one-page outline or abstract, proceeding to a more finalized outline or abstract. At each of these stages, students will receive feedback from the course director as well as fellow students.",
     "instructor":"Arthur Kuflik",
     "scheduled_time_start":"11:30am",
     "scheduled_time_end":"1:30pm",
@@ -1425,7 +1425,7 @@
   {
     "course_code":"BIET PS5992",
     "course_title":"MASTER THESIS (2 CREDIT)",
-    "course_descr":null,
+    "course_descr":"Thesis requirement for Bioethics program. Taken with the Thesis Workshop (BIET K5991).",
     "instructor":"Arthur Kuflik",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -1443,7 +1443,9 @@
     ],
     "points":"2",
     "prerequisites":[
-
+      [
+        "BIET K5991"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20262BIET5992KD01",
@@ -3513,6 +3515,31 @@
     "type":"SEMINAR"
   },
   {
+    "course_code":"CLMT CL5100",
+    "course_title":"Financing Climate Adaptation and Resilie",
+    "course_descr":"Demand for climate adaptation and resilience (A&R) finance is growing rapidly among the global investment community. This intensive course explores A&R from both theoretical and applied perspectives, examining how resilience thinking intersects with financial decision-making under deep uncertainty. We begin with foundational literature on resilience theory and socio-ecological systems. The course then examines how adaptation and resilience discourse is manifested within the broader financial system. Through case studies and guest lectures from industry leaders, students will explore specific A&R financial instruments and investment structures. The course culminates in group presentations applying learned frameworks to real-world A&R investment cases.",
+    "instructor":null,
+    "scheduled_time_start":"4:30pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"10863",
+    "campus":null,
+    "class_id":"G5100-20262-001",
+    "course_subtitle":"Financing Climate Adaptat",
+    "department":"Climate School",
+    "department_code":"CLMT",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CLMT\/G5100-20262-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"1.5",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20262CLMT5100G001",
+    "type":"SEMINAR"
+  },
+  {
     "course_code":"CLMT CL5105",
     "course_title":"Nature, Risk, and Capital Markets",
     "course_descr":"The decline of nature and biodiversity is creating systemic risks for economies, industries, and financial markets, all of which fundamentally depend on healthy ecosystems. At the same time, the imperative to finance conservation, restoration, and biodiversity protection raises complex questions about the scale of capital required, how it can be mobilized, and what role financial markets should play. These two agendas\u2014managing nature-related financial risks and mobilizing finance for nature outcomes\u2014are often conflated, undermining both effective risk mitigation and adequate nature finance.\n  \n This course rigorously distinguishes between these dimensions. Students will learn how nature-related risks propagate through firms, sovereigns, supply chains, and financial institutions, and how these risks are measured, priced, and disclosed. Separately, the course examines financial instruments and market structures designed to finance biodiversity protection and ecosystem restoration. Students will explore biodiversity credits, nature-linked bonds, rhino bonds, debt-for-nature swaps, structured conservation products, and nature-based solutions (NbS) alongside foundational scientific concepts, global biodiversity governance, political economy, and emerging disclosure regimes such as TNFD.\n  \n The course culminates in a final project integrating ecological understanding, measurement frameworks, sovereign and firm pricing, financial engineering, and policy analysis.",
@@ -4011,6 +4038,56 @@
     "scheduled_days":"R",
     "section_key":"20262CLMT5007G012",
     "type":"WORKSHOP"
+  },
+  {
+    "course_code":"CLMT G5031",
+    "course_title":"Financing Renewable Energy",
+    "course_descr":"With climate change visibly affecting communities around the world, it is essential to society to transition to renewable energy sources to minimize further climate warming. As for any generation source, installation of renewables is very capital intensive. This course will examine key \u201cingredients\u201d necessary to finance a renewable project \/ make it economic, including but not limited to:\n  \n  \nAbility to finance at the project level\n  \nDifferent forms of capital available \/ requirements to successfully finance\n  \nRevenue models for renewables investors and required returns\n  \nRole of government incentives in financing renewable energy \/ latest US legislation\n  \nKey technical issues that arise with increased renewables penetration\n  \nGlobal geopolitical landscape and its impact on energy transition\n  \nEquity an inclusion in the approach to building a renewable landscape\n \n  \nAs part of the course, we will review multiple case studies and will approach the topics both from theoretical and quantitative perspectives.",
+    "instructor":"Nadejda Zaets",
+    "scheduled_time_start":"6:15pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"10862",
+    "campus":null,
+    "class_id":"G5031-20262-001",
+    "course_subtitle":"Financing Renewable Energ",
+    "department":"Climate School",
+    "department_code":"CLMT",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CLMT\/G5031-20262-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20262CLMT5031G001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"CLMT G5041",
+    "course_title":"Climate Ethics, Leadership and Managemen",
+    "course_descr":"Often, our progress toward the remediation of persistently accumulating human damage to our collective home, the biosphere, is attributed to large-scale entities having a rather amorphous quality. Such are the industrial revolution, the global north, capitalism, colonialism, and countless preoccupied, habituated or denialist components of the human population. Yet, the dynamics of all types of leadership and management, whether in public, civic or private organizations, frequently push back on the progress desired, in more specific ways. These dynamics are so characteristic that climate ethics, an offshoot of environmental ethics, may seem to be cornered or futile. However, looking more closely at the essential functions of leadership and management, we may find the possibilities of change for the better: change that reverses climate change, or more widely, unsustainability. Conversely, we may find inadequate possibilities for such critical change.\n  \nIn this course, leadership and management are explored to determine their dynamics are and how these afflict our biospheric home\u2014including virtually all life.\u00a0 The course is divided into 4 sections, the 1st is two weeks long, the 2nd and 3rd are each four weeks long, and the 4th is two weeks long.\u00a0 The topic of the 1st section is climate ethics, their content and context:\u00a0 how they work and how they are tripped by surrounding problematic discourses. The topic of the 2nd section is leadership: at its becomingly best, and how it demeans itself with incapability, irresponsibility and corruptibility. The topic of the 3rd section is management: at its operationally best, and how it degrades itself with dysfunctional hierarchy, captive systematization, and offensive behavior.\u00a0 The topic of the 4th section reverts to climate ethics: the necessity of accruing and maintaining value\u2014of the right kind, and the necessity of creating and applying guidance\u2014of the right kind.\u00a0 It is not only because the impacts of problematic ways of doing things are harmful to the biosphere but also because those impacts have others, which are increasingly desperate, rancorous and volatile.",
+    "instructor":"Adela J Gondek",
+    "scheduled_time_start":"1:00pm",
+    "scheduled_time_end":"2:45pm",
+    "call_number":"10864",
+    "campus":null,
+    "class_id":"G5041-20262-001",
+    "course_subtitle":"Climate Ethics, Leader &",
+    "department":"Climate School",
+    "department_code":"CLMT",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CLMT\/G5041-20262-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20262CLMT5041G001",
+    "type":"SEMINAR"
   },
   {
     "course_code":"CLMT G9010",
@@ -10769,6 +10846,173 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"HCM_ PS5200",
+    "course_title":"FINANCE FOR EFFECTIVE HCM",
+    "course_descr":null,
+    "instructor":"Silvana Nuzzo",
+    "scheduled_time_start":"6:30pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"10870",
+    "campus":null,
+    "class_id":"K5200-20262-D01",
+    "course_subtitle":null,
+    "department":"Human Capital Management",
+    "department_code":"HCM_",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HCM_\/K5200-20262-D01\/",
+    "location":"To be announced",
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20262HCM_5200KD01",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"HCM_ PS5230",
+    "course_title":"CHANGE MANAGEMENT",
+    "course_descr":"Change is a necessary and constant part of any organization. The change may be expected, or it may be in reaction to unanticipated external and\/or internal factors. In fact, organizations that do not change do not last.\n  \nChange initiatives can be exceedingly complex and disorienting, however. The success of a given changeinitiative often rests on the clarity of vision of an organization\u2019s leaders; an accurate and sensitiveunderstanding of the organization\u2019s culture; the involvement, input and buy-in of multiple internal andexternal stakeholders to the change objectives and process; leaders\u2019 ability to leverage technology tocommunicate and drive change; and an organization\u2019s analytical capabilities to document and measureprogress, and continue to iterate and improve.\n  \nIn light of these requirements, this course seeks to ask: What is the role of the HCM leader in facilitatingchange within an organization? The aims of this course are not abstract. This course will help studentsdevelop skills to support actual organizations (their own and\/or others) through change. Lectures, readings,videos, in-class and asynchronous discussions, and assignments will all focus on the practical application ofchange theory and empirical research to real-world organizational contexts.\n  \nThis course is an advanced elective within the Master of Science in Human Capital Management program.Prerequisites include \u201cHCMPS5100: Introduction to Human Capital Management,\u201d and \u201cHCMPS5150:Integrated Talent Management Strategies.\u201d Some familiarity with people analytics and digital approaches toHuman Capital Management will also be helpful.",
+    "instructor":"Laura Dannels",
+    "scheduled_time_start":"8:30pm",
+    "scheduled_time_end":"10:00pm",
+    "call_number":"10873",
+    "campus":null,
+    "class_id":"K5230-20262-D01",
+    "course_subtitle":null,
+    "department":"Human Capital Management",
+    "department_code":"HCM_",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HCM_\/K5230-20262-D01\/",
+    "location":"To be announced",
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+      [
+        "PS5100"
+      ],
+      [
+        "PS5150"
+      ]
+    ],
+    "scheduled_days":"W",
+    "section_key":"20262HCM_5230KD01",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"HCM_ PS5250",
+    "course_title":"FOUNDATIONS OF LABOR & EMPLOYMENT LAW",
+    "course_descr":null,
+    "instructor":"Lori B Rassas",
+    "scheduled_time_start":"8:30pm",
+    "scheduled_time_end":"10:00pm",
+    "call_number":"10871",
+    "campus":null,
+    "class_id":"K5250-20262-D01",
+    "course_subtitle":"FND OF LABOR & EMP LAW",
+    "department":"Human Capital Management",
+    "department_code":"HCM_",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HCM_\/K5250-20262-D01\/",
+    "location":"To be announced",
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20262HCM_5250KD01",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"HCM_ PS5250",
+    "course_title":"FOUNDATIONS OF LABOR & EMPLOYMENT LAW",
+    "course_descr":null,
+    "instructor":"Susan Alevas",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"10874",
+    "campus":null,
+    "class_id":"K5250-20262-002",
+    "course_subtitle":"FOUNDATIONS OF LABOR & EM",
+    "department":"Human Capital Management",
+    "department_code":"HCM_",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HCM_\/K5250-20262-002\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20262HCM_5250K002",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"HCM_ PS5290",
+    "course_title":"LEADING CROSS CULTURAL GLOBAL ORGANIZATI",
+    "course_descr":"We would like to offer this course online as well as on campus.",
+    "instructor":"Janet Walsh",
+    "scheduled_time_start":"8:30pm",
+    "scheduled_time_end":"10:00pm",
+    "call_number":"10876",
+    "campus":null,
+    "class_id":"K5290-20262-D01",
+    "course_subtitle":"LDNG CROSS CULTURAL GLOBA",
+    "department":"Human Capital Management",
+    "department_code":"HCM_",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HCM_\/K5290-20262-D01\/",
+    "location":"To be announced",
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20262HCM_5290KD01",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"HCM_ PS5340",
+    "course_title":"INCLUSIVE LEADERSHIP",
+    "course_descr":"This course seeks to introduce students to the latest theory, research and practice of \u201cInclusive Leadership,\u201d an evolving framework, for understanding the role of people leaders, teams, and individual contributors in cultivating diverse, equitable, and inclusion environments in companies and organizations. This interactive, intensive course will leverage insights, research, and experiences of leading scholars and practitioners in the fields of leadership, diversity, and inclusion. The content covered is grounded in inclusive leadership development, diversity management, team effectiveness, organization development, and intergroup relations. Students will learn hands-on strategies for fostering inclusion at every level of the organization, and how and why it matters on the overall culture and climate of the organization in a systematic way. Class discussions, assignments, and readings will pose questions such as: How to foster a culture of inclusion? How do we know when inclusion is actually taking place?",
+    "instructor":"Cindy R Pace",
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"5:00pm",
+    "call_number":"10877",
+    "campus":null,
+    "class_id":"K5340-20262-001",
+    "course_subtitle":null,
+    "department":"Human Capital Management",
+    "department_code":"HCM_",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HCM_\/K5340-20262-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MTWRFS",
+    "section_key":"20262HCM_5340K001",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"HCM_ PS5556",
     "course_title":"Internship in HCM",
     "course_descr":"Internship with Industry (1.5 credits, asynchronous online, elective) supports graduate students as they complete a supervised internship aligned with their academic program and career goals. Through targeted readings, short video lectures, structured reflection, and peer interaction, students connect internship experiences to career frameworks and workplace competencies. Course modules emphasize goal setting (SMART goals), self-awareness and communication (DiSC), career design and prototyping (Designing Your Life; Life Grid and Energy Mapping), persistence and performance (GRIT), and navigating change (VUCA, including reflection on emerging technologies such as AI). Students produce artifacts that document progress, analyze workplace context, and translate learning into career direction through a final synthesis reflection.\n \n The course requires a minimum of 105 internship hours and completion of a supervisor evaluation through the Experiential Learning Module.",
@@ -12973,6 +13217,43 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"IKNS PS5301",
+    "course_title":"Strategic Consulting for Knowledge-based",
+    "course_descr":"The primary objective of this course is to become familiar with the typical phases of an internal or external consulting project. The course is designed to provide a deep understanding of the typical challenges, opportunities,\u00a0 phases, and methods for conducting a successful consulting assignment for knowledge-based organizations. A\u00a0 typical strategic consulting assignment includes the following phases: organization assessment, sponsor\/client\u00a0 relationship, gathering data, diagnosis issues, implementation, and measurement. Drawing on examples from a\u00a0 variety of organizations, this course will focus directly on strategies for building a successful knowledge service or\u00a0 product for organizations or institutions. We will provide knowledge of foundational frameworks and theories and\u00a0 the need for tailored approaches for different clients. Students will get hands-on experience diagnosing and\u00a0 proposing knowledge strategies for improving organizational effectiveness and competitiveness.\n  \nSuccessful consulting, whether internal or external, requires many capabilities and, at heart, is dependent on the\u00a0 client-consultant relationship. Students will be engaged in working on a simulated consulting assignment based on\u00a0 the current organization in which they work. Alternatively, students may discuss with the faculty to be assigned to\u00a0 work with a voluntary organization seeking student input. During the term, each student will complete individual\u00a0 and team assignments that build on the deliverables needed for an actual consulting assignment. By developing\u00a0 expertise in strategic leadership consulting, students will gain credibility, competence, and confidence in their ability\u00a0 to communicate, design, develop, and provide knowledge and change services to an organization and society.\u00a0 During the semester, students will learn strategies for building knowledge services, including the models, methods,\u00a0 processes, and social factors that promote successful change.\n  \nThis course is designed for students who are or will be working in positions that require internal or external\u00a0 organizational consulting skills or in positions that require managing organizational change initiatives. No\u00a0 prerequisites.",
+    "instructor":"Edward J Hoffman",
+    "scheduled_time_start":"8:10pm",
+    "scheduled_time_end":"10:00pm",
+    "call_number":"10858",
+    "campus":null,
+    "class_id":"K5301-20262-D01",
+    "course_subtitle":"STRATGIC CONSLTNG FOR KNW",
+    "department":"Information & Knowledge Strat",
+    "department_code":"IKNS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/IKNS\/K5301-20262-D01\/",
+    "location":"To be announced",
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Architecture",
+      "Business",
+      "Engineering:Graduate",
+      "GSAS",
+      "General Studies",
+      "Journalism",
+      "Law",
+      "Professional Studies",
+      "Public Health",
+      "SIPA",
+      "Social Work"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20262IKNS5301KD01",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"IKNS PS5556",
     "course_title":"Internship in IKNS",
     "course_descr":"The Internship with Industry course is an elective course taken by students in the M.S. in Actuarial Science. Applied Analytics, Bioethics,Construction Administration, Enterprise Risk Management, Human Capital Management, Political Analytics, Project Management, Sustainability Science, Sustainability Management, Strategic Communications, Technology Management, and\/or Nonprofit Management.\n \n Internship with Industry (1.5 credits, asynchronous online, elective) supports graduate students as they complete a supervised internship aligned with their academic program and career goals. Through targeted readings, short video lectures, structured reflection, and peer interaction, students connect internship experiences to career frameworks and workplace competencies. Course modules emphasize goal setting (SMART goals), self-awareness and communication (DiSC), career design and prototyping (Designing Your Life; Life Grid and Energy Mapping), persistence and performance (GRIT), and navigating change (VUCA, including reflection on emerging technologies such as AI). Students produce artifacts that document progress, analyze workplace context, and translate learning into career direction through a final synthesis reflection.\n \n The course requires a minimum of 105 internship hours and completion of a supervisor evaluation through the Experiential Learning Module.",
@@ -13000,6 +13281,43 @@
     "type":"INTERNSHIP"
   },
   {
+    "course_code":"IKNS PS5988",
+    "course_title":"Human-Centered Design for Data-Driven St",
+    "course_descr":"Within this course, students will explore how practices from human-centered design (HCD) can be applied to the end-to-end data science workflow\u2014problem (use case) definition, data collection & preparation, data exploration, data modeling, and communicating and visualizing the results\u2014 in order to build trust in data that is used to drive strategy and decision making and impact organizational change. Students will learn about fundamental human values and how methods from the behavioral sciences and HCD can inspire ethical use of data to drive strategy and change in the modern, data-driven workplace. Students will understand how keeping \u201chumans in the loop\u201d is beneficial, and they will develop a critical eye for assessing whether the data they rely on to make decisions at work is human-centric, particularly as we become more reliant on data science and artificial intelligence (AI) technologies to inform our insights, strategies, and decision making at work.\n  \n Content & Goals: Through hands-on, project-based work, students will work individually and in project teams to practice designing human-centric information and communication experiences, leveraging audience-focused data visualizations and storytelling techniques to drive a strategic workplace objective, motivating leaders and employees into action to create traceable organizational impact that benefits people. Students will have an opportunity to practice their writing and presentation skills through practical course assignments.\n  \n Logistics: This graduate-level elective course is designed for students in Information & Knowledge Strategy but is open to other students at Columbia University. This course would be relevant to students studying management and technology more broadly. The course will be delivered in person on Columbia\u2019s campus during the spring semester.\n  \nNo prerequisites.",
+    "instructor":"Blake Dicosola",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"10859",
+    "campus":null,
+    "class_id":"K5988-20262-D01",
+    "course_subtitle":"HumCenDesignForDDStrat+De",
+    "department":"Information & Knowledge Strat",
+    "department_code":"IKNS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/IKNS\/K5988-20262-D01\/",
+    "location":"To be announced",
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Architecture",
+      "Business",
+      "Engineering:Graduate",
+      "GSAS",
+      "General Studies",
+      "Journalism",
+      "Professional Studies",
+      "Public Health",
+      "SIPA",
+      "Schools of the Arts",
+      "Social Work"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20262IKNS5988KD01",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"IKNS PS5995",
     "course_title":"Internship In IKNS",
     "course_descr":"This course requires you to experience firsthand a program-related job in a real working environment. You will engage in personal, environmental and organizational reflection. The ideal Internship will provide you an opportunity to gain tangible and practical knowledge in your chosen field by taking on a position that is closely aligned with your coursework and professional interests. Before registering for this course, you must have completed the Internship Application Form in which you will describe your internship sponsor and provide details about the work that you will be doing. This form must be signed by your internship supervisor and approved by your program director BEFORE you register for this course.\n  \n\u00a0\n  \nTo receive instructor approval, the internship:\n  \n\u25cf Must provide an opportunity for the student to apply course concepts, either at the organizational or team level\n  \n\u25cf Must fit into the planned future program-related career path of the student\n  \nYou must identify your own internship opportunities. The internship must involve a commitment to completing a minimum of 210 hours over the semester.\n  \n\u00a0\n  \nAt the end of your course, you will submit an evaluation form to your internship supervisor. The evaluation form should be returned directly to the instructor",
@@ -13025,6 +13343,56 @@
     "scheduled_days":null,
     "section_key":"20262IKNS5995KD01",
     "type":"INTERNSHIP"
+  },
+  {
+    "course_code":"IKNS PS5999",
+    "course_title":"IKNS INDEPENDENT STUDY",
+    "course_descr":"Overview\n: This 1 semester course (elective, IKNS students only, hybrid) provides an opportunity for a student to extend or supplement their educational experience via a deep-dive into an established or novel area of research of their choice (the topic), under the guidance & supervision of a faculty member (the supervisor). An independent study course allows a student to work one-on-one with a faculty member to gain & contribute new insight into the discipline of Knowledge Management.\n  \nTopic\/objective\n: The topic is chosen by the student as long as it falls within the general realm of Knowledge Management or its specific content areas in the IKNS curriculum, such as IT systems, knowledge organizing systems, data repositories, business data analytics including machine learning & AI, learning processes, collaboration, dialogue, team & project management, transformational leadership, change management, digital transformation, or digital product innovation. The course will therefore serve the dual purpose of allowing a student to pursue their own intellectual curiosity & to make a contribution to the wider discipline of Knowledge Management. In addition, students will deepen their understanding of the content they acquired in other courses, by applying this content to the specific topic chosen for the Independent Study.\n  \nLogistics\n: Ahead of registration, the student meets with the supervisor to discuss & agree on (i) the topic & the relevant IKNS curriculum area(s); (ii) the timeline of deliverables, milestones, & contact hours for the semester; & (iii) the number of credits. The student summarizes these points in a ~1 pg \nIndependent Study Proposal\n. The student can register for the course only once the supervisor & the Academic Director agree to & sign the \nIndependent Study Proposal\n (which includes the topic, the IKNS curriculum area, the number of credits, & the assigned supervisor). The number of credits (1-3) will be commensurate with the scope of the Independent Study. The scope can range from a summary of existing sources (typically 1 credit. 5-10 pg report), to a synthesis or meta-analysis of existing & new sources, e.g., interviews withSMEs (typically 2 credits, 10-15 pg report), to a comprehensive study which adds the student\u2019s own critical discussion & suggestions to the topic (typically 3 credits; 15-20 pg report).",
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"10860",
+    "campus":null,
+    "class_id":"K5999-20262-001",
+    "course_subtitle":null,
+    "department":"Information & Knowledge Strat",
+    "department_code":"IKNS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/IKNS\/K5999-20262-001\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"1-3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262IKNS5999K001",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"IKNS PS5999",
+    "course_title":"IKNS INDEPENDENT STUDY",
+    "course_descr":"Overview\n: This 1 semester course (elective, IKNS students only, hybrid) provides an opportunity for a student to extend or supplement their educational experience via a deep-dive into an established or novel area of research of their choice (the topic), under the guidance & supervision of a faculty member (the supervisor). An independent study course allows a student to work one-on-one with a faculty member to gain & contribute new insight into the discipline of Knowledge Management.\n  \nTopic\/objective\n: The topic is chosen by the student as long as it falls within the general realm of Knowledge Management or its specific content areas in the IKNS curriculum, such as IT systems, knowledge organizing systems, data repositories, business data analytics including machine learning & AI, learning processes, collaboration, dialogue, team & project management, transformational leadership, change management, digital transformation, or digital product innovation. The course will therefore serve the dual purpose of allowing a student to pursue their own intellectual curiosity & to make a contribution to the wider discipline of Knowledge Management. In addition, students will deepen their understanding of the content they acquired in other courses, by applying this content to the specific topic chosen for the Independent Study.\n  \nLogistics\n: Ahead of registration, the student meets with the supervisor to discuss & agree on (i) the topic & the relevant IKNS curriculum area(s); (ii) the timeline of deliverables, milestones, & contact hours for the semester; & (iii) the number of credits. The student summarizes these points in a ~1 pg \nIndependent Study Proposal\n. The student can register for the course only once the supervisor & the Academic Director agree to & sign the \nIndependent Study Proposal\n (which includes the topic, the IKNS curriculum area, the number of credits, & the assigned supervisor). The number of credits (1-3) will be commensurate with the scope of the Independent Study. The scope can range from a summary of existing sources (typically 1 credit. 5-10 pg report), to a synthesis or meta-analysis of existing & new sources, e.g., interviews withSMEs (typically 2 credits, 10-15 pg report), to a comprehensive study which adds the student\u2019s own critical discussion & suggestions to the topic (typically 3 credits; 15-20 pg report).",
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"10861",
+    "campus":null,
+    "class_id":"K5999-20262-D01",
+    "course_subtitle":null,
+    "department":"Information & Knowledge Strat",
+    "department_code":"IKNS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/IKNS\/K5999-20262-D01\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":null,
+    "points":"1-3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262IKNS5999KD01",
+    "type":"INDEPENDENT"
   },
   {
     "course_code":"IMGT PS5700",
@@ -19354,6 +19722,60 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"SPMG PS5010",
+    "course_title":"MANAGING HUMAN BEHAVIOR IN THE ORGANIZAT",
+    "course_descr":"Students will gain an overview of major concepts of management and organization theory, concentrating on understanding human behavior in organizational contexts, with heavy emphasis on the application of concepts to solve managerial problems. By the end of this course students will have developed the skills to motivate employees, establish professional interpersonal relationships, take a leadership role, and conduct performance appraisal.",
+    "instructor":"Aaron S Wallen",
+    "scheduled_time_start":"8:30pm",
+    "scheduled_time_end":"10:00pm",
+    "call_number":"10655",
+    "campus":null,
+    "class_id":"K5010-20262-D01",
+    "course_subtitle":"MANAGING HUMAN BEHAVIOR I",
+    "department":"Human Capital Management",
+    "department_code":"SPMG",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SPMG\/K5010-20262-D01\/",
+    "location":"To be announced",
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20262SPMG5010KD01",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"SPMG PS5010",
+    "course_title":"MANAGING HUMAN BEHAVIOR IN THE ORGANIZAT",
+    "course_descr":"Students will gain an overview of major concepts of management and organization theory, concentrating on understanding human behavior in organizational contexts, with heavy emphasis on the application of concepts to solve managerial problems. By the end of this course students will have developed the skills to motivate employees, establish professional interpersonal relationships, take a leadership role, and conduct performance appraisal.",
+    "instructor":"Young Mi Park",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"10878",
+    "campus":null,
+    "class_id":"K5010-20262-002",
+    "course_subtitle":"MANAGING HUMAN BEHAVIOR I",
+    "department":"Human Capital Management",
+    "department_code":"SPMG",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SPMG\/K5010-20262-002\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20262SPMG5010K002",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"SPMG PS5020",
     "course_title":"INTRODUCTION TO MARKETING",
     "course_descr":"Students will learn fundamental marketing concepts and their application. By the end of this class you will know: the elements of a market, company strategy, how to identify customers and competition, the fundamental elements of the marketing mix (product, price, placement and promotion) how to research consumer behavior, and pricing strategies. Students will have extensive use of case study projects. Please note that there are separate online and in-person versions of the course, and the modalities offered may vary by semester. Be sure to check the modalities of the sections offered and enroll in the correct modality for your situation.",
@@ -19407,6 +19829,33 @@
     ],
     "scheduled_days":"M",
     "section_key":"20262SPMG5025K001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"SPMG PS5030",
+    "course_title":"ENTREPRENEURSHIP: DEVELOP\/IMPLEMENT NEW",
+    "course_descr":"This course is designed for students interested in entrepreneurship and becoming CEO\/Founders or leaders in industry as innovators and operators. The class is appropriate for those with a strong interest in new ventures or innovation at the corporate level, or for those who want to develop an entrepreneurial mindset even if you have no plans to start a business. This includes potential entrepreneurs, those interested in the financing of new ventures, working in new ventures, or a portfolio company, or in broader general management of entrepreneurial firms. Entrepreneurial topics include: the entrepreneurial journey, founders & co-founders, the art of the pitch, shaping opportunities, traditional business models, business models for the greater good, the lean startup method and the hypothesis-driven approach, technology strategy, product testing, marketing strategy, entrepreneurial marketing, venture financing and emerging developments. Academic readings, analysis of case studies, class discussions, independent exercises, reading assessments, team work, guest speakers, investor panels, weekly deliverable options and a final investor pitch are the main modalities used to help you learn and assist you on your entrepreneurial path. There are no prerequisites for this course.",
+    "instructor":"Michael E Jr McGuire",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"10865",
+    "campus":null,
+    "class_id":"K5030-20262-D01",
+    "course_subtitle":"ENTREPRENEURSHIP",
+    "department":"Technology Management",
+    "department_code":"SPMG",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SPMG\/K5030-20262-D01\/",
+    "location":"To be announced",
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20262SPMG5030KD01",
     "type":"LECTURE"
   },
   {
@@ -20181,6 +20630,382 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"SUMA PS4147",
+    "course_title":"WATER RESOURCES AND CLIMATE",
+    "course_descr":"This course will cover the science needed to understand hydrology, the link between hydrology and climate, and why climate change will affect the hydrologic cycle. It will then look at what changes have occurred in the past, and what changes are projected for the future and how these changes may affect other sectors, such as agriculture. The final module of the course will look at adaptation measures to adapt to climate change. The course will be formatted to be a mixture of lectures and seminars, with the lecture portion used to introduce scientific concepts and the seminar portion to discuss and evaluate the readings assigned. At the end of this course, students will the hydrologic cycle and its connection to climate, how changes in climate have affected\/will affect how much water is available on land, how water impacts ecosystem services, and how to diagnose the cause of a climate-related water problem and develop solutions to address it.",
+    "instructor":null,
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"10880",
+    "campus":null,
+    "class_id":"K4147-20262-001",
+    "course_subtitle":"WATER RESOURCES AND CLIMA",
+    "department":"Sustainability Management",
+    "department_code":"SUMA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SUMA\/K4147-20262-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20262SUMA4147K001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"SUMA PS5020",
+    "course_title":"COST BENEFIT ANALYSIS",
+    "course_descr":"This course is about cost-benefit analysis and the economic evaluations of policies and projects. Cost benefit analysis (CBA) consists of a comprehensive set of techniques used to evaluate government programs. It is now routinely applied in such program areas as transportation, water projects, health, training and education, criminal justice, environmental protection, urban policy and even in the international arena such as foreign direct investment. Many of the techniques of CBA can also be applied to private sector decision-making. The objective of CBA is to determine whether the benefits of a particular program, policy or decision outweigh its costs. The techniques used to determine this are sometimes quite simple, but on other, increasingly frequent occasions are highly sophisticated. Sophisticated cost benefit studies are based on a framework that utilizes the basic concepts of economic theory. In addition, statistical and econometric analyses are often needed to estimate program effects from diverse available data. The course has two parts: methodology and practice. The goal is for students to be practically adept to undertake an independent cost-benefit analysis.",
+    "instructor":"Alexander Heil",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"10881",
+    "campus":null,
+    "class_id":"K5020-20262-001",
+    "course_subtitle":null,
+    "department":"Sustainability Management",
+    "department_code":"SUMA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SUMA\/K5020-20262-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20262SUMA5020K001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"SUMA PS5021",
+    "course_title":"THEORY & PRACTICE OF LIFE CYCLE ASSESSME",
+    "course_descr":"Life Cycle Assessment (LCA), a methodology to assess the environmental impact of products, services, and industrial processes is an increasingly important tool in corporate sustainability management. This course teaches both the theoretical framework as well as step-by-step practical guidelines of conducting LCAs in companies and organizations. Particular emphasis is placed on separating the more academic, but less practically relevant aspects of LCA (which will receive less focus) from the actual practical challenges of LCA (which will be covered in detail, including case studies). The course also covers the application of LCA metrics in a companies\u2019 management and discusses the methodological weaknesses that make such application difficult, including how these can be overcome. Product carbon footprinting (as one form of LCA) receives particular focus, owing to its widespread practical use in recent and future sustainability management.",
+    "instructor":"Adriana B Kliegman",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"6:00pm",
+    "call_number":"10882",
+    "campus":null,
+    "class_id":"K5021-20262-001",
+    "course_subtitle":"THEORY & PRAC LIFE CYCL ASSMNT",
+    "department":"Sustainability Management",
+    "department_code":"SUMA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SUMA\/K5021-20262-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20262SUMA5021K001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"SUMA PS5025",
+    "course_title":"CORPORATE SUSTAINABILITY REPORTING AND S",
+    "course_descr":"The purpose of this course is to provide an overview of trends and best practices in corporate communications relating to sustainability, with a particular focus on global sustainability reporting frameworks and green marketing communications. It is designed for those who hold\/will hold positions in organizations with responsibilities for communicating the sustainability goals, challenges and achievements, as well as accurately and honestly communicating the environmental aspects of an organization's products and services. Increasingly, large corporations are creating c-suite roles or dedicated departments to oversee this function. More typically, multiple functions contribute information such as: Corporate Communications, Marketing, Community Affairs, Public Policy, Environmental Health & Safety, R&D, Facilities, Operations and Legal. Benefits of reporting range from building trust with stakeholders, and uncovering risks and opportunities; to contributing to stronger long-term business strategy, and creating new products and services.",
+    "instructor":null,
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"10883",
+    "campus":null,
+    "class_id":"K5025-20262-001",
+    "course_subtitle":"CORP SUST REPORTING & STR",
+    "department":"Sustainability Management",
+    "department_code":"SUMA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SUMA\/K5025-20262-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20262SUMA5025K001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"SUMA PS5033",
+    "course_title":"DECISION MODELS & MANAGEMENT",
+    "course_descr":"This course provides an introduction to computer-based models for decision-making.\u00a0 The emphasis is on models that are widely used in diverse industries and functional areas, including finance, accounting, operations, and marketing.\u00a0 Applications will include advertising planning, revenue management, asset-liability management, environmental policy modeling, portfolio optimization, and corporate risk management, among others. The applicability and usage of computer-based models have increased dramatically in recent years, due to the extraordinary improvements in computer, information and communication technologies, including not just hardware but also model-solution techniques and user interfaces.\u00a0 Twenty years ago working with a model meant using an expensive mainframe computer, learning a complex programming language, and struggling to compile data by hand; the entire process was clearly marked \u201cexperts only.\u201d\u00a0 The rise of personal computers, friendly interfaces (such as spreadsheets), and large databases has made modeling far more accessible to managers.\u00a0 Information has come to be recognized as a critical resource, and models play a key role in deploying this resource, in organizing and structuring information so that it can be used productively.",
+    "instructor":"Lucius J Riccio",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"10884",
+    "campus":null,
+    "class_id":"K5033-20262-001",
+    "course_subtitle":"DECISION MODELS & MGMT",
+    "department":"Sustainability Management",
+    "department_code":"SUMA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SUMA\/K5033-20262-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20262SUMA5033K001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"SUMA PS5035",
+    "course_title":"GHG EMISSIONS: MEASURING AND MINIMIZING",
+    "course_descr":"Global greenhouse gas (GHG) emissions are now at a record high, and the world\u2019s scientific community agrees that continued unabated release of greenhouse gases will have catastrophic consequences. Many efforts to curb greenhouse gas emissions, both public and private, have been underway for decades, yet it is now clear that collectively these efforts are failing, and that far more concerted efforts are necessary. In December 2015, the world\u2019s nations agreed in Paris to take actions to limit the future increase in global temperatures well below to 2\u00b0C, while pursuing efforts to limit the temperature increase even further to 1.5\u00b0C. Achieving this goal will require mitigation of greenhouse gas emissions from all sectors, both public and private. Critical to any attempt to mitigate greenhouse gas emissions is a clear, accurate understanding of the sources and levels of greenhouse gas emissions. This course will address all facets of greenhouse gas emissions accounting and reporting and will provide students with tangible skills needed to direct such efforts in the future.\n  \nStudents in this course will gain hands-on experience designing and executing greenhouse gas emissions inventories for companies, financial institutions and governments employing all necessary skills including the identification of analysis boundaries, \u00a0data collection, calculation of emissions levels, and reporting of results. In-class workshops and exercises will complement papers and group assignments. A key component of this course will be critical evaluation of both existing accounting and reporting standards as well as GHG emissions reduction target setting practices.\n  \nThis course will introduce many of the challenges facing carbon accounting practitioners and will require students to recommend solutions to these challenges derived through critical analysis. Classes will examine current examples of greenhouse gas reporting efforts and will allow students the opportunity to recommend improved calculation and reporting methods.",
+    "instructor":null,
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"10885",
+    "campus":null,
+    "class_id":"K5035-20262-001",
+    "course_subtitle":"GHG EMISSIONS CARBON FOOT",
+    "department":"Sustainability Management",
+    "department_code":"SUMA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SUMA\/K5035-20262-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20262SUMA5035K001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"SUMA PS5142",
+    "course_title":"SUSTAINABLE FINANCE",
+    "course_descr":null,
+    "instructor":"Luke C Apicella",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"10886",
+    "campus":null,
+    "class_id":"K5142-20262-001",
+    "course_subtitle":null,
+    "department":"Sustainability Management",
+    "department_code":"SUMA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SUMA\/K5142-20262-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20262SUMA5142K001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"SUMA PS5155",
+    "course_title":"ENERGY MARKETS & INNOVATION",
+    "course_descr":"Existing energy sources and the infrastructures that deliver them to users around the world are undergoing a period of rapid change. Limits to growth, rapidly fluctuating raw material prices, and the emergence of new technology options all contribute to heightened risk and opportunity in the energy sector. The purpose of this course is to establish a core energy skill set for energy students and prepare them for more advanced energy courses by providing a basic language and toolset for understanding energy issues.\n  \nUsing theoretical and practical understanding of the process by which energy technologies are developed, financed, and deployed, this course seeks to highlight the root drivers for change in the energy industry, the technologies that are emerging, and the factors that will determine success in their commercialization. Understanding these market dynamics also informs good policy design and implementation to meet a broad range of social welfare goals.\n  \nUpon completing the course, students should not only understand the nature of conventional and emerging energy generation and delivery, but also the tools for determining potential winners and losers and the innovative pathways to drive their further deployment.",
+    "instructor":"Travis Bradford",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"6:00pm",
+    "call_number":"10887",
+    "campus":null,
+    "class_id":"K5155-20262-D01",
+    "course_subtitle":"ENERGY MARKETS & INNOVATI",
+    "department":"Sustainability Management",
+    "department_code":"SUMA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SUMA\/K5155-20262-D01\/",
+    "location":"To be announced",
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20262SUMA5155KD01",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"SUMA PS5180",
+    "course_title":"WRITING ABOUT GLOBAL SCIENCE FOR INTERNA",
+    "course_descr":"This is an interdisciplinary workshop for scientists, future NGO workers and journalists seeking skills in communicating 21st-century global science to the public. Scientists will be given journalism skills; journalists will learn how to use science as the basis of their story-telling. The course is designed to give students exercises and real-world experiences in producing feature stories on global science topics. While most scientists and international affairs professionals have been trained to write in the style of peer-reviewed journals, we will focus on journalism techniques, learning how to translate global science into accessible true stories that reach wide audiences.\n  \nScience is performed by passionate individuals who use their intelligence and determination to seek answers from nature. By telling their histories and uncovering the drama of discovery, we believe that there are ways for science to be successfully communicated to readers who might otherwise fear it.",
+    "instructor":"Claudia Dreifus",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"10888",
+    "campus":null,
+    "class_id":"K5180-20262-001",
+    "course_subtitle":"WRITING ABOUT GLOBAL SCIENCE",
+    "department":"Sustainability Management",
+    "department_code":"SUMA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SUMA\/K5180-20262-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20262SUMA5180K001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"SUMA PS5195",
+    "course_title":"ACCOUNTING, FINANCE, AND MODELING OF SUS",
+    "course_descr":"This course is designed to provide students with working knowledge on how to make successful investments in sustainable companies and to prepare students to be conversationally literate in financial reporting. As you leave the school and become leaders of organizations financial literacy will be a skill set that will be vital to success no matter what career path you go down. It starts with a strong foundation in accounting and corporate finance, then moves on to ESG\/Impact screening of potential investments, along with valuation techniques used to arrive at a purchase price. It will explore financial models that can aggregate multiple variables used to drive investment decisions.\n  \nTo understand and lead a transition to a sustainability-aware business, managers must first be familiar with the terminology, practices and consequences of traditional accounting and finance. Students will learn traditional financial and accounting methods and tools. We will examine how these methods and tools are changing to improve product and service design, resource efficiency and allocation, employee productivity and sustainability performance outcomes. Students will learn how value is created in a company and the different methods employed to create that value, conduct due diligence, discuss optimal capital structure to finance a transaction, execute a transaction, and implement a Sustainability-based value-added operating plan to the target company. The course will conclude with students preparing a persuasive investment memo and accompanying financial model to the investment committee of an impact investing asset management firm. The course also provides a practical introduction to selected non-financial accounting topics including sustainability reporting standards, ESG corporate performance indicators and corporate social responsibility report (CSR Reporting).",
+    "instructor":"Brad Schwartz",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"10889",
+    "campus":null,
+    "class_id":"K5195-20262-D01",
+    "course_subtitle":"ACCT FIN & MOD OF SUS INV",
+    "department":"Sustainability Management",
+    "department_code":"SUMA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SUMA\/K5195-20262-D01\/",
+    "location":"To be announced",
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20262SUMA5195KD01",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"SUMA PS5200",
+    "course_title":"INTEGRATIVE CAPSTONE WORKSHOP",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"10890",
+    "campus":null,
+    "class_id":"K5200-20262-001",
+    "course_subtitle":"INTEGRATIVE CAPSTONE WORK",
+    "department":"Sustainability Management",
+    "department_code":"SUMA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SUMA\/K5200-20262-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20262SUMA5200K001",
+    "type":"WORKSHOP"
+  },
+  {
+    "course_code":"SUMA PS5220",
+    "course_title":"SUSTAINABLE ENTREPRENEURSHIP",
+    "course_descr":null,
+    "instructor":"Jonathan Hollander",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"10891",
+    "campus":null,
+    "class_id":"K5220-20262-001",
+    "course_subtitle":"SUSTAINABLE ENTREPRENEURS",
+    "department":"Sustainability Management",
+    "department_code":"SUMA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SUMA\/K5220-20262-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20262SUMA5220K001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"SUMA PS5240",
+    "course_title":"SUSTAINABLE AGRICULTURE",
+    "course_descr":null,
+    "instructor":"Bruce Kahn",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"10892",
+    "campus":null,
+    "class_id":"K5240-20262-001",
+    "course_subtitle":null,
+    "department":"Sustainability Management",
+    "department_code":"SUMA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SUMA\/K5240-20262-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20262SUMA5240K001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"SUMA PS5470",
+    "course_title":"CIRCULAR ECONOMY FOR SUSTAINABILITY PROF",
+    "course_descr":"Throughout history, societies have discovered resources, designed and developed them into textiles,\n  \ntools and structures, and bartered and exchanged these goods based on their respective values.\n  \nEconomies emerged, driven by each society\u2019s needs and limited by the resources and technology\n  \navailable to them. Over the last two centuries, global development accelerated due in large part to the\n  \noverextraction and use of finite resources, whether for energy or materials, and supported by vast\n  \ntechnological advancements. However, this economic model did not account for the long-term impacts of\n  \nthe disposal or depletion of these finite resources and instead, carried on unreservedly in a \u201ctake-make\u2019-\n  \nwaste\u201d manner, otherwise known as a linear economy. Despite a more profound understanding of our\n  \nplanet\u2019s available resources, the environmental impact of disposal and depletion, and the technological\n  \nadvancements of the last several decades, the economic heritage of the last two centuries persists today;\n  \nwhich begs the question: what alternatives are there to a linear economy?\n  \nThe premise of this course is that through systems-thinking, interdisciplinary solutions for an alternative\n  \neconomic future are available to us. By looking at resources\u2019 potential, we can shape alternative methods\n  \nof procurement, design, application, and create new market demands that aim to keep materials,\n  \nproducts and components in rotation at their highest utility and value. This elective course will delve into\n  \nboth the theory of a circular economy - which would be a state of complete systemic regeneration and\n  \nrestoration as well as an optimized use of resources and zero waste - and the practical applications\n  \nrequired in order to achieve this economic model. Achieving perfect circularity represents potentially\n  \ntransformative systemic change and requires a fundamental re-think of many of our current economic\n  \nstructures, systems and processes.\n  \nThis is a full-semester elective course which is designed to create awareness among sustainability\n  \nleaders that those structures, systems and processes which exist today are not those which will carry us\n  \n(as rapidly as we need) into a more sustaining future. The class will be comprised of a series of lectures,\n  \nsupported by readings and case-studies on business models, design thinking and materi",
+    "instructor":"Diana A Trushell",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"6:00pm",
+    "call_number":"10893",
+    "campus":null,
+    "class_id":"K5470-20262-001",
+    "course_subtitle":"CIRC ECON FOR SUST PROFS",
+    "department":"Sustainability Management",
+    "department_code":"SUMA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SUMA\/K5470-20262-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20262SUMA5470K001",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"SUMA PS5556",
     "course_title":"Internship in SUMA",
     "course_descr":"The Internship with Industry course is an elective course taken by students in the M.S. in Actuarial Science. Applied Analytics, Bioethics,Construction Administration, Enterprise Risk Management, Human Capital Management, Political Analytics, Project Management, Sustainability Science, Sustainability Management, Strategic Communications, Technology Management, and\/or Nonprofit Management.\n \n Internship with Industry (1.5 credits, asynchronous online, elective) supports graduate students as they complete a supervised internship aligned with their academic program and career goals. Through targeted readings, short video lectures, structured reflection, and peer interaction, students connect internship experiences to career frameworks and workplace competencies. Course modules emphasize goal setting (SMART goals), self-awareness and communication (DiSC), career design and prototyping (Designing Your Life; Life Grid and Energy Mapping), persistence and performance (GRIT), and navigating change (VUCA, including reflection on emerging technologies such as AI). Students produce artifacts that document progress, analyze workplace context, and translate learning into career direction through a final synthesis reflection.\n \n The course requires a minimum of 105 internship hours and completion of a supervisor evaluation through the Experiential Learning Module.",
@@ -20208,6 +21033,33 @@
     "type":"INTERNSHIP"
   },
   {
+    "course_code":"SUMA PS5650",
+    "course_title":"SOLAR PROJECT DEVELOPMENT",
+    "course_descr":"TBA",
+    "instructor":"Daniel J Giuffrida",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"10894",
+    "campus":null,
+    "class_id":"K5650-20262-D01",
+    "course_subtitle":null,
+    "department":"Sustainability Management",
+    "department_code":"SUMA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SUMA\/K5650-20262-D01\/",
+    "location":"To be announced",
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20262SUMA5650KD01",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"SUMA PS5995",
     "course_title":"Internship In SUMA",
     "course_descr":"This course requires you to experience firsthand a program-related job in a real working environment. You will engage in personal, environmental and organizational reflection. The ideal Internship will provide you an opportunity to gain tangible and practical knowledge in your chosen field by taking on a position that is closely aligned with your coursework and professional interests. Before registering for this course, you must have completed the Internship Application Form in which you will describe your internship sponsor and provide details about the work that you will be doing. This form must be signed by your internship supervisor and approved by your program director BEFORE you register for this course.\n  \n\u00a0\n  \nTo receive instructor approval, the internship:\n  \n\u25cf Must provide an opportunity for the student to apply course concepts, either at the organizational or team level\n  \n\u25cf Must fit into the planned future program-related career path of the student\n  \nYou must identify your own internship opportunities. The internship must involve a commitment to completing a minimum of 210 hours over the semester.\n  \n\u00a0\n  \nAt the end of your course, you will submit an evaluation form to your internship supervisor. The evaluation form should be returned directly to the instructor",
@@ -20233,6 +21085,87 @@
     "scheduled_days":null,
     "section_key":"20262SUMA5995KD01",
     "type":"INTERNSHIP"
+  },
+  {
+    "course_code":"SUMA PS5997",
+    "course_title":"INDEPENDENT STUDY",
+    "course_descr":"Independent Study is a one- or three-credit course that can count toward the curriculum area requirement in Integrative Sustainability Management, Economics and Quantitative Analysis, Physical Dimensions, Public Policy, General and Financial Management, or Elective, with the approval of the faculty advisor. A final deliverable relating to the Sustainability Management curriculum is required at the end of the semester, and will be evaluated for a letter grade by the faculty advisor and reported to the SUMA program office.",
+    "instructor":"Maria L Gray",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"10895",
+    "campus":null,
+    "class_id":"K5997-20262-001",
+    "course_subtitle":null,
+    "department":"Sustainability Management",
+    "department_code":"SUMA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SUMA\/K5997-20262-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"1-3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262SUMA5997K001",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"SUMA PS6110",
+    "course_title":"SUSTAINABILITY & URBAN FORM",
+    "course_descr":null,
+    "instructor":"Allison L Bridges",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"6:00pm",
+    "call_number":"10896",
+    "campus":null,
+    "class_id":"K6110-20262-001",
+    "course_subtitle":"SUSTAINABILITY & URBAN FO",
+    "department":"Sustainability Management",
+    "department_code":"SUMA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SUMA\/K6110-20262-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20262SUMA6110K001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"SUMA PS6140",
+    "course_title":"Applied Energy Methods in Affordable Hou",
+    "course_descr":"This course focuses on developing financing strategies that accelerate the decarbonization of affordable housing in compliance with state and city climate laws. Developing affordable housing that is energy efficient involves a blend of\u00a0conventional and specialized financing tools like federal tax credits, government grants and subsidies, and private capital from mission-driven lenders. Through a structured hierarchy of debt and equity, called a capital stack, students will explore the ways in which expanding energy investments in affordable housing reduce the energy burden of tenants by lowering utility costs, contribute to tenant comfort through operational autonomy, and ensure long-term affordability through improved building performance.",
+    "instructor":"Kenyetta N Lovings",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"6:00pm",
+    "call_number":"10897",
+    "campus":null,
+    "class_id":"K6140-20262-D01",
+    "course_subtitle":"Applied Energy Methods in",
+    "department":"Sustainability Management",
+    "department_code":"SUMA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SUMA\/K6140-20262-D01\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20262SUMA6140KD01",
+    "type":"LECTURE"
   },
   {
     "course_code":"SUPR PS0101",
@@ -20292,7 +21225,7 @@
     "course_code":"SURB PS0105",
     "course_title":"Urban Planning and Design",
     "course_descr":"",
-    "instructor":"Jeffrey Shumaker",
+    "instructor":null,
     "scheduled_time_start":"3:10pm",
     "scheduled_time_end":"5:00pm",
     "call_number":"10213",
@@ -20341,6 +21274,33 @@
     "scheduled_days":"MTWRF",
     "section_key":"20262SURB0105K002",
     "type":"LECTURE"
+  },
+  {
+    "course_code":"SUSC PS5400",
+    "course_title":"Sustainability and Resilience of Tropica",
+    "course_descr":"COURSE OVERVIEW\n  \nThe proposed graduate-level fieldwork course, Sustainability and Resilience of Tropical Coastal Ecosystems, is designed for students interested in learning more about the interconnections between tropical coastal ecosystems, focusing on the nexus between coral reef, seagrass, and mangrove systems. This course will discuss the importance and value of these vital tropical coastal ecosystems.\u00a0 We will specifically concentrate on the stewardship, conservation, and restoration of these systems in light of the multiple assaults associated with global climate change that impact these systems and put them at risk of complete collapse. This includes reviewing the most critical issues in tropical marine biodiversity, resource sustainability, ecosystem resilience, and global change biology. Three (3) Lecture\u00a0\n  \nACADEMIC GOALS\n  \nThis course offers students a hands-on understanding of tropical coastal ecosystem management and sustainability challenges. Participants will engage with local experts and communities, fostering skills in field research and sustainability practices.",
+    "instructor":"Bill Precht",
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"5:00pm",
+    "call_number":"10898",
+    "campus":null,
+    "class_id":"K5400-20262-001",
+    "course_subtitle":"Tropical Coastal Ecosyste",
+    "department":"Sustainability Science",
+    "department_code":"SUSC",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SUSC\/K5400-20262-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MTWRFSU",
+    "section_key":"20262SUSC5400K001",
+    "type":"FIELD WORK"
   },
   {
     "course_code":"SUSC PS5556",
@@ -20607,20 +21567,20 @@
     "type":"SEMINAR"
   },
   {
-    "course_code":"TMGT PS5556",
-    "course_title":"Internship in TMGT",
-    "course_descr":"The Internship with Industry course is an elective course taken by students in the M.S. in Actuarial Science. Applied Analytics, Bioethics,Construction Administration, Enterprise Risk Management, Human Capital Management, Political Analytics, Project Management, Sustainability Science, Sustainability Management, Strategic Communications, Technology Management, and\/or Nonprofit Management.\n \n Internship with Industry (1.5 credits, asynchronous online, elective) supports graduate students as they complete a supervised internship aligned with their academic program and career goals. Through targeted readings, short video lectures, structured reflection, and peer interaction, students connect internship experiences to career frameworks and workplace competencies. Course modules emphasize goal setting (SMART goals), self-awareness and communication (DiSC), career design and prototyping (Designing Your Life; Life Grid and Energy Mapping), persistence and performance (GRIT), and navigating change (VUCA, including reflection on emerging technologies such as AI). Students produce artifacts that document progress, analyze workplace context, and translate learning into career direction through a final synthesis reflection.\n \n The course requires a minimum of 105 internship hours and completion of a supervisor evaluation through the Experiential Learning Module.",
-    "instructor":"Mariela Torres",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
-    "call_number":"10763",
+    "course_code":"TMGT PS5011",
+    "course_title":"Special Topics: Ethics and Technology in",
+    "course_descr":"This 1.5-credit onsite graduate course examines the ethical dynamics shaping contemporary technology management as innovation, regulation, and societal expectations rapidly evolve. Drawing on globally recognized perspectives and frameworks in responsible AI leadership and governance, the course explores how ethical considerations inform strategic decision-making across the technology lifecycle, from human-centered design to enterprise-scale digital transformation. Students critically analyze emerging challenges in artificial intelligence, data stewardship, collective decision-making systems, and value alignment, with attention to governance models, institutional accountability, and evolving regulatory frameworks. An emphasis is placed on evaluating the economic, social, and sustainable implications of technologies to strengthen ethical leadership discernment and strategic risk evaluation. The course equips students to critically navigate the ethical complexities of technological progress while aligning innovation with institutional values, societal responsibility, and long-term organizational integrity in a rapidly evolving global landscape.",
+    "instructor":"Francesca Rossi",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"10652",
     "campus":null,
-    "class_id":"K5556-20262-D01",
-    "course_subtitle":null,
+    "class_id":"K5011-20262-D01",
+    "course_subtitle":"Ethics and Technology",
     "department":"Technology Management",
     "department_code":"TMGT",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/TMGT\/K5556-20262-D01\/",
-    "location":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/TMGT\/K5011-20262-D01\/",
+    "location":"To be announced",
     "method_of_instruction":"On-Line Only",
     "open_to":[
       "Professional Studies"
@@ -20629,25 +21589,79 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
-    "section_key":"20262TMGT5556KD01",
-    "type":"INTERNSHIP"
+    "scheduled_days":"M",
+    "section_key":"20262TMGT5011KD01",
+    "type":"LECTURE"
   },
   {
-    "course_code":"TMGT PS5995",
-    "course_title":"Internship In TMGT",
-    "course_descr":"This course requires you to experience firsthand a program-related job in a real working environment. You will engage in personal, environmental and organizational reflection. The ideal Internship will provide you an opportunity to gain tangible and practical knowledge in your chosen field by taking on a position that is closely aligned with your coursework and professional interests. Before registering for this course, you must have completed the Internship Application Form in which you will describe your internship sponsor and provide details about the work that you will be doing. This form must be signed by your internship supervisor and approved by your program director BEFORE you register for this course.\n  \n\u00a0\n  \nTo receive instructor approval, the internship:\n  \n\u25cf Must provide an opportunity for the student to apply course concepts, either at the organizational or team level\n  \n\u25cf Must fit into the planned future program-related career path of the student\n  \nYou must identify your own internship opportunities. The internship must involve a commitment to completing a minimum of 210 hours over the semester.\n  \n\u00a0\n  \nAt the end of your course, you will submit an evaluation form to your internship supervisor. The evaluation form should be returned directly to the instructor",
-    "instructor":"Paul Maniaci",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
-    "call_number":"10764",
+    "course_code":"TMGT PS5119",
+    "course_title":"Full-Stack Products and Practices",
+    "course_descr":"This course provides a comprehensive examination of modern software product development, focusing on creating solutions that address clear user needs and challenges. A \u201cproduct\u201d in this context refers to a software program that instructs computer hardware to operate, solve problems, and manage tasks effectively.\n  \nModern product development benefits from systematic practices that enhance efficiency, sustainability, and continuity. These practices, including flexibility, iterative development, customer feedback, and efficient project management, are essential for adapting quickly to rapidly evolving market and technology landscapes.",
+    "instructor":"Michael A Keany",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"10866",
     "campus":null,
-    "class_id":"K5995-20262-D01",
+    "class_id":"K5119-20262-001",
+    "course_subtitle":"Full-Stack Products & Pra",
+    "department":"Technology Management",
+    "department_code":"TMGT",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/TMGT\/K5119-20262-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20262TMGT5119K001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"TMGT PS5122",
+    "course_title":"Presence and Persuasion for Technology L",
+    "course_descr":"This course teaches students how to get through to any audience for any reason. Technology leaders, more than in any other industry, must be equally comfortable as public speakers for vastly different audiences, from software developers and sales teams to politicians and the general public. Through exercises in speaker and audience analysis, studies in public speaking techniques, and an exploration of behavioral psychology principles influencing audience receptivity, students will gain tangible skills to increase their impact as public speakers. Specifically, this course will equip students to: 1. identify how impactful speakers prepare for, present to, and pivot for maximum impact according to audience type, size, and receptivity; 2. learn strategies on how to \u201cread the room\u201d and adapt both verbal and nonverbal communication techniques in real-time; and 3. gain hands-on experience in public speaking through exercises designed to develop public speaking skills across a range of tech-sector specific experiences, circumstances, audiences.",
+    "instructor":"Alexis Wichowski",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"10867",
+    "campus":null,
+    "class_id":"K5122-20262-001",
+    "course_subtitle":"Presence and Persuasion",
+    "department":"Technology Management",
+    "department_code":"TMGT",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/TMGT\/K5122-20262-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20262TMGT5122K001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"TMGT PS5125",
+    "course_title":"Law for Technology",
+    "course_descr":"Law is infused into every part of business, especially through the lens of technology. Fluency in business and legal frameworks, risk\/benefit principles, from idea to exit, is essential for any innovation leader. This course offers a deep dive into the critical phases of technology companies and their journey through growth, scaling, and eventual market exit. Topics include capital formation, contracts, intellectual property, human capital, and business transactions.",
+    "instructor":"Scott Joachim",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"10869",
+    "campus":null,
+    "class_id":"K5125-20262-D01",
     "course_subtitle":null,
     "department":"Technology Management",
     "department_code":"TMGT",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/TMGT\/K5995-20262-D01\/",
-    "location":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/TMGT\/K5125-20262-D01\/",
+    "location":"To be announced",
     "method_of_instruction":"On-Line Only",
     "open_to":[
       "Professional Studies"
@@ -20656,9 +21670,117 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
-    "section_key":"20262TMGT5995KD01",
-    "type":"INTERNSHIP"
+    "scheduled_days":"T",
+    "section_key":"20262TMGT5125KD01",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"TMGT PS5400",
+    "course_title":"Technology as a System",
+    "course_descr":"Technology\u2019s complexity becomes intricately detailed and beautiful when viewed as a system \u2014its components, though diverse, work in symbiosis underpinned by shared communication protocols and governance structures. This system enables machines to operate with increasingly minimal human intervention.\u00a0\n  \nThis survey course offers a broad and holistic exploration of technology as an integrated system, emphasizing the seamless integration that characterizes modern technological frameworks. Students will delve into the core components that constitute digital environments\u2014such as the Internet, networks, hardware, and software\u2014and understand how these elements collectively drive and shape today\u2019s IT infrastructure.",
+    "instructor":"Christy Fernandez-Cull",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"10872",
+    "campus":null,
+    "class_id":"K5400-20262-D01",
+    "course_subtitle":null,
+    "department":"Technology Management",
+    "department_code":"TMGT",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/TMGT\/K5400-20262-D01\/",
+    "location":"To be announced",
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20262TMGT5400KD01",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"TMGT PS5470",
+    "course_title":"Blockchain, Crypto, and Web 3.0",
+    "course_descr":"In this course, students will comprehend the fundamental principles of these new technologies and how to strategically apply them to drive innovation, create efficiencies, and generate new opportunities in a rapidly evolving digital landscape. It offers students the opportunity to understand the factors fueling the adoption of these technologies including the exponential growth of data, the decline in trust post-financial crisis, the desire for data ownership, growing regulatory transparency requirements, the need for greater efficiencies, and the required protection of sensitive data. The evolution goes beyond the implementation of new processes, decentralized business models and technologies. The convergence of new technologies and interdisciplinary innovation drive the requirement for changes in regulatory processes, governance, and ethics.\u00a0\n \n This course is designed for graduate students who aspire to lead in the era of digital transformation. It is ideal for those who seek to understand the strategic applications of blockchain, AI, and Web 3.0 technologies to drive innovation within their organizations. Whether planning to advance in a career in technology management or a professional in data and knowledge-driven industries, this course will enable the acquisition of knowledge and skills necessary to navigate and leverage the opportunities presented by the Fourth Industrial Revolution.",
+    "instructor":"Tejwansh Anand",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"10875",
+    "campus":null,
+    "class_id":"K5470-20262-D01",
+    "course_subtitle":"Blockchain, Crypto, & Web",
+    "department":"Technology Management",
+    "department_code":"TMGT",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/TMGT\/K5470-20262-D01\/",
+    "location":"To be announced",
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20262TMGT5470KD01",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"TMGT PS6402",
+    "course_title":"Technology Management Capstone",
+    "course_descr":"The TMGT Capstone serves as the culmination of the M.S. in Technology Management program journey. In this course, students will apply the learnings from the entire program to solve a real-world challenge that an organization is facing with a technology solution.",
+    "instructor":"Katja Schroeder",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"10003",
+    "campus":null,
+    "class_id":"K6402-20262-D01",
+    "course_subtitle":"Technology Management Cap",
+    "department":"Technology Management",
+    "department_code":"TMGT",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/TMGT\/K6402-20262-D01\/",
+    "location":"To be announced",
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20262TMGT6402KD01",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"TMGT PS6402",
+    "course_title":"Technology Management Capstone",
+    "course_descr":"The TMGT Capstone serves as the culmination of the M.S. in Technology Management program journey. In this course, students will apply the learnings from the entire program to solve a real-world challenge that an organization is facing with a technology solution.",
+    "instructor":"Shahryar Shaghaghi",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"10868",
+    "campus":null,
+    "class_id":"K6402-20262-001",
+    "course_subtitle":"Technology Management Cap",
+    "department":"Technology Management",
+    "department_code":"TMGT",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/TMGT\/K6402-20262-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20262TMGT6402K001",
+    "type":"LECTURE"
   },
   {
     "course_code":"TRAD PS0218",
