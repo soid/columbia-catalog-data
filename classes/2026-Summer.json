@@ -733,6 +733,330 @@
     "type":"SEMINAR"
   },
   {
+    "course_code":"APAN PS5160",
+    "course_title":"DATA MODELING",
+    "course_descr":null,
+    "instructor":"Steven Hoberman",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"10974",
+    "campus":null,
+    "class_id":"K5160-20262-D01",
+    "course_subtitle":"DATA MODELING ONLINE",
+    "department":"Applied Analytics",
+    "department_code":"APAN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/APAN\/K5160-20262-D01\/",
+    "location":"To be announced",
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20262APAN5160KD01",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"APAN PS5310",
+    "course_title":"SQL",
+    "course_descr":null,
+    "instructor":"Michael J Coakley",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"10975",
+    "campus":null,
+    "class_id":"K5310-20262-002",
+    "course_subtitle":"SQL & RELATIONAL DB",
+    "department":"Applied Analytics",
+    "department_code":"APAN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/APAN\/K5310-20262-002\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20262APAN5310K002",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"APAN PS5310",
+    "course_title":"SQL",
+    "course_descr":null,
+    "instructor":"Nikolaos Machairas",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"12:00pm",
+    "call_number":"10976",
+    "campus":null,
+    "class_id":"K5310-20262-D01",
+    "course_subtitle":"SQL & RELATIONAL DB ONLINE",
+    "department":"Applied Analytics",
+    "department_code":"APAN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/APAN\/K5310-20262-D01\/",
+    "location":"To be announced",
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"F",
+    "section_key":"20262APAN5310KD01",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"APAN PS5400",
+    "course_title":"FUNDAMENTALS OF DATA ENGINEERING",
+    "course_descr":"FUNDAMENTALS OF DATA ENGINEERING",
+    "instructor":"Amreeta Choudhury",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"10977",
+    "campus":null,
+    "class_id":"K5400-20262-D01",
+    "course_subtitle":"MANAGING DATA ONLINE",
+    "department":"Applied Analytics",
+    "department_code":"APAN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/APAN\/K5400-20262-D01\/",
+    "location":"To be announced",
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20262APAN5400KD01",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"APAN PS5420",
+    "course_title":"ANOMALY DETECTION",
+    "course_descr":null,
+    "instructor":"Christopher Kuo",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"10978",
+    "campus":null,
+    "class_id":"K5420-20262-001",
+    "course_subtitle":null,
+    "department":"Applied Analytics",
+    "department_code":"APAN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/APAN\/K5420-20262-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20262APAN5420K001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"APAN PS5430",
+    "course_title":"APPLIED TEXT AND NATURAL LANGUAGE ANALYT",
+    "course_descr":null,
+    "instructor":"Yufeng Huang",
+    "scheduled_time_start":"12:10pm",
+    "scheduled_time_end":"2:00pm",
+    "call_number":"10979",
+    "campus":null,
+    "class_id":"K5430-20262-D01",
+    "course_subtitle":"APPLD TXT & NAT LANG AN ONLINE",
+    "department":"Applied Analytics",
+    "department_code":"APAN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/APAN\/K5430-20262-D01\/",
+    "location":"To be announced",
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"F",
+    "section_key":"20262APAN5430KD01",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"APAN PS5450",
+    "course_title":"CLOUD COMPUTING",
+    "course_descr":"Data analytics have become an essential component of business intelligence and informed decision making. Sophisticated statistical and algorithmic methodologies, generally known as data science, are now of predominant interest and focus. Yet, the underlying cloud computing platform is fundamental to the enablement of data management and analytics.\n \n This course introduces students to cloud computing concepts and practices ranging from infrastructure and administration to services and applications. The course is primarily focused on the development of practical skills in utilizing cloud services to build distributed and scalable analytics applications. Students will have hands-on exposure to VMs (Virtual Machines), databases, storage, microservices, and AI\/ML (Artificial Intelligence and Machine Learning) services through Google Cloud Platform, et al.\u00a0 Cost and performance characteristics of alternative approaches will also be studied. Topics include: overview of cloud computing, cloud systems, parallel processing in the cloud, distributed storage systems, virtualization, security in the cloud, and multicore operating systems. Throughout, students will study state-of-the-art solutions for cloud computing developed by Google, Amazon, Microsoft, and IBM.\n \n The course modules provide a blend of lecture and reading materials along with class exercises and programming assignments. While extensive programming experience is not required, students taking the course are expected to possess basic Python 3 programming skills.\n \n The desired outcome of the course is the student\u2019s ability to put conceptual knowledge to practical use. Whether you are taking this course for future academic research, for work in industry, or for an innovative startup idea, this course should help you master the fundamentals of cloud computing.",
+    "instructor":"Mohamed Mneimneh",
+    "scheduled_time_start":"8:10pm",
+    "scheduled_time_end":"10:00pm",
+    "call_number":"10980",
+    "campus":null,
+    "class_id":"K5450-20262-D01",
+    "course_subtitle":null,
+    "department":"Applied Analytics",
+    "department_code":"APAN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/APAN\/K5450-20262-D01\/",
+    "location":"To be announced",
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20262APAN5450KD01",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"APAN PS5480",
+    "course_title":"MARKET RESEARCH",
+    "course_descr":"Market research is the way that companies identify, understand and develop the target market for their products.\u00a0 It is an important component of business strategy, and it draws on the research and analytics skills you have learned thus far in the program. Often market research consists of generating your own data, through quantitative and qualitative methodologies, in pursuit of the market research question.\n  \nThis course is an elective that will expand on quantitative and qualitative methodologies that have been introduced previously, provide an introduction to other methodologies that are more specific to market research, and provide hands-on practice in defining a market research plan from start to finish. Students will also learn about particular types of market research studies and when and how they should be deployed. Students will generate and test their own research instruments. Through the use of case studies and simulations, students will learn how market research fits into an overarching marketing plan for a company.\n  \nThis course is designed for students who have completed the Research Design and Strategy and Analytics core courses, and who are exploring how research fits into product marketing. You will leave this class understanding the essential aspects of market research, when and how they should be deployed, and the role you could play in small and large companies directing and executing on market research opportunities.",
+    "instructor":"Diahanna L Post",
+    "scheduled_time_start":"8:10pm",
+    "scheduled_time_end":"10:00pm",
+    "call_number":"10982",
+    "campus":null,
+    "class_id":"K5480-20262-D01",
+    "course_subtitle":null,
+    "department":"Applied Analytics",
+    "department_code":"APAN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/APAN\/K5480-20262-D01\/",
+    "location":"To be announced",
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20262APAN5480KD01",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"APAN PS5490",
+    "course_title":"AI USER INTERFACES FOR ANALYTICS",
+    "course_descr":"In recent years, data analytics and artificial intelligence (AI) have become essential to business intelligence and informed decision making. But to realize the impact of analytics and AI, effective visual communication of data insights via user interfaces (UI), such as web pages and app dashboards, is equally critical. Building effective UIs requires mastering the user experience (UX) design principles and certain front-end development technologies. Furthermore, the recent rise of multimodal Generative AI offers unprecedented opportunities for simplifying, automating, and scaling UX\/UI development.\n \n This course provides a comprehensive understanding of UX design principles and best practices for developing UIs while emphasizing ethical considerations and inclusivity. Students will learn to create intuitive and visually engaging websites and dashboards that leverage AI-generated insights, also considering data privacy, diversity, and accessibility. Key topics include the design, implementation, and evaluation of UIs, with hands-on experience in web development technologies like HTML, CSS, and JavaScript, as well as related cloud services. Students will apply state-of-the-art AI technologies to create intelligent and interactive UIs, all while critically assessing data sources and AI models for potential biases.\n \n The course content comprises a blend of conceptual learning and practice assignments. Weekly lectures and reading materials will cover the fundamentals of data visualization and user experience designs. Students will put the gained knowledge into practice through individual design and coding assignments and a group term project.",
+    "instructor":"Javid B Huseynov",
+    "scheduled_time_start":"8:10pm",
+    "scheduled_time_end":"10:00pm",
+    "call_number":"10983",
+    "campus":null,
+    "class_id":"K5490-20262-D01",
+    "course_subtitle":"AI UI FOR ANALYTICS",
+    "department":"Applied Analytics",
+    "department_code":"APAN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/APAN\/K5490-20262-D01\/",
+    "location":"To be announced",
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20262APAN5490KD01",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"APAN PS5520",
+    "course_title":"MATHEMATICS FOR AI",
+    "course_descr":"This course equips students with essential mathematical foundations for understanding and working with artificial intelligence (AI) algorithms. After a brief introduction to the historical and social context that numbers arise in, students will learn about:\n - Linear Algebra: Matrices, matrix-vector multiplication, linear models, change of basis, dimensionality, spectral decomposition, and principal component analysis (PCA).\n - Calculus: Rates of change, derivatives, optimization techniques like gradient descent, with a brief touch upon linear approximation.\n - Probability and Statistics: Mathematically deriving complex probability distributions out of simpler ones, mathematically deriving statistical testing methods\n - Graph Theory: How graphs are used to find relationships between data as well as being a setting for AI-driven problem solving.\n - Problem Solving and Algorithms: Applying mathematical concepts to find problem solutions.\n Students will learn about search methods like uninformed search, informed search with the A* algorithm, and greedy algorithms.\n - Computational Theory and Automata: Answering questions about what is computable, what is needed in order to compute something, and using this framework to state how much \u201cinformation\u201d is contained in a mathematical object.\n By the end of this course, students will possess a strong mathematical toolkit to confidently tackle the complexities of modern AI algorithms.",
+    "instructor":"Robert Simione",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"10984",
+    "campus":null,
+    "class_id":"K5520-20262-D01",
+    "course_subtitle":null,
+    "department":"Applied Analytics",
+    "department_code":"APAN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/APAN\/K5520-20262-D01\/",
+    "location":"To be announced",
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20262APAN5520KD01",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"APAN PS5530",
+    "course_title":"ANALYTICS FOR BUSINESS OPERATIONS MANAGE",
+    "course_descr":"Operations Management (OM) is responsible for the efficient production and delivery of goods and services, serving as a cornerstone of successful organizations. This course emphasizes how analytical techniques, such as forecasting, queuing theory, and linear programming, provide critical tools for optimizing operational decision-making, improving efficiency, and addressing real-world challenges in operations management. In this course, you will gain essential skills to optimize processes, manage resources, and enhance productivity across various industries. The course will be delivered through a combination of interactive lectures, case studies, and hands-on coding exercises to ensure a balance between conceptual learning and practical application.\n  \nThrough lectures, you will gain a solid foundation in OM principles and analytical techniques. Case studies will help illustrate real-world applications of OM in industries such as manufacturing, healthcare, retail, and logistics, allowing you to see how the concepts are applied in diverse contexts. This course will integrate the principles of OM with hands-on analytical techniques using Python, allowing you to model and solve real-world OM problems. You will learn to run simulations, perform optimizations, and analyze data to make data-driven decisions that enhance efficiency and overall performance.\n  \nOM practices are tailored to meet the specific needs of various sectors. In manufacturing, OM helps streamline production lines and minimize waste; in healthcare, it enhances patient flow and optimizes resource allocation; in retail, it improves inventory management and supply chain operations; and in logistics, it ensures timely deliveries while reducing transportation costs. This course will equip you with the skills to apply OM practices effectively in different industries.\n  \nAnalytics for Business Operations Management is an elective that is intended for students who are interested in pursuing a career using analytics and operational insights to drive organizational success in a competitive global marketplace across various industries.",
+    "instructor":"Andy W Chen",
+    "scheduled_time_start":"8:10pm",
+    "scheduled_time_end":"10:00pm",
+    "call_number":"10985",
+    "campus":null,
+    "class_id":"K5530-20262-D01",
+    "course_subtitle":"ANALYTICS FOR BUSINESS OP",
+    "department":"Applied Analytics",
+    "department_code":"APAN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/APAN\/K5530-20262-D01\/",
+    "location":"To be announced",
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20262APAN5530KD01",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"APAN PS5540",
+    "course_title":"FINANCIAL SEC ANALYSIS AND PORTFOLIO MGT",
+    "course_descr":"Financial securities analysis and portfolio management is the study of analyzing information to evaluate financial securities and design investment strategies. Studying the subject can provide a foundation for students entering the fields of investment analysis or portfolio management. This course provides an intensive introduction to major topics in investments. Part I of the course lays the theoretical foundation by introducing the Portfolio Theory and Equilibrium Asset Pricing models. Part II covers the valuation models and analysis of major asset classes: equity, fixed-income, and derivatives. Topics include bond valuation and interest rate models, equity valuation and financial statement analysis, options valuation, other derivatives, and risk management. Part III of the course focuses on the practice of active portfolio management.",
+    "instructor":"Lei Yu",
+    "scheduled_time_start":"8:10pm",
+    "scheduled_time_end":"10:00pm",
+    "call_number":"10986",
+    "campus":null,
+    "class_id":"K5540-20262-D01",
+    "course_subtitle":"FIN SEC ANALYSIS AND PORT",
+    "department":"Applied Analytics",
+    "department_code":"APAN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/APAN\/K5540-20262-D01\/",
+    "location":"To be announced",
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20262APAN5540KD01",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"APAN PS5556",
     "course_title":"Internship in APAN",
     "course_descr":"Internship with Industry (1.5 credits, asynchronous online, elective) supports graduate students as they complete a supervised internship aligned with their academic program and career goals. Through targeted readings, short video lectures, structured reflection, and peer interaction, students connect internship experiences to career frameworks and workplace competencies. Course modules emphasize goal setting (SMART goals), self-awareness and communication (DiSC), career design and prototyping (Designing Your Life; Life Grid and Energy Mapping), persistence and performance (GRIT), and navigating change (VUCA, including reflection on emerging technologies such as AI). Students produce artifacts that document progress, analyze workplace context, and translate learning into career direction through a final synthesis reflection.\n \n The course requires a minimum of 105 internship hours and completion of a supervisor evaluation through the Experiential Learning Module.",
@@ -758,6 +1082,114 @@
     "scheduled_days":null,
     "section_key":"20262APAN5556KD01",
     "type":"INTERNSHIP"
+  },
+  {
+    "course_code":"APAN PS5560",
+    "course_title":"APPLIED GENERATIVE AI",
+    "course_descr":"This course offers a comprehensive introduction to a branch of machine learning called generative modeling, focusing on the underlying concepts, theoretical techniques, and practical applications. The defining property of Generative AI models is their ability to generate new data similar to a given dataset. In recent years, Generative AI has seen rapid advancement, revolutionizing various industries by enabling machines to create realistic and novel content, ranging from images, videos, and music to text and complex simulations.\n  \nStudents will learn to use, fine-tune, and programmatically interface with high-level APIs and open-source foundational models, allowing them to leverage state-of-the-art tools in Generative AI. Additionally, the course delves into the theory and practice of low-level implementations, empowering students to train their own models on their own data and understand these models from first principles. The course covers various types of generative models, including Variational Autoencoders (VAEs), Generative Adversarial Networks (GANs), and Transformers with their applications to text, image, audio, and video generation.\n  \nBy combining these approaches, this course provides a robust foundation in both the practical application and deep theoretical knowledge required to develop innovative AI solutions.",
+    "instructor":"Gurgen Hayrapetyan",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"10988",
+    "campus":null,
+    "class_id":"K5560-20262-D01",
+    "course_subtitle":null,
+    "department":"Applied Analytics",
+    "department_code":"APAN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/APAN\/K5560-20262-D01\/",
+    "location":"To be announced",
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20262APAN5560KD01",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"APAN PS5570",
+    "course_title":"ARTIFICIAL INTELLIGENCE OF THINGS",
+    "course_descr":"Over the past decade, the Internet of Things (IoT) has transformed industries by enabling real-time data collection, analysis, and automated control through interconnected devices. Advancements in networking, cloud computing, and robotics have expedited IoT adoption, impacting a wide range of fields from home safety and industrial automation to healthcare and autonomous driving. Additionally, the rise of artificial intelligence (AI) led to the emergence of the Artificial Intelligence of Things (AIoT), which combines IoT connectivity with AI-driven decision-making to enhance smart systems.\n \n This course provides a comprehensive understanding of IoT technologies and their integration with AI and robotic systems. Students will explore IoT architecture, key components, and communication protocols while gaining hands-on experience with IoT platforms, sensors, and data acquisition devices. The curriculum emphasizes practical AIoT applications for real-time decision-making in manufacturing, public safety, smart cities, healthcare, etc., and addresses the ethical considerations of these technologies.",
+    "instructor":"Javid B Huseynov",
+    "scheduled_time_start":"8:10pm",
+    "scheduled_time_end":"10:00pm",
+    "call_number":"10989",
+    "campus":null,
+    "class_id":"K5570-20262-D01",
+    "course_subtitle":"AI OF THINGS",
+    "department":"Applied Analytics",
+    "department_code":"APAN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/APAN\/K5570-20262-D01\/",
+    "location":"To be announced",
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20262APAN5570KD01",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"APAN PS5580",
+    "course_title":"ANALYTICS FOR CYBERSECURITY MANAGEMENT",
+    "course_descr":"This course is designed to immerse students in the intersection of cybersecurity and data analytics. The course explores how modern data-driven approaches are revolutionizing the way organizations detect and manage cyber threats. Students will engage deeply with core cybersecurity concepts, such as network security, vulnerability management, and threat intelligence, while also learning to leverage cutting-edge data analytics and artificial intelligence to solve real-world security problems. Through hands-on exercises, coding assignments, and case studies, students will gain practical skills in analyzing logs and telemetries, building detection systems, and applying machine learning to security operations.",
+    "instructor":"Muhammed Bulut",
+    "scheduled_time_start":"8:10pm",
+    "scheduled_time_end":"10:00pm",
+    "call_number":"10990",
+    "campus":null,
+    "class_id":"K5580-20262-D01",
+    "course_subtitle":"ANALYTICS FR CYBERSECURIT",
+    "department":"Applied Analytics",
+    "department_code":"APAN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/APAN\/K5580-20262-D01\/",
+    "location":"To be announced",
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20262APAN5580KD01",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"APAN PS5700",
+    "course_title":"ANALYTICS & LEADING CHANGE",
+    "course_descr":null,
+    "instructor":"Zachary Kornhauser",
+    "scheduled_time_start":"8:10pm",
+    "scheduled_time_end":"10:00pm",
+    "call_number":"10992",
+    "campus":null,
+    "class_id":"K5700-20262-D01",
+    "course_subtitle":"ANALYTICS & LEADNG CHNG ONLINE",
+    "department":"Applied Analytics",
+    "department_code":"APAN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/APAN\/K5700-20262-D01\/",
+    "location":"To be announced",
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20262APAN5700KD01",
+    "type":"LECTURE"
   },
   {
     "course_code":"APAN PS5995",
@@ -1399,33 +1831,6 @@
     "scheduled_days":"TR",
     "section_key":"20262BIET5520KD01",
     "type":"LECTURE"
-  },
-  {
-    "course_code":"BIET PS5556",
-    "course_title":"Internship in BIET",
-    "course_descr":"Internship with Industry (1.5 credits, asynchronous online, elective) supports graduate students as they complete a supervised internship aligned with their academic program and career goals. Through targeted readings, short video lectures, structured reflection, and peer interaction, students connect internship experiences to career frameworks and workplace competencies. Course modules emphasize goal setting (SMART goals), self-awareness and communication (DiSC), career design and prototyping (Designing Your Life; Life Grid and Energy Mapping), persistence and performance (GRIT), and navigating change (VUCA, including reflection on emerging technologies such as AI). Students produce artifacts that document progress, analyze workplace context, and translate learning into career direction through a final synthesis reflection.\n \n The course requires a minimum of 105 internship hours and completion of a supervisor evaluation through the Experiential Learning Module.",
-    "instructor":"Mariela Torres",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
-    "call_number":"10702",
-    "campus":null,
-    "class_id":"K5556-20262-D01",
-    "course_subtitle":null,
-    "department":"Bioethics",
-    "department_code":"BIET",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/BIET\/K5556-20262-D01\/",
-    "location":null,
-    "method_of_instruction":"On-Line Only",
-    "open_to":[
-      "Professional Studies"
-    ],
-    "points":"1.5",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":null,
-    "section_key":"20262BIET5556KD01",
-    "type":"INTERNSHIP"
   },
   {
     "course_code":"BIET PS5991",
@@ -4149,6 +4554,31 @@
     "type":"SEMINAR"
   },
   {
+    "course_code":"CLMT G5042",
+    "course_title":"Financial Analysis of Climate Risk: An I",
+    "course_descr":"The signing of the Paris Treaty in 2015 signaled a recognition by nearly all the world\u2019s governments of the need to reduce greenhouse gas emissions to avoid the worst effects of climate change. Meanwhile, the changing climate is already having negative impacts on business assets and operations around the world. Despite evidence that climate change poses a threat to business as usual for many companies, the financial sector has yet to form a consistent view on how to value risks and opportunities associated with climate change. There are multiple reasons for this. Climate-related disclosures vary widely from company to company, as do the ways that climate risks affect different sectors and geographies. The policy landscape is varied and fast changing. Unfortunately, many financial analysts lack the technical knowledge to assess corporate disclosures and actions pertaining to climate.\n  \nThis 6-week course provides a practical overview of how analysts in the financial sector can assess corporate climate risk and opportunity among publicly traded corporates, using public data. The class will begin with the concept of how business leaders and financial analysts understand climate risk \u2013 alongside other concepts such as decarbonization, transition planning and climate impacts from a policy perspective.\u00a0\n  \nWe will then move to focus on industry-specific analysis in four sectors \u2013 1) oil and gas, 2) consumer staples, 3) mining, and 4) financial services. In each, we will survey the tools that investors have to assess climate risk and opportunity, taking into account policy, voluntary frameworks, and technology. For each of these elements, we will review both how these tools can assist with climate risk analysis as well as their limitations and inconsistencies. We will consider ways the analyst can work with relevant data and reconcile public corporate claims with evidence through corporate disclosures.",
+    "instructor":"Andrew Howell",
+    "scheduled_time_start":"11:00am",
+    "scheduled_time_end":"2:30pm",
+    "call_number":"10957",
+    "campus":null,
+    "class_id":"G5042-20262-001",
+    "course_subtitle":"Fin. Analysis of Climate",
+    "department":"Climate School",
+    "department_code":"CLMT",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CLMT\/G5042-20262-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"1.5",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"F",
+    "section_key":"20262CLMT5042G001",
+    "type":"SEMINAR"
+  },
+  {
     "course_code":"CLMT G9010",
     "course_title":"M.S. Climate Finance Summer Internship",
     "course_descr":"Prerequisites: enrollment in the M.S. in Climate Finance program. During the third and final term of study for the 12-month\u00a0M.S. in Climate Finance program,\u00a0students must complete an internship and simultaneously enroll in CLMT 9010. The summer internship requires a minimum of 140 hours of professional participation during the Summer Term in a position related to core issues of concern to the Program. The selected position must be approved by the Director of the M.S.C.F. Program by a specified date in the Spring Semester preceding the Summer Term. The position must be substantive in nature and must constitute a practical, professional experience. Students will be evaluated on the basis of oral and written updates on the work, a student internship report to be submitted at the end of the Summer Term, and on the basis of a supervisor report form to be submitted by the site supervisor for the internship.",
@@ -4221,6 +4651,60 @@
     ],
     "scheduled_days":"MW",
     "section_key":"20262CLSL4013W001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"CNAD PS5100",
+    "course_title":"ESTIMATING PROJECT COSTS",
+    "course_descr":null,
+    "instructor":"Kurt C Decker",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"11019",
+    "campus":null,
+    "class_id":"K5100-20262-001",
+    "course_subtitle":null,
+    "department":"Construction Administration",
+    "department_code":"CNAD",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CNAD\/K5100-20262-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20262CNAD5100K001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"CNAD PS5134",
+    "course_title":"INTRO TO BUILDING SYSTEMS: MEPs",
+    "course_descr":"TBD",
+    "instructor":"Christopher P Hagen",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"11018",
+    "campus":null,
+    "class_id":"K5134-20262-001",
+    "course_subtitle":"INTRO TO BLDG SYSTEMS: MEPs",
+    "department":"Construction Administration",
+    "department_code":"CNAD",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CNAD\/K5134-20262-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20262CNAD5134K001",
     "type":"LECTURE"
   },
   {
@@ -9434,7 +9918,7 @@
     "course_code":"ERMC PS5535",
     "course_title":"MANAGING STAKEHOLDER RISK IN THE ORGANIZ",
     "course_descr":"In this course, students study major concepts of management and organization theory to understand human behavior in an organizational context, and then learn how to apply this to better manage interactions with key ERM stakeholders. Students will learn how to accomplish key ERM activities effectively while preserving and enhancing key internal relationships.\n \n The course provides a deep dive into how enterprise risk functions operate within organizations, blending theoretical frameworks with practical, real-world applications. Topics include individual and organizational psychology, risk culture, organizational structure and governance, and the dynamics of managing risk in complex institutions. Through case studies and class discussions, students explore the behavioral and structural dimensions that shape ERM practices.\n \n \nThis elective is open only to students within the ERM program.\u00a0This course (MSRO) is analogous to Managing Human Behavior in the Organization (MHBO), but customized for an ERM role. As a result, ERM students may not register for MHBO and those that have already taken MHBO may not register for MSRO.",
-    "instructor":null,
+    "instructor":"Ann Breslawski",
     "scheduled_time_start":"8:10pm",
     "scheduled_time_end":"10:00pm",
     "call_number":"10740",
@@ -10936,8 +11420,8 @@
     "course_title":"FINANCE FOR EFFECTIVE HCM",
     "course_descr":null,
     "instructor":"Silvana Nuzzo",
-    "scheduled_time_start":"6:30pm",
-    "scheduled_time_end":"8:00pm",
+    "scheduled_time_start":"8:30pm",
+    "scheduled_time_end":"10:00pm",
     "call_number":"10870",
     "campus":null,
     "class_id":"K5200-20262-D01",
@@ -11069,6 +11553,87 @@
     ],
     "scheduled_days":"W",
     "section_key":"20262HCM_5290KD01",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"HCM_ PS5300",
+    "course_title":"CAPSTONE SEMINAR",
+    "course_descr":null,
+    "instructor":"Sam Liu",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"10953",
+    "campus":null,
+    "class_id":"K5300-20262-002",
+    "course_subtitle":null,
+    "department":"Human Capital Management",
+    "department_code":"HCM_",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HCM_\/K5300-20262-002\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20262HCM_5300K002",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"HCM_ PS5300",
+    "course_title":"CAPSTONE SEMINAR",
+    "course_descr":null,
+    "instructor":"Edna B Chun",
+    "scheduled_time_start":"8:30pm",
+    "scheduled_time_end":"10:00pm",
+    "call_number":"10954",
+    "campus":null,
+    "class_id":"K5300-20262-D01",
+    "course_subtitle":null,
+    "department":"Human Capital Management",
+    "department_code":"HCM_",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HCM_\/K5300-20262-D01\/",
+    "location":"To be announced",
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20262HCM_5300KD01",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"HCM_ PS5310",
+    "course_title":"STRATEGIC WORKFORCE PLANNING",
+    "course_descr":null,
+    "instructor":"Mark S Baker",
+    "scheduled_time_start":"8:30pm",
+    "scheduled_time_end":"10:00pm",
+    "call_number":"10955",
+    "campus":null,
+    "class_id":"K5310-20262-D01",
+    "course_subtitle":"STRATEGIC WORKFORCE PLANN",
+    "department":"Human Capital Management",
+    "department_code":"HCM_",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HCM_\/K5310-20262-D01\/",
+    "location":"To be announced",
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20262HCM_5310KD01",
     "type":"LECTURE"
   },
   {
@@ -16624,6 +17189,328 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"NECR PS5050",
+    "course_title":"STRATEGIC NEGOTIATION IN COMPLEX SYSTEMS",
+    "course_descr":"Negotiation today requires navigating complexity, interpreting incomplete data, managing uncertainty, and fostering trust in environments where clarity is scarce and stakes are high. Practitioners must address information gaps and asymmetry, regulatory pressures, and power dynamics while aligning diverse interests and shaping agreements that endure.\n  \nThis course prepares students with skills to negotiate effectively across healthcare, technology, and business\u2014domains where outcomes hinge on data limitations, contractual nuance, and shifting stakeholder priorities. Trust and credibility are emphasized as essential currencies, especially when agreements depend on long-term relationships, compliance, and cross-functional collaboration.\n  \nGuest speakers from multiple industries will share practical insights into negotiating across roles and power structures. Their perspectives will underscore the value of preparation, trust-building, and adaptive strategies for navigating uncertainty in dynamic environments.\n  \nStudents will:\n  \n  \nBuild and apply negotiation frameworks in complex, multiparty environments.\n  \nLearn how to extract meaning from structured (quantitative) and unstructured (qualitative) data.\n  \nDevelop data-informed narratives to guide decision-making and stakeholder alignment.\n  \nPractice identifying cognitive bias, ethical tension, and strategic leverage points.\n  \nEngage in simulations and case studies grounded in real-world contracting and influence challenges.\n \n  \nNote for NECR Students\n: As an elective offered by the Negotiation and Conflict Resolution (NECR) program, this course builds on students\u2019 conflict negotiation skills (PS5105) and their application in healthcare. Students will further engage with concepts on the influences and cultural understandings of conflict parties, and conflict analysis (PS5124 and 6050). The aforementioned courses will contribute to the understanding of this course\u2019s content and should, in general, be taken before this elective.",
+    "instructor":"Rodney K Jr. Erb",
+    "scheduled_time_start":"6:00pm",
+    "scheduled_time_end":"9:00pm",
+    "call_number":"10002",
+    "campus":null,
+    "class_id":"K5050-20262-D01",
+    "course_subtitle":"STRAT NEG IN COMPLEX SYST",
+    "department":"Negotiation & Conflict Resolution",
+    "department_code":"NECR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NECR\/K5050-20262-D01\/",
+    "location":"To be announced",
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Architecture",
+      "Business",
+      "Dental Medicine:Post-Grad",
+      "Engineering:Graduate",
+      "GSAS",
+      "Journalism",
+      "Law",
+      "Medicine",
+      "Professional Studies",
+      "Public Health",
+      "SIPA",
+      "Schools of the Arts",
+      "Social Work"
+    ],
+    "points":"3",
+    "prerequisites":[
+      [
+        "PS5105"
+      ],
+      [
+        "PS5124"
+      ]
+    ],
+    "scheduled_days":"R",
+    "section_key":"20262NECR5050KD01",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"NECR PS5105",
+    "course_title":"INTRODUCTION TO NEGOTIATION",
+    "course_descr":null,
+    "instructor":"Bodi Regan",
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"5:00pm",
+    "call_number":"11008",
+    "campus":null,
+    "class_id":"K5105-20262-001",
+    "course_subtitle":"INTRODUCTION TO NEGOTIATI",
+    "department":"Negotiation & Conflict Resolution",
+    "department_code":"NECR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NECR\/K5105-20262-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TWRF",
+    "section_key":"20262NECR5105K001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"NECR PS5107",
+    "course_title":"Organizational Conflict and Mediation",
+    "course_descr":"Organizations have adopted formal approaches, such as establishing grievance committees and ombudsman's offices, to mediate conflicts in the workplace setting and, on occasion, hire outside, independent mediators to handle escalated conflicts and public-facing disputes. Attempts to mediate conflict, though, are much more widespread in organizations than these formal approaches would suggest and are often undertaken by professionals from a wide variety of disciplines who have no formal training in mediation. Increasingly, such professionals are tasked to manage conflicts \u2014 whether their field is finance, marketing, social media or human resources \u2014 and are evaluated in performance reviews on their ability to perform this task. Professionals today must be prepared to acquire the knowledge and skills of a mediator to meet the expectations of the organization.\u00a0\n  \nWith that end in mind, this course is designed for professionals who find themselves frequently having to intervene in conflicts between or among others. Although these professionals may choose to become full-time mediators, they are more likely to use mediation principles and techniques as additional tools to help them within their chosen fields of work, be it in public policy, social media, human resources, international development, peace-building or law. This course will aid professionals who wish to become skilled conflict practitioners, constructively managing conflict between or among people or groups with whom they engage.\n  \nThis course is an elective in the NECR Program. It is open, space permitting, to cross-registrants from other fields and Columbia University schools and programs. There is no prerequisite knowledge or coursework to register for the course; however, if you have not taken a course in negotiation or studied that field, please contact the instructor. The course is delivered in-person on campus; participation by Zoom is not permitted. The course is semi-intensive and delivered over a partial semester.",
+    "instructor":"Michele Riley",
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"5:00pm",
+    "call_number":"11009",
+    "campus":null,
+    "class_id":"K5107-20262-001",
+    "course_subtitle":"Org. Conflict & Meditatio",
+    "department":"Negotiation & Conflict Resolution",
+    "department_code":"NECR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NECR\/K5107-20262-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture",
+      "Business",
+      "Engineering:Graduate",
+      "GSAS",
+      "Journalism",
+      "Law",
+      "Professional Studies",
+      "Public Health",
+      "SIPA",
+      "Schools of the Arts",
+      "Social Work"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"FSU",
+    "section_key":"20262NECR5107K001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"NECR PS5202",
+    "course_title":"APPLIED CONFLICT RESOLUTION: FROM THEORY",
+    "course_descr":"This course explores the intersection of theory and practice in conflict resolution, giving students the opportunity to apply theories, models, and frameworks to real world scenarios. Students will analyze case studies, review current events, and bring to bear their own experiences in international, organizational, community and interpersonal conflicts in an interactive setting as they continue to develop and hone their critical thinking and conflict analysis skills.\u00a0\n  \nDrawing from the disciplines of social and clinical psychology, political and organizational sciences, and international relations, conflict resolution practitioners have at their disposal a wealth of research that can inform their analysis of a situation and how to assist parties to mitigate, de-escalate and prevent conflict.\n  \nParticipants in this class engage with the course readings, instructors, and each other to critically analyze and deconstruct complex conflicts in a variety of contexts. A focus on the actors, issues, structures, strategies, and processes inherent in a conflict will be used to identify opportunities to change conflict dynamics. Applying conflict resolution constructs and frameworks such as interdependence, intergroup conflict, social identity, bias, peacebuilding, power dynamics, culture, and negotiation frameworks, are among the key learnings integrated into the course.\n  \nThe competencies advanced in this class are intended to be applicable beyond the program into other areas of life. Students will be empowered to reflect critically on texts, select relevant data, understand the applicability of a theory, and offer results-based recommendations in contexts ranging from global to personal.",
+    "instructor":"Christine D Straw",
+    "scheduled_time_start":"6:00pm",
+    "scheduled_time_end":"9:00pm",
+    "call_number":"11010",
+    "campus":null,
+    "class_id":"K5202-20262-D01",
+    "course_subtitle":"APPLIED CONFLICT RESOLUTI",
+    "department":"Negotiation & Conflict Resolution",
+    "department_code":"NECR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NECR\/K5202-20262-D01\/",
+    "location":"To be announced",
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Architecture",
+      "Business",
+      "Engineering:Graduate",
+      "GSAS",
+      "Journalism",
+      "Law",
+      "Professional Studies",
+      "Public Health",
+      "SIPA",
+      "Schools of the Arts",
+      "Social Work"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20262NECR5202KD01",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"NECR PS5205",
+    "course_title":"ADVANCED NEGOTIATION",
+    "course_descr":null,
+    "instructor":"Beth Fisher-Yoshida",
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"5:00pm",
+    "call_number":"11011",
+    "campus":null,
+    "class_id":"K5205-20262-001",
+    "course_subtitle":null,
+    "department":"Negotiation & Conflict Resolution",
+    "department_code":"NECR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NECR\/K5205-20262-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture",
+      "Business",
+      "Engineering:Graduate",
+      "GSAS",
+      "Journalism",
+      "Law",
+      "Professional Studies",
+      "Public Health",
+      "SIPA",
+      "Schools of the Arts",
+      "Social Work"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MTWR",
+    "section_key":"20262NECR5205K001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"NECR PS5210",
+    "course_title":"CONFLICT RESOLUTION AND DYNAMICAL SYSTEM",
+    "course_descr":"Dynamical Systems Theory (DST) is a methodology developed in the hard sciences to understand complex systems\u2014from the weather to the functioning of cells, using mathematical algorithms. We added the lens of social-psychological concepts and practices to better understand how to apply DST to conflict. We are now applying DST to conflict analysis and resolution for larger social problems and conflicts that are protracted, deeply embedded and have multiple complex issues. This DST approach goes beyond linear problem-solving and embraces complexity in new ways. Dynamical Systems and Conflict Resolution (NECR 5210) is a required 3-credit course in the Negotiation and Conflict Resolution Program (NECR). Students are expected to spend on average 20 hours per week on this course, including media, group work, readings, and other assignments. NECR 5210 builds on concepts from Understanding Conflict and Cooperation (NECR 5101), where students became familiar with conflict resolution frames, theories, and models, as well as a basic understanding of the DST approach. This course will further develop and advance student understanding and use of advanced DST concepts and tools that will be useful for scholar-practitioners facing situations that require a systemic approach for more highly complex conflicts. It is a complementary approach that rounds out the other concepts and skills student learn in the program. Throughout this course students will work individually and in groups on multiple case studies, to understand and apply DST methodology, while developing an appreciation for the more fluid and non-linear DST approach.",
+    "instructor":"Camilo Azcarate",
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"5:00pm",
+    "call_number":"11012",
+    "campus":null,
+    "class_id":"K5210-20262-001",
+    "course_subtitle":"CONF RESOLUTION\/DYNAMIC S",
+    "department":"Negotiation & Conflict Resolution",
+    "department_code":"NECR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NECR\/K5210-20262-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MTW",
+    "section_key":"20262NECR5210K001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"NECR PS5240",
+    "course_title":"PRACTICUM IN PEACEBUILDING",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"5:00pm",
+    "call_number":"11013",
+    "campus":null,
+    "class_id":"K5240-20262-001",
+    "course_subtitle":"PRACTICUM IN PEACEBUILDIN",
+    "department":"Negotiation & Conflict Resolution",
+    "department_code":"NECR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NECR\/K5240-20262-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture",
+      "Business",
+      "Engineering:Graduate",
+      "GSAS",
+      "Journalism",
+      "Law",
+      "Professional Studies",
+      "Public Health",
+      "SIPA",
+      "Schools of the Arts",
+      "Social Work"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"WRFSMTW",
+    "section_key":"20262NECR5240K001",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"NECR PS5260",
+    "course_title":"CLINIC ON CONFLICT AND COLLABORATION IN",
+    "course_descr":null,
+    "instructor":"Katherine Alfredo",
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"5:00pm",
+    "call_number":"11014",
+    "campus":null,
+    "class_id":"K5260-20262-001",
+    "course_subtitle":"NATURAL RESOURCE MANAGEME",
+    "department":"Negotiation & Conflict Resolution",
+    "department_code":"NECR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NECR\/K5260-20262-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture",
+      "Business",
+      "Engineering:Graduate",
+      "GSAS",
+      "Journalism",
+      "Law",
+      "Professional Studies",
+      "Public Health",
+      "SIPA",
+      "Schools of the Arts",
+      "Social Work"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MTWRFSU",
+    "section_key":"20262NECR5260K001",
+    "type":"ONLINE COURS"
+  },
+  {
+    "course_code":"NECR PS5270",
+    "course_title":"Social Justice and Conflict Resolution i",
+    "course_descr":"NECR 5270 is a three-credit summer practicum course designed to expose students to the role of social justice in conflict resolution analysis and practice, using New York City as our laboratory. Each summer, we will focus on a single, challenging question facing NYC at the intersection of conflict resolution and social justice, including how to respond to gang violence, how to address inequality, how to manage immigration and more. Within the chosen topic, we will explore the historical and theoretical intersections between the fields of social justice and conflict resolution, drawing on our conflict analysis and resolution skills to explore concrete policy options and community strategies. The course builds on the historical connection between conflict resolution and social justice, particularly as it emerged during the civil rights movement, where nonviolent resistance and negotiation were used to challenge systemic oppression. It also draws on the foundational work of Morton Deutsch at Columbia University, whose research on cooperation, competition, and social justice highlights how power imbalances can perpetuate conflict. Through critical dialogue, case study analysis, and practitioner-led workshops, students will develop culturally sensitive, sustainable, and community-centered.\n  \nWe will focusing on needs-based strategies for addressing gang violence in New York City, while critically examining the role of bias in our work as conflict resolution scholars and practitioners. Students will analyze the social, economic, and psychological factors that drive individuals toward gang involvement, and learn about gang structures and the role of gang rivalries in driving crime. In addition to classroom learning, students will participate in fieldwork designed to expose them to experts, policymakers, activists, and practitioners working directly on issues related to gang violence in New York City. These immersive experiences will offer opportunities to engage with real-world challenges while critically reflecting on how biases\u2014both personal and systemic\u2014affect the implementation of violence prevention strategies and conflict resolution efforts. Fieldwork activities may include visits to local violence prevention programs, meetings with law enforcement officials focused on reducing bias in community engagement, and discussions with activists leading restorative justice initiatives. By integrating theoretical knowledge with practical experiences, students will be equipped to design innovative, needs",
+    "instructor":"Peter Dixon",
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"5:00pm",
+    "call_number":"11015",
+    "campus":null,
+    "class_id":"K5270-20262-001",
+    "course_subtitle":"Social Justice & Conflict",
+    "department":"Negotiation & Conflict Resolution",
+    "department_code":"NECR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NECR\/K5270-20262-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture",
+      "Business",
+      "Columbia College",
+      "Engineering:Graduate",
+      "GSAS",
+      "General Studies",
+      "Journalism",
+      "Law",
+      "Professional Studies",
+      "Public Health",
+      "SIPA",
+      "Schools of the Arts",
+      "Social Work"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"FS",
+    "section_key":"20262NECR5270K001",
+    "type":"SEMINAR"
+  },
+  {
     "course_code":"NECR PS5556",
     "course_title":"Internship in NECR",
     "course_descr":"Internship with Industry (1.5 credits, asynchronous online, elective) supports graduate students as they complete a supervised internship aligned with their academic program and career goals. Through targeted readings, short video lectures, structured reflection, and peer interaction, students connect internship experiences to career frameworks and workplace competencies. Course modules emphasize goal setting (SMART goals), self-awareness and communication (DiSC), career design and prototyping (Designing Your Life; Life Grid and Energy Mapping), persistence and performance (GRIT), and navigating change (VUCA, including reflection on emerging technologies such as AI). Students produce artifacts that document progress, analyze workplace context, and translate learning into career direction through a final synthesis reflection.\n \n The course requires a minimum of 105 internship hours and completion of a supervisor evaluation through the Experiential Learning Module.",
@@ -16651,6 +17538,43 @@
     "type":"INTERNSHIP"
   },
   {
+    "course_code":"NECR PS5880",
+    "course_title":"Interpersonal Dynamics: Collaboration, F",
+    "course_descr":"Interpersonal Dynamics: Collaboration, Facilitation and Reflective Practice\n \ndevelops students\u2019 capacity to act as reflective practitioners of\n \ncollaborative conflict resolution. Building on theories presented in\n \nIntroduction to Negotiation, the course provides students with many\n \nopportunities to understand the interpersonal dynamics of conflict and to\n \npractice the skills of negotiation, mediation, and facilitation.\n \u00a0\n \nTo intervene as skilled practitioners, conflict-resolution professionals\n \nneed to understand how their worldview shapes the lens through which they\n \nview and respond to conflict. Likewise, they need to grasp their\n \ncounterpart\u2019s worldview and understand how the dynamics of these differing\n \nnarratives influence both sides\u2019 perception, emotions, and responses. As a\n \nresult of their reflective practice, students can learn to make more\n \nstrategic choices as negotiators, mediators, and facilitators.\n \u00a0\n \nStudents bring their own unique experiences, insights, and communicative\n \nstrengths to the learning process. This course seeks to build on these\n \ncontributions, providing (1) tools for deepening self-awareness as a means\n \nof advancing connection to others, (2) opportunities for strengthening\n \ntheir face-to-face communication skills as negotiators and as mediators,\n \nand (3) techniques for developing their skills as third-party facilitators.",
+    "instructor":"Robert Anderson",
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"5:00pm",
+    "call_number":"11016",
+    "campus":null,
+    "class_id":"K5880-20262-001",
+    "course_subtitle":"Interpersonal Dynamics",
+    "department":"Negotiation & Conflict Resolution",
+    "department_code":"NECR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NECR\/K5880-20262-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture",
+      "Business",
+      "Engineering:Graduate",
+      "GSAS",
+      "Journalism",
+      "Law",
+      "Professional Studies",
+      "Public Health",
+      "SIPA",
+      "Schools of the Arts",
+      "Social Work"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TWRF",
+    "section_key":"20262NECR5880K001",
+    "type":"PRACTICA"
+  },
+  {
     "course_code":"NECR PS5995",
     "course_title":"Internship in NECR",
     "course_descr":"This course requires you to experience firsthand a program-related job in a real working environment. You will engage in personal, environmental and organizational reflection. The ideal Internship will provide you an opportunity to gain tangible and practical knowledge in your chosen field by taking on a position that is closely aligned with your coursework and professional interests. Before registering for this course, you must have completed the Internship Application Form in which you will describe your internship sponsor and provide details about the work that you will be doing. This form must be signed by your internship supervisor and approved by your program director BEFORE you register for this course.\n  \n\u00a0\n  \nTo receive instructor approval, the internship:\n  \n\u25cf Must provide an opportunity for the student to apply course concepts, either at the organizational or team level\n  \n\u25cf Must fit into the planned future program-related career path of the student\n  \nYou must identify your own internship opportunities. The internship must involve a commitment to completing a minimum of 210 hours over the semester.\n  \n\u00a0\n  \nAt the end of your course, you will submit an evaluation form to your internship supervisor. The evaluation form should be returned directly to the instructor",
@@ -16676,6 +17600,33 @@
     "scheduled_days":null,
     "section_key":"20262NECR5995KD01",
     "type":"INTERNSHIP"
+  },
+  {
+    "course_code":"NECR PS6350",
+    "course_title":"CAPSTONE: NETWORKING & SUSTAINABILITY",
+    "course_descr":null,
+    "instructor":"Mark A Whitlock",
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"3:00pm",
+    "call_number":"11017",
+    "campus":null,
+    "class_id":"K6350-20262-D01",
+    "course_subtitle":"CAPSTONE: NETWORKNG & SUS",
+    "department":"Negotiation & Conflict Resolution",
+    "department_code":"NECR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NECR\/K6350-20262-D01\/",
+    "location":"To be announced",
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"S",
+    "section_key":"20262NECR6350KD01",
+    "type":"LECTURE"
   },
   {
     "course_code":"NESC PS0100",
@@ -22015,6 +22966,33 @@
     ],
     "scheduled_days":"TR",
     "section_key":"20262SUMA5155KD01",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"SUMA PS5172",
+    "course_title":"Sustainable Operations - Supply Chain Ma",
+    "course_descr":"In an era of growing environmental and social awareness, supply chains have emerged as a powerful lever for driving\n sustainability in operations. Supply chain emissions are, on average, 11.4 times higher than operational emissions (1)\n making them a critical focal point for impactful change in operations. This course explores the essential role of supply\n chains in achieving sustainable outcomes and equips students with the tools and insights needed to transform\n conventional practices into innovative, responsible, and efficient systems. This course is part of a broader curriculum\n aimed at cultivating leaders who can integrate sustainability into the heart of business strategy. It is designed for\n students from diverse professional and academic backgrounds, no prior experience in operations or supply chain\n management is required to excel in this course.\n  \nThrough this interdisciplinary journey, students will gain a robust foundation in supply chain management, learning\n to integrate sustainability principles across operations. The course balances analytical skills with creative problem-\n solving, preparing students to address real-world challenges. Upon completing this course, students will gain a\n comprehensive skillset to analyze, design, and implement sustainable operations solutions in their future careers.\n Students will gain a comprehensive understanding of the strategic role of supply chains in modern economies,\n including their critical impact in decarbonization efforts. Students will also learn to apply key analytical tools such as\n demand forecasting and risk assessment, while mastering strategies for sourcing, supplier management, and logistics\n optimization.",
+    "instructor":"Catarina Carvalho",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"6:00pm",
+    "call_number":"10998",
+    "campus":null,
+    "class_id":"K5172-20262-001",
+    "course_subtitle":"Sustainable Operations",
+    "department":"Sustainability Management",
+    "department_code":"SUMA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SUMA\/K5172-20262-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20262SUMA5172K001",
     "type":"LECTURE"
   },
   {
