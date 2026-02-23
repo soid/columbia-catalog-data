@@ -7272,7 +7272,7 @@
     "course_code":"ECON UN3265",
     "course_title":"MONEY AND BANKING",
     "course_descr":"Prerequisites: ECON UN3211 and ECON UN3213\u00a0or the equivalent. Introduction to the principles of money and banking. The intermediary institutions of the American economy and their historical developments, current issues in monetary and financial reform.",
-    "instructor":"A. Vivette Ancona",
+    "instructor":null,
     "scheduled_time_start":"9:00am",
     "scheduled_time_end":"12:10pm",
     "call_number":"10475",
@@ -7296,6 +7296,31 @@
     ],
     "scheduled_days":"TR",
     "section_key":"20262ECON3265V001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ECON UN3265",
+    "course_title":"MONEY AND BANKING",
+    "course_descr":null,
+    "instructor":"A. Vivette Ancona",
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"12:10pm",
+    "call_number":"10476",
+    "campus":null,
+    "class_id":"V3265-20262-002",
+    "course_subtitle":null,
+    "department":"Summer Session (SUMM)",
+    "department_code":"ECON",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ECON\/V3265-20262-002\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20262ECON3265V002",
     "type":"LECTURE"
   },
   {
@@ -7752,7 +7777,7 @@
   {
     "course_code":"ENGL GU4932",
     "course_title":"ESSAYISM",
-    "course_descr":null,
+    "course_descr":"In the second decade of the 21st century there is more critical attention than ever before on the essay as a literary genre and a cultural practice that crosses media, registers, disciplines, and contexts. The concept of \u201cessayism\u201d was redefined by Robert Musil in his unfinished modernist novel, \nThe Man Without Qualities \n(1930) from a style of literature to a form of thinking in writing: \u201cFor an essay is not the provisional or incidental expression of a conviction that might on a more favourable occasion be elevated to the status of truth or that might just as easily be recognized as error \u2026 ; an essay is the unique and unalterable form that a man\u2019s inner life takes in a decisive thought.\u201d\u00a0 In this course will explore how essays can increase readers\u2019 and writers\u2019 tolerance for the existential tension and uncertainty we experience both within ourselves as well as in the worlds we inhabit. As Cheryl Wall argues, essays also give their practitioners meaningful work to do with their private musings and public concerns in a form that thrives on intellectual as well as formal experimentation. The course is organized to examine how practitioners across media have enacted essayism in their own work and how theorists have continued to explore its aesthetic effects and ethical power.",
     "instructor":"Nicole Wallack",
     "scheduled_time_start":"9:00am",
     "scheduled_time_end":"1:00pm",
@@ -8749,7 +8774,7 @@
   {
     "course_code":"ENGL S1010",
     "course_title":"UNIVERSITY WRITING",
-    "course_descr":null,
+    "course_descr":"Prerequisites: Non-native English speakers must reach Level 10 in the American Language Program prior to registering for ENGL S1010. University Writing: Contemporary Essays helps undergraduates engage in the conversations that form our intellectual community. By reading and writing about scholarly and popular essays, students learn that writing is a process of continual refinement of ideas. Rather than approaching writing as an innate talent, this course teaches writing as a learned skill. We give special attention to textual analysis, research, and revision practices.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -8765,7 +8790,9 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "ENGL S1010"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20262ENGL1010SD09",
@@ -10798,7 +10825,7 @@
   {
     "course_code":"FILM S3022",
     "course_title":"SUPERHERO MOVIES AND NEW YORK",
-    "course_descr":null,
+    "course_descr":"In \nThe Super Mario Bros. Movie\n, plumes of dust fill the New York City streets as the monster Bowser attacks the city. Mario, seemingly beaten, hides in a pizzeria. What inspires him to keep fighting? He sees himself in a TV ad for his plumbing business, wearing a superhero cape and flying next to the Freedom Tower. He finds solace in the representation of himself as a superhero and in a city that refused to concede that the game was over after 9\/11. Such a scene is emblematic of a seminar that will explore the superhero\u2019s relationship to the city\u2019s history and its traumas. Our eye will move between Hollywood blockbusters and global art cinema to help us mull how the superhero exemplifies, for some, the excesses of the U.S. during the global War on Terror. We will see Batman\u2019s alter-ego Bruce Wayne run towards what looks like an imploding World Trade Center on 9\/11 (\nBatman v Superman: Dawn of Justice\n) and witness the superhero framed as an ideological smokescreen for the callous administration of George W. Bush who used the attacks to justify an endless war (\nThe Broken Circle Breakdown\n).\n  \nWhile strongly focused on the post-9\/11 superhero and its links to New York City, the cross-media seminar will track the superhero\u2019s initial rise in popularity during the trauma of World War II. It will mobilize the archival resources of Columbia's Rare Book & Manuscript Library collections around the papers of noted \nX-Men \nwriter Chris Claremont, so students can read how the artist conceived of bringing histories around the Holocaust into his spectacular stories. Such dips into the archives will help us assess how such empowered figures offer surprising routes of representation for the disenfranchised. We will also consider the authoritarian possibilities of the vigilante Batman, situating Frank Miller\u2019s \nThe Dark Knight Returns\n against a cultural study that draws links between the comic and Bernhard Goetz who killed four black teenagers in a Manhattan subway in 1984. To further frame how the superhero serves as a potent means of socio-political critique, acclaimed artists and writers will be invited into the classroom. These include Paul Pope whose \nBatman: Year 100\n (2006) presents a dystopian superhero that allegorizes the oppressive aspects of the War on Terror\u2019s surveillance regime. A culminating field trip to the National September 11 Memorial Museum will be organized. There, students will visit \u201cThe World Trade Center",
     "instructor":"Fareed Ben-Youssef",
     "scheduled_time_start":"1:00pm",
     "scheduled_time_end":"4:10pm",
@@ -10998,7 +11025,7 @@
   {
     "course_code":"FILM UN3045",
     "course_title":"Film Criticism & Story Development",
-    "course_descr":null,
+    "course_descr":"Criticism is an important skill to have, to appreciate and understand film more. But criticism isn\u2019t black and white, and most importantly, it can help inform us of how to shape, tell, and develop a story that resonates with the audience.\n  \nThis course will begin by exploring the basics of film criticism and film appreciation, as students develop their skills in analyzing and identifying components that make a film work (or fall short). As they approach the second half of the course, students will transform their skills in critiquing into productive feedback and use what they\u2019ve learned to form and develop stories of their own, write a 1-2 page treatment, and finally pitch their story ideas in front of the class.\n  \nEveryone is interested in telling a story, but through the lens of film criticism, students will appreciate the creative process and learn how it is empowered by what we watch and most importantly, how we watch. Students will use this summer course to identify and prepare for areas of focus that they might be interested in pursuing (screenwriting, directing, producing) in their academic career.",
     "instructor":"Kevin L Lee",
     "scheduled_time_start":"2:00pm",
     "scheduled_time_end":"5:10pm",
@@ -19052,7 +19079,7 @@
   {
     "course_code":"POLS GU4134",
     "course_title":"MODERN POLITICAL THOUGHT",
-    "course_descr":null,
+    "course_descr":"Interpretations of civil society and the foundations of political order according to the two main traditions of political thought--contraction and Aristotelian. Readings include works by Hobbes, Spinoza, Locke, Montesquieu, Hume, Rousseau, Kant, Hegel, Saint-Simon, Tocqueville, Marx, and Mill.",
     "instructor":"Turkuler Isiksel",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -19077,7 +19104,7 @@
   {
     "course_code":"POLS GU4135",
     "course_title":"MODERN POLITICAL THOUGHT-DISC",
-    "course_descr":null,
+    "course_descr":"Discussion section for POLS GU4134",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -19093,7 +19120,9 @@
     "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "POLS GU4134"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20262POLS4135W001",
@@ -19458,7 +19487,7 @@
   {
     "course_code":"POLS UN2611",
     "course_title":"International Politics Discussion",
-    "course_descr":null,
+    "course_descr":"Discussion section for POLS UN2601",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -19474,7 +19503,9 @@
     "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "POLS UN2601"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20262POLS2611W001",
@@ -19483,7 +19514,7 @@
   {
     "course_code":"POLS UN2611",
     "course_title":"International Politics Discussion",
-    "course_descr":null,
+    "course_descr":"Discussion section for POLS UN2601",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -19499,7 +19530,9 @@
     "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "POLS UN2601"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20262POLS2611W002",
