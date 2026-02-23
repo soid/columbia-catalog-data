@@ -7301,7 +7301,7 @@
   {
     "course_code":"ECON UN3265",
     "course_title":"MONEY AND BANKING",
-    "course_descr":null,
+    "course_descr":"Prerequisites: ECON UN3211 and ECON UN3213\u00a0or the equivalent. Introduction to the principles of money and banking. The intermediary institutions of the American economy and their historical developments, current issues in monetary and financial reform.",
     "instructor":"A. Vivette Ancona",
     "scheduled_time_start":"9:00am",
     "scheduled_time_end":"12:10pm",
@@ -7317,7 +7317,12 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "ECON UN3211"
+      ],
+      [
+        "ECON UN3213"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20262ECON3265V002",
@@ -15865,7 +15870,7 @@
     "course_code":"MATH S1003",
     "course_title":"COLLEGE ALGEBRA-ANLYTC GEOMTRY",
     "course_descr":"Prerequisites: Mathematics score of 550 on the SAT exam, taken within the past year. Recommended: MATH S0065. Algebra review, graphs and functions, polynomial functions, rational functions, conic sections, systems of equations in two variables, exponential and logarithmic functions, trigonometric functions and trigonometric identities, applications of trigonometry, sequences, series, and limits.",
-    "instructor":null,
+    "instructor":"Xiaorun Wu",
     "scheduled_time_start":"5:30pm",
     "scheduled_time_end":"7:05pm",
     "call_number":"10520",
