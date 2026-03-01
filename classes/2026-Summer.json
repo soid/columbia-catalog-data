@@ -17423,7 +17423,7 @@
   {
     "course_code":"ITAL OC1121",
     "course_title":"Intensive Elem Italian:Venice",
-    "course_descr":null,
+    "course_descr":"Italian In Venice, ITAL1121. Intensive Elementary Italian. 6 points\n  \nInstructor: TBD\n  \nSyllabus - Intensive Elementary\n  \nThe equivalent of Italian 1101\/1102 at Columbia. This intensive first year course, open to students with no previous training in Italian, prepares students to move into intermediate Italian.\n  \nThe course provides students with a foundation in the four language skills of listening, speaking, reading and writing. Students are encouraged to participate actively in class discussions and activities and to interact with teacher and classmates. We will learn Italian not only thanks to exercises and conversation, but also through songs, clips, pictures, food, and games. Upon successful completion of the course, students should be able to:\n  \n  \nprovide basic information in Italian about themselves, their interests, their daily activities;\n  \nparticipate in a conversation on everyday topics using the major time frames of present and past;read short edited texts, understand the main ideas, and pick out important information from authentic texts (e.g. menus, signs, train schedules, etc.)\n  \nwrite short compositions on familiar topics;\n  \nidentify basic cultural rituals and practices in the context of their occurrence.\n \n  \nPlease note:\u00a0 If you have completed Elementary 1, you are welcome to enroll in the Intensive Elementary course. You will be expected to enroll in the full 6 point course. While there will be some overlap in the coursework that you already completed at Columbia, it will benefit you to be in Venice to reinforce and enhance your language studies before continuing on to new material. Upon successful completion of the course, you will be awarded 4 points for the Intensive course.\n  \nTo enroll in\u00a0this course, you must apply to the\n\u00a0\nColumbia in Venice\n\u00a0\nprogram through the Center for\u00a0Undergraduate Global Engagement (UGE).\n\u00a0\nGlobal Learning Scholarships\u00a0\navailable.\u00a0\nTuition\n\u00a0charges apply.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -17439,7 +17439,9 @@
     "open_to":null,
     "points":"6",
     "prerequisites":[
-
+      [
+        "AL1121"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20262ITAL1121O001",
@@ -17448,7 +17450,7 @@
   {
     "course_code":"ITAL OC1203",
     "course_title":"Intensive Inter Italian:Venice",
-    "course_descr":null,
+    "course_descr":"Italian in Venice ITAL1203OC. Intensive Intermediate Italian. 6 points.\u00a0\u00a0\nPrerequisites: One year of college-level Italian or the equivalent.\u00a0\n  \nInstructor:\u00a0Luca Abbattista\n  \nThe equivalent of Italian 1201\/1202. This intensive second year course allows students to develop listening, speaking, reading, and writing skills in Italian and a better understanding of Italian culture.\u00a0Students are involved in activities outside the classroom, where they gather information on Italian cultural topics through interviews and surveys that allow them to engage directly with the local community. Upon successful completion of this course, students should be able to:\n  \n  \n  \nuse a sufficient range of language to be able to give clear description;\n  \n  \n  \nexpress viewpoints on most general topics;\n  \n  \n  \nshow a relatively high degree of grammatical control;\n  \n  \n  \nuse cohesive devices to link their utterances into clear and coherent discourse;\n  \n  \n  \ngive detailed descriptions and presentations on a wide range of subjects related to their fields of interest, expanding and supporting their ideas;\n  \n  \n  \nwrite clear and detailed text on a variety of subjects related to their field of interest, synthesizing and evaluating information and arguments;\n  \n  \n  \nunderstand straightforward factual information about common everyday life;\n  \n  \n  \ninteract with a degree of fluency and spontaneity that makes for regular interaction;\n  \n  \n  \nexpress news and views effectively in writing, and relate to those of others;\n  \n  \n  \nexpress themselves appropriately in different cultural and communicative situations;\n  \n  \n  \nand be aware of the most significant differences between the customs, usages, attitudes, values, and beliefs prevalent in the Italian culture and those of their own.\n  \n \n  \nPlease note: If you have completed Intensive 1, you are welcome to enroll in the Intensive Intermediate course. You will be expected to enroll in the full 6-point course. While there will be some overlap in the coursework that you already completed at Columbia, it will benefit you to be in Venice to reinforce and enhance your language studies before continuing on to new material. Upon successful completion of the course, you will be awarded 4 points for the Intensive course.\n  \nTo enroll in\u00a0this course, you must apply to the\n&",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -17464,7 +17466,9 @@
     "open_to":null,
     "points":"6",
     "prerequisites":[
-
+      [
+        "AL1203"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20262ITAL1203O001",
@@ -17690,6 +17694,206 @@
     "scheduled_days":"MW",
     "section_key":"20262JOUR3019S001",
     "type":"LECTURE"
+  },
+  {
+    "course_code":"JPNS OC4007",
+    "course_title":"CLASSICAL JAPANESE I",
+    "course_descr":null,
+    "instructor":"Matthew Fraleigh",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11119",
+    "campus":null,
+    "class_id":"O4007-20262-001",
+    "course_subtitle":null,
+    "department":"Global Programs",
+    "department_code":"JPNS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/JPNS\/O4007-20262-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262JPNS4007O001",
+    "type":"LANGUAGE"
+  },
+  {
+    "course_code":"JPNS OC4008",
+    "course_title":"CLASSICAL JAPANESE II",
+    "course_descr":null,
+    "instructor":"Matthew Fraleigh",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11120",
+    "campus":null,
+    "class_id":"O4008-20262-001",
+    "course_subtitle":null,
+    "department":"Global Programs",
+    "department_code":"JPNS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/JPNS\/O4008-20262-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262JPNS4008O001",
+    "type":"LANGUAGE"
+  },
+  {
+    "course_code":"JPNS OC4201",
+    "course_title":"SECOND YEAR JAPANESE",
+    "course_descr":null,
+    "instructor":"Kaori Nakata",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11122",
+    "campus":null,
+    "class_id":"O4201-20262-001",
+    "course_subtitle":null,
+    "department":"Global Programs",
+    "department_code":"JPNS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/JPNS\/O4201-20262-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262JPNS4201O001",
+    "type":"LANGUAGE"
+  },
+  {
+    "course_code":"JPNS OC4202",
+    "course_title":"SECOND YEAR JAPANESE",
+    "course_descr":null,
+    "instructor":"Kaori Nakata",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11121",
+    "campus":null,
+    "class_id":"O4202-20262-001",
+    "course_subtitle":"SECOND YEAR JAPANESE II",
+    "department":"Global Programs",
+    "department_code":"JPNS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/JPNS\/O4202-20262-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262JPNS4202O001",
+    "type":"LANGUAGE"
+  },
+  {
+    "course_code":"JPNS OC4205",
+    "course_title":"THIRD YR JAPANESE",
+    "course_descr":null,
+    "instructor":"Orie Maeguchi",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11123",
+    "campus":null,
+    "class_id":"O4205-20262-001",
+    "course_subtitle":"THIRD YEAR JAPANESE I",
+    "department":"Global Programs",
+    "department_code":"JPNS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/JPNS\/O4205-20262-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262JPNS4205O001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"JPNS OC4206",
+    "course_title":"THIRD YEAR JAPANESE",
+    "course_descr":null,
+    "instructor":"Orie Maeguchi",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11124",
+    "campus":null,
+    "class_id":"O4206-20262-001",
+    "course_subtitle":"THIRD YEAR JAPANESE II",
+    "department":"Global Programs",
+    "department_code":"JPNS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/JPNS\/O4206-20262-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262JPNS4206O001",
+    "type":"LANGUAGE"
+  },
+  {
+    "course_code":"JPNS OC4217",
+    "course_title":"FOURTH YEAR JAPANESE",
+    "course_descr":null,
+    "instructor":"Itsuko Nakamura",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11125",
+    "campus":null,
+    "class_id":"O4217-20262-001",
+    "course_subtitle":"FOURTH YEAR JAPANESE I",
+    "department":"Global Programs",
+    "department_code":"JPNS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/JPNS\/O4217-20262-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262JPNS4217O001",
+    "type":"LANGUAGE"
+  },
+  {
+    "course_code":"JPNS OC4218",
+    "course_title":"FOURTH YEAR JAPANESE",
+    "course_descr":null,
+    "instructor":"Itsuko Nakamura",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11126",
+    "campus":null,
+    "class_id":"O4218-20262-001",
+    "course_subtitle":"FOURTH YEAR JAPANESE II",
+    "department":"Global Programs",
+    "department_code":"JPNS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/JPNS\/O4218-20262-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262JPNS4218O001",
+    "type":"LANGUAGE"
   },
   {
     "course_code":"LASJ PS0101",
@@ -25463,6 +25667,31 @@
     "scheduled_days":null,
     "section_key":"20262SPRT5995KD01",
     "type":"INTERNSHIP"
+  },
+  {
+    "course_code":"STAB OC0002",
+    "course_title":"FULL-TIME STUDY ABROAD PROGRAM",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11127",
+    "campus":null,
+    "class_id":"F0002-20262-001",
+    "course_subtitle":"FULL-TIME STUDY ABROAD PR",
+    "department":"Global Programs",
+    "department_code":"STAB",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/STAB\/F0002-20262-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262STAB0002F001",
+    "type":"REGISTRATION"
   },
   {
     "course_code":"STAT GR5203",
