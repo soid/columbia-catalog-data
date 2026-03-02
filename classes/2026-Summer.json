@@ -1064,6 +1064,33 @@
     "type":"SEMINAR"
   },
   {
+    "course_code":"APAM E4999",
+    "course_title":"SUPERVISED INTERNSHIP",
+    "course_descr":null,
+    "instructor":"Carlos Paz Soldan",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11138",
+    "campus":null,
+    "class_id":"E4999-20262-001",
+    "course_subtitle":null,
+    "department":"Applied Physics and Applied Mathematics",
+    "department_code":"APAM",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/APAM\/E4999-20262-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Engineering:Graduate"
+    ],
+    "points":"1-3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262APAM4999E001",
+    "type":"INTERNSHIP"
+  },
+  {
     "course_code":"APAN PS5160",
     "course_title":"DATA MODELING",
     "course_descr":null,
@@ -12390,6 +12417,60 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"ERMC PS5615",
+    "course_title":"GLOBAL FINANCIAL SERVICES IN THE 21ST CE",
+    "course_descr":null,
+    "instructor":"Richard Goldberg",
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"11139",
+    "campus":null,
+    "class_id":"K5615-20262-001",
+    "course_subtitle":"GLOBAL FIN SERV IN THE 21",
+    "department":"Enterprise Risk Management",
+    "department_code":"ERMC",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ERMC\/K5615-20262-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"1.5",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20262ERMC5615K001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ERMC PS5620",
+    "course_title":"BANKING AND TECHNOLOGY: FINANCIAL SERVIC",
+    "course_descr":null,
+    "instructor":"Richard Goldberg",
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"11140",
+    "campus":null,
+    "class_id":"K5620-20262-D01",
+    "course_subtitle":"BANK & TECH: FIN SERV DIG",
+    "department":"Enterprise Risk Management",
+    "department_code":"ERMC",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ERMC\/K5620-20262-D01\/",
+    "location":"To be announced",
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"1.5",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20262ERMC5620KD01",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"ERMC PS5900",
     "course_title":"ERM CAPSTONE",
     "course_descr":"Teams will work through a case assignment, demonstrating mastery of key learnings gained throughout the program on an integrated basis. A simulated case study is used: this is a combination of publicly-available information of an actual company and simulated ERM program details, based on a blend of current ERM programs and practices in the marketplace. Each team will assess the case study and recommend enhancements.",
@@ -20196,7 +20277,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":"SUSUS",
+    "scheduled_days":"SSUSU",
     "section_key":"20262NECR5170KD01",
     "type":"SEMINAR"
   },
