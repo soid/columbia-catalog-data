@@ -673,7 +673,7 @@
   {
     "course_code":"AHMM UN3321",
     "course_title":"MUSICS OF INDIA & WEST ASIA",
-    "course_descr":null,
+    "course_descr":"A topical approach to the concepts and practices of music in relation to other arts in the development of Asian civilizations.",
     "instructor":"Kevin Fellezs",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -698,7 +698,7 @@
   {
     "course_code":"AHMM UN3321",
     "course_title":"MUSICS OF INDIA & WEST ASIA",
-    "course_descr":null,
+    "course_descr":"A topical approach to the concepts and practices of music in relation to other arts in the development of Asian civilizations.",
     "instructor":null,
     "scheduled_time_start":"8:40am",
     "scheduled_time_end":"9:55am",
@@ -723,7 +723,7 @@
   {
     "course_code":"AHMM UN3321",
     "course_title":"MUSICS OF INDIA & WEST ASIA",
-    "course_descr":null,
+    "course_descr":"A topical approach to the concepts and practices of music in relation to other arts in the development of Asian civilizations.",
     "instructor":null,
     "scheduled_time_start":"5:40pm",
     "scheduled_time_end":"6:55pm",
@@ -748,7 +748,7 @@
   {
     "course_code":"AHMM UN3321",
     "course_title":"MUSICS OF INDIA & WEST ASIA",
-    "course_descr":null,
+    "course_descr":"A topical approach to the concepts and practices of music in relation to other arts in the development of Asian civilizations.",
     "instructor":null,
     "scheduled_time_start":"5:40pm",
     "scheduled_time_end":"6:55pm",
@@ -5215,7 +5215,7 @@
   {
     "course_code":"BIOL BC2278",
     "course_title":"Evolution",
-    "course_descr":null,
+    "course_descr":"Prerequisites: BIOL BC1500, 1501, 1502, 1503 or equivalent\n  \nTheodosius Dobzhansky\u2014an influential evolutionary biologist who spent much of his career at Columbia University\u2014famously wrote, \u201cNothing in biology makes sense except in the light of evolution.\u201d Evolution underlies all biodiversity, from the COVID-19 virus to redwood trees, from New York rats to our own bodies and minds. This course introduces students to the evolutionary processes at all scales, from molecular evolution and population genetics within single species, to macro patterns of diversification and evolution in deep time as studies through phylogenies and the fossil record. The overarching goal of the course is for students to gain a solid command of the major concepts in evolutionary theory and how they are interweaved with all life around us.",
     "instructor":"Rafael Marcondes",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -5231,7 +5231,9 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "BIOL BC1500"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20263BIOL2278X001",
@@ -6224,7 +6226,7 @@
   {
     "course_code":"BIOL GU4034",
     "course_title":"BIOTECHNOLOGY",
-    "course_descr":null,
+    "course_descr":"Prerequisites: genetics or molecular biology. The course covers techniques currently used to explore and manipulate gene function and their applications in medicine and the environment. Part I covers key laboratory manipulations, including DNA cloning, gene characterization, association of genes with disease, and methods for studying gene regulation and activities of gene products. Part II also covers commercial applications, and includes animal cell culture, production of recombinant proteins, novel diagnostics, high throughput screening, and environmental biosensors.",
     "instructor":null,
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:25pm",
@@ -6249,7 +6251,7 @@
   {
     "course_code":"BIOL GU4036",
     "course_title":"Transformative Concepts in Systems Biolo",
-    "course_descr":null,
+    "course_descr":"Systems biology approaches are rapidly transforming the technological and conceptual foundations of research across diverse areas of biomedicine. In this course we will discuss the fundamental developments in systems biology with a focus on two important dimensions: (1) the unique conceptual frameworks that have emerged to study systems-level phenomena and (2) how these approaches are revealing fundamentally new principles that govern the organization and behavior of cellular systems. Although there will be much discussion of technologies and computational approaches, the course will emphasize the conceptual contributions of the field and the big questions that lie ahead. Lectures and discussions of primary literature will enable students to scrutinize research in the field and to internalize systems biology thinking in their own research. To make this a concrete endeavor, the students will develop mini-NIH-style grant proposals that aims to study a fundamental problem\/question using systems biology approaches. The students will then convene an in-class NIH-style review panel that will assess the strengths and weaknesses of these proposals. In addition, the students will have the opportunity to defend their proposals in a live presentation to the class. The course is open to graduate students in Biological Sciences. Advanced undergraduates in biological sciences, and other graduate students with background in biology from other disciplines, including physics, chemistry, computer science, and engineering may also attend after consulting with the instructor.",
     "instructor":"Saeed Tavazoie",
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"4:30pm",
@@ -6274,7 +6276,7 @@
   {
     "course_code":"BIOL GU4073",
     "course_title":"CELLULAR\/MOLECULAR IMMUNOLOGY",
-    "course_descr":null,
+    "course_descr":"Prerequisites: Two semesters of a rigorous, molecularly-oriented, introductory biology course, such as UN2005 (\nInc.,\n\u00a0\nBiochemistry of DNA & Proteins, basic Genetics, Metabolism & Cell Physiology\n) and UN2006 (\nCell biology, inc. intra-cellular transport, phagocytosis, protein regulation, as well as Inter-cellular communication, inc., cell-cell contact, receptors\/ligands & transporters\n).\u00a0 This course will cover the integration of innate and adaptive immune systems, as well as how immune response contributes to health and disease (\ne.g., Infectious disease, allergies, autoimmunity, immune deficiencies, the microbiome and cancer immunotherapy\n). \u00a0 Students will also become familiar with important immunological methods, which will provide an opportunity to explore some of the current literature. \u00a0 Sophomores will require permission from their advisor to enroll, and graduate student will require the instructor\u2019s permission to enroll.\u00a0 SPS, Barnard, and TC students may register for this course with the instructor\u2019s approval on a Registration Adjustment Form (Add\/Drop form), which can be downloaded (\u00a0\nhttp:\/\/registrar.columbia.edu\/sites\/default\/files\/content\/reg-adjustment.pdf\n) and then returned to the office of the registrar.",
     "instructor":"Christian W Schindler",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:25pm",
@@ -6290,7 +6292,12 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "UN2005"
+      ],
+      [
+        "UN2006"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20263BIOL4073W001",
@@ -6299,7 +6306,7 @@
   {
     "course_code":"BIOL GU4260",
     "course_title":"PROTEOMICS LABORATORY",
-    "course_descr":null,
+    "course_descr":"This course deals with the proteome: the expressed protein complement of a cell, organelle, matrix, tissue, organ or organism. The study of the proteome (proteomics) is broadly applicable to life sciences research, and is increasingly important in academic, government and industrial research through extension of the impact of advances in genomics. These techniques are being applied to basic research, exploratory studies of cancer and other diseases, drug discovery and many other topics. Emphasis will be on mastery of practical techniques of sample preparation, liquid chromatography\/ mass spectrometry (LC\/MS) with electrospray ionization, and Matrix-Assisted Laser Desorption and Ionization (MALDI-TOF) mass spectrometry. Database searching and interpretation for identification of proteins will be intensively studied, and practiced supported by background tutorials and exercises covering other techniques used in proteomics. Open to students in M.A. in Biotechnology Program (points can be counted against laboratory requirement for that program), Ph.D. and advanced undergraduate students with background in genetics or molecular biology. Students should be comfortable with basic biotechnology laboratory techniques as well as being interested in doing computational work in a Windows environment.",
     "instructor":"Lewis Brown",
     "scheduled_time_start":"12:30pm",
     "scheduled_time_end":"3:30pm",
@@ -6324,7 +6331,7 @@
   {
     "course_code":"BIOL GU4290",
     "course_title":"BIOLOGICAL MICROSCOPY",
-    "course_descr":null,
+    "course_descr":"Prerequisites: (biol un2005 or biol un2401) or BIOL UN2005 or BIOL UN2401 or equivalent This is an advanced microscopy course aimed at graduates and advanced undergraduate students, who are interested in learning about the foundational principles of microscopy approaches and their applications in life sciences. The course will introduce the fundamentals of optics, light-matter interaction and in-depth view of most commonly used advanced microscopy methods, explore important practical imaging parameters, and also introduce digital images and their analysis.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -6340,7 +6347,10 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "BIOL UN2005",
+        "BIOL UN2401"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20263BIOL4290W001",
@@ -6349,7 +6359,7 @@
   {
     "course_code":"BIOL GU4501",
     "course_title":"Biochemistry",
-    "course_descr":null,
+    "course_descr":"In this course, we will explore the basic biochemistry of living systems and how this knowledge can be harnessed to create new medicines. We will learn how living systems convert environmental resources into energy through metabolism, and how they use this energy and these materials to build the molecules required for the diverse functions of life. We will discuss the applications of this biochemical knowledge to mechanisms of disease and to drug discovery. We will look at examples of drug discovery related to neurodegeneration, cancer, and the SARS-CoV-2 COVID19 pandemic. This course satisfies the requirement of most medical schools for introductory biochemistry, and is suitable for advanced undergraduates, and beginning graduate students. This course is equivalent to and replaces the prior course named UN3501, and is equivalent to the course offered in the summer.",
     "instructor":"Mary Ann Price",
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:55pm",
@@ -6365,7 +6375,9 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "UN3501"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20263BIOL4501G001",
@@ -6399,7 +6411,7 @@
   {
     "course_code":"BIOL UN2005",
     "course_title":"INTRO BIO I: BIOCHEM,GEN,MOLEC",
-    "course_descr":null,
+    "course_descr":"Prerequisites: one year of college chemistry is required. Lecture and recitation. Recommended as the introductory biology course for biology and related majors, and for premedical students. Fundamental principles of biochemistry, molecular biology, and genetics. SPS, Barnard, and TC students may register for this course, but they must first obtain the written permission of the instructor, by filling out a paper Registration Adjustment Form (Add\/Drop form). The form can be downloaded at the URL below, but must be signed by the instructor and returned to the office of the registrar. http:\/\/registrar.columbia.edu\/sites\/default\/files\/content\/reg-adjustment.pdf",
     "instructor":null,
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -6424,7 +6436,7 @@
   {
     "course_code":"BIOL UN2005",
     "course_title":"INTRO BIO I: BIOCHEM,GEN,MOLEC",
-    "course_descr":null,
+    "course_descr":"Prerequisites: one year of college chemistry is required. Lecture and recitation. Recommended as the introductory biology course for biology and related majors, and for premedical students. Fundamental principles of biochemistry, molecular biology, and genetics. SPS, Barnard, and TC students may register for this course, but they must first obtain the written permission of the instructor, by filling out a paper Registration Adjustment Form (Add\/Drop form). The form can be downloaded at the URL below, but must be signed by the instructor and returned to the office of the registrar. http:\/\/registrar.columbia.edu\/sites\/default\/files\/content\/reg-adjustment.pdf",
     "instructor":null,
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:25pm",
@@ -6449,7 +6461,7 @@
   {
     "course_code":"BIOL UN2300",
     "course_title":"Interpreting Scientific Evidence",
-    "course_descr":null,
+    "course_descr":"This class focuses on how we gather reliable scientific evidence about human biology and public health. The aim is to help students better interpret and evaluate the scientific evidence that they will encounter throughout their lifetime, in primary papers but also as presented in news, advertisement, and politics. To these ends, students will be introduced to basic definitions and concepts in statistics and epidemiology, including point estimates and measures of uncertainty, p-values, error rates, association and causation, different study designs, and selection bias. Readings will draw from a textbook as well as the primary literature. The second half of the course will turn to dissecting the representation and misrepresentation of scientific evidence presented in different venues. It will draw primarily from the textbook \u201cCalling Bullshit\u201d and include discussions of timely examples from the news.",
     "instructor":null,
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -6474,7 +6486,7 @@
   {
     "course_code":"BIOL UN2401",
     "course_title":"CONTEMPORARY BIOLOGY I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: one year of college chemistry or the written permission of either the instructor or the premedical adviser is required. Recommended as the introductory biology course for science majors who have completed a year of college chemistry and premedical students. The fundamental principles of biochemistry, molecular biology, and genetics. SPS and TC students may register for this course, but they must first obtain the written permission of the instructor, by filling out a paper Registration Adjustment Form (Add\/Drop form). The form can be downloaded at the URL below, but must be signed by the instructor and returned to the office of the registrar. http:\/\/registrar.columbia.edu\/sites\/default\/files\/content\/reg-adjustment.pdf",
     "instructor":null,
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -6499,7 +6511,7 @@
   {
     "course_code":"BIOL UN2401",
     "course_title":"CONTEMPORARY BIOLOGY I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: one year of college chemistry or the written permission of either the instructor or the premedical adviser is required. Recommended as the introductory biology course for science majors who have completed a year of college chemistry and premedical students. The fundamental principles of biochemistry, molecular biology, and genetics. SPS and TC students may register for this course, but they must first obtain the written permission of the instructor, by filling out a paper Registration Adjustment Form (Add\/Drop form). The form can be downloaded at the URL below, but must be signed by the instructor and returned to the office of the registrar. http:\/\/registrar.columbia.edu\/sites\/default\/files\/content\/reg-adjustment.pdf",
     "instructor":null,
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:25pm",
@@ -6524,7 +6536,7 @@
   {
     "course_code":"BIOL UN3022",
     "course_title":"DEVELOPMENTAL BIOLOGY",
-    "course_descr":null,
+    "course_descr":"Prerequisites: BIOL UN2005 and BIOL UN2006 or equivalent. Come discover how the union of egg and sperm triggers the complex cellular interactions that specify the diverse variety of cells present in multicellular organisms. Cellular and molecular aspects of sex determination, gametogenesis, genomic imprinting, X-chromosome inactivation, telomerase as the biological clock, stem cells, cloning, the pill and cell interactions will be explored, with an emphasis on humans. Original research articles will be discussed to further examine current research in developmental biology. SPS and TC students may register for this course, but they must first obtain the written permission of the instructor, by filling out a paper Registration Adjustment Form (Add\/Drop form). The form can be downloaded at the URL below, but must be signed by the instructor and returned to the office of the registrar. http:\/\/registrar.columbia.edu\/sites\/default\/files\/content\/reg-adjustment.pdf",
     "instructor":"Alice Heicklen",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:25pm",
@@ -6545,7 +6557,12 @@
     ],
     "points":"3",
     "prerequisites":[
-
+      [
+        "BIOL UN2005"
+      ],
+      [
+        "BIOL UN2006"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20263BIOL3022W001",
@@ -6554,7 +6571,7 @@
   {
     "course_code":"BIOL UN3040",
     "course_title":"LAB IN MOLECULAR BIOLOGY",
-    "course_descr":null,
+    "course_descr":"This laboratory course will explore fundamental techniques that are frequently utilized in modern molecular biology laboratories. A combination of experiments will provide broad exposure to several important techniques in molecular biology. Experiments include current approaches to site-directed mutagenesis, cloning by PCR, and mutation analysis. Students will pursue multiple experimental projects and will gain experience with scientific thinking and scientific communication. SPS and TC students may register for this course, but they must first obtain the written permission of the instructor, by filling out a paper Registration Adjustment Form (Add\/Drop form).\n  \nPrerequisites: UN2005\/UN2401 and UN2006\/UN2402, or the equivalent at a different institution, and Contemporary Biology Laboratory (UN2501).",
     "instructor":"Joshua M Abrams",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"5:00pm",
@@ -6570,7 +6587,19 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "UN2005"
+      ],
+      [
+        "UN2006"
+      ],
+      [
+        "UN2401"
+      ],
+      [
+        "UN2402",
+        "UN2501"
+      ]
     ],
     "scheduled_days":"W",
     "section_key":"20263BIOL3040W001",
@@ -6579,7 +6608,7 @@
   {
     "course_code":"BIOL UN3320",
     "course_title":"Regulation of Behaviors for Survival",
-    "course_descr":null,
+    "course_descr":"To maximize their survival animals must regulate their behavior in response to external environmental cues and their own internal state. A fundamental goal of neuroscience is to understand how neural circuits in the brain function to influence behavior. The aim of this course is to highlight the neural basis of innate behaviors that are critical for survival and discuss modern approaches to study the neuronal regulation of classically studied aspects of behavior. We will explore motor control (escape responses), sensory systems (vision, taste, and olfaction), and survival behaviors (feeding, drinking, mating, and aggression). Focus will be on recent and current research, the diversity of approaches for studying it, and how this knowledge can be applied to solve scientific questions. Students will read primary scientific literature and a significant portion of the course will be presentation and discussion-based.",
     "instructor":"Laura Duvall",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -6604,7 +6633,7 @@
   {
     "course_code":"BIOL UN3404",
     "course_title":"The Global Threat of Antimicrobial Resis",
-    "course_descr":null,
+    "course_descr":"Antimicrobial resistant bacterial infections were estimated to account for 1.27 million deaths worldwide in 2019. The goal of the seminar is to provide an in-depth analysis of this ongoing threat. Discussions will include the molecular mechanisms, epidemiology of transmission and the consequences of antimicrobial resistant infections. It will also cover current efforts to reduce the spread and emergence of these difficult to treat pathogens, both in the community and the healthcare setting.",
     "instructor":null,
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -6629,7 +6658,7 @@
   {
     "course_code":"BIOT GR5500",
     "course_title":"Supervised Research",
-    "course_descr":null,
+    "course_descr":"Students conduct research related to biotechnology under the sponsorship of a mentor within the University. The student and the mentor determine the nature and extent of this independent study. In some laboratories, the student may be assigned to work with a postdoctoral fellow, graduate student or a senior member of the laboratory, who is in turn supervised by the mentor. The mentor is responsible for mentoring and evaluating the students progress and performance. Credits received from this course may be used to fulfill the laboratory requirement for the degree. Instructor permission required. Web site: http:\/\/www.columbia.edu\/cu\/biology\/courses\/g4500-g4503\/index.html",
     "instructor":"Lili Yamasaki",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -6656,7 +6685,7 @@
   {
     "course_code":"BIOT GR5500",
     "course_title":"Supervised Research",
-    "course_descr":null,
+    "course_descr":"Students conduct research related to biotechnology under the sponsorship of a mentor within the University. The student and the mentor determine the nature and extent of this independent study. In some laboratories, the student may be assigned to work with a postdoctoral fellow, graduate student or a senior member of the laboratory, who is in turn supervised by the mentor. The mentor is responsible for mentoring and evaluating the students progress and performance. Credits received from this course may be used to fulfill the laboratory requirement for the degree. Instructor permission required. Web site: http:\/\/www.columbia.edu\/cu\/biology\/courses\/g4500-g4503\/index.html",
     "instructor":"Lili Yamasaki",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -6683,7 +6712,7 @@
   {
     "course_code":"BIOT GR5501",
     "course_title":"Supervised Independent Research",
-    "course_descr":null,
+    "course_descr":"Students conduct research related to biotechnology under the sponsorship of a mentor outside the University within the New York City Metropolitan Area unless otherwise approved by the Program. The student and the mentor determine the nature and extent of this independent study. In some laboratories, the student may be assigned to work with a postdoctoral fellow, graduate student or a senior member of the laboratory, who is in turn supervised by the mentor. The mentor is responsible for mentoring and evaluating the students progress and performance. Credits received from this course may be used to fulfill the laboratory requirement for the degree. Instructor permission required. Web site: http:\/\/www.columbia.edu\/cu\/biology\/courses\/g4500-g4503\/index.html",
     "instructor":"Lili Yamasaki",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -6710,7 +6739,7 @@
   {
     "course_code":"BIOT GR5501",
     "course_title":"Supervised Independent Research",
-    "course_descr":null,
+    "course_descr":"Students conduct research related to biotechnology under the sponsorship of a mentor outside the University within the New York City Metropolitan Area unless otherwise approved by the Program. The student and the mentor determine the nature and extent of this independent study. In some laboratories, the student may be assigned to work with a postdoctoral fellow, graduate student or a senior member of the laboratory, who is in turn supervised by the mentor. The mentor is responsible for mentoring and evaluating the students progress and performance. Credits received from this course may be used to fulfill the laboratory requirement for the degree. Instructor permission required. Web site: http:\/\/www.columbia.edu\/cu\/biology\/courses\/g4500-g4503\/index.html",
     "instructor":"Lili Yamasaki",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -6737,7 +6766,7 @@
   {
     "course_code":"BIOT GU4160",
     "course_title":"BIOTECHNOLOGY LAW",
-    "course_descr":null,
+    "course_descr":"Prerequisites: at least 4 college-level biology or biotechnology courses. This course will introduce students to the interrelated fields of patent law, regulatory law, and contract law that are vital to the biotech and biopharmaceutical sectors. The course will present core concepts in a way that permits students to use them throughout their corporate, academic, and government careers. SCE and TC students may register for this course, but they must first obtain the written permission of the instructor, by filling out a paper Registration Adjustment Form (Add\/Drop form). The form can be downloaded at the URL below, but must be signed by the instructor and returned to the office of the registrar. http:\/\/registrar.columbia.edu\/sites\/default\/files\/content\/reg-adjustment.pdf",
     "instructor":"Alan J Morrison",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -6758,6 +6787,56 @@
     "scheduled_days":"W",
     "section_key":"20263BIOT4160W001",
     "type":"LECTURE"
+  },
+  {
+    "course_code":"BURM UN1101",
+    "course_title":"ELEMENTARY BURMESE I",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"10531",
+    "campus":null,
+    "class_id":"W1101-20263-001",
+    "course_subtitle":null,
+    "department":"Language Resource Center",
+    "department_code":"BURM",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/BURM\/W1101-20263-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263BURM1101W001",
+    "type":"LANGUAGE"
+  },
+  {
+    "course_code":"BURM UN3101",
+    "course_title":"ADVANCED BURMESE",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"10532",
+    "campus":null,
+    "class_id":"W3101-20263-001",
+    "course_subtitle":null,
+    "department":"Language Resource Center",
+    "department_code":"BURM",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/BURM\/W3101-20263-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263BURM3101W001",
+    "type":"LANGUAGE"
   },
   {
     "course_code":"CHEM BC3597",
@@ -7764,6 +7843,31 @@
     "scheduled_days":"MW",
     "section_key":"20263CLCV3244W001",
     "type":"LECTURE"
+  },
+  {
+    "course_code":"CLFR GU4716",
+    "course_title":"Francophone Romance Love, Sex, Intimacy",
+    "course_descr":null,
+    "instructor":"Madeleine Dobie",
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"10565",
+    "campus":null,
+    "class_id":"W4716-20263-001",
+    "course_subtitle":"Francophone Romance",
+    "department":"French",
+    "department_code":"CLFR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CLFR\/W4716-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20263CLFR4716W001",
+    "type":"SEMINAR"
   },
   {
     "course_code":"CLGM GU4300",
@@ -14503,7 +14607,7 @@
     "course_code":"ENGL BC3193",
     "course_title":"CRITICAL WRITING",
     "course_descr":"Open to all students.This course teaches clear writing and provides exposure to a range of interpretative strategies. \u00a0Frequent short papers. Required of all English majors before the end of the junior year. Sophomores are encouraged to take it in the spring semester even before officially declaring their major. Transfer students should plan to take it in the fall semester.",
-    "instructor":"Kristi-Lynn Cassaro",
+    "instructor":"Eugene A Petracca",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"00372",
@@ -14623,31 +14727,6 @@
     "scheduled_days":null,
     "section_key":"20263ENGL3194X001",
     "type":"SEMINAR"
-  },
-  {
-    "course_code":"ENGL BC3195",
-    "course_title":"MODERNISM",
-    "course_descr":"A deeply ambivalent, transatlantic movement, Modernism grapples with revolutionary forces that defy traditional structures: the 19th-century Darwinian inversion to the old idea of order, the advent of psychoanalysis, the crisis of world war, and the anxiety and exuberance of shifting gender paradigms. The ensuing cultural upheaval dis-orders not only the content but also the literary forms of Modernism, giving rise to abstraction, fragmented narrative structures, stream-of-consciousness prose and the extreme erudition T.S. Eliot \u201cshored against the ruins\u201d of so-called civilization in \u201cThe Waste Land.\u201d \u00a0Special attention will be devoted to how seminal manifestos, most notably \"Tradition and the Individual Talent\" and\u00a0\nA Room of One's Own,\n\u00a0frame the movement's embattled aesthetics. \u00a0Works by\u00a0Djuna Barnes,\u00a0T.S. Eliot,\u00a0William Faulkner,\u00a0\u00a0Ernest Hemingway,\u00a0James Joyce, D.H. Lawrence,\u00a0Muriel Rukeyser,\u00a0Jean Toomer,\u00a0Gertrude Stein,\u00a0Wallace Stevens,\u00a0William Carlos Williams,\u00a0Virginia Woolf, and\u00a0W.B. Yeats.",
-    "instructor":"Kristi-Lynn Cassaro",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
-    "call_number":"00375",
-    "campus":null,
-    "class_id":"X3195-20263-001",
-    "course_subtitle":null,
-    "department":"English @Barnard",
-    "department_code":"ENGL",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/X3195-20263-001\/",
-    "location":null,
-    "method_of_instruction":null,
-    "open_to":null,
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":null,
-    "section_key":"20263ENGL3195X001",
-    "type":"LECTURE"
   },
   {
     "course_code":"ENGL BC3208",
@@ -14797,31 +14876,6 @@
     ],
     "scheduled_days":null,
     "section_key":"20263ENGL3645X001",
-    "type":"SEMINAR"
-  },
-  {
-    "course_code":"ENGL BC3760",
-    "course_title":"AMERICAN EXCEPTIONALISM",
-    "course_descr":"In this course we probe the ideology of American \u201cexceptionalism.\u201d We treat the intellectual history of this idea as a transtemporal conversation among founding architects, contemporary agents, early critics, and visionary reformers, all concerned with what should be valued on the American continents and within American experience. We become cartographers of this conversation and interlocutors within it, as we explore how habits of conceiving truth, power, and the relationship of human beings to the natural world have controlled what counts as exceptional and what ordinary. Where should we direct our awe? Readings include works by Margaret Atwood, James Baldwin, Roland Barthes, Ralph Waldo Emerson, bell hooks, William James, Immanuel Kant, Robin Wall Kimmerer, Audre Lorde, Wallace Stevens, Henry David Thoreau, Walt Whitman, Adrienne Rich, William Carlos Williams.",
-    "instructor":"Kristi-Lynn Cassaro",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
-    "call_number":"00369",
-    "campus":null,
-    "class_id":"X3760-20263-001",
-    "course_subtitle":null,
-    "department":"English @Barnard",
-    "department_code":"ENGL",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/X3760-20263-001\/",
-    "location":null,
-    "method_of_instruction":null,
-    "open_to":null,
-    "points":"4",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":null,
-    "section_key":"20263ENGL3760X001",
     "type":"SEMINAR"
   },
   {
@@ -16129,6 +16183,1038 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"FREN GU4426",
+    "course_title":"Rousseau, Women and Gender",
+    "course_descr":null,
+    "instructor":"Joanna R Stalnaker",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"10564",
+    "campus":null,
+    "class_id":"G4426-20263-001",
+    "course_subtitle":"Rousseau, Women and Gende",
+    "department":"French",
+    "department_code":"FREN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FREN\/G4426-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20263FREN4426G001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"FREN UN1101",
+    "course_title":"ELEMENTARY FRENCH I",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"8:40am",
+    "scheduled_time_end":"9:55am",
+    "call_number":"10533",
+    "campus":null,
+    "class_id":"W1101-20263-001",
+    "course_subtitle":null,
+    "department":"French",
+    "department_code":"FREN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FREN\/W1101-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "GSAS",
+      "General Studies",
+      "Global Programs",
+      "Professional Studies",
+      "SIPA",
+      "Schools of the Arts"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TRF",
+    "section_key":"20263FREN1101W001",
+    "type":"LANGUAGE"
+  },
+  {
+    "course_code":"FREN UN1101",
+    "course_title":"ELEMENTARY FRENCH I",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"8:50am",
+    "scheduled_time_end":"9:55am",
+    "call_number":"10534",
+    "campus":null,
+    "class_id":"W1101-20263-002",
+    "course_subtitle":null,
+    "department":"French",
+    "department_code":"FREN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FREN\/W1101-20263-002\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "GSAS",
+      "General Studies",
+      "Global Programs",
+      "Professional Studies",
+      "SIPA",
+      "Schools of the Arts"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MTWR",
+    "section_key":"20263FREN1101W002",
+    "type":"LANGUAGE"
+  },
+  {
+    "course_code":"FREN UN1101",
+    "course_title":"ELEMENTARY FRENCH I",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"11:25am",
+    "call_number":"10535",
+    "campus":null,
+    "class_id":"W1101-20263-003",
+    "course_subtitle":null,
+    "department":"French",
+    "department_code":"FREN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FREN\/W1101-20263-003\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "GSAS",
+      "General Studies",
+      "Global Programs",
+      "Professional Studies",
+      "SIPA",
+      "Schools of the Arts"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TRF",
+    "section_key":"20263FREN1101W003",
+    "type":"LANGUAGE"
+  },
+  {
+    "course_code":"FREN UN1101",
+    "course_title":"ELEMENTARY FRENCH I",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"11:40am",
+    "scheduled_time_end":"12:45pm",
+    "call_number":"10536",
+    "campus":null,
+    "class_id":"W1101-20263-004",
+    "course_subtitle":null,
+    "department":"French",
+    "department_code":"FREN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FREN\/W1101-20263-004\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "GSAS",
+      "General Studies",
+      "Global Programs",
+      "Professional Studies",
+      "SIPA",
+      "Schools of the Arts"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MTWR",
+    "section_key":"20263FREN1101W004",
+    "type":"LANGUAGE"
+  },
+  {
+    "course_code":"FREN UN1101",
+    "course_title":"ELEMENTARY FRENCH I",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"2:15pm",
+    "call_number":"10537",
+    "campus":null,
+    "class_id":"W1101-20263-005",
+    "course_subtitle":null,
+    "department":"French",
+    "department_code":"FREN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FREN\/W1101-20263-005\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "GSAS",
+      "General Studies",
+      "Global Programs",
+      "Professional Studies",
+      "SIPA",
+      "Schools of the Arts"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MTWR",
+    "section_key":"20263FREN1101W005",
+    "type":"LANGUAGE"
+  },
+  {
+    "course_code":"FREN UN1101",
+    "course_title":"ELEMENTARY FRENCH I",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"2:25pm",
+    "call_number":"10538",
+    "campus":null,
+    "class_id":"W1101-20263-006",
+    "course_subtitle":null,
+    "department":"French",
+    "department_code":"FREN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FREN\/W1101-20263-006\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "GSAS",
+      "General Studies",
+      "Global Programs",
+      "Professional Studies",
+      "SIPA",
+      "Schools of the Arts"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TRF",
+    "section_key":"20263FREN1101W006",
+    "type":"LANGUAGE"
+  },
+  {
+    "course_code":"FREN UN1101",
+    "course_title":"ELEMENTARY FRENCH I",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"5:25pm",
+    "call_number":"10539",
+    "campus":null,
+    "class_id":"W1101-20263-007",
+    "course_subtitle":null,
+    "department":"French",
+    "department_code":"FREN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FREN\/W1101-20263-007\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MWR",
+    "section_key":"20263FREN1101W007",
+    "type":"LANGUAGE"
+  },
+  {
+    "course_code":"FREN UN1101",
+    "course_title":"ELEMENTARY FRENCH I",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"7:25pm",
+    "call_number":"10540",
+    "campus":null,
+    "class_id":"W1101-20263-008",
+    "course_subtitle":null,
+    "department":"French",
+    "department_code":"FREN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FREN\/W1101-20263-008\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "GSAS",
+      "General Studies",
+      "Global Programs",
+      "Professional Studies",
+      "SIPA",
+      "Schools of the Arts"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MWR",
+    "section_key":"20263FREN1101W008",
+    "type":"LANGUAGE"
+  },
+  {
+    "course_code":"FREN UN1102",
+    "course_title":"ELEMENTARY FRENCH II",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"8:50am",
+    "scheduled_time_end":"9:55am",
+    "call_number":"10541",
+    "campus":null,
+    "class_id":"W1102-20263-001",
+    "course_subtitle":null,
+    "department":"French",
+    "department_code":"FREN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FREN\/W1102-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "GSAS",
+      "General Studies",
+      "Global Programs",
+      "Professional Studies",
+      "SIPA",
+      "Schools of the Arts"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MTWR",
+    "section_key":"20263FREN1102W001",
+    "type":"LANGUAGE"
+  },
+  {
+    "course_code":"FREN UN1102",
+    "course_title":"ELEMENTARY FRENCH II",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"11:40am",
+    "scheduled_time_end":"12:55pm",
+    "call_number":"10542",
+    "campus":null,
+    "class_id":"W1102-20263-002",
+    "course_subtitle":null,
+    "department":"French",
+    "department_code":"FREN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FREN\/W1102-20263-002\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "GSAS",
+      "General Studies",
+      "Global Programs",
+      "Professional Studies",
+      "SIPA",
+      "Schools of the Arts"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TRF",
+    "section_key":"20263FREN1102W002",
+    "type":"LANGUAGE"
+  },
+  {
+    "course_code":"FREN UN1102",
+    "course_title":"ELEMENTARY FRENCH II",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"2:25pm",
+    "call_number":"10543",
+    "campus":null,
+    "class_id":"W1102-20263-003",
+    "course_subtitle":null,
+    "department":"French",
+    "department_code":"FREN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FREN\/W1102-20263-003\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "GSAS",
+      "General Studies",
+      "Global Programs",
+      "Professional Studies",
+      "SIPA",
+      "Schools of the Arts"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TRF",
+    "section_key":"20263FREN1102W003",
+    "type":"LANGUAGE"
+  },
+  {
+    "course_code":"FREN UN1102",
+    "course_title":"ELEMENTARY FRENCH II",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"2:40pm",
+    "scheduled_time_end":"3:55pm",
+    "call_number":"10544",
+    "campus":null,
+    "class_id":"W1102-20263-004",
+    "course_subtitle":null,
+    "department":"French",
+    "department_code":"FREN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FREN\/W1102-20263-004\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "GSAS",
+      "General Studies",
+      "Global Programs",
+      "Professional Studies",
+      "SIPA",
+      "Schools of the Arts"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TRF",
+    "section_key":"20263FREN1102W004",
+    "type":"LANGUAGE"
+  },
+  {
+    "course_code":"FREN UN1102",
+    "course_title":"ELEMENTARY FRENCH II",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"5:25pm",
+    "call_number":"10545",
+    "campus":null,
+    "class_id":"W1102-20263-005",
+    "course_subtitle":null,
+    "department":"French",
+    "department_code":"FREN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FREN\/W1102-20263-005\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "GSAS",
+      "General Studies",
+      "Global Programs",
+      "Professional Studies",
+      "SIPA",
+      "Schools of the Arts"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TRF",
+    "section_key":"20263FREN1102W005",
+    "type":"LANGUAGE"
+  },
+  {
+    "course_code":"FREN UN1102",
+    "course_title":"ELEMENTARY FRENCH II",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"5:25pm",
+    "call_number":"10546",
+    "campus":null,
+    "class_id":"W1102-20263-006",
+    "course_subtitle":null,
+    "department":"French",
+    "department_code":"FREN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FREN\/W1102-20263-006\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TRF",
+    "section_key":"20263FREN1102W006",
+    "type":"LANGUAGE"
+  },
+  {
+    "course_code":"FREN UN2101",
+    "course_title":"INTERMEDIATE FRENCH I",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"8:40am",
+    "scheduled_time_end":"9:55am",
+    "call_number":"10547",
+    "campus":null,
+    "class_id":"W2101-20263-001",
+    "course_subtitle":null,
+    "department":"French",
+    "department_code":"FREN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FREN\/W2101-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "GSAS",
+      "General Studies",
+      "Global Programs",
+      "Professional Studies",
+      "SIPA",
+      "Schools of the Arts"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TRF",
+    "section_key":"20263FREN2101W001",
+    "type":"LANGUAGE"
+  },
+  {
+    "course_code":"FREN UN2101",
+    "course_title":"INTERMEDIATE FRENCH I",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"9:10am",
+    "scheduled_time_end":"10:00am",
+    "call_number":"10548",
+    "campus":null,
+    "class_id":"W2101-20263-002",
+    "course_subtitle":null,
+    "department":"French",
+    "department_code":"FREN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FREN\/W2101-20263-002\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "GSAS",
+      "General Studies",
+      "Global Programs",
+      "Professional Studies",
+      "SIPA",
+      "Schools of the Arts"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MTWR",
+    "section_key":"20263FREN2101W002",
+    "type":"LANGUAGE"
+  },
+  {
+    "course_code":"FREN UN2101",
+    "course_title":"INTERMEDIATE FRENCH I",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"11:00am",
+    "call_number":"10549",
+    "campus":null,
+    "class_id":"W2101-20263-003",
+    "course_subtitle":null,
+    "department":"French",
+    "department_code":"FREN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FREN\/W2101-20263-003\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "GSAS",
+      "General Studies",
+      "Global Programs",
+      "Professional Studies",
+      "SIPA",
+      "Schools of the Arts"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MTWR",
+    "section_key":"20263FREN2101W003",
+    "type":"LANGUAGE"
+  },
+  {
+    "course_code":"FREN UN2101",
+    "course_title":"INTERMEDIATE FRENCH I",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"2:00pm",
+    "call_number":"10550",
+    "campus":null,
+    "class_id":"W2101-20263-004",
+    "course_subtitle":null,
+    "department":"French",
+    "department_code":"FREN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FREN\/W2101-20263-004\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "GSAS",
+      "General Studies",
+      "Global Programs",
+      "Professional Studies",
+      "SIPA",
+      "Schools of the Arts"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MTWR",
+    "section_key":"20263FREN2101W004",
+    "type":"LANGUAGE"
+  },
+  {
+    "course_code":"FREN UN2101",
+    "course_title":"INTERMEDIATE FRENCH I",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"2:25pm",
+    "call_number":"10551",
+    "campus":null,
+    "class_id":"W2101-20263-005",
+    "course_subtitle":null,
+    "department":"French",
+    "department_code":"FREN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FREN\/W2101-20263-005\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TRF",
+    "section_key":"20263FREN2101W005",
+    "type":"LANGUAGE"
+  },
+  {
+    "course_code":"FREN UN2101",
+    "course_title":"INTERMEDIATE FRENCH I",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"2:40pm",
+    "scheduled_time_end":"3:55pm",
+    "call_number":"10552",
+    "campus":null,
+    "class_id":"W2101-20263-006",
+    "course_subtitle":null,
+    "department":"French",
+    "department_code":"FREN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FREN\/W2101-20263-006\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "GSAS",
+      "General Studies",
+      "Global Programs",
+      "Professional Studies",
+      "SIPA",
+      "Schools of the Arts"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TRF",
+    "section_key":"20263FREN2101W006",
+    "type":"LANGUAGE"
+  },
+  {
+    "course_code":"FREN UN2101",
+    "course_title":"INTERMEDIATE FRENCH I",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"7:25pm",
+    "call_number":"10553",
+    "campus":null,
+    "class_id":"W2101-20263-007",
+    "course_subtitle":null,
+    "department":"French",
+    "department_code":"FREN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FREN\/W2101-20263-007\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MWR",
+    "section_key":"20263FREN2101W007",
+    "type":"LANGUAGE"
+  },
+  {
+    "course_code":"FREN UN2102",
+    "course_title":"INTERMEDIATE FRENCH II",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"8:40am",
+    "scheduled_time_end":"9:55am",
+    "call_number":"10554",
+    "campus":null,
+    "class_id":"W2102-20263-001",
+    "course_subtitle":null,
+    "department":"French",
+    "department_code":"FREN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FREN\/W2102-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "GSAS",
+      "General Studies",
+      "Global Programs",
+      "Professional Studies",
+      "SIPA",
+      "Schools of the Arts"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TRF",
+    "section_key":"20263FREN2102W001",
+    "type":"LANGUAGE"
+  },
+  {
+    "course_code":"FREN UN2102",
+    "course_title":"INTERMEDIATE FRENCH II",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"11:40am",
+    "scheduled_time_end":"12:55pm",
+    "call_number":"10555",
+    "campus":null,
+    "class_id":"W2102-20263-002",
+    "course_subtitle":null,
+    "department":"French",
+    "department_code":"FREN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FREN\/W2102-20263-002\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "GSAS",
+      "General Studies",
+      "Global Programs",
+      "Professional Studies",
+      "SIPA",
+      "Schools of the Arts"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TRF",
+    "section_key":"20263FREN2102W002",
+    "type":"LANGUAGE"
+  },
+  {
+    "course_code":"FREN UN2102",
+    "course_title":"INTERMEDIATE FRENCH II",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"2:25pm",
+    "call_number":"10556",
+    "campus":null,
+    "class_id":"W2102-20263-003",
+    "course_subtitle":null,
+    "department":"French",
+    "department_code":"FREN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FREN\/W2102-20263-003\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "GSAS",
+      "General Studies",
+      "Global Programs",
+      "Professional Studies",
+      "SIPA",
+      "Schools of the Arts"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TRF",
+    "section_key":"20263FREN2102W003",
+    "type":"LANGUAGE"
+  },
+  {
+    "course_code":"FREN UN2102",
+    "course_title":"INTERMEDIATE FRENCH II",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"2:00pm",
+    "call_number":"10557",
+    "campus":null,
+    "class_id":"W2102-20263-004",
+    "course_subtitle":null,
+    "department":"French",
+    "department_code":"FREN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FREN\/W2102-20263-004\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "GSAS",
+      "General Studies",
+      "Global Programs",
+      "Professional Studies",
+      "SIPA",
+      "Schools of the Arts"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MTWR",
+    "section_key":"20263FREN2102W004",
+    "type":"LANGUAGE"
+  },
+  {
+    "course_code":"FREN UN2102",
+    "course_title":"INTERMEDIATE FRENCH II",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"2:40pm",
+    "scheduled_time_end":"3:55pm",
+    "call_number":"10558",
+    "campus":null,
+    "class_id":"W2102-20263-005",
+    "course_subtitle":null,
+    "department":"French",
+    "department_code":"FREN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FREN\/W2102-20263-005\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TRF",
+    "section_key":"20263FREN2102W005",
+    "type":"LANGUAGE"
+  },
+  {
+    "course_code":"FREN UN3249",
+    "course_title":"Arts in Action",
+    "course_descr":null,
+    "instructor":"Pascale Crepon",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"11:25am",
+    "call_number":"10559",
+    "campus":null,
+    "class_id":"W3249-20263-001",
+    "course_subtitle":null,
+    "department":"French",
+    "department_code":"FREN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FREN\/W3249-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20263FREN3249W001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"FREN UN3405",
+    "course_title":"Read, Think, Write in French",
+    "course_descr":null,
+    "instructor":"Laurence Marie",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"11:25am",
+    "call_number":"10560",
+    "campus":null,
+    "class_id":"W3405-20263-001",
+    "course_subtitle":"Read, Think, Write in Fre",
+    "department":"French",
+    "department_code":"FREN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FREN\/W3405-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "Engineering:Graduate",
+      "Engineering:Undergraduate",
+      "GSAS",
+      "General Studies",
+      "Global Programs",
+      "Professional Studies",
+      "SIPA",
+      "Schools of the Arts"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20263FREN3405W001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"FREN UN3405",
+    "course_title":"Read, Think, Write in French",
+    "course_descr":null,
+    "instructor":"Sophie Queuniet",
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"2:25pm",
+    "call_number":"10561",
+    "campus":null,
+    "class_id":"W3405-20263-002",
+    "course_subtitle":"Read, Think, Write in Fre",
+    "department":"French",
+    "department_code":"FREN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FREN\/W3405-20263-002\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "Engineering:Graduate",
+      "Engineering:Undergraduate",
+      "GSAS",
+      "General Studies",
+      "Global Programs",
+      "Professional Studies",
+      "SIPA",
+      "Schools of the Arts"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20263FREN3405W002",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"FREN UN3410",
+    "course_title":"Intro French & Francophone Literature",
+    "course_descr":null,
+    "instructor":"Joanna R Stalnaker",
+    "scheduled_time_start":"2:40pm",
+    "scheduled_time_end":"3:55pm",
+    "call_number":"10562",
+    "campus":null,
+    "class_id":"W3410-20263-001",
+    "course_subtitle":"Intro French Francophone",
+    "department":"French",
+    "department_code":"FREN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FREN\/W3410-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20263FREN3410W001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"FREN UN3414",
+    "course_title":"French in the World: A Linguistic Survey",
+    "course_descr":null,
+    "instructor":"Eric T Matheis",
+    "scheduled_time_start":"11:40am",
+    "scheduled_time_end":"12:55pm",
+    "call_number":"10563",
+    "campus":null,
+    "class_id":"W3414-20263-001",
+    "course_subtitle":"French: Linguistic Survey",
+    "department":"French",
+    "department_code":"FREN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FREN\/W3414-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20263FREN3414W001",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"FYWB BC1001",
     "course_title":"FIRST-YEAR WRITING AT BARNARD",
     "course_descr":"First-Year Writing (FYW) courses invite students into the vibrant scholarly life of the college. Working in small, discussion-based seminar classes over the course of one semester, we read challenging literary texts and critical scholarship, helping students to develop fundamental skills in analysis and academic writing that allow them to take their place in vitally important scholarly conversations. Students may choose from a variety of special topics\u00a0that focus\u00a0on a particular literary tradition, theme, or phenomenon. Please see\u00a0https:\/\/firstyear.barnard.edu\/fyw\/course-listings for full course descriptions.",
@@ -16333,8 +17419,8 @@
     "course_title":"FIRST-YEAR WRITING AT BARNARD",
     "course_descr":"First-Year Writing (FYW) courses invite students into the vibrant scholarly life of the college. Working in small, discussion-based seminar classes over the course of one semester, we read challenging literary texts and critical scholarship, helping students to develop fundamental skills in analysis and academic writing that allow them to take their place in vitally important scholarly conversations. Students may choose from a variety of special topics\u00a0that focus\u00a0on a particular literary tradition, theme, or phenomenon. Please see\u00a0https:\/\/firstyear.barnard.edu\/fyw\/course-listings for full course descriptions.",
     "instructor":"Andrew L Lynn",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"11:25am",
     "call_number":"00012",
     "campus":null,
     "class_id":"X1001-20263-009",
@@ -16342,14 +17428,14 @@
     "department":"First-Year Writing @Barnard",
     "department_code":"FYWB",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/FYWB\/X1001-20263-009\/",
-    "location":null,
+    "location":"To be announced",
     "method_of_instruction":null,
     "open_to":null,
     "points":"3",
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"MW",
     "section_key":"20263FYWB1001X009",
     "type":"SEMINAR"
   },
@@ -16358,8 +17444,8 @@
     "course_title":"FIRST-YEAR WRITING AT BARNARD",
     "course_descr":"First-Year Writing (FYW) courses invite students into the vibrant scholarly life of the college. Working in small, discussion-based seminar classes over the course of one semester, we read challenging literary texts and critical scholarship, helping students to develop fundamental skills in analysis and academic writing that allow them to take their place in vitally important scholarly conversations. Students may choose from a variety of special topics\u00a0that focus\u00a0on a particular literary tradition, theme, or phenomenon. Please see\u00a0https:\/\/firstyear.barnard.edu\/fyw\/course-listings for full course descriptions.",
     "instructor":"Andrew L Lynn",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"11:25am",
     "call_number":"00013",
     "campus":null,
     "class_id":"X1001-20263-010",
@@ -16367,14 +17453,14 @@
     "department":"First-Year Writing @Barnard",
     "department_code":"FYWB",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/FYWB\/X1001-20263-010\/",
-    "location":null,
+    "location":"To be announced",
     "method_of_instruction":null,
     "open_to":null,
     "points":"3",
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"TR",
     "section_key":"20263FYWB1001X010",
     "type":"SEMINAR"
   },
@@ -16581,56 +17667,6 @@
   {
     "course_code":"FYWB BC1001",
     "course_title":"FIRST-YEAR WRITING AT BARNARD",
-    "course_descr":null,
-    "instructor":"Francesca E Austin Ochoa",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
-    "call_number":"00023",
-    "campus":null,
-    "class_id":"X1001-20263-019",
-    "course_subtitle":"FIRST-YEAR WRITING AT BAR",
-    "department":"First-Year Writing @Barnard",
-    "department_code":"FYWB",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FYWB\/X1001-20263-019\/",
-    "location":null,
-    "method_of_instruction":null,
-    "open_to":null,
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":null,
-    "section_key":"20263FYWB1001X019",
-    "type":"SEMINAR"
-  },
-  {
-    "course_code":"FYWB BC1001",
-    "course_title":"FIRST-YEAR WRITING AT BARNARD",
-    "course_descr":"First-Year Writing (FYW) courses invite students into the vibrant scholarly life of the college. Working in small, discussion-based seminar classes over the course of one semester, we read challenging literary texts and critical scholarship, helping students to develop fundamental skills in analysis and academic writing that allow them to take their place in vitally important scholarly conversations. Students may choose from a variety of special topics\u00a0that focus\u00a0on a particular literary tradition, theme, or phenomenon. Please see\u00a0https:\/\/firstyear.barnard.edu\/fyw\/course-listings for full course descriptions.",
-    "instructor":"Francesca E Austin Ochoa",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
-    "call_number":"00024",
-    "campus":null,
-    "class_id":"X1001-20263-020",
-    "course_subtitle":"FIRST-YEAR WRITING AT BAR",
-    "department":"First-Year Writing @Barnard",
-    "department_code":"FYWB",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FYWB\/X1001-20263-020\/",
-    "location":null,
-    "method_of_instruction":null,
-    "open_to":null,
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":null,
-    "section_key":"20263FYWB1001X020",
-    "type":"SEMINAR"
-  },
-  {
-    "course_code":"FYWB BC1001",
-    "course_title":"FIRST-YEAR WRITING AT BARNARD",
     "course_descr":"First-Year Writing (FYW) courses invite students into the vibrant scholarly life of the college. Working in small, discussion-based seminar classes over the course of one semester, we read challenging literary texts and critical scholarship, helping students to develop fundamental skills in analysis and academic writing that allow them to take their place in vitally important scholarly conversations. Students may choose from a variety of special topics\u00a0that focus\u00a0on a particular literary tradition, theme, or phenomenon. Please see\u00a0https:\/\/firstyear.barnard.edu\/fyw\/course-listings for full course descriptions.",
     "instructor":"Faculty",
     "scheduled_time_start":null,
@@ -16708,23 +17744,23 @@
     "course_title":"FIRST-YEAR WRITING WORKSHOP",
     "course_descr":"First-Year Writing (FYW) Workshop\u00a0is a four-credit course designed for students who feel they would benefit from extra preparation for the critical reading and writing that you will do at Barnard. FYW and FYW Workshop are equally rigorous -- both courses have the same critical reading and writing goals, and both courses satisfy your First-Year Writing requirement. FYW Workshop, however, meets 3 days per week instead of 2; it is worth 4 credits instead of 3; and the class sizes are smaller.\u00a0\nFYW Workshop is o\nnly offered in the fall semester (not in the spring semester).\n  \nStudents who are interested in one of the limited number of spaces in FYW Workshop should select \"First-Year Writing Workshop\" on the First-Year Experience Course Request Form and fill out the accompanying FYW Workshop Questionnaire (the\u00a0First-Year Dean's Office will email you the form\u00a0in mid-June).\u00a0\nThe FYW Workshop Questionnaire is required in order to be considered for FYW Workshop\n.\u00a0\nSee courses here\n.",
     "instructor":"Penelope Usher",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"2:40pm",
+    "scheduled_time_end":"3:55pm",
     "call_number":"00003",
     "campus":null,
     "class_id":"X1002-20263-001",
-    "course_subtitle":"FIRST-YEAR WRITING WORKSH",
+    "course_subtitle":"Feminist Fairytales",
     "department":"First-Year Writing @Barnard",
     "department_code":"FYWB",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/FYWB\/X1002-20263-001\/",
-    "location":null,
+    "location":"To be announced",
     "method_of_instruction":null,
     "open_to":null,
     "points":"4",
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"MWF",
     "section_key":"20263FYWB1002X001",
     "type":"SEMINAR"
   },
@@ -16801,6 +17837,56 @@
     ],
     "scheduled_days":null,
     "section_key":"20263FYWB1002X004",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"FYWB BC1002",
+    "course_title":"FIRST-YEAR WRITING WORKSHOP",
+    "course_descr":null,
+    "instructor":"Francesca E Austin Ochoa",
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"2:25pm",
+    "call_number":"00876",
+    "campus":null,
+    "class_id":"X1002-20263-006",
+    "course_subtitle":"Haunted Americas",
+    "department":"First-Year Writing @Barnard",
+    "department_code":"FYWB",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FYWB\/X1002-20263-006\/",
+    "location":"To be announced",
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TRF",
+    "section_key":"20263FYWB1002X006",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"FYWB BC1002",
+    "course_title":"FIRST-YEAR WRITING WORKSHOP",
+    "course_descr":null,
+    "instructor":"Francesca E Austin Ochoa",
+    "scheduled_time_start":"11:40am",
+    "scheduled_time_end":"12:55pm",
+    "call_number":"00877",
+    "campus":null,
+    "class_id":"X1002-20263-005",
+    "course_subtitle":"Haunted Americas",
+    "department":"First-Year Writing @Barnard",
+    "department_code":"FYWB",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FYWB\/X1002-20263-005\/",
+    "location":"To be announced",
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TRF",
+    "section_key":"20263FYWB1002X005",
     "type":"SEMINAR"
   },
   {
@@ -17989,7 +19075,7 @@
   {
     "course_code":"HIST BC3910",
     "course_title":"GLOBAL POLITICS OF REPRODUCTION",
-    "course_descr":null,
+    "course_descr":"Comparative, cross-cultural examination of social organization and historical construction of human reproduction, with emphasis on 20th century. Topics include role of states and local and transnational \"stratification\" of reproduction by race, class, and citizenship; eugenics; population politics; birth control; kinship as social and biological relationship; maternity; paternity; new reproductive technologies.",
     "instructor":"Nara Milanich",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -19639,6 +20725,31 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"JWST GU4145",
+    "course_title":"Topics in Israeli Cinema",
+    "course_descr":null,
+    "instructor":"Stuart Weinstock",
+    "scheduled_time_start":"10:00am",
+    "scheduled_time_end":"1:45pm",
+    "call_number":"10530",
+    "campus":null,
+    "class_id":"W4145-20263-001",
+    "course_subtitle":null,
+    "department":"Institute for Israel & Jewish Studies",
+    "department_code":"JWST",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/JWST\/W4145-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20263JWST4145W001",
+    "type":"FILM SCREENI"
+  },
+  {
     "course_code":"KHMR OC1101",
     "course_title":"ELEMENTARY KHMER I",
     "course_descr":"This course is designed to bring students with no background to a point where they can perform most basic linguistic functions in Khmer, including greetings, likes\/dislikes, telling about yourself, describing places and situations, all in appropriate time frames. The class uses a highly interactive classroom style, supplemented by extensive use of video - both prepared and student-produced - and other computer-assisted tools. Please note this course is offered by videoconferencing from Cornell as part of the Shared Course Initiative.",
@@ -20468,7 +21579,7 @@
   {
     "course_code":"MATH GR5010",
     "course_title":"INTRO TO THE MATH OF FINANCE",
-    "course_descr":null,
+    "course_descr":"Prerequisites: MATH UN1102 and MATH UN1201 , or their equivalents. Introduction to mathematical methods in pricing of options, futures and other derivative securities, risk management, portfolio management and investment strategies with an emphasis of both theoretical and practical aspects. Topics include: Arithmetic and Geometric Brownian ,motion processes, Black-Scholes partial differential equation, Black-Scholes option pricing formula, Ornstein-Uhlenbeck processes, volatility models, risk models, value-at-risk and conditional value-at-risk, portfolio construction and optimization methods.",
     "instructor":"Mikhail Smirnov",
     "scheduled_time_start":"7:40pm",
     "scheduled_time_end":"8:55pm",
@@ -20486,7 +21597,12 @@
     ],
     "points":"3",
     "prerequisites":[
-
+      [
+        "MATH UN1102"
+      ],
+      [
+        "MATH UN1201"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20263MATH5010W001",
@@ -20495,7 +21611,7 @@
   {
     "course_code":"MATH GR5030",
     "course_title":"NUMERICAL METHODS IN FINANCE",
-    "course_descr":null,
+    "course_descr":"Prerequisites: some familiarity with the basic principles of partial differential equations, probability and stochastic processes, and of mathematical finance as provided, e.g. in MATH W5010. Prerequisites: some familiarity with the basic principles of partial differential equations, probability and stochastic processes, and of mathematical finance as provided, e.g. in MATH W5010. Review of the basic numerical methods for partial differential equations, variational inequalities and free-boundary problems. Numerical methods for solving stochastic differential equations; random number generation, Monte Carlo techniques for evaluating path-integrals, numerical techniques for the valuation of American, path-dependent and barrier options.",
     "instructor":null,
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:40pm",
@@ -20513,7 +21629,12 @@
     ],
     "points":"3",
     "prerequisites":[
-
+      [
+        "MATH W5010"
+      ],
+      [
+        "MATH W5010"
+      ]
     ],
     "scheduled_days":"M",
     "section_key":"20263MATH5030G001",
@@ -20522,7 +21643,7 @@
   {
     "course_code":"MATH GR5050",
     "course_title":"MATH FINANCE PRACTITIONERS SEMINAR I",
-    "course_descr":null,
+    "course_descr":"This seminar offers participants the opportunity to listen to practitioners discuss a range of important topics in the financial industry.\u00a0 Topics may include portfolio optimization, exotic derivatives, high frequency analysis of data and numerical methods. While most talks require knowledge of mathematical methods in finance, some talks are accessible to a more general audience.",
     "instructor":"Jaehyuk Choi",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"7:25pm",
@@ -20549,7 +21670,7 @@
   {
     "course_code":"MATH GR5280",
     "course_title":"CAPITAL MARKETS & INVESTMENTS",
-    "course_descr":null,
+    "course_descr":"Risk\/return tradeoff, diversification and their role in the modern portfolio theory, their consequences for asset allocation, portfilio optimization. Capitol Asset Pricing Model, Modern Portfolio Theory, Factor Models, Equities Valuation, definition and treatment of futures, options and fixed income securities will be covered.",
     "instructor":null,
     "scheduled_time_start":"7:00pm",
     "scheduled_time_end":"9:20pm",
@@ -20576,7 +21697,7 @@
   {
     "course_code":"MATH GR5300",
     "course_title":"HEDGE FUNDS STRATEGIES & RISK",
-    "course_descr":null,
+    "course_descr":"The hedge fund industry has continued to grow after the financial crisis, and hedge funds are increasingly important as an investable asset class for institutional investors as well as wealthy individuals. This course will cover hedge funds from the point of view of portfolio managers and investors. We will analyze a number of hedge fund trading strategies, including fixed income arbitrage, global macro, and various equities strategies, with a strong focus on quantitative strategies. We distinguish hedge fund managers from other asset managers, and discuss issues such as fees and incentives, liquidity, performance evaluation, and risk management. We also discuss career development in the hedge fund context.",
     "instructor":null,
     "scheduled_time_start":"8:10pm",
     "scheduled_time_end":"10:00pm",
@@ -20603,7 +21724,7 @@
   {
     "course_code":"MATH GR5510",
     "course_title":"MAFN FIELDWORK",
-    "course_descr":null,
+    "course_descr":"Prerequisites: all 6 MAFN core courses, at least 6 credits of approved electives, and the instructors permission. See the MAFN website for details. This course provides an opportunity for MAFN students to engage in off-campus internships for academic credit that counts towards the degree. Graded by letter grade. Students need to secure an internship and get it approved by the instructor.",
     "instructor":"Jaehyuk Choi",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -20630,7 +21751,7 @@
   {
     "course_code":"MATH GR5520",
     "course_title":"Career Development for Quantitative Fina",
-    "course_descr":null,
+    "course_descr":"This course helps the students understand the job search process and develop the professional skills necessary for career advancement. The students will not only learn the best practices in all aspects of job-seeking but will also have a chance to practice their skills. Each class will be divided into two parts: a lecture and a workshop.\n  \nIn addition, the students will get support from Teaching Assistants who will be available to guide and prepare the students for technical interviews.",
     "instructor":"Jaehyuk Choi",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -21322,7 +22443,7 @@
   {
     "course_code":"MUSI GR8231",
     "course_title":"Seminar in Music Composition",
-    "course_descr":null,
+    "course_descr":"Investigation of contemporary composition topics through invited guest lectures, student and faculty presentations, listening sessions, and professional development workshops. DMA students only also receive one-on-one weekly composition lessons during which they will develop individual projects in composition (lessons are offered for the first three years of the DMA).",
     "instructor":null,
     "scheduled_time_start":"3:10pm",
     "scheduled_time_end":"5:00pm",
@@ -33364,7 +34485,7 @@
     "course_code":"WMST UN3311",
     "course_title":"FEMINIST THEORY",
     "course_descr":"Prerequisites: LIMITED TO 20 BY INSTRUC PERM; ATTEND FIRST CLASS\n  \nThis course provides a theoretical itinerary to the emergence of contemporary queer theory and engagement with some contemporary legacies of the movement. The goal is not to be exhaustive nor to establish a correct history of queer theory but to engage students in the task of understanding and creating intellectual genealogies.",
-    "instructor":"Janet Jakobsen",
+    "instructor":"Faculty",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"00594",
@@ -33433,6 +34554,31 @@
     ],
     "scheduled_days":null,
     "section_key":"20263WMST3525V001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"WMST UN3525",
+    "course_title":"Senior Seminar I (Barnard)",
+    "course_descr":null,
+    "instructor":"Janet Jakobsen",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"00875",
+    "campus":null,
+    "class_id":"V3525-20263-002",
+    "course_subtitle":"SENIOR SEMINAR I",
+    "department":"Women's, Gender, Sexuality Studies @Barnard",
+    "department_code":"WMST",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/WMST\/V3525-20263-002\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263WMST3525V002",
     "type":"SEMINAR"
   },
   {
