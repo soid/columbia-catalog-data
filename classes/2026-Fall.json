@@ -9643,6 +9643,31 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"COMS BC3122",
+    "course_title":"DATA VISUALIZATION",
+    "course_descr":null,
+    "instructor":"Faculty",
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"2:55pm",
+    "call_number":"00885",
+    "campus":null,
+    "class_id":"X3122-20263-001",
+    "course_subtitle":null,
+    "department":"Computer Science @Barnard",
+    "department_code":"COMS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMS\/X3122-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20263COMS3122X001",
+    "type":"SEMINAR"
+  },
+  {
     "course_code":"COMS BC3420",
     "course_title":"PRIVACY IN A NETWORKED WORLD",
     "course_descr":"The ubiquity of computers and networks in business, government, recreation, and almost all aspects of daily life has led to a proliferation of online sensitive data: data that, if used improperly, can harm the data subjects. As a result, concern about the use, ownership, control, privacy, and accuracy of these data has become a top priority. This seminar course focuses on both the technical challenges of handling sensitive data, the privacy implications of various technologies, and the policy and legal issues facing data subjects, data owners, and data users.",
@@ -9726,12 +9751,37 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"COMS BC3891",
+    "course_title":"SENIOR THESIS SEMINAR",
+    "course_descr":null,
+    "instructor":"Tiffany Tseng",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"00886",
+    "campus":null,
+    "class_id":"X3891-20263-001",
+    "course_subtitle":null,
+    "department":"Computer Science @Barnard",
+    "department_code":"COMS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMS\/X3891-20263-001\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263COMS3891X001",
+    "type":"SEMINAR"
+  },
+  {
     "course_code":"COMS BC3930",
     "course_title":"Creative Embedded Systems",
     "course_descr":"Ubiquitous computing is creating new canvases and opportunities for creative ideas.\n This class explores the use of microprocessors, distributed sensor networks, IoT,\n and intermedia systems for the purposes of creative expression. The course is delivered\n in a mixed lecture and lab format that introduces the fundamental concepts\n and theory behind embedded systems as well as issues particular to their creative\n employment. The key objective of the course is for students to conceive of and\n implement creative uses of computation.",
     "instructor":"Tiffany Tseng",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"2:40pm",
+    "scheduled_time_end":"3:55pm",
     "call_number":"00781",
     "campus":null,
     "class_id":"X3930-20263-001",
@@ -9739,14 +9789,14 @@
     "department":"Computer Science @Barnard",
     "department_code":"COMS",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMS\/X3930-20263-001\/",
-    "location":null,
+    "location":"To be announced",
     "method_of_instruction":null,
     "open_to":null,
     "points":"3",
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"TR",
     "section_key":"20263COMS3930X001",
     "type":"LECTURE"
   },
