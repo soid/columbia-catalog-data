@@ -5788,7 +5788,7 @@
   {
     "course_code":"BIOL BC1009",
     "course_title":"Plants in Life and Laboratory",
-    "course_descr":null,
+    "course_descr":"Description:\n This survey course with accompanying laboratory covers cell and molecular biology, biochemistry and physiology, development and genetics, evolution and ecology. Distinctively, the course emphasizes how plants are similar to and different from other organisms including not only humans and other vertebrate animals, but all other life-forms on earth.\n  \nThe course complements BIOL BC1001 Revolutionary Concepts in Biology. A student can fill her entire GER natural science requirement by combining the two. These courses do not, however, fulfill requirements for biology majors or pre-health students. Either or both are nonetheless excellent preparation for those wanting to then progress to BIOL BC1500-1503.\n  \nWeekly investigative lab sessions are a mixture of two types: (a) learning and practicing scientific, technical and analytical methods used by 21st century plant scientists and (b) learning skills to improve your every-day and life-time interactions with plants as forests, as timber sources, as foods and flavorings, as sources for drugs and fuels, and in other ways.\n  \nLearning outcomes: \n  \nDetail and systematize biological diversity and species relationships using words and diagrams\n  \nGrasp biochemistry cellularly and globally, emphasizing Carbon and Nitrogen cycles\n  \nContextualize plant-environment or plant-organism interactions including plant-human\n  \nSatisfies a Foundations distribution requirement, Natural Sciences with Lab\n  \nSatisfies a Mode of Thinking requirement: Thinking Locally",
     "instructor":"Hilary Callahan",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:25pm",
@@ -5804,7 +5804,10 @@
     "open_to":null,
     "points":"4.5",
     "prerequisites":[
-
+      [
+        "BIOL BC1001",
+        "BIOL BC1500"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20263BIOL1009X001",
@@ -7661,7 +7664,7 @@
   {
     "course_code":"BIOL GR9301",
     "course_title":"PRERESEARCH SEMINAR",
-    "course_descr":null,
+    "course_descr":"Required for all first-year PhD graduate students in the Biological Sciences program. The research of members of the faculty is presented.",
     "instructor":"Iva S Greenwald",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -7688,7 +7691,7 @@
   {
     "course_code":"BIOL GR9500",
     "course_title":"SUPERVISED INDIVIDUAL RESEARCH",
-    "course_descr":null,
+    "course_descr":"Students in the Biological Science PhD program only. Independent research in approved thesis sponsor laboratories.",
     "instructor":"Songtao Jia",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -8072,7 +8075,7 @@
   {
     "course_code":"BIOL UN3041",
     "course_title":"CELL BIOLOGY",
-    "course_descr":null,
+    "course_descr":"Prerequisites: one year of biology, normally BIOL UN2005-BIOL UN2006, or the equivalent. Cell Biology 3041\/4041 is an upper-division course that covers in depth all organelles of cells, how they make up tissues, secrete substances important for the organism, generate and adapt to their working environment in the body, move throughout development, and signal to each other. Because these topics were introduced in the Intro Course (taught by Mowshowitz and Chasin), this course or its equivalent is a pre-requisite for W3041\/4041. Students for whom this course is useful include biology, biochem or biomedical engineering majors, those preparing to apply for medical school or graduate school, and those doing or planning to start doing research in a biology or biomedical lab. SCE and TC students may register for this course, but they must first obtain the written permission of the instructor, by filling out a paper Registration Adjustment Form (Add\/Drop form). The form can be downloaded at the URL below, but must be signed by the instructor and returned to the office of the registrar. http:\/\/registrar.columbia.edu\/sites\/default\/files\/content\/reg-adjustment.pdf",
     "instructor":"Erin L Barnhart",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -8093,7 +8096,13 @@
     ],
     "points":"3",
     "prerequisites":[
-
+      [
+        "BIOL UN2005"
+      ],
+      [
+        "BIOL UN2006",
+        "W3041"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20263BIOL3041W001",
@@ -8152,7 +8161,7 @@
   {
     "course_code":"BIOL UN3500",
     "course_title":"INDEP BIOLOGICAL RESEARCH",
-    "course_descr":null,
+    "course_descr":"Prerequisites: Concurrent with registering for this course, a student must register with the department and provide a written invitation from a mentor; details of this procedure are available at http:\/\/www.columbia.edu\/cu\/biology\/courses\/w3500\/index.htm. Students must register for recitations UN3510 or consult the instructor. Corequisites: BIOL UN3510 The course involves independent study, faculty-supervised laboratory projects in contemporary biology. Concurrent with registering for this course, a student must register with the department, provide a written invitation from a mentor and submit a research proposal; details of this procedure are available at http:\/\/www.columbia.edu\/cu\/biology\/courses\/w3500\/index.htm. A paper summarizing results of the work is required by the last day of finals for a letter grade; no late papers will be accepted. See the course web site (above) for more details. Students can take anywhere from 2-4 points for this course.",
     "instructor":"Ron M Prywes",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -8168,7 +8177,10 @@
     "open_to":null,
     "points":"2-4",
     "prerequisites":[
-
+      [
+        "UN3510",
+        "BIOL UN3510"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20263BIOL3500W001",
@@ -9916,7 +9928,7 @@
   {
     "course_code":"COMS BC3122",
     "course_title":"DATA VISUALIZATION",
-    "course_descr":null,
+    "course_descr":"Data visualizations are a powerful tool for gaining knowledge, discovering hidden relationships and patterns, communicating messages, and influencing others\u2019 opinions and values. Visualizations help inform our personal decisions (Where will I go to college? Can I afford this housing?), community decisions, and societal decisions (How do we respond to climate change? Pandemics?). But if we cannot communicate our message clearly, a visualization\u2019s usefulness decreases and it can even be detrimental to our goals. In this course, students learn the fundamentals behind using graphs and charts to visually communicate ideas and gain practical experience with creating their own visualizations. We discuss the theory of visual communication, how the brain processes visual information, technical aspects of visualization implementation, ethics of data visualization, and data visualization research. Assignments consist of programming projects in Javascript with the D3 library. The class has a midterm and a final project (no final exam). Prerequisites: COMS W3134 (or equivalent). Experience with programming in Javascript is strongly recommended.",
     "instructor":"Faculty",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:55pm",
@@ -9932,7 +9944,9 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "COMS W3134"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20263COMS3122X001",
@@ -10024,7 +10038,7 @@
   {
     "course_code":"COMS BC3891",
     "course_title":"SENIOR THESIS SEMINAR",
-    "course_descr":null,
+    "course_descr":"Computer Science majors at Barnard can choose to pursue a year-long senior research thesis for their senior experience. A senior thesis is intended to be a substantial piece of work in which the student engages in independent and original research. They should register for two semesters of research projects in CS through their faculty advisor\u2019s home department (Barnard or Columbia), each for at least 3 credits (one in Fall and one in the Spring). They should additionally register for this course. The main goal is to provide students with a venue to discuss their senior thesis projects with each other. In the seminar, students learn how to communicate and present their work. They also become more familiar with other students\u2019 areas of research and other types of research projects that fall under the umbrella of computer science. The seminar sometimes also features guest speakers in various areas of CS; students participate and engage in discussion with the speaker, further developing their research communication skills. The instructor of this course functions as a secondary advisor for the students\u2019 projects. At the end of the academic year, the students present their projects to the CS community at Barnard.",
     "instructor":"Tiffany Tseng",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -28896,6 +28910,31 @@
     "type":"COLLOQUIA"
   },
   {
+    "course_code":"POLS BC3339",
+    "course_title":"COLL: CAMPAIGN MANAGEMENT",
+    "course_descr":null,
+    "instructor":"Michael Miller",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"00894",
+    "campus":null,
+    "class_id":"X3339-20263-001",
+    "course_subtitle":null,
+    "department":"Political Science @Barnard",
+    "department_code":"POLS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/POLS\/X3339-20263-001\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263POLS3339X001",
+    "type":"COLLOQUIA"
+  },
+  {
     "course_code":"POLS BC3341",
     "course_title":"COLL: GRASSROOTS ACTIVISMS AND SOCIAL CH",
     "course_descr":"How do ordinary people come together to enact social change in society? Focusing on the United States, this course explores how everyday people engage in collective action from the ground up, through social movements, community organizing, and other forms of advocacy and activisms. In particular, we will consider the role of grassroots movements and organizations as agents of democratic representation and catalysts for political transformation for marginalized communities. We will engage key questions about why groups choose to make political demands outside of formal institutional spaces, what kinds of visions for social change they put forward, how they seek to achieve their ideals, and how successful they are. The course will focus on contemporary activisms around racial justice, immigrant rights, LGBTQ+ rights, feminism, and labor.",
@@ -28993,6 +29032,31 @@
     ],
     "scheduled_days":null,
     "section_key":"20263POLS3411X001",
+    "type":"COLLOQUIA"
+  },
+  {
+    "course_code":"POLS BC3500",
+    "course_title":"COLL:POLIT ECON:CORRPTN\/CONTRL",
+    "course_descr":null,
+    "instructor":"Xiaobo Lu",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"00889",
+    "campus":null,
+    "class_id":"X3500-20263-001",
+    "course_subtitle":"COLL:POLIT ECON:CORRPTN\/C",
+    "department":"Political Science @Barnard",
+    "department_code":"POLS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/POLS\/X3500-20263-001\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263POLS3500X001",
     "type":"COLLOQUIA"
   },
   {
@@ -29099,6 +29163,106 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"POLS BC3695",
+    "course_title":"Race and Ethnic Politics",
+    "course_descr":null,
+    "instructor":"Sonya G Chen",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"00892",
+    "campus":null,
+    "class_id":"X3695-20263-001",
+    "course_subtitle":null,
+    "department":"Political Science @Barnard",
+    "department_code":"POLS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/POLS\/X3695-20263-001\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263POLS3695X001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"POLS BC3731",
+    "course_title":"DATA SCIENCE FOR POLITICS",
+    "course_descr":null,
+    "instructor":"Michael Miller",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"00893",
+    "campus":null,
+    "class_id":"X3731-20263-001",
+    "course_subtitle":null,
+    "department":"Political Science @Barnard",
+    "department_code":"POLS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/POLS\/X3731-20263-001\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263POLS3731X001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"POLS BC3799",
+    "course_title":"INDEPENDENT STUDY",
+    "course_descr":null,
+    "instructor":"Faculty",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"00890",
+    "campus":null,
+    "class_id":"X3799-20263-001",
+    "course_subtitle":null,
+    "department":"Political Science @Barnard",
+    "department_code":"POLS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/POLS\/X3799-20263-001\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"1-4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263POLS3799X001",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"POLS BC3799",
+    "course_title":"INDEPENDENT STUDY",
+    "course_descr":null,
+    "instructor":"Faculty",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"00891",
+    "campus":null,
+    "class_id":"X3799-20263-002",
+    "course_subtitle":null,
+    "department":"Political Science @Barnard",
+    "department_code":"POLS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/POLS\/X3799-20263-002\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"1-4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263POLS3799X002",
+    "type":"INDEPENDENT"
+  },
+  {
     "course_code":"POLS GR8471",
     "course_title":"CHINESE POLIT ECON-COMP PERSP",
     "course_descr":"Prerequisites: the instructor's permission. A graduate seminar designed to explore the content, process, and problems of China's political and economic reforms in comparative perspective. Please see the Courseworks site for details",
@@ -29122,6 +29286,31 @@
     "scheduled_days":null,
     "section_key":"20263POLS8471G001",
     "type":"COLLOQUIA"
+  },
+  {
+    "course_code":"POLS GU4875",
+    "course_title":"RUSSIA AND THE WEST",
+    "course_descr":null,
+    "instructor":"Kimberly Marten",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"00888",
+    "campus":null,
+    "class_id":"W4875-20263-001",
+    "course_subtitle":null,
+    "department":"Political Science @Barnard",
+    "department_code":"POLS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/POLS\/W4875-20263-001\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263POLS4875W001",
+    "type":"LECTURE"
   },
   {
     "course_code":"PROS D5831",
