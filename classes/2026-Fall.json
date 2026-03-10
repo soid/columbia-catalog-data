@@ -4674,6 +4674,33 @@
     "type":"INDEPENDENT"
   },
   {
+    "course_code":"ARCH A6921",
+    "course_title":"AI FOR EXISTING BUILDINGS",
+    "course_descr":null,
+    "instructor":"Kivanc Kose",
+    "scheduled_time_start":"6:00pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"10715",
+    "campus":null,
+    "class_id":"A6921-20263-001",
+    "course_subtitle":null,
+    "department":"Architecture, Planning and Preservation",
+    "department_code":"ARCH",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ARCH\/A6921-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture"
+    ],
+    "points":"1.5",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20263ARCH6921A001",
+    "type":"SEMINAR"
+  },
+  {
     "course_code":"ARCH A6927",
     "course_title":"ARCHITECTURE, TECHNOLOGY AND THE ENVIRON",
     "course_descr":null,
@@ -4699,6 +4726,60 @@
     "scheduled_days":"M",
     "section_key":"20263ARCH6927A001",
     "type":"SEMINAR"
+  },
+  {
+    "course_code":"ARCH A6934",
+    "course_title":"TRAD BUILDING TECHNOLOGY",
+    "course_descr":null,
+    "instructor":"Tim Michiels",
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"11:30am",
+    "call_number":"10716",
+    "campus":null,
+    "class_id":"A6934-20263-001",
+    "course_subtitle":null,
+    "department":"Architecture, Planning and Preservation",
+    "department_code":"ARCH",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ARCH\/A6934-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20263ARCH6934A001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"ARCH A6937",
+    "course_title":"VISUALIZATION TECHNIQUES FOR ARCH PRESER",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"6:00pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"10717",
+    "campus":null,
+    "class_id":"A6937-20263-001",
+    "course_subtitle":"VISUALIZATION TECHNIQUES",
+    "department":"Architecture, Planning and Preservation",
+    "department_code":"ARCH",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ARCH\/A6937-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture"
+    ],
+    "points":"1.5",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20263ARCH6937A001",
+    "type":"LECTURE"
   },
   {
     "course_code":"ARCH A6938",
@@ -13359,6 +13440,56 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"ECON BC1003",
+    "course_title":"INTRO TO ECONOMIC REASONING",
+    "course_descr":null,
+    "instructor":"John Park",
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"2:25pm",
+    "call_number":"00907",
+    "campus":null,
+    "class_id":"X1003-20263-004",
+    "course_subtitle":"INTRO TO ECONOMIC REASONI",
+    "department":"Economics @Barnard",
+    "department_code":"ECON",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ECON\/X1003-20263-004\/",
+    "location":"To be announced",
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20263ECON1003X004",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ECON BC1003",
+    "course_title":"INTRO TO ECONOMIC REASONING",
+    "course_descr":null,
+    "instructor":"John Park",
+    "scheduled_time_start":"2:40pm",
+    "scheduled_time_end":"3:55pm",
+    "call_number":"00908",
+    "campus":null,
+    "class_id":"X1003-20263-005",
+    "course_subtitle":"INTRO TO ECONOMIC REASONI",
+    "department":"Economics @Barnard",
+    "department_code":"ECON",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ECON\/X1003-20263-005\/",
+    "location":"To be announced",
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20263ECON1003X005",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"ECON BC1007",
     "course_title":"MATH METHODS FOR ECONOMICS",
     "course_descr":"Covers basic mathematical methods required for intermediate theory courses and upper level electives in economics, with a strong emphasis on applications. Topics include simultaneous equations, functions, partial differentiation, optimization of functions of more than one variable, constrained optimization, and financial mathematics. This course satisfies the Calculus requirement for the Barnard Economics major. NOTE: students who have previously taken Intermediate Micro Theory (ECON BC3035 or the equivalent) are *not* allowed to take Math Methods for Economics.",
@@ -13683,64 +13814,6 @@
     ],
     "scheduled_days":"MW",
     "section_key":"20263ECON3035X001",
-    "type":"LECTURE"
-  },
-  {
-    "course_code":"ECON BC3035",
-    "course_title":"INTERMEDIATE MICROECONOMICS",
-    "course_descr":"Prerequisites: An introductory course in microeconomics or a combined macro\/micro principles course (ECON BC1003 or ECON W1105, or the equivalent) and one semester of calculus or ECON BC1007, or permission of the instructor. Preferences and demand; production, cost, and supply; behavior of markets in partial equilibrium; resource allocation in general equilibrium; pricing of goods and services under alternative market structures; implications of individual decision-making for labor supply; income distribution, welfare, and public policy. Emphasis on problem solving.",
-    "instructor":"John Park",
-    "scheduled_time_start":"1:10pm",
-    "scheduled_time_end":"2:25pm",
-    "call_number":"00701",
-    "campus":null,
-    "class_id":"X3035-20263-002",
-    "course_subtitle":"INTERMEDIATE MICROECONOMI",
-    "department":"Economics @Barnard",
-    "department_code":"ECON",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ECON\/X3035-20263-002\/",
-    "location":"To be announced",
-    "method_of_instruction":null,
-    "open_to":null,
-    "points":"4",
-    "prerequisites":[
-      [
-        "ECON BC1003",
-        "ECON W1105",
-        "ECON BC1007"
-      ]
-    ],
-    "scheduled_days":"TR",
-    "section_key":"20263ECON3035X002",
-    "type":"LECTURE"
-  },
-  {
-    "course_code":"ECON BC3035",
-    "course_title":"INTERMEDIATE MICROECONOMICS",
-    "course_descr":"Prerequisites: An introductory course in microeconomics or a combined macro\/micro principles course (ECON BC1003 or ECON W1105, or the equivalent) and one semester of calculus or ECON BC1007, or permission of the instructor. Preferences and demand; production, cost, and supply; behavior of markets in partial equilibrium; resource allocation in general equilibrium; pricing of goods and services under alternative market structures; implications of individual decision-making for labor supply; income distribution, welfare, and public policy. Emphasis on problem solving.",
-    "instructor":"John Park",
-    "scheduled_time_start":"2:40pm",
-    "scheduled_time_end":"3:55pm",
-    "call_number":"00702",
-    "campus":null,
-    "class_id":"X3035-20263-003",
-    "course_subtitle":"INTERMEDIATE MICROECONOMI",
-    "department":"Economics @Barnard",
-    "department_code":"ECON",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ECON\/X3035-20263-003\/",
-    "location":"To be announced",
-    "method_of_instruction":null,
-    "open_to":null,
-    "points":"4",
-    "prerequisites":[
-      [
-        "ECON BC1003",
-        "ECON W1105",
-        "ECON BC1007"
-      ]
-    ],
-    "scheduled_days":"MW",
-    "section_key":"20263ECON3035X003",
     "type":"LECTURE"
   },
   {
@@ -24213,6 +24286,56 @@
     "type":"STUDIO"
   },
   {
+    "course_code":"MPP_ UN1413",
+    "course_title":"GUITAR (BLUEGRASS) INSTRUCTION",
+    "course_descr":null,
+    "instructor":"Hilary Hawke",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"10713",
+    "campus":null,
+    "class_id":"W1413-20263-001",
+    "course_subtitle":null,
+    "department":"Music",
+    "department_code":"MPP_",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/MPP_\/W1413-20263-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263MPP_1413W001",
+    "type":"STUDIO"
+  },
+  {
+    "course_code":"MPP_ UN1414",
+    "course_title":"Guitar (Popular-Contemporary) Instructio",
+    "course_descr":null,
+    "instructor":"James E Moore",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"10714",
+    "campus":null,
+    "class_id":"W1414-20263-001",
+    "course_subtitle":"Guitar (Pop-Cont) Instruc",
+    "department":"Music",
+    "department_code":"MPP_",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/MPP_\/W1414-20263-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263MPP_1414W001",
+    "type":"STUDIO"
+  },
+  {
     "course_code":"MTFC GR0001",
     "course_title":"F\/T MATRICULATION & FACILITIES",
     "course_descr":"M&F",
@@ -28902,6 +29025,114 @@
     "scheduled_days":null,
     "section_key":"20263PHYS3900X001",
     "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"PLAN A4008",
+    "course_title":"HISTORY & THEORY OF PLANNING",
+    "course_descr":null,
+    "instructor":"Hiba Bou Akar",
+    "scheduled_time_start":"10:00am",
+    "scheduled_time_end":"1:00pm",
+    "call_number":"10718",
+    "campus":null,
+    "class_id":"A4008-20263-001",
+    "course_subtitle":"HISTORY & THEORY OF PLANN",
+    "department":"Architecture, Planning and Preservation",
+    "department_code":"PLAN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PLAN\/A4008-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20263PLAN4008A001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"PLAN A4022",
+    "course_title":"FUNDAMNTLS OF URB DIGITAL DES",
+    "course_descr":null,
+    "instructor":"Sybil Wa",
+    "scheduled_time_start":"3:00pm",
+    "scheduled_time_end":"5:00pm",
+    "call_number":"10719",
+    "campus":null,
+    "class_id":"A4022-20263-001",
+    "course_subtitle":"FUNDAMNTLS OF URB DIGITAL",
+    "department":"Architecture, Planning and Preservation",
+    "department_code":"PLAN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PLAN\/A4022-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture"
+    ],
+    "points":"1.5",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20263PLAN4022A001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"PLAN A4050",
+    "course_title":"UP ELECT INTERNSHIP",
+    "course_descr":null,
+    "instructor":"Douglas Woodward",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"10720",
+    "campus":null,
+    "class_id":"A4050-20263-001",
+    "course_subtitle":null,
+    "department":"Architecture, Planning and Preservation",
+    "department_code":"PLAN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PLAN\/A4050-20263-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture"
+    ],
+    "points":"1.5",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263PLAN4050A001",
+    "type":"INTERNSHIP"
+  },
+  {
+    "course_code":"PLAN A4208",
+    "course_title":"PLANNING METHODS",
+    "course_descr":null,
+    "instructor":"Hugo Sarmiento",
+    "scheduled_time_start":"3:00pm",
+    "scheduled_time_end":"5:00pm",
+    "call_number":"10721",
+    "campus":null,
+    "class_id":"A4208-20263-001",
+    "course_subtitle":null,
+    "department":"Architecture, Planning and Preservation",
+    "department_code":"PLAN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PLAN\/A4208-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20263PLAN4208A001",
+    "type":"LECTURE"
   },
   {
     "course_code":"PLAN A6272",
