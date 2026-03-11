@@ -545,7 +545,7 @@
     "call_number":"00910",
     "campus":null,
     "class_id":"X3110-20263-001",
-    "course_subtitle":null,
+    "course_subtitle":"CARIBBEAN WOMEN HERSTORIES",
     "department":"Africana Studies (AFSB)",
     "department_code":"AFRS",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/AFRS\/X3110-20263-001\/",
@@ -2728,6 +2728,33 @@
     "type":"SEMINAR"
   },
   {
+    "course_code":"ARCH A4000",
+    "course_title":"NYP DESIGN WORKSHOP",
+    "course_descr":null,
+    "instructor":"Thomas de Monchaux",
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"1:00pm",
+    "call_number":"10741",
+    "campus":null,
+    "class_id":"A4000-20263-001",
+    "course_subtitle":null,
+    "department":"Architecture, Planning and Preservation",
+    "department_code":"ARCH",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ARCH\/A4000-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20263ARCH4000A001",
+    "type":"STUDIO"
+  },
+  {
     "course_code":"ARCH A4001",
     "course_title":"CORE STUDIO SEMESTER I",
     "course_descr":null,
@@ -2834,6 +2861,33 @@
     "scheduled_days":"M",
     "section_key":"20263ARCH4023A001",
     "type":"LECTURE"
+  },
+  {
+    "course_code":"ARCH A4027",
+    "course_title":"ARCH-PLANNING-PRESERVATION-NY",
+    "course_descr":null,
+    "instructor":"Rosalie Genevro",
+    "scheduled_time_start":"10:00am",
+    "scheduled_time_end":"1:00pm",
+    "call_number":"10742",
+    "campus":null,
+    "class_id":"A4027-20263-001",
+    "course_subtitle":"ARCH-PLANNING-PRESERVATIO",
+    "department":"Architecture, Planning and Preservation",
+    "department_code":"ARCH",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ARCH\/A4027-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20263ARCH4027A001",
+    "type":"SEMINAR"
   },
   {
     "course_code":"ARCH A4032",
@@ -5616,7 +5670,7 @@
     "course_code":"ASST BC3999",
     "course_title":"INDEPENDENT STUDY",
     "course_descr":"Prerequisites: Open to majors who have fulfilled basic major requirements or written permission of the staff member who will supervise the project. Specialized reading and research projects planned in consultation with members of the Asian and Middle Eastern Cultures teaching staff.",
-    "instructor":"Nathanael P Shelley",
+    "instructor":"David L Moerman",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"00657",
@@ -5635,6 +5689,31 @@
     ],
     "scheduled_days":null,
     "section_key":"20263ASST3999X005",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"ASST BC3999",
+    "course_title":"INDEPENDENT STUDY",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"00912",
+    "campus":null,
+    "class_id":"X3999-20263-006",
+    "course_subtitle":null,
+    "department":"Asian and Middle East @Barnard",
+    "department_code":"ASST",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ASST\/X3999-20263-006\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"1-4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263ASST3999X006",
     "type":"INDEPENDENT"
   },
   {
@@ -9834,6 +9913,31 @@
     "type":"INDEPENDENT"
   },
   {
+    "course_code":"CLRS GU4011",
+    "course_title":"DOSTOEVSKY,TOLSTOY & ENG NOVEL",
+    "course_descr":null,
+    "instructor":"Liza Knapp",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"11:25am",
+    "call_number":"10748",
+    "campus":null,
+    "class_id":"W4011-20263-001",
+    "course_subtitle":"DOSTOEVSKY,TOLSTOY & ENG",
+    "department":"Slavic Languages",
+    "department_code":"CLRS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CLRS\/W4011-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20263CLRS4011W001",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"COGS UN1001",
     "course_title":"Introduction to Cognitive Science",
     "course_descr":"The goal of cognitive science \u2014 and of this course \u2014 is to understand how the mind works. Trying to understand our own minds is perhaps the most ambitious and exciting (and difficult) project in all of science, and this project requires tools drawn from fields including experimental psychology, computer science and artificial intelligence, linguistics, vision science, philosophy, anthropology, behavioral economics, and several varieties of neuroscience (among others). This course will introduce you to the major tools and theories from these areas, as they relate to the study of the mind. We will employ these perspectives while exploring the nature of mental processes such as perception, reasoning, memory, attention, imagery, language, intelligence, decision-making, morality\u2014 and even attraction and love. In sum, this course will expose you to cognitive science, the assumptions on which it rests, and many of the most important and fascinating results obtained so far.",
@@ -10198,8 +10302,8 @@
     "course_title":"SENIOR THESIS SEMINAR",
     "course_descr":"Computer Science majors at Barnard can choose to pursue a year-long senior research thesis for their senior experience. A senior thesis is intended to be a substantial piece of work in which the student engages in independent and original research. They should register for two semesters of research projects in CS through their faculty advisor\u2019s home department (Barnard or Columbia), each for at least 3 credits (one in Fall and one in the Spring). They should additionally register for this course. The main goal is to provide students with a venue to discuss their senior thesis projects with each other. In the seminar, students learn how to communicate and present their work. They also become more familiar with other students\u2019 areas of research and other types of research projects that fall under the umbrella of computer science. The seminar sometimes also features guest speakers in various areas of CS; students participate and engage in discussion with the speaker, further developing their research communication skills. The instructor of this course functions as a secondary advisor for the students\u2019 projects. At the end of the academic year, the students present their projects to the CS community at Barnard.",
     "instructor":"Tiffany Tseng",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"12:00pm",
+    "scheduled_time_end":"1:50pm",
     "call_number":"00886",
     "campus":null,
     "class_id":"X3891-20263-001",
@@ -10207,14 +10311,14 @@
     "department":"Computer Science @Barnard",
     "department_code":"COMS",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMS\/X3891-20263-001\/",
-    "location":null,
+    "location":"To be announced",
     "method_of_instruction":null,
     "open_to":null,
     "points":"1",
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"W",
     "section_key":"20263COMS3891X001",
     "type":"SEMINAR"
   },
@@ -15736,8 +15840,8 @@
     "course_title":"THE ART OF THE ESSAY",
     "course_descr":"NOTE: Students who are on the electronic waiting list or who are interested in the class but are not yet registered MUST attend the first day of class.\n  \nFall 2022 course description: Essay writing above the first-year level. Reading and writing various types of essays to develop one's natural writing voice and craft thoughtful, sophisticated and personal essays.\u00a0\n  \nSummer 2022 course description: The Art of the Essay is a writing workshop designed to help you contribute meaningfully in public discourse about the issues that matter most to you. You will write three types of essays in this class, all of which will center personal experience as valuable evidence of larger phenomena or patterns. Your essays will build in complexity, as you introduce more types of sources into conversation about your topics as the semester goes on. You will hone your skills of observing, describing, questioning, analyzing, and persuading. You will be challenged to confront complications and to craft nuanced explorations of your topics. We will also regularly read and discuss the work of contemporary published essayists, identifying key writerly moves that you may adapt as you attempt your own essays.\u00a0 You will have many opportunities throughout the semester to brainstorm ideas, receive feedback from me and your peers, and develop and revise your drafts. At the end of the semester, you will choose a publication to which to submit or pitch one or more of your essays.",
     "instructor":"Margaret R Ellsberg",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"4:00pm",
     "call_number":"00343",
     "campus":null,
     "class_id":"X3103-20263-002",
@@ -15745,14 +15849,14 @@
     "department":"English @Barnard",
     "department_code":"ENGL",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/X3103-20263-002\/",
-    "location":null,
+    "location":"To be announced",
     "method_of_instruction":null,
     "open_to":null,
     "points":"3",
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"T",
     "section_key":"20263ENGL3103X002",
     "type":"WORKSHOP"
   },
@@ -16111,8 +16215,8 @@
     "course_title":"THE AMERICAN COWBOY AND THE ICONOGRAPHY",
     "course_descr":"This entertaining and edifying lecture-not-unmixed-with conversation course will\n consider the icon of the American cowboy, with its signature embrace of\n masculinity, stoicism, elegiac music, and identification with nature. We will read\n Cormac McCarthy\u2019s dazzling Border Trilogy and other works that emerge from\n this icon, watch a curated series of cowboy movies, and write critical essays.",
     "instructor":"Margaret R Ellsberg",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"11:40am",
+    "scheduled_time_end":"12:55pm",
     "call_number":"00356",
     "campus":null,
     "class_id":"X3130-20263-001",
@@ -16120,14 +16224,14 @@
     "department":"English @Barnard",
     "department_code":"ENGL",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/X3130-20263-001\/",
-    "location":null,
+    "location":"To be announced",
     "method_of_instruction":null,
     "open_to":null,
     "points":"3",
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"TR",
     "section_key":"20263ENGL3130X001",
     "type":"LECTURE"
   },
@@ -16616,8 +16720,8 @@
     "course_title":"THE MARRIAGE PLOT",
     "course_descr":"This upper-level research-oriented seminar will engage with literary expressions of the universally interesting topic of marriage. Tony Tanner in his famous \nAdultery in the Novel \ncharacterizes marriage as \u201cthe structure which supports all structure.\u201d Contemporary critics have seen marriage as essential to maintaining the \u201cfamily values\u201d of the bourgeoisie; feminists and Marxists have challenged the economic assumptions of patriarchally-defined marriage. Folklorists have treated marriage as the endpoint of the search for a safe domestic space.\n  \nStarting in ancient times with classic fairy tales and the Hebrew Bible, moving on to a famous medieval poem, a medieval memoir, and three nineteenth-century novels, we will encounter cultural expressions which address intimate partnerships with an emphasis on marriage as a defining condition.",
     "instructor":"Margaret R Ellsberg",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"4:00pm",
     "call_number":"00370",
     "campus":null,
     "class_id":"X3249-20263-001",
@@ -16625,14 +16729,14 @@
     "department":"English @Barnard",
     "department_code":"ENGL",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/X3249-20263-001\/",
-    "location":null,
+    "location":"To be announced",
     "method_of_instruction":null,
     "open_to":null,
     "points":"4",
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"R",
     "section_key":"20263ENGL3249X001",
     "type":"SEMINAR"
   },
@@ -16916,8 +17020,8 @@
     "course_title":"SENIOR SEMINAR IN ENGLISH",
     "course_descr":"Enrollment limited to Barnard senior English majors. To see the current course description for each section, visit the English Department website: \nhttps:\/\/english.barnard.edu\/english\/senior-seminars",
     "instructor":"Patricia D Denison",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"12:10pm",
+    "scheduled_time_end":"2:00pm",
     "call_number":"00352",
     "campus":null,
     "class_id":"X3997-20263-004",
@@ -16925,14 +17029,14 @@
     "department":"English @Barnard",
     "department_code":"ENGL",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/X3997-20263-004\/",
-    "location":null,
+    "location":"To be announced",
     "method_of_instruction":null,
     "open_to":null,
     "points":"4",
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"W",
     "section_key":"20263ENGL3997X004",
     "type":"SEMINAR"
   },
@@ -17887,6 +17991,31 @@
     "scheduled_days":"MW",
     "section_key":"20263FREN3021X001",
     "type":"LECTURE"
+  },
+  {
+    "course_code":"FREN BC3099",
+    "course_title":"INDEPENDENT STUDY",
+    "course_descr":null,
+    "instructor":"Laurie Postlewate",
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"2:25pm",
+    "call_number":"00911",
+    "campus":null,
+    "class_id":"X3099-20263-001",
+    "course_subtitle":null,
+    "department":"French @Barnard",
+    "department_code":"FREN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FREN\/X3099-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"1-4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20263FREN3099X001",
+    "type":"INDEPENDENT"
   },
   {
     "course_code":"FREN BC3101",
@@ -19071,7 +19200,7 @@
     "call_number":"00004",
     "campus":null,
     "class_id":"X1001-20263-003",
-    "course_subtitle":"FIRST-YEAR WRITING AT BAR",
+    "course_subtitle":"Subverting the Script",
     "department":"First-Year Writing @Barnard",
     "department_code":"FYWB",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/FYWB\/X1001-20263-003\/",
@@ -19096,7 +19225,7 @@
     "call_number":"00005",
     "campus":null,
     "class_id":"X1001-20263-004",
-    "course_subtitle":"FIRST-YEAR WRITING AT BAR",
+    "course_subtitle":"Subverting the Script",
     "department":"First-Year Writing @Barnard",
     "department_code":"FYWB",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/FYWB\/X1001-20263-004\/",
@@ -19171,7 +19300,7 @@
     "call_number":"00008",
     "campus":null,
     "class_id":"X1001-20263-007",
-    "course_subtitle":"FIRST-YEAR WRITING AT BAR",
+    "course_subtitle":"Arts of Resistance",
     "department":"First-Year Writing @Barnard",
     "department_code":"FYWB",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/FYWB\/X1001-20263-007\/",
@@ -19196,7 +19325,7 @@
     "call_number":"00010",
     "campus":null,
     "class_id":"X1001-20263-008",
-    "course_subtitle":"FIRST-YEAR WRITING AT BAR",
+    "course_subtitle":"Bodies and Desires",
     "department":"First-Year Writing @Barnard",
     "department_code":"FYWB",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/FYWB\/X1001-20263-008\/",
@@ -19266,8 +19395,8 @@
     "course_title":"FIRST-YEAR WRITING AT BARNARD",
     "course_descr":"First-Year Writing (FYW) courses invite students into the vibrant scholarly life of the college. Working in small, discussion-based seminar classes over the course of one semester, we read challenging literary texts and critical scholarship, helping students to develop fundamental skills in analysis and academic writing that allow them to take their place in vitally important scholarly conversations. Students may choose from a variety of special topics\u00a0that focus\u00a0on a particular literary tradition, theme, or phenomenon. Please see\u00a0https:\/\/firstyear.barnard.edu\/fyw\/course-listings for full course descriptions.",
     "instructor":"Vrinda Condillac",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"2:25pm",
     "call_number":"00014",
     "campus":null,
     "class_id":"X1001-20263-011",
@@ -19275,14 +19404,14 @@
     "department":"First-Year Writing @Barnard",
     "department_code":"FYWB",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/FYWB\/X1001-20263-011\/",
-    "location":null,
+    "location":"To be announced",
     "method_of_instruction":null,
     "open_to":null,
     "points":"3",
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"MW",
     "section_key":"20263FYWB1001X011",
     "type":"SEMINAR"
   },
@@ -19290,49 +19419,24 @@
     "course_code":"FYWB BC1001",
     "course_title":"FIRST-YEAR WRITING AT BARNARD",
     "course_descr":"First-Year Writing (FYW) courses invite students into the vibrant scholarly life of the college. Working in small, discussion-based seminar classes over the course of one semester, we read challenging literary texts and critical scholarship, helping students to develop fundamental skills in analysis and academic writing that allow them to take their place in vitally important scholarly conversations. Students may choose from a variety of special topics\u00a0that focus\u00a0on a particular literary tradition, theme, or phenomenon. Please see\u00a0https:\/\/firstyear.barnard.edu\/fyw\/course-listings for full course descriptions.",
-    "instructor":"Vrinda Condillac",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
-    "call_number":"00015",
-    "campus":null,
-    "class_id":"X1001-20263-012",
-    "course_subtitle":"Seeing, Surveilling [...]",
-    "department":"First-Year Writing @Barnard",
-    "department_code":"FYWB",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FYWB\/X1001-20263-012\/",
-    "location":null,
-    "method_of_instruction":null,
-    "open_to":null,
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":null,
-    "section_key":"20263FYWB1001X012",
-    "type":"SEMINAR"
-  },
-  {
-    "course_code":"FYWB BC1001",
-    "course_title":"FIRST-YEAR WRITING AT BARNARD",
-    "course_descr":"First-Year Writing (FYW) courses invite students into the vibrant scholarly life of the college. Working in small, discussion-based seminar classes over the course of one semester, we read challenging literary texts and critical scholarship, helping students to develop fundamental skills in analysis and academic writing that allow them to take their place in vitally important scholarly conversations. Students may choose from a variety of special topics\u00a0that focus\u00a0on a particular literary tradition, theme, or phenomenon. Please see\u00a0https:\/\/firstyear.barnard.edu\/fyw\/course-listings for full course descriptions.",
     "instructor":"Quincy Jones",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"2:25pm",
     "call_number":"00016",
     "campus":null,
     "class_id":"X1001-20263-013",
-    "course_subtitle":"FIRST-YEAR WRITING AT BAR",
+    "course_subtitle":"WOC in Speculative Lit",
     "department":"First-Year Writing @Barnard",
     "department_code":"FYWB",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/FYWB\/X1001-20263-013\/",
-    "location":null,
+    "location":"To be announced",
     "method_of_instruction":null,
     "open_to":null,
     "points":"3",
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"TR",
     "section_key":"20263FYWB1001X013",
     "type":"SEMINAR"
   },
@@ -19341,23 +19445,23 @@
     "course_title":"FIRST-YEAR WRITING AT BARNARD",
     "course_descr":"First-Year Writing (FYW) courses invite students into the vibrant scholarly life of the college. Working in small, discussion-based seminar classes over the course of one semester, we read challenging literary texts and critical scholarship, helping students to develop fundamental skills in analysis and academic writing that allow them to take their place in vitally important scholarly conversations. Students may choose from a variety of special topics\u00a0that focus\u00a0on a particular literary tradition, theme, or phenomenon. Please see\u00a0https:\/\/firstyear.barnard.edu\/fyw\/course-listings for full course descriptions.",
     "instructor":"Quincy Jones",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"2:40pm",
+    "scheduled_time_end":"3:55pm",
     "call_number":"00017",
     "campus":null,
     "class_id":"X1001-20263-014",
-    "course_subtitle":"FIRST-YEAR WRITING AT BAR",
+    "course_subtitle":"WOC in Speculative Lit",
     "department":"First-Year Writing @Barnard",
     "department_code":"FYWB",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/FYWB\/X1001-20263-014\/",
-    "location":null,
+    "location":"To be announced",
     "method_of_instruction":null,
     "open_to":null,
     "points":"3",
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"TR",
     "section_key":"20263FYWB1001X014",
     "type":"SEMINAR"
   },
@@ -19571,7 +19675,7 @@
     "call_number":"00009",
     "campus":null,
     "class_id":"X1002-20263-002",
-    "course_subtitle":"FIRST-YEAR WRITING WORKSH",
+    "course_subtitle":"Reading the Body",
     "department":"First-Year Writing @Barnard",
     "department_code":"FYWB",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/FYWB\/X1002-20263-002\/",
@@ -19596,7 +19700,7 @@
     "call_number":"00011",
     "campus":null,
     "class_id":"X1002-20263-003",
-    "course_subtitle":"FIRST-YEAR WRITING WORKSH",
+    "course_subtitle":"Bodies and Desires",
     "department":"First-Year Writing @Barnard",
     "department_code":"FYWB",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/FYWB\/X1002-20263-003\/",
@@ -20774,8 +20878,8 @@
     "course_title":"Margins of the Middle Ages",
     "course_descr":"This seminar course examines how people during the early Middle Ages defined their existence through negotiated boundaries of gender, class, ethnicity, race, religion, and other aspects of the human condition. Our work will curate the contributions of marginalized groups to decenter traditional narratives. Students will leave this course with a broad understanding of early medieval history, an appreciation of historical work done by people often omitted from our histories, and a mastery of historical and interdisciplinary tools for promoting our awareness and understanding of marginalized groups. Work will include two research papers, including one focused on a manuscript selected from the Columbia collections.",
     "instructor":"Matthew Delvaux",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"4:00pm",
     "call_number":"00902",
     "campus":null,
     "class_id":"X3098-20263-001",
@@ -20783,14 +20887,14 @@
     "department":"History @Barnard",
     "department_code":"HIST",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/HIST\/X3098-20263-001\/",
-    "location":null,
+    "location":"To be announced",
     "method_of_instruction":null,
     "open_to":null,
     "points":"4",
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"R",
     "section_key":"20263HIST3098X001",
     "type":"SEMINAR"
   },
@@ -29160,6 +29264,87 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"PLAN A4312",
+    "course_title":"RE FINANCE II: CASE STUDIES",
+    "course_descr":null,
+    "instructor":"Christopher W Munsell",
+    "scheduled_time_start":"6:00pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"10743",
+    "campus":null,
+    "class_id":"A4312-20263-001",
+    "course_subtitle":"RE FINANCE II: CASE STUDI",
+    "department":"Architecture, Planning and Preservation",
+    "department_code":"PLAN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PLAN\/A4312-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20263PLAN4312A001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"PLAN A4326",
+    "course_title":"REAL ESTATE EXCEL MODELING TUTORIAL II",
+    "course_descr":null,
+    "instructor":"Eric B Andersen",
+    "scheduled_time_start":"6:30pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"10744",
+    "campus":null,
+    "class_id":"A4326-20263-001",
+    "course_subtitle":"RE EXCEL MODELING TUTORIA",
+    "department":"Architecture, Planning and Preservation",
+    "department_code":"PLAN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PLAN\/A4326-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20263PLAN4326A001",
+    "type":"TUTORIAL"
+  },
+  {
+    "course_code":"PLAN A4539",
+    "course_title":"THE DEVELOPMENT PROCESS: DEAL STRUCTURIN",
+    "course_descr":null,
+    "instructor":"Cecily C King",
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"12:00pm",
+    "call_number":"10745",
+    "campus":null,
+    "class_id":"A4539-20263-001",
+    "course_subtitle":"DEV PROC:  DEAL STRUCTURI",
+    "department":"Architecture, Planning and Preservation",
+    "department_code":"PLAN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PLAN\/A4539-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20263PLAN4539A001",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"PLAN A4577",
     "course_title":"GEOGRAPHICAL INFO SYS",
     "course_descr":null,
@@ -29239,6 +29424,33 @@
     "scheduled_days":"M",
     "section_key":"20263PLAN6009A001",
     "type":"LECTURE"
+  },
+  {
+    "course_code":"PLAN A6050",
+    "course_title":"RED ELECTIVE INTERNSHIP",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"10746",
+    "campus":null,
+    "class_id":"A6050-20263-001",
+    "course_subtitle":null,
+    "department":"Architecture, Planning and Preservation",
+    "department_code":"PLAN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PLAN\/A6050-20263-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture"
+    ],
+    "points":"1.5",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263PLAN6050A001",
+    "type":"INTERNSHIP"
   },
   {
     "course_code":"PLAN A6088",
@@ -29322,6 +29534,87 @@
     "type":"SEMINAR"
   },
   {
+    "course_code":"PLAN A6252",
+    "course_title":"ARCH & DEV DIALOGUES",
+    "course_descr":null,
+    "instructor":"Raquel Ramati",
+    "scheduled_time_start":"11:00am",
+    "scheduled_time_end":"1:00pm",
+    "call_number":"10749",
+    "campus":null,
+    "class_id":"A6252-20263-001",
+    "course_subtitle":null,
+    "department":"Architecture, Planning and Preservation",
+    "department_code":"PLAN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PLAN\/A6252-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture"
+    ],
+    "points":"1.5",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20263PLAN6252A001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"PLAN A6259",
+    "course_title":"US REIT ANALYSIS & INVESTMENT",
+    "course_descr":null,
+    "instructor":"David A Kruth",
+    "scheduled_time_start":"11:00am",
+    "scheduled_time_end":"1:00pm",
+    "call_number":"10750",
+    "campus":null,
+    "class_id":"A6259-20263-001",
+    "course_subtitle":"US REIT ANALYSIS & INVEST",
+    "department":"Architecture, Planning and Preservation",
+    "department_code":"PLAN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PLAN\/A6259-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20263PLAN6259A001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"PLAN A6265",
+    "course_title":"UNDERWRITING",
+    "course_descr":null,
+    "instructor":"Christopher W Munsell",
+    "scheduled_time_start":"3:30pm",
+    "scheduled_time_end":"5:30pm",
+    "call_number":"10751",
+    "campus":null,
+    "class_id":"A6265-20263-001",
+    "course_subtitle":null,
+    "department":"Architecture, Planning and Preservation",
+    "department_code":"PLAN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PLAN\/A6265-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20263PLAN6265A001",
+    "type":"SEMINAR"
+  },
+  {
     "course_code":"PLAN A6272",
     "course_title":"NEW YORK RISING: HOW RE SHAPES A CITY",
     "course_descr":null,
@@ -29346,6 +29639,33 @@
     ],
     "scheduled_days":"F",
     "section_key":"20263PLAN6272A001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"PLAN A6281",
+    "course_title":"HOTEL DEVPT\/INVESTMNT ANALYSIS",
+    "course_descr":null,
+    "instructor":"Adam S Feil",
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"11:00am",
+    "call_number":"10752",
+    "campus":null,
+    "class_id":"A6281-20263-001",
+    "course_subtitle":"HOTEL DEVPT\/INVESTMNT ANA",
+    "department":"Architecture, Planning and Preservation",
+    "department_code":"PLAN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PLAN\/A6281-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture"
+    ],
+    "points":"1.5",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"F",
+    "section_key":"20263PLAN6281A001",
     "type":"LECTURE"
   },
   {
@@ -29455,6 +29775,251 @@
     "scheduled_days":"F",
     "section_key":"20263PLAN6619A001",
     "type":"LECTURE"
+  },
+  {
+    "course_code":"PLAN A6646",
+    "course_title":"AFFORDABLE HOUSING DEVELOPMENT IN NYC",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"5:00pm",
+    "scheduled_time_end":"7:00pm",
+    "call_number":"10732",
+    "campus":null,
+    "class_id":"A6646-20263-001",
+    "course_subtitle":"AFFORDABLE HOUSING DEV NY",
+    "department":"Architecture, Planning and Preservation",
+    "department_code":"PLAN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PLAN\/A6646-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20263PLAN6646A001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"PLAN A6918",
+    "course_title":"THESIS I\/CAPSTONE I WORKSHOP",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"11:00am",
+    "scheduled_time_end":"1:00pm",
+    "call_number":"10733",
+    "campus":null,
+    "class_id":"A6918-20263-001",
+    "course_subtitle":"THESIS I\/CAPSTONE I WORKS",
+    "department":"Architecture, Planning and Preservation",
+    "department_code":"PLAN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PLAN\/A6918-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20263PLAN6918A001",
+    "type":"WORKSHOP"
+  },
+  {
+    "course_code":"PLAN A6919",
+    "course_title":"THESIS II\/CAPSTONE II",
+    "course_descr":null,
+    "instructor":"Weiping Wu",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"10734",
+    "campus":null,
+    "class_id":"A6919-20263-001",
+    "course_subtitle":null,
+    "department":"Architecture, Planning and Preservation",
+    "department_code":"PLAN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PLAN\/A6919-20263-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263PLAN6919A001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"PLAN A6921",
+    "course_title":"PRACTICUM: URBAN ANALYTICS FOR SOCIAL GO",
+    "course_descr":null,
+    "instructor":"Boyeong Hong",
+    "scheduled_time_start":"11:00am",
+    "scheduled_time_end":"1:00pm",
+    "call_number":"10735",
+    "campus":null,
+    "class_id":"A6921-20263-001",
+    "course_subtitle":"URB ANALYTICS FOR SOCIAL",
+    "department":"Architecture, Planning and Preservation",
+    "department_code":"PLAN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PLAN\/A6921-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":null,
+    "open_to":[
+      "Architecture"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20263PLAN6921A001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"PLAN A6925",
+    "course_title":"ADVANCED RESEARCH I",
+    "course_descr":null,
+    "instructor":"Weiping Wu",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"10736",
+    "campus":null,
+    "class_id":"A6925-20263-001",
+    "course_subtitle":null,
+    "department":"Architecture, Planning and Preservation",
+    "department_code":"PLAN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PLAN\/A6925-20263-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture"
+    ],
+    "points":"2-3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263PLAN6925A001",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"PLAN A6928",
+    "course_title":"GLOBAL BEST PRACTICES IN PUBLIC TRANSPOR",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"6:00pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"10737",
+    "campus":null,
+    "class_id":"A6928-20263-001",
+    "course_subtitle":"BEST PRAC IN PUBLIC TRANS",
+    "department":"Architecture, Planning and Preservation",
+    "department_code":"PLAN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PLAN\/A6928-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":null,
+    "open_to":[
+      "Architecture"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20263PLAN6928A001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"PLAN A6942",
+    "course_title":"COMMUNITY DEVELOPMENT FINANCE PRACTICUM",
+    "course_descr":null,
+    "instructor":"Kevin McQueen",
+    "scheduled_time_start":"5:00pm",
+    "scheduled_time_end":"7:00pm",
+    "call_number":"10738",
+    "campus":null,
+    "class_id":"A6942-20263-001",
+    "course_subtitle":"CMTY DEVLP FINANCE PRACTI",
+    "department":"Architecture, Planning and Preservation",
+    "department_code":"PLAN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PLAN\/A6942-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20263PLAN6942A001",
+    "type":"PRACTICA"
+  },
+  {
+    "course_code":"PLAN A8900",
+    "course_title":"DOCTORAL COLLOQUIUM I",
+    "course_descr":null,
+    "instructor":"Tom Slater",
+    "scheduled_time_start":"11:00am",
+    "scheduled_time_end":"1:00pm",
+    "call_number":"10739",
+    "campus":null,
+    "class_id":"A8900-20263-001",
+    "course_subtitle":null,
+    "department":"Architecture, Planning and Preservation",
+    "department_code":"PLAN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PLAN\/A8900-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture",
+      "GSAS"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20263PLAN8900A001",
+    "type":"COLLOQUIA"
+  },
+  {
+    "course_code":"PLAN A8902",
+    "course_title":"DOCTORAL COLLOQUIUM III",
+    "course_descr":null,
+    "instructor":"Tom Slater",
+    "scheduled_time_start":"11:00am",
+    "scheduled_time_end":"1:00pm",
+    "call_number":"10740",
+    "campus":null,
+    "class_id":"A8902-20263-001",
+    "course_subtitle":null,
+    "department":"Architecture, Planning and Preservation",
+    "department_code":"PLAN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PLAN\/A8902-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture",
+      "GSAS"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20263PLAN8902A001",
+    "type":"COLLOQUIA"
   },
   {
     "course_code":"PLCE GU4444",
@@ -35492,79 +36057,29 @@
     "type":"INDEPENDENT"
   },
   {
-    "course_code":"RUSS UN3220",
-    "course_title":"LITERATURE & EMPIRE (19C LIT)",
-    "course_descr":"Explores the aesthetic and formal developments in Russian prose, especially the rise of the monumental 19th-century novel, as one manifestation of a complex array of national and cultural aspirations, humanistic and imperialist ones alike. Works by Pushkin, Lermonotov, Gogol, Turgenev, Tolstoy, Dostoevsky, and Chekhov. Knowledge of Russian not required.",
-    "instructor":"John Wright",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
-    "call_number":"00069",
+    "course_code":"RUSS GR6014",
+    "course_title":"OLD RUSSIAN LITERATURE",
+    "course_descr":null,
+    "instructor":"Valentina Izmirlieva",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"6:00pm",
+    "call_number":"10747",
     "campus":null,
-    "class_id":"V3220-20263-001",
-    "course_subtitle":"LITERATURE & EMPIRE (19C",
-    "department":"Slavic Languages @Barnard",
-    "department_code":"RUSS",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/RUSS\/V3220-20263-001\/",
-    "location":null,
-    "method_of_instruction":null,
-    "open_to":null,
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":null,
-    "section_key":"20263RUSS3220V001",
-    "type":"LECTURE"
-  },
-  {
-    "course_code":"RUSS UN3595",
-    "course_title":"SENIOR SEMINAR",
-    "course_descr":"A research and writing workshop designed to help students plan and execute a major research project, and communicate their ideas in a common scholarly language that crosses disciplinary boundaries. Content is determined by students thesis topics, and includes general sessions on how to formulate a proposal and how to generate a bibliography. Students present the fruits of their research in class discussions, culminating in a full-length seminar presentation and the submission of the written thesis.",
-    "instructor":"John Wright",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
-    "call_number":"00260",
-    "campus":null,
-    "class_id":"W3595-20263-001",
+    "class_id":"G6014-20263-001",
     "course_subtitle":null,
-    "department":"Slavic Languages @Barnard",
+    "department":"Slavic Languages",
     "department_code":"RUSS",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/RUSS\/W3595-20263-001\/",
-    "location":null,
-    "method_of_instruction":null,
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/RUSS\/G6014-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"4",
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
-    "section_key":"20263RUSS3595W001",
-    "type":"SEMINAR"
-  },
-  {
-    "course_code":"RUSS UN3997",
-    "course_title":"SUPERVISED INDIVIDUAL RESEARCH",
-    "course_descr":null,
-    "instructor":"John Wright",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
-    "call_number":"00261",
-    "campus":null,
-    "class_id":"W3997-20263-001",
-    "course_subtitle":"SUPERVISED IND RES:20TH C LIT",
-    "department":"Slavic Languages @Barnard",
-    "department_code":"RUSS",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/RUSS\/W3997-20263-001\/",
-    "location":null,
-    "method_of_instruction":null,
-    "open_to":null,
-    "points":"1-4",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":null,
-    "section_key":"20263RUSS3997W001",
-    "type":"INDEPENDENT"
+    "scheduled_days":"T",
+    "section_key":"20263RUSS6014G001",
+    "type":"LECTURE"
   },
   {
     "course_code":"SINH UN1101",
