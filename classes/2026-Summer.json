@@ -11998,6 +11998,31 @@
     "type":"DUMMY COURSE"
   },
   {
+    "course_code":"ENGI E4900",
+    "course_title":"Summer Master's Research",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11346",
+    "campus":null,
+    "class_id":"E4900-20262-006",
+    "course_subtitle":"Data Science",
+    "department":"Engineering",
+    "department_code":"ENGI",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGI\/E4900-20262-006\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262ENGI4900E006",
+    "type":"INDEPENDENT"
+  },
+  {
     "course_code":"ENGL BC1022",
     "course_title":"BAD LOVE",
     "course_descr":"This seminar reads stories of love gone bad, of romances that end catastrophically, that damage lovers or leave victims along the way.\u00a0\u00a0 We will illuminate the consuming fantasy of the romance genre in its quest for \u201ctrue love,\u201d as well as a range of emotions \u2013 rage and revenge, narcissism and self-protection, obsession and oblivion \u2013 that surface in its wake.\u00a0 We will also look at shifting interpretations of \u201cbad love,\u201d from Plato, to the Galenic theory of the humors, to the sociology of court-culture, to Freudian and finally contemporary neurobiological explanations of feelings.\u00a0 Students are welcome to propose texts of their own interests to open this course to the widest range of interests.\u00a0 In addition to seminar discussion, there will be weekly individual tutorials with Professor Hamilton as well as zoom interviews with a neurobiologist and a psychologist if it can be arranged.",
@@ -16305,7 +16330,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":"TR",
+    "scheduled_days":"TRFF",
     "section_key":"20262FINC8307B001",
     "type":"LECTURE"
   },
@@ -19679,6 +19704,34 @@
     ],
     "scheduled_days":null,
     "section_key":"20262HUMA2000SD06",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"HUMA UN2000",
+    "course_title":"Core as Praxis\/Fieldwork",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11350",
+    "campus":null,
+    "class_id":"S2000-20262-D07",
+    "course_subtitle":null,
+    "department":"Summer Session (SUMM)",
+    "department_code":"HUMA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HUMA\/S2000-20262-D07\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Columbia College",
+      "General Studies"
+    ],
+    "points":"1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262HUMA2000SD07",
     "type":"SEMINAR"
   },
   {
@@ -25412,6 +25465,141 @@
     "type":"ONLINE COURS"
   },
   {
+    "course_code":"NURS N4106",
+    "course_title":"Human Anatomy & Physiology II with Lab",
+    "course_descr":null,
+    "instructor":"Sofia L Rosenberg-Klainberg",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11337",
+    "campus":null,
+    "class_id":"N4106-20262-D01",
+    "course_subtitle":"HUMAN ANAT & PHYS II W\/LA",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N4106-20262-D01\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262NURS4106ND01",
+    "type":"ONLINE COURS"
+  },
+  {
+    "course_code":"NURS N4110",
+    "course_title":"Microbiology with Lab",
+    "course_descr":null,
+    "instructor":"Michelle I Evans",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11338",
+    "campus":null,
+    "class_id":"N4110-20262-D01",
+    "course_subtitle":"MICROBIOLOGY W\/LAB",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N4110-20262-D01\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262NURS4110ND01",
+    "type":"LABORATORY"
+  },
+  {
+    "course_code":"NURS N4112",
+    "course_title":"Biostatistics",
+    "course_descr":null,
+    "instructor":"Sally W Aboelela",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11339",
+    "campus":null,
+    "class_id":"N4112-20262-D01",
+    "course_subtitle":null,
+    "department":"Nursing",
+    "department_code":"NURS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N4112-20262-D01\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262NURS4112ND01",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"NURS N8461",
+    "course_title":"Practicum in Women's Health",
+    "course_descr":null,
+    "instructor":"Adena Bargad",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11340",
+    "campus":null,
+    "class_id":"N8461-20262-001",
+    "course_subtitle":"PRACTICUM IN WOMEN'S HEAL",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N8461-20262-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262NURS8461N001",
+    "type":"PRACTICA"
+  },
+  {
+    "course_code":"NURS N9156",
+    "course_title":"Scholarly Writing II",
+    "course_descr":null,
+    "instructor":"Adena Bargad",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11341",
+    "campus":null,
+    "class_id":"N9156-20262-D01",
+    "course_subtitle":null,
+    "department":"Nursing",
+    "department_code":"NURS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9156-20262-D01\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262NURS9156ND01",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"NUTR PS0101",
     "course_title":"Human Nutrition: From Basics to Therapeu",
     "course_descr":"",
@@ -29504,6 +29692,181 @@
     "scheduled_days":"R",
     "section_key":"20262SOCW7102TZ40",
     "type":"PRACTICA"
+  },
+  {
+    "course_code":"SOCW T7103",
+    "course_title":"ADVOCACY IN SW PRACTICE",
+    "course_descr":null,
+    "instructor":"Teena Brooks",
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"12:30pm",
+    "call_number":"11342",
+    "campus":null,
+    "class_id":"T7103-20262-001",
+    "course_subtitle":null,
+    "department":"Social Work",
+    "department_code":"SOCW",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SOCW\/T7103-20262-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20262SOCW7103T001",
+    "type":"PRACTICA"
+  },
+  {
+    "course_code":"SOCW T7103",
+    "course_title":"ADVOCACY IN SW PRACTICE",
+    "course_descr":null,
+    "instructor":"Kathleen M O'Hara",
+    "scheduled_time_start":"1:30pm",
+    "scheduled_time_end":"5:00pm",
+    "call_number":"11343",
+    "campus":null,
+    "class_id":"T7103-20262-002",
+    "course_subtitle":null,
+    "department":"Social Work",
+    "department_code":"SOCW",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SOCW\/T7103-20262-002\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20262SOCW7103T002",
+    "type":"PRACTICA"
+  },
+  {
+    "course_code":"SOCW T7103",
+    "course_title":"ADVOCACY IN SW PRACTICE",
+    "course_descr":null,
+    "instructor":"John G Robertson",
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"12:30pm",
+    "call_number":"11344",
+    "campus":null,
+    "class_id":"T7103-20262-Z40",
+    "course_subtitle":null,
+    "department":"Social Work",
+    "department_code":"SOCW",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SOCW\/T7103-20262-Z40\/",
+    "location":"To be announced",
+    "method_of_instruction":"On-Line Only",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20262SOCW7103TZ40",
+    "type":"PRACTICA"
+  },
+  {
+    "course_code":"SOCW T7302",
+    "course_title":"SOCIAL WORK PRACTICE IN ALCOHOL AND SUBS",
+    "course_descr":null,
+    "instructor":"Andrew Hamid",
+    "scheduled_time_start":"1:00pm",
+    "scheduled_time_end":"3:30pm",
+    "call_number":"11345",
+    "campus":null,
+    "class_id":"T7302-20262-Z40",
+    "course_subtitle":"SW PRAC ALCOHL & SUBSTANC",
+    "department":"Social Work",
+    "department_code":"SOCW",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SOCW\/T7302-20262-Z40\/",
+    "location":"To be announced",
+    "method_of_instruction":"On-Line Only",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20262SOCW7302TZ40",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"SOCW T7311",
+    "course_title":"SW PRAC & GENDER-BASED VIOLENCE",
+    "course_descr":null,
+    "instructor":"Carmen S Fajardo",
+    "scheduled_time_start":"8:00pm",
+    "scheduled_time_end":"10:30pm",
+    "call_number":"11347",
+    "campus":null,
+    "class_id":"T7311-20262-Z40",
+    "course_subtitle":"SW PRAC & GENDER-BASED VI",
+    "department":"Social Work",
+    "department_code":"SOCW",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SOCW\/T7311-20262-Z40\/",
+    "location":"To be announced",
+    "method_of_instruction":"On-Line Only",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20262SOCW7311TZ40",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"SOCW T7320",
+    "course_title":"ADULT PSYCHPATH\/PATHWAY-WELLNS",
+    "course_descr":null,
+    "instructor":"Sarah E Strole",
+    "scheduled_time_start":"8:00pm",
+    "scheduled_time_end":"10:30pm",
+    "call_number":"11348",
+    "campus":null,
+    "class_id":"T7320-20262-Z40",
+    "course_subtitle":"ADULT PSYCHPATH\/PATHWAY-W",
+    "department":"Social Work",
+    "department_code":"SOCW",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SOCW\/T7320-20262-Z40\/",
+    "location":"To be announced",
+    "method_of_instruction":"On-Line Only",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20262SOCW7320TZ40",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"SOCW T7601",
+    "course_title":"INTRODUCTION TO DBT SKILLS",
+    "course_descr":null,
+    "instructor":"Kitama S Cahill-Jackson",
+    "scheduled_time_start":"6:00pm",
+    "scheduled_time_end":"8:30pm",
+    "call_number":"11351",
+    "campus":null,
+    "class_id":"T7601-20262-Z40",
+    "course_subtitle":"INTRODUCTION TO DBT SKILL",
+    "department":"Social Work",
+    "department_code":"SOCW",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SOCW\/T7601-20262-Z40\/",
+    "location":"To be announced",
+    "method_of_instruction":"On-Line Only",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20262SOCW7601TZ40",
+    "type":"SEMINAR"
   },
   {
     "course_code":"SOSC P8910",
