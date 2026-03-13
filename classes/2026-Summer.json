@@ -157,7 +157,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":"S",
+    "scheduled_days":"FSS",
     "section_key":"20262ACCT9098B001",
     "type":"SUPERVISED S"
   },
@@ -16189,7 +16189,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":"SSS",
+    "scheduled_days":"SS",
     "section_key":"20262FINC7343B002",
     "type":"LECTURE"
   },
@@ -25601,6 +25601,85 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"NURS N6299",
+    "course_title":"Independent Study in Family Primary Care",
+    "course_descr":null,
+    "instructor":"Ellen M Fahey",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11360",
+    "campus":null,
+    "class_id":"N6299-20262-001",
+    "course_subtitle":"INDEP STUDY IN FAMILY NUR",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N6299-20262-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"1-8",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262NURS6299N001",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"NURS N6450",
+    "course_title":"PREPARATION FOR LICENSURE",
+    "course_descr":null,
+    "instructor":"Kathleen Mullen",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11359",
+    "campus":null,
+    "class_id":"N6450-20262-D01",
+    "course_subtitle":null,
+    "department":"Nursing",
+    "department_code":"NURS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N6450-20262-D01\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":null,
+    "points":"1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262NURS6450ND01",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"NURS N6930",
+    "course_title":"Interpersonal Violence and Abuse: Preven",
+    "course_descr":null,
+    "instructor":"Michelle M Charles",
+    "scheduled_time_start":"5:30pm",
+    "scheduled_time_end":"6:50pm",
+    "call_number":"11361",
+    "campus":null,
+    "class_id":"N6930-20262-001",
+    "course_subtitle":"INTERPERSONAL VIOLENCE &",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N6930-20262-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20262NURS6930N001",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"NURS N7003",
     "course_title":"Health Promotion and Disease Prevention",
     "course_descr":null,
@@ -27157,6 +27236,31 @@
     "scheduled_days":"MW",
     "section_key":"20262POLS2201W001",
     "type":"LECTURE"
+  },
+  {
+    "course_code":"POLS UN2211",
+    "course_title":"Introduction to American Politics Discus",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"5:00pm",
+    "call_number":"11358",
+    "campus":null,
+    "class_id":"W2211-20262-001",
+    "course_subtitle":"Intro Am Pol Discussion",
+    "department":"Summer Session (SUMM)",
+    "department_code":"POLS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/POLS\/W2211-20262-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20262POLS2211W001",
+    "type":"DISCUSSION"
   },
   {
     "course_code":"POLS UN2501",
@@ -31646,6 +31750,9 @@
     "location":"To be announced",
     "method_of_instruction":"In-Person",
     "open_to":[
+      "Architecture",
+      "Business",
+      "Engineering:Graduate",
       "Professional Studies",
       "SIPA"
     ],
@@ -31674,6 +31781,9 @@
     "location":"To be announced",
     "method_of_instruction":"In-Person",
     "open_to":[
+      "Architecture",
+      "Business",
+      "Engineering:Graduate",
       "Professional Studies",
       "SIPA"
     ],
@@ -31702,6 +31812,9 @@
     "location":"To be announced",
     "method_of_instruction":"In-Person",
     "open_to":[
+      "Architecture",
+      "Business",
+      "Engineering:Graduate",
       "Professional Studies",
       "SIPA"
     ],
@@ -31730,6 +31843,9 @@
     "location":"To be announced",
     "method_of_instruction":"In-Person",
     "open_to":[
+      "Architecture",
+      "Business",
+      "Engineering:Graduate",
       "Professional Studies",
       "SIPA"
     ],
@@ -31758,6 +31874,9 @@
     "location":"To be announced",
     "method_of_instruction":"In-Person",
     "open_to":[
+      "Architecture",
+      "Business",
+      "Engineering:Graduate",
       "Professional Studies",
       "SIPA"
     ],
@@ -31786,6 +31905,9 @@
     "location":"To be announced",
     "method_of_instruction":"In-Person",
     "open_to":[
+      "Architecture",
+      "Business",
+      "Engineering:Graduate",
       "Professional Studies",
       "SIPA"
     ],
@@ -31813,10 +31935,7 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SUMA\/K5140-20262-001\/",
     "location":"To be announced",
     "method_of_instruction":"In-Person",
-    "open_to":[
-      "Professional Studies",
-      "SIPA"
-    ],
+    "open_to":null,
     "points":"3",
     "prerequisites":[
 
@@ -31842,6 +31961,9 @@
     "location":"To be announced",
     "method_of_instruction":"In-Person",
     "open_to":[
+      "Architecture",
+      "Business",
+      "Engineering:Graduate",
       "Professional Studies",
       "SIPA"
     ],
@@ -31870,6 +31992,7 @@
     "location":"To be announced",
     "method_of_instruction":"On-Line Only",
     "open_to":[
+      "Engineering:Graduate",
       "Professional Studies",
       "SIPA"
     ],
@@ -31898,6 +32021,9 @@
     "location":"To be announced",
     "method_of_instruction":"In-Person",
     "open_to":[
+      "Architecture",
+      "Business",
+      "Engineering:Graduate",
       "Professional Studies",
       "SIPA"
     ],
@@ -31951,6 +32077,9 @@
     "location":"To be announced",
     "method_of_instruction":"On-Line Only",
     "open_to":[
+      "Architecture",
+      "Business",
+      "Engineering:Graduate",
       "Professional Studies",
       "SIPA"
     ],
@@ -32006,6 +32135,9 @@
     "location":"To be announced",
     "method_of_instruction":"In-Person",
     "open_to":[
+      "Architecture",
+      "Business",
+      "Engineering:Graduate",
       "Professional Studies",
       "SIPA"
     ],
@@ -32034,6 +32166,9 @@
     "location":"To be announced",
     "method_of_instruction":"In-Person",
     "open_to":[
+      "Architecture",
+      "Business",
+      "Engineering:Graduate",
       "Professional Studies",
       "SIPA"
     ],
@@ -32062,6 +32197,9 @@
     "location":"To be announced",
     "method_of_instruction":"In-Person",
     "open_to":[
+      "Architecture",
+      "Business",
+      "Engineering:Graduate",
       "Professional Studies",
       "SIPA"
     ],
@@ -32090,6 +32228,8 @@
     "location":"To be announced",
     "method_of_instruction":"In-Person",
     "open_to":[
+      "Architecture",
+      "Business",
       "Professional Studies",
       "SIPA"
     ],
@@ -32145,6 +32285,9 @@
     "location":"To be announced",
     "method_of_instruction":"On-Line Only",
     "open_to":[
+      "Architecture",
+      "Business",
+      "Engineering:Graduate",
       "Professional Studies",
       "SIPA"
     ],
@@ -32227,6 +32370,9 @@
     "location":"To be announced",
     "method_of_instruction":"In-Person",
     "open_to":[
+      "Architecture",
+      "Business",
+      "Engineering:Graduate",
       "Professional Studies",
       "SIPA"
     ],
@@ -32255,6 +32401,9 @@
     "location":"To be announced",
     "method_of_instruction":"In-Person",
     "open_to":[
+      "Architecture",
+      "Business",
+      "Engineering:Graduate",
       "Professional Studies",
       "SIPA"
     ],
