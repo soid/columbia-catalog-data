@@ -3056,7 +3056,7 @@
   {
     "course_code":"APPH E4330",
     "course_title":"RADIOBIOLOGY FOR MED PHYS",
-    "course_descr":null,
+    "course_descr":"Interface between clinical practice and quantitative radiation biology. Microdosimetry, dose-rate effects and biological effectiveness thereof; radiation biology data, radiation action at the cellular and tissue level; radiation effects on human populations, carcinogenesis, genetic effects; radiation protection; tumor control, normal-tissue complication probabilities; treatment plan optimization.",
     "instructor":"Marco Zaider",
     "scheduled_time_start":"6:00pm",
     "scheduled_time_end":"8:00pm",
@@ -3084,7 +3084,7 @@
   {
     "course_code":"APPH E4600",
     "course_title":"FUNDAMENTALS OF DOSIMETRY",
-    "course_descr":null,
+    "course_descr":"Basic radiation physics: radioactive decay, radiation producing devices, characteristics of the different types of radiation (photons, charged and uncharged particles) and mechanisms of their interactions with materials. Essentials of the determination, by measurement and calculation, of absorbed doses from ionizing radiation sources used in medical physics (clinical) situations and for health physics purposes.",
     "instructor":"Sean L Berry",
     "scheduled_time_start":"4:00pm",
     "scheduled_time_end":"6:50pm",
@@ -3140,7 +3140,7 @@
   {
     "course_code":"APPH E6333",
     "course_title":"RADIATION THERAPY PHYS PRACT",
-    "course_descr":null,
+    "course_descr":"Students spend two to four days per week studying the clinical aspects of radiation therapy physics. Projects on the application of medical physics in cancer therapy within a hospital environment are assigned; each entails one or two weeks of work and requires a laboratory report. Two areas are emphasized: 1. computer-assisted treatment planning (design of typical treatment plans for various treatment sites including prostate, breast, head and neck, lung, brain, esophagus, and cervix) and 2. clinical dosimetry and calibrations (radiation measurements for both photon and electron beams, as well as daily, monthly, and part of annual QA).",
     "instructor":"Cheng S Wuu",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -3167,7 +3167,7 @@
   {
     "course_code":"APPH E6336",
     "course_title":"ADV TPCS IN RADIATION THERAPY",
-    "course_descr":null,
+    "course_descr":"Advanced technology applications in radiation therapy physics, including intensity modulated, image guided, stereotactic, and hypofractionated radiation therapy. Emphasis on advanced technological, engineering, clinical, and quality assurance issues associated with high technology radiation therapy and the special role of the medical physicist in the safe clinical application of these tools.",
     "instructor":"Cheng S Wuu",
     "scheduled_time_start":"2:00pm",
     "scheduled_time_end":"5:00pm",
@@ -3192,7 +3192,7 @@
   {
     "course_code":"APPH E6340",
     "course_title":"DIAGNOSTIC RADIOL PRACTICUM",
-    "course_descr":null,
+    "course_descr":"Practical applications of diagnostic radiology for various measurements and equipment assessments. Instruction and supervised practice in radiation safety procedures, image quality assessments, regulatory compliance, radiation dose evaluations and calibration of equipment. Students participate in clinical QC of the following imaging equipment: radiologic units (mobile and fixed), fluoroscopy units (mobile and fixed), angiography units, mammography units, CT scanners, MRI units and ultrasound units. The objective is familiarization in routine operation of test instrumentation and QC measurements utilized in diagnostic medical physics. Students are required to submit QC forms with data on three different types of radiology imaging equipment.",
     "instructor":"Boyu Peng",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -3219,7 +3219,7 @@
   {
     "course_code":"APPH E6365",
     "course_title":"NUCLEAR MEDICINE PRACTICUM",
-    "course_descr":null,
+    "course_descr":"Practical applications of nuclear medicine theory and application for processing and analysis of clinical images and radiation safety and quality assurance programs. Topics may include tomography, instrumentation, and functional imaging. Reports.",
     "instructor":"Klaus A Hamacher",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -3246,7 +3246,7 @@
   {
     "course_code":"APPH E6380",
     "course_title":"HEALTH PHYSICS PRACTICUM",
-    "course_descr":null,
+    "course_descr":"Radiation protection practices and procedures for clinical and biomedical research environments. Includes design, radiation safety surveys of diagnostic and therapeutic machine source facilities, the design and radiation protection protocols for facilities using unsealed sources of radioactivity \u2013 nuclear medicine suites and sealed sources \u2013 brachytherapy suites. Also includes radiation protection procedures for biomedical research facilities and the administration of programs for compliance to professional health physics standards and federal and state regulatory requirements for the possession and use of radioactive materials and machine sources of ionizing and non ionizing radiations in clinical situations. Individual topics are decided by the student and the collaborating Clinical Radiation Safety Officer.",
     "instructor":"Peter Caracappa",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -6372,7 +6372,7 @@
   {
     "course_code":"BENG UN1101",
     "course_title":"ELEMENTARY BENGALI I",
-    "course_descr":null,
+    "course_descr":"Introductory courses to Bengali, a major language of northeast India and Bangladesh.",
     "instructor":"Dwijen Bhattacharjya",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -6397,7 +6397,7 @@
   {
     "course_code":"BENG UN2101",
     "course_title":"INTERMEDIATE BENGALI I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: BENG UN1101 and BENG UN1102 or the instructor's permission. Further develops a student's knowledge of Bengali, a major language of northeast India and Bangladesh.",
     "instructor":"Dwijen Bhattacharjya",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -6413,7 +6413,12 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "BENG UN1101"
+      ],
+      [
+        "BENG UN1102"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20263BENG2101W001",
@@ -9119,7 +9124,7 @@
   {
     "course_code":"BIOL UN2015",
     "course_title":"INTRO BIO I: BIOCHEM,GEN,MOLEC",
-    "course_descr":null,
+    "course_descr":"Lecture and recitation. Recommended as the introductory biology course for biology and related majors, and for premedical students. Fundamental principles of biochemistry, molecular biology, and genetics. SPS, Barnard, and TC students may register for this course, but they must first obtain the written permission of the instructor, by filling out a paper Registration Adjustment Form (Add\/Drop form). The form can be downloaded at the URL below, but must be signed by the instructor and returned to the office of the registrar. \nhttp:\/\/registrar.columbia.edu\/sites\/default\/files\/content\/reg-adjustment.pdf",
     "instructor":"Michelle Attner",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -9144,7 +9149,7 @@
   {
     "course_code":"BIOL UN2015",
     "course_title":"INTRO BIO I: BIOCHEM,GEN,MOLEC",
-    "course_descr":null,
+    "course_descr":"Lecture and recitation. Recommended as the introductory biology course for biology and related majors, and for premedical students. Fundamental principles of biochemistry, molecular biology, and genetics. SPS, Barnard, and TC students may register for this course, but they must first obtain the written permission of the instructor, by filling out a paper Registration Adjustment Form (Add\/Drop form). The form can be downloaded at the URL below, but must be signed by the instructor and returned to the office of the registrar. \nhttp:\/\/registrar.columbia.edu\/sites\/default\/files\/content\/reg-adjustment.pdf",
     "instructor":"Michelle Attner",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -9169,7 +9174,7 @@
   {
     "course_code":"BIOL UN2015",
     "course_title":"INTRO BIO I: BIOCHEM,GEN,MOLEC",
-    "course_descr":null,
+    "course_descr":"Lecture and recitation. Recommended as the introductory biology course for biology and related majors, and for premedical students. Fundamental principles of biochemistry, molecular biology, and genetics. SPS, Barnard, and TC students may register for this course, but they must first obtain the written permission of the instructor, by filling out a paper Registration Adjustment Form (Add\/Drop form). The form can be downloaded at the URL below, but must be signed by the instructor and returned to the office of the registrar. \nhttp:\/\/registrar.columbia.edu\/sites\/default\/files\/content\/reg-adjustment.pdf",
     "instructor":"Michelle Attner",
     "scheduled_time_start":"7:10pm",
     "scheduled_time_end":"9:00pm",
@@ -9194,7 +9199,7 @@
   {
     "course_code":"BIOL UN2015",
     "course_title":"INTRO BIO I: BIOCHEM,GEN,MOLEC",
-    "course_descr":null,
+    "course_descr":"Lecture and recitation. Recommended as the introductory biology course for biology and related majors, and for premedical students. Fundamental principles of biochemistry, molecular biology, and genetics. SPS, Barnard, and TC students may register for this course, but they must first obtain the written permission of the instructor, by filling out a paper Registration Adjustment Form (Add\/Drop form). The form can be downloaded at the URL below, but must be signed by the instructor and returned to the office of the registrar. \nhttp:\/\/registrar.columbia.edu\/sites\/default\/files\/content\/reg-adjustment.pdf",
     "instructor":"Michelle Attner",
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"2:00pm",
@@ -9219,7 +9224,7 @@
   {
     "course_code":"BIOL UN2015",
     "course_title":"INTRO BIO I: BIOCHEM,GEN,MOLEC",
-    "course_descr":null,
+    "course_descr":"Lecture and recitation. Recommended as the introductory biology course for biology and related majors, and for premedical students. Fundamental principles of biochemistry, molecular biology, and genetics. SPS, Barnard, and TC students may register for this course, but they must first obtain the written permission of the instructor, by filling out a paper Registration Adjustment Form (Add\/Drop form). The form can be downloaded at the URL below, but must be signed by the instructor and returned to the office of the registrar. \nhttp:\/\/registrar.columbia.edu\/sites\/default\/files\/content\/reg-adjustment.pdf",
     "instructor":"Michelle Attner",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -9928,7 +9933,7 @@
   {
     "course_code":"BURM UN2101",
     "course_title":"Intermediate Burmese",
-    "course_descr":null,
+    "course_descr":"This course is for students who have taken first-year Burmese or learned some Burmese elsewhere and know how to read and write Burmese script. Students will continue learning all major aspects of the language at the intermediate level, including the reading and understanding of formal-style texts. In spoken Burmese, students will practice communicating at the increasingly complicated and practically useful level. Some of the assignments are completed online using interactive video and audio materials.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -17220,7 +17225,7 @@
   {
     "course_code":"ENGL BC3098",
     "course_title":"THE ENGLISH CONFERENCE",
-    "course_descr":null,
+    "course_descr":"The English Conference: The Lucyle Hook Guest Lectureship is a two to four-week course each semester on a special topic presented by a visiting scholar. The series was endowed by a gift from Professor Emerita of English Lucyle Hook to bring our students and faculty the perspective of scholars of literature in English working outside the College community. It can only be taken for pass\/fail for 1 point. \nStudents must attend all four class sessions and write a final paper in order to receive credit for this course\n.To see the dates\/times that The English Conference will meet this semester, the current course description, and the biography of the visiting scholar, please visit the English Department website: \nhttps:\/\/english.barnard.edu\/english\/english-conference\n.",
     "instructor":"Faculty",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -20648,7 +20653,7 @@
   {
     "course_code":"FYSB BC1001",
     "course_title":"FIRST-YEAR SEMINAR AT BARNARD",
-    "course_descr":null,
+    "course_descr":"First-Year Seminars initiate students into the academic life of the College by offering intellectually engaging experiences in which students and faculty from a wide range of home departments\u00a0work through challenging material, often across disciplinary lines. Each one-semester seminar is designed to develop essential skills for college work, such as the ability to read critically and analytically, to speak clearly and effectively, and to write logically and persuasively.\n  \nFirst-Year Seminars vary in content and format, and fall into two categories: Special Topics and Reacting to the Past.\u00a0 \u00a0Descriptions are available in Vergil.",
     "instructor":"Nic Rios",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -20673,7 +20678,7 @@
   {
     "course_code":"FYSB BC1001",
     "course_title":"FIRST-YEAR SEMINAR AT BARNARD",
-    "course_descr":null,
+    "course_descr":"First-Year Seminars initiate students into the academic life of the College by offering intellectually engaging experiences in which students and faculty from a wide range of home departments\u00a0work through challenging material, often across disciplinary lines. Each one-semester seminar is designed to develop essential skills for college work, such as the ability to read critically and analytically, to speak clearly and effectively, and to write logically and persuasively.\n  \nFirst-Year Seminars vary in content and format, and fall into two categories: Special Topics and Reacting to the Past.\u00a0 \u00a0Descriptions are available in Vergil.",
     "instructor":"Ralph Ghoche",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -20698,7 +20703,7 @@
   {
     "course_code":"FYSB BC1001",
     "course_title":"FIRST-YEAR SEMINAR AT BARNARD",
-    "course_descr":null,
+    "course_descr":"First-Year Seminars initiate students into the academic life of the College by offering intellectually engaging experiences in which students and faculty from a wide range of home departments\u00a0work through challenging material, often across disciplinary lines. Each one-semester seminar is designed to develop essential skills for college work, such as the ability to read critically and analytically, to speak clearly and effectively, and to write logically and persuasively.\n  \nFirst-Year Seminars vary in content and format, and fall into two categories: Special Topics and Reacting to the Past.\u00a0 \u00a0Descriptions are available in Vergil.",
     "instructor":"Yizhou Huang",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -20723,7 +20728,7 @@
   {
     "course_code":"FYSB BC1001",
     "course_title":"FIRST-YEAR SEMINAR AT BARNARD",
-    "course_descr":null,
+    "course_descr":"First-Year Seminars initiate students into the academic life of the College by offering intellectually engaging experiences in which students and faculty from a wide range of home departments\u00a0work through challenging material, often across disciplinary lines. Each one-semester seminar is designed to develop essential skills for college work, such as the ability to read critically and analytically, to speak clearly and effectively, and to write logically and persuasively.\n  \nFirst-Year Seminars vary in content and format, and fall into two categories: Special Topics and Reacting to the Past.\u00a0 \u00a0Descriptions are available in Vergil.",
     "instructor":"Rebecca Jordan-Young",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:25pm",
@@ -20748,7 +20753,7 @@
   {
     "course_code":"FYSB BC1001",
     "course_title":"FIRST-YEAR SEMINAR AT BARNARD",
-    "course_descr":null,
+    "course_descr":"First-Year Seminars initiate students into the academic life of the College by offering intellectually engaging experiences in which students and faculty from a wide range of home departments\u00a0work through challenging material, often across disciplinary lines. Each one-semester seminar is designed to develop essential skills for college work, such as the ability to read critically and analytically, to speak clearly and effectively, and to write logically and persuasively.\n  \nFirst-Year Seminars vary in content and format, and fall into two categories: Special Topics and Reacting to the Past.\u00a0 \u00a0Descriptions are available in Vergil.",
     "instructor":"Jennifer L Worth",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:25pm",
@@ -20773,7 +20778,7 @@
   {
     "course_code":"FYSB BC1001",
     "course_title":"FIRST-YEAR SEMINAR AT BARNARD",
-    "course_descr":null,
+    "course_descr":"First-Year Seminars initiate students into the academic life of the College by offering intellectually engaging experiences in which students and faculty from a wide range of home departments\u00a0work through challenging material, often across disciplinary lines. Each one-semester seminar is designed to develop essential skills for college work, such as the ability to read critically and analytically, to speak clearly and effectively, and to write logically and persuasively.\n  \nFirst-Year Seminars vary in content and format, and fall into two categories: Special Topics and Reacting to the Past.\u00a0 \u00a0Descriptions are available in Vergil.",
     "instructor":"Michael Shelichach",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:25pm",
@@ -20798,7 +20803,7 @@
   {
     "course_code":"FYSB BC1001",
     "course_title":"FIRST-YEAR SEMINAR AT BARNARD",
-    "course_descr":null,
+    "course_descr":"First-Year Seminars initiate students into the academic life of the College by offering intellectually engaging experiences in which students and faculty from a wide range of home departments\u00a0work through challenging material, often across disciplinary lines. Each one-semester seminar is designed to develop essential skills for college work, such as the ability to read critically and analytically, to speak clearly and effectively, and to write logically and persuasively.\n  \nFirst-Year Seminars vary in content and format, and fall into two categories: Special Topics and Reacting to the Past.\u00a0 \u00a0Descriptions are available in Vergil.",
     "instructor":"Lindsay C Piechnik",
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:55pm",
@@ -20823,7 +20828,7 @@
   {
     "course_code":"FYSB BC1001",
     "course_title":"FIRST-YEAR SEMINAR AT BARNARD",
-    "course_descr":null,
+    "course_descr":"First-Year Seminars initiate students into the academic life of the College by offering intellectually engaging experiences in which students and faculty from a wide range of home departments\u00a0work through challenging material, often across disciplinary lines. Each one-semester seminar is designed to develop essential skills for college work, such as the ability to read critically and analytically, to speak clearly and effectively, and to write logically and persuasively.\n  \nFirst-Year Seminars vary in content and format, and fall into two categories: Special Topics and Reacting to the Past.\u00a0 \u00a0Descriptions are available in Vergil.",
     "instructor":"Manu Karuka",
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:55pm",
@@ -20848,7 +20853,7 @@
   {
     "course_code":"FYSB BC1001",
     "course_title":"FIRST-YEAR SEMINAR AT BARNARD",
-    "course_descr":null,
+    "course_descr":"First-Year Seminars initiate students into the academic life of the College by offering intellectually engaging experiences in which students and faculty from a wide range of home departments\u00a0work through challenging material, often across disciplinary lines. Each one-semester seminar is designed to develop essential skills for college work, such as the ability to read critically and analytically, to speak clearly and effectively, and to write logically and persuasively.\n  \nFirst-Year Seminars vary in content and format, and fall into two categories: Special Topics and Reacting to the Past.\u00a0 \u00a0Descriptions are available in Vergil.",
     "instructor":"Mark C Carnes",
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:55pm",
@@ -20873,7 +20878,7 @@
   {
     "course_code":"FYSB BC1001",
     "course_title":"FIRST-YEAR SEMINAR AT BARNARD",
-    "course_descr":null,
+    "course_descr":"First-Year Seminars initiate students into the academic life of the College by offering intellectually engaging experiences in which students and faculty from a wide range of home departments\u00a0work through challenging material, often across disciplinary lines. Each one-semester seminar is designed to develop essential skills for college work, such as the ability to read critically and analytically, to speak clearly and effectively, and to write logically and persuasively.\n  \nFirst-Year Seminars vary in content and format, and fall into two categories: Special Topics and Reacting to the Past.\u00a0 \u00a0Descriptions are available in Vergil.",
     "instructor":"Quincy Jones",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:25pm",
@@ -20898,7 +20903,7 @@
   {
     "course_code":"FYSB BC1001",
     "course_title":"FIRST-YEAR SEMINAR AT BARNARD",
-    "course_descr":null,
+    "course_descr":"First-Year Seminars initiate students into the academic life of the College by offering intellectually engaging experiences in which students and faculty from a wide range of home departments\u00a0work through challenging material, often across disciplinary lines. Each one-semester seminar is designed to develop essential skills for college work, such as the ability to read critically and analytically, to speak clearly and effectively, and to write logically and persuasively.\n  \nFirst-Year Seminars vary in content and format, and fall into two categories: Special Topics and Reacting to the Past.\u00a0 \u00a0Descriptions are available in Vergil.",
     "instructor":"Alexandra C Horowitz",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -20923,7 +20928,7 @@
   {
     "course_code":"FYSB BC1001",
     "course_title":"FIRST-YEAR SEMINAR AT BARNARD",
-    "course_descr":null,
+    "course_descr":"First-Year Seminars initiate students into the academic life of the College by offering intellectually engaging experiences in which students and faculty from a wide range of home departments\u00a0work through challenging material, often across disciplinary lines. Each one-semester seminar is designed to develop essential skills for college work, such as the ability to read critically and analytically, to speak clearly and effectively, and to write logically and persuasively.\n  \nFirst-Year Seminars vary in content and format, and fall into two categories: Special Topics and Reacting to the Past.\u00a0 \u00a0Descriptions are available in Vergil.",
     "instructor":"Patricia D Denison",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -20948,7 +20953,7 @@
   {
     "course_code":"FYSB BC1001",
     "course_title":"FIRST-YEAR SEMINAR AT BARNARD",
-    "course_descr":null,
+    "course_descr":"First-Year Seminars initiate students into the academic life of the College by offering intellectually engaging experiences in which students and faculty from a wide range of home departments\u00a0work through challenging material, often across disciplinary lines. Each one-semester seminar is designed to develop essential skills for college work, such as the ability to read critically and analytically, to speak clearly and effectively, and to write logically and persuasively.\n  \nFirst-Year Seminars vary in content and format, and fall into two categories: Special Topics and Reacting to the Past.\u00a0 \u00a0Descriptions are available in Vergil.",
     "instructor":"Hana Worthen",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -20973,7 +20978,7 @@
   {
     "course_code":"FYSB BC1001",
     "course_title":"FIRST-YEAR SEMINAR AT BARNARD",
-    "course_descr":null,
+    "course_descr":"First-Year Seminars initiate students into the academic life of the College by offering intellectually engaging experiences in which students and faculty from a wide range of home departments\u00a0work through challenging material, often across disciplinary lines. Each one-semester seminar is designed to develop essential skills for college work, such as the ability to read critically and analytically, to speak clearly and effectively, and to write logically and persuasively.\n  \nFirst-Year Seminars vary in content and format, and fall into two categories: Special Topics and Reacting to the Past.\u00a0 \u00a0Descriptions are available in Vergil.",
     "instructor":"Christian Siener",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:25pm",
@@ -20998,7 +21003,7 @@
   {
     "course_code":"FYSB BC1001",
     "course_title":"FIRST-YEAR SEMINAR AT BARNARD",
-    "course_descr":null,
+    "course_descr":"First-Year Seminars initiate students into the academic life of the College by offering intellectually engaging experiences in which students and faculty from a wide range of home departments\u00a0work through challenging material, often across disciplinary lines. Each one-semester seminar is designed to develop essential skills for college work, such as the ability to read critically and analytically, to speak clearly and effectively, and to write logically and persuasively.\n  \nFirst-Year Seminars vary in content and format, and fall into two categories: Special Topics and Reacting to the Past.\u00a0 \u00a0Descriptions are available in Vergil.",
     "instructor":"Emily K Austin",
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:55pm",
@@ -21023,7 +21028,7 @@
   {
     "course_code":"FYSB BC1001",
     "course_title":"FIRST-YEAR SEMINAR AT BARNARD",
-    "course_descr":null,
+    "course_descr":"First-Year Seminars initiate students into the academic life of the College by offering intellectually engaging experiences in which students and faculty from a wide range of home departments\u00a0work through challenging material, often across disciplinary lines. Each one-semester seminar is designed to develop essential skills for college work, such as the ability to read critically and analytically, to speak clearly and effectively, and to write logically and persuasively.\n  \nFirst-Year Seminars vary in content and format, and fall into two categories: Special Topics and Reacting to the Past.\u00a0 \u00a0Descriptions are available in Vergil.",
     "instructor":"Veronica Tello",
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:55pm",
@@ -21048,7 +21053,7 @@
   {
     "course_code":"FYSB BC1001",
     "course_title":"FIRST-YEAR SEMINAR AT BARNARD",
-    "course_descr":null,
+    "course_descr":"First-Year Seminars initiate students into the academic life of the College by offering intellectually engaging experiences in which students and faculty from a wide range of home departments\u00a0work through challenging material, often across disciplinary lines. Each one-semester seminar is designed to develop essential skills for college work, such as the ability to read critically and analytically, to speak clearly and effectively, and to write logically and persuasively.\n  \nFirst-Year Seminars vary in content and format, and fall into two categories: Special Topics and Reacting to the Past.\u00a0 \u00a0Descriptions are available in Vergil.",
     "instructor":"Duygu Ula",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:25pm",
@@ -21073,7 +21078,7 @@
   {
     "course_code":"FYSB BC1001",
     "course_title":"FIRST-YEAR SEMINAR AT BARNARD",
-    "course_descr":null,
+    "course_descr":"First-Year Seminars initiate students into the academic life of the College by offering intellectually engaging experiences in which students and faculty from a wide range of home departments\u00a0work through challenging material, often across disciplinary lines. Each one-semester seminar is designed to develop essential skills for college work, such as the ability to read critically and analytically, to speak clearly and effectively, and to write logically and persuasively.\n  \nFirst-Year Seminars vary in content and format, and fall into two categories: Special Topics and Reacting to the Past.\u00a0 \u00a0Descriptions are available in Vergil.",
     "instructor":"Gabrielle J Gutierrez",
     "scheduled_time_start":"5:40pm",
     "scheduled_time_end":"6:55pm",
@@ -21098,7 +21103,7 @@
   {
     "course_code":"FYSB BC1001",
     "course_title":"FIRST-YEAR SEMINAR AT BARNARD",
-    "course_descr":null,
+    "course_descr":"First-Year Seminars initiate students into the academic life of the College by offering intellectually engaging experiences in which students and faculty from a wide range of home departments\u00a0work through challenging material, often across disciplinary lines. Each one-semester seminar is designed to develop essential skills for college work, such as the ability to read critically and analytically, to speak clearly and effectively, and to write logically and persuasively.\n  \nFirst-Year Seminars vary in content and format, and fall into two categories: Special Topics and Reacting to the Past.\u00a0 \u00a0Descriptions are available in Vergil.",
     "instructor":"Shayoni Mitra",
     "scheduled_time_start":"5:40pm",
     "scheduled_time_end":"6:55pm",
@@ -21123,7 +21128,7 @@
   {
     "course_code":"FYSB BC1001",
     "course_title":"FIRST-YEAR SEMINAR AT BARNARD",
-    "course_descr":null,
+    "course_descr":"First-Year Seminars initiate students into the academic life of the College by offering intellectually engaging experiences in which students and faculty from a wide range of home departments\u00a0work through challenging material, often across disciplinary lines. Each one-semester seminar is designed to develop essential skills for college work, such as the ability to read critically and analytically, to speak clearly and effectively, and to write logically and persuasively.\n  \nFirst-Year Seminars vary in content and format, and fall into two categories: Special Topics and Reacting to the Past.\u00a0 \u00a0Descriptions are available in Vergil.",
     "instructor":"Taylor Carman",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -21978,7 +21983,7 @@
   {
     "course_code":"GERM UN3991",
     "course_title":"Advanced Topics in German Literature",
-    "course_descr":null,
+    "course_descr":"\"Advanced Topics in German Literature\u201d is open to seniors and other advanced undergraduate students who have taken Intro to German Literature (GERM 3333) or an equivalent class. The seminar provides students the opportunity to closely examine a topic from a variety of perspectives and theoretical approaches. Readings and discussion in German. The course is repeatable for credit.",
     "instructor":"Dorothea von Muecke",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -22706,7 +22711,7 @@
   {
     "course_code":"HIST BC2199",
     "course_title":"A History of Witchcraft and Magic in Eur",
-    "course_descr":null,
+    "course_descr":"This lecture course examines the social, cultural, and legal history of witchcraft, magic, and the occult throughout European history. We will examine the values and attitudes that have influenced beliefs about witchcraft and the supernatural, both historically and in the present day, using both primary and secondary sources. This course will pay specific attention to the role of gender and sexuality in the history of witchcraft, as the vast majority of individuals charged in the witch hunts of the sixteenth and seventeenth centuries were indeed women. We will also study accusations of witchcraft, breaking down the power dynamics and assumptions at play behind the witch trials, and the impacts of these trials on gender relations in European society. This class will track the intersections of magic and science throughout the early-modern period, and the reconciliation of belief systems during the Enlightenment. We will carry our analysis into the modern period, touching on Victorian spiritualism and mysticism, McCarthyism in the United States, and contemporary goddess worship. We will conclude the semester with an investigation into the role of witchcraft in discussions of gender, race, and sexuality in popular culture.",
     "instructor":"Dale Booth",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -23131,7 +23136,7 @@
   {
     "course_code":"HRTS GR6020",
     "course_title":"INTRO TO HUMAN RIGHTS",
-    "course_descr":null,
+    "course_descr":"This course provides a wide-ranging survey of conceptual foundations and issues in contemporary human rights. The course examines the philosophical origins of human rights, their explication in the evolving series of international documents, questions of enforcement, and current debates. It also explores topics such as womens rights, development and human rights, the use of torture, humanitarian intervention, and the horrors of genocide. The broad range of subjects covered in the course is intended to assist students in honing their interests and making future course selections in the human rights field.",
     "instructor":"Glenn Mitoma",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -23156,7 +23161,7 @@
   {
     "course_code":"HRTS GR6020",
     "course_title":"INTRO TO HUMAN RIGHTS",
-    "course_descr":null,
+    "course_descr":"This course provides a wide-ranging survey of conceptual foundations and issues in contemporary human rights. The course examines the philosophical origins of human rights, their explication in the evolving series of international documents, questions of enforcement, and current debates. It also explores topics such as womens rights, development and human rights, the use of torture, humanitarian intervention, and the horrors of genocide. The broad range of subjects covered in the course is intended to assist students in honing their interests and making future course selections in the human rights field.",
     "instructor":"Daniela R Ikawa",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -23181,7 +23186,7 @@
   {
     "course_code":"HRTS GR6800",
     "course_title":"INTERNATIONAL HUMAN RIGHTS LAW",
-    "course_descr":null,
+    "course_descr":"This course introduces the fundamental concepts and problems of international human rights law. What are the origins of modern human rights law? What is the substance of this law, who is obligated by it, and how is it enforced? The course will cover the major international human rights treaties and mechanisms and consider some of todays most significant human rights issues and controversies. While the topics are necessarily law-related, the course will assume no prior exposure to legal studies.",
     "instructor":"Jacqueline Dugard",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -23206,7 +23211,7 @@
   {
     "course_code":"HRTS GR9040",
     "course_title":"INTERNSHIP",
-    "course_descr":null,
+    "course_descr":"HRSMA students may receive one academic credit for the completion of a relevant internship. The credit would count towards the elective requirement for the degree. In order to receive one credit, students will be required to complete a total of 100 internship hours. The internship must be professional in nature and substantively focused on human rights or social justice. For more information, students should refer to the HRSMA Digital Handbook.",
     "instructor":"Shourideh Molavi",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -23233,7 +23238,7 @@
   {
     "course_code":"HRTS GU4011",
     "course_title":"Indigenous Rights and Settler Colonialis",
-    "course_descr":null,
+    "course_descr":"Course Description\n  \nThis interdisciplinary course explores both the rights of Indigenous people in settler colonies as well as the complex historical and theoretical relationship between human rights and settler colonialism. We will pursue three lines of inquiry. The first critically explores how central political concepts of the international state system\u2014sovereignty, property, territory, self-determination\u2014entwine the histories of settler colonialism and human rights. The second charts the rise and mechanisms of the international Indigenous rights movement, in particular its activity at the United Nations leading to the Declaration on the Rights of Indigenous Peoples in 2007, and its contributions to ongoing debates on environmental and climate justice, group rights, natural resources and territorial autonomy, and cultural rights. The third unit interrogates settler state responses to the movement for Indigenous human rights, such as cooptation, recognition, and apology.\n  \nThrough readings drawn from history, ethnography, political and critical theory, international relations, Native studies, law, and documents produced by intergovernmental organizations and NGOs, we will explore and deepen the tensions between human rights as a theory and practice and the political lives and aspirations of Indigenous peoples and activists. What technologies of rule\u2014such as residential school systems and property law\u2014do settler colonial states deploy to dispossess Indigenous peoples? How have Indigenous peoples used the international human rights regime to mobilize against such dispossession? How have these states resisted the global Indigenous rights movement? And can the human rights regime, rooted in the international state system, meaningfully contribute to anticolonial movements in liberal settler colonies? While we will touch on settler colonialism as it manifests around the globe, the course\u2019s geographical focus will be on North America.\n  \nCourse objectives\n  \nThroughout this course, you will:\n  \n  \nDevelop a historically-informed understanding of both international indigenous rights and settler colonialism as idea, practice, institution, and discourse;\n  \nPlace the literature on human rights and settler colonialism into critical conversation in order to deepen existing conceptual problems and generate new ones;\n  \nIdentify the main arguments in theoretical texts, legal and policy documents, and public debates",
     "instructor":"Timothy Wyman-McCarthy",
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"2:00pm",
@@ -23258,7 +23263,7 @@
   {
     "course_code":"HRTS GU4215",
     "course_title":"NGOs & THE HUMAN RIGHTS MOVEMENT",
-    "course_descr":null,
+    "course_descr":"This class takes a social movement perspective to analyze and understand the international human rights movement. The course will address the evolution of the international human rights movement and focus on the NGOs that drive the movement on the international, regional and domestic levels. Sessions will highlight the experiences of major human rights NGOs and will address topics including strategy development, institutional representation, research methodologies, partnerships, networks, venues of engagement, campaigning, fundraising and, perhaps most importantly, the fraught and complex debates about adaptation to changing global circumstances, starting with the pre-Cold War period and including some of the most up-to-date issues and questions going on in this field today.",
     "instructor":"Louis Bickford",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -23283,7 +23288,7 @@
   {
     "course_code":"HRTS GU4260",
     "course_title":"Human Rights and Populism",
-    "course_descr":null,
+    "course_descr":"This seminar course explores the intersection of human rights and populism, examining how the rise of populist movements, leaders, and ideologies impact democratic institutions, global politics, and the protection of fundamental human rights. Through a multidisciplinary approach, the course evaluates the sociological, economic, and cultural factors driving populist surges, as well as their consequences for civic culture, governance, and international relations. Students will analyze the implications of populism for human rights in the context of migration, authoritarianism, freedom of speech, minorities, and challenges to international and regional courts and institutions. The course will investigate both left-wing and right-wing populist movements, considering the threat they pose to human rights, their pursuit of socio-economic rights through the redistribution of wealth, and how the human rights project could and is being rethought in light of these challenges and opportunities.",
     "instructor":"Timothy Wyman-McCarthy",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -23308,7 +23313,7 @@
   {
     "course_code":"HRTS GU4500",
     "course_title":"SOCIO-ECONOMIC RIGHTS",
-    "course_descr":null,
+    "course_descr":"The course addresses selected issues in the protection of socio-economic rights in an international and comparative perspective. Socio-economic rights have emerged from the margins into the mainstream of human rights. The course will take this status as its starting point and examine the human rights to housing, food, water, health and sanitation in depth. We will explore conceptual issues through the lens of specific rights which will help us ground these principles and ideas in concrete cases. We will discuss developments on socioeconomic rights and examine their relevance in the United States as well as selected other countries, particularly those with progressive legislation, policies and jurisprudence. What is the meaning and scope of the rights to housing, food, water, health and sanitation? What is the impact of discrimination and inequalities on the enjoyment of socio-economic rights? How can governments be held accountable for the realization of human rights? What machinery is there at the international level to ensure that the rights are protected, respected and fulfilled? How can this machinery be enhanced? How can judicial, quasijudicial, administrative and political mechanisms be used at the domestic level? What is the role of different actors in the context of human rights, the role of States and individuals, but also (powerful) non-State actors and civil society? How have activists and policymakers responded to challenges? And what lies ahead for the human rights movement in addressing economic and social rights in a multilateral, globalized world?",
     "instructor":"Jacqueline Dugard",
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"2:00pm",
@@ -23333,7 +23338,7 @@
   {
     "course_code":"HRTS GU4650",
     "course_title":"CHILDREN'S RIGHTS ADVOCACY",
-    "course_descr":null,
+    "course_descr":"This course is designed to introduce contemporary children\u2019s rights issues and help students develop practical advocacy skills to protect and promote the rights of children. Students will explore case studies of advocacy campaigns addressing issues including juvenile justice, child labor, child marriage, the use of child soldiers, corporal punishment, migration and child refugees, female genital mutilation, and LBGT issues affecting children. Over the course of the semester, students will become familiar with international children\u2019s rights standards, as well as a variety of advocacy strategies and avenues, including use of the media, litigation, and advocacy with UN, legislative bodies, and the private sector. Written assignments will focus on practical advocacy tools, including advocacy letters, op-eds, submissions to UN mechanisms or treaty bodies, and the development of an overarching advocacy strategy, including the identification of goals and objectives, and appropriate advocacy targets and tactics.",
     "instructor":null,
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -23369,7 +23374,7 @@
   {
     "course_code":"HRTS GU4950",
     "course_title":"HUMAN RIGHTS & HUMAN WRONGS",
-    "course_descr":null,
+    "course_descr":"Prerequisites: the instructors permission. Please e-mail the instructor at bc14@columbia.edu. This course will examine the tension between two contradictory trends in world politics. On the one hand, we have emerged from a century that has seen some of the most brutal practices ever perpetrated by states against their populations in the form of genocide, systematic torture, mass murder and ethnic cleansing. Many of these abuses occurred after the Holocaust, even though the mantra never again was viewed by many as a pledge never to allow a repeat of these practices. Events in the new century suggest that these trends will not end anytime soon. At the same time, since the middle of the twentieth century, for the first time in human history there has been a growing global consensus that all individuals are entitled to at least some level of protection from abuse by their governments. This concept of human rights has been institutionalized through international law, diplomacy, international discourse, transnational activism, and the foreign policies of many states. Over the past two decades, international organizations, non-governmental organizations, and international tribunals have gone further than any institutions in human history to try to stem state abuses. This seminar will try to make sense of these contradictions.",
     "instructor":"Bruce L Cronin",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -23394,7 +23399,7 @@
   {
     "course_code":"HRTS GU4970",
     "course_title":"Refugees, Citizenship, Migration",
-    "course_descr":null,
+    "course_descr":"This interdisciplinary course grapples with nation-states and cities at its margins, exploring the exclusions, oppositions, silences and, in particular, the 'Others' or 'in-betweens' of the nation-state as an organizing tool. \u2018Illegal migrants\u2019, \u2018refugees\u2019, \u2018asylum seekers\u2019, \u2018exiles\u2019, \u2018nomads\u2019, \u2018aliens\u2019, and other \u2018Others\u2019: these are all in-between figures, exceptions to a political order defined by membership in the city, borders, sovereignty and nation-states. In their very existence, they represent a challenge to this political order, as social and political theorists have long recognized. This seminar explores the dynamics, contradictions and politics surrounding nation-states and their Others with particular attention to the responses to them on the part of ostensibly liberal-democratic states. We examine the relationship between citizenship, statelessness, refugee-hood and migration as exceptions to a political order defined by membership in the city, borders, sovereignty and nation-states. Students will engage with film, fiction, visual animations and displacement maps to examine key theoretical and critical interventions by scholars who examine nation-states and cities at their margins. To this end, participants will examine key theoretical interventions by Hannah Arendt, Michel Foucault, Jacques Derrida, and Giorgio Agamben alongside scholars who have grappled with, contested, and developed their ideas, such as \u00c9tienne Balibar, Didier Bigo, Jacques Ranci\u00e8re, and Seyla Benhabib. With these texts, the participants will attempt to explore non-national or post-national alternatives to the nation-state and citizenship as a tool for planning and organization of people and space.\n  \nTaken together, this course provides an alternative to conventional scholarship on this subject. It engages with and provides an alternative to the mainstream literature to take for granted the inclusive and integrative character of nation-states and its respective memberships in the form of refugees, citizens and migrants. \nAt first glance, the course may appear highly theoretical, but not to worry\u2014we will move slowly through the texts and concepts together. The instructor will also ensure that we apply the ideas discussed in class to concrete and tangible case studies with examples given to enable easier access and collective learning.",
     "instructor":"Shourideh Molavi",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -23419,7 +23424,7 @@
   {
     "course_code":"HRTS GU4985",
     "course_title":"Hum Rights, Activism & US Carceral State",
-    "course_descr":null,
+    "course_descr":"What is the state of anti-incarceral activism today? What visions of social transformation are available for tomorrow? Mass incarceration remains one of the most pressing human rights issues in the United States. This course explores what has been done, is being done, and can be done to rethink incarceration in the U.S. and to provoke change.\n We will actively engage with prominent activists at Columbia who will visit some classes during the second half of the semester.\n  \nIncarcerated people in the Metropolitan Detention Center (MDC) in Brooklyn (a maximum-security federal prison) and in Rikers Island (a mixed security New York State detention center) regularly claim to be tortured (and show apparent evidence of torture), and yet their claims are rarely thoroughly examined. There has never been real accountability. Compare the New York cases to those in Chicago. From 1972 to 1991, former Chicago police commander Jon Burge and white detectives under his command\u00a0systematically tortured at least 117 Black people in police custody. In May 2015, 43 years after clear evidence of torture, Chicago became the first municipality in the U.S. to provide reparations to those harmed\u00a0by racially-motivated law enforcement violence, passing legislation for survivors of the Burge police torture\u00a0regime. What is the difference between those tortured in Chicago and those who (at least claim to) have been tortured in New York? Decades of community activism.",
     "instructor":"Christia Mercer",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -23444,7 +23449,7 @@
   {
     "course_code":"HRTS UN3190",
     "course_title":"INT'L HUMAN RIGHTS LAW",
-    "course_descr":null,
+    "course_descr":"This course will introduce students to the international law of human rights, and give a basic orientation to fundamental issues and controversies. The course has two principal focal points: first, the nuts and bolts of how international law functions in the field of human rights, and second, the value and limitations of legal approaches to a variety of human rights issues. Throughout the course, both theoretical and practical questions will be addressed, including who bears legal duties and who can assert legal claims, how these duties might be enforced, and accountability and remedy for violations. Attention will be given to how international law is made, what sorts of assumptions underlie various legal mechanisms, and how the law works in a variety of contexts.",
     "instructor":"Belinda Cooper",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -23494,7 +23499,7 @@
   {
     "course_code":"HRTS UN3970",
     "course_title":"Introduction to Genocide Studies",
-    "course_descr":null,
+    "course_descr":"This course provides students with an introduction to the study of genocide.\u00a0\n  \nIn this class, we will take a \ncritical approach\n to understanding genocide, meaning:\n  \n  \nwe will try to avoid easy moralizing and distancing of genocide;\n  \nwe won\u2019t take existing legal and political definitions of genocide for granted; and\n  \nwe will think about \npower\n in relation to genocide perpetration and prevention.\n \n  \nOur strategy will be \ninterdisciplinary\n, meaning:\n  \n  \nwe will explore the ways historians, psychologist, lawyers, political scientists, and others have tried to understand genocide; and\n  \nwe will reflect on the limits on what and how we can know about genocide as a human experience.\n \n  \nThis course aspires to be \npractical\n and \napplied\n, meaning\n  \n  \nthis course fundamentally \nanti-genocidal\n in its purpose, and\n  \nstudents will have the opportunity to contribute to and\/or develop practical efforts commemorate, advocate against, or prevent the perpetration of genocide.",
     "instructor":"Glenn Mitoma",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -23519,7 +23524,7 @@
   {
     "course_code":"HRTS UN3994",
     "course_title":"HUMAN RIGHTS SENIOR SEMINAR RSRCH METHOD",
-    "course_descr":null,
+    "course_descr":"This course aims to introduce students to human rights research methods, while providing them with practical research tools. The course will be tailored to students\u2019 interests, disciplinary backgrounds and research areas. The specific topics students will research and the methods they will employ will determine the substantive focus of readings. During the course we will ask the following questions: \u2018what is human rights research?, how do you carry out research in an interdisciplinary field?, what distinguishes academic research from applied research and advocacy? While answering these questions, you will become familiar with the literature on human rights methodologies, and you will engage in analysis and critical assessment of important human rights research literature. In addition, the course gives a practical approach to research methodology. You will learn about a diverse set of methodologies, such as interviewing and focus groups, archival research, ethnographic and participant observation, interviewing focus groups, conducting online research; interpretive and non-empirical methods and basic quantitative methodologies to be employed in the study of human rights. As you learn about different methodological approaches, you will develop your own research project. Scholars and practitioners in the field of human rights research will present their work and engage in discussions with students about their own research, challenges, successes and publication venues. NB: This course is geared towards students who commit to writing a senior thesis. It is part of a two-course sequence: HRTS UN3994 Section 001 Human Rights Senior Seminar: Research Methods in the fall and HRTS UN3996 Human Rights Thesis Seminar in the spring. Students who do not intend to write a thesis should enroll in HRTS UN3995 section 001 Human Rights Senior Seminar, which is a one-semester course taught each semester focused on writing a seminar paper.",
     "instructor":"Tracey Holland",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -23538,7 +23543,15 @@
     ],
     "points":"4",
     "prerequisites":[
-
+      [
+        "HRTS UN3994"
+      ],
+      [
+        "HRTS UN3995"
+      ],
+      [
+        "HRTS UN3996"
+      ]
     ],
     "scheduled_days":"T",
     "section_key":"20263HRTS3994W001",
@@ -23547,7 +23560,7 @@
   {
     "course_code":"HRTS UN3995",
     "course_title":"HUMAN RIGHTS SENIOR SEMINAR",
-    "course_descr":null,
+    "course_descr":"The senior seminar is a capstone course required for the human rights major. The seminar provides students the opportunity to discuss human rights from a variety of disciplinary perspectives and to explore various theoretical approaches and research methodologies. Students undertake individual research projects while collectively examining human rights through directed readings and discussion.",
     "instructor":"Shourideh Molavi",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -24027,7 +24040,7 @@
   {
     "course_code":"INDO UN3101",
     "course_title":"ADVANCED INDONESIAN I",
-    "course_descr":null,
+    "course_descr":"This course offers students the opportunity to practice advanced structures of Bahasa Indonesia, a major language of Indonesia and South East Asia. This course is offered by videoconferencing from Cornell as part of the Shared Course Initiative.",
     "instructor":null,
     "scheduled_time_start":"8:00am",
     "scheduled_time_end":"8:50am",
@@ -26634,7 +26647,7 @@
   {
     "course_code":"MDES GR5000",
     "course_title":"THEORY AND METHODS I",
-    "course_descr":null,
+    "course_descr":"This course will be the first part of a two part introduction to theoretical approaches to modern social science and cultural studies in Asian and African contexts. The first course will focus primarily on methodological and theoretical problems in the fields broadly described as historical social sciences - which study historical trends, and political, economic and social institutions and processes. The course will start with discussions regarding the origins of the modern social sciences and the disputes about the nature of social science knowledge. In the next section it will focus on definitions and debates about the concept of modernity. It will go on to analyses of some fundamental concepts used in modern social and historical analyses: concepts of social action, political concepts like state, power, hegemony, democracy, nationalism; economic concepts like the economy, labor, market, capitalism, and related concepts of secularity\/secularism, representation, and identity. The teaching will be primarily through close reading of set texts, followed by a discussion. A primary concern of the course will be to think about problems specific to the societies studied by scholars of Asia and Africa: how to use a conceptual language originally stemming from reflection on European modernity in thinking about societies which have quite different historical and cultural characteristics.",
     "instructor":"Wael Hallaq",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -26659,7 +26672,7 @@
   {
     "course_code":"MDES GR6008",
     "course_title":"MESAAS RESEARCH COLLOQUIUM",
-    "course_descr":null,
+    "course_descr":"This course provides a structured setting for stand-alone M.A. students in their final year and Ph.D. students in their second and third years to develop their research trajectories in a way that complements normal coursework. The seminar meets approximately biweekly and focuses on topics such as research methodology; project design; literature review, including bibliographies and citation practices; grant writing. Required for MESAAS graduate students in their second and third year.",
     "instructor":"Alison Vacca",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -26734,7 +26747,7 @@
   {
     "course_code":"MDES GR8008",
     "course_title":"DISSERTATION COLLOQUIUM",
-    "course_descr":null,
+    "course_descr":"The dissertation colloquium is a non-credit course open to MESAAS doctoral students who have completed the M.Phil. degree. It provides a forum in which the entire community of dissertation writers meets, bridging the departments different fields and regions of research. It complements workshops outside the department focused on one area or theme. Through an encounter with the diversity of research underway in MESAAS, participants learn to engage with work anchored in different regions and disciplines and discover or develop what is common in the departments post-disciplinary methods of inquiry. Since the community is relatively small, it is expected that all post-M.Phil. students in residence will join the colloquium. Post M.Phil. students from other departments may request permission to join the colloquium, but places for non-MESAAS students will be limited. The colloquium convenes every semester, meeting once every two weeks. Each meeting is devoted to the discussion of one or two pre-circulated pieces of work (a draft prospectus or dissertation chapter). Every participant contributes at least one piece of work each year.",
     "instructor":"Timothy Mitchell",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -26784,7 +26797,7 @@
   {
     "course_code":"MDES GU4210",
     "course_title":"THIRD YEAR ARABIC I",
-    "course_descr":null,
+    "course_descr":"NOTE: There are 2 sections of Third Year Arabic I. Section 001 follows the standard curriculum building all 4 language skills, as described below. Section 002 follows a reading-intensive curriculum, with less emphasis on listening and writing while still conducted in Arabic, and is intended for those preparing for advanced research in modern or classical Arabic texts. Students in the regular third-year Arabic track improve reading, writing, speaking, and listening skills through close reading, compositions, class discussions, and presentations in Arabic on topics such as cultures of the Arab world, classical and modern Arabic literature, and contemporary Arabic media. Review of grammatical and syntactic rules as needed. No P\/D\/F or R credit is allowed for this class.",
     "instructor":"Ouijdane Absi",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:45pm",
@@ -26809,7 +26822,7 @@
   {
     "course_code":"MDES GU4212",
     "course_title":"FOURTH YEAR MODERN ARABIC I",
-    "course_descr":null,
+    "course_descr":"Through reading articles and essays by Arab thinkers and intellectuals, students will be able to increase their fluency and accuracy in Arabic while working on reading text and being exposed to the main themes in Arab thought The course works with all four skills (listening, speaking, reading, and writing). Arabic is the language of instruction. No P\/D\/F or R credit is allowed for this class.",
     "instructor":"Youssef Nouhi",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -26834,7 +26847,7 @@
   {
     "course_code":"MDES GU4218",
     "course_title":"SPOKEN ARABIC I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: (MDES UN2201) and (MDES UN2202) $10 Arabic Materials Fee; $15 Language Resource Fee. This is an introductory course to Levantine Arabic for students who have completed two years of Standard Arabic studies, at the Intermediate level. The course is designed to further develop fluency in oral communication, through building students\u2019 familiarity with a less formal register of Arabic, namely the Levantine dialect. The course will convert and recycle some of the previous Standard Arabic knowledge to the dialect, by comparing their prior knowledge to its dialectal counterpart; while at the same time developing students\u2019 new communicative skills in a diverse range of contexts that are essential in any conversational interaction. The course will build students abilities to interact effectively in various areas where Levantine Arabic is spoken. In addition to varied thematic topics, the course exposes students to cultural aspects specific to the region. Additionally, the course will work on both constructing students\u2019 knowledge of dialectal diction as well as other grammatical features of the dialects. Even though the course is designed for communication in the four skills (reading, writing, listening and speaking), the emphasis will be mostly on speaking and listening. No P\/D\/F or R credit is allowed for this class.",
     "instructor":"Reem Faraj",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -26850,7 +26863,12 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "MDES UN2201"
+      ],
+      [
+        "MDES UN2202"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20263MDES4218W001",
@@ -26859,7 +26877,7 @@
   {
     "course_code":"MDES GU4221",
     "course_title":"Readings in the Qur   an and Hadith",
-    "course_descr":null,
+    "course_descr":"This is not a class in Theology. It is a class dealing with the \nQur\u2019an\n as a text and its linguistic and cultural significance. The readings will cover various \nSuwar\n (chapters) and excerpts dealing with a logical sequence of themes, starting with how the \nQur\u2019an\n defines itself, addresses its audiences, depicts and dialogues with other religions and religious groups, refers to itself as a historical source, especially through storytelling, and ending with how it legislates. They will also cover a choice of Hadiths. By being exposed to such a range of texts, students will gain a basic knowledge of types and structure of Hadith and a general sense of Qur\u2019anic styles, textual arrangements, terminology and concepts. Specifically, the assignments will guide students toward an ability to read these texts in detail by expanding their vocabulary, deepening their understanding of advanced grammar points, and by providing an opportunity to discuss the texts and write about them. Student will also acquire research skills by identifying and working with sources and references.",
     "instructor":"Youssef Nouhi",
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"2:00pm",
@@ -26884,7 +26902,7 @@
   {
     "course_code":"MDES GU4310",
     "course_title":"ADVANCED ARMENIAN I",
-    "course_descr":null,
+    "course_descr":"Advanced instruction in the Armenian dialect. No P\/D\/F or R credit is allowed for this class.",
     "instructor":"Charry Karamanoukian",
     "scheduled_time_start":"11:10am",
     "scheduled_time_end":"1:00pm",
@@ -26909,7 +26927,7 @@
   {
     "course_code":"MDES GU4501",
     "course_title":"READINGS IN HEBREW TEXTS I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: (MDES GU4510) and (MDES GU4511) 3RD Year Modern Hebrew or the instructor's permission. This course focuses on central identities shaping Israeli society and is designed to give students extensive experience in reading Hebrew. Through selected readings of contemporary literary works and media texts, students will increase their proficiency in Hebrew and enhance their understanding of Israeli culture and society. All readings, written assignments, and class discussions are in Hebrew. No P\/D\/F or R credit is allowed for this class.",
     "instructor":"Naama Harel",
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"2:00pm",
@@ -26925,7 +26943,12 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "MDES GU4510"
+      ],
+      [
+        "MDES GU4511"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20263MDES4501W001",
@@ -26934,7 +26957,7 @@
   {
     "course_code":"MDES GU4510",
     "course_title":"3RD YR MODERN HEBREW I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: 2nd Year Modern Hebrew II, Hebrew for Heritage Speakers II, or the instructor's permission. This course is designed to take students from the intermediate to advanced level. Students will further develop their reading, writing, speaking, and listening skills in Hebrew through an examination of a wide range of sources, including short stories, poems, visual arts, popular music, television shows and films. All readings, written assignments, and class discussions are in Hebrew. No P\/D\/F or R credit is allowed for this class.",
     "instructor":"Naama Harel",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -27009,7 +27032,7 @@
   {
     "course_code":"MDES GU4627",
     "course_title":"Significant Others",
-    "course_descr":null,
+    "course_descr":"What is the relationship between homoeroticism and homosociality? How does this relationship form conceptions of gender and sexuality in ways that might be historically unfamiliar and culturally or regionally specific? We pursue these questions through the lens of friendship and its relationship to ideas and expressions of desire, love, and loyalty in pre-modern times. We begin by considering the intellectual basis of the modern idea of friendship as a private, personal relationship, and trace it back to earlier times when it was often a public relationship of social and political significance. Some of these relationships were between social equals, while many were unequal forms (like patronage) that could bridge social, political or parochial differences.\n  \nThinking through the relationships and possible distinctions between erotic love, romantic love and amity (love between friends), we will draw on scholarly works from a variety of disciplinary perspectives, particularly philosophy, sociology, political theory, literature, history, and art history. We will attend to friendship\u2019s work in constituting, maintaining and challenging various social and political orders in a variety of Asian contexts (West, Central, South and East Asian), with comparative reference to scholarship on European and East Asian contexts. Primary source materials will include philosophy, religious manuals, autobiographies, popular love stories, heroic epics, mystical poetry, mirror for princes, paintings, material objects of exchange, and architectural monuments, largely from Islamic and Asian contexts.",
     "instructor":"Mana Kia",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -27061,7 +27084,7 @@
   {
     "course_code":"MDES GU4710",
     "course_title":"ADVANCED PERSIAN I",
-    "course_descr":null,
+    "course_descr":"While helping students advance their levels of oral and written expression, this course focuses on literature of the modern and medieval periods, with particular emphasis on the development of the modern novella and traditional and new forms of poetry. In addition to literature, students are introduced to a wide variety of genres from political and cultural essays and blogs to newspaper translations of the early 20th century. They will be further exposed to ta\u00b4rof in reference to a wide variety of socio-cultural contexts and be expected to use ta\u00b4rof in class conversations. Students will be exposed to popular artists and their works and satirical websites for insight into contemporary Iranian culture and politics. No P\/D\/F or R credit is allowed for this class.",
     "instructor":"Saeed Honarmand",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -27136,7 +27159,7 @@
   {
     "course_code":"MDES GU4910",
     "course_title":"ADVANCED TURKISH I",
-    "course_descr":null,
+    "course_descr":"Advanced Turkish I is designed to use authentic Turkish materials around projects that are chosen by the student in a research seminar format where students conduct their own research and share it in class in a friendly atmosphere. No P\/D\/F or R credit is allowed for this class.",
     "instructor":"Zuleyha M Fikret",
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:55pm",
@@ -27261,7 +27284,7 @@
   {
     "course_code":"MDES UN1101",
     "course_title":"ELEMENTARY TAMIL I",
-    "course_descr":null,
+    "course_descr":"This course constitutes the first half of a year-long introduction to\u00a0Tamil, the official language of\u00a0the Indian state of\u00a0Tamil\u00a0Nadu as well as an official language of Sri Lanka and Singapore. In\u00a0addition to being spoken by almost 80\u00a0million people worldwide,\u00a0Tamil\u00a0also has an impressive\u00a0classical past, having served as a language of religious, intellectual, and literary life in South India\u00a0for nearly two millennia. Assuming no prior experience with the language, this introductory sequence provides students\u00a0with the grammar, language skills, and cultural context necessary for achieving their individual\u00a0Tamil\u00a0language goals, whether they\u00a0be conducting fieldwork or scholarly research, chatting with\u00a0relatives back home, or simply waxing poetic over an artful\u00a0\ndosai\n. In order to cultivate students\u2019\u00a0reading, writing, speaking, and listening comprehension skills, this\u00a0course draws upon a wide\u00a0variety of teaching materials, including the core textbook, oral drills, audio recordings, short films,\u00a0music videos, memes, and more. No P\/D\/F or R credit is allowed for this class.",
     "instructor":"Jay Ramesh",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:00pm",
@@ -27286,7 +27309,7 @@
   {
     "course_code":"MDES UN1210",
     "course_title":"FIRST YEAR ARABIC I",
-    "course_descr":null,
+    "course_descr":"An introduction to the language of classical and modern Arabic literature. No P\/D\/F or R credit is allowed for this class.",
     "instructor":"Nasr Abdo",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:15am",
@@ -27311,7 +27334,7 @@
   {
     "course_code":"MDES UN1210",
     "course_title":"FIRST YEAR ARABIC I",
-    "course_descr":null,
+    "course_descr":"An introduction to the language of classical and modern Arabic literature. No P\/D\/F or R credit is allowed for this class.",
     "instructor":"Rym Bettaieb",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:45pm",
@@ -27336,7 +27359,7 @@
   {
     "course_code":"MDES UN1210",
     "course_title":"FIRST YEAR ARABIC I",
-    "course_descr":null,
+    "course_descr":"An introduction to the language of classical and modern Arabic literature. No P\/D\/F or R credit is allowed for this class.",
     "instructor":"Ouijdane Absi",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:15pm",
@@ -27361,7 +27384,7 @@
   {
     "course_code":"MDES UN1210",
     "course_title":"FIRST YEAR ARABIC I",
-    "course_descr":null,
+    "course_descr":"An introduction to the language of classical and modern Arabic literature. No P\/D\/F or R credit is allowed for this class.",
     "instructor":"May Ahmar",
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:45pm",
@@ -27386,7 +27409,7 @@
   {
     "course_code":"MDES UN1211",
     "course_title":"FIRST YEAR ARABIC II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: First Year Arabic I or instructor permission. An introduction to the language of classical and modern Arabic literature. No P\/D\/F or R credit is allowed for this class.",
     "instructor":"Ouijdane Absi",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:15am",
@@ -27411,7 +27434,7 @@
   {
     "course_code":"MDES UN1301",
     "course_title":"ELEMENTARY ARMENIAN I",
-    "course_descr":null,
+    "course_descr":"In Elementary Armenian I, students learn the Armenian script and the basic grammar that will enable them to communicate about topics relating to themselves and their immediate surroundings: family, school, daily occupations, describing people, expressing likes and dislikes, requesting and giving information about themselves and others, proper forms of greetings, etc. They also begin to read signs, advertisements, and develop the skills to read texts like short stories and Armenian fables. No P\/D\/F or R credit is allowed for this class.",
     "instructor":"Charry Karamanoukian",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -27436,7 +27459,7 @@
   {
     "course_code":"MDES UN1401",
     "course_title":"ELEMENTARY SANSKRIT I",
-    "course_descr":null,
+    "course_descr":"This course constitutes the first half of a year-long introduction to Classical Sanskrit, the translocal language of religious, intellectual, and literary life in South Asia for nearly two millennia. Assuming no prior experience with the language, this introductory sequence provides students with the grammar, reading strategies, and cultural context necessary to begin accessing the language\u2019s many rich textual traditions, including scripture (sruti), epic (itihasa), poetry (kavya), drama (na?aka), systematic thought (sastra), and more.",
     "instructor":"Jay Ramesh",
     "scheduled_time_start":"9:10am",
     "scheduled_time_end":"10:00am",
@@ -27461,7 +27484,7 @@
   {
     "course_code":"MDES UN1501",
     "course_title":"1ST YR MOD HEBREW:ELEM I",
-    "course_descr":null,
+    "course_descr":"This is an introductory course for which no prior knowledge is required. Equal emphasis is given to listening, speaking, reading, writing and grammar. Daily homework includes grammar exercises, short answers, reading, or paragraph writing. Frequent vocabulary and grammar quizzes. No P\/D\/F or R credit is allowed for this class.",
     "instructor":"Illan Gonen",
     "scheduled_time_start":"8:50am",
     "scheduled_time_end":"9:55am",
@@ -27486,7 +27509,7 @@
   {
     "course_code":"MDES UN1501",
     "course_title":"1ST YR MOD HEBREW:ELEM I",
-    "course_descr":null,
+    "course_descr":"This is an introductory course for which no prior knowledge is required. Equal emphasis is given to listening, speaking, reading, writing and grammar. Daily homework includes grammar exercises, short answers, reading, or paragraph writing. Frequent vocabulary and grammar quizzes. No P\/D\/F or R credit is allowed for this class.",
     "instructor":"Illan Gonen",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:15am",
@@ -27586,7 +27609,7 @@
   {
     "course_code":"MDES UN1701",
     "course_title":"ELEMENTARY PERSIAN I",
-    "course_descr":null,
+    "course_descr":"An introduction to the spoken and written language of contemporary Iran. No P\/D\/F or R credit is allowed for this class.",
     "instructor":"Saeed Honarmand",
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"2:00pm",
@@ -27611,7 +27634,7 @@
   {
     "course_code":"MDES UN1901",
     "course_title":"ELEMENTARY MODERN TURKISH I",
-    "course_descr":null,
+    "course_descr":"An introduction to the written and spoken language of Turkey. No P\/D\/F or R credit is allowed for this class.",
     "instructor":"Zuleyha M Fikret",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -27661,7 +27684,7 @@
   {
     "course_code":"MDES UN2201",
     "course_title":"SECOND YEAR ARABIC I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: MDES W1210-W1211 or the equivalent. A continuation of the study of the language of contemporary writing. No P\/D\/F or R credit is allowed for this class.",
     "instructor":"Rym Bettaieb",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:15am",
@@ -27677,7 +27700,12 @@
     "open_to":null,
     "points":"5",
     "prerequisites":[
-
+      [
+        "MDES W1210"
+      ],
+      [
+        "W1211"
+      ]
     ],
     "scheduled_days":"MTWR",
     "section_key":"20263MDES2201W001",
@@ -27686,7 +27714,7 @@
   {
     "course_code":"MDES UN2201",
     "course_title":"SECOND YEAR ARABIC I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: MDES W1210-W1211 or the equivalent. A continuation of the study of the language of contemporary writing. No P\/D\/F or R credit is allowed for this class.",
     "instructor":"Nasr Abdo",
     "scheduled_time_start":"8:50am",
     "scheduled_time_end":"9:55am",
@@ -27702,7 +27730,12 @@
     "open_to":null,
     "points":"5",
     "prerequisites":[
-
+      [
+        "MDES W1210"
+      ],
+      [
+        "W1211"
+      ]
     ],
     "scheduled_days":"MTWR",
     "section_key":"20263MDES2201W002",
@@ -27711,7 +27744,7 @@
   {
     "course_code":"MDES UN2201",
     "course_title":"SECOND YEAR ARABIC I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: MDES W1210-W1211 or the equivalent. A continuation of the study of the language of contemporary writing. No P\/D\/F or R credit is allowed for this class.",
     "instructor":"May Ahmar",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:15pm",
@@ -27727,7 +27760,12 @@
     "open_to":null,
     "points":"5",
     "prerequisites":[
-
+      [
+        "MDES W1210"
+      ],
+      [
+        "W1211"
+      ]
     ],
     "scheduled_days":"MTWR",
     "section_key":"20263MDES2201W003",
@@ -27736,7 +27774,7 @@
   {
     "course_code":"MDES UN2202",
     "course_title":"SECOND YEAR ARABIC II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: MDES W1210-W1211 or the equivalent. A continuation of the study of the language of contemporary writing. No P\/D\/F or R credit is allowed for this class.",
     "instructor":"Nasr Abdo",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:45pm",
@@ -27752,7 +27790,12 @@
     "open_to":null,
     "points":"5",
     "prerequisites":[
-
+      [
+        "MDES W1210"
+      ],
+      [
+        "W1211"
+      ]
     ],
     "scheduled_days":"MTWR",
     "section_key":"20263MDES2202W001",
@@ -27761,7 +27804,7 @@
   {
     "course_code":"MDES UN2208",
     "course_title":"ARABIC FOR HERITAGE SPEAKERS I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: Instructor permission. This is an intensive course that combines the curriculum of both First and Second Year Arabic in two semesters instead of four, and focuses on the productive skills (speaking and writing) in Modern Standard Arabic (Fusha). Students are exposed intensively to grammar and vocabulary of a high register. After successful completion of this course, students will be able to move on to Third Year Arabic. No P\/D\/F or R credit is allowed for this class.",
     "instructor":"Reem Faraj",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:15pm",
@@ -27786,7 +27829,7 @@
   {
     "course_code":"MDES UN2301",
     "course_title":"INTERMEDIATE ARMENIAN I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: MDES UN1301 and MDES UN1302 or the equivalent. A continuation of the study of reading, writing and speaking of Armenian. In Intermediate Armenian I, students learn to communicate about a wide range of topics. Such topics include biographical narration, cooking and recipes, health and well-being, holidays and celebrations, travel and geography, etc. At this level, students continue to develop their skills in reading, writing, speaking, and listening while perfecting the grammatical concepts to which they were introduced in the first year. No P\/D\/F or R credit is allowed for this class.",
     "instructor":"Charry Karamanoukian",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -27802,7 +27845,12 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "MDES UN1301"
+      ],
+      [
+        "MDES UN1302"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20263MDES2301W001",
@@ -27811,7 +27859,7 @@
   {
     "course_code":"MDES UN2401",
     "course_title":"INTERMEDIATE SANSKRIT I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: Elementary Sanskrit II or instructor permission. This course constitutes the first half of a year-long reading course designed to give students the tools necessary for advanced study in Classical Sanskrit. Readings in epic (itihasa), poetry (kavya), systematic thought (sastra), and commentary (vyakhyana) will introduce students to a variety of important genres and their distinctive conventions. A focus upon the Sanskrit tradition\u2019s own categories of analysis\u2014grammatical, commentarial, and prosodic\u2014will enable students to begin to make sense of original Sanskrit texts as generations of the tradition\u2019s own readers have. No P\/D\/F or R credit is allowed for this class.",
     "instructor":"Jay Ramesh",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -27836,7 +27884,7 @@
   {
     "course_code":"MDES UN2501",
     "course_title":"2ND YR MOD HEBREW:INTER I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: 1st Year Modern Hebrew II or the equivalent and instructor's permission. Equal emphasis is given to listening, speaking, reading and writing. Regular categories of the Hebrew verb, prepositions, and basic syntax are taught systematically. Vocabulary building. Daily homework includes grammar exercises, short answers, reading, or short compositions. Frequent vocabulary and grammar quizzes. No P\/D\/F or R credit is allowed for this class.",
     "instructor":"Yael Flusser",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:15am",
@@ -27861,7 +27909,7 @@
   {
     "course_code":"MDES UN2516",
     "course_title":"INT HEBREW:INTENSVE GRAMMAR REV",
-    "course_descr":null,
+    "course_descr":"This course focuses on Modern Hebrew grammar, and verb conjugation in particular. It is designed for students with substantial knowledge of Modern Hebrew. Over the semester, students will systematically review the grammatical patterns of regular verbs (shlemim), and learn the grammatical patterns of the irregular verbs (gzarot), as well as several other grammatical topics. After successful completion of this course, the foreign language requirement will be fulfilled (for students of Columbia College and other academic units that require a 4th-semester proficiency). Successful completion of this course also allows students to register in third-year Modern Hebrew.",
     "instructor":"Illan Gonen",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -27886,7 +27934,7 @@
   {
     "course_code":"MDES UN2517",
     "course_title":"HEBREW FOR HERITAGE SPEAKERS I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: Permission of instructor. Hebrew for Heritage Speakers I forms part of a year-long sequence with Hebrew for Heritage Speakers II. The course is intended for those who have developed basic speaking and listening skills through exposure to Hebrew at home or in day-school programs but do not use Hebrew as their dominant language and have not reached the level required for exemption from the Columbia language requirement. Heritage speakers differ in the degree of their fluency, but their vocabulary is often limited to topics in daily life and many lack skills in reading and writing to match their ability to converse. The course focuses on grammar and vocabulary enrichment, exposing students to a variety of cultural and social topics in daily life and beyond. By the end of the semester students are able to read and discuss simple texts and write about a variety of topics. Successful completion of the year-long sequence prepares students to enroll in third-year modern Hebrew. No P\/D\/F or R credit is allowed for this class.",
     "instructor":"Yael Flusser",
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"2:00pm",
@@ -27936,7 +27984,7 @@
   {
     "course_code":"MDES UN2701",
     "course_title":"INTERMEDIATE PERSIAN I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: Elementary Persian II or the equivalent. This course involves reading, writing, translating, conversation and grammatical foundations for Persian Language (PL). The materials are selected from two books: \u0100muzesh-e F\u0101rsi: Intermediate Level (required) and English-Persian Dictionary, plus verb system and charts (recommended). These books are assigned and have to be available to every student. There are also handouts, which will be provided throughout the course. This course serves as intermediate and makes students able to read and compose proper Persian language as well as the colloquial one. No P\/D\/F or R credit is allowed for this class.",
     "instructor":"Saeed Honarmand",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -27961,7 +28009,7 @@
   {
     "course_code":"MDES UN2901",
     "course_title":"INTERMEDIATE MODERN TURKISH I",
-    "course_descr":null,
+    "course_descr":"A continuation of the study of the written and spoken language of Turkey, with readings of literary, historical, and other texts. No P\/D\/F or R credit is allowed for this class.",
     "instructor":"Zuleyha M Fikret",
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"2:00pm",
@@ -28011,7 +28059,7 @@
   {
     "course_code":"MDES UN3960",
     "course_title":"HONORS THESIS SEMINAR PART 1",
-    "course_descr":null,
+    "course_descr":"Prerequisites: minimum GPA of 3.5 in MESAAS courses. The MESAAS honors seminar offers students the opportunity to undertake a sustained research project under close faculty supervision. The DUS advises on general issues of project design, format, approach, general research methodologies, and timetable. In addition, students work with an individual advisor who has expertise in the area of the thesis and can advise on the specifics of method and content. The thesis will be jointly evaluated by the adviser, the DUS, and the honors thesis TA. The DUS will lead students through a variety of exercises that are directly geared to facilitating the thesis. Students build their research, interpretive, and writing skills; discuss methodological approaches; write an annotated bibliography; learn to give constructive feedback to peers and respond to feedback effectively. The final product is a polished research paper in the range of 40-60 pages. Please note: This is a one-year course that begins in the fall semester (1 point) and continues through the spring semester (3 points). Only students who have completed both semesters will receive the full 4 points of credit.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -28586,7 +28634,7 @@
   {
     "course_code":"MPP_ UN1425",
     "course_title":"PIANO INSTRUCTION",
-    "course_descr":null,
+    "course_descr":"The Music Performance Program (MPP) offers music lessons in various classical and jazz instruments, bluegrass guitar and jazz voice, taught by distinguished MPP Associate Faculty members. Lessons are 6 hours per semester. An audition is required.",
     "instructor":"Mirna Lekic",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -28611,7 +28659,7 @@
   {
     "course_code":"MPP_ UN1425",
     "course_title":"PIANO INSTRUCTION",
-    "course_descr":null,
+    "course_descr":"The Music Performance Program (MPP) offers music lessons in various classical and jazz instruments, bluegrass guitar and jazz voice, taught by distinguished MPP Associate Faculty members. Lessons are 6 hours per semester. An audition is required.",
     "instructor":"Kathleen Tagg",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -28636,7 +28684,7 @@
   {
     "course_code":"MPP_ UN1425",
     "course_title":"PIANO INSTRUCTION",
-    "course_descr":null,
+    "course_descr":"The Music Performance Program (MPP) offers music lessons in various classical and jazz instruments, bluegrass guitar and jazz voice, taught by distinguished MPP Associate Faculty members. Lessons are 6 hours per semester. An audition is required.",
     "instructor":"Maria Asteriadou",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -28661,7 +28709,7 @@
   {
     "course_code":"MPP_ UN1425",
     "course_title":"PIANO INSTRUCTION",
-    "course_descr":null,
+    "course_descr":"The Music Performance Program (MPP) offers music lessons in various classical and jazz instruments, bluegrass guitar and jazz voice, taught by distinguished MPP Associate Faculty members. Lessons are 6 hours per semester. An audition is required.",
     "instructor":"Walter Aparicio",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -29011,7 +29059,7 @@
   {
     "course_code":"MPP_ UN1449",
     "course_title":"JAZZ ORCHESTRATION",
-    "course_descr":null,
+    "course_descr":"The Music Performance Program (MPP) offers music lessons in various classical and jazz instruments, bluegrass guitar and jazz voice, taught by distinguished MPP Associate Faculty members. Lessons are 6 hours per semester. An audition is required.",
     "instructor":"Ole Mathisen",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -29036,7 +29084,7 @@
   {
     "course_code":"MPP_ UN1449",
     "course_title":"JAZZ ORCHESTRATION",
-    "course_descr":null,
+    "course_descr":"The Music Performance Program (MPP) offers music lessons in various classical and jazz instruments, bluegrass guitar and jazz voice, taught by distinguished MPP Associate Faculty members. Lessons are 6 hours per semester. An audition is required.",
     "instructor":"Don Sickler",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -29086,7 +29134,7 @@
   {
     "course_code":"MPP_ UN1453",
     "course_title":"JAZZ PIANO INSTRUCTION",
-    "course_descr":null,
+    "course_descr":"The Music Performance Program (MPP) offers music lessons in various classical and jazz instruments, bluegrass guitar and jazz voice, taught by distinguished MPP Associate Faculty members. Lessons are 6 hours per semester. An audition is required.",
     "instructor":"Gabriel Guerrero",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -29111,7 +29159,7 @@
   {
     "course_code":"MPP_ UN1453",
     "course_title":"JAZZ PIANO INSTRUCTION",
-    "course_descr":null,
+    "course_descr":"The Music Performance Program (MPP) offers music lessons in various classical and jazz instruments, bluegrass guitar and jazz voice, taught by distinguished MPP Associate Faculty members. Lessons are 6 hours per semester. An audition is required.",
     "instructor":"Victor J Lin",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -29136,7 +29184,7 @@
   {
     "course_code":"MPP_ UN1453",
     "course_title":"JAZZ PIANO INSTRUCTION",
-    "course_descr":null,
+    "course_descr":"The Music Performance Program (MPP) offers music lessons in various classical and jazz instruments, bluegrass guitar and jazz voice, taught by distinguished MPP Associate Faculty members. Lessons are 6 hours per semester. An audition is required.",
     "instructor":"Helen Sung",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -29161,7 +29209,7 @@
   {
     "course_code":"MPP_ UN1455",
     "course_title":"JAZZ SAXOPHONE INSTRUCTION",
-    "course_descr":null,
+    "course_descr":"The Music Performance Program (MPP) offers music lessons in various classical and jazz instruments, bluegrass guitar and jazz voice, taught by distinguished MPP Associate Faculty members. Lessons are 6 hours per semester. An audition is required.",
     "instructor":"Laubrock Ingrid",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -29186,7 +29234,7 @@
   {
     "course_code":"MPP_ UN1457",
     "course_title":"JAZZ TROMBONE INSTRUCTION",
-    "course_descr":null,
+    "course_descr":"The Music Performance Program (MPP) offers music lessons in various classical and jazz instruments, bluegrass guitar and jazz voice, taught by distinguished MPP Associate Faculty members. Lessons are 6 hours per semester. An audition is required.",
     "instructor":"John David Gibson",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -29211,7 +29259,7 @@
   {
     "course_code":"MPP_ UN1459",
     "course_title":"JAZZ TRUMPET INSTRUCTION",
-    "course_descr":null,
+    "course_descr":"The Music Performance Program (MPP) offers music lessons in various classical and jazz instruments, bluegrass guitar and jazz voice, taught by distinguished MPP Associate Faculty members. Lessons are 6 hours per semester. An audition is required.",
     "instructor":"Don Sickler",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -29236,7 +29284,7 @@
   {
     "course_code":"MPP_ UN1461",
     "course_title":"JAZZ VOICE INSTRUCTION",
-    "course_descr":null,
+    "course_descr":"The Music Performance Program (MPP) offers music lessons in various classical and jazz instruments, bluegrass guitar and jazz voice, taught by distinguished MPP Associate Faculty members. Lessons are 6 hours per semester. An audition is required.",
     "instructor":"Christine Correa",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -29261,7 +29309,7 @@
   {
     "course_code":"MPP_ UN1531",
     "course_title":"CHAMBER ENSEMBLE",
-    "course_descr":null,
+    "course_descr":"The Music Performance Program (MPP) offers students the opportunity to participate in various classical ensembles and study with some of the most renowned chamber musicians in New York City. An audition is required.",
     "instructor":"Ian Sullivan",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -29286,7 +29334,7 @@
   {
     "course_code":"MPP_ UN1531",
     "course_title":"CHAMBER ENSEMBLE",
-    "course_descr":null,
+    "course_descr":"The Music Performance Program (MPP) offers students the opportunity to participate in various classical ensembles and study with some of the most renowned chamber musicians in New York City. An audition is required.",
     "instructor":"Reiko Uchida",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -29311,7 +29359,7 @@
   {
     "course_code":"MPP_ UN1531",
     "course_title":"CHAMBER ENSEMBLE",
-    "course_descr":null,
+    "course_descr":"The Music Performance Program (MPP) offers students the opportunity to participate in various classical ensembles and study with some of the most renowned chamber musicians in New York City. An audition is required.",
     "instructor":"Sarah Adams",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -29336,7 +29384,7 @@
   {
     "course_code":"MPP_ UN1531",
     "course_title":"CHAMBER ENSEMBLE",
-    "course_descr":null,
+    "course_descr":"The Music Performance Program (MPP) offers students the opportunity to participate in various classical ensembles and study with some of the most renowned chamber musicians in New York City. An audition is required.",
     "instructor":"Eliot Bailen",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -29361,7 +29409,7 @@
   {
     "course_code":"MPP_ UN1531",
     "course_title":"CHAMBER ENSEMBLE",
-    "course_descr":null,
+    "course_descr":"The Music Performance Program (MPP) offers students the opportunity to participate in various classical ensembles and study with some of the most renowned chamber musicians in New York City. An audition is required.",
     "instructor":"Allen M Blustine",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -29386,7 +29434,7 @@
   {
     "course_code":"MPP_ UN1531",
     "course_title":"CHAMBER ENSEMBLE",
-    "course_descr":null,
+    "course_descr":"The Music Performance Program (MPP) offers students the opportunity to participate in various classical ensembles and study with some of the most renowned chamber musicians in New York City. An audition is required.",
     "instructor":"Vicki Bodner",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -29411,7 +29459,7 @@
   {
     "course_code":"MPP_ UN1531",
     "course_title":"CHAMBER ENSEMBLE",
-    "course_descr":null,
+    "course_descr":"The Music Performance Program (MPP) offers students the opportunity to participate in various classical ensembles and study with some of the most renowned chamber musicians in New York City. An audition is required.",
     "instructor":"Patrick Jee",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -29436,7 +29484,7 @@
   {
     "course_code":"MPP_ UN1531",
     "course_title":"CHAMBER ENSEMBLE",
-    "course_descr":null,
+    "course_descr":"The Music Performance Program (MPP) offers students the opportunity to participate in various classical ensembles and study with some of the most renowned chamber musicians in New York City. An audition is required.",
     "instructor":"Maja S Cerar",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -29461,7 +29509,7 @@
   {
     "course_code":"MPP_ UN1531",
     "course_title":"CHAMBER ENSEMBLE",
-    "course_descr":null,
+    "course_descr":"The Music Performance Program (MPP) offers students the opportunity to participate in various classical ensembles and study with some of the most renowned chamber musicians in New York City. An audition is required.",
     "instructor":"Cyrus S Beroukhim",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -29486,7 +29534,7 @@
   {
     "course_code":"MPP_ UN1531",
     "course_title":"CHAMBER ENSEMBLE",
-    "course_descr":null,
+    "course_descr":"The Music Performance Program (MPP) offers students the opportunity to participate in various classical ensembles and study with some of the most renowned chamber musicians in New York City. An audition is required.",
     "instructor":"June Han",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -29511,7 +29559,7 @@
   {
     "course_code":"MPP_ UN1531",
     "course_title":"CHAMBER ENSEMBLE",
-    "course_descr":null,
+    "course_descr":"The Music Performance Program (MPP) offers students the opportunity to participate in various classical ensembles and study with some of the most renowned chamber musicians in New York City. An audition is required.",
     "instructor":"Sue Anne Kahn",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -29536,7 +29584,7 @@
   {
     "course_code":"MPP_ UN1531",
     "course_title":"CHAMBER ENSEMBLE",
-    "course_descr":null,
+    "course_descr":"The Music Performance Program (MPP) offers students the opportunity to participate in various classical ensembles and study with some of the most renowned chamber musicians in New York City. An audition is required.",
     "instructor":"Muneko Otani",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -29561,7 +29609,7 @@
   {
     "course_code":"MPP_ UN1531",
     "course_title":"CHAMBER ENSEMBLE",
-    "course_descr":null,
+    "course_descr":"The Music Performance Program (MPP) offers students the opportunity to participate in various classical ensembles and study with some of the most renowned chamber musicians in New York City. An audition is required.",
     "instructor":"Susan Palma-Nidel",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -29586,7 +29634,7 @@
   {
     "course_code":"MPP_ UN1531",
     "course_title":"CHAMBER ENSEMBLE",
-    "course_descr":null,
+    "course_descr":"The Music Performance Program (MPP) offers students the opportunity to participate in various classical ensembles and study with some of the most renowned chamber musicians in New York City. An audition is required.",
     "instructor":"Richard W Rood",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -29611,7 +29659,7 @@
   {
     "course_code":"MPP_ UN1531",
     "course_title":"CHAMBER ENSEMBLE",
-    "course_descr":null,
+    "course_descr":"The Music Performance Program (MPP) offers students the opportunity to participate in various classical ensembles and study with some of the most renowned chamber musicians in New York City. An audition is required.",
     "instructor":"Susan Rotholz",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -29636,7 +29684,7 @@
   {
     "course_code":"MPP_ UN1531",
     "course_title":"CHAMBER ENSEMBLE",
-    "course_descr":null,
+    "course_descr":"The Music Performance Program (MPP) offers students the opportunity to participate in various classical ensembles and study with some of the most renowned chamber musicians in New York City. An audition is required.",
     "instructor":"Jessica L Thompson",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -29661,7 +29709,7 @@
   {
     "course_code":"MPP_ UN1531",
     "course_title":"CHAMBER ENSEMBLE",
-    "course_descr":null,
+    "course_descr":"The Music Performance Program (MPP) offers students the opportunity to participate in various classical ensembles and study with some of the most renowned chamber musicians in New York City. An audition is required.",
     "instructor":"Brad Gemeinhardt",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -29686,7 +29734,7 @@
   {
     "course_code":"MPP_ UN1531",
     "course_title":"CHAMBER ENSEMBLE",
-    "course_descr":null,
+    "course_descr":"The Music Performance Program (MPP) offers students the opportunity to participate in various classical ensembles and study with some of the most renowned chamber musicians in New York City. An audition is required.",
     "instructor":"James H Wilson",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -29711,7 +29759,7 @@
   {
     "course_code":"MPP_ UN1531",
     "course_title":"CHAMBER ENSEMBLE",
-    "course_descr":null,
+    "course_descr":"The Music Performance Program (MPP) offers students the opportunity to participate in various classical ensembles and study with some of the most renowned chamber musicians in New York City. An audition is required.",
     "instructor":"Gwendolyn A Krosnick",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -29736,7 +29784,7 @@
   {
     "course_code":"MPP_ UN1531",
     "course_title":"CHAMBER ENSEMBLE",
-    "course_descr":null,
+    "course_descr":"The Music Performance Program (MPP) offers students the opportunity to participate in various classical ensembles and study with some of the most renowned chamber musicians in New York City. An audition is required.",
     "instructor":"Mirna Lekic",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -29761,7 +29809,7 @@
   {
     "course_code":"MPP_ UN1541",
     "course_title":"COLUMBIA UNIV JAZZ ENSEMBL",
-    "course_descr":null,
+    "course_descr":"The Louis Armstrong Jazz Performance Program in the Music Performance Program (MPP) offers students the opportunity to participate in various jazz ensembles, both large and small, instrumental and vocal, that cover a wide range of musical ensembles. All ensembles perform at an intermediate level or higher and require some past jazz experience.",
     "instructor":"Christine Correa",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -29786,7 +29834,7 @@
   {
     "course_code":"MPP_ UN1541",
     "course_title":"COLUMBIA UNIV JAZZ ENSEMBL",
-    "course_descr":null,
+    "course_descr":"The Louis Armstrong Jazz Performance Program in the Music Performance Program (MPP) offers students the opportunity to participate in various jazz ensembles, both large and small, instrumental and vocal, that cover a wide range of musical ensembles. All ensembles perform at an intermediate level or higher and require some past jazz experience.",
     "instructor":"Victor J Lin",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -29811,7 +29859,7 @@
   {
     "course_code":"MPP_ UN1541",
     "course_title":"COLUMBIA UNIV JAZZ ENSEMBL",
-    "course_descr":null,
+    "course_descr":"The Louis Armstrong Jazz Performance Program in the Music Performance Program (MPP) offers students the opportunity to participate in various jazz ensembles, both large and small, instrumental and vocal, that cover a wide range of musical ensembles. All ensembles perform at an intermediate level or higher and require some past jazz experience.",
     "instructor":"Leo Traversa",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -29836,7 +29884,7 @@
   {
     "course_code":"MPP_ UN1541",
     "course_title":"COLUMBIA UNIV JAZZ ENSEMBL",
-    "course_descr":null,
+    "course_descr":"The Louis Armstrong Jazz Performance Program in the Music Performance Program (MPP) offers students the opportunity to participate in various jazz ensembles, both large and small, instrumental and vocal, that cover a wide range of musical ensembles. All ensembles perform at an intermediate level or higher and require some past jazz experience.",
     "instructor":"Vince Cherico",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -29861,7 +29909,7 @@
   {
     "course_code":"MPP_ UN1541",
     "course_title":"COLUMBIA UNIV JAZZ ENSEMBL",
-    "course_descr":null,
+    "course_descr":"The Louis Armstrong Jazz Performance Program in the Music Performance Program (MPP) offers students the opportunity to participate in various jazz ensembles, both large and small, instrumental and vocal, that cover a wide range of musical ensembles. All ensembles perform at an intermediate level or higher and require some past jazz experience.",
     "instructor":"Victor J Lin",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -29886,7 +29934,7 @@
   {
     "course_code":"MPP_ UN1541",
     "course_title":"COLUMBIA UNIV JAZZ ENSEMBL",
-    "course_descr":null,
+    "course_descr":"The Louis Armstrong Jazz Performance Program in the Music Performance Program (MPP) offers students the opportunity to participate in various jazz ensembles, both large and small, instrumental and vocal, that cover a wide range of musical ensembles. All ensembles perform at an intermediate level or higher and require some past jazz experience.",
     "instructor":"Ole Mathisen",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -29911,7 +29959,7 @@
   {
     "course_code":"MPP_ UN1541",
     "course_title":"COLUMBIA UNIV JAZZ ENSEMBL",
-    "course_descr":null,
+    "course_descr":"The Louis Armstrong Jazz Performance Program in the Music Performance Program (MPP) offers students the opportunity to participate in various jazz ensembles, both large and small, instrumental and vocal, that cover a wide range of musical ensembles. All ensembles perform at an intermediate level or higher and require some past jazz experience.",
     "instructor":"Ole Mathisen",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -29936,7 +29984,7 @@
   {
     "course_code":"MPP_ UN1541",
     "course_title":"COLUMBIA UNIV JAZZ ENSEMBL",
-    "course_descr":null,
+    "course_descr":"The Louis Armstrong Jazz Performance Program in the Music Performance Program (MPP) offers students the opportunity to participate in various jazz ensembles, both large and small, instrumental and vocal, that cover a wide range of musical ensembles. All ensembles perform at an intermediate level or higher and require some past jazz experience.",
     "instructor":"Paul Bollenback",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -29961,7 +30009,7 @@
   {
     "course_code":"MPP_ UN1541",
     "course_title":"COLUMBIA UNIV JAZZ ENSEMBL",
-    "course_descr":null,
+    "course_descr":"The Louis Armstrong Jazz Performance Program in the Music Performance Program (MPP) offers students the opportunity to participate in various jazz ensembles, both large and small, instrumental and vocal, that cover a wide range of musical ensembles. All ensembles perform at an intermediate level or higher and require some past jazz experience.",
     "instructor":"Don Sickler",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -29986,7 +30034,7 @@
   {
     "course_code":"MPP_ UN1541",
     "course_title":"COLUMBIA UNIV JAZZ ENSEMBL",
-    "course_descr":null,
+    "course_descr":"The Louis Armstrong Jazz Performance Program in the Music Performance Program (MPP) offers students the opportunity to participate in various jazz ensembles, both large and small, instrumental and vocal, that cover a wide range of musical ensembles. All ensembles perform at an intermediate level or higher and require some past jazz experience.",
     "instructor":"Don Sickler",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -30011,7 +30059,7 @@
   {
     "course_code":"MPP_ UN1541",
     "course_title":"COLUMBIA UNIV JAZZ ENSEMBL",
-    "course_descr":null,
+    "course_descr":"The Louis Armstrong Jazz Performance Program in the Music Performance Program (MPP) offers students the opportunity to participate in various jazz ensembles, both large and small, instrumental and vocal, that cover a wide range of musical ensembles. All ensembles perform at an intermediate level or higher and require some past jazz experience.",
     "instructor":"John David Gibson",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -30036,7 +30084,7 @@
   {
     "course_code":"MPP_ UN1541",
     "course_title":"COLUMBIA UNIV JAZZ ENSEMBL",
-    "course_descr":null,
+    "course_descr":"The Louis Armstrong Jazz Performance Program in the Music Performance Program (MPP) offers students the opportunity to participate in various jazz ensembles, both large and small, instrumental and vocal, that cover a wide range of musical ensembles. All ensembles perform at an intermediate level or higher and require some past jazz experience.",
     "instructor":"Gabriel Guerrero",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -30061,7 +30109,7 @@
   {
     "course_code":"MPP_ UN1551",
     "course_title":"WORLD MUSIC ENSEMBLE",
-    "course_descr":null,
+    "course_descr":"In collaboration with the Center for Ethnomusicology, MESAAS, Institute for Medieval Japanese Studies and the Louis Armstrong Jazz Performance Program, the Music Performance Program (MPP) offers students the opportunity to participate in various world music ensembles: Arab Music, Bluegrass, Japanese Gagaku\/Hogaku, Klezmer and Latin American Music. Each ensemble requires different levels of experience, so please refer to the World Music section of the Music Performance Program website for more info. Please note the Latin American Music Ensemble focuses on two different Latin music traditions: The Afro-Cuban Ensemble meets in the Fall and the Brazilian Ensemble meets in the Spring.",
     "instructor":"Hilary Hawke",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -30086,7 +30134,7 @@
   {
     "course_code":"MPP_ UN1551",
     "course_title":"WORLD MUSIC ENSEMBLE",
-    "course_descr":null,
+    "course_descr":"In collaboration with the Center for Ethnomusicology, MESAAS, Institute for Medieval Japanese Studies and the Louis Armstrong Jazz Performance Program, the Music Performance Program (MPP) offers students the opportunity to participate in various world music ensembles: Arab Music, Bluegrass, Japanese Gagaku\/Hogaku, Klezmer and Latin American Music. Each ensemble requires different levels of experience, so please refer to the World Music section of the Music Performance Program website for more info. Please note the Latin American Music Ensemble focuses on two different Latin music traditions: The Afro-Cuban Ensemble meets in the Fall and the Brazilian Ensemble meets in the Spring.",
     "instructor":"Alicia Lindsey",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -30111,7 +30159,7 @@
   {
     "course_code":"MPP_ UN1551",
     "course_title":"WORLD MUSIC ENSEMBLE",
-    "course_descr":null,
+    "course_descr":"In collaboration with the Center for Ethnomusicology, MESAAS, Institute for Medieval Japanese Studies and the Louis Armstrong Jazz Performance Program, the Music Performance Program (MPP) offers students the opportunity to participate in various world music ensembles: Arab Music, Bluegrass, Japanese Gagaku\/Hogaku, Klezmer and Latin American Music. Each ensemble requires different levels of experience, so please refer to the World Music section of the Music Performance Program website for more info. Please note the Latin American Music Ensemble focuses on two different Latin music traditions: The Afro-Cuban Ensemble meets in the Fall and the Brazilian Ensemble meets in the Spring.",
     "instructor":"Adam Robinson",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -30136,7 +30184,7 @@
   {
     "course_code":"MPP_ UN1551",
     "course_title":"WORLD MUSIC ENSEMBLE",
-    "course_descr":null,
+    "course_descr":"In collaboration with the Center for Ethnomusicology, MESAAS, Institute for Medieval Japanese Studies and the Louis Armstrong Jazz Performance Program, the Music Performance Program (MPP) offers students the opportunity to participate in various world music ensembles: Arab Music, Bluegrass, Japanese Gagaku\/Hogaku, Klezmer and Latin American Music. Each ensemble requires different levels of experience, so please refer to the World Music section of the Music Performance Program website for more info. Please note the Latin American Music Ensemble focuses on two different Latin music traditions: The Afro-Cuban Ensemble meets in the Fall and the Brazilian Ensemble meets in the Spring.",
     "instructor":"Yumi Kurosawa",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -30161,7 +30209,7 @@
   {
     "course_code":"MPP_ UN1551",
     "course_title":"WORLD MUSIC ENSEMBLE",
-    "course_descr":null,
+    "course_descr":"In collaboration with the Center for Ethnomusicology, MESAAS, Institute for Medieval Japanese Studies and the Louis Armstrong Jazz Performance Program, the Music Performance Program (MPP) offers students the opportunity to participate in various world music ensembles: Arab Music, Bluegrass, Japanese Gagaku\/Hogaku, Klezmer and Latin American Music. Each ensemble requires different levels of experience, so please refer to the World Music section of the Music Performance Program website for more info. Please note the Latin American Music Ensemble focuses on two different Latin music traditions: The Afro-Cuban Ensemble meets in the Fall and the Brazilian Ensemble meets in the Spring.",
     "instructor":"Jeff Warschauer",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -30186,7 +30234,7 @@
   {
     "course_code":"MPP_ UN1551",
     "course_title":"WORLD MUSIC ENSEMBLE",
-    "course_descr":null,
+    "course_descr":"In collaboration with the Center for Ethnomusicology, MESAAS, Institute for Medieval Japanese Studies and the Louis Armstrong Jazz Performance Program, the Music Performance Program (MPP) offers students the opportunity to participate in various world music ensembles: Arab Music, Bluegrass, Japanese Gagaku\/Hogaku, Klezmer and Latin American Music. Each ensemble requires different levels of experience, so please refer to the World Music section of the Music Performance Program website for more info. Please note the Latin American Music Ensemble focuses on two different Latin music traditions: The Afro-Cuban Ensemble meets in the Fall and the Brazilian Ensemble meets in the Spring.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -30211,7 +30259,7 @@
   {
     "course_code":"MPP_ UN1551",
     "course_title":"WORLD MUSIC ENSEMBLE",
-    "course_descr":null,
+    "course_descr":"In collaboration with the Center for Ethnomusicology, MESAAS, Institute for Medieval Japanese Studies and the Louis Armstrong Jazz Performance Program, the Music Performance Program (MPP) offers students the opportunity to participate in various world music ensembles: Arab Music, Bluegrass, Japanese Gagaku\/Hogaku, Klezmer and Latin American Music. Each ensemble requires different levels of experience, so please refer to the World Music section of the Music Performance Program website for more info. Please note the Latin American Music Ensemble focuses on two different Latin music traditions: The Afro-Cuban Ensemble meets in the Fall and the Brazilian Ensemble meets in the Spring.",
     "instructor":"Taoufik Ben-Amor",
     "scheduled_time_start":"5:00pm",
     "scheduled_time_end":"7:00pm",
@@ -36706,7 +36754,7 @@
   {
     "course_code":"POLS BC1605",
     "course_title":"GLOBAL POLITICS OF CLIMATE CHANGE",
-    "course_descr":null,
+    "course_descr":"Climate change mitigation is the greatest global political challenge of our times. This course uses concepts drawn from the broader political science literature to analyze the recent history and possible future trajectories of interactions between international and domestic politics and climate change. It focuses on mitigation questions, and includes the international political economy of various relevant commercial sectors. It has no prerequisites, and no background knowledge is required. The course has two fundamental goals: to increase student understanding of the complexity of political issues and interests involved in global climate change problems, and to counter growing climate despair by suggesting realistic paths forward toward global net zero carbon emissions. Class lectures will leave significant time for student questions and discussion. There is also a required weekly discussion section.",
     "instructor":"Kimberly Marten",
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:55pm",
@@ -36731,7 +36779,7 @@
   {
     "course_code":"POLS BC2875",
     "course_title":"RUSSIA AND THE WEST",
-    "course_descr":null,
+    "course_descr":"What explains Russia\u2019s foreign and security policy choices and its terrible relationship with the West today? We will discuss and debate the motivations behind Moscow\u2019s actions, asking whether they have been driven by realist great power considerations; by Russia\u2019s domestic patronage system and Russian President Putin\u2019s desire to stay in power; by an ideology of ethnic Orthodox nationalism or neo-Eurasianism; or by decision-making factors that are either unique to Putin or common across human psychology. In turn we will examine how choices made by the United States and the European Union have affected Russia, and evaluate what all of this means for concrete recent and current Russian and Western foreign and security policy choices. Students will be encouraged to come up with their own answers to these riddles in class discussions and written assignments, and the course concludes with a rigorous negotiation simulation where students will apply the knowledge gained in this course in a practical exercise. This course has no prerequisites, and no background knowledge is expected.",
     "instructor":"Kimberly Marten",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -38979,7 +39027,7 @@
   {
     "course_code":"PSYC BC3162",
     "course_title":"INTRO TO CULTURAL PSYCHOLOGY",
-    "course_descr":null,
+    "course_descr":"Prerequisites: BC1001; and either BC1124\/1125, BC1125, BC2141, or permission of the instructor. Prioority given to senior psychology majors. Critically investigates the universalizing perspectives of psychology. Drawing on recent theory and research in cultural psychology, examines cultural approaches to psychological topics such as the self, human development, mental health, and racial identity. Also explores potential interdisciplinary collaborations.\u00a0The following Columbia University course is considered overlapping and a student cannot receive credit for both the BC course and the equivalent CU course: PSYC\u00a0UN2650 Intro to Cultural Psychology.",
     "instructor":"Isabelle Portelinha",
     "scheduled_time_start":"11:00am",
     "scheduled_time_end":"12:50pm",
@@ -38995,7 +39043,21 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "BC1001"
+      ],
+      [
+        "BC1124"
+      ],
+      [
+        "BC1125"
+      ],
+      [
+        "BC2141"
+      ],
+      [
+        "UN2650"
+      ]
     ],
     "scheduled_days":"M",
     "section_key":"20263PSYC3162X001",
@@ -43824,7 +43886,7 @@
   {
     "course_code":"SINH UN3998",
     "course_title":"SUPERVISED READINGS I",
-    "course_descr":null,
+    "course_descr":"The goals are to increase competency in advanced Sinhala, enhance communicative skills,\n  \nimprove reading skills of classical texts, deepen knowledge of Sinhala written grammar, and\n  \nintroduce advanced vocabulary, expressions, and terminology of Sinhala culture. Besides the\n  \nregular practice of reading, writing, dialogues, discussions, occasional quizzes, and homework,\n  \nstudents will engage in various classroom activities and assignments, such as in-class\n  \npresentations.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -44804,7 +44866,7 @@
   {
     "course_code":"SPAN BC3572",
     "course_title":"Afro-Indigenous Relations: Coexistence,",
-    "course_descr":null,
+    "course_descr":"This course examines Afro-Indigeneity as an emerging critical field and as a decolonial framework for the historical, cultural, and political analysis of Latin America and the Caribbean. Through the study of literature, history, film, music, and critical theory, the course analyzes the relationships, conflicts, and interdependencies between Afro-descendant and Indigenous peoples from the colonial period to the present.",
     "instructor":"Alex Pereira",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:25pm",
@@ -45720,7 +45782,7 @@
   {
     "course_code":"SWHL UN1101",
     "course_title":"ELEMENTARY SWAHILI I",
-    "course_descr":null,
+    "course_descr":"Essentials of grammar, basic vocabulary, practice in speaking and reading Swahili the most widely used indigenous language of East Africa. No P\/D\/F or R credit is allowed for this class.",
     "instructor":"Abdul Nanji",
     "scheduled_time_start":"9:10am",
     "scheduled_time_end":"10:00am",
@@ -45745,7 +45807,7 @@
   {
     "course_code":"SWHL UN2101",
     "course_title":"INTERMEDIATE SWAHILI I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: SWHL W1101-W1102 or the instructor's permission. A review of the essentials of Swahili grammar; detailed analysis of Swahili texts; practice in conversation. No P\/D\/F or R credit is allowed for this class.",
     "instructor":"Abdul Nanji",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:00am",
@@ -45761,7 +45823,12 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "SWHL W1101"
+      ],
+      [
+        "W1102"
+      ]
     ],
     "scheduled_days":"MTWR",
     "section_key":"20263SWHL2101W001",
@@ -45770,7 +45837,7 @@
   {
     "course_code":"SWHL UN3301",
     "course_title":"ADVANCED SWAHILI I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: SWHL UN2101-UN2102 or the instructor's permission. An introduction to the advanced syntactical, morphological, and grammatical structures of Swahili grammar; detailed analysis of Swahili texts; practice in conversation. No P\/D\/F or R credit is allowed for this class.",
     "instructor":"Abdul Nanji",
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"2:00pm",
@@ -45786,7 +45853,12 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "SWHL UN2101"
+      ],
+      [
+        "UN2102"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20263SWHL3301W001",
@@ -47047,7 +47119,7 @@
   {
     "course_code":"WLOF UN1101",
     "course_title":"ELEMENTARY WOLOF I",
-    "course_descr":null,
+    "course_descr":"Introduction to the basic grammatical structures of Wolof, a major language of West Africa spoken in Senegal and Gambia. No P\/D\/F or R credit is allowed for this class.",
     "instructor":"Mariame S Sy",
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"1:00pm",
@@ -47072,7 +47144,7 @@
   {
     "course_code":"WLOF UN2101",
     "course_title":"INTERMEDIATE WOLOF I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: WLOF W1101-W1102 or the instructor's permission. Further develops a student's knowledge of Wolof, a major language of West Africa spoken primarily in Senegal and Gambia. No P\/D\/F or R credit is allowed for this class.",
     "instructor":"Mariame S Sy",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -47088,7 +47160,12 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "W1102"
+      ],
+      [
+        "WLOF W1101"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20263WLOF2101W001",
@@ -47097,7 +47174,7 @@
   {
     "course_code":"WLOF UN3301",
     "course_title":"ADVANCED WOLOF I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: Two years of Wolof or instructor permission. No P\/D\/F or R credit is allowed for this class",
     "instructor":"Mariame S Sy",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
