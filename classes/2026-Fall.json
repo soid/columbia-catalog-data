@@ -1046,6 +1046,56 @@
     "type":"COLLOQUIA"
   },
   {
+    "course_code":"AMST BC1111",
+    "course_title":"ELEMENTARY AMERICAN SIGN LANGUAGE I",
+    "course_descr":null,
+    "instructor":"Kailyn Aaron-Lozano",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"11:25am",
+    "call_number":"00951",
+    "campus":null,
+    "class_id":"X1111-20263-001",
+    "course_subtitle":"ELEMENTARY ASL I",
+    "department":"American Studies @Barnard",
+    "department_code":"AMST",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/AMST\/X1111-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MWF",
+    "section_key":"20263AMST1111X001",
+    "type":"LANGUAGE"
+  },
+  {
+    "course_code":"AMST BC1111",
+    "course_title":"ELEMENTARY AMERICAN SIGN LANGUAGE I",
+    "course_descr":null,
+    "instructor":"Kailyn Aaron-Lozano",
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"2:25pm",
+    "call_number":"00952",
+    "campus":null,
+    "class_id":"X1111-20263-002",
+    "course_subtitle":"ELEMENTARY ASL I",
+    "department":"American Studies @Barnard",
+    "department_code":"AMST",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/AMST\/X1111-20263-002\/",
+    "location":"To be announced",
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MWF",
+    "section_key":"20263AMST1111X002",
+    "type":"LANGUAGE"
+  },
+  {
     "course_code":"AMST BC2001",
     "course_title":"Third World Studies",
     "course_descr":"Between 1967 and 1969, groups of American Indian, Black, Chinese, Filipino, Japanese, Mexican, and Puerto Rican college students began to articulate demands for a transformed university, touching everything from admissions, relations to community, and curriculum. Their proposals contributed to the Third World Liberation Front strike at San Francisco State University, the longest student strike in US history. Drawing inspiration from Gary Okihiro, founding director of Columbia\u2019s Center for the Study of Ethnicity and Race, this course takes student activists\u2019 proposals for Third World Studies seriously. Our readings will draw on the traditions of anti-racist and anti-colonial struggle in North America, alongside perspectives from Africa, Asia, and Latin America.",
@@ -1069,6 +1119,31 @@
     "scheduled_days":"MW",
     "section_key":"20263AMST2001X001",
     "type":"LECTURE"
+  },
+  {
+    "course_code":"AMST BC2111",
+    "course_title":"INTERMEDIATE AMERICAN SIGN LANGUAGE I",
+    "course_descr":null,
+    "instructor":"Kailyn Aaron-Lozano",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"11:25am",
+    "call_number":"00953",
+    "campus":null,
+    "class_id":"X2111-20263-001",
+    "course_subtitle":"INTERMEDIATE ASL I",
+    "department":"American Studies @Barnard",
+    "department_code":"AMST",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/AMST\/X2111-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20263AMST2111X001",
+    "type":"LANGUAGE"
   },
   {
     "course_code":"AMST BC3401",
@@ -1444,7 +1519,7 @@
   {
     "course_code":"ANTH GR6079",
     "course_title":"READING, WRITING, ETHNOGRAPHY",
-    "course_descr":null,
+    "course_descr":"Anthropology GR6079x READING WRITING ETHNOGRAPHY. Reading, Writing, Ethnography\u201d asks students to imagine learning to read and then to write anew. It explores a series of exemplary texts in order to explore the histories, genre conventions and experimental forms for writing ethnography.\u00a0 The course is especially concerned with the ways in which empirical observation is made the ground of theoretical abstraction and generalizing claims. Additionally, it examines the relationship between different theoretical and aesthetic movements as these have influenced the writings of anthropologists and those whose work can be considered to have an anthropological ambition\u2014even when they have not been formally trained in anthropology.",
     "instructor":"Rosalind Morris",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -1463,7 +1538,9 @@
     ],
     "points":"3",
     "prerequisites":[
-
+      [
+        "GR6079"
+      ]
     ],
     "scheduled_days":"W",
     "section_key":"20263ANTH6079G001",
@@ -9462,6 +9539,31 @@
     "type":"LABORATORY"
   },
   {
+    "course_code":"BIOL UN2908",
+    "course_title":"Sophomore Biology Research Seminar",
+    "course_descr":null,
+    "instructor":"Alice Heicklen",
+    "scheduled_time_start":"3:00pm",
+    "scheduled_time_end":"3:55pm",
+    "call_number":"11014",
+    "campus":null,
+    "class_id":"C2908-20263-001",
+    "course_subtitle":"Sophomore Biology Seminar",
+    "department":"Biological Sciences",
+    "department_code":"BIOL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/BIOL\/C2908-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20263BIOL2908C001",
+    "type":"SEMINAR"
+  },
+  {
     "course_code":"BIOL UN3022",
     "course_title":"DEVELOPMENTAL BIOLOGY",
     "course_descr":"Prerequisites: BIOL UN2005 and BIOL UN2006 or equivalent. Come discover how the union of egg and sperm triggers the complex cellular interactions that specify the diverse variety of cells present in multicellular organisms. Cellular and molecular aspects of sex determination, gametogenesis, genomic imprinting, X-chromosome inactivation, telomerase as the biological clock, stem cells, cloning, the pill and cell interactions will be explored, with an emphasis on humans. Original research articles will be discussed to further examine current research in developmental biology. SPS and TC students may register for this course, but they must first obtain the written permission of the instructor, by filling out a paper Registration Adjustment Form (Add\/Drop form). The form can be downloaded at the URL below, but must be signed by the instructor and returned to the office of the registrar. http:\/\/registrar.columbia.edu\/sites\/default\/files\/content\/reg-adjustment.pdf",
@@ -17377,8 +17479,8 @@
     "course_title":"THE ART OF THE ESSAY",
     "course_descr":"NOTE: Students who are on the electronic waiting list or who are interested in the class but are not yet registered MUST attend the first day of class.\n  \nFall 2022 course description: Essay writing above the first-year level. Reading and writing various types of essays to develop one's natural writing voice and craft thoughtful, sophisticated and personal essays.\u00a0\n  \nSummer 2022 course description: The Art of the Essay is a writing workshop designed to help you contribute meaningfully in public discourse about the issues that matter most to you. You will write three types of essays in this class, all of which will center personal experience as valuable evidence of larger phenomena or patterns. Your essays will build in complexity, as you introduce more types of sources into conversation about your topics as the semester goes on. You will hone your skills of observing, describing, questioning, analyzing, and persuading. You will be challenged to confront complications and to craft nuanced explorations of your topics. We will also regularly read and discuss the work of contemporary published essayists, identifying key writerly moves that you may adapt as you attempt your own essays.\u00a0 You will have many opportunities throughout the semester to brainstorm ideas, receive feedback from me and your peers, and develop and revise your drafts. At the end of the semester, you will choose a publication to which to submit or pitch one or more of your essays.",
     "instructor":"Vrinda Condillac",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"11:00am",
+    "scheduled_time_end":"12:50pm",
     "call_number":"00344",
     "campus":null,
     "class_id":"X3103-20263-003",
@@ -17386,14 +17488,14 @@
     "department":"English @Barnard",
     "department_code":"ENGL",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/X3103-20263-003\/",
-    "location":null,
+    "location":"To be announced",
     "method_of_instruction":null,
     "open_to":null,
     "points":"3",
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"T",
     "section_key":"20263ENGL3103X003",
     "type":"WORKSHOP"
   },
@@ -17902,8 +18004,8 @@
     "course_title":"THE ENGLISH COLLOQUIUM",
     "course_descr":"Prerequisites: Enrollment limited to Barnard English majors. In the Renaissance colloquium we will examine English and European imaginative and intellectual life from the sixteenth to mid-seventeenth centuries. Defined by humanism, the Protestant Reformation, and revolution, this was a period of ideological struggle on many levels. Long-held ways of ordering the world came under increasing strain-and sometimes ruptured irreparably. Writers discussed and debated the aims of human knowledge, retooled old literary forms for new purposes, scrambled to take account of an expanded awareness of the globe, and probed the tension between belief and doubt. Throughout this process, they experimented with new literary styles to express their rapidly changing worldviews. This is an intensive course in which we will take multiple approaches to a variety of authors that may include Petrarch, Erasmus, Machiavelli, Castiglione, More, Rabelais, Luther, Calvin, Montaigne, Spenser, Bacon, Marlowe, Shakespeare, Milton, and Behn, among others.",
     "instructor":"Faculty",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"12:00pm",
     "call_number":"00361",
     "campus":null,
     "class_id":"X3159-20263-004",
@@ -17911,14 +18013,14 @@
     "department":"English @Barnard",
     "department_code":"ENGL",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/X3159-20263-004\/",
-    "location":null,
+    "location":"To be announced",
     "method_of_instruction":null,
     "open_to":null,
     "points":"4",
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"F",
     "section_key":"20263ENGL3159X004",
     "type":"COLLOQUIA"
   },
@@ -17982,8 +18084,8 @@
     "course_title":"AMERICAN LITERATURE 1871-1945",
     "course_descr":"This interdisciplinary course situates late nineteenth- and early twentieth-century American literature within the context of historical and cultural change. Students read works by Whitman, Twain, James, Griggs, Wharton, Faulkner, and Hurston alongside political and cultural materials including Supreme Court decisions, geometric treatises, composite photography and taxidermy.",
     "instructor":"Jennie Kassanoff",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"11:40am",
+    "scheduled_time_end":"12:55pm",
     "call_number":"00364",
     "campus":null,
     "class_id":"X3181-20263-001",
@@ -17991,14 +18093,14 @@
     "department":"English @Barnard",
     "department_code":"ENGL",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/X3181-20263-001\/",
-    "location":null,
+    "location":"To be announced",
     "method_of_instruction":null,
     "open_to":null,
     "points":"3",
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"TR",
     "section_key":"20263ENGL3181X001",
     "type":"LECTURE"
   },
@@ -18307,8 +18409,8 @@
     "course_title":"GLOBAL LITERATURES IN ENGLISH",
     "course_descr":"The title of this course suggests that there are literatures across the \u201cglobe\u201d written in English, and that we will study them. But this statement rests on a series of assumptions: the \na priori \nexistence of a globe with latitudes, longitudes, and borders; a singular category of \u201cliterature\u201d produced in different geographical locations across the globe; and finally, that these literatures are written in English. During the course of the semester, we will investigate and (occasionally overturn) all three of these assumptions.\u00a0\n  \nIn order to do so, we will read across different literary genres (short stories and novels, plays, poetry, and essays), while also reading texts that move between these genres or defy them altogether. We will read texts that were originally written in English, as well as texts that have been translated into English, and we will learn and discuss the term \u201cglobal anglophone\u201d along with the ways in which this term has been challenged. During our collective readings and discussions, we will map the locations that arise in each text \nand\n the locations out of which these texts arise. We will study the relationship between literature, translation, and mapping, and we will learn and discuss the concept of planetary thinking and writing as an alternative to border and global thinking.",
     "instructor":"Atefeh Akbari Shahmirzadi",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"5:40pm",
+    "scheduled_time_end":"6:55pm",
     "call_number":"00373",
     "campus":null,
     "class_id":"X3521-20263-001",
@@ -18316,14 +18418,14 @@
     "department":"English @Barnard",
     "department_code":"ENGL",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/X3521-20263-001\/",
-    "location":null,
+    "location":"To be announced",
     "method_of_instruction":null,
     "open_to":null,
     "points":"3",
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"TR",
     "section_key":"20263ENGL3521X001",
     "type":"LECTURE"
   },
@@ -18576,6 +18678,492 @@
     "scheduled_days":"W",
     "section_key":"20263ENGL3997X004",
     "type":"SEMINAR"
+  },
+  {
+    "course_code":"ENGL PS0003",
+    "course_title":"LISTEN & SPEAK FOR INT'L STUDS",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"11015",
+    "campus":null,
+    "class_id":"Z0003-20263-001",
+    "course_subtitle":"LISTEN & SPEAK FOR INT'L",
+    "department":"American Language Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/Z0003-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "ALP"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20263ENGL0003Z001",
+    "type":"RESEARCH SEM"
+  },
+  {
+    "course_code":"ENGL PS0005",
+    "course_title":"ACADEMIC WRITING",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"9:10am",
+    "scheduled_time_end":"11:25am",
+    "call_number":"11016",
+    "campus":null,
+    "class_id":"Z0005-20263-001",
+    "course_subtitle":null,
+    "department":"American Language Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/Z0005-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "ALP"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MTR",
+    "section_key":"20263ENGL0005Z001",
+    "type":"LANGUAGE"
+  },
+  {
+    "course_code":"ENGL PS0005",
+    "course_title":"ACADEMIC WRITING",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"9:10am",
+    "scheduled_time_end":"11:25am",
+    "call_number":"11017",
+    "campus":null,
+    "class_id":"Z0005-20263-002",
+    "course_subtitle":null,
+    "department":"American Language Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/Z0005-20263-002\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "ALP"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MTR",
+    "section_key":"20263ENGL0005Z002",
+    "type":"LANGUAGE"
+  },
+  {
+    "course_code":"ENGL PS0005",
+    "course_title":"ACADEMIC WRITING",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"9:10am",
+    "scheduled_time_end":"11:25am",
+    "call_number":"11018",
+    "campus":null,
+    "class_id":"Z0005-20263-003",
+    "course_subtitle":null,
+    "department":"American Language Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/Z0005-20263-003\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "ALP"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MTR",
+    "section_key":"20263ENGL0005Z003",
+    "type":"LANGUAGE"
+  },
+  {
+    "course_code":"ENGL PS0006",
+    "course_title":"ACADEMIC WRITING",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:25pm",
+    "call_number":"11019",
+    "campus":null,
+    "class_id":"Z0006-20263-001",
+    "course_subtitle":null,
+    "department":"American Language Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/Z0006-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "ALP"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MWR",
+    "section_key":"20263ENGL0006Z001",
+    "type":"LANGUAGE"
+  },
+  {
+    "course_code":"ENGL PS0006",
+    "course_title":"ACADEMIC WRITING",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:25pm",
+    "call_number":"11020",
+    "campus":null,
+    "class_id":"Z0006-20263-002",
+    "course_subtitle":null,
+    "department":"American Language Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/Z0006-20263-002\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "ALP"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MWR",
+    "section_key":"20263ENGL0006Z002",
+    "type":"LANGUAGE"
+  },
+  {
+    "course_code":"ENGL PS0012",
+    "course_title":"AMER 12 PT PROG INTENSIVE",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11021",
+    "campus":null,
+    "class_id":"Z0012-20263-001",
+    "course_subtitle":null,
+    "department":"American Language Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/Z0012-20263-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "ALP"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263ENGL0012Z001",
+    "type":"RESEARCH SEM"
+  },
+  {
+    "course_code":"ENGL PS0012",
+    "course_title":"AMER 12 PT PROG INTENSIVE",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11022",
+    "campus":null,
+    "class_id":"Z0012-20263-002",
+    "course_subtitle":null,
+    "department":"American Language Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/Z0012-20263-002\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "ALP"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263ENGL0012Z002",
+    "type":"RESEARCH SEM"
+  },
+  {
+    "course_code":"ENGL PS0012",
+    "course_title":"AMER 12 PT PROG INTENSIVE",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11023",
+    "campus":null,
+    "class_id":"Z0012-20263-003",
+    "course_subtitle":null,
+    "department":"American Language Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/Z0012-20263-003\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "ALP"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263ENGL0012Z003",
+    "type":"RESEARCH SEM"
+  },
+  {
+    "course_code":"ENGL PS0012",
+    "course_title":"AMER 12 PT PROG INTENSIVE",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11024",
+    "campus":null,
+    "class_id":"Z0012-20263-004",
+    "course_subtitle":null,
+    "department":"American Language Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/Z0012-20263-004\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "ALP"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263ENGL0012Z004",
+    "type":"RESEARCH SEM"
+  },
+  {
+    "course_code":"ENGL PS0850",
+    "course_title":"INTL TEACHING FELLOWS TRAINING",
+    "course_descr":null,
+    "instructor":"Lydia Fass",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"11025",
+    "campus":null,
+    "class_id":"Z0850-20263-001",
+    "course_subtitle":"INTL TEACHING FELLOWS TRA",
+    "department":"American Language Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/Z0850-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "ALP"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20263ENGL0850Z001",
+    "type":"WORKSHOP"
+  },
+  {
+    "course_code":"ENGL PS1007",
+    "course_title":"ADV ACAD WRITING FOR GS",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"9:10am",
+    "scheduled_time_end":"11:00am",
+    "call_number":"11026",
+    "campus":null,
+    "class_id":"Z1007-20263-001",
+    "course_subtitle":null,
+    "department":"American Language Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/Z1007-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "General Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20263ENGL1007Z001",
+    "type":"LANGUAGE"
+  },
+  {
+    "course_code":"ENGL PS1007",
+    "course_title":"ADV ACAD WRITING FOR GS",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"11:10am",
+    "scheduled_time_end":"1:00pm",
+    "call_number":"11027",
+    "campus":null,
+    "class_id":"Z1007-20263-002",
+    "course_subtitle":null,
+    "department":"American Language Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/Z1007-20263-002\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "General Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20263ENGL1007Z002",
+    "type":"LANGUAGE"
+  },
+  {
+    "course_code":"ENGL PS1007",
+    "course_title":"ADV ACAD WRITING FOR GS",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"11028",
+    "campus":null,
+    "class_id":"Z1007-20263-003",
+    "course_subtitle":null,
+    "department":"American Language Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/Z1007-20263-003\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "General Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20263ENGL1007Z003",
+    "type":"LANGUAGE"
+  },
+  {
+    "course_code":"ENGL PS1007",
+    "course_title":"ADV ACAD WRITING FOR GS",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"11029",
+    "campus":null,
+    "class_id":"Z1007-20263-004",
+    "course_subtitle":null,
+    "department":"American Language Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/Z1007-20263-004\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "General Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20263ENGL1007Z004",
+    "type":"LANGUAGE"
+  },
+  {
+    "course_code":"ENGL PS1007",
+    "course_title":"ADV ACAD WRITING FOR GS",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"11030",
+    "campus":null,
+    "class_id":"Z1007-20263-005",
+    "course_subtitle":null,
+    "department":"American Language Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/Z1007-20263-005\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "General Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20263ENGL1007Z005",
+    "type":"LANGUAGE"
+  },
+  {
+    "course_code":"ENGL PS1007",
+    "course_title":"ADV ACAD WRITING FOR GS",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"11:10am",
+    "scheduled_time_end":"1:00pm",
+    "call_number":"11031",
+    "campus":null,
+    "class_id":"Z1007-20263-006",
+    "course_subtitle":null,
+    "department":"American Language Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/Z1007-20263-006\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "General Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20263ENGL1007Z006",
+    "type":"LANGUAGE"
+  },
+  {
+    "course_code":"ENGL PS1007",
+    "course_title":"ADV ACAD WRITING FOR GS",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"9:10am",
+    "scheduled_time_end":"11:00am",
+    "call_number":"11032",
+    "campus":null,
+    "class_id":"Z1007-20263-007",
+    "course_subtitle":null,
+    "department":"American Language Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/Z1007-20263-007\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "General Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20263ENGL1007Z007",
+    "type":"LANGUAGE"
   },
   {
     "course_code":"ENRE BC3145",
@@ -25918,7 +26506,7 @@
     "course_code":"LING UN3103",
     "course_title":"Language, Brain and Mind",
     "course_descr":"The ability to speak distinguishes humans from all other animals, including our closest relatives, the chimpanzees.\u00a0Why is this so?\u00a0What makes this possible? This course seeks to answer these questions.\u00a0We will look at the neurological and psychological foundations of the human faculty of language.\u00a0How did our brains change to allow language to evolve? Where in our brains are the components of language found? Are our minds specialized for learning language or is it part of our general cognitive abilities to learn? How are words and sentences produced and their meanings recognized? The structure of languages around the world varies greatly; does this have psychological effects for their speakers?",
-    "instructor":null,
+    "instructor":"William Foley",
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:55pm",
     "call_number":"10448",
@@ -27960,7 +28548,7 @@
     "course_code":"MDES UN2601",
     "course_title":"INTERMEDIATE HINDI-URDU I",
     "course_descr":"This course will prepare you for effective and meaningful communication in all modes. It will consolidate your already acquired listening, speaking, reading, and writing skills and help you acquire higher proficiency in Hindi. You will continue learning common Urdu words in Hindi in the Devanagari Script. The Urdu Script is not taught in this course.\n Students will expand their knowledge base of the society and culture of the target languages in this course. They will be introduced to new grammatical structures and will be taught a broad range of vocabulary. They will also be exposed to a variety of authentic materials, including Hindi literature, newspapers, folk tales, films, songs, and other kinds of written and audio-visual materials. This material will be related to language functions in daily personal and social life situations. At the completion of this course, students will be well-equipped to initiate and sustain general conversations. They will successfully handle most of the uncomplicated communications in personal and social situations. Students will also be able to write letters and compositions. The course is based on national standards and proficiency guidelines as set by the American Council of Teaching Foreign Languages (ACTFL).",
-    "instructor":null,
+    "instructor":"Rakesh Ranjan",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:15pm",
     "call_number":"10840",
@@ -44993,8 +45581,8 @@
     "course_title":"ELEMENTARY SPANISH II",
     "course_descr":"Prerequisites: SPAN UN1101 or a score of 280-379 on the department\u2019s Spanish as a Second Language Placement exam. An intensive introduction to Spanish language communicative competence, with stress on basic oral interaction, reading, writing and cultural knowledge as a continuation of SPAN UN1101. The principal objectives are to understand sentences and frequently used expressions related to areas of immediate relevance; communicate in simple and routine tasks requiring a direct exchange of information on familiar matters; describe in simple terms aspects of our background and personal history; understand the main point, the basic content, and the plot of filmic as well as short written texts. All Columbia students must take Spanish language courses (UN 1101-3300) for a letter grade.",
     "instructor":null,
-    "scheduled_time_start":"5:40pm",
-    "scheduled_time_end":"6:55pm",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"11:25am",
     "call_number":"00224",
     "campus":null,
     "class_id":"W1102-20263-020",
@@ -45014,7 +45602,7 @@
         "SPAN UN1101"
       ]
     ],
-    "scheduled_days":"MWR",
+    "scheduled_days":"TRF",
     "section_key":"20263SPAN1102W020",
     "type":"LANGUAGE"
   },
@@ -45113,8 +45701,8 @@
     "course_title":"ELEMENTARY SPANISH II",
     "course_descr":"Prerequisites: SPAN UN1101 or a score of 280-379 on the department\u2019s Spanish as a Second Language Placement exam. An intensive introduction to Spanish language communicative competence, with stress on basic oral interaction, reading, writing and cultural knowledge as a continuation of SPAN UN1101. The principal objectives are to understand sentences and frequently used expressions related to areas of immediate relevance; communicate in simple and routine tasks requiring a direct exchange of information on familiar matters; describe in simple terms aspects of our background and personal history; understand the main point, the basic content, and the plot of filmic as well as short written texts. All Columbia students must take Spanish language courses (UN 1101-3300) for a letter grade.",
     "instructor":"Faculty",
-    "scheduled_time_start":"10:10am",
-    "scheduled_time_end":"11:25am",
+    "scheduled_time_start":"11:40am",
+    "scheduled_time_end":"12:55pm",
     "call_number":"00228",
     "campus":null,
     "class_id":"W1102-20263-024",
@@ -45143,8 +45731,8 @@
     "course_title":"ELEMENTARY SPANISH II",
     "course_descr":"Prerequisites: SPAN UN1101 or a score of 280-379 on the department\u2019s Spanish as a Second Language Placement exam. An intensive introduction to Spanish language communicative competence, with stress on basic oral interaction, reading, writing and cultural knowledge as a continuation of SPAN UN1101. The principal objectives are to understand sentences and frequently used expressions related to areas of immediate relevance; communicate in simple and routine tasks requiring a direct exchange of information on familiar matters; describe in simple terms aspects of our background and personal history; understand the main point, the basic content, and the plot of filmic as well as short written texts. All Columbia students must take Spanish language courses (UN 1101-3300) for a letter grade.",
     "instructor":"Faculty",
-    "scheduled_time_start":"11:40am",
-    "scheduled_time_end":"12:55pm",
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"2:25pm",
     "call_number":"00229",
     "campus":null,
     "class_id":"W1102-20263-025",
@@ -45322,7 +45910,7 @@
         "SPAN UN2101"
       ]
     ],
-    "scheduled_days":"MWR",
+    "scheduled_days":"TRF",
     "section_key":"20263SPAN2102W020",
     "type":"LANGUAGE"
   },
@@ -45475,7 +46063,7 @@
         "SPAN UN2108"
       ]
     ],
-    "scheduled_days":"TRF",
+    "scheduled_days":"MWR",
     "section_key":"20263SPAN2108W003",
     "type":"LANGUAGE"
   },
@@ -45548,8 +46136,8 @@
     "course_title":"ADV LANGUAGE THROUGH CONTENT",
     "course_descr":"Prerequisites: SPAN UN2102 or AP score of 4 or 5; or SAT score. An intensive exposure to advanced points of Spanish grammar and structure through written and oral practice, along with an introduction to the basic principles of academic composition in Spanish. Each section is based on the exploration of an ample theme that serves as the organizing principle for the work done in class (Please consult the Directory of Classes for the topic of each section.) This course is required for the major and the concentration in Hispanic Studies. Formerly SPAN W3200 and SPAN BC3004. If you have taken either of these courses before you cannot take SPAN UN3300. All Columbia students must take Spanish language courses (UN 1101-3300) for a letter grade.",
     "instructor":"Almudena Mar N-Cobos",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"11:40am",
+    "scheduled_time_end":"12:55pm",
     "call_number":"00242",
     "campus":null,
     "class_id":"W3300-20263-022",
@@ -45557,7 +46145,7 @@
     "department":"Spanish and Latin American Culture",
     "department_code":"SPAN",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SPAN\/W3300-20263-022\/",
-    "location":null,
+    "location":"To be announced",
     "method_of_instruction":null,
     "open_to":null,
     "points":"3",
@@ -45571,7 +46159,7 @@
         "SPAN W3200"
       ]
     ],
-    "scheduled_days":null,
+    "scheduled_days":"TR",
     "section_key":"20263SPAN3300W022",
     "type":"LANGUAGE"
   },
