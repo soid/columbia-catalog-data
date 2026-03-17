@@ -1048,7 +1048,7 @@
   {
     "course_code":"AMST BC1111",
     "course_title":"ELEMENTARY AMERICAN SIGN LANGUAGE I",
-    "course_descr":null,
+    "course_descr":"The first half of a two-semester introduction to American Sign Language, intended for students with no prior experience in ASL.",
     "instructor":"Kailyn Aaron-Lozano",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -1073,7 +1073,7 @@
   {
     "course_code":"AMST BC1111",
     "course_title":"ELEMENTARY AMERICAN SIGN LANGUAGE I",
-    "course_descr":null,
+    "course_descr":"The first half of a two-semester introduction to American Sign Language, intended for students with no prior experience in ASL.",
     "instructor":"Kailyn Aaron-Lozano",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:25pm",
@@ -1123,7 +1123,7 @@
   {
     "course_code":"AMST BC2111",
     "course_title":"INTERMEDIATE AMERICAN SIGN LANGUAGE I",
-    "course_descr":null,
+    "course_descr":"The first half of a one-year sequence in intermediate American Sign Language for students who have completed Elementary ASL I and II or the equivalent.",
     "instructor":"Kailyn Aaron-Lozano",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -9502,7 +9502,7 @@
   {
     "course_code":"BIOL UN2908",
     "course_title":"Sophomore Biology Research Seminar",
-    "course_descr":null,
+    "course_descr":"If you are interested in biology, come hear Columbia University professors discuss their biology-related research. Find out how the body works, the latest therapies for disease and maybe even find a lab to do research in. Prerequisite: G Chem I&II; Co-requisite: Intro bio I. http:\/\/www.columbia.edu\/cu\/biology\/courses\/UN2908\/index.html",
     "instructor":"Alice Heicklen",
     "scheduled_time_start":"3:00pm",
     "scheduled_time_end":"3:55pm",
@@ -9518,7 +9518,9 @@
     "open_to":null,
     "points":"1",
     "prerequisites":[
-
+      [
+        "UN2908"
+      ]
     ],
     "scheduled_days":"R",
     "section_key":"20263BIOL2908C001",
@@ -11398,6 +11400,43 @@
     "scheduled_days":"W",
     "section_key":"20263CLRS4213W001",
     "type":"SEMINAR"
+  },
+  {
+    "course_code":"CLST GR8999",
+    "course_title":"Supervised Independent Research",
+    "course_descr":null,
+    "instructor":"Seth R Schwartz",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11050",
+    "campus":null,
+    "class_id":"G8999-20263-001",
+    "course_subtitle":"Supervised Independent Re",
+    "department":"Classical Studies",
+    "department_code":"CLST",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CLST\/G8999-20263-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture",
+      "Business",
+      "Engineering:Graduate",
+      "GSAS",
+      "Journalism",
+      "Law",
+      "Professional Studies",
+      "Public Health",
+      "SIPA",
+      "Schools of the Arts",
+      "Social Work"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263CLST8999G001",
+    "type":"INDEPENDENT"
   },
   {
     "course_code":"COGS UN1001",
@@ -18291,31 +18330,6 @@
     "type":"SEMINAR"
   },
   {
-    "course_code":"ENGL BC3249",
-    "course_title":"THE MARRIAGE PLOT",
-    "course_descr":"This upper-level research-oriented seminar will engage with literary expressions of the universally interesting topic of marriage. Tony Tanner in his famous \nAdultery in the Novel \ncharacterizes marriage as \u201cthe structure which supports all structure.\u201d Contemporary critics have seen marriage as essential to maintaining the \u201cfamily values\u201d of the bourgeoisie; feminists and Marxists have challenged the economic assumptions of patriarchally-defined marriage. Folklorists have treated marriage as the endpoint of the search for a safe domestic space.\n  \nStarting in ancient times with classic fairy tales and the Hebrew Bible, moving on to a famous medieval poem, a medieval memoir, and three nineteenth-century novels, we will encounter cultural expressions which address intimate partnerships with an emphasis on marriage as a defining condition.",
-    "instructor":"Margaret R Ellsberg",
-    "scheduled_time_start":"2:10pm",
-    "scheduled_time_end":"4:00pm",
-    "call_number":"00370",
-    "campus":null,
-    "class_id":"X3249-20263-001",
-    "course_subtitle":null,
-    "department":"English @Barnard",
-    "department_code":"ENGL",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/X3249-20263-001\/",
-    "location":"To be announced",
-    "method_of_instruction":null,
-    "open_to":null,
-    "points":"4",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"R",
-    "section_key":"20263ENGL3249X001",
-    "type":"SEMINAR"
-  },
-  {
     "course_code":"ENGL BC3252",
     "course_title":"CONTEMPORARY MEDIA THEORY",
     "course_descr":"Sophomore standing required. Attend first class for instructor permission. Registering for the course only through Student Planning or SSOL will NOT ensure your enrollment. Explores the transformation of sociality, consciousness and geo-politics by and as media technologies during the long 20th century. Students will read influential works of media analysis written during the past century, analyze audio-visual analog and digital media, and explore political theory and media theory written since the rise of the internet. Final projects on contemporary media forms.",
@@ -18670,7 +18684,7 @@
   {
     "course_code":"ENGL PS0005",
     "course_title":"ACADEMIC WRITING",
-    "course_descr":null,
+    "course_descr":"This course helps students whose first language is not English\u00a0develop their academic writing skills. The course covers essay structure, rhetoric, grammatical accuracy, paraphrasing, citing sources, critical thinking, and editing\/revising work.\n  \nThe course is thematic: you will explore different topics and themes (current affairs, social issues, etc.) by reading, listening, and discussing material, and then write essays about that material. The instructors will provide extensive feedback to help you edit and revise your own writing.",
     "instructor":null,
     "scheduled_time_start":"9:10am",
     "scheduled_time_end":"11:25am",
@@ -18697,7 +18711,7 @@
   {
     "course_code":"ENGL PS0005",
     "course_title":"ACADEMIC WRITING",
-    "course_descr":null,
+    "course_descr":"This course helps students whose first language is not English\u00a0develop their academic writing skills. The course covers essay structure, rhetoric, grammatical accuracy, paraphrasing, citing sources, critical thinking, and editing\/revising work.\n  \nThe course is thematic: you will explore different topics and themes (current affairs, social issues, etc.) by reading, listening, and discussing material, and then write essays about that material. The instructors will provide extensive feedback to help you edit and revise your own writing.",
     "instructor":null,
     "scheduled_time_start":"9:10am",
     "scheduled_time_end":"11:25am",
@@ -18724,7 +18738,7 @@
   {
     "course_code":"ENGL PS0005",
     "course_title":"ACADEMIC WRITING",
-    "course_descr":null,
+    "course_descr":"This course helps students whose first language is not English\u00a0develop their academic writing skills. The course covers essay structure, rhetoric, grammatical accuracy, paraphrasing, citing sources, critical thinking, and editing\/revising work.\n  \nThe course is thematic: you will explore different topics and themes (current affairs, social issues, etc.) by reading, listening, and discussing material, and then write essays about that material. The instructors will provide extensive feedback to help you edit and revise your own writing.",
     "instructor":null,
     "scheduled_time_start":"9:10am",
     "scheduled_time_end":"11:25am",
@@ -18751,7 +18765,7 @@
   {
     "course_code":"ENGL PS0006",
     "course_title":"ACADEMIC WRITING",
-    "course_descr":null,
+    "course_descr":"This course helps students whose first language is not English\u00a0develop their academic writing skills. The course covers essay structure, rhetoric, grammatical accuracy, paraphrasing, citing sources, critical thinking, and editing\/revising work.\n  \nThe course is thematic: you will explore different topics and themes (current affairs, social issues, etc.) by reading, listening, and discussing material, and then write essays about that material. The instructors will provide extensive feedback to help you edit and revise your own writing.",
     "instructor":null,
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:25pm",
@@ -18778,7 +18792,7 @@
   {
     "course_code":"ENGL PS0006",
     "course_title":"ACADEMIC WRITING",
-    "course_descr":null,
+    "course_descr":"This course helps students whose first language is not English\u00a0develop their academic writing skills. The course covers essay structure, rhetoric, grammatical accuracy, paraphrasing, citing sources, critical thinking, and editing\/revising work.\n  \nThe course is thematic: you will explore different topics and themes (current affairs, social issues, etc.) by reading, listening, and discussing material, and then write essays about that material. The instructors will provide extensive feedback to help you edit and revise your own writing.",
     "instructor":null,
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:25pm",
@@ -18936,195 +18950,6 @@
     "scheduled_days":"MW",
     "section_key":"20263ENGL0850Z001",
     "type":"WORKSHOP"
-  },
-  {
-    "course_code":"ENGL PS1007",
-    "course_title":"ADV ACAD WRITING FOR GS",
-    "course_descr":null,
-    "instructor":null,
-    "scheduled_time_start":"9:10am",
-    "scheduled_time_end":"11:00am",
-    "call_number":"11026",
-    "campus":null,
-    "class_id":"Z1007-20263-001",
-    "course_subtitle":null,
-    "department":"American Language Program",
-    "department_code":"ENGL",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/Z1007-20263-001\/",
-    "location":"To be announced",
-    "method_of_instruction":"In-Person",
-    "open_to":[
-      "General Studies"
-    ],
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"TR",
-    "section_key":"20263ENGL1007Z001",
-    "type":"LANGUAGE"
-  },
-  {
-    "course_code":"ENGL PS1007",
-    "course_title":"ADV ACAD WRITING FOR GS",
-    "course_descr":null,
-    "instructor":null,
-    "scheduled_time_start":"11:10am",
-    "scheduled_time_end":"1:00pm",
-    "call_number":"11027",
-    "campus":null,
-    "class_id":"Z1007-20263-002",
-    "course_subtitle":null,
-    "department":"American Language Program",
-    "department_code":"ENGL",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/Z1007-20263-002\/",
-    "location":"To be announced",
-    "method_of_instruction":"In-Person",
-    "open_to":[
-      "General Studies"
-    ],
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"TR",
-    "section_key":"20263ENGL1007Z002",
-    "type":"LANGUAGE"
-  },
-  {
-    "course_code":"ENGL PS1007",
-    "course_title":"ADV ACAD WRITING FOR GS",
-    "course_descr":null,
-    "instructor":null,
-    "scheduled_time_start":"6:10pm",
-    "scheduled_time_end":"8:00pm",
-    "call_number":"11028",
-    "campus":null,
-    "class_id":"Z1007-20263-003",
-    "course_subtitle":null,
-    "department":"American Language Program",
-    "department_code":"ENGL",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/Z1007-20263-003\/",
-    "location":"To be announced",
-    "method_of_instruction":"In-Person",
-    "open_to":[
-      "General Studies"
-    ],
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"MW",
-    "section_key":"20263ENGL1007Z003",
-    "type":"LANGUAGE"
-  },
-  {
-    "course_code":"ENGL PS1007",
-    "course_title":"ADV ACAD WRITING FOR GS",
-    "course_descr":null,
-    "instructor":null,
-    "scheduled_time_start":"6:10pm",
-    "scheduled_time_end":"8:00pm",
-    "call_number":"11029",
-    "campus":null,
-    "class_id":"Z1007-20263-004",
-    "course_subtitle":null,
-    "department":"American Language Program",
-    "department_code":"ENGL",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/Z1007-20263-004\/",
-    "location":"To be announced",
-    "method_of_instruction":"In-Person",
-    "open_to":[
-      "General Studies"
-    ],
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"TR",
-    "section_key":"20263ENGL1007Z004",
-    "type":"LANGUAGE"
-  },
-  {
-    "course_code":"ENGL PS1007",
-    "course_title":"ADV ACAD WRITING FOR GS",
-    "course_descr":null,
-    "instructor":null,
-    "scheduled_time_start":"6:10pm",
-    "scheduled_time_end":"8:00pm",
-    "call_number":"11030",
-    "campus":null,
-    "class_id":"Z1007-20263-005",
-    "course_subtitle":null,
-    "department":"American Language Program",
-    "department_code":"ENGL",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/Z1007-20263-005\/",
-    "location":"To be announced",
-    "method_of_instruction":"In-Person",
-    "open_to":[
-      "General Studies"
-    ],
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"MW",
-    "section_key":"20263ENGL1007Z005",
-    "type":"LANGUAGE"
-  },
-  {
-    "course_code":"ENGL PS1007",
-    "course_title":"ADV ACAD WRITING FOR GS",
-    "course_descr":null,
-    "instructor":null,
-    "scheduled_time_start":"11:10am",
-    "scheduled_time_end":"1:00pm",
-    "call_number":"11031",
-    "campus":null,
-    "class_id":"Z1007-20263-006",
-    "course_subtitle":null,
-    "department":"American Language Program",
-    "department_code":"ENGL",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/Z1007-20263-006\/",
-    "location":"To be announced",
-    "method_of_instruction":"In-Person",
-    "open_to":[
-      "General Studies"
-    ],
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"TR",
-    "section_key":"20263ENGL1007Z006",
-    "type":"LANGUAGE"
-  },
-  {
-    "course_code":"ENGL PS1007",
-    "course_title":"ADV ACAD WRITING FOR GS",
-    "course_descr":null,
-    "instructor":null,
-    "scheduled_time_start":"9:10am",
-    "scheduled_time_end":"11:00am",
-    "call_number":"11032",
-    "campus":null,
-    "class_id":"Z1007-20263-007",
-    "course_subtitle":null,
-    "department":"American Language Program",
-    "department_code":"ENGL",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/Z1007-20263-007\/",
-    "location":"To be announced",
-    "method_of_instruction":"In-Person",
-    "open_to":[
-      "General Studies"
-    ],
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"TR",
-    "section_key":"20263ENGL1007Z007",
-    "type":"LANGUAGE"
   },
   {
     "course_code":"ENRE BC3145",
@@ -23610,7 +23435,7 @@
   {
     "course_code":"HIST GR5000",
     "course_title":"RES SKILLS\/MTHDS-INT\/WRLD HIST",
-    "course_descr":null,
+    "course_descr":"In the first semester a series of workshops will introduce the field of international history and various research skills and methods such as conceptualization of research projects and use of oral sources. The fall sessions will also show the digital resources available at Columbia and how students can deploy them in their individual projects. In the second semester students will apply the skills acquired in the fall as they develop their proposal for the Master's thesis, which is to be completed next year at the LSE. The proposal identifies a significant historical question, the relevant primary and secondary sources, an appropriate methodology, what preliminary research has been done and what remains to be done. Students will present their work-in-progress.",
     "instructor":"Line Lillevik",
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"2:00pm",
@@ -23637,7 +23462,7 @@
   {
     "course_code":"HIST GR5993",
     "course_title":"Perspectives on International and World",
-    "course_descr":null,
+    "course_descr":"This course gives students the opportunity to design their own curriculum: To attend lectures, conferences and workshops on historical topics related to their individual interests throughout Columbia University. Students may attend events of their choice, and are especially encouraged to attend those sponsored by the History Department (www.history.columbia.edu). (The Center for International History - cih.columbia.edu - and the Heyman Center for the Humanities - heymancenter.org\/events\/ - also have impressive calendars of events, often featuring historians.) The goal of this mini-course is to encourage students to take advantage of the many intellectual opportunities throughout the University, to gain exposure to a variety of approaches to history, and at the same time assist them in focusing on a particular area for their thesis topic.",
     "instructor":"Line Lillevik",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -23664,7 +23489,7 @@
   {
     "course_code":"HIST GR8910",
     "course_title":"Historical Method and Craft",
-    "course_descr":null,
+    "course_descr":"This course is designed to introduce all first-year graduate students in History to major books and problems of the discipline. It aims to familiarize them with historical writings on periods and places outside their own prospective specialties. This course is open to Ph.D. students in the department of History ONLY.",
     "instructor":"Gregory Mann",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -23689,7 +23514,7 @@
   {
     "course_code":"HIST GU4632",
     "course_title":"Jews in the Ancient City: Politics and M",
-    "course_descr":null,
+    "course_descr":"This course will examine the experience of Jews in the cities of the eastern Roman Empire, offering a challenge to modern hypotheses of Jewish corporate stability in that setting and contributing to modern discussions of the relations between the Roman state, Greek cities, and Jewish and Christian subjects.",
     "instructor":"Seth R Schwartz",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -23714,7 +23539,7 @@
   {
     "course_code":"HIST UN1002",
     "course_title":"Ancient History of the Middle East",
-    "course_descr":null,
+    "course_descr":"The purpose of this course is to introduce you to the ancient histories of the region in western Asia that is today called the Middle East. There we find the earliest cultures in world history documented with an abundance of sources, including numerous written texts, which allows us to study the first attestations of many elements of life we take for granted, such as writing, cities, laws, empires, and much more. The course aims to provide you with a knowledge of the most important empirical data about these histories and to confront you the impact some of the developments made on human life as well as the difficulties we confront trying to study them.",
     "instructor":"Marc Van de Mieroop",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:25pm",
@@ -23739,7 +23564,7 @@
   {
     "course_code":"HIST UN1007",
     "course_title":"Ancient History of the Middle East - DIS",
-    "course_descr":null,
+    "course_descr":"Required discussion section (DISC) for HIST 1002 (Ancient History of the Middle East)",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -23764,7 +23589,7 @@
   {
     "course_code":"HIST UN1010",
     "course_title":"ANCIENT GREEK HIST, 800-146 BC",
-    "course_descr":null,
+    "course_descr":"A review of the history of the Greek world from the beginnings of Greek archaic culture around 800 B.C. through the classical and hellenistic periods to the definitive Roman conquest in 146 B.C. with concentration on political history, but attention also to social and cultural developments.Field(s): ANC",
     "instructor":"Richard A Billows",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -23814,7 +23639,7 @@
   {
     "course_code":"HIST UN3023",
     "course_title":"Mobility and Identity in the Roman World",
-    "course_descr":null,
+    "course_descr":"This course considers how identity increased, limited, controlled, or otherwise shaped the mobility of individuals and groups in the Roman world, including women, slaves, freedpeople, and diaspora communities. We will identify the structures that produced differences in mobility and consider how such groups understood and represented themselves in a variety of media as possessing a specific, shared identity and community. The course will draw on a range of primary sources, including inscriptions and literary texts (both poetry and prose), and cover the period from\u00a0the second century BCE to the third century CE.",
     "instructor":"Sailakshmi Ramgopal",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -23839,7 +23664,7 @@
   {
     "course_code":"HIST UN3712",
     "course_title":"African Climate and History",
-    "course_descr":null,
+    "course_descr":"This course examines how Africa\u2019s climate has changed in the past and with what consequences for the people living on the continent. It looks at the scope, duration and intensity of past climate events and their impacts, while using these historical climate events to teach fundamental climate concepts.\u00a0 Central to the course is the human experience of these events and the diversity of their responses. The major question underpinning this course is, therefore, how have people responded to past climate events, whether short-term, decadal or longer in scope? This question is predicated on the complexity of human society and moves away from the binary of collapse vs. resilience that dominates much thinking about the impact of climate changes on past societies. This framing recognizes the significance of climate for food production and collection, as well as trade and cosmologies. It does not take climate to be the determining factor in history. Rather it foregrounds the myriad ways people acted in the face of, for example, multi-decadal below average rainfall or long periods of more reliable precipitation.",
     "instructor":"Rhiannon Stephens",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -28987,8 +28812,8 @@
   {
     "course_code":"MMUF BC1111",
     "course_title":"MELLON MAYS UNDERGRADUATE FELLOWSHIP JUN",
-    "course_descr":null,
-    "instructor":"Lisa Jahn",
+    "course_descr":"This is a course designed for the students enrolled in the Mellon Mays Undergraduate Research Fellowship Program.\u00a0 It should be taken fall and spring semesters of a student's third and fourth years at the college (for a total of 6 course credits total over the two years). The goal of this course is to become familiar with academic research and writing, as well as the\u00a0 culture of colleges\/ universities in order to prepare students to apply to graduate school and earn the PhD.. The program hones academic writing skills (research papers, project and grant proposals, academic reflections designed to facilitate intentional goal setting and planning), teaches skills related to scholarly presentations (oral and written), as well as familiarizes students with academic culture in particular diversity, equity and inclusion issues and concerns in the academy. Students are expected to attend all the events and meetings associated with the program.",
+    "instructor":"Tamara Walker",
     "scheduled_time_start":"12:00pm",
     "scheduled_time_end":"2:00pm",
     "call_number":"00955",
@@ -29012,8 +28837,8 @@
   {
     "course_code":"MMUF BC2222",
     "course_title":"MELLON MAYS UNDERGRADUATE FELLOWSHIP SEN",
-    "course_descr":null,
-    "instructor":"Lisa Jahn",
+    "course_descr":"This is a course designed for the students enrolled in the Mellon Mays Undergraduate Research Fellowship Program.\u00a0 It should be taken fall and spring semesters of a student's third and fourth years at the college (for a total of 6 course credits total over the two years). The goal of this course is to become familiar with academic research and writing, as well as the\u00a0 culture of colleges\/ universities in order to prepare students to apply to graduate school and earn the PhD.. The program hones academic writing skills (research papers, project and grant proposals, academic reflections designed to facilitate intentional goal setting and planning), teaches skills related to scholarly presentations (oral and written), as well as familiarizes students with academic culture in particular diversity, equity and inclusion issues and concerns in the academy. Students are expected to attend all the events and meetings associated with the program.",
+    "instructor":"Tamara Walker",
     "scheduled_time_start":"12:00pm",
     "scheduled_time_end":"2:00pm",
     "call_number":"00956",
@@ -31183,6 +31008,191 @@
     "scheduled_days":"R",
     "section_key":"20263MPP_1551V007",
     "type":"REHEARSAL"
+  },
+  {
+    "course_code":"MRST GR6020",
+    "course_title":"MEDIEVAL\/RENAISSANCE PHILOLOGY",
+    "course_descr":null,
+    "instructor":"Susan Boynton",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11051",
+    "campus":null,
+    "class_id":"G6020-20263-001",
+    "course_subtitle":"MEDIEVAL\/RENAISSANCE PHILOLGY",
+    "department":"Medieval and Renaissance Studies",
+    "department_code":"MRST",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/MRST\/G6020-20263-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture",
+      "Business",
+      "Engineering:Graduate",
+      "GSAS",
+      "Journalism",
+      "Law",
+      "Professional Studies",
+      "Public Health",
+      "SIPA",
+      "Schools of the Arts",
+      "Social Work"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263MRST6020G001",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"MRST GR6021",
+    "course_title":"MEDIEVAL & RENAISSANCE PHILOLOGY",
+    "course_descr":null,
+    "instructor":"Susan Boynton",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11052",
+    "campus":null,
+    "class_id":"G6021-20263-001",
+    "course_subtitle":"MEDIEVAL & RENAISSANCE PHILOL",
+    "department":"Medieval and Renaissance Studies",
+    "department_code":"MRST",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/MRST\/G6021-20263-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture",
+      "Business",
+      "Engineering:Graduate",
+      "GSAS",
+      "Journalism",
+      "Law",
+      "Professional Studies",
+      "Public Health",
+      "SIPA",
+      "Schools of the Arts",
+      "Social Work"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263MRST6021G001",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"MRST GR6990",
+    "course_title":"DIRECTED INDIVIDUAL READINGS",
+    "course_descr":null,
+    "instructor":"Susan Boynton",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11053",
+    "campus":null,
+    "class_id":"G6990-20263-001",
+    "course_subtitle":"DIRECTED INDIVIDUAL READI",
+    "department":"Medieval and Renaissance Studies",
+    "department_code":"MRST",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/MRST\/G6990-20263-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture",
+      "Business",
+      "Engineering:Graduate",
+      "GSAS",
+      "Journalism",
+      "Law",
+      "Professional Studies",
+      "Public Health",
+      "SIPA",
+      "Schools of the Arts",
+      "Social Work"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263MRST6990G001",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"MRST GR6998",
+    "course_title":"MA Thesis I",
+    "course_descr":null,
+    "instructor":"Susan Boynton",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11054",
+    "campus":null,
+    "class_id":"G6998-20263-001",
+    "course_subtitle":null,
+    "department":"Medieval and Renaissance Studies",
+    "department_code":"MRST",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/MRST\/G6998-20263-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture",
+      "Business",
+      "Engineering:Graduate",
+      "GSAS",
+      "Journalism",
+      "Law",
+      "Professional Studies",
+      "Public Health",
+      "SIPA",
+      "Schools of the Arts",
+      "Social Work"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263MRST6998G001",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"MRST GR6999",
+    "course_title":"MA THESIS II",
+    "course_descr":null,
+    "instructor":"Susan Boynton",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11055",
+    "campus":null,
+    "class_id":"G6999-20263-001",
+    "course_subtitle":null,
+    "department":"Medieval and Renaissance Studies",
+    "department_code":"MRST",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/MRST\/G6999-20263-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture",
+      "Business",
+      "Engineering:Graduate",
+      "GSAS",
+      "Journalism",
+      "Law",
+      "Professional Studies",
+      "Public Health",
+      "SIPA",
+      "Schools of the Arts",
+      "Social Work"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263MRST6999G001",
+    "type":"INDEPENDENT"
   },
   {
     "course_code":"MTFC GR0001",
@@ -35989,6 +35999,146 @@
     "type":"PHYSICAL EDU"
   },
   {
+    "course_code":"PHED UN1001",
+    "course_title":"PHYSICAL EDUCATION ACTIVITIES",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11045",
+    "campus":null,
+    "class_id":"C1001-20263-217",
+    "course_subtitle":"PHED: Functional Fitness",
+    "department":"Physical Education",
+    "department_code":"PHED",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PHED\/C1001-20263-217\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263PHED1001C217",
+    "type":"PHYSICAL EDU"
+  },
+  {
+    "course_code":"PHED UN1001",
+    "course_title":"PHYSICAL EDUCATION ACTIVITIES",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"10:00am",
+    "scheduled_time_end":"10:50am",
+    "call_number":"11046",
+    "campus":null,
+    "class_id":"C1001-20263-123",
+    "course_subtitle":"PHED: Strength Trai (Beg)",
+    "department":"Physical Education",
+    "department_code":"PHED",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PHED\/C1001-20263-123\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20263PHED1001C123",
+    "type":"PHYSICAL EDU"
+  },
+  {
+    "course_code":"PHED UN1001",
+    "course_title":"PHYSICAL EDUCATION ACTIVITIES",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"10:00am",
+    "scheduled_time_end":"10:50am",
+    "call_number":"11047",
+    "campus":null,
+    "class_id":"C1001-20263-223",
+    "course_subtitle":"PHED: Yoga (Vinyasa)",
+    "department":"Physical Education",
+    "department_code":"PHED",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PHED\/C1001-20263-223\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20263PHED1001C223",
+    "type":"PHYSICAL EDU"
+  },
+  {
+    "course_code":"PHED UN1001",
+    "course_title":"PHYSICAL EDUCATION ACTIVITIES",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"2:00pm",
+    "call_number":"11048",
+    "campus":null,
+    "class_id":"C1001-20263-256",
+    "course_subtitle":"PHED: Mat Pilates",
+    "department":"Physical Education",
+    "department_code":"PHED",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PHED\/C1001-20263-256\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20263PHED1001C256",
+    "type":"PHYSICAL EDU"
+  },
+  {
+    "course_code":"PHED UN1001",
+    "course_title":"PHYSICAL EDUCATION ACTIVITIES",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"3:00pm",
+    "call_number":"11049",
+    "campus":null,
+    "class_id":"C1001-20263-265",
+    "course_subtitle":"PHED: Yoga and Meditation",
+    "department":"Physical Education",
+    "department_code":"PHED",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PHED\/C1001-20263-265\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20263PHED1001C265",
+    "type":"PHYSICAL EDU"
+  },
+  {
     "course_code":"PHIL BC4050",
     "course_title":"SENIOR SEMINAR",
     "course_descr":"Intensive study of a philosophical issue or topic, or of a philosopher, group of philosophers, or philosophical school or movement. Open only to Barnard senior philosophy majors.",
@@ -37682,7 +37832,7 @@
   {
     "course_code":"POLS BC2604",
     "course_title":"PEACE AND CONFLICT",
-    "course_descr":null,
+    "course_descr":"Today, 2 billion people\u2014a quarter of the world\u2019s population\u2014live under the threat of violence in one of the 56 active conflict zones around the globe. How can we understand violence in wars? Why do wars and other violent conflicts start, grow, and persist? Why do so many countries that officially emerge from war lapse back into violence after a few years? Why do most international interventions fail to bring peace to affected populations? Can we end\u2014or decrease, contain, or even perhaps prevent\u2014mass violence? What role do outsiders play\u2014both in war and in peace\u2026 and what about ordinary people?",
     "instructor":"Severine Autesserre",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"2:10pm",
@@ -43985,8 +44135,8 @@
     "course_title":"More than Real: Dreams, Imagination, and",
     "course_descr":"This course is thematic, though a loose history of dreaming, imaginative praxis, and virtual reality environments across South Asia will emerge through the networked conversations across texts. The advantage of a thematic course allows us to cover various genres such as: ritual manuals; epic; poetry; philosophical argument; biographical accounts; prophecies; conversion stories; and medical textbooks to name a handful. At the end of the course, we will see how the texts encountered in the first part have been repurposed to speak to social justice movements around caste - both within South Asia and the diaspora population in the U.S. The thematic of dreaming and imagination also provides flexibility in method: because students will have the opportunity to study conversations between different historical actors across religious traditions about dreams, they will also have the opportunity to revise problematic accounts of religious pluralism and communalism in South Asia. Students will read primary texts from\u00a0Islamic, Hindu, Buddhist, Zoroastrian, and Sikh traditions to name a handful.\u00a0Students can look forward to reading about worlds within rocks; falling asleep and waking up as another person only to die in the dream world, wake up and then realize your dream-life family is somehow real and looking for you; how to finally interpret those pesky dreams about teeth falling out; dismembered bodies generating the universe; daydreaming about a cloud that thinks mountain peaks look like nipples; how to build a mind-temple that Shiva prefers to the physical one with fancy rock; and much more!",
     "instructor":"Meghan E Hartman",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"6:00pm",
     "call_number":"00206",
     "campus":null,
     "class_id":"X3096-20263-001",
@@ -43994,14 +44144,14 @@
     "department":"Religion @Barnard",
     "department_code":"RELI",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/RELI\/X3096-20263-001\/",
-    "location":null,
+    "location":"To be announced",
     "method_of_instruction":null,
     "open_to":null,
     "points":"4",
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"W",
     "section_key":"20263RELI3096X001",
     "type":"SEMINAR"
   },
@@ -44139,8 +44289,8 @@
     "course_title":"RELIGION LAB",
     "course_descr":"In their research, scholars of religion employ a variety of methods to analyze texts ranging from historical documents to objects of visual culture. This course acquaints students with both the methods and the materials utilized in the field of religious studies. Through guided exercises, they acquire research skills for utilizing sources and become familiarized with dominant modes of scholarly discourse. The class is organized around a series of research scavenger hunts that are due at the start of each week's class and assigned during the discussion section (to be scheduled on the first day of class). Additional class meeting on Thursdays.",
     "instructor":"Meghan E Hartman",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
     "call_number":"00212",
     "campus":null,
     "class_id":"W4105-20263-001",
@@ -44148,14 +44298,14 @@
     "department":"Religion @Barnard",
     "department_code":"RELI",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/RELI\/W4105-20263-001\/",
-    "location":null,
+    "location":"To be announced",
     "method_of_instruction":null,
     "open_to":null,
     "points":"4",
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"T",
     "section_key":"20263RELI4105W001",
     "type":"SEMINAR"
   },
@@ -44164,8 +44314,8 @@
     "course_title":"EXPLORING THE SHARIA: ISLAMIC LAW",
     "course_descr":"The platform of every modern \u201cIslamist\u201d political party calls for the implementation of \u201cthe shari\u2018a.\u201d This term is invariably (and incorrectly) interpreted as an unchanging legal code dating back to 7th century Arabia. In reality, Islamic law is an organic and constantly evolving human project aimed at ascertaining God\u2019s will in a given historical and cultural context. This course offers a detailed and nuanced look at the Islamic legal methodology and its evolution over the last 1400 years. The first part of the semester is dedicated to \u201cclassical\u201d Islamic jurisprudence, concentrating on the manner in which jurists used the Qur\u2019an, the Sunna (the model of the Prophet), and rationality to articulate a coherent legal system. The second part of the course focuses on those areas of the law that engender passionate debate and controversy in the contemporary world. Specifically, we examine the discourse surrounding Islamic family (medical ethics, marriage, divorce, women\u2019s rights) and criminal (capital punishment, apostasy, suicide\/martyrdom) law. The course ends by discussing the legal implications of Muslims living as minorities in non-Islamic countries and the effects of modernity on the foundations of Islamic jurisprudence. This class is designed for students interested in a close examination of the Islamic legal system; it is not a broad introduction to the Islamic religion. The format of the class will vary from topic to topic but students should anticipate *extensive* participation through in-class debates.",
     "instructor":"Najam I Haider",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"4:00pm",
     "call_number":"00213",
     "campus":null,
     "class_id":"W4322-20263-001",
@@ -44173,14 +44323,14 @@
     "department":"Religion @Barnard",
     "department_code":"RELI",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/RELI\/W4322-20263-001\/",
-    "location":null,
+    "location":"To be announced",
     "method_of_instruction":null,
     "open_to":null,
     "points":"4",
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"W",
     "section_key":"20263RELI4322W001",
     "type":"SEMINAR"
   },
@@ -44239,8 +44389,8 @@
     "course_title":"Islam in Popular Culture",
     "course_descr":"This course interrogates seminal issues in the academic study of Islam through its popular representation in various forms of media from movies and television to novels and comic books. The class is structured around key theoretical readings from a range of academic disciplines ranging from art history and anthropology to comparative literature and religion.\n  \nThe course begins by placing the controversies surrounding the visual depiction of Muhammad in historical perspective (Gruber). This is followed by an examination of modern portrayals of Muslims in film that highlights both the vilification of the \u201cother\u201d (Shaheen) and the persistence of colonial discourses centered on the \u201cnative informant\u201d (Mamdani). Particular emphasis is given to recent pop cultural works that challenge these simplistic discourses of Islam. The second half of the course revisits Muhammad, employing an anthropological framework (Asad) to understand the controversies surrounding Salman Rushdie\u2019s Satanic Verses. The obsession with a gendered depiction of Islam is then examined through an anthropological framework that sheds light on the problems of salvation narratives (Abu Lughod). The course ends with a look at the unique history of Islam in America, particularly the tension between immigrant and African-American communities.",
     "instructor":"Najam I Haider",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"6:00pm",
     "call_number":"00214",
     "campus":null,
     "class_id":"W4619-20263-001",
@@ -44248,14 +44398,14 @@
     "department":"Religion @Barnard",
     "department_code":"RELI",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/RELI\/W4619-20263-001\/",
-    "location":null,
+    "location":"To be announced",
     "method_of_instruction":null,
     "open_to":null,
     "points":"4",
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"T",
     "section_key":"20263RELI4619W001",
     "type":"SEMINAR"
   },
@@ -44264,8 +44414,8 @@
     "course_title":"RELIGION AND THE INDIAN WARS",
     "course_descr":"The frontier is central to the United States\u2019 conception of its history and place in the world. It is an abstract concept that reflects the American mythology of progress and is rooted in religious ideas about land, labor, and ownership. Throughout the nineteenth century, these ideas became more than just abstractions. They were tested, hardened, and revised by U.S. officials and the soldiers they commanded on American battlefields. This violence took the form of the Civil War as well as the series of U.S. military encounters with Native Americans known as the Indian Wars. These separate yet overlapping campaigns have had profound and lasting consequences for the North American landscape and its peoples.\n  \nThis course explores the relationship between religious ideology and violence in the last half of nineteenth century. Organized chronologically and geographically, we will engage with both primary sources and classic works in the historiography of the Indian Wars to examine how religion shaped U.S. policy and race relations from the start of the Civil War through approximately 1910.",
     "instructor":"Tiffany Hale",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"12:10pm",
+    "scheduled_time_end":"2:00pm",
     "call_number":"00215",
     "campus":null,
     "class_id":"W4998-20263-001",
@@ -44273,14 +44423,14 @@
     "department":"Religion @Barnard",
     "department_code":"RELI",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/RELI\/W4998-20263-001\/",
-    "location":null,
+    "location":"To be announced",
     "method_of_instruction":null,
     "open_to":null,
     "points":"4",
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"R",
     "section_key":"20263RELI4998W001",
     "type":"SEMINAR"
   },
@@ -44289,8 +44439,8 @@
     "course_title":"GLOBAL INDIGENOUS RELIGIOUS HISTORIES",
     "course_descr":"Nomads, natives, peasants, hill people, aboriginals, hunter-gatherers, First Nations\u2014these\n are just a handful of the terms in use to define indigenous peoples globally. The names these groups\n use to describe themselves, as well as the varying religious practices, attitudes, and beliefs among\n these populations are far more numerous and complex. For much of recorded history however,\n colonial centers of power have defined indigenous peoples racially and often in terms of lacking\n religion; as pagan, barbarian, non-modern, and without history or civilization.\n  \nDespite this conundrum of identity and classification, indigenous religious traditions often\n have well-documented and observable pasts. This course considers the challenges associated with\n studying indigenous religious history, as well as the changing social, political, and legal dimensions\n of religious practice among native groups over time and in relationship to the state. Organized\n thematically and geographically, we will engage with classic works of ethnohistory, environmental\n history, indigenous studies, anthropology, and religious studies as well as primary sources that\n include legal documentation, military records, personal testimony, and oral narrative.",
     "instructor":"Tiffany Hale",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"12:00pm",
     "call_number":"00216",
     "campus":null,
     "class_id":"V4999-20263-001",
@@ -44298,14 +44448,14 @@
     "department":"Religion @Barnard",
     "department_code":"RELI",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/RELI\/V4999-20263-001\/",
-    "location":null,
+    "location":"To be announced",
     "method_of_instruction":null,
     "open_to":null,
     "points":"4",
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"W",
     "section_key":"20263RELI4999V001",
     "type":"RESEARCH SEM"
   },
@@ -44389,8 +44539,8 @@
     "course_title":"Digital Religion: Analyzing, Digitizing,",
     "course_descr":"This course courses engages the interdisciplinary study of religion online and provides practical training to students on developing digital humanities projects, in partnership with the Digital Humanities Center and the Empirical Reasoning Center, and will incorporate analysis and critical reflection into their research on religious communities. The first portion of the course focuses on understanding methodologies in studying digital religion and exploring religious communities online. Case studies focus on ascriptive and affirmative identifications of religious communities, including how religious communities use online space to redefine their public\n perceptions. The latter part of the course utilizes tools of digital humanities to develop projects responsive to student interests and that allows them to analyze digital expressions of religion.",
     "instructor":"Hussein Rashid",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"2:25pm",
     "call_number":"00218",
     "campus":null,
     "class_id":"V3023-20263-001",
@@ -44398,14 +44548,14 @@
     "department":"Religion @Barnard",
     "department_code":"RELI",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/RELI\/V3023-20263-001\/",
-    "location":null,
+    "location":"To be announced",
     "method_of_instruction":null,
     "open_to":null,
     "points":"3",
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"TR",
     "section_key":"20263RELI3023V001",
     "type":"LECTURE"
   },
@@ -44414,8 +44564,8 @@
     "course_title":"Muslims of New York",
     "course_descr":"Looking at both historical and lived realities of Muslims in NYC, moving from the African Burial Ground in lower Manhattan to Harlem as Mecca. The course would engage both with cultural production, such as music, plays, and street art, and living communities around the Barnard campus.",
     "instructor":"Hussein Rashid",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"2:25pm",
     "call_number":"00217",
     "campus":null,
     "class_id":"V3027-20263-001",
@@ -44423,14 +44573,14 @@
     "department":"Religion @Barnard",
     "department_code":"RELI",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/RELI\/V3027-20263-001\/",
-    "location":null,
+    "location":"To be announced",
     "method_of_instruction":null,
     "open_to":null,
     "points":"3",
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"MW",
     "section_key":"20263RELI3027V001",
     "type":"LECTURE"
   },
@@ -44464,8 +44614,8 @@
     "course_title":"RELIGION IN EARLY AMERICA",
     "course_descr":"This course examines religion in North America from the 1500s through the early 1800s with a focus on colonial projects, race and slavery, and gender. We begin with comparing Spanish and French Catholic and English Protestant colonies, missionary efforts, and systems of enslavement as well as how religion factored into Native Americans and African people\u2019s survival and resistance. The second part of the class turns to the 1700s and the emergence of religious revivals and evangelicalism alongside increasing religious variety in the British colonies of North America. Finally, we examine the early United States (1790s-1850s) and ask how disestablishment, imperial ambitions, new religious movement, and debates over the \u201cslavery question\u201d transformed the religious landscape. While focused on religious history (and primarily different Christian traditions), the category of \u201creligion\u201d itself and theoretical frameworks for studying religion are also integral to the class.",
     "instructor":"Gale L Kenny",
-    "scheduled_time_start":"2:40pm",
-    "scheduled_time_end":"3:55pm",
+    "scheduled_time_start":"11:40am",
+    "scheduled_time_end":"12:55pm",
     "call_number":"00207",
     "campus":null,
     "class_id":"V3202-20263-001",
@@ -44480,7 +44630,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":"TR",
+    "scheduled_days":"MW",
     "section_key":"20263RELI3202V001",
     "type":"LECTURE"
   },
@@ -47371,7 +47521,7 @@
     "course_code":"THTR UN3200",
     "course_title":"DIRECTING I",
     "course_descr":"Prerequisites: Permission of instructor given at first class meeting. Exploration of the evolution of the director's role in Europe and the US, including the study of important figures. Emphasis on text analysis, and varied schools of acting in relation to directing practice. Students gain a foundation in composing stage pictures and using stage movement to tell a story. All students will direct at least one fully-realized scene.",
-    "instructor":"Will Davis",
+    "instructor":"Tea Alagic",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
     "call_number":"00093",
@@ -47471,7 +47621,7 @@
     "course_code":"THTR UN3300",
     "course_title":"PLAYWRITING WORKSHOP",
     "course_descr":"Prerequisites: Permission of the instructor given at first class meeting. Students will create and workshop plays, with a focus on learning new approaches to language and structure. Recommended for students undertaking a senior thesis in playwriting.",
-    "instructor":"Andrew Bragen",
+    "instructor":null,
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
     "call_number":"00097",
@@ -47799,8 +47949,8 @@
     "course_title":"INTRO TO URBAN ETHNOGRAPHIES",
     "course_descr":"What is ethnography and what makes ethnography \u201curban\u201d? This course explores how social scientists use ethnography to analyze questions and dilemmas often associated with urban settings. We will combine close readings of ethnographies with field-based inquiry, including our own studies of urban public space. Through both our readings and our field exercises, we will focus on the methods at the heart of ethnography: observation and participant-observation.\n  \nAs we read other scholars\u2019 work, we will ask how the author uses ethnographic tools to explore issues that are suitable for intensive fieldwork. We will assess which kinds of research problems and theoretical perspectives are a good fit with ethnography and the roles that ethnography can play in transdisciplinary research projects. You will apply what you have learned about research to design your own pilot fieldwork. The ethnographies that we read together will examine intersections of housing, race, and class in urban communities. You are welcome to extend this focus to your own fieldwork, but it\u2019s not required to do so. This is a writing-intensive course, and we will devote a considerable portion of class time to workshop your individual projects.",
     "instructor":null,
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"6:00pm",
     "call_number":"00384",
     "campus":null,
     "class_id":"V3308-20263-001",
@@ -47808,14 +47958,14 @@
     "department":"Urban Studies @Barnard",
     "department_code":"URBS",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/URBS\/V3308-20263-001\/",
-    "location":null,
+    "location":"To be announced",
     "method_of_instruction":null,
     "open_to":null,
     "points":"3",
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"M",
     "section_key":"20263URBS3308V001",
     "type":"COLLOQUIA"
   },
