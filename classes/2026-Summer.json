@@ -11679,6 +11679,60 @@
     "type":"FIELD WORK"
   },
   {
+    "course_code":"EMPA IA6035",
+    "course_title":"Open Economy Macroeconomic Analysis",
+    "course_descr":null,
+    "instructor":"Francisco L Rivera-Batiz",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11392",
+    "campus":null,
+    "class_id":"U6035-20262-001",
+    "course_subtitle":"Open Econ Macroecon Analysis",
+    "department":"EXECUTIVE MPA",
+    "department_code":"EMPA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/EMPA\/U6035-20262-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262EMPA6035U001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"EMPA IA6223",
+    "course_title":"Political Environment of Policymaking",
+    "course_descr":null,
+    "instructor":"James J Kim",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11393",
+    "campus":null,
+    "class_id":"U6223-20262-001",
+    "course_subtitle":"Polit Enviro of Policymaking",
+    "department":"EXECUTIVE MPA",
+    "department_code":"EMPA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/EMPA\/U6223-20262-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262EMPA6223U001",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"ENGI E0001",
     "course_title":"Robotics and Autonomous Driving",
     "course_descr":null,
@@ -29626,6 +29680,33 @@
     "type":"INDEPENDENT"
   },
   {
+    "course_code":"RESI IA0001",
+    "course_title":"1-Residence Unit F-T, SIPA",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11391",
+    "campus":null,
+    "class_id":"U0001-20262-001",
+    "course_subtitle":"1-Residence Unit F-T, SIP",
+    "department":"International and Public Affairs",
+    "department_code":"RESI",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/RESI\/U0001-20262-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262RESI0001U001",
+    "type":"RESIDENCY"
+  },
+  {
     "course_code":"RSRH C0001",
     "course_title":"FULL-TIME SUMMER RESEARCH PROG",
     "course_descr":".",
@@ -29955,31 +30036,166 @@
     "type":"DUMMY COURSE"
   },
   {
-    "course_code":"SIPA IA0021",
-    "course_title":"SIPA Math Tutorial",
+    "course_code":"SIPA IA6000",
+    "course_title":"Leadership in Action",
     "course_descr":null,
-    "instructor":"Emanuele Gerratana",
+    "instructor":"Kirsti Samuels",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
-    "call_number":"11079",
+    "call_number":"11386",
     "campus":null,
-    "class_id":"U0021-20262-001",
+    "class_id":"U6000-20262-001",
     "course_subtitle":null,
     "department":"International and Public Affairs",
     "department_code":"SIPA",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U0021-20262-001\/",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U6000-20262-001\/",
     "location":null,
-    "method_of_instruction":null,
+    "method_of_instruction":"In-Person",
     "open_to":[
       "SIPA"
     ],
-    "points":"0",
+    "points":"1.5",
     "prerequisites":[
 
     ],
     "scheduled_days":null,
-    "section_key":"20262SIPA0021U001",
-    "type":"LABORATORY"
+    "section_key":"20262SIPA6000U001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"SIPA IA6401",
+    "course_title":"Macroeconomic Analysis for International",
+    "course_descr":null,
+    "instructor":"Thomas Groll",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11385",
+    "campus":null,
+    "class_id":"U6401-20262-001",
+    "course_subtitle":"Macroeconomic Analysis",
+    "department":"International and Public Affairs",
+    "department_code":"SIPA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U6401-20262-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262SIPA6401U001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"SIPA IA6500",
+    "course_title":"Quantitative Analysis I for Internationa",
+    "course_descr":null,
+    "instructor":"Doru Cojoc",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11387",
+    "campus":null,
+    "class_id":"U6500-20262-001",
+    "course_subtitle":"Quantitative Analysis I",
+    "department":"International and Public Affairs",
+    "department_code":"SIPA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U6500-20262-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262SIPA6500U001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"SIPA IA6501",
+    "course_title":"Quantitative Analysis II for Internation",
+    "course_descr":null,
+    "instructor":"Sharyn L O'Halloran",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11388",
+    "campus":null,
+    "class_id":"U6501-20262-001",
+    "course_subtitle":"Quantitative Analysis II",
+    "department":"International and Public Affairs",
+    "department_code":"SIPA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U6501-20262-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262SIPA6501U001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"SIPA IA6600",
+    "course_title":"Policy Communication and Advocacy",
+    "course_descr":null,
+    "instructor":"Nicole Jamiyla Chisholm",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11389",
+    "campus":null,
+    "class_id":"U6600-20262-001",
+    "course_subtitle":"Policy Comms and Advocacy",
+    "department":"International and Public Affairs",
+    "department_code":"SIPA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U6600-20262-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"1.5",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262SIPA6600U001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"SIPA IA6800",
+    "course_title":"Ethics in Public Policy",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11390",
+    "campus":null,
+    "class_id":"U6800-20262-001",
+    "course_subtitle":null,
+    "department":"International and Public Affairs",
+    "department_code":"SIPA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U6800-20262-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"1.5",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262SIPA6800U001",
+    "type":"LECTURE"
   },
   {
     "course_code":"SOCI PS0102",
