@@ -871,12 +871,37 @@
     "type":"SEMINAR"
   },
   {
-    "course_code":"AHMM UN3321",
-    "course_title":"MUSICS OF INDIA & WEST ASIA",
-    "course_descr":"A topical approach to the concepts and practices of music in relation to other arts in the development of Asian civilizations.",
+    "course_code":"AHMM UN3320",
+    "course_title":"MUSIC IN EAST ASIA",
+    "course_descr":null,
     "instructor":"Kevin Fellezs",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
+    "call_number":"11254",
+    "campus":null,
+    "class_id":"V3320-20263-001",
+    "course_subtitle":null,
+    "department":"Music",
+    "department_code":"AHMM",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/AHMM\/V3320-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20263AHMM3320V001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"AHMM UN3321",
+    "course_title":"MUSICS OF INDIA & WEST ASIA",
+    "course_descr":"A topical approach to the concepts and practices of music in relation to other arts in the development of Asian civilizations.",
+    "instructor":null,
+    "scheduled_time_start":"5:40pm",
+    "scheduled_time_end":"6:55pm",
     "call_number":"10526",
     "campus":null,
     "class_id":"V3321-20263-003",
@@ -891,7 +916,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":"MW",
+    "scheduled_days":"TR",
     "section_key":"20263AHMM3321V003",
     "type":"LECTURE"
   },
@@ -924,7 +949,7 @@
     "course_code":"AHMM UN3321",
     "course_title":"MUSICS OF INDIA & WEST ASIA",
     "course_descr":"A topical approach to the concepts and practices of music in relation to other arts in the development of Asian civilizations.",
-    "instructor":null,
+    "instructor":"Alessandra M Ciucci",
     "scheduled_time_start":"5:40pm",
     "scheduled_time_end":"6:55pm",
     "call_number":"10528",
@@ -943,31 +968,6 @@
     ],
     "scheduled_days":"MW",
     "section_key":"20263AHMM3321V002",
-    "type":"LECTURE"
-  },
-  {
-    "course_code":"AHMM UN3321",
-    "course_title":"MUSICS OF INDIA & WEST ASIA",
-    "course_descr":"A topical approach to the concepts and practices of music in relation to other arts in the development of Asian civilizations.",
-    "instructor":null,
-    "scheduled_time_start":"5:40pm",
-    "scheduled_time_end":"6:55pm",
-    "call_number":"10529",
-    "campus":null,
-    "class_id":"V3321-20263-004",
-    "course_subtitle":"MUSICS OF INDIA & WEST AS",
-    "department":"Music",
-    "department_code":"AHMM",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/AHMM\/V3321-20263-004\/",
-    "location":"To be announced",
-    "method_of_instruction":"In-Person",
-    "open_to":null,
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"TR",
-    "section_key":"20263AHMM3321V004",
     "type":"LECTURE"
   },
   {
@@ -10611,7 +10611,7 @@
   {
     "course_code":"CHEM GR9201",
     "course_title":"PRERESEARCH SEMINARS I",
-    "course_descr":null,
+    "course_descr":"You may be asked to serve as research subjects in studies under direction of the faculty while enrolled in this course. Participation in voluntary.",
     "instructor":"Neel H Shah",
     "scheduled_time_start":"9:30am",
     "scheduled_time_end":"11:00am",
@@ -10636,7 +10636,7 @@
   {
     "course_code":"CHEM GR9307",
     "course_title":"RESEARCH FOR THE DOCTORATE",
-    "course_descr":null,
+    "course_descr":"Departments permission.",
     "instructor":"David Reichman",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -10663,9 +10663,34 @@
     "type":"INDEPENDENT"
   },
   {
+    "course_code":"CHEM GU4071",
+    "course_title":"INORGANIC CHEMISTRY",
+    "course_descr":null,
+    "instructor":"Jonathan S Owen",
+    "scheduled_time_start":"8:40am",
+    "scheduled_time_end":"9:55am",
+    "call_number":"11251",
+    "campus":null,
+    "class_id":"G4071-20263-001",
+    "course_subtitle":null,
+    "department":"Chemistry",
+    "department_code":"CHEM",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CHEM\/G4071-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"4.5",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20263CHEM4071G001",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"CHEM GU4147",
     "course_title":"ADVANCED ORGANIC CHEMISTRY I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: elementary organic and physical chemistry. The mechanisms of organic reactions, structure of organic molecules, and theories of reactivity. How reactive intermediates are recognized and mechanisms are deduced using kinetics, stereochemistry, isotopes, and physical measurements.",
     "instructor":"Tomislav Rovis",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -10700,7 +10725,7 @@
   {
     "course_code":"CHEM GU4221",
     "course_title":"QUANTUM CHEMISTRY I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: elementary physical chemistry. Basic quantum mechanics: the Schrodinger equation and its interpretation, exact solutions in simple cases, methods or approximations including time-independent and time-dependent perturbation theory, spin and orbital angular momentum, spin-spin interactions, and an introduction to atomic and molecular structure.",
     "instructor":"Timothy C Berkelbach",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -10735,7 +10760,7 @@
   {
     "course_code":"CHEM GU4230",
     "course_title":"STATISTICAL THERMODYNAMICS",
-    "course_descr":null,
+    "course_descr":"Prerequisites: elementary physical chemistry. Corequisites: CHEM G4221. Topics include the classical and quantum statistical mechanics of gases, liquids, and solids.",
     "instructor":"David Reichman",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -10761,7 +10786,9 @@
     ],
     "points":"4.5",
     "prerequisites":[
-
+      [
+        "CHEM G4221"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20263CHEM4230G001",
@@ -10770,7 +10797,7 @@
   {
     "course_code":"CHEM GU4312",
     "course_title":"CHEMICAL BIOLOGY",
-    "course_descr":null,
+    "course_descr":"Prerequisites: (CHEM UN2443 and CHEM UN2444) and (CHEM UN3079 and CHEM UN3080) and (BIOC UN3501) , or the equivalent. Development and application of chemical methods for understanding the molecular mechanisms of cellular processes. Review of the biosynthesis, chemical synthesis, and structure and function of proteins and nucleic acids. Application of chemical methods--including structural biology, enzymology, chemical genetics, and the synthesis of modified biological molecules--to the study of cellular processes--including transcription, translation, and signal transduction.",
     "instructor":"Virginia W Cornish",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:25pm",
@@ -10786,7 +10813,21 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "BIOC UN3501"
+      ],
+      [
+        "CHEM UN2443"
+      ],
+      [
+        "CHEM UN2444"
+      ],
+      [
+        "CHEM UN3079"
+      ],
+      [
+        "CHEM UN3080"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20263CHEM4312W001",
@@ -10795,7 +10836,7 @@
   {
     "course_code":"CHEM UN0001",
     "course_title":"PREPARATION-COLLEGE CHEMISTRY",
-    "course_descr":null,
+    "course_descr":"Prerequisites: High school algebra or the instructor's permission. Recommended preparation: high school physics and chemistry. This course is preparation for Chemistry UN1403 or the equivalent, as well as for other science courses. It is intended for students who have not attended school for sometime or who do not have a firm grasp of high school chemistry. Topics include inorganic nomenclature, chemical reactions, chemical bonding and its relation to molecular structure, stoichiometry, periodic properties of elements, chemical equilibrium, gas laws, acids and bases, and electrochemistry.",
     "instructor":"Sarah J Hansen",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"7:25pm",
@@ -10819,7 +10860,9 @@
     ],
     "points":"0",
     "prerequisites":[
-
+      [
+        "UN1403"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20263CHEM0001W001",
@@ -10828,7 +10871,7 @@
   {
     "course_code":"CHEM UN1403",
     "course_title":"GENERAL CHEMISTRY I-LECTURES",
-    "course_descr":null,
+    "course_descr":"Corequisites: MATH UN1101 Preparation equivalent to one year of high school chemistry is assumed. Students lacking such preparation should plan independent study of chemistry over the summer or take CHEM UN0001 before taking CHEM UN1403. Topics include stoichiometry, states of matter, nuclear properties, electronic structures of atoms, periodic properties, chemical bonding, molecular geometry, introduction to quantum mechanics and atomic theory, introduction to organic and biological chemistry, solid state and materials science, polymer science and macromolecular structures and coordination chemistry. Although CHEM UN1403 and CHEM UN1404 are separate courses, students are expected to take both terms sequentially. The order of presentation of topics may differ from the order presented here, and from year to year. Students must ensure they register for the recitation that corresponds to the lecture section.\n  \nWhen registering, please add your name to the wait list for the recitation\u00a0corresponding to the lecture section (1405 for lecture sec 001; 1407 for lecture sec 002; 1409 for lecture sec 003; 1411 for lecture sec 004).\u00a0 Information about recitation registration will be sent out before classes begin.\u00a0 DO NOT EMAIL THE INSTRUCTOR. Please check\u00a0the Directory of Classes for details.",
     "instructor":"Xavier Roy",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -10844,7 +10887,15 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "CHEM UN1404"
+      ],
+      [
+        "MATH UN1101",
+        "CHEM UN0001",
+        "CHEM UN1403",
+        "CHEM UN1403"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20263CHEM1403W002",
@@ -10853,7 +10904,7 @@
   {
     "course_code":"CHEM UN1403",
     "course_title":"GENERAL CHEMISTRY I-LECTURES",
-    "course_descr":null,
+    "course_descr":"Corequisites: MATH UN1101 Preparation equivalent to one year of high school chemistry is assumed. Students lacking such preparation should plan independent study of chemistry over the summer or take CHEM UN0001 before taking CHEM UN1403. Topics include stoichiometry, states of matter, nuclear properties, electronic structures of atoms, periodic properties, chemical bonding, molecular geometry, introduction to quantum mechanics and atomic theory, introduction to organic and biological chemistry, solid state and materials science, polymer science and macromolecular structures and coordination chemistry. Although CHEM UN1403 and CHEM UN1404 are separate courses, students are expected to take both terms sequentially. The order of presentation of topics may differ from the order presented here, and from year to year. Students must ensure they register for the recitation that corresponds to the lecture section.\n  \nWhen registering, please add your name to the wait list for the recitation\u00a0corresponding to the lecture section (1405 for lecture sec 001; 1407 for lecture sec 002; 1409 for lecture sec 003; 1411 for lecture sec 004).\u00a0 Information about recitation registration will be sent out before classes begin.\u00a0 DO NOT EMAIL THE INSTRUCTOR. Please check\u00a0the Directory of Classes for details.",
     "instructor":"Gerard F Parkin",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -10869,7 +10920,15 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "CHEM UN1404"
+      ],
+      [
+        "MATH UN1101",
+        "CHEM UN0001",
+        "CHEM UN1403",
+        "CHEM UN1403"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20263CHEM1403W001",
@@ -10878,7 +10937,7 @@
   {
     "course_code":"CHEM UN1403",
     "course_title":"GENERAL CHEMISTRY I-LECTURES",
-    "course_descr":null,
+    "course_descr":"Corequisites: MATH UN1101 Preparation equivalent to one year of high school chemistry is assumed. Students lacking such preparation should plan independent study of chemistry over the summer or take CHEM UN0001 before taking CHEM UN1403. Topics include stoichiometry, states of matter, nuclear properties, electronic structures of atoms, periodic properties, chemical bonding, molecular geometry, introduction to quantum mechanics and atomic theory, introduction to organic and biological chemistry, solid state and materials science, polymer science and macromolecular structures and coordination chemistry. Although CHEM UN1403 and CHEM UN1404 are separate courses, students are expected to take both terms sequentially. The order of presentation of topics may differ from the order presented here, and from year to year. Students must ensure they register for the recitation that corresponds to the lecture section.\n  \nWhen registering, please add your name to the wait list for the recitation\u00a0corresponding to the lecture section (1405 for lecture sec 001; 1407 for lecture sec 002; 1409 for lecture sec 003; 1411 for lecture sec 004).\u00a0 Information about recitation registration will be sent out before classes begin.\u00a0 DO NOT EMAIL THE INSTRUCTOR. Please check\u00a0the Directory of Classes for details.",
     "instructor":"Ruben M Savizky",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"7:25pm",
@@ -10894,16 +10953,49 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "CHEM UN1404"
+      ],
+      [
+        "MATH UN1101",
+        "CHEM UN0001",
+        "CHEM UN1403",
+        "CHEM UN1403"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20263CHEM1403W003",
     "type":"LECTURE"
   },
   {
+    "course_code":"CHEM UN1403",
+    "course_title":"GENERAL CHEMISTRY I-LECTURES",
+    "course_descr":null,
+    "instructor":"Robert Beer",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"7:25pm",
+    "call_number":"11226",
+    "campus":null,
+    "class_id":"W1403-20263-004",
+    "course_subtitle":"GENERAL CHEMISTRY I-LECTU",
+    "department":"Chemistry",
+    "department_code":"CHEM",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CHEM\/W1403-20263-004\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20263CHEM1403W004",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"CHEM UN1404",
     "course_title":"GENERAL CHEMISTRY II-LECTURES",
-    "course_descr":null,
+    "course_descr":"Prerequisites: CHEM UN1403 Although CHEM UN1403 and CHEM UN 1404 are separate courses, students are expected to take both terms sequentially. Topics include gases, kinetic theory of gases, states of matter: liquids and solids, chemical equilibria, applications of equilibria, acids and bases, chemical thermodynamics, energy, enthalpy, entropy, free energy, periodic properties, chemical kinetics, and electrochemistry. The order of presentation of topics may differ from the order presented here, and from year to year. Students must ensure they register for the recitation that corresponds to the lecture section. Please check the Directory of Classes for details.",
     "instructor":"Christopher Eckdahl",
     "scheduled_time_start":"8:40am",
     "scheduled_time_end":"9:55am",
@@ -10919,7 +11011,12 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "CHEM UN1403"
+      ],
+      [
+        "CHEM UN1403"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20263CHEM1404W001",
@@ -10928,7 +11025,7 @@
   {
     "course_code":"CHEM UN1405",
     "course_title":"GENERAL CHEMISTRY I - REC",
-    "course_descr":null,
+    "course_descr":"Corequisites: CHEM UN1403 Recitation section for Chemistry UN1403GENERAL CHEMISTRY I-LECTURESTO BE ENROLLED IN 1403, YOU MUST REGISTER. FOR 1405",
     "instructor":"Gerard F Parkin",
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"1:00pm",
@@ -10952,7 +11049,10 @@
     ],
     "points":"0",
     "prerequisites":[
-
+      [
+        "CHEM UN1403",
+        "UN1403"
+      ]
     ],
     "scheduled_days":"M",
     "section_key":"20263CHEM1405W001",
@@ -10961,7 +11061,7 @@
   {
     "course_code":"CHEM UN1405",
     "course_title":"GENERAL CHEMISTRY I - REC",
-    "course_descr":null,
+    "course_descr":"Corequisites: CHEM UN1403 Recitation section for Chemistry UN1403GENERAL CHEMISTRY I-LECTURESTO BE ENROLLED IN 1403, YOU MUST REGISTER. FOR 1405",
     "instructor":"Gerard F Parkin",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:00pm",
@@ -10985,7 +11085,10 @@
     ],
     "points":"0",
     "prerequisites":[
-
+      [
+        "CHEM UN1403",
+        "UN1403"
+      ]
     ],
     "scheduled_days":"M",
     "section_key":"20263CHEM1405W002",
@@ -10994,7 +11097,7 @@
   {
     "course_code":"CHEM UN1405",
     "course_title":"GENERAL CHEMISTRY I - REC",
-    "course_descr":null,
+    "course_descr":"Corequisites: CHEM UN1403 Recitation section for Chemistry UN1403GENERAL CHEMISTRY I-LECTURESTO BE ENROLLED IN 1403, YOU MUST REGISTER. FOR 1405",
     "instructor":"Gerard F Parkin",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"3:00pm",
@@ -11018,7 +11121,10 @@
     ],
     "points":"0",
     "prerequisites":[
-
+      [
+        "CHEM UN1403",
+        "UN1403"
+      ]
     ],
     "scheduled_days":"M",
     "section_key":"20263CHEM1405W003",
@@ -11027,7 +11133,7 @@
   {
     "course_code":"CHEM UN1405",
     "course_title":"GENERAL CHEMISTRY I - REC",
-    "course_descr":null,
+    "course_descr":"Corequisites: CHEM UN1403 Recitation section for Chemistry UN1403GENERAL CHEMISTRY I-LECTURESTO BE ENROLLED IN 1403, YOU MUST REGISTER. FOR 1405",
     "instructor":"Gerard F Parkin",
     "scheduled_time_start":"3:10pm",
     "scheduled_time_end":"4:00pm",
@@ -11051,7 +11157,10 @@
     ],
     "points":"0",
     "prerequisites":[
-
+      [
+        "CHEM UN1403",
+        "UN1403"
+      ]
     ],
     "scheduled_days":"M",
     "section_key":"20263CHEM1405W004",
@@ -11060,7 +11169,7 @@
   {
     "course_code":"CHEM UN1405",
     "course_title":"GENERAL CHEMISTRY I - REC",
-    "course_descr":null,
+    "course_descr":"Corequisites: CHEM UN1403 Recitation section for Chemistry UN1403GENERAL CHEMISTRY I-LECTURESTO BE ENROLLED IN 1403, YOU MUST REGISTER. FOR 1405",
     "instructor":"Gerard F Parkin",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"7:00pm",
@@ -11084,7 +11193,10 @@
     ],
     "points":"0",
     "prerequisites":[
-
+      [
+        "CHEM UN1403",
+        "UN1403"
+      ]
     ],
     "scheduled_days":"M",
     "section_key":"20263CHEM1405W005",
@@ -11093,7 +11205,7 @@
   {
     "course_code":"CHEM UN1405",
     "course_title":"GENERAL CHEMISTRY I - REC",
-    "course_descr":null,
+    "course_descr":"Corequisites: CHEM UN1403 Recitation section for Chemistry UN1403GENERAL CHEMISTRY I-LECTURESTO BE ENROLLED IN 1403, YOU MUST REGISTER. FOR 1405",
     "instructor":"Gerard F Parkin",
     "scheduled_time_start":"9:10am",
     "scheduled_time_end":"10:00am",
@@ -11117,7 +11229,10 @@
     ],
     "points":"0",
     "prerequisites":[
-
+      [
+        "CHEM UN1403",
+        "UN1403"
+      ]
     ],
     "scheduled_days":"T",
     "section_key":"20263CHEM1405W006",
@@ -11126,7 +11241,7 @@
   {
     "course_code":"CHEM UN1405",
     "course_title":"GENERAL CHEMISTRY I - REC",
-    "course_descr":null,
+    "course_descr":"Corequisites: CHEM UN1403 Recitation section for Chemistry UN1403GENERAL CHEMISTRY I-LECTURESTO BE ENROLLED IN 1403, YOU MUST REGISTER. FOR 1405",
     "instructor":"Gerard F Parkin",
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"1:00pm",
@@ -11150,7 +11265,10 @@
     ],
     "points":"0",
     "prerequisites":[
-
+      [
+        "CHEM UN1403",
+        "UN1403"
+      ]
     ],
     "scheduled_days":"W",
     "section_key":"20263CHEM1405W007",
@@ -11159,7 +11277,7 @@
   {
     "course_code":"CHEM UN1405",
     "course_title":"GENERAL CHEMISTRY I - REC",
-    "course_descr":null,
+    "course_descr":"Corequisites: CHEM UN1403 Recitation section for Chemistry UN1403GENERAL CHEMISTRY I-LECTURESTO BE ENROLLED IN 1403, YOU MUST REGISTER. FOR 1405",
     "instructor":"Gerard F Parkin",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:00pm",
@@ -11183,7 +11301,10 @@
     ],
     "points":"0",
     "prerequisites":[
-
+      [
+        "CHEM UN1403",
+        "UN1403"
+      ]
     ],
     "scheduled_days":"W",
     "section_key":"20263CHEM1405W008",
@@ -11192,7 +11313,7 @@
   {
     "course_code":"CHEM UN1405",
     "course_title":"GENERAL CHEMISTRY I - REC",
-    "course_descr":null,
+    "course_descr":"Corequisites: CHEM UN1403 Recitation section for Chemistry UN1403GENERAL CHEMISTRY I-LECTURESTO BE ENROLLED IN 1403, YOU MUST REGISTER. FOR 1405",
     "instructor":"Gerard F Parkin",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"3:00pm",
@@ -11216,7 +11337,10 @@
     ],
     "points":"0",
     "prerequisites":[
-
+      [
+        "CHEM UN1403",
+        "UN1403"
+      ]
     ],
     "scheduled_days":"W",
     "section_key":"20263CHEM1405W009",
@@ -11225,7 +11349,7 @@
   {
     "course_code":"CHEM UN1405",
     "course_title":"GENERAL CHEMISTRY I - REC",
-    "course_descr":null,
+    "course_descr":"Corequisites: CHEM UN1403 Recitation section for Chemistry UN1403GENERAL CHEMISTRY I-LECTURESTO BE ENROLLED IN 1403, YOU MUST REGISTER. FOR 1405",
     "instructor":"Gerard F Parkin",
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"1:00pm",
@@ -11249,7 +11373,10 @@
     ],
     "points":"0",
     "prerequisites":[
-
+      [
+        "CHEM UN1403",
+        "UN1403"
+      ]
     ],
     "scheduled_days":"R",
     "section_key":"20263CHEM1405W010",
@@ -11258,7 +11385,7 @@
   {
     "course_code":"CHEM UN1405",
     "course_title":"GENERAL CHEMISTRY I - REC",
-    "course_descr":null,
+    "course_descr":"Corequisites: CHEM UN1403 Recitation section for Chemistry UN1403GENERAL CHEMISTRY I-LECTURESTO BE ENROLLED IN 1403, YOU MUST REGISTER. FOR 1405",
     "instructor":"Gerard F Parkin",
     "scheduled_time_start":"11:10am",
     "scheduled_time_end":"12:00pm",
@@ -11282,7 +11409,10 @@
     ],
     "points":"0",
     "prerequisites":[
-
+      [
+        "CHEM UN1403",
+        "UN1403"
+      ]
     ],
     "scheduled_days":"F",
     "section_key":"20263CHEM1405W011",
@@ -11291,7 +11421,7 @@
   {
     "course_code":"CHEM UN1405",
     "course_title":"GENERAL CHEMISTRY I - REC",
-    "course_descr":null,
+    "course_descr":"Corequisites: CHEM UN1403 Recitation section for Chemistry UN1403GENERAL CHEMISTRY I-LECTURESTO BE ENROLLED IN 1403, YOU MUST REGISTER. FOR 1405",
     "instructor":"Gerard F Parkin",
     "scheduled_time_start":"9:10am",
     "scheduled_time_end":"10:00am",
@@ -11315,7 +11445,10 @@
     ],
     "points":"0",
     "prerequisites":[
-
+      [
+        "CHEM UN1403",
+        "UN1403"
+      ]
     ],
     "scheduled_days":"R",
     "section_key":"20263CHEM1405W012",
@@ -11324,7 +11457,7 @@
   {
     "course_code":"CHEM UN1405",
     "course_title":"GENERAL CHEMISTRY I - REC",
-    "course_descr":null,
+    "course_descr":"Corequisites: CHEM UN1403 Recitation section for Chemistry UN1403GENERAL CHEMISTRY I-LECTURESTO BE ENROLLED IN 1403, YOU MUST REGISTER. FOR 1405",
     "instructor":"Gerard F Parkin",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:00pm",
@@ -11348,7 +11481,10 @@
     ],
     "points":"0",
     "prerequisites":[
-
+      [
+        "CHEM UN1403",
+        "UN1403"
+      ]
     ],
     "scheduled_days":"R",
     "section_key":"20263CHEM1405W013",
@@ -11357,7 +11493,7 @@
   {
     "course_code":"CHEM UN1405",
     "course_title":"GENERAL CHEMISTRY I - REC",
-    "course_descr":null,
+    "course_descr":"Corequisites: CHEM UN1403 Recitation section for Chemistry UN1403GENERAL CHEMISTRY I-LECTURESTO BE ENROLLED IN 1403, YOU MUST REGISTER. FOR 1405",
     "instructor":"Gerard F Parkin",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:00am",
@@ -11381,7 +11517,10 @@
     ],
     "points":"0",
     "prerequisites":[
-
+      [
+        "CHEM UN1403",
+        "UN1403"
+      ]
     ],
     "scheduled_days":"F",
     "section_key":"20263CHEM1405W014",
@@ -11390,7 +11529,7 @@
   {
     "course_code":"CHEM UN1406",
     "course_title":"GENERAL CHEMISTRY II-REC",
-    "course_descr":null,
+    "course_descr":"Corequisites: CHEM UN1404 Required section for UN1404 section 1 GENERAL CHEMISTRY II-LECTURES TO BE ENROLLED IN 1404 SEC 1, YOU MUST REG FOR 1406 RECITATION",
     "instructor":"Christopher Eckdahl",
     "scheduled_time_start":"3:10pm",
     "scheduled_time_end":"4:00pm",
@@ -11406,7 +11545,10 @@
     "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "CHEM UN1404",
+        "UN1404"
+      ]
     ],
     "scheduled_days":"W",
     "section_key":"20263CHEM1406W002",
@@ -11415,7 +11557,7 @@
   {
     "course_code":"CHEM UN1406",
     "course_title":"GENERAL CHEMISTRY II-REC",
-    "course_descr":null,
+    "course_descr":"Corequisites: CHEM UN1404 Required section for UN1404 section 1 GENERAL CHEMISTRY II-LECTURES TO BE ENROLLED IN 1404 SEC 1, YOU MUST REG FOR 1406 RECITATION",
     "instructor":"Christopher Eckdahl",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:00pm",
@@ -11431,7 +11573,10 @@
     "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "CHEM UN1404",
+        "UN1404"
+      ]
     ],
     "scheduled_days":"W",
     "section_key":"20263CHEM1406W003",
@@ -11440,7 +11585,7 @@
   {
     "course_code":"CHEM UN1406",
     "course_title":"GENERAL CHEMISTRY II-REC",
-    "course_descr":null,
+    "course_descr":"Corequisites: CHEM UN1404 Required section for UN1404 section 1 GENERAL CHEMISTRY II-LECTURES TO BE ENROLLED IN 1404 SEC 1, YOU MUST REG FOR 1406 RECITATION",
     "instructor":"Christopher Eckdahl",
     "scheduled_time_start":"3:10pm",
     "scheduled_time_end":"4:00pm",
@@ -11456,7 +11601,10 @@
     "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "CHEM UN1404",
+        "UN1404"
+      ]
     ],
     "scheduled_days":"T",
     "section_key":"20263CHEM1406W001",
@@ -12114,9 +12262,159 @@
     "type":"RECITATION"
   },
   {
+    "course_code":"CHEM UN1411",
+    "course_title":"GENERAL CHEMISTRY I - REC",
+    "course_descr":null,
+    "instructor":"Robert Beer",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"5:00pm",
+    "call_number":"11227",
+    "campus":null,
+    "class_id":"W1411-20263-001",
+    "course_subtitle":null,
+    "department":"Chemistry",
+    "department_code":"CHEM",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CHEM\/W1411-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20263CHEM1411W001",
+    "type":"RECITATION"
+  },
+  {
+    "course_code":"CHEM UN1411",
+    "course_title":"GENERAL CHEMISTRY I - REC",
+    "course_descr":null,
+    "instructor":"Robert Beer",
+    "scheduled_time_start":"5:10pm",
+    "scheduled_time_end":"6:00pm",
+    "call_number":"11228",
+    "campus":null,
+    "class_id":"W1411-20263-002",
+    "course_subtitle":null,
+    "department":"Chemistry",
+    "department_code":"CHEM",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CHEM\/W1411-20263-002\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20263CHEM1411W002",
+    "type":"RECITATION"
+  },
+  {
+    "course_code":"CHEM UN1411",
+    "course_title":"GENERAL CHEMISTRY I - REC",
+    "course_descr":null,
+    "instructor":"Robert Beer",
+    "scheduled_time_start":"8:10pm",
+    "scheduled_time_end":"9:00pm",
+    "call_number":"11229",
+    "campus":null,
+    "class_id":"W1411-20263-003",
+    "course_subtitle":null,
+    "department":"Chemistry",
+    "department_code":"CHEM",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CHEM\/W1411-20263-003\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20263CHEM1411W003",
+    "type":"RECITATION"
+  },
+  {
+    "course_code":"CHEM UN1411",
+    "course_title":"GENERAL CHEMISTRY I - REC",
+    "course_descr":null,
+    "instructor":"Robert Beer",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"5:00pm",
+    "call_number":"11230",
+    "campus":null,
+    "class_id":"W1411-20263-004",
+    "course_subtitle":null,
+    "department":"Chemistry",
+    "department_code":"CHEM",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CHEM\/W1411-20263-004\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20263CHEM1411W004",
+    "type":"RECITATION"
+  },
+  {
+    "course_code":"CHEM UN1411",
+    "course_title":"GENERAL CHEMISTRY I - REC",
+    "course_descr":null,
+    "instructor":"Robert Beer",
+    "scheduled_time_start":"5:10pm",
+    "scheduled_time_end":"6:00pm",
+    "call_number":"11231",
+    "campus":null,
+    "class_id":"W1411-20263-005",
+    "course_subtitle":null,
+    "department":"Chemistry",
+    "department_code":"CHEM",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CHEM\/W1411-20263-005\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20263CHEM1411W005",
+    "type":"RECITATION"
+  },
+  {
+    "course_code":"CHEM UN1411",
+    "course_title":"GENERAL CHEMISTRY I - REC",
+    "course_descr":null,
+    "instructor":"Robert Beer",
+    "scheduled_time_start":"8:10pm",
+    "scheduled_time_end":"9:00pm",
+    "call_number":"11232",
+    "campus":null,
+    "class_id":"W1411-20263-006",
+    "course_subtitle":null,
+    "department":"Chemistry",
+    "department_code":"CHEM",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CHEM\/W1411-20263-006\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20263CHEM1411W006",
+    "type":"RECITATION"
+  },
+  {
     "course_code":"CHEM UN1500",
     "course_title":"GENERAL CHEMISTRY LABORATORY",
-    "course_descr":null,
+    "course_descr":"Corequisites: CHEM UN1403,CHEM UN1404 An introduction to basic lab techniques of modern experimental chemistry, including quantitative procedures and chemical analysis. Students must register for a Lab Lecture section for this course (CHEM UN1501). Please check the Directory of Classes for details. Please note that CHEM UN1500 is offered in the fall and spring semesters. Mandatory lab check-in will be held during the first week of classes in both the fall and spring semesters.\u00a0\n  \nYou may be asked to serve as research subjects in studies under direction of the faculty while enrolled in this course (CHEM UN1500 Sec 1, 2, 4, 6 and CHEM UN1501 Sec 1). Participation in voluntary.",
     "instructor":"Sarah J Hansen",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"4:50pm",
@@ -12140,7 +12438,20 @@
     ],
     "points":"3",
     "prerequisites":[
-
+      [
+        "CHEM UN1403"
+      ],
+      [
+        "CHEM UN1404",
+        "CHEM UN1501",
+        "CHEM UN1500"
+      ],
+      [
+        "CHEM UN1500"
+      ],
+      [
+        "CHEM UN1501"
+      ]
     ],
     "scheduled_days":"T",
     "section_key":"20263CHEM1500W001",
@@ -12149,7 +12460,7 @@
   {
     "course_code":"CHEM UN1500",
     "course_title":"GENERAL CHEMISTRY LABORATORY",
-    "course_descr":null,
+    "course_descr":"Corequisites: CHEM UN1403,CHEM UN1404 An introduction to basic lab techniques of modern experimental chemistry, including quantitative procedures and chemical analysis. Students must register for a Lab Lecture section for this course (CHEM UN1501). Please check the Directory of Classes for details. Please note that CHEM UN1500 is offered in the fall and spring semesters. Mandatory lab check-in will be held during the first week of classes in both the fall and spring semesters.\u00a0\n  \nYou may be asked to serve as research subjects in studies under direction of the faculty while enrolled in this course (CHEM UN1500 Sec 1, 2, 4, 6 and CHEM UN1501 Sec 1). Participation in voluntary.",
     "instructor":"Joseph C Ulichny",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"9:50pm",
@@ -12173,7 +12484,20 @@
     ],
     "points":"3",
     "prerequisites":[
-
+      [
+        "CHEM UN1403"
+      ],
+      [
+        "CHEM UN1404",
+        "CHEM UN1501",
+        "CHEM UN1500"
+      ],
+      [
+        "CHEM UN1500"
+      ],
+      [
+        "CHEM UN1501"
+      ]
     ],
     "scheduled_days":"T",
     "section_key":"20263CHEM1500W002",
@@ -12182,7 +12506,7 @@
   {
     "course_code":"CHEM UN1500",
     "course_title":"GENERAL CHEMISTRY LABORATORY",
-    "course_descr":null,
+    "course_descr":"Corequisites: CHEM UN1403,CHEM UN1404 An introduction to basic lab techniques of modern experimental chemistry, including quantitative procedures and chemical analysis. Students must register for a Lab Lecture section for this course (CHEM UN1501). Please check the Directory of Classes for details. Please note that CHEM UN1500 is offered in the fall and spring semesters. Mandatory lab check-in will be held during the first week of classes in both the fall and spring semesters.\u00a0\n  \nYou may be asked to serve as research subjects in studies under direction of the faculty while enrolled in this course (CHEM UN1500 Sec 1, 2, 4, 6 and CHEM UN1501 Sec 1). Participation in voluntary.",
     "instructor":"Joseph C Ulichny",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"4:50pm",
@@ -12198,7 +12522,20 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "CHEM UN1403"
+      ],
+      [
+        "CHEM UN1404",
+        "CHEM UN1501",
+        "CHEM UN1500"
+      ],
+      [
+        "CHEM UN1500"
+      ],
+      [
+        "CHEM UN1501"
+      ]
     ],
     "scheduled_days":"W",
     "section_key":"20263CHEM1500W003",
@@ -12207,7 +12544,7 @@
   {
     "course_code":"CHEM UN1500",
     "course_title":"GENERAL CHEMISTRY LABORATORY",
-    "course_descr":null,
+    "course_descr":"Corequisites: CHEM UN1403,CHEM UN1404 An introduction to basic lab techniques of modern experimental chemistry, including quantitative procedures and chemical analysis. Students must register for a Lab Lecture section for this course (CHEM UN1501). Please check the Directory of Classes for details. Please note that CHEM UN1500 is offered in the fall and spring semesters. Mandatory lab check-in will be held during the first week of classes in both the fall and spring semesters.\u00a0\n  \nYou may be asked to serve as research subjects in studies under direction of the faculty while enrolled in this course (CHEM UN1500 Sec 1, 2, 4, 6 and CHEM UN1501 Sec 1). Participation in voluntary.",
     "instructor":"Sarah J Hansen",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"4:50pm",
@@ -12231,7 +12568,20 @@
     ],
     "points":"3",
     "prerequisites":[
-
+      [
+        "CHEM UN1403"
+      ],
+      [
+        "CHEM UN1404",
+        "CHEM UN1501",
+        "CHEM UN1500"
+      ],
+      [
+        "CHEM UN1500"
+      ],
+      [
+        "CHEM UN1501"
+      ]
     ],
     "scheduled_days":"R",
     "section_key":"20263CHEM1500W004",
@@ -12240,7 +12590,7 @@
   {
     "course_code":"CHEM UN1501",
     "course_title":"GENERAL CHEMISTRY LAB-LECTURE",
-    "course_descr":null,
+    "course_descr":"Corequisites: CHEM UN1500 Lab lecture for CHEM UN1500 General Chemistry Laboratory.",
     "instructor":"Joseph C Ulichny",
     "scheduled_time_start":"7:35pm",
     "scheduled_time_end":"8:50pm",
@@ -12256,7 +12606,10 @@
     "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "CHEM UN1500",
+        "CHEM UN1500"
+      ]
     ],
     "scheduled_days":"M",
     "section_key":"20263CHEM1501W002",
@@ -12265,7 +12618,7 @@
   {
     "course_code":"CHEM UN1507",
     "course_title":"INTENSVE GENERAL CHEMISTRY-LAB",
-    "course_descr":null,
+    "course_descr":"Prerequisites: CHEM UN1604 or CHEM UN2045 Corequisites: CHEM UN2045 A student-centered experimental course intended for students who are taking or have completed CHEM UN1604 (Second Semester General Chemistry Intensive Lecture offered in Fall), CHEM UN2045 (Intensive Organic Chemistry offered in Fall), or CHEM UN2046 (Intensive Organic Chemistry Lecture offered in Spring). The course will provide an introduction to theory and practice of modern experimental chemistry in a contextual, student-centered collaborative learning environment. This course differs from CHEM UN1500 in its pedagogy and its emphasis on instrumentation and methods. Students must also attend the compulsory Mentoring Session. Please check the Directory of Classes for details. Please note that CHEM UN1507 is offered in the fall and spring semesters.",
     "instructor":"Luis A Avila",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"6:00pm",
@@ -12289,7 +12642,18 @@
     ],
     "points":"3",
     "prerequisites":[
-
+      [
+        "CHEM UN1604",
+        "CHEM UN2045",
+        "CHEM UN2045",
+        "CHEM UN1604"
+      ],
+      [
+        "CHEM UN2045",
+        "CHEM UN2046",
+        "CHEM UN1500",
+        "CHEM UN1507"
+      ]
     ],
     "scheduled_days":"M",
     "section_key":"20263CHEM1507W001",
@@ -12298,7 +12662,7 @@
   {
     "course_code":"CHEM UN1507",
     "course_title":"INTENSVE GENERAL CHEMISTRY-LAB",
-    "course_descr":null,
+    "course_descr":"Prerequisites: CHEM UN1604 or CHEM UN2045 Corequisites: CHEM UN2045 A student-centered experimental course intended for students who are taking or have completed CHEM UN1604 (Second Semester General Chemistry Intensive Lecture offered in Fall), CHEM UN2045 (Intensive Organic Chemistry offered in Fall), or CHEM UN2046 (Intensive Organic Chemistry Lecture offered in Spring). The course will provide an introduction to theory and practice of modern experimental chemistry in a contextual, student-centered collaborative learning environment. This course differs from CHEM UN1500 in its pedagogy and its emphasis on instrumentation and methods. Students must also attend the compulsory Mentoring Session. Please check the Directory of Classes for details. Please note that CHEM UN1507 is offered in the fall and spring semesters.",
     "instructor":"Luis A Avila",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"6:00pm",
@@ -12322,7 +12686,18 @@
     ],
     "points":"3",
     "prerequisites":[
-
+      [
+        "CHEM UN1604",
+        "CHEM UN2045",
+        "CHEM UN2045",
+        "CHEM UN1604"
+      ],
+      [
+        "CHEM UN2045",
+        "CHEM UN2046",
+        "CHEM UN1500",
+        "CHEM UN1507"
+      ]
     ],
     "scheduled_days":"F",
     "section_key":"20263CHEM1507W002",
@@ -12331,7 +12706,7 @@
   {
     "course_code":"CHEM UN1604",
     "course_title":"2ND TERM GEN CHEM (INTENSIVE)",
-    "course_descr":null,
+    "course_descr":"Prerequisites: Acceptable performance on the Department placement\u00a0exam during orientation week AND either a grade of \"B\" or better in\u00a0CHEM UN1403\u00a0or AP chemistry or the equivalent. Please contact Vesna Gasperov (\nvg2231@columbia.edu\n) or your academic advisor at CSA for further information.\n Corequisites:\u00a0MATH UN1102\n \n Topics include chemical kinetics, thermodynamics and chemical\u00a0bonding. \u00a0Students must register simultaneously for a corresponding\u00a0recitation section. Please check Courseworks or contact the instructor\u00a0or departmental adviser for additional details.\n \n When registering,\u00a0be sure to\u00a0add your name to the wait list for the recitation corresponding\u00a0to the lecture section (CHEM UN1606). \u00a0Information about registration for the required\u00a0recitation will be sent out before classes begin. Please expect to also be available for review\u00a0sessions on Fridays from 8:10am-9:55am.",
     "instructor":"Christopher Eckdahl",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -12354,7 +12729,11 @@
     ],
     "points":"4",
     "prerequisites":[
-
+      [
+        "CHEM UN1403",
+        "MATH UN1102",
+        "CHEM UN1606"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20263CHEM1604W001",
@@ -12555,7 +12934,7 @@
   {
     "course_code":"CHEM UN2046",
     "course_title":"INTENSVE ORG CHEM-FOR 1ST YEAR",
-    "course_descr":null,
+    "course_descr":"Prerequisites: CHEM UN2045 Premedical students may take CHEM UN2045, CHEM UN2046, and CHEM UN2545 to meet the minimum requirements for admission to medical school. This course covers the same material as CHEM UN2443 - CHEM UN2444, but is intended for students who have learned the principles of general chemistry in high school OR have completed CHEM UN1604 in their first year at Columbia. First year students enrolled in CHEM UN2045 - CHEM UN2046 are expected to enroll concurrently in CHEM UN1507. Although CHEM UN2045 and CHEM UN2046 are separate courses, students are expected to take both terms sequentially. A recitation section is required. Please check the Directory of Classes for details and also speak with the TA for the course.",
     "instructor":"Colin Nuckolls",
     "scheduled_time_start":"8:40am",
     "scheduled_time_end":"9:55am",
@@ -12571,7 +12950,38 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "CHEM UN1507"
+      ],
+      [
+        "CHEM UN2045"
+      ],
+      [
+        "CHEM UN2045"
+      ],
+      [
+        "CHEM UN2045"
+      ],
+      [
+        "CHEM UN2045"
+      ],
+      [
+        "CHEM UN2046"
+      ],
+      [
+        "CHEM UN2046"
+      ],
+      [
+        "CHEM UN2046"
+      ],
+      [
+        "CHEM UN2444",
+        "CHEM UN1604"
+      ],
+      [
+        "CHEM UN2545",
+        "CHEM UN2443"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20263CHEM2046W001",
@@ -12580,7 +12990,7 @@
   {
     "course_code":"CHEM UN2048",
     "course_title":"Intensive Organic Chemistry II - RECITAT",
-    "course_descr":null,
+    "course_descr":"Corequisites: TO BE ENROLLED IN UN2046, YOU MUST REGISTER FOR UN2048 RECITATION",
     "instructor":"Colin Nuckolls",
     "scheduled_time_start":"3:10pm",
     "scheduled_time_end":"4:00pm",
@@ -12596,7 +13006,10 @@
     "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "UN2046",
+        "UN2048"
+      ]
     ],
     "scheduled_days":"T",
     "section_key":"20263CHEM2048W001",
@@ -12605,7 +13018,7 @@
   {
     "course_code":"CHEM UN2048",
     "course_title":"Intensive Organic Chemistry II - RECITAT",
-    "course_descr":null,
+    "course_descr":"Corequisites: TO BE ENROLLED IN UN2046, YOU MUST REGISTER FOR UN2048 RECITATION",
     "instructor":"Colin Nuckolls",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"7:00pm",
@@ -12621,7 +13034,10 @@
     "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "UN2046",
+        "UN2048"
+      ]
     ],
     "scheduled_days":"T",
     "section_key":"20263CHEM2048W002",
@@ -12630,7 +13046,7 @@
   {
     "course_code":"CHEM UN2048",
     "course_title":"Intensive Organic Chemistry II - RECITAT",
-    "course_descr":null,
+    "course_descr":"Corequisites: TO BE ENROLLED IN UN2046, YOU MUST REGISTER FOR UN2048 RECITATION",
     "instructor":"Colin Nuckolls",
     "scheduled_time_start":"3:10pm",
     "scheduled_time_end":"4:00pm",
@@ -12646,7 +13062,10 @@
     "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "UN2046",
+        "UN2048"
+      ]
     ],
     "scheduled_days":"R",
     "section_key":"20263CHEM2048W003",
@@ -12655,7 +13074,7 @@
   {
     "course_code":"CHEM UN2443",
     "course_title":"ORGANIC CHEMISTRY I-LECTURES",
-    "course_descr":null,
+    "course_descr":"Prerequisites: (CHEM UN1403 and CHEM UN1404) or CHEM UN1604 The principles of organic chemistry. The structure and reactivity of organic molecules are examined from the standpoint of modern theories of chemistry. Topics include stereochemistry, reactions of organic molecules, mechanisms of organic reactions, syntheses and degradations of organic molecules, and spectroscopic techniques of structure determination. Although CHEM UN2443 and CHEM UN2444 are separate courses, students are expected to take both terms sequentially. Students must ensure they register for the recitation which corresponds to the lecture section. Please check the Directory of Classes for details.",
     "instructor":"Charles E Jr Doubleday",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"7:25pm",
@@ -12682,7 +13101,19 @@
     ],
     "points":"4",
     "prerequisites":[
-
+      [
+        "CHEM UN1403"
+      ],
+      [
+        "CHEM UN1404",
+        "CHEM UN1604"
+      ],
+      [
+        "CHEM UN2443"
+      ],
+      [
+        "CHEM UN2444"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20263CHEM2443W003",
@@ -12691,7 +13122,7 @@
   {
     "course_code":"CHEM UN2443",
     "course_title":"ORGANIC CHEMISTRY I-LECTURES",
-    "course_descr":null,
+    "course_descr":"Prerequisites: (CHEM UN1403 and CHEM UN1404) or CHEM UN1604 The principles of organic chemistry. The structure and reactivity of organic molecules are examined from the standpoint of modern theories of chemistry. Topics include stereochemistry, reactions of organic molecules, mechanisms of organic reactions, syntheses and degradations of organic molecules, and spectroscopic techniques of structure determination. Although CHEM UN2443 and CHEM UN2444 are separate courses, students are expected to take both terms sequentially. Students must ensure they register for the recitation which corresponds to the lecture section. Please check the Directory of Classes for details.",
     "instructor":null,
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -12718,11 +13149,671 @@
     ],
     "points":"4",
     "prerequisites":[
-
+      [
+        "CHEM UN1403"
+      ],
+      [
+        "CHEM UN1404",
+        "CHEM UN1604"
+      ],
+      [
+        "CHEM UN2443"
+      ],
+      [
+        "CHEM UN2444"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20263CHEM2443W002",
     "type":"LECTURE"
+  },
+  {
+    "course_code":"CHEM UN2443",
+    "course_title":"ORGANIC CHEMISTRY I-LECTURES",
+    "course_descr":null,
+    "instructor":"James Leighton",
+    "scheduled_time_start":"11:40am",
+    "scheduled_time_end":"12:55pm",
+    "call_number":"11233",
+    "campus":null,
+    "class_id":"W2443-20263-001",
+    "course_subtitle":"ORGANIC CHEMISTRY I-LECTU",
+    "department":"Chemistry",
+    "department_code":"CHEM",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CHEM\/W2443-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "Engineering:Graduate",
+      "Engineering:Undergraduate",
+      "GSAS",
+      "General Studies",
+      "Global Programs",
+      "Professional Studies",
+      "SIPA",
+      "Schools of the Arts"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20263CHEM2443W001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"CHEM UN2445",
+    "course_title":"ORGANIC CHEMISTRY - REC",
+    "course_descr":null,
+    "instructor":"James Leighton",
+    "scheduled_time_start":"3:10pm",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"11234",
+    "campus":null,
+    "class_id":"W2445-20263-001",
+    "course_subtitle":null,
+    "department":"Chemistry",
+    "department_code":"CHEM",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CHEM\/W2445-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "Engineering:Graduate",
+      "Engineering:Undergraduate",
+      "GSAS",
+      "General Studies",
+      "Global Programs",
+      "Professional Studies",
+      "SIPA",
+      "Schools of the Arts"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20263CHEM2445W001",
+    "type":"RECITATION"
+  },
+  {
+    "course_code":"CHEM UN2445",
+    "course_title":"ORGANIC CHEMISTRY - REC",
+    "course_descr":null,
+    "instructor":"James Leighton",
+    "scheduled_time_start":"3:10pm",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"11235",
+    "campus":null,
+    "class_id":"W2445-20263-002",
+    "course_subtitle":null,
+    "department":"Chemistry",
+    "department_code":"CHEM",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CHEM\/W2445-20263-002\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "Engineering:Graduate",
+      "Engineering:Undergraduate",
+      "GSAS",
+      "General Studies",
+      "Global Programs",
+      "Professional Studies",
+      "SIPA",
+      "Schools of the Arts"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20263CHEM2445W002",
+    "type":"RECITATION"
+  },
+  {
+    "course_code":"CHEM UN2445",
+    "course_title":"ORGANIC CHEMISTRY - REC",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"5:00pm",
+    "call_number":"11236",
+    "campus":null,
+    "class_id":"W2445-20263-003",
+    "course_subtitle":null,
+    "department":"Chemistry",
+    "department_code":"CHEM",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CHEM\/W2445-20263-003\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "Engineering:Graduate",
+      "Engineering:Undergraduate",
+      "GSAS",
+      "General Studies",
+      "Global Programs",
+      "Professional Studies",
+      "SIPA",
+      "Schools of the Arts"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20263CHEM2445W003",
+    "type":"RECITATION"
+  },
+  {
+    "course_code":"CHEM UN2445",
+    "course_title":"ORGANIC CHEMISTRY - REC",
+    "course_descr":null,
+    "instructor":"James Leighton",
+    "scheduled_time_start":"5:10pm",
+    "scheduled_time_end":"6:00pm",
+    "call_number":"11237",
+    "campus":null,
+    "class_id":"W2445-20263-004",
+    "course_subtitle":null,
+    "department":"Chemistry",
+    "department_code":"CHEM",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CHEM\/W2445-20263-004\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "Engineering:Graduate",
+      "Engineering:Undergraduate",
+      "GSAS",
+      "General Studies",
+      "Global Programs",
+      "Professional Studies",
+      "SIPA",
+      "Schools of the Arts"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20263CHEM2445W004",
+    "type":"RECITATION"
+  },
+  {
+    "course_code":"CHEM UN2445",
+    "course_title":"ORGANIC CHEMISTRY - REC",
+    "course_descr":null,
+    "instructor":"James Leighton",
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"2:00pm",
+    "call_number":"11238",
+    "campus":null,
+    "class_id":"W2445-20263-006",
+    "course_subtitle":null,
+    "department":"Chemistry",
+    "department_code":"CHEM",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CHEM\/W2445-20263-006\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "Engineering:Graduate",
+      "Engineering:Undergraduate",
+      "GSAS",
+      "General Studies",
+      "Global Programs",
+      "Professional Studies",
+      "SIPA",
+      "Schools of the Arts"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20263CHEM2445W006",
+    "type":"RECITATION"
+  },
+  {
+    "course_code":"CHEM UN2445",
+    "course_title":"ORGANIC CHEMISTRY - REC",
+    "course_descr":null,
+    "instructor":"James Leighton",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"7:00pm",
+    "call_number":"11239",
+    "campus":null,
+    "class_id":"W2445-20263-007",
+    "course_subtitle":null,
+    "department":"Chemistry",
+    "department_code":"CHEM",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CHEM\/W2445-20263-007\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "Engineering:Graduate",
+      "Engineering:Undergraduate",
+      "GSAS",
+      "General Studies",
+      "Global Programs",
+      "Professional Studies",
+      "SIPA",
+      "Schools of the Arts"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20263CHEM2445W007",
+    "type":"RECITATION"
+  },
+  {
+    "course_code":"CHEM UN2445",
+    "course_title":"ORGANIC CHEMISTRY - REC",
+    "course_descr":null,
+    "instructor":"James Leighton",
+    "scheduled_time_start":"11:10am",
+    "scheduled_time_end":"12:00pm",
+    "call_number":"11240",
+    "campus":null,
+    "class_id":"W2445-20263-008",
+    "course_subtitle":null,
+    "department":"Chemistry",
+    "department_code":"CHEM",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CHEM\/W2445-20263-008\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "Engineering:Graduate",
+      "Engineering:Undergraduate",
+      "GSAS",
+      "General Studies",
+      "Global Programs",
+      "Professional Studies",
+      "SIPA",
+      "Schools of the Arts"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"F",
+    "section_key":"20263CHEM2445W008",
+    "type":"RECITATION"
+  },
+  {
+    "course_code":"CHEM UN2445",
+    "course_title":"ORGANIC CHEMISTRY - REC",
+    "course_descr":null,
+    "instructor":"James Leighton",
+    "scheduled_time_start":"12:10pm",
+    "scheduled_time_end":"1:00pm",
+    "call_number":"11241",
+    "campus":null,
+    "class_id":"W2445-20263-009",
+    "course_subtitle":null,
+    "department":"Chemistry",
+    "department_code":"CHEM",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CHEM\/W2445-20263-009\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "Engineering:Graduate",
+      "Engineering:Undergraduate",
+      "GSAS",
+      "General Studies",
+      "Global Programs",
+      "Professional Studies",
+      "SIPA",
+      "Schools of the Arts"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"F",
+    "section_key":"20263CHEM2445W009",
+    "type":"RECITATION"
+  },
+  {
+    "course_code":"CHEM UN2447",
+    "course_title":"ORGANIC CHEMISTRY - REC",
+    "course_descr":null,
+    "instructor":"Luis M Campos",
+    "scheduled_time_start":"3:10pm",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"11242",
+    "campus":null,
+    "class_id":"W2447-20263-001",
+    "course_subtitle":null,
+    "department":"Chemistry",
+    "department_code":"CHEM",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CHEM\/W2447-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "Engineering:Graduate",
+      "Engineering:Undergraduate",
+      "GSAS",
+      "General Studies",
+      "Global Programs",
+      "Professional Studies",
+      "SIPA",
+      "Schools of the Arts"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20263CHEM2447W001",
+    "type":"RECITATION"
+  },
+  {
+    "course_code":"CHEM UN2447",
+    "course_title":"ORGANIC CHEMISTRY - REC",
+    "course_descr":null,
+    "instructor":"Luis M Campos",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"7:00pm",
+    "call_number":"11243",
+    "campus":null,
+    "class_id":"W2447-20263-002",
+    "course_subtitle":null,
+    "department":"Chemistry",
+    "department_code":"CHEM",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CHEM\/W2447-20263-002\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "Engineering:Graduate",
+      "Engineering:Undergraduate",
+      "GSAS",
+      "General Studies",
+      "Global Programs",
+      "Professional Studies",
+      "SIPA",
+      "Schools of the Arts"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20263CHEM2447W002",
+    "type":"RECITATION"
+  },
+  {
+    "course_code":"CHEM UN2447",
+    "course_title":"ORGANIC CHEMISTRY - REC",
+    "course_descr":null,
+    "instructor":"Luis M Campos",
+    "scheduled_time_start":"3:10pm",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"11244",
+    "campus":null,
+    "class_id":"W2447-20263-003",
+    "course_subtitle":null,
+    "department":"Chemistry",
+    "department_code":"CHEM",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CHEM\/W2447-20263-003\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "Engineering:Graduate",
+      "Engineering:Undergraduate",
+      "GSAS",
+      "General Studies",
+      "Global Programs",
+      "Professional Studies",
+      "SIPA",
+      "Schools of the Arts"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20263CHEM2447W003",
+    "type":"RECITATION"
+  },
+  {
+    "course_code":"CHEM UN2447",
+    "course_title":"ORGANIC CHEMISTRY - REC",
+    "course_descr":null,
+    "instructor":"Luis M Campos",
+    "scheduled_time_start":"5:10pm",
+    "scheduled_time_end":"6:00pm",
+    "call_number":"11245",
+    "campus":null,
+    "class_id":"W2447-20263-004",
+    "course_subtitle":null,
+    "department":"Chemistry",
+    "department_code":"CHEM",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CHEM\/W2447-20263-004\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "Engineering:Graduate",
+      "Engineering:Undergraduate",
+      "GSAS",
+      "General Studies",
+      "Global Programs",
+      "Professional Studies",
+      "SIPA",
+      "Schools of the Arts"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20263CHEM2447W004",
+    "type":"RECITATION"
+  },
+  {
+    "course_code":"CHEM UN2447",
+    "course_title":"ORGANIC CHEMISTRY - REC",
+    "course_descr":null,
+    "instructor":"Luis M Campos",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"7:00pm",
+    "call_number":"11246",
+    "campus":null,
+    "class_id":"W2447-20263-005",
+    "course_subtitle":null,
+    "department":"Chemistry",
+    "department_code":"CHEM",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CHEM\/W2447-20263-005\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "Engineering:Graduate",
+      "Engineering:Undergraduate",
+      "GSAS",
+      "General Studies",
+      "Global Programs",
+      "Professional Studies",
+      "SIPA",
+      "Schools of the Arts"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20263CHEM2447W005",
+    "type":"RECITATION"
+  },
+  {
+    "course_code":"CHEM UN2447",
+    "course_title":"ORGANIC CHEMISTRY - REC",
+    "course_descr":null,
+    "instructor":"Luis M Campos",
+    "scheduled_time_start":"7:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"11247",
+    "campus":null,
+    "class_id":"W2447-20263-006",
+    "course_subtitle":null,
+    "department":"Chemistry",
+    "department_code":"CHEM",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CHEM\/W2447-20263-006\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "Engineering:Graduate",
+      "Engineering:Undergraduate",
+      "GSAS",
+      "General Studies",
+      "Global Programs",
+      "Professional Studies",
+      "SIPA",
+      "Schools of the Arts"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20263CHEM2447W006",
+    "type":"RECITATION"
+  },
+  {
+    "course_code":"CHEM UN2447",
+    "course_title":"ORGANIC CHEMISTRY - REC",
+    "course_descr":null,
+    "instructor":"Luis M Campos",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"7:00pm",
+    "call_number":"11248",
+    "campus":null,
+    "class_id":"W2447-20263-007",
+    "course_subtitle":null,
+    "department":"Chemistry",
+    "department_code":"CHEM",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CHEM\/W2447-20263-007\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "Engineering:Graduate",
+      "Engineering:Undergraduate",
+      "GSAS",
+      "General Studies",
+      "Global Programs",
+      "Professional Studies",
+      "SIPA",
+      "Schools of the Arts"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20263CHEM2447W007",
+    "type":"RECITATION"
+  },
+  {
+    "course_code":"CHEM UN2447",
+    "course_title":"ORGANIC CHEMISTRY - REC",
+    "course_descr":null,
+    "instructor":"Luis M Campos",
+    "scheduled_time_start":"3:10pm",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"11249",
+    "campus":null,
+    "class_id":"W2447-20263-008",
+    "course_subtitle":null,
+    "department":"Chemistry",
+    "department_code":"CHEM",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CHEM\/W2447-20263-008\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "Engineering:Graduate",
+      "Engineering:Undergraduate",
+      "GSAS",
+      "General Studies",
+      "Global Programs",
+      "Professional Studies",
+      "SIPA",
+      "Schools of the Arts"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20263CHEM2447W008",
+    "type":"RECITATION"
+  },
+  {
+    "course_code":"CHEM UN2447",
+    "course_title":"ORGANIC CHEMISTRY - REC",
+    "course_descr":null,
+    "instructor":"Luis M Campos",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"7:00pm",
+    "call_number":"11250",
+    "campus":null,
+    "class_id":"W2447-20263-009",
+    "course_subtitle":null,
+    "department":"Chemistry",
+    "department_code":"CHEM",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CHEM\/W2447-20263-009\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "Engineering:Graduate",
+      "Engineering:Undergraduate",
+      "GSAS",
+      "General Studies",
+      "Global Programs",
+      "Professional Studies",
+      "SIPA",
+      "Schools of the Arts"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20263CHEM2447W009",
+    "type":"RECITATION"
   },
   {
     "course_code":"CHEM UN2449",
@@ -12943,7 +14034,7 @@
   {
     "course_code":"CHEM UN2493",
     "course_title":"ORGANIC CHEM. LAB I TECHNIQUES",
-    "course_descr":null,
+    "course_descr":"Prerequisites: (CHEM UN1403 and CHEM UN1404) or (CHEM UN1604) and (CHEM UN1500 or CHEM UN1507) Corequisites: CHEM UN2443 Techniques of experimental organic chemistry, with emphasis on understanding fundamental principles underlying the experiments in methodology of solving laboratory problems involving organic molecules. Attendance at the first lab lecture and laboratory session is mandatory. Please note that CHEM UN2493 is the first part of a full year organic chemistry laboratory course. Students must register for the lab lecture section (CHEM UN2495) which corresponds to their lab section. Students must attend ONE lab lecture and ONE lab section every other week. Please contact your advisers for further information.",
     "instructor":"Talha Siddiqui",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"4:50pm",
@@ -12970,7 +14061,20 @@
     ],
     "points":"0",
     "prerequisites":[
-
+      [
+        "CHEM UN1403"
+      ],
+      [
+        "CHEM UN1404",
+        "CHEM UN1604"
+      ],
+      [
+        "CHEM UN1500",
+        "CHEM UN1507",
+        "CHEM UN2443",
+        "CHEM UN2493",
+        "CHEM UN2495"
+      ]
     ],
     "scheduled_days":"M",
     "section_key":"20263CHEM2493W001",
@@ -12979,7 +14083,7 @@
   {
     "course_code":"CHEM UN2493",
     "course_title":"ORGANIC CHEM. LAB I TECHNIQUES",
-    "course_descr":null,
+    "course_descr":"Prerequisites: (CHEM UN1403 and CHEM UN1404) or (CHEM UN1604) and (CHEM UN1500 or CHEM UN1507) Corequisites: CHEM UN2443 Techniques of experimental organic chemistry, with emphasis on understanding fundamental principles underlying the experiments in methodology of solving laboratory problems involving organic molecules. Attendance at the first lab lecture and laboratory session is mandatory. Please note that CHEM UN2493 is the first part of a full year organic chemistry laboratory course. Students must register for the lab lecture section (CHEM UN2495) which corresponds to their lab section. Students must attend ONE lab lecture and ONE lab section every other week. Please contact your advisers for further information.",
     "instructor":"Talha Siddiqui",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"4:50pm",
@@ -13006,7 +14110,20 @@
     ],
     "points":"0",
     "prerequisites":[
-
+      [
+        "CHEM UN1403"
+      ],
+      [
+        "CHEM UN1404",
+        "CHEM UN1604"
+      ],
+      [
+        "CHEM UN1500",
+        "CHEM UN1507",
+        "CHEM UN2443",
+        "CHEM UN2493",
+        "CHEM UN2495"
+      ]
     ],
     "scheduled_days":"T",
     "section_key":"20263CHEM2493W002",
@@ -13015,7 +14132,7 @@
   {
     "course_code":"CHEM UN2493",
     "course_title":"ORGANIC CHEM. LAB I TECHNIQUES",
-    "course_descr":null,
+    "course_descr":"Prerequisites: (CHEM UN1403 and CHEM UN1404) or (CHEM UN1604) and (CHEM UN1500 or CHEM UN1507) Corequisites: CHEM UN2443 Techniques of experimental organic chemistry, with emphasis on understanding fundamental principles underlying the experiments in methodology of solving laboratory problems involving organic molecules. Attendance at the first lab lecture and laboratory session is mandatory. Please note that CHEM UN2493 is the first part of a full year organic chemistry laboratory course. Students must register for the lab lecture section (CHEM UN2495) which corresponds to their lab section. Students must attend ONE lab lecture and ONE lab section every other week. Please contact your advisers for further information.",
     "instructor":"Talha Siddiqui",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"9:50pm",
@@ -13042,7 +14159,20 @@
     ],
     "points":"0",
     "prerequisites":[
-
+      [
+        "CHEM UN1403"
+      ],
+      [
+        "CHEM UN1404",
+        "CHEM UN1604"
+      ],
+      [
+        "CHEM UN1500",
+        "CHEM UN1507",
+        "CHEM UN2443",
+        "CHEM UN2493",
+        "CHEM UN2495"
+      ]
     ],
     "scheduled_days":"T",
     "section_key":"20263CHEM2493W003",
@@ -13051,7 +14181,7 @@
   {
     "course_code":"CHEM UN2493",
     "course_title":"ORGANIC CHEM. LAB I TECHNIQUES",
-    "course_descr":null,
+    "course_descr":"Prerequisites: (CHEM UN1403 and CHEM UN1404) or (CHEM UN1604) and (CHEM UN1500 or CHEM UN1507) Corequisites: CHEM UN2443 Techniques of experimental organic chemistry, with emphasis on understanding fundamental principles underlying the experiments in methodology of solving laboratory problems involving organic molecules. Attendance at the first lab lecture and laboratory session is mandatory. Please note that CHEM UN2493 is the first part of a full year organic chemistry laboratory course. Students must register for the lab lecture section (CHEM UN2495) which corresponds to their lab section. Students must attend ONE lab lecture and ONE lab section every other week. Please contact your advisers for further information.",
     "instructor":"Anna Ghurbanyan",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"4:50pm",
@@ -13067,7 +14197,20 @@
     "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "CHEM UN1403"
+      ],
+      [
+        "CHEM UN1404",
+        "CHEM UN1604"
+      ],
+      [
+        "CHEM UN1500",
+        "CHEM UN1507",
+        "CHEM UN2443",
+        "CHEM UN2493",
+        "CHEM UN2495"
+      ]
     ],
     "scheduled_days":"W",
     "section_key":"20263CHEM2493W004",
@@ -13076,7 +14219,7 @@
   {
     "course_code":"CHEM UN2493",
     "course_title":"ORGANIC CHEM. LAB I TECHNIQUES",
-    "course_descr":null,
+    "course_descr":"Prerequisites: (CHEM UN1403 and CHEM UN1404) or (CHEM UN1604) and (CHEM UN1500 or CHEM UN1507) Corequisites: CHEM UN2443 Techniques of experimental organic chemistry, with emphasis on understanding fundamental principles underlying the experiments in methodology of solving laboratory problems involving organic molecules. Attendance at the first lab lecture and laboratory session is mandatory. Please note that CHEM UN2493 is the first part of a full year organic chemistry laboratory course. Students must register for the lab lecture section (CHEM UN2495) which corresponds to their lab section. Students must attend ONE lab lecture and ONE lab section every other week. Please contact your advisers for further information.",
     "instructor":"Anna Ghurbanyan",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"4:50pm",
@@ -13092,7 +14235,20 @@
     "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "CHEM UN1403"
+      ],
+      [
+        "CHEM UN1404",
+        "CHEM UN1604"
+      ],
+      [
+        "CHEM UN1500",
+        "CHEM UN1507",
+        "CHEM UN2443",
+        "CHEM UN2493",
+        "CHEM UN2495"
+      ]
     ],
     "scheduled_days":"R",
     "section_key":"20263CHEM2493W005",
@@ -13101,7 +14257,7 @@
   {
     "course_code":"CHEM UN2493",
     "course_title":"ORGANIC CHEM. LAB I TECHNIQUES",
-    "course_descr":null,
+    "course_descr":"Prerequisites: (CHEM UN1403 and CHEM UN1404) or (CHEM UN1604) and (CHEM UN1500 or CHEM UN1507) Corequisites: CHEM UN2443 Techniques of experimental organic chemistry, with emphasis on understanding fundamental principles underlying the experiments in methodology of solving laboratory problems involving organic molecules. Attendance at the first lab lecture and laboratory session is mandatory. Please note that CHEM UN2493 is the first part of a full year organic chemistry laboratory course. Students must register for the lab lecture section (CHEM UN2495) which corresponds to their lab section. Students must attend ONE lab lecture and ONE lab section every other week. Please contact your advisers for further information.",
     "instructor":"Anna Ghurbanyan",
     "scheduled_time_start":"11:10am",
     "scheduled_time_end":"2:50pm",
@@ -13117,7 +14273,20 @@
     "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "CHEM UN1403"
+      ],
+      [
+        "CHEM UN1404",
+        "CHEM UN1604"
+      ],
+      [
+        "CHEM UN1500",
+        "CHEM UN1507",
+        "CHEM UN2443",
+        "CHEM UN2493",
+        "CHEM UN2495"
+      ]
     ],
     "scheduled_days":"F",
     "section_key":"20263CHEM2493W006",
@@ -13126,7 +14295,7 @@
   {
     "course_code":"CHEM UN2493",
     "course_title":"ORGANIC CHEM. LAB I TECHNIQUES",
-    "course_descr":null,
+    "course_descr":"Prerequisites: (CHEM UN1403 and CHEM UN1404) or (CHEM UN1604) and (CHEM UN1500 or CHEM UN1507) Corequisites: CHEM UN2443 Techniques of experimental organic chemistry, with emphasis on understanding fundamental principles underlying the experiments in methodology of solving laboratory problems involving organic molecules. Attendance at the first lab lecture and laboratory session is mandatory. Please note that CHEM UN2493 is the first part of a full year organic chemistry laboratory course. Students must register for the lab lecture section (CHEM UN2495) which corresponds to their lab section. Students must attend ONE lab lecture and ONE lab section every other week. Please contact your advisers for further information.",
     "instructor":"Talha Siddiqui",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"4:50pm",
@@ -13153,7 +14322,20 @@
     ],
     "points":"0",
     "prerequisites":[
-
+      [
+        "CHEM UN1403"
+      ],
+      [
+        "CHEM UN1404",
+        "CHEM UN1604"
+      ],
+      [
+        "CHEM UN1500",
+        "CHEM UN1507",
+        "CHEM UN2443",
+        "CHEM UN2493",
+        "CHEM UN2495"
+      ]
     ],
     "scheduled_days":"M",
     "section_key":"20263CHEM2493W007",
@@ -13162,7 +14344,7 @@
   {
     "course_code":"CHEM UN2493",
     "course_title":"ORGANIC CHEM. LAB I TECHNIQUES",
-    "course_descr":null,
+    "course_descr":"Prerequisites: (CHEM UN1403 and CHEM UN1404) or (CHEM UN1604) and (CHEM UN1500 or CHEM UN1507) Corequisites: CHEM UN2443 Techniques of experimental organic chemistry, with emphasis on understanding fundamental principles underlying the experiments in methodology of solving laboratory problems involving organic molecules. Attendance at the first lab lecture and laboratory session is mandatory. Please note that CHEM UN2493 is the first part of a full year organic chemistry laboratory course. Students must register for the lab lecture section (CHEM UN2495) which corresponds to their lab section. Students must attend ONE lab lecture and ONE lab section every other week. Please contact your advisers for further information.",
     "instructor":"Talha Siddiqui",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"4:50pm",
@@ -13189,7 +14371,20 @@
     ],
     "points":"0",
     "prerequisites":[
-
+      [
+        "CHEM UN1403"
+      ],
+      [
+        "CHEM UN1404",
+        "CHEM UN1604"
+      ],
+      [
+        "CHEM UN1500",
+        "CHEM UN1507",
+        "CHEM UN2443",
+        "CHEM UN2493",
+        "CHEM UN2495"
+      ]
     ],
     "scheduled_days":"T",
     "section_key":"20263CHEM2493W008",
@@ -13198,7 +14393,7 @@
   {
     "course_code":"CHEM UN2493",
     "course_title":"ORGANIC CHEM. LAB I TECHNIQUES",
-    "course_descr":null,
+    "course_descr":"Prerequisites: (CHEM UN1403 and CHEM UN1404) or (CHEM UN1604) and (CHEM UN1500 or CHEM UN1507) Corequisites: CHEM UN2443 Techniques of experimental organic chemistry, with emphasis on understanding fundamental principles underlying the experiments in methodology of solving laboratory problems involving organic molecules. Attendance at the first lab lecture and laboratory session is mandatory. Please note that CHEM UN2493 is the first part of a full year organic chemistry laboratory course. Students must register for the lab lecture section (CHEM UN2495) which corresponds to their lab section. Students must attend ONE lab lecture and ONE lab section every other week. Please contact your advisers for further information.",
     "instructor":"Talha Siddiqui",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"9:50pm",
@@ -13225,7 +14420,20 @@
     ],
     "points":"0",
     "prerequisites":[
-
+      [
+        "CHEM UN1403"
+      ],
+      [
+        "CHEM UN1404",
+        "CHEM UN1604"
+      ],
+      [
+        "CHEM UN1500",
+        "CHEM UN1507",
+        "CHEM UN2443",
+        "CHEM UN2493",
+        "CHEM UN2495"
+      ]
     ],
     "scheduled_days":"T",
     "section_key":"20263CHEM2493W009",
@@ -13234,7 +14442,7 @@
   {
     "course_code":"CHEM UN2493",
     "course_title":"ORGANIC CHEM. LAB I TECHNIQUES",
-    "course_descr":null,
+    "course_descr":"Prerequisites: (CHEM UN1403 and CHEM UN1404) or (CHEM UN1604) and (CHEM UN1500 or CHEM UN1507) Corequisites: CHEM UN2443 Techniques of experimental organic chemistry, with emphasis on understanding fundamental principles underlying the experiments in methodology of solving laboratory problems involving organic molecules. Attendance at the first lab lecture and laboratory session is mandatory. Please note that CHEM UN2493 is the first part of a full year organic chemistry laboratory course. Students must register for the lab lecture section (CHEM UN2495) which corresponds to their lab section. Students must attend ONE lab lecture and ONE lab section every other week. Please contact your advisers for further information.",
     "instructor":"Anna Ghurbanyan",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"4:50pm",
@@ -13250,7 +14458,20 @@
     "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "CHEM UN1403"
+      ],
+      [
+        "CHEM UN1404",
+        "CHEM UN1604"
+      ],
+      [
+        "CHEM UN1500",
+        "CHEM UN1507",
+        "CHEM UN2443",
+        "CHEM UN2493",
+        "CHEM UN2495"
+      ]
     ],
     "scheduled_days":"W",
     "section_key":"20263CHEM2493W010",
@@ -13259,7 +14480,7 @@
   {
     "course_code":"CHEM UN2493",
     "course_title":"ORGANIC CHEM. LAB I TECHNIQUES",
-    "course_descr":null,
+    "course_descr":"Prerequisites: (CHEM UN1403 and CHEM UN1404) or (CHEM UN1604) and (CHEM UN1500 or CHEM UN1507) Corequisites: CHEM UN2443 Techniques of experimental organic chemistry, with emphasis on understanding fundamental principles underlying the experiments in methodology of solving laboratory problems involving organic molecules. Attendance at the first lab lecture and laboratory session is mandatory. Please note that CHEM UN2493 is the first part of a full year organic chemistry laboratory course. Students must register for the lab lecture section (CHEM UN2495) which corresponds to their lab section. Students must attend ONE lab lecture and ONE lab section every other week. Please contact your advisers for further information.",
     "instructor":"Anna Ghurbanyan",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"4:50pm",
@@ -13275,7 +14496,20 @@
     "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "CHEM UN1403"
+      ],
+      [
+        "CHEM UN1404",
+        "CHEM UN1604"
+      ],
+      [
+        "CHEM UN1500",
+        "CHEM UN1507",
+        "CHEM UN2443",
+        "CHEM UN2493",
+        "CHEM UN2495"
+      ]
     ],
     "scheduled_days":"R",
     "section_key":"20263CHEM2493W011",
@@ -13284,7 +14518,7 @@
   {
     "course_code":"CHEM UN2493",
     "course_title":"ORGANIC CHEM. LAB I TECHNIQUES",
-    "course_descr":null,
+    "course_descr":"Prerequisites: (CHEM UN1403 and CHEM UN1404) or (CHEM UN1604) and (CHEM UN1500 or CHEM UN1507) Corequisites: CHEM UN2443 Techniques of experimental organic chemistry, with emphasis on understanding fundamental principles underlying the experiments in methodology of solving laboratory problems involving organic molecules. Attendance at the first lab lecture and laboratory session is mandatory. Please note that CHEM UN2493 is the first part of a full year organic chemistry laboratory course. Students must register for the lab lecture section (CHEM UN2495) which corresponds to their lab section. Students must attend ONE lab lecture and ONE lab section every other week. Please contact your advisers for further information.",
     "instructor":"Anna Ghurbanyan",
     "scheduled_time_start":"11:10am",
     "scheduled_time_end":"2:50pm",
@@ -13300,7 +14534,20 @@
     "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "CHEM UN1403"
+      ],
+      [
+        "CHEM UN1404",
+        "CHEM UN1604"
+      ],
+      [
+        "CHEM UN1500",
+        "CHEM UN1507",
+        "CHEM UN2443",
+        "CHEM UN2493",
+        "CHEM UN2495"
+      ]
     ],
     "scheduled_days":"F",
     "section_key":"20263CHEM2493W012",
@@ -13309,7 +14556,7 @@
   {
     "course_code":"CHEM UN2495",
     "course_title":"ORGANIC CHEM. LABORATORY I",
-    "course_descr":null,
+    "course_descr":"Corequisites: CHEM UN2493 The course is the lab lecture which accompanies the Organic Chemistry Laboratory I (Techniques) course.",
     "instructor":"Talha Siddiqui",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:25pm",
@@ -13335,7 +14582,9 @@
     ],
     "points":"1.5",
     "prerequisites":[
-
+      [
+        "CHEM UN2493"
+      ]
     ],
     "scheduled_days":"W",
     "section_key":"20263CHEM2495W001",
@@ -13344,7 +14593,7 @@
   {
     "course_code":"CHEM UN2495",
     "course_title":"ORGANIC CHEM. LABORATORY I",
-    "course_descr":null,
+    "course_descr":"Corequisites: CHEM UN2493 The course is the lab lecture which accompanies the Organic Chemistry Laboratory I (Techniques) course.",
     "instructor":"Anna Ghurbanyan",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:25pm",
@@ -13360,7 +14609,9 @@
     "open_to":null,
     "points":"1.5",
     "prerequisites":[
-
+      [
+        "CHEM UN2493"
+      ]
     ],
     "scheduled_days":"M",
     "section_key":"20263CHEM2495W002",
@@ -13369,7 +14620,7 @@
   {
     "course_code":"CHEM UN2495",
     "course_title":"ORGANIC CHEM. LABORATORY I",
-    "course_descr":null,
+    "course_descr":"Corequisites: CHEM UN2493 The course is the lab lecture which accompanies the Organic Chemistry Laboratory I (Techniques) course.",
     "instructor":"Talha Siddiqui",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:25pm",
@@ -13395,7 +14646,9 @@
     ],
     "points":"1.5",
     "prerequisites":[
-
+      [
+        "CHEM UN2493"
+      ]
     ],
     "scheduled_days":"W",
     "section_key":"20263CHEM2495W003",
@@ -13404,7 +14657,7 @@
   {
     "course_code":"CHEM UN2495",
     "course_title":"ORGANIC CHEM. LABORATORY I",
-    "course_descr":null,
+    "course_descr":"Corequisites: CHEM UN2493 The course is the lab lecture which accompanies the Organic Chemistry Laboratory I (Techniques) course.",
     "instructor":"Anna Ghurbanyan",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:25pm",
@@ -13420,7 +14673,9 @@
     "open_to":null,
     "points":"1.5",
     "prerequisites":[
-
+      [
+        "CHEM UN2493"
+      ]
     ],
     "scheduled_days":"M",
     "section_key":"20263CHEM2495W004",
@@ -13429,7 +14684,7 @@
   {
     "course_code":"CHEM UN2545",
     "course_title":"INTENSIVE ORGANIC CHEM LAB",
-    "course_descr":null,
+    "course_descr":"Prerequisites: (CHEM UN2045 and CHEM UN2046) and CHEM UN1507 The lab is intended for students who have taken Intensive Organic Chemistry, CHEM UN2045 - CHEM UN2046 and who intend to major in Chemistry, Biochemistry, Chemical Physics, or Environmental Chemistry.",
     "instructor":"Fay W Ng",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"6:00pm",
@@ -13456,7 +14711,19 @@
     ],
     "points":"3",
     "prerequisites":[
-
+      [
+        "CHEM UN1507",
+        "CHEM UN2045"
+      ],
+      [
+        "CHEM UN2045"
+      ],
+      [
+        "CHEM UN2046"
+      ],
+      [
+        "CHEM UN2046"
+      ]
     ],
     "scheduled_days":"M",
     "section_key":"20263CHEM2545W001",
@@ -13465,7 +14732,7 @@
   {
     "course_code":"CHEM UN2545",
     "course_title":"INTENSIVE ORGANIC CHEM LAB",
-    "course_descr":null,
+    "course_descr":"Prerequisites: (CHEM UN2045 and CHEM UN2046) and CHEM UN1507 The lab is intended for students who have taken Intensive Organic Chemistry, CHEM UN2045 - CHEM UN2046 and who intend to major in Chemistry, Biochemistry, Chemical Physics, or Environmental Chemistry.",
     "instructor":"Fay W Ng",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"6:00pm",
@@ -13492,7 +14759,19 @@
     ],
     "points":"3",
     "prerequisites":[
-
+      [
+        "CHEM UN1507",
+        "CHEM UN2045"
+      ],
+      [
+        "CHEM UN2045"
+      ],
+      [
+        "CHEM UN2046"
+      ],
+      [
+        "CHEM UN2046"
+      ]
     ],
     "scheduled_days":"T",
     "section_key":"20263CHEM2545W002",
@@ -13501,7 +14780,7 @@
   {
     "course_code":"CHEM UN3079",
     "course_title":"PHYSICAL CHEMISTRY I-LECTURES",
-    "course_descr":null,
+    "course_descr":"Prerequisites: (CHEM UN1403 and CHEM UN1404) or (CHEM UN1604) or (CHEM UN2045 and CHEM UN2046) and (MATH UN1101 and MATH UN1102) or (MATH UN1207 and MATH UN1208) and (PHYS UN1401 and PHYS UN1402) PHYS UN1201 - PHYS UN1202 is acceptable; PHYS UN1401 - PHYS UN1402 or the equivalent is HIGHLY recommended. Corequisites: CHEM UN3085 Elementary, but comprehensive, treatment of the fundamental laws governing the behavior of individual atoms and molecules and collections of them. CHEM UN3079 covers the thermodynamics of chemical systems at equilibrium and the chemical kinetics of nonequilibrium systems. Although CHEM UN3079 and CHEM UN3080 are separate courses, students are expected to take both terms sequentially. A recitation section is required. Please check the Directory of Classes for details and also speak with the TA for the course.",
     "instructor":"Xiaoyang Zhu",
     "scheduled_time_start":"8:40am",
     "scheduled_time_end":"9:55am",
@@ -13517,7 +14796,55 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "CHEM UN1403"
+      ],
+      [
+        "CHEM UN1404",
+        "CHEM UN1604",
+        "CHEM UN2045"
+      ],
+      [
+        "CHEM UN2046"
+      ],
+      [
+        "CHEM UN3079"
+      ],
+      [
+        "CHEM UN3079"
+      ],
+      [
+        "CHEM UN3080"
+      ],
+      [
+        "MATH UN1101"
+      ],
+      [
+        "MATH UN1102",
+        "MATH UN1207"
+      ],
+      [
+        "MATH UN1208"
+      ],
+      [
+        "PHYS UN1201"
+      ],
+      [
+        "PHYS UN1202"
+      ],
+      [
+        "PHYS UN1401"
+      ],
+      [
+        "PHYS UN1401"
+      ],
+      [
+        "PHYS UN1402"
+      ],
+      [
+        "PHYS UN1402",
+        "CHEM UN3085"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20263CHEM3079W001",
@@ -13526,7 +14853,7 @@
   {
     "course_code":"CHEM UN3085",
     "course_title":"PHYSICL-ANALYTICL LABORATORY I",
-    "course_descr":null,
+    "course_descr":"Corequisites: CHEM UN3079 A student-centered experimental course intended for students who are co-registered or have completed CHEM UN3079 and CHEM UN3080. The course emphasizes techniques of experimental physical chemistry and instrumental analysis, including vibrational, electronic, and laser spectroscopy; electroanalytical methods; calorimetry; reaction kinetics; hydrodynamic methods; scanning probe microscopy; applications of computers to reduce experimental data; and computational chemistry. Students must also attend the compulsory Mentoring Session. Please check the Directory of Classes for details.",
     "instructor":"Luis A Avila",
     "scheduled_time_start":"12:00pm",
     "scheduled_time_end":"6:00pm",
@@ -13549,7 +14876,13 @@
     ],
     "points":"4",
     "prerequisites":[
-
+      [
+        "CHEM UN3079",
+        "CHEM UN3079"
+      ],
+      [
+        "CHEM UN3080"
+      ]
     ],
     "scheduled_days":"T",
     "section_key":"20263CHEM3085W001",
@@ -13558,7 +14891,7 @@
   {
     "course_code":"CHEM UN3098",
     "course_title":"SUPERVISED INDEPENDENT RES",
-    "course_descr":null,
+    "course_descr":"Prerequisites: the instructors permission for entrance, and the departmental representatives permission for aggregate points in excess of 12 or less than 4. This course may be repeated for credit (see major and concentration requirements). Individual research under the supervision of a member of the staff. Research areas include organic, physical, inorganic, analytical, and biological chemistry. Please note that CHEM UN3098 is offered in the fall and spring semesters.",
     "instructor":"Vesna Gasperov",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -13579,7 +14912,9 @@
     ],
     "points":"4",
     "prerequisites":[
-
+      [
+        "CHEM UN3098"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20263CHEM3098W001",
@@ -13588,7 +14923,7 @@
   {
     "course_code":"CHEM UN3920",
     "course_title":"SENIOR SEMINAR",
-    "course_descr":null,
+    "course_descr":"Open to senior chemistry, biochemistry, environmental chemistry, and chemical physics majors; senior chemistry concentrators; and students who have taken or are currently enrolled in CHEM UN3098. Senior seminar provides direct access to modern chemical research through selected studies by the students from active fields of chemical research. Topics to be presented and discussed draw from the current scientific literature and\/or UN3098 research.",
     "instructor":"Laura J Kaufman",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -13611,7 +14946,10 @@
     ],
     "points":"2",
     "prerequisites":[
-
+      [
+        "CHEM UN3098",
+        "UN3098"
+      ]
     ],
     "scheduled_days":"F",
     "section_key":"20263CHEM3920W001",
@@ -17908,7 +19246,7 @@
   {
     "course_code":"ECBM E4040",
     "course_title":"NEURAL NETWRKS & DEEP LEARNING",
-    "course_descr":null,
+    "course_descr":"Developing features - internal representations of the world, artificial neural networks, classifying handwritten digits with logistics regression, feedforward deep networks, back propagation in multilayer perceptrons, regularization of deep or distributed models, optimization for training deep models, convolutional neural networks, recurrent and recursive neural networks, deep learning in speech and object recognition.",
     "instructor":"Zoran Kostic",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:40pm",
@@ -19138,6 +20476,31 @@
     "type":"SEMINAR"
   },
   {
+    "course_code":"EEEB GU4065",
+    "course_title":"Tropical Biology",
+    "course_descr":null,
+    "instructor":"Dustin Rubenstein",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11253",
+    "campus":null,
+    "class_id":"W4065-20263-001",
+    "course_subtitle":null,
+    "department":"Ecology, Evolution, and Environmental Biology",
+    "department_code":"EEEB",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/EEEB\/W4065-20263-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263EEEB4065W001",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"EESC BC1001",
     "course_title":"ENVIRONMENTAL SCIENCE I",
     "course_descr":"Prerequisites: Enrollment limited. Students must also sign up for the corresponding lab course, EESC BC1011, to receive credit.\n  \nThis class examines the basic principles of environmental science using current local and global environmental news as case studies. Issues covered are climate change, invasive species, water resources, sustainability, etc. A major goal is for students to understand the science behind environmental issues. Readings from the scientific literature, various newspaper articles, magazines and an online textbook are carefully coordinated with the topics. Because of our location, the lab curriculum features studies of the Hudson River and its forested shorelines. The lab is closely paired with the lecture and features hands-on and inquiry-based lab and field studies of statistics, data presentation, writing in the format of a scientific paper, data collection (on land and on the Hudson River), water chemistry, microbiology, microscopic and macroscopic life in the river, birds and plants in Riverside Park, biodiversity on a green roof, local geology, topographical maps, compass use, and museum studies.\n  \nPlease note:\u00a0 In order to register for EESC BC1001, students must first register for one of the sections of Environmental Science Lab EESC BC1011 . Students must take both lecture and lab.",
@@ -19446,7 +20809,7 @@
     "course_title":"Volcanoes and the Environment",
     "course_descr":"This course seeks to impart students with knowledge of volcanic eruptions on Earth and the effects on the environment as a whole. The course will focus on the physical mechanisms responsible for eruptions, the effects eruptions have on humans and other living organisms, as well as the environment. The course will investigate how eruptions have contributed to global climate change. The course will also look at the positive effects volcanoes have had on Earth, such as providing nutrient rich soils for growing crops and providing renewable geothermal energy--a cleaner energy resource. Format: lecture,\u00a0field trip, data collection and analysis, student presentations.",
     "instructor":"Sedelia Rodriguez",
-    "scheduled_time_start":"4:11pm",
+    "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:25pm",
     "call_number":"00913",
     "campus":null,
@@ -19547,7 +20910,7 @@
   {
     "course_code":"ELEN E1101",
     "course_title":"THE DIGITAL INFORMATION AGE",
-    "course_descr":null,
+    "course_descr":"An introduction to information transmission and storage, including technological issues. Binary numbers; elementary computer logic; digital speech and image coding; basics of compact disks, telephones, modems, faxes, UPC bar codes, and the World Wide Web. Projects include implementing simple digital logic systems and Web pages. Intended primarily for students outside the School of Engineering and Applied Science. The only prerequisite is a working knowledge of elementary algebra.",
     "instructor":"David G Vallancourt",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -19577,7 +20940,7 @@
   {
     "course_code":"ELEN E3081",
     "course_title":"CIRCUIT ANALYSIS LABORATORY",
-    "course_descr":null,
+    "course_descr":"Companion lab course for ELEN E3201. Experiments cover such topics as: use of measurement instruments; HSPICE simulation; basic network theorems; linearization of nonlinear circuits using negative feedback; op-amp circuits; integrators; second order RLC circuits. The lab generally meets on alternate weeks.",
     "instructor":"David G Vallancourt",
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"5:10pm",
@@ -19598,7 +20961,9 @@
     ],
     "points":"1",
     "prerequisites":[
-
+      [
+        "ELEN E3201"
+      ]
     ],
     "scheduled_days":"M",
     "section_key":"20263ELEN3081E001",
@@ -25034,8 +26399,8 @@
     "course_title":"FIRST-YEAR WRITING AT BARNARD",
     "course_descr":"First-Year Writing (FYW) courses invite students into the vibrant scholarly life of the college. Working in small, discussion-based seminar classes over the course of one semester, we read challenging literary texts and critical scholarship, helping students to develop fundamental skills in analysis and academic writing that allow them to take their place in vitally important scholarly conversations. Students may choose from a variety of special topics\u00a0that focus\u00a0on a particular literary tradition, theme, or phenomenon. Please see\u00a0https:\/\/firstyear.barnard.edu\/fyw\/course-listings for full course descriptions.",
     "instructor":"Faculty",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"2:25pm",
     "call_number":"00027",
     "campus":null,
     "class_id":"X1001-20263-022",
@@ -25043,14 +26408,14 @@
     "department":"First-Year Writing @Barnard",
     "department_code":"FYWB",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/FYWB\/X1001-20263-022\/",
-    "location":null,
+    "location":"To be announced",
     "method_of_instruction":null,
     "open_to":null,
     "points":"3",
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"MW",
     "section_key":"20263FYWB1001X022",
     "type":"SEMINAR"
   },
@@ -26544,7 +27909,7 @@
   {
     "course_code":"HIST GR8495",
     "course_title":"BORDERLANDS HISTORY COLLOQUIUM",
-    "course_descr":null,
+    "course_descr":"This course will argue for a broader spatial history of empire by looking at sites such as frontiers and borderlands in a theoretical and comparative perspective. The course will familiarize students to\u00a0 \u201cfrontier thesis\u201d to the \u201cspatial turn\u201d and to the emergence of \u201cBorderland Studies\u201d before embarking on specific monographs highlighting borderlands scholarship in a global context. Formulations of power, race, gender, and class will be central to our comparative units of historical analysis and allow us to create conversations across area-studies boundaries within the discipline.",
     "instructor":null,
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -26569,7 +27934,7 @@
   {
     "course_code":"HIST GR8757",
     "course_title":"METHODS IN MIDDLE EAST HISTORY",
-    "course_descr":null,
+    "course_descr":"This graduate seminar will examine key themes and methods in Middle East History. It is intended to provide graduate training for advanced students who plan to pursue a dissertation topic on or related to Middle East history. Please contact the professor first if you wish to apply for this course.",
     "instructor":"Marwa Elshakry",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -26619,7 +27984,7 @@
   {
     "course_code":"HIST GR8930",
     "course_title":"APPROACHES TO INTL\/GLOBAL HIST",
-    "course_descr":null,
+    "course_descr":"How do international and global perspectives shape and conceptualization, research, and writing of history? Topics include approaches to comparative history and transnational processes, the relationship of local, regional, national, and global scales of analysis, and the problem of periodization when considered on a world scale.",
     "instructor":"Mark Mazower",
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"2:00pm",
@@ -26644,7 +28009,7 @@
   {
     "course_code":"HIST GU4218",
     "course_title":"THE BLACK SEA IN HISTORY",
-    "course_descr":null,
+    "course_descr":"We are used to thinking of history in national terms, or at least in reference to major civilizations (\u201cWestern civilization,\u201d \u201cNear Eastern civilization,\u201d etc.). In \u201creal life,\u201d however, interactions among people, linguistic communities, and cultures frequently cut across political divisions. Water - rivers, streams, seas - is often an invitation to settlement, commerce, and conquest. This course offers a look (inspired in part by Fernand Braudel's Mediterranean) at a body of water - the Black Sea - and the lands around it, in sweeping historical perspective. Focus is on those moments when the various civilizations and empires that originated and flourished around the Black Sea met and intersected in friendship or in enmity. We will look at ancient civilizations, Greek colonization, Byzantine-Slav interactions, the period of Ottoman dominance, Russian-Turkish rivalry, and decolonization and wars in the 19th and 20th centuries. We hope that we will be able to pay particular attention to questions of ecology, language, religion, and cultural interaction throughout.",
     "instructor":"Catherine Evtuhov",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -26669,7 +28034,7 @@
   {
     "course_code":"HIST GU4281",
     "course_title":"CULTURE IN POLISH LANDS",
-    "course_descr":null,
+    "course_descr":"Few places in the world have witnessed the shift from a multiethnic territory to a nationally homogeneous nation-state as profoundly as the Polish lands. A crucial site of the collapse of Central and Eastern European empires, the Holocaust, ethnic cleansings, Nazi occupation, Soviet-style socialism, and accession to the European Union, Poland\u2019s twentieth-century and contemporary culture has developed in the shadow of catastrophe and political and economic revolutions.\n  \nThis seminar investigates shifting meanings of cultural difference and sameness from 1918 to the present, including Polish debates on multiculturalism spurred by the ongoing European refugee crisis. We will examine meanings attached to people, things, and landscapes - Polish, Jewish, Ukrainian, German, Nazi or Soviet - through the lens of visual arts, everyday objects, scholarly discourses, and urban and rural topographies. While we will pay special attention to the historiography of twentieth-century Eastern Europe, the course relies on interdisciplinary approaches and welcomes students interested in the history of art and architecture, literature, social history, anthropology, cultural studies, and critical museology.",
     "instructor":"Malgorzata Mazurek",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -26694,7 +28059,7 @@
   {
     "course_code":"HIST GU4363",
     "course_title":"Pascal and the Modern Self",
-    "course_descr":null,
+    "course_descr":"This seminar will focus particularly on Pascal\u2019s \nhumanistic\n case for religious faith as a response to Montaigne\u2019s skeptical portrayal of the self.\u00a0 The aim is to understand all the implications of this encounter for the history of Western thought about human psychology, religion, and politics.",
     "instructor":"Mark Lilla",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -26719,7 +28084,7 @@
   {
     "course_code":"HIST GU4389",
     "course_title":"Stalinism",
-    "course_descr":null,
+    "course_descr":"The quarter century during which Joseph Stalin ruled the Soviet Union witnessed some of the twentieth century's most dramatic events: history's fastest plunge into modernity, an apocalyptic world war, and the emergence of a socialist state as a competitive world power. This tutorial will offer students a deep dive not only into the historical depths of the Stalin era but into the gloriously complex historiographical debates that surround it. Some of the questions that will animate the readings, writings, and discussions that students will engage in are as follows: Did Stalin depart from or represent a continuation of the policies introduced by his predecessor Vladimir Lenin? Did he rule in a totalitarian fashion or in ways comparable to other twentieth century regimes? Were his policies destructive or possibly productive? And perhaps most boggling of all: why did no one resist Stalinist rule?",
     "instructor":"Yana Skorobogatov",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -26744,7 +28109,7 @@
   {
     "course_code":"HIST GU4527",
     "course_title":"Topics in U.S. Foreign Relations History",
-    "course_descr":null,
+    "course_descr":"This course will explore various topics in the History of U.S. foreign relations. Drawing on a wide range of scholarly writings, we will explore the history of the United States and the world with an eye toward the impact of American power on foreign peoples. Students will also use the semester to design, research, and write a substantial essay that draws on both primary and secondary sources on a topic chosen in consultation with the professor.",
     "instructor":"Paul T Chamberlin",
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"2:00pm",
@@ -26819,7 +28184,7 @@
   {
     "course_code":"HIST GU4693",
     "course_title":"WRITERS ON HISTORY: THOMAS MANN",
-    "course_descr":null,
+    "course_descr":"This seminar is devoted to examining the work of writers who address the nature and course of history in their imaginative and non-fiction work. This semester we will be exploring the work of Thomas Mann in the context of the First and Second World Wars. This will include his relation to the German \u201cconservative revolution,\u201d the Weimar political experience, and the United States, where he spent several years in exile. We will pay particular attention to his conceptions of modern history as expressed in his novels.",
     "instructor":"Mark Lilla",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -26844,7 +28209,7 @@
   {
     "course_code":"HIST GU4709",
     "course_title":"Race and Enslavement in the Middle East",
-    "course_descr":null,
+    "course_descr":"This research seminar explores the nexus between race and enslavement in the Middle East and broader Indian Ocean world. This course will re-envision the contours of the Middle East as part of a larger geography that extends beyond Southwest Asia and North Africa, highlighting its deep ties to what is often called \u201cBlack Africa.\u201d It also looks at Blackness within the Middle East and examines its long history of belonging, exchange, and migration. It investigates the kinds of knowledge production required to erase these ties and connections, and to produce a vaguely \u201cbrown\u201d racial sphere that both homogenizes the Middle East and removes any references to Blackness from its history and societies. Throughout the course, we will probe the memories and legacies of enslavement across the Middle East and Indian Ocean world. How has enslavement and the lives of those enslaved\n \nbeen remembered, defined, written about, and narrated in both academic and non-academic texts? What were the factors that enabled remembering or forgetting these pasts and the people\u2019s lives they controlled? And how do these narratives relate to the questions of race? This course considers narratives and their afterlives from throughout North Africa, the Nile Valley, West Asia, and South Asia.",
     "instructor":"Beeta Baghoolizadeh",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -26869,7 +28234,7 @@
   {
     "course_code":"HIST GU4713",
     "course_title":"ORIENTALISM\/HIST OF OTHER",
-    "course_descr":null,
+    "course_descr":"This course will examine some of the problems inherent in Western historical writing on non-European cultures, as well as broad questions of what itmeans to write history across cultures. The course will touch on therelationship between knowledge and power, given that much of the knowledge we will be considering was produced at a time of the expansion of Western power over the rest of the world. By comparing some of the others which European historians constructed in the different non-western societies they depicted, and the ways other societies dealt with alterity and self, we may be able to derive a better sense of how the Western sense of self was constructed. Group(s): C Field(s): ME",
     "instructor":"Marwa Elshakry",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -27094,7 +28459,7 @@
   {
     "course_code":"HIST UN2310",
     "course_title":"European Intellectual History",
-    "course_descr":null,
+    "course_descr":"This course provides an introduction to some of the major landmarks in European cultural and intellectual history, from the aftermath of the French Revolution to the 1970s. We will pay special attention to the relationship between texts (literature, anthropology, political theory, psychoanalysis, art, and film) and the various contexts in which they were produced. Among other themes, we will discuss the cultural impact of the Enlightenment, the French Revolution, industrialism, colonialism, modernism, the Russian Revolution, the two world wars, decolonization, feminism and gay liberation movements, structuralism and poststructuralism. In conjunction, we will examine how modern ideologies (liberalism, conservatism, Marxism, imperialism, fascism, totalitarianism, neoliberalism) were developed and challenged over the course of the last two centuries. Participation in weekly discussion sections staffed by TAs is mandatory. The discussion sections are 50 minutes per session. Students must register for the general discussion (\u201cDISC\u201d) section, and will be assigned to a specific time and TA instructor once the course begins.",
     "instructor":"Camille A Robcis",
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:55pm",
@@ -27119,7 +28484,7 @@
   {
     "course_code":"HIST UN2311",
     "course_title":"DISC - European Intellectual History",
-    "course_descr":null,
+    "course_descr":"Required Discussion Section for HIST 2310 European Intellectual History. Students must first register for HIST 2310.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -27144,7 +28509,7 @@
   {
     "course_code":"HIST UN2347",
     "course_title":"Conquests and Transformations: Ireland s",
-    "course_descr":null,
+    "course_descr":"We are often led to believe that Ireland is a place defined by timeless tradition: ancient songs and stories, a rural way of life, persistent and mysterious religious antagonisms. The real history of modern Ireland, however, is defined by dramatic and restless change: political, social, economic, even environmental. This lecture course will introduce you to the broad sweep of modern Irish history, acquainting you with a rich historical literature and striking primary sources covering everything from the contentious and deadly politics of potato-farming to the secret lives of combatants in the Northern Ireland Troubles. It will view Ireland not as a place out of time but as somewhere from which we can gain a unique perspective on some of the historical forces that have shaped our world: empire, capitalism, religion, migration, and nationalism.",
     "instructor":"James Stafford",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -27169,7 +28534,7 @@
   {
     "course_code":"HIST UN2348",
     "course_title":"Conquests and Transformations: Ireland s",
-    "course_descr":null,
+    "course_descr":"Required zero-point\/ungraded discussion section for \u201cConquests and Transformations: Ireland since 1500\u201d lecture (HIST 2347)",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -27296,7 +28661,7 @@
   {
     "course_code":"HIST UN2701",
     "course_title":"THE OTTOMAN EMPIRE",
-    "course_descr":null,
+    "course_descr":"This course will cover the seven-century long history of the Ottoman Empire, which spanned Europe, Asia, and Africa as well as the medieval, early modern, and modern period. The many levels of continuity and change will be the focus, as will issues of identities and mentalities, confessional diversity, cultural and linguistic pluralism, and imperial governance and political belonging of the empire within larger regional and global perspectives over the centuries. The course also seeks to cultivate appreciation of the human experience through the multifarious experiences culled from the Ottoman past.",
     "instructor":"Tunc Sen",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:25pm",
@@ -27321,7 +28686,7 @@
   {
     "course_code":"HIST UN2702",
     "course_title":"THE OTTOMAN EMPIRE-DISCUSSION",
-    "course_descr":null,
+    "course_descr":"MANDATORY Discussion Section for HIST UN 2701 Ottoman Empire. Students must also be registered for HIST UN 2701.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -27346,7 +28711,7 @@
   {
     "course_code":"HIST UN2953",
     "course_title":"WAR & SOCIETY SINCE 1945",
-    "course_descr":null,
+    "course_descr":"This course surveys the second half of the most violent century in human history. It examines the intersection of war and human society in the years after 1945 by focusing on two monumental and intertwined historical processes: Decolonization and the Cold War. While the conflict between the United States and the Soviet Union would fail to produce any general wars between two belligerents, this superpower rivalry would help to make the global process of decolonization in the developing a particularly violent affair.",
     "instructor":"Paul T Chamberlin",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -27496,7 +28861,7 @@
   {
     "course_code":"HIST UN3836",
     "course_title":"Law and Society in Colonial India",
-    "course_descr":null,
+    "course_descr":"This course explores the relationship between law and society in colonial India. It features cases relating to marriage and divorce, property and inheritance, sedition and criminal conspiracy woven through the lives of ordinary people in nineteenth and twentieth century India. Through a range of materials, we will explore how British colonial officials reformulated what \u201claw\u201d was and how it was to be interpreted. We will also explore how these interpretations were understood and challenged. We will encounter judges, lawyers, and notaries that mediated the relationship between law and society, courts, and litigants, while catching a fascinating glimpse of what arguments, evidence, and sentencing looked like in these courts. As we go through our readings and attend classes, we might ask: how does this perspective from India shape our understanding of the relationship between law and colonialism, and what are its contemporary implications?",
     "instructor":"Kalyani Ramnath",
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"2:00pm",
@@ -27521,7 +28886,7 @@
   {
     "course_code":"HIST UN3838",
     "course_title":"SENIOR THESIS SEMINAR",
-    "course_descr":null,
+    "course_descr":"A year-long course for outstanding senior majors who want to conduct research in primary sources on a topic of their choice in any aspect of history, and to write a senior thesis possibly leading toward departmental honors.\n  \nApproved application through the History Department is required to join this seminar.",
     "instructor":"Tunc Sen",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -27546,7 +28911,7 @@
   {
     "course_code":"HIST UN3838",
     "course_title":"SENIOR THESIS SEMINAR",
-    "course_descr":null,
+    "course_descr":"A year-long course for outstanding senior majors who want to conduct research in primary sources on a topic of their choice in any aspect of history, and to write a senior thesis possibly leading toward departmental honors.\n  \nApproved application through the History Department is required to join this seminar.",
     "instructor":"James Stafford",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -27571,7 +28936,7 @@
   {
     "course_code":"HIST UN3838",
     "course_title":"SENIOR THESIS SEMINAR",
-    "course_descr":null,
+    "course_descr":"A year-long course for outstanding senior majors who want to conduct research in primary sources on a topic of their choice in any aspect of history, and to write a senior thesis possibly leading toward departmental honors.\n  \nApproved application through the History Department is required to join this seminar.",
     "instructor":"Michael F Stanislawski",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -27932,6 +29297,31 @@
     "type":"SEMINAR"
   },
   {
+    "course_code":"HRTS GU4965",
+    "course_title":"Gender-Based Violence & Human Rights",
+    "course_descr":null,
+    "instructor":"Julie Rajan",
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"11252",
+    "campus":null,
+    "class_id":"W4965-20263-001",
+    "course_subtitle":"GENDER-BASED VIOL & HUM R",
+    "department":"Institute for Study of Human Rights",
+    "department_code":"HRTS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HRTS\/W4965-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20263HRTS4965W001",
+    "type":"SEMINAR"
+  },
+  {
     "course_code":"HRTS GU4970",
     "course_title":"Refugees, Citizenship, Migration",
     "course_descr":"This interdisciplinary course grapples with nation-states and cities at its margins, exploring the exclusions, oppositions, silences and, in particular, the 'Others' or 'in-betweens' of the nation-state as an organizing tool. \u2018Illegal migrants\u2019, \u2018refugees\u2019, \u2018asylum seekers\u2019, \u2018exiles\u2019, \u2018nomads\u2019, \u2018aliens\u2019, and other \u2018Others\u2019: these are all in-between figures, exceptions to a political order defined by membership in the city, borders, sovereignty and nation-states. In their very existence, they represent a challenge to this political order, as social and political theorists have long recognized. This seminar explores the dynamics, contradictions and politics surrounding nation-states and their Others with particular attention to the responses to them on the part of ostensibly liberal-democratic states. We examine the relationship between citizenship, statelessness, refugee-hood and migration as exceptions to a political order defined by membership in the city, borders, sovereignty and nation-states. Students will engage with film, fiction, visual animations and displacement maps to examine key theoretical and critical interventions by scholars who examine nation-states and cities at their margins. To this end, participants will examine key theoretical interventions by Hannah Arendt, Michel Foucault, Jacques Derrida, and Giorgio Agamben alongside scholars who have grappled with, contested, and developed their ideas, such as \u00c9tienne Balibar, Didier Bigo, Jacques Ranci\u00e8re, and Seyla Benhabib. With these texts, the participants will attempt to explore non-national or post-national alternatives to the nation-state and citizenship as a tool for planning and organization of people and space.\n  \nTaken together, this course provides an alternative to conventional scholarship on this subject. It engages with and provides an alternative to the mainstream literature to take for granted the inclusive and integrative character of nation-states and its respective memberships in the form of refugees, citizens and migrants. \nAt first glance, the course may appear highly theoretical, but not to worry\u2014we will move slowly through the texts and concepts together. The instructor will also ensure that we apply the ideas discussed in class to concrete and tangible case studies with examples given to enable easier access and collective learning.",
@@ -28123,7 +29513,7 @@
   {
     "course_code":"HSME UN2810",
     "course_title":"HISTORY OF SOUTH ASIA I",
-    "course_descr":null,
+    "course_descr":"This survey lecture course will provide students with a broad overview of the history of South Asia as a region - focusing on key political, cultural and social developments over more than two millennia. The readings include both primary sources (in translation) and secondary works. Our key concerns will be the political, cultural and theological encounters of varied communities, the growth of cities and urban spaces, networks of trade and migrations and the development of both local and cosmopolitan cultures across Southern Asia. The survey will begin with early dynasties of the classical period and then turn to the subsequent formation of various Perso-Turkic polities, including the development and growth of hybrid political cultures such as those of Vijayanagar and the Mughals. The course also touches on Indic spiritual and literary traditions such as Sufi and Bhakti movements. Near the end of our course, we will look forward towards the establishment of European trading companies and accompanying colonial powers.",
     "instructor":"Manan Ahmed",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -28148,7 +29538,7 @@
   {
     "course_code":"HSME UN2812",
     "course_title":"HIST OF SOUTH ASIA I-DISC",
-    "course_descr":null,
+    "course_descr":"MANDATORY Discussion Section for HSME 2811 South Asia: Empire and Aftermath. Students must also be registered for HSME 2811.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -30579,8 +31969,8 @@
     "course_title":"SUPERVISED IND RES-LING THESIS",
     "course_descr":null,
     "instructor":null,
-    "scheduled_time_start":"11:03am",
-    "scheduled_time_end":"1:00pm",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"6:00pm",
     "call_number":"10588",
     "campus":null,
     "class_id":"W3993-20263-001",
@@ -30595,7 +31985,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":"F",
+    "scheduled_days":"W",
     "section_key":"20263LING3993W001",
     "type":"INDEPENDENT"
   },
@@ -34944,7 +36334,7 @@
   {
     "course_code":"MRST GR5500",
     "course_title":"Introduction to Medieval Manuscript Stud",
-    "course_descr":null,
+    "course_descr":"This team-taught course introduces methods for studying medieval manuscripts through weekly hands-on instruction and assignments. Students will become acquainted with the collections of medieval manuscripts at Columbia, and will learn from the scholars at Columbia who specialize in the material study of manuscripts as artifacts as well as in types of manuscripts as defined by their textual contents. The course provides a foundation for advanced work and satisfies the material text requirement of the MA in Medieval and Renaissance Studies.",
     "instructor":"Emily Runde",
     "scheduled_time_start":"10:00am",
     "scheduled_time_end":"1:00pm",
@@ -41874,6 +43264,31 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"POLS BC3021",
+    "course_title":"AFRICAN AMERICAN POLITICAL THOUGHT",
+    "course_descr":null,
+    "instructor":"Jonathan J Keller",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"00960",
+    "campus":null,
+    "class_id":"X3021-20263-001",
+    "course_subtitle":"AFRICAN AMERICAN POL THOU",
+    "department":"Political Science @Barnard",
+    "department_code":"POLS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/POLS\/X3021-20263-001\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263POLS3021X001",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"POLS BC3025",
     "course_title":"AMERICAN POLITICAL PARTIES",
     "course_descr":"Political parties have evoked widespread scorn in the U.S. since the founding era; and yet, they arose almost immediately and have endured for over two centuries. In this course, we will examine why parties formed despite the Founders\u2019 disdain for them. (In 1789, Thomas Jefferson wrote, \u201cIf I could not go to heaven but with a party, I would not go at all.\u201d In 1800, he won the presidency as a candidate of a major party.) We will dig into scholarly debates about what exactly parties are, what purpose they serve, and how and why they have changed over time as organizations, in the electorate, and in government. Topics will include the presidential nomination process from the founding through the much-discussed 2016 primary election season, the life cycle of third parties, and the relationship between political parties and interest groups. Students will learn what is and is not unique about the current historical moment, and how history might shape our expectations of parties moving forward. Throughout the course, we will pay particularly close attention to the roots of contemporary party polarization, and the implications of this phenomenon for representation and governance. In 1950, the American Political Science Association released a report criticizing the two major parties for excessive similarity; today, party polarization evokes widespread concern. Is there an ideal level of party difference? How much is too much? We will address these difficult questions, among others, in this broad survey of American political parties.",
@@ -42131,7 +43546,7 @@
   {
     "course_code":"POLS BC3540",
     "course_title":"COLL: CONSTRUCTING AND DECONSTRUCTING ST",
-    "course_descr":"The course examines the development of states and nations from both historical and comparative perspectives.\u00a0 It asks why states replaced other forms of political organization (empires, feudalism, warlordism) and why national identities came to replace or dominate other types of identities (religious, ethnic, local) at some times and in some places, but not others.\u00a0 It explicitly compares the processes of state and nation-building in the past and the contemporary period, drawing on cases from various parts of the world.\u00a0 The course also considers factors that may be undermining states and nations today.",
+    "course_descr":"Why do some countries develop well-functioning states capable of providing security and public services to their citizens while others do not? Why do some develop a strong sense of national identity and unity, while others are plagued by ethnic and communal divisions? How do the structure and strength of the state shape the development of national and other identities, and how do those identities in turn shape the state? This course examines these and related questions from historical and comparative perspectives, drawing on cases from different world regions in both the past and the present.",
     "instructor":"Sheri Berman",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -44366,8 +45781,8 @@
     "course_title":"Research Seminar in Psychology",
     "course_descr":"Monday seminars are open to the public and take place in Schermerhorn Hall on alternate Mondays in room 200B Schermerhorn from 12:10-1:30pm. The seminar series semester schedule can be found \nhere\n.",
     "instructor":"Jon B Freeman",
-    "scheduled_time_start":"12:10pm",
-    "scheduled_time_end":"2:00pm",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"5:25pm",
     "call_number":"10652",
     "campus":null,
     "class_id":"G9998-20263-001",
@@ -44394,7 +45809,7 @@
     "course_descr":"Members of the staff, graduate students, and outside speakers present current research.",
     "instructor":"Jon B Freeman",
     "scheduled_time_start":"4:10pm",
-    "scheduled_time_end":"6:00pm",
+    "scheduled_time_end":"5:25pm",
     "call_number":"10653",
     "campus":null,
     "class_id":"G9999-20263-001",
@@ -45620,6 +47035,38 @@
     ],
     "scheduled_days":"R",
     "section_key":"20263PSYC3450W001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"PSYC UN3495",
+    "course_title":"Gene-Environment Interactions & Epigenet",
+    "course_descr":"The aim of this course is to examine the biological bases of individual differences in behavior. We will start by examining how individual differences in behavior and health are shaped by gene-environment interactions. We will complement these studies with the endophenotype approach and discuss its role in our contemporary views of complex disorders. We will then introduce behavioral epigenetics studies that are suggested to mediate the effects of gene-environment interactions at different levels of analysis. We will continue by discussing how these topics shape and are shaped by developmental programming. We will end the semester by discussing the major debates around these topics as well as their implications in real life and public policies. By covering these topics, students are expected to gain a better understanding of how our behavior is i) formed and shaped by gene-environment interactions over time, ii) influenced by the underlying physiological and epigenetic mechanisms, and iii) changed by developmental processes. With this information, the students are expected to view individual differences in behavior in a perspective that is highly interdisciplinary and dynamic.",
+    "instructor":"Elif A Duman",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"12:00pm",
+    "call_number":"10698",
+    "campus":null,
+    "class_id":"W3495-20263-001",
+    "course_subtitle":"Gene-Env Interaction & Ep",
+    "department":"Psychology",
+    "department_code":"PSYC",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PSYC\/W3495-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "General Studies",
+      "Global Programs",
+      "Professional Studies",
+      "Schools of the Arts"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20263PSYC3495W001",
     "type":"SEMINAR"
   },
   {
@@ -49283,7 +50730,7 @@
   {
     "course_code":"SOCI GR5051",
     "course_title":"SOCIOLOGICAL THEORY",
-    "course_descr":null,
+    "course_descr":"This course emphasizes the perspectives of foundational thinkers on the evolution and dynamics of social life. Readings address key sociological questions; including the configuration of communities, social control, institutions, exchange, interaction, and culture.",
     "instructor":"Peter Bearman",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -49310,7 +50757,7 @@
   {
     "course_code":"SOCI GR5062",
     "course_title":"PROSEMINAR I",
-    "course_descr":null,
+    "course_descr":"The Proseminar fulfills two separate goals within the Free-Standing Masters Program in Sociology. The first is to provide exposure, training, and support specific to the needs of Masters students preparing to move on to further graduate training or the job market. The second goal is to provide a forum for scholars and others working in qualitative reserach, public sociology, and the urban environment.",
     "instructor":null,
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -49337,7 +50784,7 @@
   {
     "course_code":"SOCI GR5064",
     "course_title":"FIELD WORK I",
-    "course_descr":null,
+    "course_descr":"This two-semester sequence supports students through the process of finding a fieldwork site, beginning the field work required to plan for and develop a Masters thesis, and the completion of their Masters thesis.",
     "instructor":null,
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -49364,7 +50811,7 @@
   {
     "course_code":"SOCI GR5066",
     "course_title":"THESIS SEMINAR I",
-    "course_descr":null,
+    "course_descr":"This seminar gives you an opportunity to do original sociological research with the support of a faculty member, a teaching assistant, and your fellow classmates.",
     "instructor":"Adam Reich",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -49391,7 +50838,7 @@
   {
     "course_code":"SOCI GR5066",
     "course_title":"THESIS SEMINAR I",
-    "course_descr":null,
+    "course_descr":"This seminar gives you an opportunity to do original sociological research with the support of a faculty member, a teaching assistant, and your fellow classmates.",
     "instructor":null,
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -49416,7 +50863,7 @@
   {
     "course_code":"SOCI GR6000",
     "course_title":"Intro Social Data Analysis I",
-    "course_descr":null,
+    "course_descr":"Basic techniques for analyzing quantitative social science data. Emphasis on conceptual understanding as well as practical mastery of probability and probability distributions, inference, hypotheses testing, analysis of variance, simple regression, and multiple regression.",
     "instructor":"Yao Lu",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -49443,7 +50890,7 @@
   {
     "course_code":"SOCI GR6049",
     "course_title":"Historical Approaches in the Social Scie",
-    "course_descr":null,
+    "course_descr":"This course introduces students to historical approaches in sociology and political science (and some economics). In the first part, the course surveys the major theoretical approaches and methodological traditions. Examples of the former are classic comparativist work (e.g. Skocpol\u2019s study of revolutions), historist approaches (such as Sewell\u2019s), or the historical institutionalist tradition (Mahoney, Thelen, Wimmer, etc.). In terms of methodological approaches, we will discuss classical Millean small-N comparisons, Qualitative Comparative Analysis, process tracing, actor-centered modeling, quantitative, large-N works, and causal inference type of research designs. In the second part, major topics in macro-comparative social sciences are examined, from world systems and empire to the origins of democracy.",
     "instructor":"Andreas Wimmer",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -49470,7 +50917,7 @@
   {
     "course_code":"SOCI GR6051",
     "course_title":"SOCIOLOGICAL THEORY: THE ORIGINS",
-    "course_descr":null,
+    "course_descr":"Prerequisites: this course is intended for sociology Ph.D. and SMS students. No others without the instructors written permission. Foundational sources and issues in sociological theory: Adam Smith, Marx, Durkheim, Weber, Simmel, Mead, Mauss, others; division of labor, individualism, exchange, class and its vicissitudes, social control, ideas and interests, contending criteria of explanation and interpretation.",
     "instructor":"Gil Eyal",
     "scheduled_time_start":"9:00am",
     "scheduled_time_end":"12:00pm",
@@ -49497,7 +50944,7 @@
   {
     "course_code":"SOCI GR6097",
     "course_title":"DESIGNS OF SOCIAL RESEARCH",
-    "course_descr":null,
+    "course_descr":"Required of all incoming sociology doctoral students. Prepares students who have already completed an undergraduate major or its equivalent in some social science to evaluate and undertake both systematic descriptions and sound explanations of social structures and processes.",
     "instructor":"Peter Bearman",
     "scheduled_time_start":"9:00am",
     "scheduled_time_end":"12:00pm",
@@ -49524,7 +50971,7 @@
   {
     "course_code":"SOCI GR6103",
     "course_title":"MPHIL THESIS WRITING SEMINAR II",
-    "course_descr":null,
+    "course_descr":"This seminar is PART 2 for second and third year students who are writing their MPhil thesis. It will assume the form of a yearlong seminar during which students design, research, and write up their MPhil projects. These projects can be based on any kind of sociological method, quantitative or qualitative. The thesis will assume the form of an article that can be submitted to a social science journal. The seminar will help you to find an interesting question, a way to answer it, and a mode of communicating this to fellow sociologists in a way that they might find worth paying attention to. The summer break between the two semesters will allow students who don\u2019t come to the first semester with ready-to-analyze data to gather such data (through ethnographic work, archival research, scraping the internet, combining existing survey data, etc.).",
     "instructor":"Barbara J Kiviat",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -49551,7 +50998,7 @@
   {
     "course_code":"SOCI GR6161",
     "course_title":"Dynamics of the Israeli-Palestinian Conf",
-    "course_descr":null,
+    "course_descr":"The seminar will explore the Israeli-Palestinian (and Israeli-Arab) conflict from the beginning of the 20th century\u00a0 until today. The first part of the seminar will focus on the historical background informing the conflict and leading\u00a0 to the Palestinian refugee problem and the establishment of a Jewish, but not Palestinian, state in 1948. The\u00a0 second part of the seminar focuses on Palestinian-Arab citizens in Israel, Israel\u2019s occupation of the West Bank and\u00a0 Gaza, the settlement project, and possible political solutions, as well as the USA's role and its impact on the\u00a0 conflict, the occupation, and the current Gaza war.",
     "instructor":"Yinon Cohen",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -49576,7 +51023,7 @@
   {
     "course_code":"SOCI GR6224",
     "course_title":"Longitudinal Data Analysis & Causal Infe",
-    "course_descr":null,
+    "course_descr":"Panel data or longitudinal data consist of multiple measures over time on a sample of individuals. These types of data occur extensively in both observational and experimental studies in social, behavioral, and health sciences. This course will provide an introduction to the principles and methods for the analysis of panel data. Whereas some supporting statistical theory will be given, emphasis will be on data analysis and interpretation of models for longitudinal data. Problems will be motivated by applications primarily in social sciences.",
     "instructor":"Xi Song",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -49601,7 +51048,7 @@
   {
     "course_code":"SOCI GU4043",
     "course_title":"WORKSHP ON WEALTH & INEQUALITY",
-    "course_descr":null,
+    "course_descr":"Participants may elect to enroll in the 1-credit\u00a0CWI independent study offered through the Sociology Department. CWI takes place Thursdays from 2-4pm in Knox Hall, room 509. The course ID for Fall 2025 is SOCI4043GU.\n  \nThe Center for Wealth and Inequality (CWI), in this course, is a forum for students interested in social science topics broadly related to inequality. In particular, it will provide an opportunity for students to read and discuss the works presented in the weekly\u00a0CWI\u00a0seminar\u00a0series, while also sharing and refining their own works in progress.\u00a0 The\u00a0CWI\u00a0seminar\u00a0series is sponsored by Columbia University\u2019s Institute for Social and Economic Research Policy (ISERP) and is devoted to the investigation of social and economic inequality. \u00a0The\u00a0seminar\u00a0invites speakers from both within and outside of Columbia to present recent papers covering a wide range of topics pertaining to inequality, such as poverty, labor market behavior, education, and the family. \u00a0The research topics and methodologies are at the cutting edge of the interdisciplinary study of wealth and inequality, as the\u00a0CWI\u00a0seminar\u00a0invites speakers from multiple social science disciplines and fields. Past speakers include Annette Lareau, Adam Gamoran, Timothy Smeeding, Lisa Kahn, Mario Small, Rob Warren and Florencia Torche, among numerous others.\n  \nThe primary preparation for these gatherings is to read the papers slated for presentation, whether written by an outside speaker or a student within the course. Students will meet to constructively critique these papers collectively, raising key questions and concepts for discussion and debate. \u00a0One student will serve as the discussion leader each week by kicking off the dialogue. \u00a0This student also will have the opportunity to prepare a review of the paper, if desired. \u00a0When discussing\u00a0CWI\u00a0seminar\u00a0papers, the product of each meeting will be a shortlist of pertinent questions for the visiting speaker, which participants will be encouraged to ask during the Q&A following each\u00a0seminar. When focusing on student papers, participants will provide detailed comments geared towards supporting further development of our peers\u2019 work. We regularly will be joined by the\u00a0CWI\u00a0presenters.\n  \nThe spirit behind the student independent study is one of collective student growth and learning through semi-structured discussion. \u00a0While the course will pose a relatively",
     "instructor":null,
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -49617,7 +51064,9 @@
     "open_to":null,
     "points":"1",
     "prerequisites":[
-
+      [
+        "CI4043"
+      ]
     ],
     "scheduled_days":"R",
     "section_key":"20263SOCI4043G001",
@@ -49626,7 +51075,7 @@
   {
     "course_code":"SOCI GU4984",
     "course_title":"Queer Theory \n",
-    "course_descr":null,
+    "course_descr":"This course surveys the relationship between sociology as a discipline and the body of thought, action and critique that coheres under the term queer theory. Many people understand these two projects to be constitutionally at odds. Sociology as a discipline concerns itself with the empirical study of, as Norbert Elias wrote, \u201cthe problem of human societies.\u201d How we do this is distinct. Sociologists have a defined set of technical skills that make use of social categories and classifications. We organize individuals by behavior and identity, document diverse cultural milieus, and even attempt to quantify the demographic details of sexual identities, practices and communities. Queer theory, on the other hand, emerged as a field of academic thought in the early 1990\u2019s, at the apex of the HIV\/AIDS epidemic. The urgency of the political moment demanded new analytical tools for thinking about gender, sexuality, medicine and bodies. Queer theorists took to task the restrictive categories of gender and sexual life that relegated gay men and lesbians to sociological studies of \u201cdeviant\u201d people and practices, in favor of rich and pointed critiques of the organization of culture, institutions and politics that renders some people and practices deviant in the first place. Queer theorists document their suspicion of methods, of categories, and of knowledge practices themselves. Social science is often the target of such critiques.\n  \n\u00a0\n  \nSo, is there actually a way to do something we might call queer sociology? Or is it, fundamentally, an oxymoron? As what we think of as data becomes \u201cbigger\u201d and ever more categorically precise, what use has sociology for queer theory? How can a body of thought that operates from an anti-categorical impulse inform empirical work that seeks, at least in some part, to identify and observe particular types of people and particular forms of social life? In this course, we will read a set of foundational texts in the queer theoretical tradition alongside sociology that makes use of queer phenomena, frameworks and world-making projects. Expect to cover topics like ephemera, ghosts, messy affect, political lesbianism, perversion and a variety of other things you don\u2019t typically see on a sociology syllabus. Each week, we will survey a select set of orienting ideas from queer theory\u2013the heterosexual matrix, heteronormativity, antidisciplinarity, and homonormativity\u2013and examine the ways in which sociologists of sexuality aim",
     "instructor":"Tey Meadow",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -49676,7 +51125,7 @@
   {
     "course_code":"SOCI UN1203",
     "course_title":"The Social Animal in the Digital Age",
-    "course_descr":null,
+    "course_descr":"This course re-examines central theories and perspectives in the social sciences from the standpoint of digital technologies. Who are we in the digital age? Is the guiding question for the course. We consider the impact of modern technology on society including, forms of interaction and communication, possibilities for problem solving, and re-configurations of social relationships and forms of authority. The course integrates traditional social science readings with contemporary perspectives emerging from scholars who looking at modern social life. The course is an introductory Sociology offering.",
     "instructor":"Sudhir A Venkatesh",
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:55pm",
@@ -49726,7 +51175,7 @@
   {
     "course_code":"SOCI UN3000",
     "course_title":"SOCIAL THEORY",
-    "course_descr":null,
+    "course_descr":"Prerequisites: Sophomore standing. Required for all sociology majors. Prerequisite: at least one sociology course of the instructor's permission. Theoretical accounts of the rise and transformations of modern society in the19th and 20th centuries. Theories studied include those of Adam Smith, Tocqueville, Marx, Durkheim, Max Weber, Roberto Michels. Selected topics: individual, society, and polity; economy, class, and status: organization and ideology; religion and society; moral and instrumental action.",
     "instructor":"Andreas Wimmer",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -49853,7 +51302,7 @@
   {
     "course_code":"SOCI UN3285",
     "course_title":"ISRAELI SOC & ISR-PLS CONFLICT",
-    "course_descr":null,
+    "course_descr":"The purpose of the course is to acquaint students with Israeli society through the lens of the Israeli- Palestinian conflict. The underlying assumption in this course is that much of the social, economic, political, and cultural processes in contemporary Israel have been shaped by the 100-year Israeli- Arab\/Palestinian conflict.",
     "instructor":"Yinon Cohen",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:25pm",
@@ -49903,7 +51352,7 @@
   {
     "course_code":"SOCI UN3644",
     "course_title":"Social Stratification: Past, Present, an",
-    "course_descr":null,
+    "course_descr":"This is an undergraduate seminar in social inequality and mobility. Social inequality is broadly defined as the unequal distribution of scarce resources and of the processes by which these resources are allocated to individuals, groups, and populations. The study of inequality en-compasses income and wealth inequality, socioeconomic hierarchies and privileges, poverty and unemployment, social mobility over the life course and across generations, inequality in the educational system, race-ethnic and gender inequality, globalization and the future of work, beliefs, attitudes, and perceptions of inequality and opportunity, neighborhood segregation, and the consequences of inequality and policy interventions. Over this semester, we will investigate such questions as: How likely are individuals to end up in the same social stratum as their par-ents? Will globalization and automation exacerbate or reduce inequality in workplace? Is there growing inequality in the U.S. and around the globe and, if so, why? In this class, we cover the concepts, theories, facts, and methods of analysis used by sociologists to understand social inequality and mobility. This course takes most of its examples from the contemporary U.S., but we will place U.S. in historical and comparative perspectives as well.",
     "instructor":"Xi Song",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -49955,7 +51404,7 @@
   {
     "course_code":"SOCI UN3914",
     "course_title":"INEQUALITY, POVERTY & MOBILITY",
-    "course_descr":null,
+    "course_descr":"This is an undergraduate seminar in social stratification. The course focuses on the current American experience with socioeconomic inequality and mobility. The goals of the course are to understand how inequality is conceptualized and measured in the social sciences, to understand the structure of inequality in the contemporary U.S. to learn the principal theories and evidence for long term trends in inequality, to understand the persistence of poverty and the impact of social policies on American rates of poverty, and to understand the forces that both produce and inhibit intergenerational social mobility in the U.S. Given the nature of the subject matter, a minority of the readings will sometimes involve quantitative social science material. The course does not presume that students have advanced training in statistics, and any readings sections that contain mathematical or statistical content will be explained in class in nontechnical terms as needed. In these instances, our focus will not be on the methods, but rather on the conclusions reached by the author concerning the research question that is addressed in the text.",
     "instructor":"Thomas DiPrete",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -49980,7 +51429,7 @@
   {
     "course_code":"SOCI UN3921",
     "course_title":"HIGHER EDUCATION AND INEQUALITY",
-    "course_descr":null,
+    "course_descr":"Prerequisites: (SOCI UN1000) Higher education in the U.S. is going through a period of rapid change. State support is shrinking, student debt is increasing, full-time faculty are being replaced by adjuncts, and learning outcomes are difficult to measure, at best. This class will try to makes sense of these changes. Among other questions, it will ask whether higher education is a source of social mobility or a means of class reproduction; how the college experience differs by race, class, and type of college attended; how the economics of higher education have led to more expensive college and more student loans; and how we might make college better. We will consider several different points of view on the current state of U.S. higher education: that of students who apply to and attend college, that of colleges and universities, and that of society at large. As part of this course, students will conduct research on their own universities: Columbia College or Barnard College.",
     "instructor":"Teresa Sharpe",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -49996,7 +51445,9 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "SOCI UN1000"
+      ]
     ],
     "scheduled_days":"W",
     "section_key":"20263SOCI3921W001",
@@ -50005,7 +51456,7 @@
   {
     "course_code":"SOCI UN3943",
     "course_title":"Life on Mars: Building a New Society in",
-    "course_descr":null,
+    "course_descr":"This course explores the interdisciplinary challenges of establishing a human society on Mars. Students explore a number of challenges that are involved in reaching the Red Planet and setting up a functional social habitat for the long term. This includes both the numerous logistical hurdles of traveling to and surviving on Mars, as well as the social, political, and ethical considerations of establishing a new society on the planet. Through analysis and discussion of scientific research, social science texts, and popular media, students will gain a deep understanding of the physiological, psychological, and strategic challenges of long-duration space travel and human habitation on another planet.\n  \nThe course is not scientific or overly technical in nature. Instead, the perspective being adopted is that of a social scientist seeking to understand how humans can travel to another planet and live together. The first half of the course focuses on the practical, physiological, and psychological challenges of traveling to and surviving on Mars while maintaining contact withEarth. In the first part of the course, students will study the unique environmental conditions of Mars, the health risks of space travel, and how to maintain communication and connectivity with Earth despite vast distances. Students will also engage with how sustainable living on Mars\u2014through food, energy, and resource management\u2014could shape the future of human expansion in space.\n  \nThe second half delves into the complexities of building social, legal, and economic systems in a new extraterrestrial society. Students will critically evaluate how to create a self-sustaining, functional civilization on Mars. Given the social science focus of the class, there will be emphasis placed on topics such as governance, establishing social contracts and property rights, and building economic systems for an entirely new world.\n  \nThis course is meant to attract a small group of 10-15 students interested in space exploration. The small size and intensive four-hour class format is intended to foster creative problem-solving and interdisciplinary thinking (see below for discussion of non-traditional format). By the end of the course, students will not only understand the practicalities of space colonization but also develop skills in envisioning and designing innovative solutions for humanity\u2019s future beyond Earth.",
     "instructor":"Sudhir A Venkatesh",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -50030,7 +51481,7 @@
   {
     "course_code":"SOCI UN3983",
     "course_title":"Crime and Policing",
-    "course_descr":null,
+    "course_descr":"This course will introduce students to the literature on crime and policing. Readings for the course will be from a broad range of disciplines, including sociology, criminology, law, and public policy.\u00a0\u00a0Most weeks, the readings will include relevant \u201cpopular press\u201d articles that will help situate the literature in the context of current debates. The course is organized in two parts. The first half will focus on the problems of crime and violence in urban environments. We will review classic and modern ideas and theories explaining crime and violence, and we will look at the evidence describing patterns and trends in crime in recent history. The second half of the course will focus on the approaches to confront crime and violence, with a strong emphasis on policing. We will review the literature on the relationship between crime and policing, and we will learn about the impact that policing practices have on individuals and their communities.",
     "instructor":"Gerard Torrats-Espinosa",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -50055,7 +51506,7 @@
   {
     "course_code":"SOCI UN3986",
     "course_title":"Race, Discrimination, and Racial Inequal",
-    "course_descr":null,
+    "course_descr":"This course focuses on race, discrimination, and racial inequalities. The course will address three key questions: (1) What is race as perceived in the U.S. and Europe, and what are the sources of racial inequalities? (2) What does social science research tell us about patterns and trends of racial inequalities? (3) What policies can alleviate racial inequalities? The course will systematically adopt comparative perspectives focusing on the North American and European contexts. We will also address research on race and racial inequality within an interdisciplinary lens particularly building on sociology, economics, and social psychology.\n  \nThis course is designed for advanced undergraduate students from Columbia University and Science Po (Paris). We aim for a class of 30 students (15 from each partner university). Class will take place once a week (for 2 hours). In addition, the Columbia TA will conduct a discussion section once a week in which Columbia and Sciences Po students will work together in small groups on class projects that will be presented over the course of the semester. The classes will be organized in a hybrid format. In each campus, the professor will teach his\/her class in person and the two classes will be connected via Zoom. The Columbia and Science Po professors will thus co-teach a virtually connected class. The professors will closely coordinate and alternate in leading the lecture and discussion parts of each class.",
     "instructor":null,
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
