@@ -873,7 +873,7 @@
   {
     "course_code":"AHMM UN3320",
     "course_title":"MUSIC IN EAST ASIA",
-    "course_descr":null,
+    "course_descr":"A topical approach to the concepts and practices of music in relation to other arts in the development of Asian civilizations.",
     "instructor":"Kevin Fellezs",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -9286,7 +9286,7 @@
   {
     "course_code":"BIOL UN3004",
     "course_title":"NEUROBIO I:CELLULAR & MOLECULR",
-    "course_descr":null,
+    "course_descr":"Prerequisites: one year of biology; a course in physics is highly recommended. This is an advanced course intended for majors providing an in depth survey of the cellular and molecular aspects of nerve cell function. Topics include: the cell biology and biochemistry of neurons, ionic and molecular basis of electrical signals, synaptic transmission and its modulation, function of sensory receptors. Although not required, it is intended to be followed by Neurobiology II (see below).",
     "instructor":null,
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -9755,7 +9755,7 @@
   {
     "course_code":"BMEB W4020",
     "course_title":"COMP NEURO: CIRCUITS IN BRAIN",
-    "course_descr":null,
+    "course_descr":"The biophysics of computation: modeling biological neurons, the Hodgkin-Huxley neuron, modeling channel conductances and synapses as memristive systems, bursting neurons and central pattern generators, I\/O equivalence and spiking neuron models. Information representation and neural encoding: stimulus representation with time encoding machines, the geometry of time encoding, encoding with neural circuits with feedback, population time encoding machines. Dendritic computation: elements of spike processing and neural computation, synaptic plasticity and learning algorithms, unsupervised learning and spike time-dependent plasticity, basic dendritic integration. Projects in MATLAB.",
     "instructor":"Aurel A Lazar",
     "scheduled_time_start":"7:00pm",
     "scheduled_time_end":"9:30pm",
@@ -10726,7 +10726,7 @@
   {
     "course_code":"CHEM GU4071",
     "course_title":"INORGANIC CHEMISTRY",
-    "course_descr":null,
+    "course_descr":"Prerequisites: (CHEM UN1403 and CHEM UN1404) or (CHEM UN1604) or (CHEM UN2045 and CHEM UN2046) , or the equivalent. Principles governing the structure and reactivity of inorganic compounds surveyed from experimental and theoretical viewpoints. Topics include inorganic solids, aqueous and nonaqueous solutions, the chemistry of selected main group elements, transition metal chemistry, metal clusters, metal carbonyls, and organometallic chemistry, bonding and resonance, symmetry and molecular orbitals, and spectroscopy.",
     "instructor":"Jonathan S Owen",
     "scheduled_time_start":"8:40am",
     "scheduled_time_end":"9:55am",
@@ -10742,7 +10742,17 @@
     "open_to":null,
     "points":"4.5",
     "prerequisites":[
-
+      [
+        "CHEM UN1403"
+      ],
+      [
+        "CHEM UN1404",
+        "CHEM UN1604",
+        "CHEM UN2045"
+      ],
+      [
+        "CHEM UN2046"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20263CHEM4071G001",
@@ -11031,7 +11041,7 @@
   {
     "course_code":"CHEM UN1403",
     "course_title":"GENERAL CHEMISTRY I-LECTURES",
-    "course_descr":null,
+    "course_descr":"Corequisites: MATH UN1101 Preparation equivalent to one year of high school chemistry is assumed. Students lacking such preparation should plan independent study of chemistry over the summer or take CHEM UN0001 before taking CHEM UN1403. Topics include stoichiometry, states of matter, nuclear properties, electronic structures of atoms, periodic properties, chemical bonding, molecular geometry, introduction to quantum mechanics and atomic theory, introduction to organic and biological chemistry, solid state and materials science, polymer science and macromolecular structures and coordination chemistry. Although CHEM UN1403 and CHEM UN1404 are separate courses, students are expected to take both terms sequentially. The order of presentation of topics may differ from the order presented here, and from year to year. Students must ensure they register for the recitation that corresponds to the lecture section.\n  \nWhen registering, please add your name to the wait list for the recitation\u00a0corresponding to the lecture section (1405 for lecture sec 001; 1407 for lecture sec 002; 1409 for lecture sec 003; 1411 for lecture sec 004).\u00a0 Information about recitation registration will be sent out before classes begin.\u00a0 DO NOT EMAIL THE INSTRUCTOR. Please check\u00a0the Directory of Classes for details.",
     "instructor":"Robert Beer",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"7:25pm",
@@ -11047,7 +11057,15 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "CHEM UN1404"
+      ],
+      [
+        "MATH UN1101",
+        "CHEM UN0001",
+        "CHEM UN1403",
+        "CHEM UN1403"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20263CHEM1403W004",
@@ -13231,7 +13249,7 @@
   {
     "course_code":"CHEM UN2443",
     "course_title":"ORGANIC CHEMISTRY I-LECTURES",
-    "course_descr":null,
+    "course_descr":"Prerequisites: (CHEM UN1403 and CHEM UN1404) or CHEM UN1604 The principles of organic chemistry. The structure and reactivity of organic molecules are examined from the standpoint of modern theories of chemistry. Topics include stereochemistry, reactions of organic molecules, mechanisms of organic reactions, syntheses and degradations of organic molecules, and spectroscopic techniques of structure determination. Although CHEM UN2443 and CHEM UN2444 are separate courses, students are expected to take both terms sequentially. Students must ensure they register for the recitation which corresponds to the lecture section. Please check the Directory of Classes for details.",
     "instructor":"James Leighton",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -13258,7 +13276,19 @@
     ],
     "points":"4",
     "prerequisites":[
-
+      [
+        "CHEM UN1403"
+      ],
+      [
+        "CHEM UN1404",
+        "CHEM UN1604"
+      ],
+      [
+        "CHEM UN2443"
+      ],
+      [
+        "CHEM UN2444"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20263CHEM2443W001",
@@ -19332,7 +19362,7 @@
   {
     "course_code":"ECBM E4060",
     "course_title":"INTRO-GENOMIC INFO SCI & TECH",
-    "course_descr":null,
+    "course_descr":"Introduction to computational biology with emphasis on genomic data science tools and methodologies for analyzing data, such as genomic sequences, gene expression measurements and the presence of mutations. Applications of machine learning and exploratory data analysis for predicting drug response and disease progression. Latest technologies related to genomic information, such as single-cell sequencing and CRISPR, and the contributions of genomic data science to the drug development process.",
     "instructor":"Tai-Hsien Ou Yang",
     "scheduled_time_start":"7:00pm",
     "scheduled_time_end":"9:30pm",
@@ -20571,7 +20601,7 @@
   {
     "course_code":"EECS E4321",
     "course_title":"DIGITAL VLSI CIRCUITS",
-    "course_descr":null,
+    "course_descr":"Design and analysis of high speed logic and memory. Digital CMOS and BiCMOS device modeling. Integrated circuit fabrication and layout. Interconnect and parasitic elements. Static and dynamic techniques. Worst-case design. Heat removal and I\/O. Yield and circuit reliability. Logic gates, pass logic, latches, PLAs, ROMs, RAMs, receivers, drivers, repeaters, sense amplifiers.",
     "instructor":"Kenneth Shepard",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:25pm",
@@ -20596,7 +20626,7 @@
   {
     "course_code":"EECS E4750",
     "course_title":"Heterogeneous Computing for Signal and D",
-    "course_descr":null,
+    "course_descr":"Methods for deploying signal and data processing algorithms on contemporary general purpose graphics processing units (GPGPUs) and heterogeneous computing infrastructures. Using programming languages such as OpenCL and CUDA for computational speedup in audio, image and video processing and computational data analysis. Significant design project.",
     "instructor":"Zoran Kostic",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"3:40pm",
@@ -20628,7 +20658,7 @@
   {
     "course_code":"EECS E4764",
     "course_title":"Artificial Intelligence of Things (AIoT)",
-    "course_descr":null,
+    "course_descr":"Artificial Intelligence of Things (AIoT), Internet of Things (IoT), and Cyber-Physical Systems (CPS). Embedded and mobile platforms. Embedded programming. Sensors, actuators, and interfaces. Wireless networking, web services, and databases. Edge and cloud computing. Large language models (LLMs) for AIoT. Time-series data visualization and analytics. Group projects to build end-to-end AIoT systems and applications.",
     "instructor":"Xiaofan Jiang",
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:55pm",
@@ -20660,7 +20690,7 @@
   {
     "course_code":"EECS E6693",
     "course_title":"TOPICS DATA-DRIVEN ANAL & COMP",
-    "course_descr":null,
+    "course_descr":"Selected advanced topics in data-driven analysis and computation. Content varies from year to year, and different topics rotate through the course numbers 6690 to 6699.",
     "instructor":"Matthew M Ziegler",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:40pm",
@@ -20689,7 +20719,7 @@
   {
     "course_code":"EECS E6694",
     "course_title":"TOPICS DATA-DRIVEN ANAL & COMP",
-    "course_descr":null,
+    "course_descr":"Selected advanced topics in data-driven analysis and computation. Content varies from year to year, and different topics rotate through the course numbers 6690 to 6699.",
     "instructor":"Micah Goldblum",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -20718,7 +20748,7 @@
   {
     "course_code":"EECS E6893",
     "course_title":"TOPICS-INFORMATION PROCESSING",
-    "course_descr":null,
+    "course_descr":"Advanced topics spanning electrical engineering and computer science such as speech processing and recognition, image and multimedia content analysis, and other areas drawing on signal processing, information theory, machine learning, pattern recognition, and related topics. Content varies from year to year, and different topics rotate through the course numbers 6890 to 6899. Topic: Big Data Analytics.",
     "instructor":"Ching-Yung Lin",
     "scheduled_time_start":"7:00pm",
     "scheduled_time_end":"9:30pm",
@@ -20743,7 +20773,7 @@
   {
     "course_code":"EECS E6894",
     "course_title":"TOPICS-INFORMATION PROCESSING",
-    "course_descr":null,
+    "course_descr":"Advanced topics spanning electrical engineering and computer science such as speech processing and recognition, image and multimedia content analysis, and other areas drawing on signal processing, information theory, machine learning, pattern recognition, and related topics. Content varies from year to year, and different topics rotate through the course numbers 6890 to 6899.",
     "instructor":"Tanvir Ahmed Khan",
     "scheduled_time_start":"8:40am",
     "scheduled_time_end":"9:55am",
@@ -20768,7 +20798,7 @@
   {
     "course_code":"EECS E6896",
     "course_title":"TOPICS-INFORMATION PROCESSING",
-    "course_descr":null,
+    "course_descr":"Advanced topics spanning electrical engineering and computer science such as speech processing and recognition, image and multimedia content analysis, and other areas drawing on signal processing, information theory, machine learning, pattern recognition, and related topics. Content varies from year to year, and different topics rotate through the course numbers 6890 to 6899. Topic: Quantum Computing and Communication.",
     "instructor":"Alexei Ashikhmin",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:40pm",
@@ -20797,7 +20827,7 @@
   {
     "course_code":"EEEB GU4065",
     "course_title":"Tropical Biology",
-    "course_descr":null,
+    "course_descr":"Study ecology, evolution, and conservation biology in one of the world\u2019s most biologically spectacular settings, the wildlife-rich savannas of Kenya. Although we will meet have a few meetings during the fall semester, the majority of the coursework will be completed during a 16 day field trip to Kenya during winter break. Students will spend their time immersed in an intensive field experience gaining sophisticated training in fieldwork and biological research. Note that there is a lab fee to cover all in-country expenses, and students are also responsible for the cost of airfare to and from Kenya.",
     "instructor":"Dustin Rubenstein",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -20822,7 +20852,7 @@
   {
     "course_code":"EEOR E4650",
     "course_title":"CONVEX OPTIMIZATION FOR ENG",
-    "course_descr":null,
+    "course_descr":"Theory of convex optimization; numerical algorithms; applications in circuits, communications, control, signal processing and power systems.",
     "instructor":null,
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:40pm",
@@ -21290,7 +21320,7 @@
   {
     "course_code":"ELEN E1201",
     "course_title":"INTRO-ELECTRICAL ENGINEERING",
-    "course_descr":null,
+    "course_descr":"Basic concepts of electrical engineering. Exploration of selected topics and their application. Electrical variables, circuit laws, nonlinear and linear elements, ideal and real sources, transducers, operational amplifiers in simple circuits, external behavior of diodes and transistors, first order RC and RL circuits. Digital representation of a signal, digital logic gates, flipflops. A lab is an integral part of the course. Required of electrical engineering and computer engineering majors.",
     "instructor":"David G Vallancourt",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:25pm",
@@ -21320,7 +21350,7 @@
   {
     "course_code":"ELEN E3043",
     "course_title":"SOLID ST,MICROWAVE,FBR OPT LAB",
-    "course_descr":null,
+    "course_descr":"Optical electronics and communications. Microwave circuits. Physical electronics.",
     "instructor":"Wen I Wang",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:40pm",
@@ -21377,7 +21407,7 @@
   {
     "course_code":"ELEN E3081",
     "course_title":"CIRCUIT ANALYSIS LABORATORY",
-    "course_descr":null,
+    "course_descr":"Companion lab course for ELEN E3201. Experiments cover such topics as: use of measurement instruments; HSPICE simulation; basic network theorems; linearization of nonlinear circuits using negative feedback; op-amp circuits; integrators; second order RLC circuits. The lab generally meets on alternate weeks.",
     "instructor":"David G Vallancourt",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:40pm",
@@ -21398,7 +21428,9 @@
     ],
     "points":"1",
     "prerequisites":[
-
+      [
+        "ELEN E3201"
+      ]
     ],
     "scheduled_days":"R",
     "section_key":"20263ELEN3081E002",
@@ -21407,7 +21439,7 @@
   {
     "course_code":"ELEN E3081",
     "course_title":"CIRCUIT ANALYSIS LABORATORY",
-    "course_descr":null,
+    "course_descr":"Companion lab course for ELEN E3201. Experiments cover such topics as: use of measurement instruments; HSPICE simulation; basic network theorems; linearization of nonlinear circuits using negative feedback; op-amp circuits; integrators; second order RLC circuits. The lab generally meets on alternate weeks.",
     "instructor":"David G Vallancourt",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:40pm",
@@ -21428,7 +21460,9 @@
     ],
     "points":"1",
     "prerequisites":[
-
+      [
+        "ELEN E3201"
+      ]
     ],
     "scheduled_days":"F",
     "section_key":"20263ELEN3081E003",
@@ -21437,7 +21471,7 @@
   {
     "course_code":"ELEN E3084",
     "course_title":"SIGNALS & SYSTEMS LABORATORY",
-    "course_descr":null,
+    "course_descr":"Companion lab course for ELEN E3801. Experiments cover topics such as: introduction and use of MATLAB for numerical and symbolic calculations; linearity and time invariance; continuous-time convolution; Fourier-series expansion and signal reconstruction; impulse response and transfer function; forced response. The lab generally meets on alternate weeks.",
     "instructor":"Xiaodong Wang",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:40pm",
@@ -21458,7 +21492,9 @@
     ],
     "points":"1",
     "prerequisites":[
-
+      [
+        "ELEN E3801"
+      ]
     ],
     "scheduled_days":"M",
     "section_key":"20263ELEN3084E001",
@@ -21467,7 +21503,7 @@
   {
     "course_code":"ELEN E3084",
     "course_title":"SIGNALS & SYSTEMS LABORATORY",
-    "course_descr":null,
+    "course_descr":"Companion lab course for ELEN E3801. Experiments cover topics such as: introduction and use of MATLAB for numerical and symbolic calculations; linearity and time invariance; continuous-time convolution; Fourier-series expansion and signal reconstruction; impulse response and transfer function; forced response. The lab generally meets on alternate weeks.",
     "instructor":"Xiaodong Wang",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:40pm",
@@ -21488,7 +21524,9 @@
     ],
     "points":"1",
     "prerequisites":[
-
+      [
+        "ELEN E3801"
+      ]
     ],
     "scheduled_days":"R",
     "section_key":"20263ELEN3084E002",
@@ -21497,7 +21535,7 @@
   {
     "course_code":"ELEN E3084",
     "course_title":"SIGNALS & SYSTEMS LABORATORY",
-    "course_descr":null,
+    "course_descr":"Companion lab course for ELEN E3801. Experiments cover topics such as: introduction and use of MATLAB for numerical and symbolic calculations; linearity and time invariance; continuous-time convolution; Fourier-series expansion and signal reconstruction; impulse response and transfer function; forced response. The lab generally meets on alternate weeks.",
     "instructor":"Xiaodong Wang",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"3:40pm",
@@ -21518,7 +21556,9 @@
     ],
     "points":"1",
     "prerequisites":[
-
+      [
+        "ELEN E3801"
+      ]
     ],
     "scheduled_days":"F",
     "section_key":"20263ELEN3084E003",
@@ -21527,7 +21567,7 @@
   {
     "course_code":"ELEN E3106",
     "course_title":"SOLID STATE DEVICES-MATERIALS",
-    "course_descr":null,
+    "course_descr":"Crystal structure and energy band theory of solids. Carrier concentration and transport in semiconductors. P-n junction and junction transistors. Semiconductor surface and MOS transistors. Optical effects and optoelectronic devices. Fabrication of devices and the effect of process variation and distribution statistics on device and circuit performance.",
     "instructor":"Savannah Eisner",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -21557,7 +21597,7 @@
   {
     "course_code":"ELEN E3201",
     "course_title":"CIRCUIT ANALYSIS",
-    "course_descr":null,
+    "course_descr":"A course on analysis of linear and nonlinear circuits and their applications. Formulation of circuit equations. Network theorems. Transient response of first and second order circuits. Sinusoidal steady state-analysis. Frequency response of linear circuits. Poles and zeros. Bode plots. Two-port networks.",
     "instructor":"Charles A Zukowski",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -21587,7 +21627,7 @@
   {
     "course_code":"ELEN E3399",
     "course_title":"ELECTRICAL ENGINEERING PRACTICE",
-    "course_descr":null,
+    "course_descr":"Design project planning, written and oral technical communication, the origin and role of standards, engineering ethics, and practical aspects of engineering as a profession, such as career development and societal and environmental impact. Generally taken fall of senior year just before ELEN E3390.",
     "instructor":"David G Vallancourt",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -21608,7 +21648,9 @@
     ],
     "points":"1",
     "prerequisites":[
-
+      [
+        "ELEN E3390"
+      ]
     ],
     "scheduled_days":"M",
     "section_key":"20263ELEN3399E001",
@@ -21617,7 +21659,7 @@
   {
     "course_code":"ELEN E3801",
     "course_title":"SIGNALS AND SYSTEMS",
-    "course_descr":null,
+    "course_descr":"Modeling, description, and classification of signals and systems. Continuous-time systems. Time domain analysis, convolution. Frequency domain analysis, transfer functions. Fourier series. Fourier and Laplace transforms. Discrete-time systems and the Z transform.",
     "instructor":"Xiaodong Wang",
     "scheduled_time_start":"7:10pm",
     "scheduled_time_end":"8:25pm",
@@ -21647,7 +21689,7 @@
   {
     "course_code":"ELEN E4106",
     "course_title":"Advanced Solid State Devices and Materia",
-    "course_descr":null,
+    "course_descr":"Crystal structure and energy band theory of solids. Carrier concentration and transport in semiconductors.\u00a0P-n junction and junction transistors. Semiconductor surface and MOS transistors. Optical effects and optoelectronic devices. Fabrication of devices and the effect of process variation and distribution statistics on device and\u00a0circuit performance. Course shares lectures with ELEN E3106, but the work requirements differ.\u00a0Undergraduate students are not eligible to register.",
     "instructor":"Savannah Eisner",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -21670,7 +21712,9 @@
     ],
     "points":"3",
     "prerequisites":[
-
+      [
+        "ELEN E3106"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20263ELEN4106E001",
@@ -21679,7 +21723,7 @@
   {
     "course_code":"ELEN E4411",
     "course_title":"FUNDAMENTALS OF PHOTONICS",
-    "course_descr":null,
+    "course_descr":"Planar resonators. Photons and photon streams. Photons and atoms: energy levels and band structure; interactions of photons with matter; absorption, stimulated and spontaneous emission; thermal light, luminescence light. Laser amplifiers: gain, saturation, and phase shift; rate equations; pumping. Lasers: theory of oscillation; laser output characteristics. Photons in semiconductors: generation, recombination, and injection; heterostructures; absorption and gain coefficients. Semiconductor photon sources: LEDs; semiconductor optical amplifiers; homojunction and heterojunction laser diodes. Semiconductor photon detectors: p-n, p-i-n, and heterostructure photo diodes; avalanche photodiodes.",
     "instructor":"Michal Lipson",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:40pm",
@@ -21704,7 +21748,7 @@
   {
     "course_code":"ELEN E4488",
     "course_title":"OPTICAL SYSTEMS",
-    "course_descr":null,
+    "course_descr":"Introduction to optical systems based on physical design and engineering principles. Fundamental geometrical and wave optics with specific emphasis on developing analytical and numerical tools used in optical engineering design. Focus on applications that employ optical systems and networks, including examples in holographic imaging, tomography, Fourier imaging, confocal microscopy, optical signal processing, fiber optic communication systems, optical interconnects and networks.",
     "instructor":"Christine P Hendon",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:40pm",
@@ -21736,7 +21780,7 @@
   {
     "course_code":"ELEN E4511",
     "course_title":"POWER SYSTEMS ANALYSIS",
-    "course_descr":null,
+    "course_descr":"Modeling of power networks, steady-state and transient behaviors, control and optimization, electricity market, and smart grid.",
     "instructor":"Ahmed Mousa",
     "scheduled_time_start":"7:00pm",
     "scheduled_time_end":"9:30pm",
@@ -21768,7 +21812,7 @@
   {
     "course_code":"ELEN E4620",
     "course_title":"Numerical Methods for Data Analysis",
-    "course_descr":null,
+    "course_descr":"An introduction to the mathematical and computational foundations of data analysis with linear models. Develops theoretical and computational understanding of numerical linear algebra algorithms for problems including data fitting, data classification, clustering, and data reduction. Focus includes vector spaces, matrix factorization, least squares methods, and singular value decompositions. Illustrations on a variety of engineering applications, including power networks, autonomous and electric vehicles, quantum computing, medical imaging, and systems biology.",
     "instructor":"James Anderson",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:40pm",
@@ -21829,7 +21873,7 @@
   {
     "course_code":"ELEN E6340",
     "course_title":"Power Management Integrated Circuits",
-    "course_descr":null,
+    "course_descr":"Modern power management integrated circuits (PMIC) design introduced comperhensively. Advanced topics in power management introduced, including linear regulators, digital linear regulators, switch-mode power converters, control schemes for DC-DC converters, compensation methods of DC-DC converters, power losses in DC-DC converters, switched capacitor converters, power converter modeling and simulation, design examples.",
     "instructor":"Xin Zhang",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"3:40pm",
@@ -21858,7 +21902,7 @@
   {
     "course_code":"ELEN E6412",
     "course_title":"LIGHTWAVE DEVICES",
-    "course_descr":null,
+    "course_descr":"Electro-optics: principles; electro-optics of liquid crystals and photo-refractive materials. Nonlinear optics: second-order nonlinear optics; third-order nonlinear optics; pulse propagation and solitons. Acousto-optics: interaction of light and sound; acousto-optic devices. Photonic switching and computing: photonic switches; all-optical switches; bistable optical devices. Introduction to fiber-optic communications: components of the fiber-optic link; modulation, multiplexing and coupling; system performance; receiver sensitivity; coherent optical communications.",
     "instructor":"Xiang Meng",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"3:40pm",
@@ -21887,7 +21931,7 @@
   {
     "course_code":"ELEN E6430",
     "course_title":"APPLIED QUANTUM OPTICS",
-    "course_descr":null,
+    "course_descr":"An introduction to fundamental concepts of quantum optics and quantum electrodynamics with an emphasis on applications in nanophotonic devices. The quantization of the electromagnetic field; coherent and squeezed states of light; interaction between light and electrons in the language of quantum electrodynamics (QED); optical resonators and cavity QED; low-threshold lasers; and entangled states of light.",
     "instructor":"Xiang Meng",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:40pm",
@@ -21912,7 +21956,7 @@
   {
     "course_code":"ELEN E6488",
     "course_title":"OPTICAL INTERCONNECTS",
-    "course_descr":null,
+    "course_descr":"Introduction to optical interconnects and interconnection networks for digital systems. Fundamental optical interconnects technologies, optical interconnection network design, characterization, and performance evaluation. Enabling photonic technologies including free-space structures, hybrid and monolithic integration platforms for photonic on-chip, chip-to-chip, backplane, and node-to-node interconnects, as well as photonic networks on-chip.",
     "instructor":"Keren Bergman",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:40pm",
@@ -21937,7 +21981,7 @@
   {
     "course_code":"ELEN E6590",
     "course_title":"Topics in Smart Electric Energy",
-    "course_descr":null,
+    "course_descr":"Selected advanced topics in smart electric energy. Content varies from year to year.",
     "instructor":"Navid Asr",
     "scheduled_time_start":"7:00pm",
     "scheduled_time_end":"9:30pm",
@@ -21967,7 +22011,7 @@
   {
     "course_code":"ELEN E6591",
     "course_title":"Topics in Smart Electric Energy",
-    "course_descr":null,
+    "course_descr":"Selected advanced topics in smart electric energy. Content varies from year to year.",
     "instructor":"Mohamed Kamaludeen",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:40pm",
@@ -21996,7 +22040,7 @@
   {
     "course_code":"ELEN E6761",
     "course_title":"COMPUTER COMMUNICATNS NETWORKS",
-    "course_descr":null,
+    "course_descr":"Analytical approach to the design of (data) communication networks. Necessary tools for performance analysis and design of network protocols and algorithms. Practical engineering applications in layered Internet protocols in Data link layer, Network layer, and Transport layer. Review of relevant aspects of stochastic processes, control, and optimization.",
     "instructor":"Javad Ghaderi",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -22025,7 +22069,7 @@
   {
     "course_code":"ELEN E6767",
     "course_title":"INTERNET ECON, ENG & SOCIETY",
-    "course_descr":null,
+    "course_descr":"Mathematical models, analyses of economics and networking interdependencies in the internet. Topics include microeconomics of pricing and regulations in communications industry, game theory in revenue allocations, ISP settlements, network externalities, two-sided markets. Economic principles in networking and network design, decentralized vs. centralized resource allocation, \u201cprice of anarchy,\u201d congestion control. Case studies of topical internet issues. Societal and industry implications of internet evolution.",
     "instructor":"Debasis Mitra",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -22058,7 +22102,7 @@
   {
     "course_code":"ELEN E6770",
     "course_title":"TOPICS IN NETWORKING",
-    "course_descr":null,
+    "course_descr":"Further study of areas such as communication protocols and architectures, flow and congestion control in data networks, performance evaluation in integrated networks. Content varies from year to year, and different topics rotate through the course numbers 6770 to 6779.",
     "instructor":"Thomas Woo",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:40pm",
@@ -22087,7 +22131,7 @@
   {
     "course_code":"ELEN E6776",
     "course_title":"TOPICS IN NETWORKING",
-    "course_descr":null,
+    "course_descr":"Further study of areas such as communication protocols and architectures, flow and congestion control in data networks, performance evaluation in integrated networks. Content varies from year to year, and different topics rotate through the course numbers 6770 to 6779.",
     "instructor":"Anwar I Walid",
     "scheduled_time_start":"7:00pm",
     "scheduled_time_end":"9:30pm",
@@ -22116,7 +22160,7 @@
   {
     "course_code":"ELEN E6884",
     "course_title":"TOPICS IN SIGNAL PROCESSING",
-    "course_descr":null,
+    "course_descr":"Advanced topics in signal processing, such as multidimensional signal processing, image feature extraction, image\/video editing and indexing, advanced digital filter design, multirate signal processing, adaptive signal processing, and wave-form coding of signals. Content varies from year to year, and different topics rotate through the course numbers 6880 to 6889.",
     "instructor":"Guido H Jajamovich",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:40pm",
@@ -22144,7 +22188,7 @@
   {
     "course_code":"ELEN E6885",
     "course_title":"TOPICS IN SIGNAL PROCESSING",
-    "course_descr":null,
+    "course_descr":"Advanced topics in signal processing, such as multidimensional signal processing, image feature extraction, image\/video editing and indexing, advanced digital filter design, multirate signal processing, adaptive signal processing, and wave-form coding of signals. Content varies from year to year, and different topics rotate through the course numbers 6880 to 6889.",
     "instructor":null,
     "scheduled_time_start":"8:10am",
     "scheduled_time_end":"10:00am",
@@ -22173,7 +22217,7 @@
   {
     "course_code":"ELEN E6903",
     "course_title":"TPCS-ELEC & COMPUT ENGINEERING",
-    "course_descr":null,
+    "course_descr":"Selected topics in electrical and computer engineering. Content varies from year to year, and different topics rotate through the course numbers 6900 to 6909.",
     "instructor":"Savannah Eisner",
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:55pm",
@@ -27952,7 +27996,7 @@
   {
     "course_code":"GERM UN1101",
     "course_title":"ELEMENTARY GERMAN I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: No prior German.\n  \nGerman 1101 is a communicative language course for beginners, taught in German, in which students develop the four skills -listening, speaking, reading, and writing- and a basic understanding of German-speaking cultures. Emphasis is placed on acquiring the four language skills within a cultural context. Upon successful completion of the course, students will be able to understand, speak, read, and write German at a level enabling them to communicate with native speakers and provide basic information about their background, family, daily activities, student life, work, and living quarters. Completion of daily assignments, which align with class content, and consistent work are necessary in order to achieve basic communicative proficiency. If you have prior German, the placement exam is required.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -27977,7 +28021,7 @@
   {
     "course_code":"GERM UN1101",
     "course_title":"ELEMENTARY GERMAN I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: No prior German.\n  \nGerman 1101 is a communicative language course for beginners, taught in German, in which students develop the four skills -listening, speaking, reading, and writing- and a basic understanding of German-speaking cultures. Emphasis is placed on acquiring the four language skills within a cultural context. Upon successful completion of the course, students will be able to understand, speak, read, and write German at a level enabling them to communicate with native speakers and provide basic information about their background, family, daily activities, student life, work, and living quarters. Completion of daily assignments, which align with class content, and consistent work are necessary in order to achieve basic communicative proficiency. If you have prior German, the placement exam is required.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -28002,7 +28046,7 @@
   {
     "course_code":"GERM UN1101",
     "course_title":"ELEMENTARY GERMAN I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: No prior German.\n  \nGerman 1101 is a communicative language course for beginners, taught in German, in which students develop the four skills -listening, speaking, reading, and writing- and a basic understanding of German-speaking cultures. Emphasis is placed on acquiring the four language skills within a cultural context. Upon successful completion of the course, students will be able to understand, speak, read, and write German at a level enabling them to communicate with native speakers and provide basic information about their background, family, daily activities, student life, work, and living quarters. Completion of daily assignments, which align with class content, and consistent work are necessary in order to achieve basic communicative proficiency. If you have prior German, the placement exam is required.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -28027,7 +28071,7 @@
   {
     "course_code":"GERM UN1101",
     "course_title":"ELEMENTARY GERMAN I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: No prior German.\n  \nGerman 1101 is a communicative language course for beginners, taught in German, in which students develop the four skills -listening, speaking, reading, and writing- and a basic understanding of German-speaking cultures. Emphasis is placed on acquiring the four language skills within a cultural context. Upon successful completion of the course, students will be able to understand, speak, read, and write German at a level enabling them to communicate with native speakers and provide basic information about their background, family, daily activities, student life, work, and living quarters. Completion of daily assignments, which align with class content, and consistent work are necessary in order to achieve basic communicative proficiency. If you have prior German, the placement exam is required.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -28052,7 +28096,7 @@
   {
     "course_code":"GERM UN1102",
     "course_title":"ELEMENTARY GERMAN II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: GERM UN1101 or the equivalent. If you have prior German outside of Columbia\u2019s language sequence, the placement exam is required. German 1102 is the continuation of Elementary German I (1101). It is a four-skill language course taught in German, in which students continue to develop listening, speaking, reading, and writing skills in German and an understanding of German-speaking cultures. Emphasis is placed on acquiring the four language skills--listening, speaking, reading and writing--within a cultural context. Students expand their communication skills to include travel, storytelling, personal well- being, basic economics, recent historical events, and working with movie segments. Completion of daily assignments, which align with class content, and consistent work are necessary in order to achieve basic communicative proficiency.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -28068,7 +28112,9 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "GERM UN1101"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20263GERM1102V001",
@@ -28077,7 +28123,7 @@
   {
     "course_code":"GERM UN1102",
     "course_title":"ELEMENTARY GERMAN II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: GERM UN1101 or the equivalent. If you have prior German outside of Columbia\u2019s language sequence, the placement exam is required. German 1102 is the continuation of Elementary German I (1101). It is a four-skill language course taught in German, in which students continue to develop listening, speaking, reading, and writing skills in German and an understanding of German-speaking cultures. Emphasis is placed on acquiring the four language skills--listening, speaking, reading and writing--within a cultural context. Students expand their communication skills to include travel, storytelling, personal well- being, basic economics, recent historical events, and working with movie segments. Completion of daily assignments, which align with class content, and consistent work are necessary in order to achieve basic communicative proficiency.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -28093,7 +28139,9 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "GERM UN1101"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20263GERM1102V002",
@@ -28130,7 +28178,7 @@
   {
     "course_code":"GERM UN2101",
     "course_title":"INTERMEDIATE GERMAN I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: GERM UN2101 or the equivalent. If you have prior German outside of Columbia\u2019s language sequence, the placement exam is required.\n  \nIntermediate German UN2102 is conducted entirely in German and emphasizes the four basic language skills, cultural awareness, and critical thinking. A wide range of topics (from politics and poetry to art) as well as authentic materials (texts, film, art, etc.) are used to improve the 4 skill. Practice in conversation aims at enlarging the vocabulary necessary for daily communication. Grammar is practiced in the context of the topics. Learning and evaluation are individualized (individual vocabulary lists, essays, oral presentations, final portfolio) and project-based (group work and final group project).",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -28146,7 +28194,10 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "GERM UN2101",
+        "UN2102"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20263GERM2101V002",
@@ -28155,7 +28206,7 @@
   {
     "course_code":"GERM UN2102",
     "course_title":"INTERMEDIATE GERMAN II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: GERM UN2101 or the equivalent.\n  \nIntermediate German UN2102 is conducted entirely in German and emphasizes the four basic language skills, cultural awareness, and critical thinking. A wide range of topics (from politics and poetry to art) as well as authentic materials (texts, film, art, etc.) are used to improve the 4 skill. Practice in conversation aims at enlarging the vocabulary necessary for daily communication. Grammar is practiced in the context of the topics. Learning and evaluation are individualized (individual vocabulary lists, essays, oral presentations, final portfolio) and project-based (group work and final group project).",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -28171,7 +28222,10 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "GERM UN2101",
+        "UN2102"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20263GERM2102V001",
@@ -28180,7 +28234,7 @@
   {
     "course_code":"GERM UN2520",
     "course_title":"Intermediate Conversation",
-    "course_descr":null,
+    "course_descr":"Prerequisite\n: Completion of 1102 or equivalent. If you have prior German outside of Columbia's language sequence, the placement exam is required.\n  \nDesire to speak lots of German!\u00a0Students in Intermediate Conversation should have completed the equivalent of two semester of college German or placed at the Intermediate level at Columbia.\u00a0This conversation group is designed for students are either taking Intermediate German I or II and would like additional practice or who take only this class because they wish to maintain their spoken German.\n  \nThe course is designed to improve your ability to speak and understand and manage German in everyday situations; to provide opportunities to participate in conversational situations on any topics you are interested in; to strengthen and acquire skills to understand German spoken at normal conversational speed; to expand active and passive vocabularies speaking skills; and to maintain a certain level of written German through short written activities. This is a 2-point course and does not count towards the language requirement.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -28205,7 +28259,7 @@
   {
     "course_code":"GERM UN3001",
     "course_title":"ADVANCED GERMAN I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: GERM UN2102. If you have prior German outside of Columbia\u2019s language sequence, the placement exam is required. Note: UN3001 and UN3002 are not sequential.\n  \nGerman UN3001 is an ambitious socio-cultural exploration of Berlin. Designed to follow up the language skills acquired in first- and second-year language courses (or the equivalent thereof), this course gives students greater proficiency in speaking, reading, and writing German while focusing on topics from German society today through various German media, such as internet, film, and literature through the lens of Germany\u2019s capital, Berlin. Topics discussed include: cultural diversity in Berlin's multi-cultural neighborhoods; questioning and reflecting upon Berlin's recent past; developing your own Berlin experience and presenting your interests in various forms, such as presentations, an essay, your CV, an application letter and interview for an internship in Berlin. The course represents a gateway class to literature courses and counts towards the major and concentration in German. Taught in German.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -28221,7 +28275,16 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "GERM UN2102",
+        "UN3001"
+      ],
+      [
+        "UN3001"
+      ],
+      [
+        "UN3002"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20263GERM3001V001",
@@ -29389,7 +29452,7 @@
   {
     "course_code":"HIST GR8401",
     "course_title":"Readings in Twentieth Century U.S. Histo",
-    "course_descr":null,
+    "course_descr":"This is a graduate reading course focusing on twentieth century US historiography. The goal of the course is to introduce students to some of the pressing historiographic questions in the field. The first part of the semester will be spent thinking through periodization and its limits. How useful are periodizations such as \u201cthe progressive era\u201d and the \u201cthe Cold War\u201d? What are the major historiographic arguments surrounding their use? \u00a0In the second part of the semester, we will take a thematic approach. We will read some of the newest (and award-winning) books published in the past few years. Many of these books originated as dissertations and should be useful for students to read as they think about constructing their own research projects.",
     "instructor":"Lori Flores",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -29514,7 +29577,7 @@
   {
     "course_code":"HIST GR8991",
     "course_title":"Dissertation Prospectus Writing Workshop",
-    "course_descr":null,
+    "course_descr":"The workshop provides a forum for advanced PhD students (usually in the 3rd or 4th year) to draft and refine the dissertation prospectus in preparation for the defense, as well as to discuss grant proposals. Emphasis on clear formulation of a research project, sources and historiography, the mechanics of research, and strategies of grant-writing. The class meets weekly and is usually offered in both fall and spring semesters.\n  \nConsistent attendance and participation are mandatory.",
     "instructor":"Kimberly K Phillips-Fein",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -29639,7 +29702,7 @@
   {
     "course_code":"HIST GU4435",
     "course_title":"Democracy and its Technocrats",
-    "course_descr":null,
+    "course_descr":"Science and technology have become increasingly central to the basic functioning of democratic societies The administrative state, both on the local and national level, is dependent on technological systems to ensure democratic rule and deliver services: from voting machines and welfare databases to passport scanners and the laboratory equipment necessary to set environmental standards. Just as necessary are the numerous experts \u2013 engineers, statisticians, epidemiologists, and environmental scientists \u2013 who either work for or advise the state in its dealings. How should we think about the technocratic nature of modern democracy? Is it an inevitable and necessary pre-condition for governing modern mass society? Or is it an alarming aspect, an undemocratic impulse, that undermines the promise of democratic rule?The course will examine the coproduction of science and politics. In the first part of the semester, students will gain conceptual tools with which to rethink the connection between science, technology, power, politics, policy, and democracy. They will consider the role of expertise in modern politics, as well as the construction of the public. In the second part of the semester we will consider in greater detail the way technocratic governance developed in the United States from the end of the nineteenth century to the contemporary moment.",
     "instructor":"Alma Steingart",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -29914,7 +29977,7 @@
   {
     "course_code":"HIST UN1488",
     "course_title":"Indigenous History of North America",
-    "course_descr":null,
+    "course_descr":"This course is an introduction to the history of the Native peoples of North America.\u00a0 Instruction will focus on the idea that indigenous people in North America possess a shared history in terms of being forced to respond to European colonization, and the emergence of the modern nation-state.\u00a0 Native peoples, however, possess their own distinct histories and culture.\u00a0 In this sense their histories are uniquely multi-faceted rather than the experience of a singular racial group.\u00a0 Accordingly, this course will offer a wide-ranging survey of cultural encounters between the Native peoples of North America, European empires, colonies, and emergent modern nation-states taking into account the many different indigenous responses to colonization and settler colonialism.\u00a0 This course will also move beyond the usual stories of Native-White relations that center either on narratives of conquest and assimilation, or stories of cultural persistence.\u00a0 We will take on these issues, but we will also explore the significance of Native peoples to the historical development of modern North America.\u00a0 This will necessarily entail an examination of race formation, and a study of the evolution of social structures and categories such as nation, tribe, citizenship, and sovereignty.",
     "instructor":"Michael Witgen",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -30191,7 +30254,7 @@
   {
     "course_code":"HIST UN2418",
     "course_title":"Indigenous History of North America - DI",
-    "course_descr":null,
+    "course_descr":"Required discussion section for\u00a0Indigenous History of North America (HIST UN1488)",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -30207,7 +30270,9 @@
     "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "HIST UN1488"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20263HIST2418W001",
@@ -30216,7 +30281,7 @@
   {
     "course_code":"HIST UN2533",
     "course_title":"US LESBIAN & GAY HISTORY",
-    "course_descr":null,
+    "course_descr":"This course explores the social, cultural, and political history of lesbians, gay men, and other socially constituted sexual and gender minorities, primarily in the twentieth century. Since the production and regulation of queer life has always been intimately linked to the production and policing of \u201cnormal\u201d sexuality and gender, we will also pay attention to the shifting boundaries of normative sexuality, especially heterosexuality, as well as other developments in American history that shaped gay life, such as the Second World War, Cold War, urbanization, and the minority rights revolution. Themes include the emergence of homosexuality and heterosexuality as categories of experience and identity; the changing relationship between homosexuality and transgenderism; the development of diverse lesbian and gay subcultures and their representation in popular culture; the sources of antigay hostility; religion and sexual science; generational change and everyday life; AIDS; and gay, antigay, feminist, and queer movements.",
     "instructor":"George Chauncey",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -30516,7 +30581,7 @@
   {
     "course_code":"HIST UN3501",
     "course_title":"Indians and Empires in North America",
-    "course_descr":null,
+    "course_descr":"In this course you will be asked to re-think American history.\u00a0 \u00a0That is, we will approach the history of America as a continental history.\u00a0 This will require that we think of North America as a New World space, a place that was inhabited and occupied by indigenous peoples, and then remade by the arrival and settlement of Europeans.\u00a0 You will be asked to imagine a North America that was indigenous and adaptive, as well as colonial and Euro-American.\u00a0 This approach to the study of North American history is designed to challenge the epistemology and literature of the history of colonization and American expansion, which displaces Native peoples from the central narrative of American history by placing them at the physical margins of colonial and national development.\u00a0 Instead we will explore the intersection and integration of indigenous and Euro-American national identity and national space in North America and trace their co-evolution from first contact through the early nineteenth century.",
     "instructor":"Michael Witgen",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -30541,7 +30606,7 @@
   {
     "course_code":"HIST UN3518",
     "course_title":"COLUMBIA UNI & SLAVERY",
-    "course_descr":null,
+    "course_descr":"In this course, students will write original, independent papers of around 25 pages, based on research in both primary and secondary sources, on an aspect of the relationship between Columbia College and its colonial predecessor Kings College, with the institution of slavery.",
     "instructor":"Karl Jacoby",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -30716,7 +30781,7 @@
   {
     "course_code":"HIST UN3928",
     "course_title":"SLAVERY\/ABOLITION-ATLANTC WRLD",
-    "course_descr":null,
+    "course_descr":"This seminar investigates the experiences of slavery and freedom among African-descended people living and laboring in the various parts of the Atlantic World. The course will trace critical aspects of these two major, interconnected historical phenomena with an eye to how specific cases either manifested or troubled broader trends across various slaveholding societies. The first half of the course addresses the history of slavery and the second half pertains to experiences in emancipation. However, since the abolition of slavery occurs at different moments in various areas of the Atlantic World, the course will adhere to a more thematic and less chronological structure, in its examination of the multiple avenues to freedom available in various regions. Weekly units will approach major themes relevant to both slavery and emancipation, such as racial epistemologies among slaveowners\/employers, labor regimes in slave and free societies, cultural innovations among slave and freed communities, gendered discourses and sexual relations within slave and free communities, and slaves\u2019 and free people\u2019s resistance to domination. The goal of this course is to broaden students\u2019 comprehension of the history of slavery and freedom, and to promote an understanding of the transition from slavery to freedom in the Americas as creating both continuities and ruptures in the structure and practices of the various societies concerned.",
     "instructor":"Natasha J Lightfoot",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -30791,7 +30856,7 @@
   {
     "course_code":"HRTS BC3361",
     "course_title":"Death and Dignity: Forensic Science and",
-    "course_descr":null,
+    "course_descr":"Forensic scientific investigations of mass political violence have proliferated in recent decades. As a form of \u201cscience in the service of human rights,\u201d forensic methods are used to locate and identify the remains of people killed in mass political violence and, more broadly, to corroborate witness testimonies of rights abuses and contribute evidence for potential use in war crimes trials. Yet forensic investigations of mass violence are not only scientific endeavors, but also highly social and political ones. Families of the dead and disappeared have long been at the forefront of demanding state action to locate, exhume, and return the remains of their loved ones. What drives states, on the one hand, and families of the dead and disappeared, on the other, to turn to forensic exhumations of the dead? What social and political work does forensic science\u2014and the dead bodies it unveils\u2014do to mediate restorative transformation in the wake of mass political violence?\n  \nThis course explores how the forensic sciences\u2014in particular, forensic anthropology, archaeology, and genetics\u2014are mobilized after atrocity to make rights claims to postmortem dignity, postwar memory, and transformative justice. It approaches forensic science from a holistic (or, in anthropological terms, \u201cfour-field\u201d) perspective, in which the scientific cannot be separated from the social or political, given the profound social transformations brought about by war. Practices in biological and forensic science cannot be separated from the social and political contexts of the political violence and human rights violations they investigate.\u00a0What would it look like to conceive of forensic science from a multi-focal, interdisciplinary perspective?\u00a0\n  \nThis discussion-based seminar explores the complex social and scientific worlds that come into being over the course of postwar forensic exhumations, bringing the living and the dead into new forms of relation. We situate forensic investigations within broader struggles over historical and collective memory, narratives of past violence, and accountability for state violence. Drawing primarily on ethnographic and sociocultural anthropological perspectives from Latin America and other global regions, the course engages debates on international humanitarianism, necropolitics, and human rights in death. We critically assess the promises and limits of forensic science as a tool for human rights intervention, while remaining attentive to its af",
     "instructor":"Jennifer Trowbridge",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -31129,7 +31194,7 @@
   {
     "course_code":"HRTS GU4965",
     "course_title":"Gender-Based Violence & Human Rights",
-    "course_descr":null,
+    "course_descr":"The term 'gendercide' highlights a range of distinct and specific forms of violence executed against human beings based on their own gender self-identification as well as patriarchal assumptions about their gender. In this course, we will examine research discerning, movements challenging, and the adjudication, and\/or lack thereof, of Gender Based Violence (GBV) in several major categories traversing spatial, temporal, and ideological contexts, including: reproductive rights and health; trafficking and migration; and disaster and pandemics. It is critical to: interrogate the ideologies that drive and sustain GBV; examine in detail the harm it presents to human beings; explore what can be done to protect the security of those experiencing GBV; and to think about measures of prevention to guard additional human beings from experiencing it. The heart of the course will involve an intersectional analysis of specific case studies; highlighting the GBV associated with each case; examining the impact of GBV on human rights; and how GBV has been addressed in society. The close study of each case will assist students in illuminating intricacies, complexities, and challenges to human security in specific contexts.",
     "instructor":"Julie Rajan",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -38189,7 +38254,7 @@
   {
     "course_code":"MPP_ UN1601",
     "course_title":"Performance Seminar MasterClass",
-    "course_descr":null,
+    "course_descr":"Performance Seminar Masterclass is open to classical musicians of any instrument(s) with the highest commitment to performance. Students are admitted via live audition during the first week of classes in the Fall. Each week, two students perform repertoire of their choice for the class and receive feedback from everyone present. The discussions, moderated by the director of the Music Performance Program, Dr. Magdalena Stern-Baczewska, are designed to provide constructive criticism to the performers and to pose questions related to performance from the perspectives of musical interpretation, career management, professional collaboration, and pedagogy.",
     "instructor":"Magdalena Baczewska",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:25pm",
@@ -38738,7 +38803,7 @@
   {
     "course_code":"MUSI GU4208",
     "course_title":"Music Production & Studio Composition",
-    "course_descr":null,
+    "course_descr":"This course explores the recording studio and Digital Audio Workstations (DAWs) as tools for diverse compositional practices. By exploring a range of recording and editing techniques to craft new musical works beyond the limitations of live performance, this class encourages a seamless blend of composition and music production. Various genres, artists, and techniques that push the boundaries of music recording will be studied, such as Jamaican dub, musique concr\u00e8te, hyper-pop, jazz fusion, and more. Students will gain hands-on experience with DAWs, exploring tools like effects processing, layering, and spatial placement. They will learn to listen closely to pieces exemplifying these techniques, building a shared analytic vocabulary to describe them. Students will also create original pieces, applying and building on the techniques studied in class, while engaging in constructive feedback with peers.",
     "instructor":"Anna Meadors",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"4:00pm",
@@ -38763,7 +38828,7 @@
   {
     "course_code":"MUSI GU4308",
     "course_title":"Theory and Analysis of Jazz and Improvis",
-    "course_descr":null,
+    "course_descr":"What are the traditional definitions of jazz and how do they apply to improvised music in the twenty-first century? This course aims to communicate reliable methods and processes useful when dissecting and evaluating jazz performances and jazz compositions. Students will engage with traditional and fundamental jazz improvisation theory, then extrapolate new modalities reflective of the music happening today; including categorizing music on gradations from minimally to fully improvisational, tonal to harmonically abstract, rhythmically rigid to free, and sonically acoustic to fully synthesized. The class will explore and differentiate between \u201cnew complexity\u201d classical compositions and virtuosic free form improvisation, compare US jazz to versions happening in other countries, and to recognize how world music influences affect improvisational tonal systems and improvisational traits.",
     "instructor":null,
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:25pm",
@@ -38788,7 +38853,7 @@
   {
     "course_code":"MUSI GU4438",
     "course_title":"Music and Global Africa",
-    "course_descr":null,
+    "course_descr":"This course examines the transatlantic sounds of African music, including Afrobeat, Afrobeats, Amapiano, Chimurenga, Highlife, Kwaito, Makossa, Reggae, and more, to explore the rich cultural roots of African musical traditions and how they navigate and assimilate within the global popular culture sphere. From migration and collaborations to the rise of African artists in the era of advanced technology, the course uncovers how these genres transcend borders, inspire cross-cultural innovation, and influence the global music scene in contemporary times. Critical issues such as cultural appropriation, commodification, gender, health, and authenticity in the ever-evolving global music industry will be explored. By the end of the course, you will have a deep understanding of the complex dynamics driving the influence and dissemination of African music across the world.",
     "instructor":"Ruth Opara",
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"2:00pm",
@@ -38813,7 +38878,7 @@
   {
     "course_code":"MUSI GU4630",
     "course_title":"RECORDED SOUND",
-    "course_descr":null,
+    "course_descr":"As music moves into the 21st century, we find ourselves surrounded by an ever-evolving landscape of technological capability. The world of music, and the music industry itself, is changing rapidly, and with that change comes the opening \u2013 and closing \u2013 of doorways of possibility. What does this shift mean for today\u2019s practicing artist or composer? With big label recording studios signing and nurturing fewer and fewer artists, it seems certain that, today, musicians who want to record and distribute their music need to be able to do much of the recording and production work on their own. But where does one go to learn how to do this \u2013 to learn not only the \u201chow to\u201d part of music production, but the historical underpinnings and the development of the music production industry as well? How does one develop a comprehensive framework within which they can place their own artistic efforts? How does one learn to understand what they hear, re-create what they like and develop their own style? This class, \u201cRecorded Sound,\u201d aims to be the answer. It\u2019s goal is to teach artists how to listen critically to music from across history and genres in order to identify the production techniques that they hear, and reproduce those elements using modern technology so they can be incorporated into the artist\u2019s own musical works.",
     "instructor":"David Adamcyk",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"1:00pm",
@@ -38838,7 +38903,7 @@
   {
     "course_code":"MUSI UN1002",
     "course_title":"FUNDAMENTALS OF MUSIC",
-    "course_descr":null,
+    "course_descr":"Introduction to music, including notation, written and aural skills, and basic conceptual resources of music theory. Exploration of scale, mode, rhythm, meter, texture and form, with reference to a diverse range of musics.",
     "instructor":null,
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:25pm",
@@ -38863,7 +38928,7 @@
   {
     "course_code":"MUSI UN1350",
     "course_title":"Introduction to Musicianship",
-    "course_descr":null,
+    "course_descr":"This course is designed for students who have little or no experience with playing, performing, reading, studying, composing, or improvising music. Students will be introduced to both skills and concepts that will enable them to participate in music making and deepen their appreciation of all types of music.",
     "instructor":null,
     "scheduled_time_start":"9:05am",
     "scheduled_time_end":"9:55am",
@@ -38938,7 +39003,7 @@
   {
     "course_code":"MUSI UN2030",
     "course_title":"JEWISH MUSIC IN NEW YORK",
-    "course_descr":null,
+    "course_descr":"Prerequisites: Music Humanities (Columbia University) or An Introduction to Music (Barnard). With the arrival of the first Jewish immigrants in New York in the mid-1600s until today, Jewish music in the City has oscillated between preserving traditions and introducing innovative ideas. This course explores the variety of ways people have used music to describe, inscribe, symbolize, and editorialize their Jewish experience. Along these lines, it draws upon genres of art music, popular music, and non-Western traditions, as well as practices that synthesize various styles and genres, from hazzanut to hiphop. Diverse musical experiences will serve as a window to address wider questions of identity, memory, and dislocation. We will also experience the Jewish soundscape of New York\u2019s dynamic and eclectic music culture by visiting various venues and meeting key players in today\u2019s music scene, and thus engage in the ongoing dialogues that define Jewishness in New York. A basic familiarity with Judaism and Jewish culture is helpful for this course, but it is by no means required. You do not need to know Jewish history to take this class, nor do you need to be able to read music. Translations from Hebrew and Yiddish will be provided, and musical analysis will be well explained.",
     "instructor":"Tina Fruehauf",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -38963,7 +39028,7 @@
   {
     "course_code":"MUSI UN2205",
     "course_title":"INTRODUCTION TO DIGITAL MUSIC",
-    "course_descr":null,
+    "course_descr":"An introduction to the potential of digital sound synthesis and signal processing. Teaches proficiency in elementary and advanced digital audio techniques. This course aims to challenge some of the tacet assumptions about music that are built into the design of various user interfaces and hardware and fosters a creative approach to using digital audio workstation software and equipment.\u00a0 Permission of Instructor required to enroll. Music Majors have priority for enrollment.",
     "instructor":null,
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"7:25pm",
@@ -38988,7 +39053,7 @@
   {
     "course_code":"MUSI UN2205",
     "course_title":"INTRODUCTION TO DIGITAL MUSIC",
-    "course_descr":null,
+    "course_descr":"An introduction to the potential of digital sound synthesis and signal processing. Teaches proficiency in elementary and advanced digital audio techniques. This course aims to challenge some of the tacet assumptions about music that are built into the design of various user interfaces and hardware and fosters a creative approach to using digital audio workstation software and equipment.\u00a0 Permission of Instructor required to enroll. Music Majors have priority for enrollment.",
     "instructor":"Anna Meadors",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:25pm",
@@ -39013,7 +39078,7 @@
   {
     "course_code":"MUSI UN2230",
     "course_title":"History and Practice of Electronic Music",
-    "course_descr":null,
+    "course_descr":"This course will provide a critical survey of the development of electronic and computer music and sound from around the globe. From early experiments and precursors in the late 19th century through to modern-day experimental and popular music practices, this course aims to trace the development of technologies used in the production of electronic and computer derived sound and music alongside the economic, cultural, and social forces that contribute to the development of audiences. The course will focus intently on listening through a series of curated playlists in an effort to unpack style and genre distinctions. Readings and listening examples will be paired with small, hands-on assignments, that demonstrate the effect of music making tools on the process and structure of musical genres and styles ranging from the experimental practices of musique concrete, drone, and harsh noise to the mainstream practices of dub, techno, vaporwave, hyperpop, and hip hop and more.",
     "instructor":null,
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -39038,7 +39103,7 @@
   {
     "course_code":"MUSI UN2318",
     "course_title":"MUSIC THEORY I",
-    "course_descr":null,
+    "course_descr":"Elementary analysis and composition in a variety of modal and tonal idioms.",
     "instructor":null,
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:25pm",
@@ -39063,7 +39128,7 @@
   {
     "course_code":"MUSI UN2319",
     "course_title":"MUSIC THEORY II",
-    "course_descr":null,
+    "course_descr":"Elementary analysis and composition in a variety of tonal idioms.",
     "instructor":null,
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:25pm",
@@ -39088,7 +39153,7 @@
   {
     "course_code":"MUSI UN2351",
     "course_title":"Musicianship: Rhythm",
-    "course_descr":null,
+    "course_descr":"In this course, students at all levels of experience and musical interest will participate in solo and group activities and projects with a focus on musical beat, meter, and rhythm patterns, developing a sense of steady and changing tempo, and an understanding how rhythm contributes to style in music. Rhythmic articulation, nuance, and interpretation will be developed through the impact of agogic, metric, tonal, and dynamic accent. This course combines the standards of conservatory musicianship with standards of critical thinking, here represented as critical listening. The repertoire for Musicianship: Rhythm covers vocal and instrumental music, and is open to classical, pop, jazz, folk, music theatre, computer, and international music styles and genres.",
     "instructor":null,
     "scheduled_time_start":"12:05pm",
     "scheduled_time_end":"12:55pm",
@@ -39113,7 +39178,7 @@
   {
     "course_code":"MUSI UN2351",
     "course_title":"Musicianship: Rhythm",
-    "course_descr":null,
+    "course_descr":"In this course, students at all levels of experience and musical interest will participate in solo and group activities and projects with a focus on musical beat, meter, and rhythm patterns, developing a sense of steady and changing tempo, and an understanding how rhythm contributes to style in music. Rhythmic articulation, nuance, and interpretation will be developed through the impact of agogic, metric, tonal, and dynamic accent. This course combines the standards of conservatory musicianship with standards of critical thinking, here represented as critical listening. The repertoire for Musicianship: Rhythm covers vocal and instrumental music, and is open to classical, pop, jazz, folk, music theatre, computer, and international music styles and genres.",
     "instructor":"Peter M Susser",
     "scheduled_time_start":"12:05pm",
     "scheduled_time_end":"12:55pm",
@@ -39138,7 +39203,7 @@
   {
     "course_code":"MUSI UN2352",
     "course_title":"Musicianship: Melody",
-    "course_descr":null,
+    "course_descr":"In this course, students at all levels of experience and musical interest will participate in solo and group activities and projects with a focus on scales, intervals, melodic contour and phrasing, and how they contribute to style in music. The repertoire for Musicianship: Melody covers vocal and instrumental music, and is open to classical, pop, jazz, folk, music theatre, computer, and international music styles and genres.",
     "instructor":null,
     "scheduled_time_start":"3:05pm",
     "scheduled_time_end":"3:55pm",
@@ -39163,7 +39228,7 @@
   {
     "course_code":"MUSI UN2352",
     "course_title":"Musicianship: Melody",
-    "course_descr":null,
+    "course_descr":"In this course, students at all levels of experience and musical interest will participate in solo and group activities and projects with a focus on scales, intervals, melodic contour and phrasing, and how they contribute to style in music. The repertoire for Musicianship: Melody covers vocal and instrumental music, and is open to classical, pop, jazz, folk, music theatre, computer, and international music styles and genres.",
     "instructor":null,
     "scheduled_time_start":"12:05pm",
     "scheduled_time_end":"12:55pm",
@@ -39188,7 +39253,7 @@
   {
     "course_code":"MUSI UN2353",
     "course_title":"Musicianship: Harmony",
-    "course_descr":null,
+    "course_descr":"In this course, students at all levels of experience and musical interest will examine the phenomenon of simultaneous sound with chords and chord progressions, and experience harmony\u2019s impact on musical structure and style. Harmonic articulation, nuance, and interpretation will be developed through the exploration of agogic, metric, tonal, and dynamic accent. The repertoire for Musicianship: Harmony covers vocal and instrumental music, and is open to classical, pop, jazz, folk, music theatre, computer, and international music styles and genres.",
     "instructor":"Peter M Susser",
     "scheduled_time_start":"9:05am",
     "scheduled_time_end":"9:55am",
@@ -39213,7 +39278,7 @@
   {
     "course_code":"MUSI UN3128",
     "course_title":"History of Western Music: Middle Ages to",
-    "course_descr":null,
+    "course_descr":"Topics in western music from Antiquity through Bach and Handel, focusing on the development of musical style and thought, and analysis of selected works. Pre-req: Music Theory II or permission of instructor.",
     "instructor":"Susan Boynton",
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:55pm",
@@ -39238,7 +39303,7 @@
   {
     "course_code":"MUSI UN3239",
     "course_title":"Undergraduate Composition",
-    "course_descr":null,
+    "course_descr":"This course provides an immersive experience in music composition, focusing on both practical and theoretical aspects within a given instrumentation. Please refer to the topic for the instrumentation for this semester\u2019s course. This class is open to students with no prior experience in composition. Students of varying music backgrounds are welcome. Permission of the instructor may be required for enrollment. The class will explore a variety of compositional approaches, including traditional, experimental, and interdisciplinary methods. During the semester, students will complete several creative and theoretical exercises ranging from short composition projects to analytical responses to diverse works. Students will also engage in individual and group feedback sessions as well as in-class readings of selected compositional projects by the performers. The final project will be an original work between 5 and 7 minutes, which will be workshopped, rehearsed, performed in a public concert, and recorded by professional musicians towards the end of the term.",
     "instructor":"Zosha Di Castri",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -39263,7 +39328,7 @@
   {
     "course_code":"MUSI UN3321",
     "course_title":"MUSIC THEORY III",
-    "course_descr":null,
+    "course_descr":"Intermediate analysis and composition in a variety of tonal idioms.",
     "instructor":"Joseph P Dubiel",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:25pm",
@@ -39288,7 +39353,7 @@
   {
     "course_code":"MUSI UN3322",
     "course_title":"MUSIC THEORY IV",
-    "course_descr":null,
+    "course_descr":"Intermediate analysis and composition in a variety of tonal and extended tonal idioms.",
     "instructor":null,
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:25pm",
@@ -39313,7 +39378,7 @@
   {
     "course_code":"MUSI UN3400",
     "course_title":"TOPICS IN MUSIC & SOCIETY",
-    "course_descr":null,
+    "course_descr":"This course seeks to approach the study of music and society by comparatively studying repertories from different parts of the world, how the history of ideas and methods of studying such repertoires shaped them, the practices that constitute them and the ways they are understood and used by different peoples. Central to this course is the interrelationship between the constitution of a repertoire and the history of the construction of knowledge about it.",
     "instructor":"Aaron A Fox",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:25pm",
@@ -45696,7 +45761,7 @@
   {
     "course_code":"POLS BC3021",
     "course_title":"AFRICAN AMERICAN POLITICAL THOUGHT",
-    "course_descr":null,
+    "course_descr":"This course explores the history and the present of African American political theory and practice, through an analysis of theoretical texts, pamphlets\/manifestos, and popular culture from the periods of the abolitionist movement, Reconstruction, civil rights, late 20th century Black feminist thought, and contemporary Black politics and culture. This course emphasizes the way that Black activists, scholars, and\/or artists have responded to eternal questions in political thought about freedom, oppression, resistance, citizenship, democracy, etc., from the standpoint of Blackness in the United States. Moreover, the course is not just African-American Political Thought, it is also American Political Thought, insofar as Black theorizations and experiences of America provides a vital framework for interrogating the American experiment, citizenship and non-citizenship, American slavery and its afterlives, inclusion and exclusion, liberation and domination, and ultimately what \u201cAmerica\u201d is and what it does (and perhaps could) mean to be American.",
     "instructor":"Jonathan J Keller",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -45896,7 +45961,7 @@
   {
     "course_code":"POLS BC3438",
     "course_title":"INTRODUCTION TO AMERICAN CONSTITUTIONAL",
-    "course_descr":null,
+    "course_descr":"This course will introduce students to basic concepts in American Constitutional Law - including the history and development of the U.S. Constitution, theories and practice of constitutional interpetation, and the historical context of major controversies of the Supreme Court. Students will develop the intellectual ability to read case law, properly conceptualize and analyze constitutional issues, and will foster an informed perspective on the nature and limits of constitutional decision making. Class will spend particular attention on the development of civil rights and civil liberties.",
     "instructor":"Jonathan J Keller",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -48891,6 +48956,70 @@
     "type":"LABORATORY"
   },
   {
+    "course_code":"PSYC UN1495",
+    "course_title":"Research Methods: Data Science, Justice,",
+    "course_descr":"The course will provide the rigorous data science training and core content knowledge students need to use data science to effect policy changes that promote a more just society. The course will leverage the academic expertise of psychologists, lawyers and data scientists, the perspectives and experiences of community members and students affiliated with the Center for Justice, and policymakers from government agencies and community organizations. The focus will be on collaborating with community and government organizations to propose data-informed solutions that center on those most impacted by failures of the justice system. Students will learn how to promote a more just society through combining data, disciplinary knowledge, and fine-grained, and on-the-ground experience. They will learn how to approach policy relevant data with an explicit justice mindset such that they consider the implications of specific policies for achieving a more just, racially equitable outcome.",
+    "instructor":"Benjamin Silver",
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"10639",
+    "campus":null,
+    "class_id":"W1495-20263-001",
+    "course_subtitle":"Research Methods: Data Sc",
+    "department":"Psychology",
+    "department_code":"PSYC",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PSYC\/W1495-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "General Studies",
+      "Global Programs",
+      "Professional Studies",
+      "Schools of the Arts"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20263PSYC1495W001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"PSYC UN1496",
+    "course_title":"Research Methods: Data Science, Justice,",
+    "course_descr":"The course will provide the rigorous data science training and core content knowledge students need to use data science to effect policy changes that promote a more just society. The course will leverage the academic expertise of psychologists, lawyers and data scientists, the perspectives and experiences of community members and students affiliated with the Center for Justice, and policymakers from government agencies and community organizations. The focus will be on collaborating with community and government organizations to propose data-informed solutions that center on those most impacted by failures of the justice system. Students will learn how to promote a more just society through combining data, disciplinary knowledge, and fine-grained, and on-the-ground experience. They will learn how to approach policy relevant data with an explicit justice mindset such that they consider the implications of specific policies for achieving a more just, racially equitable outcome.",
+    "instructor":"Benjamin Silver",
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"10640",
+    "campus":null,
+    "class_id":"W1496-20263-001",
+    "course_subtitle":"Research Methods: Data Sc",
+    "department":"Psychology",
+    "department_code":"PSYC",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PSYC\/W1496-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "General Studies",
+      "Global Programs",
+      "Professional Studies",
+      "Schools of the Arts"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20263PSYC1496W001",
+    "type":"LABORATORY"
+  },
+  {
     "course_code":"PSYC UN1610",
     "course_title":"STATISTCS-BEHAVIORL SCIENTISTS",
     "course_descr":"Prerequisites: PSYC UN1001 or PSYC UN1010 Recommended preparation: one course in behavioral science and knowledge of high school algebra. Corequisites: PSYC UN1611 Introduction to statistics that concentrates on problems from the behavioral sciences.",
@@ -49229,38 +49358,6 @@
     "type":"LECTURE"
   },
   {
-    "course_code":"PSYC UN2435",
-    "course_title":"Social Neuroscience",
-    "course_descr":"This course will provide a broad overview of the field of social neuroscience. We will consider how social processes are implemented at the neural level, but also how neural mechanisms help give rise to social phenomena and cultural experiences. Many believe that the large expansion of the human brain evolved due to the complex demands of dealing with social others\u2014competing or cooperating with them, deceiving or empathizing with them, understanding or misjudging them. What kind of \u201csocial brain\u201d has this evolutionary past left us with? In this course, we will review core principles, theories, and methods guiding social neuroscience, as well as research examining the brain basis of processes such as theory of mind, emotion, stereotyping, social group identity, empathy, judging faces and bodies, morality, decision-making, the impact of culture and development, among others. Overall, this course will introduce students to the field of social neuroscience and its multi-level approach to understanding the brain in its social context.",
-    "instructor":"Jon B Freeman",
-    "scheduled_time_start":"2:40pm",
-    "scheduled_time_end":"3:55pm",
-    "call_number":"10688",
-    "campus":null,
-    "class_id":"W2435-20263-001",
-    "course_subtitle":null,
-    "department":"Psychology",
-    "department_code":"PSYC",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PSYC\/W2435-20263-001\/",
-    "location":"To be announced",
-    "method_of_instruction":"In-Person",
-    "open_to":[
-      "Columbia College",
-      "Engineering:Undergraduate",
-      "General Studies",
-      "Global Programs",
-      "Professional Studies",
-      "Schools of the Arts"
-    ],
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"MW",
-    "section_key":"20263PSYC2435W001",
-    "type":"LECTURE"
-  },
-  {
     "course_code":"PSYC UN2450",
     "course_title":"BEHAVIORAL NEUROSCIENCE",
     "course_descr":"Prerequisites: PSYC UN1001 or PSYC UN1010 or the instructors permission. Examines the principles governing neuronal activity, the role of neurotransmitter systems in memory and motivational processes, the presumed brain dysfunctions that give rise to schizophrenia and depression, and philosophical issues regarding the relationship between brain activity and subjective experience.",
@@ -49529,8 +49626,8 @@
     "course_title":"CHILDREN AT RISK",
     "course_descr":"Prerequisites: PSYC UN1010, PSYC UN2280, PSYC UN2620, or PSYC UN2680, and the instructors permission. Considers contemporary risk factors in childrens lives. The immediate and enduring biological and behavioral impact of risk factors.",
     "instructor":null,
-    "scheduled_time_start":"10:10am",
-    "scheduled_time_end":"12:00pm",
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"4:00pm",
     "call_number":"10699",
     "campus":null,
     "class_id":"W3615-20263-001",
@@ -52781,6 +52878,31 @@
     "scheduled_days":null,
     "section_key":"20263SINH3998W001",
     "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"SLLT GR6100",
+    "course_title":"INTRODUCTION TO SLAVIC LITERARY THEORY",
+    "course_descr":null,
+    "instructor":"Mark Lipovetsky",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"12:00pm",
+    "call_number":"11344",
+    "campus":null,
+    "class_id":"G6100-20263-001",
+    "course_subtitle":"INTRO TO SLAVIC LITERARY",
+    "department":"Slavic Languages",
+    "department_code":"SLLT",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SLLT\/G6100-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20263SLLT6100G001",
+    "type":"SEMINAR"
   },
   {
     "course_code":"SOCI BC3087",
