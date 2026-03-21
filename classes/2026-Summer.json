@@ -12342,6 +12342,56 @@
     "type":"INDEPENDENT"
   },
   {
+    "course_code":"ENGI E3900",
+    "course_title":"Undergraduate Research",
+    "course_descr":"Research experience for undergraduate students interested in gaining hands-on practical experience in research. Students work with full-time faculty in their department on a research topic in their discipline.",
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11417",
+    "campus":null,
+    "class_id":"E3900-20262-008",
+    "course_subtitle":"Electrical Engineering",
+    "department":"Engineering",
+    "department_code":"ENGI",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGI\/E3900-20262-008\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"1-6",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262ENGI3900E008",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"ENGI E3900",
+    "course_title":"Undergraduate Research",
+    "course_descr":"Research experience for undergraduate students interested in gaining hands-on practical experience in research. Students work with full-time faculty in their department on a research topic in their discipline.",
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11419",
+    "campus":null,
+    "class_id":"E3900-20262-009",
+    "course_subtitle":"Indst Eng and Ops Research",
+    "department":"Engineering",
+    "department_code":"ENGI",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGI\/E3900-20262-009\/",
+    "location":null,
+    "method_of_instruction":"Hybrid 20-79",
+    "open_to":null,
+    "points":"1-6",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262ENGI3900E009",
+    "type":"INDEPENDENT"
+  },
+  {
     "course_code":"ENGI E4299",
     "course_title":"Executive MS Residence",
     "course_descr":"Course enrollment for MBAxMS students during SEAS residence.",
@@ -12365,6 +12415,31 @@
     "scheduled_days":null,
     "section_key":"20262ENGI4299E001",
     "type":"DUMMY COURSE"
+  },
+  {
+    "course_code":"ENGI E4702",
+    "course_title":"Summer Engineering Seminar",
+    "course_descr":"Current topics in engineering. Subject matter will vary by topic.",
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11422",
+    "campus":null,
+    "class_id":"E4702-20262-009",
+    "course_subtitle":"Indust Eng and Ops Research",
+    "department":"Engineering",
+    "department_code":"ENGI",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGI\/E4702-20262-009\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262ENGI4702E009",
+    "type":"LECTURE"
   },
   {
     "course_code":"ENGI E4900",
@@ -12419,6 +12494,87 @@
     "scheduled_days":null,
     "section_key":"20262ENGI4900E007",
     "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"ENGI E4900",
+    "course_title":"Summer Master's Research",
+    "course_descr":"Working with a faculty member and a team of 3-5 graduate or undergraduate students, students will have the opportunity to work on a small research project. Students can enroll ENGI E3900\/4900 for zero credit, zero fees; students who wish to earn academic credit can enroll in the faculty member\u2019s independent research course or Fieldwork.\u00a0Specific requirements for the project are defined by the faculty members.\u00a0 Research groups meet weekly with their faculty member. Students are also encouraged to submit bi-weekly progress reports to the faculty member.\u00a0 Upon completion of the research project (end of July\/beginning of August), each research team will participate in a research symposium to present their research and deliverables. Note: Enrollment in this course acknowledges the student\u2019s participation in research with an Engineering faculty member.",
+    "instructor":"Zoran Kostic",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11418",
+    "campus":null,
+    "class_id":"E4900-20262-008",
+    "course_subtitle":"Electrical Engineering",
+    "department":"Engineering",
+    "department_code":"ENGI",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGI\/E4900-20262-008\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+      [
+        "ENGI E3900"
+      ]
+    ],
+    "scheduled_days":null,
+    "section_key":"20262ENGI4900E008",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"ENGI E5000",
+    "course_title":"WORKPLACE COMMUNICATION IN ENGLISH",
+    "course_descr":"English communication proficiency is important for academic achievement and career success. Columbia Engineering provides English communication instruction for students who would like to improve their communication skills in English. In a small group setting (15-20 students), enrollees will obtain opportunities to interact with the instructor and fellow classmates to improve communication skills.",
+    "instructor":"Hyoseon Lee",
+    "scheduled_time_start":"10:40am",
+    "scheduled_time_end":"12:20pm",
+    "call_number":"11423",
+    "campus":null,
+    "class_id":"E5000-20262-001",
+    "course_subtitle":"WORKPLACE COMM IN ENGLISH",
+    "department":"Engineering",
+    "department_code":"ENGI",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGI\/E5000-20262-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Engineering:Graduate"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MTWRF",
+    "section_key":"20262ENGI5000E001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGI E5001",
+    "course_title":"PROFESSIONAL PRESENTATION",
+    "course_descr":null,
+    "instructor":"Hyoseon Lee",
+    "scheduled_time_start":"12:50pm",
+    "scheduled_time_end":"2:30pm",
+    "call_number":"11424",
+    "campus":null,
+    "class_id":"E5001-20262-001",
+    "course_subtitle":null,
+    "department":"Engineering",
+    "department_code":"ENGI",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGI\/E5001-20262-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Engineering:Graduate"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MTWRF",
+    "section_key":"20262ENGI5001E001",
+    "type":"LECTURE"
   },
   {
     "course_code":"ENGL BC1022",
