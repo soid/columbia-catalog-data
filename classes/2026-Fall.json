@@ -1221,31 +1221,6 @@
     "type":"LECTURE"
   },
   {
-    "course_code":"AMST BC2111",
-    "course_title":"INTERMEDIATE AMERICAN SIGN LANGUAGE I",
-    "course_descr":"The first half of a one-year sequence in intermediate American Sign Language for students who have completed Elementary ASL I and II or the equivalent.",
-    "instructor":"Kailyn Aaron-Lozano",
-    "scheduled_time_start":"10:10am",
-    "scheduled_time_end":"11:25am",
-    "call_number":"00953",
-    "campus":null,
-    "class_id":"X2111-20263-001",
-    "course_subtitle":"INTERMEDIATE ASL I",
-    "department":"American Studies @Barnard",
-    "department_code":"AMST",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/AMST\/X2111-20263-001\/",
-    "location":"To be announced",
-    "method_of_instruction":null,
-    "open_to":null,
-    "points":"4",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"TR",
-    "section_key":"20263AMST2111X001",
-    "type":"LANGUAGE"
-  },
-  {
     "course_code":"AMST BC3401",
     "course_title":"American Studies Methods: Archive Fever",
     "course_descr":"Introduction to the theoretical approaches of American Studies, as well as the methods and materials used in the interdisciplinary study of American society. Through close reading of a variety of texts (e.g. novels, films, essays), we will analyze the creation, maintenance, and transmission of cultural meaning within American society.",
@@ -11761,8 +11736,8 @@
     "course_title":"SOLID BIOMECHANICS",
     "course_descr":"Applications of continuum mechanics to the understanding of various biological tissues properties. The structure, function, and mechanical properties of various tissues in biolgical systems, such as blood vessels, muscle, skin, brain tissue, bone, tendon, cartilage, ligaments, etc. are examined. The establishment of basic governing mechanical principles and constitutive relations for each tissue. Experimental determination of various tissue properties. Medical and clinical implications of tissue mechanical behavior.",
     "instructor":"X. Edward Guo",
-    "scheduled_time_start":"1:10pm",
-    "scheduled_time_end":"3:40pm",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"6:40pm",
     "call_number":"11866",
     "campus":null,
     "class_id":"E4310-20263-001",
@@ -20906,6 +20881,31 @@
     "scheduled_days":"MWF",
     "section_key":"20263CHNS4301W001",
     "type":"LANGUAGE"
+  },
+  {
+    "course_code":"CHNS GU4507",
+    "course_title":"READINGS IN CLASSICAL CHINESE",
+    "course_descr":null,
+    "instructor":"Wei Shang",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"11:25am",
+    "call_number":"12074",
+    "campus":null,
+    "class_id":"W4507-20263-001",
+    "course_subtitle":"READINGS IN CLASSICAL CHI",
+    "department":"East Asian Languages and Cultures",
+    "department_code":"CHNS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CHNS\/W4507-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20263CHNS4507W001",
+    "type":"LECTURE"
   },
   {
     "course_code":"CHNS GU4516",
@@ -37052,6 +37052,934 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"ERMC PS5520",
+    "course_title":"RISK REGULATIONS IN FINANCE",
+    "course_descr":null,
+    "instructor":"Jean Michel Ngalikpima",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"12051",
+    "campus":null,
+    "class_id":"K5520-20263-001",
+    "course_subtitle":"RISK REGULATIONS IN FINAN",
+    "department":"Enterprise Risk Management",
+    "department_code":"ERMC",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ERMC\/K5520-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20263ERMC5520K001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ERMC PS5520",
+    "course_title":"RISK REGULATIONS IN FINANCE",
+    "course_descr":null,
+    "instructor":"Eric Goetz",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"12052",
+    "campus":null,
+    "class_id":"K5520-20263-D02",
+    "course_subtitle":"RISK REGULATIONS IN FINAN",
+    "department":"Enterprise Risk Management",
+    "department_code":"ERMC",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ERMC\/K5520-20263-D02\/",
+    "location":"To be announced",
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20263ERMC5520KD02",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ERMC PS5525",
+    "course_title":"ESG AND ERM",
+    "course_descr":null,
+    "instructor":"Helda Rock",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"12053",
+    "campus":null,
+    "class_id":"K5525-20263-001",
+    "course_subtitle":null,
+    "department":"Enterprise Risk Management",
+    "department_code":"ERMC",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ERMC\/K5525-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20263ERMC5525K001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ERMC PS5525",
+    "course_title":"ESG AND ERM",
+    "course_descr":null,
+    "instructor":"Jean Michel Ngalikpima",
+    "scheduled_time_start":"8:10pm",
+    "scheduled_time_end":"10:00pm",
+    "call_number":"12054",
+    "campus":null,
+    "class_id":"K5525-20263-002",
+    "course_subtitle":null,
+    "department":"Enterprise Risk Management",
+    "department_code":"ERMC",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ERMC\/K5525-20263-002\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20263ERMC5525K002",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ERMC PS5525",
+    "course_title":"ESG AND ERM",
+    "course_descr":null,
+    "instructor":"Tahmina Day",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"12055",
+    "campus":null,
+    "class_id":"K5525-20263-D03",
+    "course_subtitle":null,
+    "department":"Enterprise Risk Management",
+    "department_code":"ERMC",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ERMC\/K5525-20263-D03\/",
+    "location":"To be announced",
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20263ERMC5525KD03",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ERMC PS5530",
+    "course_title":"DERIVATIVES RISK MANAGEMENT",
+    "course_descr":null,
+    "instructor":"Alberto Scalari",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"12056",
+    "campus":null,
+    "class_id":"K5530-20263-001",
+    "course_subtitle":"DERIVATIVES RISK MANAGEME",
+    "department":"Enterprise Risk Management",
+    "department_code":"ERMC",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ERMC\/K5530-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20263ERMC5530K001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ERMC PS5535",
+    "course_title":"MANAGING STAKEHOLDER RISK IN THE ORGANIZ",
+    "course_descr":null,
+    "instructor":"Kristen Walters",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"12057",
+    "campus":null,
+    "class_id":"K5535-20263-001",
+    "course_subtitle":"MANAGING STAKEHOLDER RISK",
+    "department":"Enterprise Risk Management",
+    "department_code":"ERMC",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ERMC\/K5535-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20263ERMC5535K001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ERMC PS5535",
+    "course_title":"MANAGING STAKEHOLDER RISK IN THE ORGANIZ",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"8:10pm",
+    "scheduled_time_end":"10:00pm",
+    "call_number":"12059",
+    "campus":null,
+    "class_id":"K5535-20263-D02",
+    "course_subtitle":"MANAGING STAKEHOLDER RISK",
+    "department":"Enterprise Risk Management",
+    "department_code":"ERMC",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ERMC\/K5535-20263-D02\/",
+    "location":"To be announced",
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20263ERMC5535KD02",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ERMC PS5535",
+    "course_title":"MANAGING STAKEHOLDER RISK IN THE ORGANIZ",
+    "course_descr":null,
+    "instructor":"Ann Breslawski",
+    "scheduled_time_start":"8:10pm",
+    "scheduled_time_end":"10:00pm",
+    "call_number":"12060",
+    "campus":null,
+    "class_id":"K5535-20263-D03",
+    "course_subtitle":"MANAGING STAKEHOLDER RISK",
+    "department":"Enterprise Risk Management",
+    "department_code":"ERMC",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ERMC\/K5535-20263-D03\/",
+    "location":"To be announced",
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20263ERMC5535KD03",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ERMC PS5540",
+    "course_title":"TOOLS FOR RISK MANAGEMENT",
+    "course_descr":null,
+    "instructor":"Viktor Ziskin",
+    "scheduled_time_start":"8:10pm",
+    "scheduled_time_end":"10:00pm",
+    "call_number":"12062",
+    "campus":null,
+    "class_id":"K5540-20263-001",
+    "course_subtitle":null,
+    "department":"Enterprise Risk Management",
+    "department_code":"ERMC",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ERMC\/K5540-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20263ERMC5540K001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ERMC PS5540",
+    "course_title":"TOOLS FOR RISK MANAGEMENT",
+    "course_descr":null,
+    "instructor":"Barney Baldwin",
+    "scheduled_time_start":"8:10pm",
+    "scheduled_time_end":"10:00pm",
+    "call_number":"12063",
+    "campus":null,
+    "class_id":"K5540-20263-D02",
+    "course_subtitle":null,
+    "department":"Enterprise Risk Management",
+    "department_code":"ERMC",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ERMC\/K5540-20263-D02\/",
+    "location":"To be announced",
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20263ERMC5540KD02",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ERMC PS5545",
+    "course_title":"MODEL RISK MANAGEMENT",
+    "course_descr":null,
+    "instructor":"Peter L Russo",
+    "scheduled_time_start":"8:10pm",
+    "scheduled_time_end":"10:00pm",
+    "call_number":"12064",
+    "campus":null,
+    "class_id":"K5545-20263-001",
+    "course_subtitle":null,
+    "department":"Enterprise Risk Management",
+    "department_code":"ERMC",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ERMC\/K5545-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20263ERMC5545K001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ERMC PS5555",
+    "course_title":"MACHINE LEARNING FOR RISK MANAGEMENT",
+    "course_descr":null,
+    "instructor":"Marshall Alphonso",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"12065",
+    "campus":null,
+    "class_id":"K5555-20263-001",
+    "course_subtitle":"MACHINE LEARNING FOR RISK",
+    "department":"Enterprise Risk Management",
+    "department_code":"ERMC",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ERMC\/K5555-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20263ERMC5555K001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ERMC PS5570",
+    "course_title":"INFORMATION TECHNOLOGY RISK MANAGEMENT",
+    "course_descr":null,
+    "instructor":"Leslie Weinstein",
+    "scheduled_time_start":"8:10pm",
+    "scheduled_time_end":"10:00pm",
+    "call_number":"12066",
+    "campus":null,
+    "class_id":"K5570-20263-001",
+    "course_subtitle":"IT RISK MANAGEMENT",
+    "department":"Enterprise Risk Management",
+    "department_code":"ERMC",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ERMC\/K5570-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20263ERMC5570K001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ERMC PS5570",
+    "course_title":"INFORMATION TECHNOLOGY RISK MANAGEMENT",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"12067",
+    "campus":null,
+    "class_id":"K5570-20263-D02",
+    "course_subtitle":"IT RISK MANAGEMENT",
+    "department":"Enterprise Risk Management",
+    "department_code":"ERMC",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ERMC\/K5570-20263-D02\/",
+    "location":"To be announced",
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20263ERMC5570KD02",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ERMC PS5572",
+    "course_title":"CYBERSECURITY RISK MANAGEMENT",
+    "course_descr":null,
+    "instructor":"Corey Hirsch",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"12068",
+    "campus":null,
+    "class_id":"K5572-20263-001",
+    "course_subtitle":"CYBERSECURITY RISK MANAGE",
+    "department":"Enterprise Risk Management",
+    "department_code":"ERMC",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ERMC\/K5572-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20263ERMC5572K001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ERMC PS5572",
+    "course_title":"CYBERSECURITY RISK MANAGEMENT",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"12069",
+    "campus":null,
+    "class_id":"K5572-20263-D02",
+    "course_subtitle":"CYBERSECURITY RISK MANAGE",
+    "department":"Enterprise Risk Management",
+    "department_code":"ERMC",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ERMC\/K5572-20263-D02\/",
+    "location":"To be announced",
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20263ERMC5572KD02",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ERMC PS5575",
+    "course_title":"THIRD-PARTY RISK MANAGEMENT",
+    "course_descr":null,
+    "instructor":"Shahryar Shaghaghi",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"12070",
+    "campus":null,
+    "class_id":"K5575-20263-001",
+    "course_subtitle":"THIRD-PARTY RISK MANAGEME",
+    "department":"Enterprise Risk Management",
+    "department_code":"ERMC",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ERMC\/K5575-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20263ERMC5575K001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ERMC PS5575",
+    "course_title":"THIRD-PARTY RISK MANAGEMENT",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"8:10pm",
+    "scheduled_time_end":"10:00pm",
+    "call_number":"12071",
+    "campus":null,
+    "class_id":"K5575-20263-D02",
+    "course_subtitle":"THIRD-PARTY RISK MANAGEME",
+    "department":"Enterprise Risk Management",
+    "department_code":"ERMC",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ERMC\/K5575-20263-D02\/",
+    "location":"To be announced",
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20263ERMC5575KD02",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ERMC PS5585",
+    "course_title":"SUPPLY CHAIN RISK MANAGEMENT FOR NON-FIN",
+    "course_descr":null,
+    "instructor":"Dan Cahill",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"12072",
+    "campus":null,
+    "class_id":"K5585-20263-001",
+    "course_subtitle":"SUPPLY CHAIN RM FOR NON-F",
+    "department":"Enterprise Risk Management",
+    "department_code":"ERMC",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ERMC\/K5585-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20263ERMC5585K001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ERMC PS5585",
+    "course_title":"SUPPLY CHAIN RISK MANAGEMENT FOR NON-FIN",
+    "course_descr":null,
+    "instructor":"Bryce Wolf",
+    "scheduled_time_start":"8:10pm",
+    "scheduled_time_end":"10:00pm",
+    "call_number":"12073",
+    "campus":null,
+    "class_id":"K5585-20263-D02",
+    "course_subtitle":"SUPPLY CHAIN RM FOR NON-F",
+    "department":"Enterprise Risk Management",
+    "department_code":"ERMC",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ERMC\/K5585-20263-D02\/",
+    "location":"To be announced",
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20263ERMC5585KD02",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ERMC PS5590",
+    "course_title":"COGNITIVE BIAS & ERM",
+    "course_descr":null,
+    "instructor":"Rich Lauria",
+    "scheduled_time_start":"8:10pm",
+    "scheduled_time_end":"10:00pm",
+    "call_number":"12075",
+    "campus":null,
+    "class_id":"K5590-20263-001",
+    "course_subtitle":null,
+    "department":"Enterprise Risk Management",
+    "department_code":"ERMC",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ERMC\/K5590-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20263ERMC5590K001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ERMC PS5590",
+    "course_title":"COGNITIVE BIAS & ERM",
+    "course_descr":null,
+    "instructor":"Tatiana Dmitrieva",
+    "scheduled_time_start":"8:10pm",
+    "scheduled_time_end":"10:00pm",
+    "call_number":"12076",
+    "campus":null,
+    "class_id":"K5590-20263-D02",
+    "course_subtitle":null,
+    "department":"Enterprise Risk Management",
+    "department_code":"ERMC",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ERMC\/K5590-20263-D02\/",
+    "location":"To be announced",
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20263ERMC5590KD02",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ERMC PS5610",
+    "course_title":"CAREER ACCELERATION",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"12077",
+    "campus":null,
+    "class_id":"K5610-20263-D01",
+    "course_subtitle":null,
+    "department":"Enterprise Risk Management",
+    "department_code":"ERMC",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ERMC\/K5610-20263-D01\/",
+    "location":"To be announced",
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Architecture",
+      "Business",
+      "Engineering:Graduate",
+      "GSAS",
+      "Journalism",
+      "Law",
+      "Professional Studies",
+      "Public Health",
+      "SIPA",
+      "Schools of the Arts",
+      "Social Work"
+    ],
+    "points":"1.5",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20263ERMC5610KD01",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ERMC PS5900",
+    "course_title":"ERM CAPSTONE",
+    "course_descr":null,
+    "instructor":"Xue Bai",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"12078",
+    "campus":null,
+    "class_id":"K5900-20263-001",
+    "course_subtitle":null,
+    "department":"Enterprise Risk Management",
+    "department_code":"ERMC",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ERMC\/K5900-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20263ERMC5900K001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ERMC PS5900",
+    "course_title":"ERM CAPSTONE",
+    "course_descr":null,
+    "instructor":"Xue Bai",
+    "scheduled_time_start":"8:10pm",
+    "scheduled_time_end":"10:00pm",
+    "call_number":"12079",
+    "campus":null,
+    "class_id":"K5900-20263-002",
+    "course_subtitle":null,
+    "department":"Enterprise Risk Management",
+    "department_code":"ERMC",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ERMC\/K5900-20263-002\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20263ERMC5900K002",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ERMC PS5900",
+    "course_title":"ERM CAPSTONE",
+    "course_descr":null,
+    "instructor":"Aristargos Christodoulou",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"12080",
+    "campus":null,
+    "class_id":"K5900-20263-003",
+    "course_subtitle":null,
+    "department":"Enterprise Risk Management",
+    "department_code":"ERMC",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ERMC\/K5900-20263-003\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20263ERMC5900K003",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ERMC PS5900",
+    "course_title":"ERM CAPSTONE",
+    "course_descr":null,
+    "instructor":"Bruce Fox",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"12081",
+    "campus":null,
+    "class_id":"K5900-20263-004",
+    "course_subtitle":null,
+    "department":"Enterprise Risk Management",
+    "department_code":"ERMC",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ERMC\/K5900-20263-004\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20263ERMC5900K004",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ERMC PS5900",
+    "course_title":"ERM CAPSTONE",
+    "course_descr":null,
+    "instructor":"Narae Lee",
+    "scheduled_time_start":"8:10pm",
+    "scheduled_time_end":"10:00pm",
+    "call_number":"12082",
+    "campus":null,
+    "class_id":"K5900-20263-005",
+    "course_subtitle":null,
+    "department":"Enterprise Risk Management",
+    "department_code":"ERMC",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ERMC\/K5900-20263-005\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20263ERMC5900K005",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ERMC PS5900",
+    "course_title":"ERM CAPSTONE",
+    "course_descr":null,
+    "instructor":"Richard R. Ranade",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"12083",
+    "campus":null,
+    "class_id":"K5900-20263-006",
+    "course_subtitle":null,
+    "department":"Enterprise Risk Management",
+    "department_code":"ERMC",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ERMC\/K5900-20263-006\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20263ERMC5900K006",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ERMC PS5900",
+    "course_title":"ERM CAPSTONE",
+    "course_descr":null,
+    "instructor":"Yi Zuo",
+    "scheduled_time_start":"8:10pm",
+    "scheduled_time_end":"10:00pm",
+    "call_number":"12084",
+    "campus":null,
+    "class_id":"K5900-20263-007",
+    "course_subtitle":null,
+    "department":"Enterprise Risk Management",
+    "department_code":"ERMC",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ERMC\/K5900-20263-007\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20263ERMC5900K007",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ERMC PS5900",
+    "course_title":"ERM CAPSTONE",
+    "course_descr":null,
+    "instructor":"Benjamin M Perlman",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"12085",
+    "campus":null,
+    "class_id":"K5900-20263-008",
+    "course_subtitle":null,
+    "department":"Enterprise Risk Management",
+    "department_code":"ERMC",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ERMC\/K5900-20263-008\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20263ERMC5900K008",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ERMC PS5900",
+    "course_title":"ERM CAPSTONE",
+    "course_descr":null,
+    "instructor":"Rich Lauria",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"12086",
+    "campus":null,
+    "class_id":"K5900-20263-D09",
+    "course_subtitle":null,
+    "department":"Enterprise Risk Management",
+    "department_code":"ERMC",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ERMC\/K5900-20263-D09\/",
+    "location":"To be announced",
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20263ERMC5900KD09",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ERMC PS5900",
+    "course_title":"ERM CAPSTONE",
+    "course_descr":null,
+    "instructor":"David P McCarthy",
+    "scheduled_time_start":"8:10pm",
+    "scheduled_time_end":"10:00pm",
+    "call_number":"12087",
+    "campus":null,
+    "class_id":"K5900-20263-D10",
+    "course_subtitle":null,
+    "department":"Enterprise Risk Management",
+    "department_code":"ERMC",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ERMC\/K5900-20263-D10\/",
+    "location":"To be announced",
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20263ERMC5900KD10",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"EXRS GR0001",
     "course_title":"EXTENDED RESIDENCE F\/T",
     "course_descr":"Extended Residence",
@@ -48354,6 +49282,31 @@
     "type":"LANGUAGE"
   },
   {
+    "course_code":"JPNS GR8020",
+    "course_title":"GRAD SEM IN MOD JAPANESE LIT",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"6:00pm",
+    "call_number":"12094",
+    "campus":null,
+    "class_id":"G8020-20263-001",
+    "course_subtitle":"GRAD SEM IN MOD JAPANESE",
+    "department":"East Asian Languages and Cultures",
+    "department_code":"JPNS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/JPNS\/G8020-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20263JPNS8020G001",
+    "type":"SEMINAR"
+  },
+  {
     "course_code":"JPNS GU4007",
     "course_title":"INTRO TO CLASSICAL JAPANESE I",
     "course_descr":"Prerequisites: JPNS C1202 or the equivalent. Introduction to the fundamentals of classical Japanese grammar. Trains students to read Japanese historical and literary texts from the early period up to the 20th century.",
@@ -48973,8 +49926,8 @@
     "course_title":"FIRST-YEAR KOREAN I",
     "course_descr":"This introductory course is designed to equip beginners with a solid foundation in modern Korean\n language and culture through the integrated development of the four core language skills: speaking,\n listening, reading, and writing. Students will begin by mastering the Korean writing system (Hangul)\n within the first two weeks, followed by seven structured lessons focusing on essential grammatical\n structures, vocabulary, and basic conversational skills.\n Upon successful completion of this course, students will be able to:\n \u00a7 Understand and use basic grammatical structures and vocabulary in everyday conversations.\n \u00a7 Comprehend spoken and written Korean in structured contexts, such as classroom dialogues and\n short passages.\n \u00a7 Deliver short, structured presentations in Korean on familiar topics using appropriate vocabulary,\n grammar, and pronunciation.\n  \n\u00a7 Engage in simple interpersonal communication on familiar topics, such as greetings, self-\n introduction, daily routines, and preferences.\n  \n\u00a7 Demonstrate cultural understanding of modern Korean society through exposure to authentic\n media and participation in cultural activities.",
     "instructor":"Hwanhee Kim",
-    "scheduled_time_start":"10:10am",
-    "scheduled_time_end":"11:25am",
+    "scheduled_time_start":"8:40am",
+    "scheduled_time_end":"9:45am",
     "call_number":"00058",
     "campus":null,
     "class_id":"X1111-20263-001",
@@ -48998,8 +49951,8 @@
     "course_title":"SECOND-YEAR KOREAN I",
     "course_descr":"The first half of a one-year sequence in intermediate Korean for students who have completed First-Year Chinese I and II or the equivalent.",
     "instructor":"Hwanhee Kim",
-    "scheduled_time_start":"8:40am",
-    "scheduled_time_end":"9:45am",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"11:15am",
     "call_number":"00771",
     "campus":null,
     "class_id":"X2111-20263-001",
@@ -58361,8 +59314,8 @@
     "course_title":"Visual Neuroscience: From the Eyeball to",
     "course_descr":"By absorbing electromagnetic radiation through their eyes, people are able to catch frisbees, recognize faces, and judge the beauty of art. For most of us, seeing feels effortless. That feeling is misleading. Seeing requires not only precise optics to focus images on the retina, but also the concerted action of millions of nerve cells in the brain. This intricate circuitry infers the likely causes of incoming patterns of light and transforms that information into feelings, thoughts, and actions. In this course we will study how light evokes electrical activity in a hierarchy of specialized neural networks that accomplish many unique aspects of seeing. Students will have the opportunity to focus their study on particular aspects, such as color, motion, object recognition, learning, attention, awareness, and how sight can be lost and recovered.\u00a0 Throughout the course we will discuss principles of neural information coding (e.g., receptive field tuning, adaptation, normalization, etc.) that are relevant to other areas of neuroscience, as well as medicine, engineering, art and design.",
     "instructor":"Alex White",
-    "scheduled_time_start":"10:10am",
-    "scheduled_time_end":"12:00pm",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
     "call_number":"00313",
     "campus":null,
     "class_id":"X3381-20263-001",
@@ -64250,8 +65203,8 @@
     "course_title":"INTRO TO COMPARATIVE POLITICS",
     "course_descr":"This course provides a broad overview of the comparative politics subfield by focusing on important substantive questions about the world today. The course is organized around four questions. First, why can only some people depend upon the state to enforce order? Second, how can we account for the differences between autocracies and democracies? Third, what different institutional forms does democratic government take? Finally, are some institutions more likely than others to produce desirable social outcomes such as accountability, redistribution, and political stability?\n  \nBEGINNING IN FALL 2025, BARNARD STUDENTS WISHING TO TAKE COMPARATIVE POLITICS FOR INTRO CREDIT TOWARD THE MAJOR MUST TAKE POLS-BC1510. If Barnard students enroll in POLS-UN2501, the course will only count toward their major as elective credit.\n  \nColumbia College students who take POLS-BC1510 can only apply the course toward their major for elective credit.\n  \nStudents may not get credit for more than one of the following courses:\u00a0 POLS BC1510, POLS UN1501, or POLS-UN2501.",
     "instructor":"Faculty",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"5:25pm",
     "call_number":"00817",
     "campus":null,
     "class_id":"X1510-20263-001",
@@ -64259,7 +65212,7 @@
     "department":"Political Science @Barnard",
     "department_code":"POLS",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/POLS\/X1510-20263-001\/",
-    "location":null,
+    "location":"To be announced",
     "method_of_instruction":null,
     "open_to":null,
     "points":"4",
@@ -64277,7 +65230,7 @@
         "POLS BC1510"
       ]
     ],
-    "scheduled_days":null,
+    "scheduled_days":"MW",
     "section_key":"20263POLS1510X001",
     "type":"LECTURE"
   },
@@ -64511,7 +65464,7 @@
     "course_title":"Colloquium: Transnational Kleptocracy",
     "course_descr":"The term \u201ckleptocracy\u201d literally means \u201crule by thieves\u201d and refers to the extensive grand corruption that elite rulers, allies and their family members engage in to privately enrich themselves at the expense of their populations. Traditionally, kleptocracy has been viewed as a scourge on developing countries, associated with greedy authoritarian rulers in conflict-prone, resource rich and\/or aid dependent states. However, in recent years scholars and policymakers have increasingly become aware of the critical role played by international actors, institutions, legal structures and professional service providers that facilitate kleptocracy at a global level. Unlike other transnational illicit sectors such as narcotics trafficking or terrorism, many aspects of kleptocracy networks are publicly visible and perfectly legal. Overall, these networks function to enable the domestic plundering of these elites, the whitewashing of their reputations, and the exacerbation of vast inequality, both within the countries that kleptocrats systemically plunder and between the Global South and the West which receives and benefits from many of the proceeds of these corrupt activities.\u00a0\n  \nThe first part of the course (Weeks 2-5) examines the transnational actors, service professionals and institutions that facilitate money laundering by kleptocrats. The second part (Weeks 6-7) concentrates on how kleptocrats launder their reputations, by presenting themselves as global philanthropists or business professionals and by acquiring residency in other jurisdictions through the growing market for citizenship. \u00a0The final part of the course (Weeks 8-10) examines recent developments in international policy efforts to counter kleptocracy, including incorporating such efforts into national security strategies, enacting extraterritorial legislation to punish corporate bribery, sanctioning individual kleptocrats and oligarchs, and amending libel laws in countries like the UK that are routinely used by kleptocrats to intimidate journalists and deter investigations into their dealings. \u00a0\n  \nFinally, throughout the course we will grapple with the methodological challenges posed by trying to study and detect illegal and secretive patterns of behavior. What are the tools, resources and research techniques available to researchers and policy makers interested in making more evidence-based assessments about kleptocracy and grand corruption?",
     "instructor":"Alexander A Cooley",
-    "scheduled_time_start":"10:00am",
+    "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
     "call_number":"00830",
     "campus":null,
@@ -65526,8 +66479,8 @@
     "course_title":"INTRODUCTION TO PSYCHOLOGY",
     "course_descr":"This course is a prerequisite for the Psychology Major, as well as for most other Barnard PSYC courses (be sure to check all course information before enrolling in a course).\n  \nThe following Columbia University courses are considered overlapping and a student cannot receive credit for both the BC course and the equivalent CU course: UN1001 The Science of Psychology; and UN1021 Science of Psychology: Explorations\/Applications.",
     "instructor":"Angelika Seidel",
-    "scheduled_time_start":"1:10pm",
-    "scheduled_time_end":"2:25pm",
+    "scheduled_time_start":"5:40pm",
+    "scheduled_time_end":"6:55pm",
     "call_number":"00610",
     "campus":null,
     "class_id":"X1001-20263-003",
@@ -71426,6 +72379,33 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"SCNC CC1000",
+    "course_title":"FRONTIERS OF SCIENCE",
+    "course_descr":null,
+    "instructor":"Ivana N Hughes",
+    "scheduled_time_start":"10:30am",
+    "scheduled_time_end":"12:00pm",
+    "call_number":"12058",
+    "campus":null,
+    "class_id":"C1000-20263-001",
+    "course_subtitle":null,
+    "department":"Core (A&S)",
+    "department_code":"SCNC",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SCNC\/C1000-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20263SCNC1000C001",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"SDEV GU4550",
     "course_title":"The New York City Watershed: From Commun",
     "course_descr":"The New York City Watershed: From Community Displacement to\n \nCollaboration and Climate Adaptation \nbrings students to the Catskill Mountains in upstate New York to learn first hand from researchers and practitioners who help supply over ten million New Yorkers with safe and abundant drinking water while also working to build social, economic and environmental capital in the towns and villages located in the watershed surrounding the city\u2019s reservoirs \u2013 all against a backdrop of increasing climate-related disruption.\u00a0\n  \nThe class will learn how New York City and a coalition of upstate watershed communities worked to end nearly a century of mutual resentment, displacement and extraction by entering into the \nWatershed Agreement of 1997\n, which has become a widely renowned model for collaborative and equitable water resources management planning in the twenty-five years since its completion. Students will engage with several of the Watershed Agreement\u2019s original negotiators and with the local elected officials, agency staff and non-profit leaders who implement its signature \u201c\nmulti-barrier\n\u201d strategy for drinking water protection through open space preservation, support for sustainable farming practices and investments in clean water infrastructure and sustainable economic growth in watershed communities. They will also learn how increases in storm intensity and warming driven by climate change threaten to upset the delicate balance between New York City\u2019s need for safe drinking water and the socio-economic interests of upstate watershed communities.\u00a0\n  \nUpon completion of the course, students will better understand the challenges involved in creating and implementing collaborative, multi-stakeholder plans for water resource management and host community benefits in today\u2019s increasingly climate-disrupted world.",
@@ -71523,6 +72503,31 @@
     ],
     "scheduled_days":"TR",
     "section_key":"20263SDEV3320W001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"SDEV UN3360",
+    "course_title":"DISASTERS AND DEVELOPMENT",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"7:25pm",
+    "call_number":"12061",
+    "campus":null,
+    "class_id":"W3360-20263-001",
+    "course_subtitle":null,
+    "department":"Earth Institute",
+    "department_code":"SDEV",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SDEV\/W3360-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20263SDEV3360W001",
     "type":"LECTURE"
   },
   {
@@ -74093,6 +75098,166 @@
     ],
     "scheduled_days":"TR",
     "section_key":"20263SPAN3350W001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"SPMG PS5001",
+    "course_title":"INTRODUCTION TO FINANCE",
+    "course_descr":null,
+    "instructor":"Eleni Vrana",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"12088",
+    "campus":null,
+    "class_id":"K5001-20263-001",
+    "course_subtitle":null,
+    "department":"Enterprise Risk Management",
+    "department_code":"SPMG",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SPMG\/K5001-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20263SPMG5001K001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"SPMG PS5003",
+    "course_title":"CORPORATE FINANCE",
+    "course_descr":null,
+    "instructor":"John D Van Ness",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"12089",
+    "campus":null,
+    "class_id":"K5003-20263-001",
+    "course_subtitle":null,
+    "department":"Enterprise Risk Management",
+    "department_code":"SPMG",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SPMG\/K5003-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20263SPMG5003K001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"SPMG PS5008",
+    "course_title":"OPTIONS AND FUTURES",
+    "course_descr":null,
+    "instructor":"Ted Jastrzebski",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"12090",
+    "campus":null,
+    "class_id":"K5008-20263-001",
+    "course_subtitle":null,
+    "department":"Enterprise Risk Management",
+    "department_code":"SPMG",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SPMG\/K5008-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20263SPMG5008K001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"SPMG PS5009",
+    "course_title":"FINANCIAL ACCOUNTING",
+    "course_descr":null,
+    "instructor":"Melissa Hall",
+    "scheduled_time_start":"8:10pm",
+    "scheduled_time_end":"10:00pm",
+    "call_number":"12091",
+    "campus":null,
+    "class_id":"K5009-20263-001",
+    "course_subtitle":null,
+    "department":"Enterprise Risk Management",
+    "department_code":"SPMG",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SPMG\/K5009-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20263SPMG5009K001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"SPMG PS5009",
+    "course_title":"FINANCIAL ACCOUNTING",
+    "course_descr":null,
+    "instructor":"Rebecca Shaffer",
+    "scheduled_time_start":"8:10pm",
+    "scheduled_time_end":"10:00pm",
+    "call_number":"12092",
+    "campus":null,
+    "class_id":"K5009-20263-D02",
+    "course_subtitle":null,
+    "department":"Enterprise Risk Management",
+    "department_code":"SPMG",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SPMG\/K5009-20263-D02\/",
+    "location":"To be announced",
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20263SPMG5009KD02",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"SPMG PS5040",
+    "course_title":"SECURITY ANALYSIS",
+    "course_descr":null,
+    "instructor":"Panos Mourdoukoutas",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"12093",
+    "campus":null,
+    "class_id":"K5040-20263-001",
+    "course_subtitle":null,
+    "department":"Enterprise Risk Management",
+    "department_code":"SPMG",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SPMG\/K5040-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20263SPMG5040K001",
     "type":"LECTURE"
   },
   {
