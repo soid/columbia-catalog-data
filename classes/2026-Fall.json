@@ -581,7 +581,7 @@
   {
     "course_code":"AFAS GU4010",
     "course_title":"Reading the works of Jamaica Kincaid",
-    "course_descr":null,
+    "course_descr":"This seminar offers a sustained exploration of the fiction and nonfiction of Jamaica Kincaid, a Caribbean-American writer described by the novelist Tiphanie Yanique as \u201ca fiction writer with a poet\u2019s air and a journalist\u2019s eye.\u201d In Fall 2026, Kincaid will be a Writer-in-Residence at Columbia University, providing students with a rare opportunity to engage directly with her presence and intellectual contributions on campus. The course is organized in two parts: the first half examines Kincaid\u2019s nonfiction\u2014some of her essays, memoirs, and nature writing\u2014while the second half traces her fiction from \nAt the Bottom of the River to See Now Then\n. Central themes include colonialism and its aftermath, migration and exile, maternal relationships, ecological memory, and cultural displacement. This course emphasizes close reading, critical scholarship, and creative response. Students will be expected to contribute actively to seminar discussions and produce original work that bridges analytical and creative modes.",
     "instructor":"Edwidge Danticat",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -1756,7 +1756,7 @@
   {
     "course_code":"AMST UN3930",
     "course_title":"TOPICS IN AMERICAN STUDIES",
-    "course_descr":null,
+    "course_descr":"Please refer to the Center for American Studies website\u00a0for course descriptions for each section. \namericanstudies.columbia.edu",
     "instructor":"Casey Blake",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -1781,7 +1781,7 @@
   {
     "course_code":"AMST UN3930",
     "course_title":"TOPICS IN AMERICAN STUDIES",
-    "course_descr":null,
+    "course_descr":"Please refer to the Center for American Studies website\u00a0for course descriptions for each section. \namericanstudies.columbia.edu",
     "instructor":"Benjamin Rosenberg",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -1806,7 +1806,7 @@
   {
     "course_code":"AMST UN3933",
     "course_title":"The American Graphic Novel",
-    "course_descr":null,
+    "course_descr":"The course seeks to combine literary and historical approaches to investigate one of the most rapidly growing, increasingly influential, and, increasingly, critically recognized forms of American popular literature: the graphic novel. A historical overview of the medium\u2019s development, complete with analysis of relevant broader institutional and cultural factors illuminating the development of American media culture more generally, will be complemented by study of a series of recent works illuminating the medium\u2019s explosive maturation. Authors read include Eisner, Crumb, Spiegelman, Bechdel, Thompson, and Hernandez.",
     "instructor":null,
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -1831,7 +1831,7 @@
   {
     "course_code":"AMST UN3937",
     "course_title":"American Journalism and Democracy",
-    "course_descr":null,
+    "course_descr":"The traditional role of the media in our democracy -- to support an informed electorate -- has been disrupted in the 21st century by technological change, transforming the delivery of information and opinion in radical ways. Partisanship has soared, along with a collapse of the shared fact base. In this course we examine the current state of political and election coverage, in counterpoint with iconic pieces of political reporting and media analysis that offer perspective and highlight turning points in the history of American journalism.\n  \nWith the shrinking role of the legacy news media and the explosion of new formats and platforms, the concept of \"objectivity\" has lost value. We explore the impact of novel news sources and styles of expression, the impact of algorithms that prioritize emotional engagement, the decline of trust in the media, and the scourge of misinformation. What is the future of independent journalism? And how are these profound changes in news consumption affecting the decisions that voters make?",
     "instructor":"Caroline Miller",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -1856,7 +1856,7 @@
   {
     "course_code":"AMST UN3943",
     "course_title":"Free Speech in American Society",
-    "course_descr":null,
+    "course_descr":"In the contemporary USA, free speech is often understood as a legal doctrine or a branch of Constitutional\u00a0Law. But it can also be understood as a tradition, a way of life, part of American culture. In\u00a0this seminar, we will explore the hypothesis that America\u2019s free speech tradition has been shaped primarily\u00a0by people who aren\u2019t lawyers or lawmakers: by beatniks, pamphleteers, abolitionists, Red\u00a0Power activists, queers, feminists and Free Lovers, poets, preachers, and hackers. People from all\u00a0these groups have shaped America\u2019s free speech tradition from the sixteenth century to the present\u00a0day, although they\u2019re usually omitted from Constitution-centered histories of free speech because\u00a0they weren\u2019t lawyers or parties to lawsuits.\n  \nThis course provides a transnational, cultural perspective on free speech history that decenters\u00a0the First Amendment from its quasi-sacrosanct place in the historiography of American liberty.\u00a0Instead of looking at legal arguments and decisions, we will survey the very wide range of social\u00a0contexts in which struggles over free speech have taken place in American history, from the\u00a0 Pueblo\u00a0Revolt in seventeenth-century New Mexico to the rise of MAGA in our own time. We\u2019ll seek to\u00a0understand how, starting in the twentieth century, \u201cfree speech\u201d and \u201cthe First Amendment\u201d became\u00a0practically synonymous, with the result that most contemporary Americans know very little\u00a0about the history of free expression in this country. And we\u2019ll ask what (if anything) gives America\u2019s\u00a0four-hundred-year-old free speech tradition its unity and coherence.",
     "instructor":"Ryan Carr",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -13932,7 +13932,7 @@
   {
     "course_code":"CHEM BC3284",
     "course_title":"CURRENT TOPICS BIOCHEMISTRY",
-    "course_descr":null,
+    "course_descr":"Prerequisites: CHEM BC3282 and CHEM BC3355 or instructor approval. This course is designed to expose students to a range of current research topics in the field of biochemistry and develop their ability to understand and evaluate primary scientific literature. The first half of the course will focus on current research on fundamental biochemistry systems and processes; the second half will addres biomedicinal application and advances.",
     "instructor":"Christina Vizcarra",
     "scheduled_time_start":"8:40am",
     "scheduled_time_end":"9:55am",
@@ -13948,7 +13948,12 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "CHEM BC3282"
+      ],
+      [
+        "CHEM BC3355"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20263CHEM3284X001",
@@ -22705,7 +22710,7 @@
   {
     "course_code":"CLEN GR6302",
     "course_title":"Hitchcock \/ Theory",
-    "course_descr":null,
+    "course_descr":"In the later 20th century, Alfred Hitchcock\u2019s reputation underwent a significant critical revaluation. No longer viewed as merely the \u201cMaster of Suspense,\u201d he\u2014and his work\u2014became central objects of poststructuralist thought,\u00a0 embraced not only by film theorists but by world-renowned philosophers and critical theorists. This is a course on both Hitchcock\u2019s films and 20th- and 21st-century critical theory. In conjunction with the films, we will read key texts by Alain Badiou, Gilles Deleuze, Freud, Fredric Jameson, Jacques Lacan, Laura Mulvey, Jacques Ranci\u00e8re, Tzvetan Todorov, Slavoj \u017di\u017eek (and others). We will develop skills in close cinematic analysis and the parsing of theoretical texts, while exploring keywords in literary, media, and performance theory (narrative, apparatus, ideology, dispositif, subject, performativity, affect, gaze, fetish, frame, screen, theatricality, etc.).",
     "instructor":"Julie S Peters",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -22742,7 +22747,7 @@
   {
     "course_code":"CLEN GU4550",
     "course_title":"NARRATIVE AND HUMAN RIGHTS",
-    "course_descr":null,
+    "course_descr":"(Lecture). We cant talk about human rights without talking about the forms in which we talk about human rights. This course will study the convergences of the thematics, philosophies, politics, practices, and formal properties of literature and human rights. In particular, it will examine how literary questions of narrative shape (and are shaped by) human rights concerns; how do the forms of stories enable and respond to forms of thought, forms of commitment, forms of being, forms of justice, and forms of violation? How does narrative help us to imagine an international order based on human dignity, rights, and equality? We will read classic literary texts and contemporary writing (both literary and non-literary) and view a number of films and other multimedia projects to think about the relationships between story forms and human rights problematics and practices. Likely literary authors: Roberto Bola\u00f1o, Miguel de Cervantes, Assia Djebar, Ariel Dorfman, Slavenka Drakulic, Nuruddin Farah, Janette Turner Hospital, Franz Kafka, Sahar Kalifeh, Sindiwe Magona, Maniza Naqvi, Michael Ondaatje, Alicia Partnoy, Ousmane Semb\u00e8ne, Mark Twain . . . . We will also read theoretical and historical pieces by authors such as Agamben, An-Naim, Appiah, Arendt, Balibar, Bloch, Chakrabarty, Derrida, Douzinas, Habermas, Harlow, Ignatieff, Laclau and Mouffe, Levinas, Lyotard, Marx, Mutua, Nussbaum, Rorty, Said, Scarry, Soyinka, Spivak, Williams.",
     "instructor":"Joseph R Slaughter",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:25pm",
@@ -22782,7 +22787,7 @@
   {
     "course_code":"CLEN UN3720",
     "course_title":"PLATO THE RHETORICIAN",
-    "course_descr":null,
+    "course_descr":"Prerequisites: Instructors permission (Seminar). Although Socrates takes a notoriously dim view of persuasion and the art that produces it, the Platonic dialogues featuring him both theorize and practice a range of rhetorical strategies that become the nuts and bolts of persuasive argumentation. This seminar will read a number of these dialogues, including Apology, Protagoras, Ion, Gorgias, Phaedrus, Menexenus and Republic, followed by Aristoles Rhetoric, the rhetorical manual of Platos student that provides our earliest full treatment of the art. Application instructions: E-mail Prof. Eden (khe1@columbia.edu) with your name, school, major, year of study, and relevant courses taken, along with a brief statement about why you are interested in taking the course. Admitted students should register for the course; they will automatically be placed on a wait list from which the instructor will in due course admit them as spaces become available.",
     "instructor":"Kathy H Eden",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -25066,7 +25071,7 @@
   {
     "course_code":"COCI CC1101",
     "course_title":"CONTEMP WESTERN CIVILIZATION I",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Latin American and Iberian Cultures, Middle Eastern, South Asian, and African Studies, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":null,
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -25711,7 +25716,7 @@
   {
     "course_code":"COMM PS5020",
     "course_title":"STRATEGIC STORYTELLER",
-    "course_descr":null,
+    "course_descr":"The purpose of this course is to provide students with a deep and broad understanding of stories and how they can be used in strategic communication. Drawing from a wealth of evidence-based and field-tested work on storytelling from both local and global contexts, students will learn why stories tend to be so powerful and\u2014with a focus on the written, performed, and transmedia aspects of storytelling\u2014gain experience in telling stories to achieve organizational objectives. Your skills will be sharpened through lively seminar discussions, storytelling exercises, workshop-style coaching, and presentations and on-camera practice. \u00a0By the end, students will walk away with a new mindset and a host of strategies that can be immediately implemented in their everyday work.",
     "instructor":null,
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -25738,7 +25743,7 @@
   {
     "course_code":"COMM PS5025",
     "course_title":"STRATEGIC COMMUNICATION MANAGEMENT",
-    "course_descr":null,
+    "course_descr":"This course examines the strategic role for communication in driving organizational outcomes. It covers key aspects of communication management, including how to plan, implement and measure strategic communication initiatives. Students learn to assess organizational needs, identify stakeholders and draft messaging that speaks credibly to a variety of constituencies, both internal and external. We also emphasize fundamental business skills, such as interpreting financial reports and understanding the language of business.",
     "instructor":null,
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -25765,7 +25770,7 @@
   {
     "course_code":"COMM PS5025",
     "course_title":"STRATEGIC COMMUNICATION MANAGEMENT",
-    "course_descr":null,
+    "course_descr":"This course examines the strategic role for communication in driving organizational outcomes. It covers key aspects of communication management, including how to plan, implement and measure strategic communication initiatives. Students learn to assess organizational needs, identify stakeholders and draft messaging that speaks credibly to a variety of constituencies, both internal and external. We also emphasize fundamental business skills, such as interpreting financial reports and understanding the language of business.",
     "instructor":null,
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"2:00pm",
@@ -25792,7 +25797,7 @@
   {
     "course_code":"COMM PS5025",
     "course_title":"STRATEGIC COMMUNICATION MANAGEMENT",
-    "course_descr":null,
+    "course_descr":"This course examines the strategic role for communication in driving organizational outcomes. It covers key aspects of communication management, including how to plan, implement and measure strategic communication initiatives. Students learn to assess organizational needs, identify stakeholders and draft messaging that speaks credibly to a variety of constituencies, both internal and external. We also emphasize fundamental business skills, such as interpreting financial reports and understanding the language of business.",
     "instructor":null,
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -25819,7 +25824,7 @@
   {
     "course_code":"COMM PS5025",
     "course_title":"STRATEGIC COMMUNICATION MANAGEMENT",
-    "course_descr":null,
+    "course_descr":"This course examines the strategic role for communication in driving organizational outcomes. It covers key aspects of communication management, including how to plan, implement and measure strategic communication initiatives. Students learn to assess organizational needs, identify stakeholders and draft messaging that speaks credibly to a variety of constituencies, both internal and external. We also emphasize fundamental business skills, such as interpreting financial reports and understanding the language of business.",
     "instructor":null,
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -25846,7 +25851,7 @@
   {
     "course_code":"COMM PS5025",
     "course_title":"STRATEGIC COMMUNICATION MANAGEMENT",
-    "course_descr":null,
+    "course_descr":"This course examines the strategic role for communication in driving organizational outcomes. It covers key aspects of communication management, including how to plan, implement and measure strategic communication initiatives. Students learn to assess organizational needs, identify stakeholders and draft messaging that speaks credibly to a variety of constituencies, both internal and external. We also emphasize fundamental business skills, such as interpreting financial reports and understanding the language of business.",
     "instructor":null,
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -25873,7 +25878,7 @@
   {
     "course_code":"COMM PS5025",
     "course_title":"STRATEGIC COMMUNICATION MANAGEMENT",
-    "course_descr":null,
+    "course_descr":"This course examines the strategic role for communication in driving organizational outcomes. It covers key aspects of communication management, including how to plan, implement and measure strategic communication initiatives. Students learn to assess organizational needs, identify stakeholders and draft messaging that speaks credibly to a variety of constituencies, both internal and external. We also emphasize fundamental business skills, such as interpreting financial reports and understanding the language of business.",
     "instructor":null,
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -25900,7 +25905,7 @@
   {
     "course_code":"COMM PS5025",
     "course_title":"STRATEGIC COMMUNICATION MANAGEMENT",
-    "course_descr":null,
+    "course_descr":"This course examines the strategic role for communication in driving organizational outcomes. It covers key aspects of communication management, including how to plan, implement and measure strategic communication initiatives. Students learn to assess organizational needs, identify stakeholders and draft messaging that speaks credibly to a variety of constituencies, both internal and external. We also emphasize fundamental business skills, such as interpreting financial reports and understanding the language of business.",
     "instructor":null,
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -25927,7 +25932,7 @@
   {
     "course_code":"COMM PS5070",
     "course_title":"THE COMPELLING COMMUNICATOR",
-    "course_descr":null,
+    "course_descr":"The ability to communicate effectively is a key competency for professionals. As emerging industry leaders, understanding the audience, framing the message, and using media channels to achieve specified objectives are critical skills, whether written or spoken. Through a variety of written and oral assignments, students learn to apply foundational communication theory to inform and engage stakeholders. The first part of the course focuses on written deliverables, emphasizing audience-framed messaging and developing simple, clear and persuasive content. The second part transitions to enhancing spoken delivery and presentation skills where students gain experience in speechwriting, storytelling and using data visualization to motivate an audience to act.",
     "instructor":null,
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -25954,7 +25959,7 @@
   {
     "course_code":"COMM PS5070",
     "course_title":"THE COMPELLING COMMUNICATOR",
-    "course_descr":null,
+    "course_descr":"The ability to communicate effectively is a key competency for professionals. As emerging industry leaders, understanding the audience, framing the message, and using media channels to achieve specified objectives are critical skills, whether written or spoken. Through a variety of written and oral assignments, students learn to apply foundational communication theory to inform and engage stakeholders. The first part of the course focuses on written deliverables, emphasizing audience-framed messaging and developing simple, clear and persuasive content. The second part transitions to enhancing spoken delivery and presentation skills where students gain experience in speechwriting, storytelling and using data visualization to motivate an audience to act.",
     "instructor":null,
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -25981,7 +25986,7 @@
   {
     "course_code":"COMM PS5070",
     "course_title":"THE COMPELLING COMMUNICATOR",
-    "course_descr":null,
+    "course_descr":"The ability to communicate effectively is a key competency for professionals. As emerging industry leaders, understanding the audience, framing the message, and using media channels to achieve specified objectives are critical skills, whether written or spoken. Through a variety of written and oral assignments, students learn to apply foundational communication theory to inform and engage stakeholders. The first part of the course focuses on written deliverables, emphasizing audience-framed messaging and developing simple, clear and persuasive content. The second part transitions to enhancing spoken delivery and presentation skills where students gain experience in speechwriting, storytelling and using data visualization to motivate an audience to act.",
     "instructor":null,
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -26008,7 +26013,7 @@
   {
     "course_code":"COMM PS5070",
     "course_title":"THE COMPELLING COMMUNICATOR",
-    "course_descr":null,
+    "course_descr":"The ability to communicate effectively is a key competency for professionals. As emerging industry leaders, understanding the audience, framing the message, and using media channels to achieve specified objectives are critical skills, whether written or spoken. Through a variety of written and oral assignments, students learn to apply foundational communication theory to inform and engage stakeholders. The first part of the course focuses on written deliverables, emphasizing audience-framed messaging and developing simple, clear and persuasive content. The second part transitions to enhancing spoken delivery and presentation skills where students gain experience in speechwriting, storytelling and using data visualization to motivate an audience to act.",
     "instructor":null,
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -26035,7 +26040,7 @@
   {
     "course_code":"COMM PS5070",
     "course_title":"THE COMPELLING COMMUNICATOR",
-    "course_descr":null,
+    "course_descr":"The ability to communicate effectively is a key competency for professionals. As emerging industry leaders, understanding the audience, framing the message, and using media channels to achieve specified objectives are critical skills, whether written or spoken. Through a variety of written and oral assignments, students learn to apply foundational communication theory to inform and engage stakeholders. The first part of the course focuses on written deliverables, emphasizing audience-framed messaging and developing simple, clear and persuasive content. The second part transitions to enhancing spoken delivery and presentation skills where students gain experience in speechwriting, storytelling and using data visualization to motivate an audience to act.",
     "instructor":null,
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -26062,7 +26067,7 @@
   {
     "course_code":"COMM PS5070",
     "course_title":"THE COMPELLING COMMUNICATOR",
-    "course_descr":null,
+    "course_descr":"The ability to communicate effectively is a key competency for professionals. As emerging industry leaders, understanding the audience, framing the message, and using media channels to achieve specified objectives are critical skills, whether written or spoken. Through a variety of written and oral assignments, students learn to apply foundational communication theory to inform and engage stakeholders. The first part of the course focuses on written deliverables, emphasizing audience-framed messaging and developing simple, clear and persuasive content. The second part transitions to enhancing spoken delivery and presentation skills where students gain experience in speechwriting, storytelling and using data visualization to motivate an audience to act.",
     "instructor":null,
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -26089,7 +26094,7 @@
   {
     "course_code":"COMM PS5070",
     "course_title":"THE COMPELLING COMMUNICATOR",
-    "course_descr":null,
+    "course_descr":"The ability to communicate effectively is a key competency for professionals. As emerging industry leaders, understanding the audience, framing the message, and using media channels to achieve specified objectives are critical skills, whether written or spoken. Through a variety of written and oral assignments, students learn to apply foundational communication theory to inform and engage stakeholders. The first part of the course focuses on written deliverables, emphasizing audience-framed messaging and developing simple, clear and persuasive content. The second part transitions to enhancing spoken delivery and presentation skills where students gain experience in speechwriting, storytelling and using data visualization to motivate an audience to act.",
     "instructor":null,
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -26116,7 +26121,7 @@
   {
     "course_code":"COMM PS5080",
     "course_title":"THE AUTHENTIC LEADER",
-    "course_descr":null,
+    "course_descr":"Effective leaders are able to think critically about problems and opportunities, imagine unexpected futures, craft a compelling vision, and drive change. In this course, we study the theoretical underpinnings of leadership communication, relying on empirical evidence as a guide for practice. Students gain important perspective on leadership styles, mastering the competencies required for a variety of contexts.",
     "instructor":null,
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -26143,7 +26148,7 @@
   {
     "course_code":"COMM PS5090",
     "course_title":"DIGITAL MEDIA & ANALYTICS",
-    "course_descr":null,
+    "course_descr":"Digital\u00a0media opens new opportunities for increasingly targeted communications across a variety of channels, which rapidly expands the importance of analytics in tracking and measuring key performance indicators (KPIs). This course prepares students to work within data- and model-driven environments with an emphasis on using analytics to develop insights and support strategic decisions.",
     "instructor":null,
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"2:00pm",
@@ -26170,7 +26175,7 @@
   {
     "course_code":"COMM PS5170",
     "course_title":"CRISIS COMMUNICATIONS",
-    "course_descr":null,
+    "course_descr":"This course covers the basic elements of crisis communication and the procedures for creating crisis communications plans and for reacting to crises when they occur. How best to develop various plans for different critical audiences and understand the most effective strategies for communicating your organization\u2019s message during a crisis is explored. The course examines various types of crises that can occur with corporations and nonprofit organizations and the differences and similarities among them. How to avoid the classic and common pitfalls of crisis communication are addressed, as are ethical issues that arise during crises. Numerous case studies are discussed in class and exercises both in and outside of class are assigned so students gain experience in crisis communication situations.",
     "instructor":null,
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -26197,7 +26202,7 @@
   {
     "course_code":"COMM PS5180",
     "course_title":"ADVANCED WRITING PROJECT",
-    "course_descr":null,
+    "course_descr":"In this advanced\u00a0professional\u00a0writing\u00a0workshop,\u00a0students are\u00a0guided\u00a0through the process of crafting a significant publication-ready piece of writing, applying principles of journalism and strategic communication. Whether a book chapter, in-depth feature article, white paper,\u00a0or policy proposal, each student\u2019s unique\u00a0project\u00a0will require mastering a range of communication tools\u2014including storytelling, data\u00a0presentation, observation, and analysis.",
     "instructor":null,
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"2:00pm",
@@ -26224,7 +26229,7 @@
   {
     "course_code":"COMM PS5190",
     "course_title":"CRITICAL CONVERSATIONS",
-    "course_descr":null,
+    "course_descr":"Effective dialogue is one of the single most important activities of leaders today. Whether you are confronting a team member who is not keeping commitments, critiquing a colleague\u2019s work, disagreeing with a spouse about financial decisions, or telling someone no, critical conversations are often avoided or handled in clumsy ways. This course will provide the theory underpinning these conversations, diagram their structure, and provide specific strategies for approaching them successfully.",
     "instructor":"Jesse L Scinto",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -26251,7 +26256,7 @@
   {
     "course_code":"COMM PS5210",
     "course_title":"COMMUNICATION AND GLOBAL BRANDS",
-    "course_descr":null,
+    "course_descr":"This course examines the discipline of global marketing communication, including the environmental factors that enabled global marketing. The course assesses early models of communication management and the current factors that enable global communication programs: the identification of global target audiences; the kinds of products and services that lend themselves to global communication and those that don\u2019t; and the characteristics of leadership brands that are preeminent in global communication today. Students consider how levels of development and cultural values affect communication programs and how local differences can be reflected in global programs. Message creation and the available methods of message distribution are evaluated in the context of current and future trends. Students learn how to approach strategy and develop an integrated, holistic global communication program and how to manage such a program.",
     "instructor":null,
     "scheduled_time_start":"8:10am",
     "scheduled_time_end":"10:00am",
@@ -26278,7 +26283,7 @@
   {
     "course_code":"COMM PS5260",
     "course_title":"VALUE OF BRAND",
-    "course_descr":null,
+    "course_descr":"This course introduces students to the economic importance of brand building activities based on the proven link between brand equity and business performance. Students examine the role that strategy and communication play in building brand equity, and explore how the changing media landscape is causing companies to rethink traditional brand-building practices. Students will use critical thinking, case-analysis, market research, and strategic presentations to persuade a business decision maker to invest in brand building efforts. For students who are interested in building stronger brand cultures within their organizations (for both the profit and nonprofit sectors) and\/or for pursuing careers on the brand side of strategy, this course answers the question: Why should businesses and institutions care about branding?",
     "instructor":null,
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -26305,7 +26310,7 @@
   {
     "course_code":"COMM PS5280",
     "course_title":"GLOBAL COMMUNICATION FOR PROFESSIONALS",
-    "course_descr":null,
+    "course_descr":"The global knowledge economy, cross-border market permeability, and worldwide talent mobility have accelerated the rise of multinational and domestic organizations comprised of individuals from many different cultural and linguistic backgrounds. As these trends strengthen, so, too, does the likelihood that the 21st-century worker will spend a significant part of her\/his professional career in a multicultural workplace. While such diversity affords great benefits to organizations, their employees and clients, it is often accompanied by a rise in communication misfires and misunderstandings that can undermine individual, team, and organizational performance.",
     "instructor":null,
     "scheduled_time_start":"8:10pm",
     "scheduled_time_end":"10:00pm",
@@ -26332,7 +26337,7 @@
   {
     "course_code":"COMM PS5285",
     "course_title":"COMMUNICATION RESEARCH & INSIGHTS",
-    "course_descr":null,
+    "course_descr":"To make informed decisions about communication, we need a clear understanding of our audience and its motivations. We begin by asking the right questions and interpreting the results. This course covers essential market research methods, including quantitative and qualitative techniques. Students gain direct experience in collecting and analyzing data, developing insights and choosing research-driven communication strategies that meet client objectives.",
     "instructor":null,
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -26359,7 +26364,7 @@
   {
     "course_code":"COMM PS5285",
     "course_title":"COMMUNICATION RESEARCH & INSIGHTS",
-    "course_descr":null,
+    "course_descr":"To make informed decisions about communication, we need a clear understanding of our audience and its motivations. We begin by asking the right questions and interpreting the results. This course covers essential market research methods, including quantitative and qualitative techniques. Students gain direct experience in collecting and analyzing data, developing insights and choosing research-driven communication strategies that meet client objectives.",
     "instructor":null,
     "scheduled_time_start":"8:10pm",
     "scheduled_time_end":"10:00pm",
@@ -26494,7 +26499,7 @@
   {
     "course_code":"COMM PS5330",
     "course_title":"DIGITAL COMMUNICATION STRATEGY",
-    "course_descr":null,
+    "course_descr":"As digital media increasingly drives the field of strategic communication, leading successful communication efforts also require a platform specific, evidence-based strategic approach. Leaders must know how to use a broad and rapidly changing mix of digital media platforms and tools to connect their message with the right audience. To that end, this course covers major topics in\u00a0digital\u00a0media and communication, such as content strategy,\u00a0digital\u00a0experience, channel planning, online reputation management, programmatic marketing, audience targeting, artificial intelligence and more. Through in-class lectures, discussion, case studies, guest speakers, group projects and individual writing assignments, students in this course will be introduced to strategic decision-making and communications planning for social media, mobile, digital advertising, search, email, digital out-of-home and interactive media (video, radio, podcasts). Students will also gain an in-depth understanding of how to integrate digital strategies and tactics with traditional communication efforts.",
     "instructor":null,
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -26521,7 +26526,7 @@
   {
     "course_code":"COMM PS5330",
     "course_title":"DIGITAL COMMUNICATION STRATEGY",
-    "course_descr":null,
+    "course_descr":"As digital media increasingly drives the field of strategic communication, leading successful communication efforts also require a platform specific, evidence-based strategic approach. Leaders must know how to use a broad and rapidly changing mix of digital media platforms and tools to connect their message with the right audience. To that end, this course covers major topics in\u00a0digital\u00a0media and communication, such as content strategy,\u00a0digital\u00a0experience, channel planning, online reputation management, programmatic marketing, audience targeting, artificial intelligence and more. Through in-class lectures, discussion, case studies, guest speakers, group projects and individual writing assignments, students in this course will be introduced to strategic decision-making and communications planning for social media, mobile, digital advertising, search, email, digital out-of-home and interactive media (video, radio, podcasts). Students will also gain an in-depth understanding of how to integrate digital strategies and tactics with traditional communication efforts.",
     "instructor":null,
     "scheduled_time_start":"8:10pm",
     "scheduled_time_end":"10:00pm",
@@ -26548,7 +26553,7 @@
   {
     "course_code":"COMM PS5470",
     "course_title":"AI and the Future of Strategic Communica",
-    "course_descr":null,
+    "course_descr":"The field of Artificial Intelligence (AI) has rapidly evolved to become a transformative global force across various industries, with particular significance for strategic communication. This elective course provides a comprehensive exploration of AI\u2019s foundations, its current landscape, and its profound impact on media, journalism, public relations, and marketing communications. The course also addresses critical issues surrounding AI such as ethics, policy, and risk management associated with adoption, while offering practical insights into implementing common AI tools and developing essential AI skills for communication professionals.",
     "instructor":null,
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"2:00pm",
@@ -27201,7 +27206,7 @@
   {
     "course_code":"CSER UN3303",
     "course_title":"Whiteness, Sentiment and Political Belon",
-    "course_descr":null,
+    "course_descr":"Scholars of gender, sexuality, ethnicity and race have long been preoccupied with the terms, categories, and processes through which the United States has excluded or qualified the citizenship of particular groups, including women, immigrants, indigenous nations, and descendants of enslaved Africans. Yet it has spent less time interrogating the unqualified content of Americanness, and the work that the imagination of a \"default\" American identity does in contemporary political life. This seminar introduces students to this problem through an unspoken racial dimension of American political belonging -- the presumed whiteness of ideal American citizens. Readings drawn from several disciplinary traditions, including anthropology, linguistics, sociology, history, and journalism, will ground students in the course's key concepts, including racial markedness, the history of racialization, and public sentiment. Students will mobilize these tools to analyze several cases that rendered white sentiment explicit in politically efficacious ways, including the \"panic\" incited by the destabilization of race-based residential segregation, the \"paranoia\" of conspiracy theorists, the \"sympathy\" associated with natural disasters, and the \"resentment\" or \"rage\" associated with the loss of racial privileges",
     "instructor":"Catherine Fennell",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -28053,7 +28058,7 @@
   {
     "course_code":"DNCE BC2254",
     "course_title":"INDIAN DANCE: BHARATANATYAM",
-    "course_descr":null,
+    "course_descr":"Bharatanatyam is typically studied as a theater dance form, and as a spiritual practice.\u00a0 In this class, traditional and contemporary teaching approaches are combined to introduce the participant to an overview of technical and performative aspects of the form. An example of the adjusted structure of the classes is that we begin each class with hatha yoga based stretches and dance warm ups that specifically target the kind of joint articulation that the form presupposes.\n  \nWe focus on the basic stance, the\u00a0\nardha-mandi\n, along with the technique of stamping as exemplified in the series of\u00a0\nadavu,\u00a0\n(basic combinations of hand, foot and rhythmic movement.) Following the progressive difficulty of the\u00a0\nadavu\u00a0\nsystem itself, more challenging combinations of hand and footwork will be introduced. Head and eye techniques will be introduced first in isolation then in combination.\n  \nThe last stage of this class involves learning a short abstract dance to music especially pre-recorded for a particular version of a dance genre and adjusted for difficulty level. This is in order to experience how the parts of the technique are integrated and to experience the state of performing.\u00a0 Students will be invited to perform at informal showings.",
     "instructor":"Uttara Coorlawala",
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:55pm",
@@ -31640,7 +31645,7 @@
   {
     "course_code":"ECON GR6211",
     "course_title":"MICROECONOMIC ANALYSIS I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: the director of graduate studies' permission. Corequisites: ECON G6410. Consumer and producer behavior; general competitive equilibrium, welfare and efficiency, behavior under uncertainty, intertemporal allocation and capital theory, imperfect competition, elements of game theory, problems of information, economies with price rigidities.",
     "instructor":null,
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -31659,7 +31664,9 @@
     ],
     "points":"4",
     "prerequisites":[
-
+      [
+        "ECON G6410"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20263ECON6211G001",
@@ -31696,7 +31703,7 @@
   {
     "course_code":"ECON GR6215",
     "course_title":"MACROECONOMIC ANALYSIS I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: the director of graduate studies' permission. Concept of full employment. Models of underemployment and theory applicability, determinants of consumption and of investment, multiplier and accelerator analysis, an introduction to monetary macroeconomics, the supply side and inflation. Integration of macroeconomics with microeconomic and monetary analysis.",
     "instructor":null,
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -31751,7 +31758,7 @@
   {
     "course_code":"ECON GR6232",
     "course_title":"FAMILY ECONOMICS",
-    "course_descr":null,
+    "course_descr":"Prerequisites: ECON G6211, ECON G6212, ECON G6411, ECON G6412. The course will focus on the economic theory of matching both from a theoretical and empirical point of views. It is intended to give the attendees an overview of the fundamental theory of the optimal assignment problem, as well as its application to various fields such as labor, family and transportation economics. A particular emphasis is put on the empirical aspects and identification issues, and the main matching algorithms will also be discussed. The last part of the course tries to make a link with matching games with nontransferable (or partially transferable) utility and attempts to provide a unified treatment.",
     "instructor":"Pierre-Andre Chiappori",
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"2:00pm",
@@ -31769,7 +31776,18 @@
     ],
     "points":"3",
     "prerequisites":[
-
+      [
+        "ECON G6211"
+      ],
+      [
+        "ECON G6212"
+      ],
+      [
+        "ECON G6411"
+      ],
+      [
+        "ECON G6412"
+      ]
     ],
     "scheduled_days":"T",
     "section_key":"20263ECON6232G001",
@@ -31806,7 +31824,7 @@
   {
     "course_code":"ECON GR6253",
     "course_title":"INDUSTRIAL ORGANIZATION I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: ECON G6211 and ECON G6212 or the instructor's permission. This course provides an introduction to a number of exciting research questions in industrial organization and organizational economics. While most of the content is theoretical, great emphasis is placed on the testable implications of the models we study: related empirical work is surveyed. The course aims to bring students to the research frontier by identifying open research questions and highlighting particularly active research areas.",
     "instructor":"Pietro Tebaldi",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -31824,7 +31842,12 @@
     ],
     "points":"3",
     "prerequisites":[
-
+      [
+        "ECON G6211"
+      ],
+      [
+        "ECON G6212"
+      ]
     ],
     "scheduled_days":"T",
     "section_key":"20263ECON6253G001",
@@ -31833,7 +31856,7 @@
   {
     "course_code":"ECON GR6290",
     "course_title":"TPCS IN DEVELOPMENT ECONOMICS",
-    "course_descr":null,
+    "course_descr":"Prerequisites: G6211, G6212, G6215, G6216, G6411, G6412 or the instructor's permission. This course covers prominent topics in micro-development economics. Lectures and readings will cover theoretical frameworks; emphasize empirical research; and highlight gaps in the literature.",
     "instructor":"Lisa Ho",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -31851,7 +31874,24 @@
     ],
     "points":"3",
     "prerequisites":[
-
+      [
+        "G6211"
+      ],
+      [
+        "G6212"
+      ],
+      [
+        "G6215"
+      ],
+      [
+        "G6216"
+      ],
+      [
+        "G6411"
+      ],
+      [
+        "G6412"
+      ]
     ],
     "scheduled_days":"W",
     "section_key":"20263ECON6290G001",
@@ -31860,7 +31900,7 @@
   {
     "course_code":"ECON GR6308",
     "course_title":"Political Economy I",
-    "course_descr":null,
+    "course_descr":"This course is a PhD-level introduction to political economy. The first part of the course is mostly theoretical and covers the most widely used models in topics such as social choice, direct and indirect democracy, accountability, lobbying, and redistributive politics. The second part of the course is a mix of abstract theory, applied theory and empirical work, and it covers some of the most research-active areas in political economy, such as media, corruption, and institutions.",
     "instructor":"Andrea Prat",
     "scheduled_time_start":"9:00am",
     "scheduled_time_end":"10:50am",
@@ -31887,7 +31927,7 @@
   {
     "course_code":"ECON GR6410",
     "course_title":"MATH METHODS FOR ECONOMISTS",
-    "course_descr":null,
+    "course_descr":"Prerequisites: multi-variable differential calculus, linear algebra and basic real analysis. Introduction to the mathematical techniques needed for the study of economics and econometric methods. Topics include the vector spaces, Hilbert spaces, Banach spaces, linear transformations; optimization theory, and linear differential and difference equations.",
     "instructor":"Jennifer La'O",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -31914,7 +31954,7 @@
   {
     "course_code":"ECON GR6411",
     "course_title":"INTRODUCTION TO ECONOMETRICS I",
-    "course_descr":null,
+    "course_descr":"Corequisites: ECON G6410 and the director of graduate studies' permission. Introduction to probability theory and statistical inference.",
     "instructor":null,
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -31933,7 +31973,9 @@
     ],
     "points":"4",
     "prerequisites":[
-
+      [
+        "ECON G6410"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20263ECON6411G001",
@@ -31942,7 +31984,7 @@
   {
     "course_code":"ECON GR6413",
     "course_title":"Econometrics III",
-    "course_descr":null,
+    "course_descr":"This is the first course of the second year PhD econometrics sequence with emphasis on both economic applications and computationally intense methods for analysis of large and\/or complex models. Students can attend the whole sequence or only one of them. While the details of the econometric techniques will be discussed extensively, the core and focus of the course is on the applications of these techniques to the study of actual data. Students will be practiced in econometric methods through computer-based exercises.\n  \nPrerequisites: Students should have a good understanding of graduate econometrics and should have taken ECON G6411 and G6412.",
     "instructor":"Jushan Bai",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -31960,7 +32002,12 @@
     ],
     "points":"3",
     "prerequisites":[
-
+      [
+        "ECON G6411"
+      ],
+      [
+        "G6412"
+      ]
     ],
     "scheduled_days":"W",
     "section_key":"20263ECON6413G001",
@@ -31969,7 +32016,7 @@
   {
     "course_code":"ECON GR6466",
     "course_title":"ECONOMICS OF EDUCATION",
-    "course_descr":null,
+    "course_descr":"Prerequisites: (ECON GR6211 and ECON GR6212 and ECON GR6215 and ECON GR6216 and ECON GR6412 and ECON GR6411 and This course will provide an overview of current research on the economics of education. The course will pay special attention to: i) the use of credible research designs, and ii) the use of theory in evaluating the mechanisms that underlie the identied eects",
     "instructor":"Sebastian Otero",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -31987,7 +32034,24 @@
     ],
     "points":"3",
     "prerequisites":[
-
+      [
+        "ECON GR6211"
+      ],
+      [
+        "ECON GR6212"
+      ],
+      [
+        "ECON GR6215"
+      ],
+      [
+        "ECON GR6216"
+      ],
+      [
+        "ECON GR6411"
+      ],
+      [
+        "ECON GR6412"
+      ]
     ],
     "scheduled_days":"W",
     "section_key":"20263ECON6466G001",
@@ -31996,7 +32060,7 @@
   {
     "course_code":"ECON GR6493",
     "course_title":"BEHAVIORAL ECONOMICS",
-    "course_descr":null,
+    "course_descr":"Prerequisites: Completion of 1st year graduate program in Economics, or the instructor's permission. The standard model of economic behavior describes a perfectly rational, self interested utility maximizer with unlimited cognitive resources. In many cases, this provides a good approximation to the types of behavior that economists are interested in. However, over the past 30 years, experimental and behavioral economists have documented ways in which the standard model is not just wrong, but is wrong in ways that are important for economic outcomes. Understanding these behaviors, and their implications, is one of the most exciting areas of current economic inquiry. This course will study three important topics within behavioral economics: Bounded rationality, temptation and self control and reference dependent preferences. It will draw on research from behavioral economics, experimental economics, decision theory, psychology and neuroscience in order to describe the models that have been developed to explain failures of the standard approach, the evidence in support of these models, and their economic implications.",
     "instructor":"Mark Dean",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"4:00pm",
@@ -32023,7 +32087,7 @@
   {
     "course_code":"ECON GR6600",
     "course_title":"MARKET DESIGN",
-    "course_descr":null,
+    "course_descr":"Prerequisites: ECON G6211, ECON G6212. Market Design is an emerging field in economics that attempts to devise a practical scheme for allocating scarce resources to individuals who value them. Its applications involve many important real life problems ranging from allocation of government resources such as public land, fishing\/mineral rights, radio spectrum licenses, allocation of school choice and transplantable human organs, assignment of workers to jobs, to placement of advertising in Internet search engines. Mechanism design underpins the field as a general methodological framework, which is in turn operationalized by two branches of theories: 1) Auction Theory and 2) Matching Theory. The course will provide a guide through these theories and discusses a few applications along the way.",
     "instructor":"Yeon-Koo Che",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -32041,7 +32105,12 @@
     ],
     "points":"3",
     "prerequisites":[
-
+      [
+        "ECON G6211"
+      ],
+      [
+        "ECON G6212"
+      ]
     ],
     "scheduled_days":"T",
     "section_key":"20263ECON6600G001",
@@ -32104,7 +32173,7 @@
   {
     "course_code":"ECON GR8310",
     "course_title":"ECONOMETRICS COLLOQUIUM",
-    "course_descr":null,
+    "course_descr":"Prerequisites: ECON G6411 and G6412. Students will make presentations of original research.",
     "instructor":null,
     "scheduled_time_start":"12:00pm",
     "scheduled_time_end":"1:00pm",
@@ -32122,7 +32191,12 @@
     ],
     "points":"2",
     "prerequisites":[
-
+      [
+        "ECON G6411"
+      ],
+      [
+        "G6412"
+      ]
     ],
     "scheduled_days":"W",
     "section_key":"20263ECON8310G001",
@@ -32131,7 +32205,7 @@
   {
     "course_code":"ECON GR8315",
     "course_title":"ECONOMIC FLUCTUATIONS COLLOQ",
-    "course_descr":null,
+    "course_descr":"Prerequisites: G6215 and G6216. Open-economy macroeconomics, computational methods for dynamic equilibrium analysis, and sources of business cycles.",
     "instructor":null,
     "scheduled_time_start":"1:00pm",
     "scheduled_time_end":"2:30pm",
@@ -32149,7 +32223,12 @@
     ],
     "points":"2",
     "prerequisites":[
-
+      [
+        "G6215"
+      ],
+      [
+        "G6216"
+      ]
     ],
     "scheduled_days":"M",
     "section_key":"20263ECON8315G001",
@@ -32158,7 +32237,7 @@
   {
     "course_code":"ECON GR8420",
     "course_title":"COLLOQUIUM IN DEVELOPMENT",
-    "course_descr":null,
+    "course_descr":"Prerequisites: the instructors permission. Students will make presentations of original research.",
     "instructor":null,
     "scheduled_time_start":"12:00pm",
     "scheduled_time_end":"1:00pm",
@@ -32185,7 +32264,7 @@
   {
     "course_code":"ECON GR8440",
     "course_title":"COLL IN INDUST ORGANIZATION",
-    "course_descr":null,
+    "course_descr":"Prerequisites: the instructors permission. Students will make presentations of original research.",
     "instructor":null,
     "scheduled_time_start":"11:30am",
     "scheduled_time_end":"12:45pm",
@@ -32239,7 +32318,7 @@
   {
     "course_code":"ECON GR8713",
     "course_title":"MICROECONOMIC THEORY COLLOQ",
-    "course_descr":null,
+    "course_descr":"Prerequisites: G6215, G6216, G6211, G6212, G6411, G6412. Students will make presentation of original research in Microeconomics.",
     "instructor":null,
     "scheduled_time_start":"1:00pm",
     "scheduled_time_end":"2:00pm",
@@ -32257,7 +32336,24 @@
     ],
     "points":"2",
     "prerequisites":[
-
+      [
+        "G6211"
+      ],
+      [
+        "G6212"
+      ],
+      [
+        "G6215"
+      ],
+      [
+        "G6216"
+      ],
+      [
+        "G6411"
+      ],
+      [
+        "G6412"
+      ]
     ],
     "scheduled_days":"W",
     "section_key":"20263ECON8713G001",
@@ -32266,7 +32362,7 @@
   {
     "course_code":"ECON GR8714",
     "course_title":"Labor & Public Finance colloquium",
-    "course_descr":null,
+    "course_descr":"Prerequisites: G6215, G6216, G6211, G6212, G6411, G6412. Students will make presentations of original research in Microeconomics.",
     "instructor":null,
     "scheduled_time_start":"12:30pm",
     "scheduled_time_end":"2:00pm",
@@ -32284,7 +32380,24 @@
     ],
     "points":"2",
     "prerequisites":[
-
+      [
+        "G6211"
+      ],
+      [
+        "G6212"
+      ],
+      [
+        "G6215"
+      ],
+      [
+        "G6216"
+      ],
+      [
+        "G6411"
+      ],
+      [
+        "G6412"
+      ]
     ],
     "scheduled_days":"W",
     "section_key":"20263ECON8714G001",
@@ -32482,7 +32595,7 @@
   {
     "course_code":"ECON GR9016",
     "course_title":"Labor and Public Economics Workshop",
-    "course_descr":null,
+    "course_descr":"Columbia faculty and guest speakers present research related to Labor and Public Economics.",
     "instructor":null,
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -38063,7 +38176,7 @@
   {
     "course_code":"ENGL GR5001",
     "course_title":"MASTERS SEMINAR",
-    "course_descr":null,
+    "course_descr":"Prerequisites: Departments permission. This course (required for all first-year graduate students in the English Department) introduces students to scholarly methodologies in the study of literature and culture. The Masters Seminar operates in tandem with the Masters Colloquium ENGL G5005, and requires short writing assignments over the course of the semester and extensive in-class participation. There are two sections of this course.",
     "instructor":"Alan Stewart",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -38081,7 +38194,9 @@
     ],
     "points":"4",
     "prerequisites":[
-
+      [
+        "ENGL G5005"
+      ]
     ],
     "scheduled_days":"M",
     "section_key":"20263ENGL5001G001",
@@ -38090,7 +38205,7 @@
   {
     "course_code":"ENGL GR5001",
     "course_title":"MASTERS SEMINAR",
-    "course_descr":null,
+    "course_descr":"Prerequisites: Departments permission. This course (required for all first-year graduate students in the English Department) introduces students to scholarly methodologies in the study of literature and culture. The Masters Seminar operates in tandem with the Masters Colloquium ENGL G5005, and requires short writing assignments over the course of the semester and extensive in-class participation. There are two sections of this course.",
     "instructor":"Jennifer Wenzel",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -38108,7 +38223,9 @@
     ],
     "points":"4",
     "prerequisites":[
-
+      [
+        "ENGL G5005"
+      ]
     ],
     "scheduled_days":"M",
     "section_key":"20263ENGL5001G002",
@@ -38117,7 +38234,7 @@
   {
     "course_code":"ENGL GR6102",
     "course_title":"World   s End: 20th and 21St Century Dys",
-    "course_descr":null,
+    "course_descr":"In this class, we will read a range of ambiguous utopias and dystopias (to use a term from Ursula LeGuin) and explore various models of temporality, a range of fantasies of apocalypse and a few visions of futurity. While some critics, like Frederick Jameson, propose that utopia is a \u201cmeditation on the impossible,\u201d others like Jos\u00e9 Mu\u00f1oz insist that \u201cwe must dream and enact new and better pleasures, other ways of being in the world, and ultimately new worlds.\u201d Utopian and dystopian fictions tend to lead us back to the present and force confrontations with the horrors of war, the ravages of capitalist exploitation, the violence of social hierarchies and the ruinous peril of environmental decline. In the films and novels and essays we engage here, we will not be looking for answers to questions about what to do and nor should we expect to find maps to better futures. We will no doubt be confronted with dead ends, blasted landscapes and empty gestures. But we will also find elegant aesthetic expressions of ruination, inspirational confrontations with obliteration, brilliant visions of endings, breaches, bureaucratic domination, human limitation and necro-political chaos. We will search in the narratives of uprisings, zombification, cloning, nuclear disaster, refusal, solidarity, for opportunities to reimagine world, ends, futures, time, place, person, possibility, art, desire, bodies, life and death.",
     "instructor":"Jack Halberstam",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -38154,7 +38271,7 @@
   {
     "course_code":"ENGL GR6150",
     "course_title":"Modernism, Dance, and Diaspora",
-    "course_descr":null,
+    "course_descr":"How do dancers, poets, and novelists use the resources of their genres to imagine new forms of embodiment and belonging? This graduate seminar brings together recent work in the fields of modernism, dance, and diaspora studies to explore the relationship between theories of movement, space, and dwelling in the literature and drama of global modernity. We will study representations of modern dance in literary works, as well as performances by modern dancers and choreographers, to consider the reciprocity and continuity of forms long associated with expressivity and social change. At the same time, we will chart how such texts become invested in strategic withholding and inexpression, or what performance scholar Tina Post has called \u201cdeadpan\u201d aesthetics. Can there be a kind of revelation in concealment\u2014or, conversely, a concealment in the guise of outward projection? At the level of form, how might we understand phenomena that seem to cross disciplinary lines, such as choreographic narration, kinaesthetic empathy, self-talk as social dress rehearsal, or theatrically-populated interior monologue? And how might these insights be brought to bear on the embodied and psychic experience of diaspora, that conundrum of enforced movement that can so often feel like stuckness-in-place?",
     "instructor":"Zoe L Henry",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -38191,7 +38308,7 @@
   {
     "course_code":"ENGL GR6300",
     "course_title":"Third Year Proseminar",
-    "course_descr":null,
+    "course_descr":"This proseminar, which meets alternate weeks for the full academic year, is required for third-year PhD students in the Department of English and Comparative Literature. The seminar will help you prepare for orals, develop your dissertation ideas, expand your research skills, produce articles for publication, and generally extend your professional skills. While we will read some practical \u201chow to\u201d literature and models, the focus will be on writing, workshopping material, and discussing process (time-management, organization, etc). Both out-of-class assignments and in-class writing exercises should serve to extend your ideas\u2014or shake them loose\u2014and bring you closer to a dissertation that represents your vision, makes others want to read your work, and reminds you why you care. By the end of the year, you will have a polished dissertation prospectus and should have submitted at least one article for publication (or have one close-to-ready for submission). Above all, the seminar offers a supportive community, an opportunity to try out ideas (cooked or still raw), and encouragement from your fellow scholar-writer-thinkers as you progress toward your orals and dissertation.",
     "instructor":"Julie S Peters",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -38218,7 +38335,7 @@
   {
     "course_code":"ENGL GR6909",
     "course_title":"INTRO TO WRITING STUDIES",
-    "course_descr":null,
+    "course_descr":"Anyone who pursues a career as a college faculty member will teach writing\u2014either formally, in a writing class, or informally, as we work with students who are new to our disciplines. However, many graduate students in the humanities have received no substantive training in the burgeoning field of writing studies. In English, career opportunities in writing studies have outpaced other field areas. The MLA\u2019s 2016-2017 jobs list reported that 851 positions were advertised in English, 10% fewer than the previous year. Of those jobs, 217 were in writing studies, 187 were in British literature, and 172 were in American literature. Given that writing studies positions are also advertised elsewhere, the gap is likely larger. This seminar will explore key debates in writing studies research and teaching methodologies, program development, and disciplinary and institutional status. Writing studies is the newest name for \u201crhetoric and composition,\u201d a field which declared its existence in the mid-1960s, and draws its praxes and theories from classical rhetoric, applied linguistics, cognitive and developmental psychology, literary criticism, civic education, creative writing, and progressive pedagogy. Scholarship in writing studies since the 1960s has sought to deepen our understanding of how transactions work among writers, readers, and texts. Writing studies prompts us to track how standards for \u201cgood\u201d or \u201cappropriate\u201d academic writing change over time, and how the teaching of writing responds to social, political, institutional, and disciplinary forces. The readings in this course will help us to articulate our own philosophies of writing and shape approaches to pedagogy in our own fields. Topis will include the following: how writers develop; intellectual practices that foster community among learners; the ethics and politics of textual transactions, including assessment; students\u2019 rights to their own language; literacy acquisition across media; working in transnational and translingual spaces; genre and rhetorical theory; fostering knowledge and skills transfer; the impact of intersectionality on pedagogy and program design; and labor justice. We will read works by foundational writing studies scholars including John Dewey, Wayne Booth, bell hooks, Victor Villaneuva, Jr. A. Suresh Canagarajah, and the current president of the Modern Language Association, Anne Ruggles Gere. Participants will have the opportunity to ask how writing studies can deepen the understanding of writing in our fields, regardless",
     "instructor":"Nicole Wallack",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -38245,7 +38362,7 @@
   {
     "course_code":"ENGL GU4131",
     "course_title":"NATURE, RACE, AND INDIGENEITY IN THE U.S",
-    "course_descr":null,
+    "course_descr":"\u201cNature\u201d is one of the weirdest words in the English language\u2014it can refer to human trait (\u201cit is in her nature\u201d), a nonhuman environment (\u201cwe walked in nature\u201d), a divine power (\u201cmother nature\u201d), or a biological process (\u201cnature calls\u201d). Despite\u2014and indeed, because of\u2014these ambiguities, nature has played pivotal roles in the territory that has come to be known as the United States. In various guises, nature has inspired pilgrims, pioneers, and tourists. At the same time, nature has staged struggles between settlers and Natives, whites and racialized peoples, upper classes and working classes. In this seminar, we will learn how nature has brought us together and torn us apart. By engaging with a variety of media\u2014from colonial-era captivity narratives to nineteenth-century abolitionist texts to contemporary Kumeyaay poetry\u2014we will recover conflicting ideas of nature. And by reading in the environmental humanities\u2014including history, anthropology, and literary criticism\u2014we will discover how these ideas have impacted all-too-human identities and more-than-human entities. While our inquiries will take us from prehistory to the present, they will converge on the future: now that we are destroying our ecosystems, extinguishing our fellow species, and altering our atmosphere, is there still such a thing as nature? During the semester, we will navigate this tricky terrain both collectively and individually, with each undergraduate completing a four-to five-page theoretical essay, a fourteen- or fifteen-page research essay, and a natural history mini-exhibit, and with each graduate student preparing a presentation for our end-of-semester conference that they then revise as a seminar paper and\/or repurpose by organizing a panel for a national conference.",
     "instructor":"Carlos Nugent",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -38274,7 +38391,7 @@
   {
     "course_code":"ENGL GU4132",
     "course_title":"Frankenstein and Its Vicissitudes",
-    "course_descr":null,
+    "course_descr":"Overview: This class will carefully and searchingly read Mary Shelley\u2019s 1818 \nFrankenstein \nas well as her 1831 revision, using those two texts as the seeds for a much larger investigation about what the Frankenstein paradigm brought to later American literary and cinematic culture. We\u2019ll look at how Mary Shelley developed the genre of science fiction from nothing, wrote the first recognizable book of horror in the English cannon, pioneering literary philosophical writing in the absence of a clear hero, and used her novel as a mechanism for thinking about reproductive violence, domestic abuse, and the social problem of male loneliness. From there, we\u2019ll examine the Frankenfilms of the 20th and 21st century\u2014many of which are excellent, but many of which are downright offensive\u2014to think about what Shelley\u2019s literary and philosophical paradigm contributed to Anglo-American cinematic discourse about patriarchy, power, sex, class, God, reproduction, fascism, and feminism.",
     "instructor":"Eleanor Johnson",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:25pm",
@@ -38314,7 +38431,7 @@
   {
     "course_code":"ENGL GU4559",
     "course_title":"August Wilson",
-    "course_descr":null,
+    "course_descr":"In this seminar we will read the complete published plays of August Wilson along with significant unpublished and obscurely published plays, prose, and poetry. The centerpieces of this course will be what Wilson termed his \u201ccentury cycle\u201d of plays: each work focusing on the circumstances of Black Americans during a decade of the twentieth century. As we consider these historical framings, we also will explore closely on what Wilson identified as the \u201cfour B\u2019s\u201d that influenced his art most emphatically: Bessie Smith (sometimes he called this first B the Blues), Amiri Baraka, Romare Bearden, and Jorge Luis Borges. Accordingly, as we consider theoretical questions of cross-disciplinary conversations in art, we will study songs by Bessie Smith (and broad questions of the music and literary form), plays, prose, and poetry of Baraka (particularly in the context of Wilson\u2019s early Black Arts Movement works), the paintings of Bearden, and the poetry and prose (along with a few lectures and transcribed interviews) of Borges. We will use archival resources (online as well as \u201chard copy\u201d material, some of it at Columbia) to explore Wilson\u2019s pathways as a writer, particularly as they crisscrossed the tracks of his \u201cfour B\u2019s.\u201d Along the way we will examine several drawings and paintings (from his University of Pittsburgh archives) as we delve into the rhythmical shapes, textures, and colors he used on paper and canvas as well as in his plays. Visitors to the class will include Wilson\u2019s musical director Dwight Andrews and at least one of his regular actors.",
     "instructor":"Robert G O'Meally",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -38347,7 +38464,7 @@
   {
     "course_code":"ENGL GU4619",
     "course_title":"AFRICAN-AMERICAN LITERATURE I",
-    "course_descr":null,
+    "course_descr":"(Lecture). This lecture course is intended as the first half of the basic survey in African-American literature. By conducting close readings of selected song lyrics, slave narratives, fiction, poetry, and autobiography, we will focus on major writers in the context of cultural history. In so doing, we will explore the development of the African- American literary tradition. Writers include, but are not limited to, Wheatley, Equiano, Douglass, Jacobs, Harper, Dunbar, Chestnutt, Washington, Du Bois, and Larsen. Course requirements: class attendance, an in-class midterm exam, a five-page paper, and a final exam.",
     "instructor":"Robert G O'Meally",
     "scheduled_time_start":"8:40am",
     "scheduled_time_end":"9:55am",
@@ -38677,7 +38794,7 @@
   {
     "course_code":"ENGL UN1335",
     "course_title":"Shakespeare I",
-    "course_descr":null,
+    "course_descr":"(Lecture). This course will cover the histories, comedies, tragedies, and poetry of Shakespeare\u2019s early career. We will examine the cultural and historical conditions that informed Shakespeare\u2019s drama and poetry; in the case of drama, we will also consider the formal constraints and opportunities of the early modern English commercial theater. We will attend to Shakespeare\u2019s biography while considering his work in relation to that of his contemporaries. Ultimately, we will aim to situate the production of Shakespeare\u2019s early career within the highly collaborative, competitive, and experimental theatrical and literary cultures of late sixteenth-century England.",
     "instructor":"Lauren E Robertson",
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:55pm",
@@ -38708,7 +38825,7 @@
   {
     "course_code":"ENGL UN1520",
     "course_title":"Intro to Asian American Literature",
-    "course_descr":null,
+    "course_descr":"As a survey of Asian American literature, this course examines recurring cycles of love and fear in Asian North American relations from the late nineteenth to the twenty-first centuries. \nThe course has four learning objectives.\n  \nFirst, by the end of the term, you should be able to recognize and explain key aspects of Asian North American cultural and literary representations across the twentieth century.\n  \nWe will first turn to what became known as \u201cyellow peril,\u201d one effect of exclusion laws that monitored the entrance of Asians into the United States and Canada during the late nineteenth and twentieth centuries, and the corresponding phenomenon of Orientalism, the fascination with a binary of Asia and the West. We\u2019ll examine how Asian North American authors respond to later cycles of love and fear, ranging from the forgetting of Japanese internment in North America and the occupation of the Philippines.\n  \nThe second section turns to how Asian North American authors use innovative creative strategies to resist cycles of love and fear, especially in the wake of war and conflict in Asia and alongside the rise of the model minority.\n  \nThe final section examines intimacy, communities, and crisis in forms of migration, diaspora, and globalization in the twentieth and twenty-first centuries, from the global refugee crisis to more recent developments in the wake of COVID-19.\n  \nSecond, you will interpret literary strategies (what literary scholars call \u201cformal strategies\u201d) and their connection to the text\u2019s argument.\n  \nA central claim for this course is that cultural productions make debatable claims and arguments, and that one of the ways they do so is through form (such as the brevity of a poetic line and its layout, different narrators or points of view in a novel, or a drama that moves back and forth in time). How do these authors use literature to respond to, critique, or revise cultural representations of Asia and Asians in America? You will learn how to unpack the argument of text, or, more precisely, what you define as the argument of each work. What cultural issue or problem does the text identify? Why? What is its argument regarding this issue? How does the work support this argument? Does it offer any solutions? If so, what are they? If not, why not?\n  \nTo that end, we will consider all of these texts might be responding to, commenting on, and even working against dominant cultura",
     "instructor":"Denise Cruz",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -38738,7 +38855,7 @@
   {
     "course_code":"ENGL UN2000",
     "course_title":"Approaches to Literary Study",
-    "course_descr":null,
+    "course_descr":"Why does literature affect us as it does, why might you want to understand its history, strategies, and meaning, and how exactly do you go about that? This course won\u2019t give you\u00a0\nthe\n\u00a0answer, because there is no single answer. It will instead point the way toward the multitude of possible answers, giving you a variety of critical tools for exploring these questions, and deepening your powers as a thinker, reader, and writer.\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 The course consists of weekly lectures by department faculty members (ENGL 2000) and small weekly seminars with advanced doctoral candidates (ENGL 2001). The lectures will introduce you to texts from across literary history and in various genres (poetry, drama, prose narrative, etc.), giving you an opportunity to learn from and get to know our renowned faculty members. The intimate seminar setting will give you an opportunity to delve further into these texts and techniques, debate their meaning with one another and an expert guide, and engage in exercises that advance your critical writing and interpretive skills, putting into practice what you\u2019ve learned. You will encounter the wide variety of critical approaches taken by our faculty, your seminar leader, and the discipline at large, while learning to expand upon these approaches and make them your own.\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 The course is required for English majors and minors (who should take it as early as possible in their Columbia careers), but it is for everyone: advanced students of literature or those new to literary study; committed majors or those still exploring; anyone seeking the excitement and immersion this course offers.\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 (\nNote\n: Students who register for ENGL UN2000 must also register for one of the sections of ENGL UN2001.)",
     "instructor":"Molly Murray",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -38760,7 +38877,10 @@
     ],
     "points":"4",
     "prerequisites":[
-
+      [
+        "ENGL UN2000",
+        "ENGL UN2001"
+      ]
     ],
     "scheduled_days":"F",
     "section_key":"20263ENGL2000W001",
@@ -38769,7 +38889,7 @@
   {
     "course_code":"ENGL UN2001",
     "course_title":"Approaches to Literary Study Seminar",
-    "course_descr":null,
+    "course_descr":"Prerequisites: Students who register for ENGL UN2001 must also register for ENGL UN2000 Approaches to Literary Study lecture. This course is intended to introduce students to the advanced study of literature, through a weekly pairing of a faculty lecture (ENGL 2000) and small seminar led by an advanced doctoral candidate (ENGL 2001).\u00a0 Students in the course will read works from across literary history, learning the different interpretive techniques appropriate to each of the major genres (poetry, drama, and prose fiction).\u00a0 Students will also encounter the wide variety of critical approaches taken by our faculty and by the discipline at large, and will be encouraged to adapt and combine these approaches as they develop as thinkers, readers, and writers.\u00a0 ENGL 2000\/2001 is a requirement for both the English Major and English Minor.\u00a0 While it is not a general prerequisite for other lectures and seminars, it should be taken as early as possible in a student's academic program.",
     "instructor":null,
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"2:00pm",
@@ -38791,7 +38911,10 @@
     ],
     "points":"0",
     "prerequisites":[
-
+      [
+        "ENGL UN2001",
+        "ENGL UN2000"
+      ]
     ],
     "scheduled_days":"M",
     "section_key":"20263ENGL2001W001",
@@ -38800,7 +38923,7 @@
   {
     "course_code":"ENGL UN2001",
     "course_title":"Approaches to Literary Study Seminar",
-    "course_descr":null,
+    "course_descr":"Prerequisites: Students who register for ENGL UN2001 must also register for ENGL UN2000 Approaches to Literary Study lecture. This course is intended to introduce students to the advanced study of literature, through a weekly pairing of a faculty lecture (ENGL 2000) and small seminar led by an advanced doctoral candidate (ENGL 2001).\u00a0 Students in the course will read works from across literary history, learning the different interpretive techniques appropriate to each of the major genres (poetry, drama, and prose fiction).\u00a0 Students will also encounter the wide variety of critical approaches taken by our faculty and by the discipline at large, and will be encouraged to adapt and combine these approaches as they develop as thinkers, readers, and writers.\u00a0 ENGL 2000\/2001 is a requirement for both the English Major and English Minor.\u00a0 While it is not a general prerequisite for other lectures and seminars, it should be taken as early as possible in a student's academic program.",
     "instructor":null,
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -38822,7 +38945,10 @@
     ],
     "points":"0",
     "prerequisites":[
-
+      [
+        "ENGL UN2001",
+        "ENGL UN2000"
+      ]
     ],
     "scheduled_days":"M",
     "section_key":"20263ENGL2001W002",
@@ -38831,7 +38957,7 @@
   {
     "course_code":"ENGL UN2001",
     "course_title":"Approaches to Literary Study Seminar",
-    "course_descr":null,
+    "course_descr":"Prerequisites: Students who register for ENGL UN2001 must also register for ENGL UN2000 Approaches to Literary Study lecture. This course is intended to introduce students to the advanced study of literature, through a weekly pairing of a faculty lecture (ENGL 2000) and small seminar led by an advanced doctoral candidate (ENGL 2001).\u00a0 Students in the course will read works from across literary history, learning the different interpretive techniques appropriate to each of the major genres (poetry, drama, and prose fiction).\u00a0 Students will also encounter the wide variety of critical approaches taken by our faculty and by the discipline at large, and will be encouraged to adapt and combine these approaches as they develop as thinkers, readers, and writers.\u00a0 ENGL 2000\/2001 is a requirement for both the English Major and English Minor.\u00a0 While it is not a general prerequisite for other lectures and seminars, it should be taken as early as possible in a student's academic program.",
     "instructor":null,
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -38853,7 +38979,10 @@
     ],
     "points":"0",
     "prerequisites":[
-
+      [
+        "ENGL UN2001",
+        "ENGL UN2000"
+      ]
     ],
     "scheduled_days":"M",
     "section_key":"20263ENGL2001W003",
@@ -38862,7 +38991,7 @@
   {
     "course_code":"ENGL UN2001",
     "course_title":"Approaches to Literary Study Seminar",
-    "course_descr":null,
+    "course_descr":"Prerequisites: Students who register for ENGL UN2001 must also register for ENGL UN2000 Approaches to Literary Study lecture. This course is intended to introduce students to the advanced study of literature, through a weekly pairing of a faculty lecture (ENGL 2000) and small seminar led by an advanced doctoral candidate (ENGL 2001).\u00a0 Students in the course will read works from across literary history, learning the different interpretive techniques appropriate to each of the major genres (poetry, drama, and prose fiction).\u00a0 Students will also encounter the wide variety of critical approaches taken by our faculty and by the discipline at large, and will be encouraged to adapt and combine these approaches as they develop as thinkers, readers, and writers.\u00a0 ENGL 2000\/2001 is a requirement for both the English Major and English Minor.\u00a0 While it is not a general prerequisite for other lectures and seminars, it should be taken as early as possible in a student's academic program.",
     "instructor":null,
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -38884,7 +39013,10 @@
     ],
     "points":"0",
     "prerequisites":[
-
+      [
+        "ENGL UN2001",
+        "ENGL UN2000"
+      ]
     ],
     "scheduled_days":"M",
     "section_key":"20263ENGL2001W004",
@@ -38893,7 +39025,7 @@
   {
     "course_code":"ENGL UN2001",
     "course_title":"Approaches to Literary Study Seminar",
-    "course_descr":null,
+    "course_descr":"Prerequisites: Students who register for ENGL UN2001 must also register for ENGL UN2000 Approaches to Literary Study lecture. This course is intended to introduce students to the advanced study of literature, through a weekly pairing of a faculty lecture (ENGL 2000) and small seminar led by an advanced doctoral candidate (ENGL 2001).\u00a0 Students in the course will read works from across literary history, learning the different interpretive techniques appropriate to each of the major genres (poetry, drama, and prose fiction).\u00a0 Students will also encounter the wide variety of critical approaches taken by our faculty and by the discipline at large, and will be encouraged to adapt and combine these approaches as they develop as thinkers, readers, and writers.\u00a0 ENGL 2000\/2001 is a requirement for both the English Major and English Minor.\u00a0 While it is not a general prerequisite for other lectures and seminars, it should be taken as early as possible in a student's academic program.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -38915,7 +39047,10 @@
     ],
     "points":"0",
     "prerequisites":[
-
+      [
+        "ENGL UN2001",
+        "ENGL UN2000"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20263ENGL2001W005",
@@ -38924,7 +39059,7 @@
   {
     "course_code":"ENGL UN2100",
     "course_title":"Drama Before Shakespeare",
-    "course_descr":null,
+    "course_descr":"This lecture course focuses on the many different forms of drama that emerged in England in the decades before William Shakespeare started writing. The drama of sixteenth-century England found its stages in a bewildering variety of venues: the city streets, boys\u2019 grammar schools, the universities of Oxford and Cambridge, the Inns of Court, the royal court, civic halls, private households, and inns. This course will introduce students to a range of plays in all genres (tragedies, comedy, history), and use these plays to explore aspects of Elizabeth theatre, including the playhouses, companies, repertory, playwriting, and the printing of plays. \u00a0No knowledge of Shakespeare\u2019s plays is required.",
     "instructor":"Alan Stewart",
     "scheduled_time_start":"8:40am",
     "scheduled_time_end":"9:55am",
@@ -38953,7 +39088,7 @@
   {
     "course_code":"ENGL UN2200",
     "course_title":"Out of the Ordinary: Aesthetics, Power,",
-    "course_descr":null,
+    "course_descr":"This course examines twentieth-century literature, film, and music in order to explore the many and complex ways that beauty, power, and bodily identity co-articulate experiences that lie beyond the ordinary. Reading novels, essays, and poetry alongside musical interludes, we will think about bodies, power, and beauty together. This class explores the wide beyond, the other side of the everyday, the hum of being that can be discerned only in certain musical performances, the terror and pleasure that course through certain works of fiction, and the fragmented self that fails to cohere in extraordinary acts of memoir. From these pieces and unfinished conversations, we intend to collaboratively develop fresh insights on the nature of beauty and identity under increasingly draconian and profit-driven forms of knowledge and power.",
     "instructor":null,
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:55pm",
@@ -38982,7 +39117,7 @@
   {
     "course_code":"ENGL UN3225",
     "course_title":"VIRGINIA WOOLF",
-    "course_descr":null,
+    "course_descr":"(Lecture). Six novels and some non-fictional prose: Jacobs Room, Mrs. Dalloway, To the Lighthouse, Orlando, The Waves, Between the Acts; A Room of Ones Own, Three Guineas.",
     "instructor":"Edward Mendelson",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -39011,7 +39146,7 @@
   {
     "course_code":"ENGL UN3327",
     "course_title":"Old New York",
-    "course_descr":null,
+    "course_descr":"What was New York City like before the skyscrapers and yellow cabs with which we associate it today? This class explores the long history of New York City and its surroundings through the literatures of the many peoples who have called it home over the centuries. We will read Lenape creation stories, eyewitness accounts of Henry Hudson\u2019s voyage, colonial pamphlets about the earliest slave revolts in North America, and literary fiction and poetry by lifelong New Yorkers including Walt Whitman and Herman Melville. We will follow Dutch explorers and traders in Manahatta, investigate the seedy underworld of blackmail and brothels in the Bowery, survey the financial revolution that turned Wall Street into a center of global capitalism, and get a glimpse of the Gilded Age in the opulent novels of manners that take us from Grand Central to Greenwich Village. To make good use of our city, students will write dispatches from various locations in New York City, from Brooklyn to the Bronx, that look for traces of the past in the present.",
     "instructor":"Ethan A Plaue",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -39040,7 +39175,7 @@
   {
     "course_code":"ENGL UN3329",
     "course_title":"What Shakespeare Read",
-    "course_descr":null,
+    "course_descr":"In this course we will read a selection of Shakespeare\u2019s plays alongside the sources he used to compose them. We will take a deliberately wide generic perspective when it comes to these sources, reading biographies, histories, prose fiction, and poetry. Our basic aim will be to immerse ourselves in the texts Shakespeare read and responded to as he wrote his plays. Our more ambitious aim will be to gain a more precise understanding of how Shakespeare honed the nature and function of his drama in relation to and against his largely non-dramatic sources of inspiration. Questions we will consider include: What is a source? What is an adaptation? What is a play? What is a play by Shakespeare?",
     "instructor":"Lauren E Robertson",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -39069,7 +39204,7 @@
   {
     "course_code":"ENGL UN3351",
     "course_title":"The Family in Film and Memoir",
-    "course_descr":null,
+    "course_descr":"This course will examine films and a few memoirs that center on family narratives, family cultures, cultural legacies and customs inherited through generations, generational dynamics, childhood memory, and ideas of \nhome \nas a utopian\/dystopian and oneiric space. \u00a0\u00a0Explorations of memory, imagination and childhood make-believe will interface with readings in psychoanalysis, attachment theory, phenomenology and in the social history of this polymorphous institution.\n\u00a0 \nAuthors will include Gaston Bachelard, Alison Bechdel, Jessica Benjamin, Mark Doty, Vivian Gornick, Lorraine Hansberry, Maggie Nelson and D.W. Winnicott; and films by Sean Baker, Alfonso Cuaron, Greta Gerwig, Lance Hammer, Barry Jenkins, Jennifer Kent, Hirokazu Kore-eda, Dan Kwan and Daniel Scheinart, Lucretia Martel, Mike Mills, Sarah Polley, Charlotte Wells, Andrei Zvyagintsev and others.\n  \nSeminar application instructions: Email Professor Spiegel (mls37@columbia.edu) with the subject heading \"Family in Film & Memoir Seminar.\" In your message, include your name, school, major, year of study, and relevant courses taken. All students are automatically placed on a waitlist, from which the instructor will in due course admit students as spaces become available.",
     "instructor":"Maura L Spiegel",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -39098,7 +39233,7 @@
   {
     "course_code":"ENGL UN3675",
     "course_title":"Transpacific Personalities: The Personal",
-    "course_descr":null,
+    "course_descr":"Since the 1974 publication of the first anthology of Asian American writing, Aiiieeeee!, the field of Asian American Studies has been pulled in two different directions, simultaneously trying to articulate a coherent identity of, and place for, Asian American subjects while also articulating this coherence in relation to immigrant labor and history.\n  \n This introductory course will survey the way this tension, between personal coherence and collective historical experience, formally characterizes Asian American media and literature since the 1970s, in which the form of the personal essay is critically expanded and brought into conflict with the racialized history of Asian American immigrant experience. Beginning with Lisa Lowe\u2019s Immigrant Acts (1994) and Colleen Lye\u2019s America\u2019s Asia (2005), this course will furnish students with an understanding of both the successive exclusion acts applied to different waves of East and Southeast Asian immigration to the United States, as well as the ways these exclusion acts produced, and were produced by, expanding forms of anti-Asian American racism. This framework of economic policy and racial form will then be used as a lens to investigate prominent texts across the Asian American canon (as well as outside of this canon) by authors such as Frank Chin, MaxineHong Kingston, Carlos Bulosan, John Okada, Theresa Cha, Jessica Hagedorn, Wilfrido Nolledo, and Elaine Castillo.",
     "instructor":"Chris Kelly",
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"2:00pm",
@@ -39127,7 +39262,7 @@
   {
     "course_code":"ENGL UN3795",
     "course_title":"SENIOR ESSAY RESEARCH METHODS",
-    "course_descr":null,
+    "course_descr":"The senior essay research methods seminar, offered in several sections in the fall semester, lays out the basic building blocks of literary and cultural studies. What kinds of questions do literary and cultural critics ask, and what kinds of evidence do they invoke to support their arguments? What formal properties characterize pieces of criticism that we find especially interesting and\/or successful? How do critics balance the desire to say something fresh vis-a-vis the desire to say something sensible and true? What mix of traditional and innovative tools will best serve you as a critical writer? Voice, narrative, form, language, history, theory and the practice known as \u201cclose reading\u201d will be considered in a selection of exemplary critical readings. Readings will also include \u201chow-to\u201d selections from recent guides including Amitava Kumar\u2019s Every Day I Write the Book, Eric Hayot\u2019s The Elements of Academic Style and Aaron Ritzenberg and Sue Mendelsohn\u2019s How Scholars Write.\n  \nThe methods seminar is designed to prepare those students who choose to write a senior essay to complete a substantial independent project in the subsequent semester. Individual assignments will help you discover, define and refine a topic; design and pursue a realistic yet thrilling research program or set of protocols; practice \u201cclose reading\u201d an object (not necessarily verbal or textual) of interest; work with critical sources to develop your skills of description and argument; outline your project; build out several sections of the project in more detail; and come up with a timeline for your spring semester work. In keeping with the iterative nature of scholarly research and writing, the emphasis is more on process than on product, but you will end the semester with a clear plan for your essay itself as well as for the tasks you will execute to achieve that vision the following semester.\n  \nThe methods seminar is required of all students who wish to write a senior essay in their final semester.\u00a0 Students who enroll in the methods seminar and decide not to pursue a senior essay in the spring will still receive credit for the fall course.",
     "instructor":"Sharon Marcus",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -39157,7 +39292,7 @@
   {
     "course_code":"ENGL UN3795",
     "course_title":"SENIOR ESSAY RESEARCH METHODS",
-    "course_descr":null,
+    "course_descr":"The senior essay research methods seminar, offered in several sections in the fall semester, lays out the basic building blocks of literary and cultural studies. What kinds of questions do literary and cultural critics ask, and what kinds of evidence do they invoke to support their arguments? What formal properties characterize pieces of criticism that we find especially interesting and\/or successful? How do critics balance the desire to say something fresh vis-a-vis the desire to say something sensible and true? What mix of traditional and innovative tools will best serve you as a critical writer? Voice, narrative, form, language, history, theory and the practice known as \u201cclose reading\u201d will be considered in a selection of exemplary critical readings. Readings will also include \u201chow-to\u201d selections from recent guides including Amitava Kumar\u2019s Every Day I Write the Book, Eric Hayot\u2019s The Elements of Academic Style and Aaron Ritzenberg and Sue Mendelsohn\u2019s How Scholars Write.\n  \nThe methods seminar is designed to prepare those students who choose to write a senior essay to complete a substantial independent project in the subsequent semester. Individual assignments will help you discover, define and refine a topic; design and pursue a realistic yet thrilling research program or set of protocols; practice \u201cclose reading\u201d an object (not necessarily verbal or textual) of interest; work with critical sources to develop your skills of description and argument; outline your project; build out several sections of the project in more detail; and come up with a timeline for your spring semester work. In keeping with the iterative nature of scholarly research and writing, the emphasis is more on process than on product, but you will end the semester with a clear plan for your essay itself as well as for the tasks you will execute to achieve that vision the following semester.\n  \nThe methods seminar is required of all students who wish to write a senior essay in their final semester.\u00a0 Students who enroll in the methods seminar and decide not to pursue a senior essay in the spring will still receive credit for the fall course.",
     "instructor":"Aaron Ritzenberg",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -39187,7 +39322,7 @@
   {
     "course_code":"ENGL UN3891",
     "course_title":"INTRO TO CLASSICAL RHETORIC",
-    "course_descr":null,
+    "course_descr":"Prerequisites: the instructor's permission. (Seminar). This course examines rhetorical theory from its roots in ancient Greece and Rome and reanimates the great debates about language that emerged in times of national expansion and cultural upheaval. We will situate the texts of Plato, Isocrates, Aristotle, Cicero, Quintilian, and others in their historical contexts to illuminate ongoing conversations about the role of words and images in the negotiation of persuasion, meaning making, and the formation of the public. In the process, we will discover that the arguments of classical rhetoric play out all around us today. Readings from thinkers like Judith Butler, Richard McKeon, Robert Pirsig, and Bruno Latour echo the ancients in their debates about hate speech regulation, the purpose of higher education, and the ability of the sciences to arrive at truth. We will discover that rhetoricians who are writing during eras of unprecedented expansion of democracies, colonization, and empire have a great deal to say about the workings of language in our globalizing, digitizing age. Application instructions: E-mail Professor Sue Mendelsohn (sem2181@columbia.edu) by April 11 with the subject heading Rhetoric seminar. In your message, include basic information: your name, school, major, year of study, and relevant courses taken, along with a brief statement about why you are interested in taking the course. Admitted students should register for the course; they will automatically be placed on a wait list, from which the instructor will in due course admit them as spaces become available.",
     "instructor":"Susan Mendelsohn",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -39241,7 +39376,7 @@
   {
     "course_code":"ENTA UN3701",
     "course_title":"DRAMA, THEATRE AND THEORY",
-    "course_descr":null,
+    "course_descr":"Prerequisites: Instructor's permission. (Seminar). Theatre typically exceeds the claims of theory. What does this tell us about both theatre and theory? We will consider why theatre practitioners often provide the most influential theoretical perspectives, how the drama inquires into (among other things) the possibilities of theatre, and the various ways in which the social, spiritual, performative, political, and aesthetic elements of drama and theatre interact. Two papers, weekly responses, and a class presentation are required. Readings include Aristotle, Artaud, Bharata, Boal, Brecht, Brook, Castelvetro, Craig, Genet, Grotowski, Ibsen, Littlewood, Marlowe, Parks, Schechner, Shakespeare, Sowerby, Weiss, and Zeami. Application Instructions: E-mail Professor Austin Quigley (aeq1@columbia.edu) with the subject heading Drama, Theatre, Theory seminar. In your message, include basic information: your name, school, major, year of study, and relevant courses taken, along with a brief statement about why you are interested in taking the course. Admitted students should register for the course; they will automatically be placed on a wait list, from which the instructor will in due course admit them as spaces become available.",
     "instructor":"Austin E Quigley",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -42914,7 +43049,7 @@
   {
     "course_code":"FINN UN1101",
     "course_title":"ELEMENTARY FINNISH I",
-    "course_descr":null,
+    "course_descr":"Fundamentals of grammar and lexicon. Building proficiency in aural comprehension, reading, speaking, and writing. Linguistic structures in the cultural context.",
     "instructor":"Heli Sirvioe",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -52404,7 +52539,7 @@
   {
     "course_code":"IMGT PS5100",
     "course_title":"PRODUCT, PRICING & DISTRIBUTION",
-    "course_descr":null,
+    "course_descr":"The insurance business is an outward facing business built around selling products to individual and business consumers. Therefore, insurance service providers, like all sophisticated consumer-driven businesses, must carefully and constantly assess their markets and strategies to remain relevant in a highly competitive environment.\u00a0 From consumer data analytics, to proper risk pricing, to efficient distribution channels, to navigating social media, to managing the highly regulated nature of insurance sales and distribution, insurance providers operate in a highly competitive environment that rewards discipline as well as innovation.\u00a0 Successful companies identify and make tough decisions to correct underperforming parts of their portfolios and they temper their approaches to new products where loss costs and pricing requirements are uncertain.\u00a0 They innovate by thinking first about new and evolving loss exposures their customers face and develop insurance products and services that respond.\u00a0 They focus on the client experience through the entire insurance process and create specialized\/differentiated products and services to either avoid commoditization or leverage it, depending on the needs of that market and the strengths of that insurer.\n  \nThe focus of this core course, in MSIM\u2019s Insurance Rotation area of study, will include the history and the evolution of the insurance industry across the three main insurance sectors, i.e. property\/casualty, life and health.\u00a0 The course will address factors that drive company investment in and\/or withdrawal from specific products and markets and the complexities around developing, pricing and selling a product for which costs are determined only after claims have been paid \u2013 something that often occurs many years after the policy was sold. \u00a0\u00a0The course will consider how providers are expanding beyond traditional products into related services and how technology is increasing innovation around product design and marketing.",
     "instructor":"Louis Weltmann",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -52431,7 +52566,7 @@
   {
     "course_code":"IMGT PS5101",
     "course_title":"Insurance Management Student Community C",
-    "course_descr":null,
+    "course_descr":"Insurance Management Student Community Center helps facilitate remote pre-residency requirements and preparatory activities to preserve the limited in-person time we have during the residency for other activities. Given that we are a remote program, this is the most effective way to introduce, assign, inform and track new student activity prior to starting the core courses. The use of a dedicated site helps the students practice using the LMS, in addition to acclimating to Columbia, the faculty and the resources. The activities in which the students participate for the residency are critical to their success in the 16-months of remote learning in which they engage. Recordings and other materials are provided to students in continuity with completed activities and the site is also used as a general communications tool with the students outside of the dedicated Canvas courses.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -52458,7 +52593,7 @@
   {
     "course_code":"IMGT PS5300",
     "course_title":"CLAIMS MANAGEMENT",
-    "course_descr":null,
+    "course_descr":"IMGT5300PS",
     "instructor":"Richard Woollams",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -52476,7 +52611,9 @@
     ],
     "points":"3",
     "prerequisites":[
-
+      [
+        "GT5300"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20263IMGT5300KD01",
@@ -57321,7 +57458,7 @@
   {
     "course_code":"MDES UN1004",
     "course_title":"Premodern Islamic Worlds-Discussion Sect",
-    "course_descr":null,
+    "course_descr":"Discussion section to accompany the course, MDES UN1003 Premodern Islamic Worlds.",
     "instructor":null,
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:00pm",
@@ -57337,7 +57474,9 @@
     "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "MDES UN1003"
+      ]
     ],
     "scheduled_days":"T",
     "section_key":"20263MDES1004W001",
@@ -57346,7 +57485,7 @@
   {
     "course_code":"MDES UN1004",
     "course_title":"Premodern Islamic Worlds-Discussion Sect",
-    "course_descr":null,
+    "course_descr":"Discussion section to accompany the course, MDES UN1003 Premodern Islamic Worlds.",
     "instructor":null,
     "scheduled_time_start":"5:10pm",
     "scheduled_time_end":"6:00pm",
@@ -57362,7 +57501,9 @@
     "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "MDES UN1003"
+      ]
     ],
     "scheduled_days":"T",
     "section_key":"20263MDES1004W002",
@@ -57371,7 +57512,7 @@
   {
     "course_code":"MDES UN1004",
     "course_title":"Premodern Islamic Worlds-Discussion Sect",
-    "course_descr":null,
+    "course_descr":"Discussion section to accompany the course, MDES UN1003 Premodern Islamic Worlds.",
     "instructor":null,
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"3:00pm",
@@ -57387,7 +57528,9 @@
     "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "MDES UN1003"
+      ]
     ],
     "scheduled_days":"R",
     "section_key":"20263MDES1004W003",
@@ -57396,7 +57539,7 @@
   {
     "course_code":"MDES UN1004",
     "course_title":"Premodern Islamic Worlds-Discussion Sect",
-    "course_descr":null,
+    "course_descr":"Discussion section to accompany the course, MDES UN1003 Premodern Islamic Worlds.",
     "instructor":null,
     "scheduled_time_start":"3:10pm",
     "scheduled_time_end":"4:00pm",
@@ -57412,7 +57555,9 @@
     "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "MDES UN1003"
+      ]
     ],
     "scheduled_days":"R",
     "section_key":"20263MDES1004W004",
@@ -57446,7 +57591,7 @@
   {
     "course_code":"MDES UN1031",
     "course_title":"Game of Thrones Discussion Section",
-    "course_descr":null,
+    "course_descr":"Discussion section to accompany the course, \"Game of Thrones\": On Epics and Empires.",
     "instructor":null,
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:00pm",
@@ -57471,7 +57616,7 @@
   {
     "course_code":"MDES UN1031",
     "course_title":"Game of Thrones Discussion Section",
-    "course_descr":null,
+    "course_descr":"Discussion section to accompany the course, \"Game of Thrones\": On Epics and Empires.",
     "instructor":null,
     "scheduled_time_start":"5:10pm",
     "scheduled_time_end":"6:00pm",
@@ -57496,7 +57641,7 @@
   {
     "course_code":"MDES UN1031",
     "course_title":"Game of Thrones Discussion Section",
-    "course_descr":null,
+    "course_descr":"Discussion section to accompany the course, \"Game of Thrones\": On Epics and Empires.",
     "instructor":null,
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"3:00pm",
@@ -57521,7 +57666,7 @@
   {
     "course_code":"MDES UN1031",
     "course_title":"Game of Thrones Discussion Section",
-    "course_descr":null,
+    "course_descr":"Discussion section to accompany the course, \"Game of Thrones\": On Epics and Empires.",
     "instructor":null,
     "scheduled_time_start":"3:10pm",
     "scheduled_time_end":"4:00pm",
@@ -57546,7 +57691,7 @@
   {
     "course_code":"MDES UN1031",
     "course_title":"Game of Thrones Discussion Section",
-    "course_descr":null,
+    "course_descr":"Discussion section to accompany the course, \"Game of Thrones\": On Epics and Empires.",
     "instructor":null,
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:00pm",
@@ -57571,7 +57716,7 @@
   {
     "course_code":"MDES UN1031",
     "course_title":"Game of Thrones Discussion Section",
-    "course_descr":null,
+    "course_descr":"Discussion section to accompany the course, \"Game of Thrones\": On Epics and Empires.",
     "instructor":null,
     "scheduled_time_start":"5:10pm",
     "scheduled_time_end":"6:00pm",
@@ -57596,7 +57741,7 @@
   {
     "course_code":"MDES UN1031",
     "course_title":"Game of Thrones Discussion Section",
-    "course_descr":null,
+    "course_descr":"Discussion section to accompany the course, \"Game of Thrones\": On Epics and Empires.",
     "instructor":null,
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:00am",
@@ -57621,7 +57766,7 @@
   {
     "course_code":"MDES UN1031",
     "course_title":"Game of Thrones Discussion Section",
-    "course_descr":null,
+    "course_descr":"Discussion section to accompany the course, \"Game of Thrones\": On Epics and Empires.",
     "instructor":null,
     "scheduled_time_start":"11:10am",
     "scheduled_time_end":"12:00pm",
@@ -57646,7 +57791,7 @@
   {
     "course_code":"MDES UN1031",
     "course_title":"Game of Thrones Discussion Section",
-    "course_descr":null,
+    "course_descr":"Discussion section to accompany the course, \"Game of Thrones\": On Epics and Empires.",
     "instructor":null,
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"3:00pm",
@@ -57671,7 +57816,7 @@
   {
     "course_code":"MDES UN1031",
     "course_title":"Game of Thrones Discussion Section",
-    "course_descr":null,
+    "course_descr":"Discussion section to accompany the course, \"Game of Thrones\": On Epics and Empires.",
     "instructor":null,
     "scheduled_time_start":"3:10pm",
     "scheduled_time_end":"4:00pm",
@@ -57696,7 +57841,7 @@
   {
     "course_code":"MDES UN1031",
     "course_title":"Game of Thrones Discussion Section",
-    "course_descr":null,
+    "course_descr":"Discussion section to accompany the course, \"Game of Thrones\": On Epics and Empires.",
     "instructor":null,
     "scheduled_time_start":"8:10am",
     "scheduled_time_end":"9:00am",
@@ -57721,7 +57866,7 @@
   {
     "course_code":"MDES UN1031",
     "course_title":"Game of Thrones Discussion Section",
-    "course_descr":null,
+    "course_descr":"Discussion section to accompany the course, \"Game of Thrones\": On Epics and Empires.",
     "instructor":null,
     "scheduled_time_start":"9:10am",
     "scheduled_time_end":"10:00am",
@@ -64130,7 +64275,7 @@
   {
     "course_code":"NMED PS5557",
     "course_title":"Internship in NMED",
-    "course_descr":null,
+    "course_descr":"This asynchronous, 1.5-credit elective combines a supervised professional internship with guided analysis of workplace culture, ethics, and feedback practices. Students evaluate organizational values, inclusivity, and ethical decision-making while developing the skills needed to navigate professional environments and identify the workplace cultures in which they will thrive.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -69062,7 +69207,7 @@
   {
     "course_code":"PHIL GR9265",
     "course_title":"Topics in 19th Century Philosophy",
-    "course_descr":null,
+    "course_descr":"This course offers an advanced exploration of a theme, tradition, or figure in 19th-century philosophy. Depending on the semester, the course may be organized around one central figure\/text, or around a theme or tradition (for example, post-Kantian German idealism, 19th-century social and political philosophy, 19th-century philosophy of religion.)",
     "instructor":"Caroline D Bowman",
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"2:00pm",
@@ -70764,7 +70909,7 @@
   {
     "course_code":"POAN PS5557",
     "course_title":"Internship in POAN",
-    "course_descr":null,
+    "course_descr":"This asynchronous, 1.5-credit elective combines a supervised professional internship with guided analysis of workplace culture, ethics, and feedback practices. Students evaluate organizational values, inclusivity, and ethical decision-making while developing the skills needed to navigate professional environments and identify the workplace cultures in which they will thrive.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -70791,7 +70936,7 @@
   {
     "course_code":"POAN PS5995",
     "course_title":"Internship In POAN",
-    "course_descr":null,
+    "course_descr":"This asynchronous, 3-credit elective provides an immersive, supervised professional internship experience paired with structured reflection and applied academic work. Students integrate theory with practice while assessing organizational culture, ethical decision-making, feedback practices, and professional competencies. Through guided analysis and reflective assignments, students deepen self-awareness, strengthen career readiness, and clarify how their internship experience shapes future professional goals.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -71495,7 +71640,7 @@
   {
     "course_code":"PORT UN1101",
     "course_title":"ELEMENTARY PORTUGUESE I",
-    "course_descr":null,
+    "course_descr":"A beginning course designed for students who wish to start their study of Portuguese and have no proficiency in another Romance language. The four language skills: listening, speaking, reading, and writing are developed at the basic level.",
     "instructor":"Ana P Huback",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -71520,7 +71665,7 @@
   {
     "course_code":"PORT UN1101",
     "course_title":"ELEMENTARY PORTUGUESE I",
-    "course_descr":null,
+    "course_descr":"A beginning course designed for students who wish to start their study of Portuguese and have no proficiency in another Romance language. The four language skills: listening, speaking, reading, and writing are developed at the basic level.",
     "instructor":"Ana P Huback",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -71545,7 +71690,7 @@
   {
     "course_code":"PORT UN1102",
     "course_title":"ELEMENTARY PORTUGUESE II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: PORT W1101 or the equivalent. A course designed to acquaint students with the Portuguese verbal, prepositional, and pronominal systems. As a continuation of Elementary Portuguese I (PORT W1101), this course focuses on the uses of characteristic forms and expressions of the language as it is spoken and written in Brazil today.",
     "instructor":"Ana P Huback",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -71561,7 +71706,10 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "PORT W1101",
+        "PORT W1101"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20263PORT1102W001",
@@ -71570,10 +71718,10 @@
   {
     "course_code":"PORT UN1320",
     "course_title":"COMP ELEM PORT I\/II-SPAN SPKRS",
-    "course_descr":null,
+    "course_descr":"Prerequisites: knowledge of Spanish or another Romance language. An intensive beginning language course in Brazilian Portuguese with emphasis on Brazilian culture through multimedia materials related to culture and society in contemporary Brazil. Recommended for students who have studied Spanish or another Romance language. The course is the equivalent of two full semesters of elementary Portuguese with stress on reading and conversing, and may be taken in place of PORT W1101-W1102. For students unable to dedicate the time needed cover two semesters in one, the regularly paced sequence PORT W1101-W1102 is preferable.",
     "instructor":null,
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"12:00pm",
     "call_number":"12194",
     "campus":null,
     "class_id":"W1320-20263-001",
@@ -71581,21 +71729,30 @@
     "department":"Latin American and Iberian Cultures",
     "department_code":"PORT",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/PORT\/W1320-20263-001\/",
-    "location":null,
+    "location":"To be announced",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "PORT W1101"
+      ],
+      [
+        "W1102"
+      ],
+      [
+        "W1102",
+        "PORT W1101"
+      ]
     ],
-    "scheduled_days":null,
+    "scheduled_days":"MW",
     "section_key":"20263PORT1320W001",
     "type":"LANGUAGE"
   },
   {
     "course_code":"PORT UN2101",
     "course_title":"INTERMEDIATE PORTUGUESE I",
-    "course_descr":null,
+    "course_descr":"Prerequisites: PORT W1120 or the equivalent. General review of grammar, with emphasis on self-expression through oral and written composition, reading, conversation, and discussion.",
     "instructor":null,
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -71611,7 +71768,9 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "PORT W1120"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20263PORT2101W001",
@@ -71620,7 +71779,7 @@
   {
     "course_code":"PORT UN2102",
     "course_title":"Intermed. Portuguese II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: PORT UN1120 or PORT UN1320 or the equivalent. General review of grammar, with emphasis on self-expression through oral and written composition, reading, conversation, and discussion.",
     "instructor":null,
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -71636,7 +71795,10 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "PORT UN1120",
+        "PORT UN1320"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20263PORT2102W001",
@@ -71645,7 +71807,7 @@
   {
     "course_code":"PORT UN2120",
     "course_title":"COMPREHENSIVE INTERMED PORT",
-    "course_descr":null,
+    "course_descr":"Prerequisites: PORT UN1102 or PORT UN1320. Prerequisites: this course is an intensive and fast-paced coverage of both PORT UN2101 and PORT UN2102. Students MUST demonstrate a strong foundation in Portuguese and meet the following REQUIREMENT: A- or higher in PORT UN1102 or PORT UN1320. If you fulfill the above requirement, you do not need the instructors permission to register. HOWEVER the instructor will additionally assess student proficiency during the Change of Program Period. Students who do not have the necessary proficiency level may not remain in this course. This course replaces the sequence PORT UN2101-PORT UN2102.",
     "instructor":"Joao Nemi Neto",
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"2:00pm",
@@ -71661,7 +71823,22 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "PORT UN1102",
+        "PORT UN1320"
+      ],
+      [
+        "PORT UN2101"
+      ],
+      [
+        "PORT UN2102"
+      ],
+      [
+        "PORT UN2102",
+        "PORT UN1102",
+        "PORT UN1320",
+        "PORT UN2101"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20263PORT2120W001",
@@ -71670,7 +71847,7 @@
   {
     "course_code":"PORT UN3300",
     "course_title":"ADV LANGUAGE THROUGH CONTENT",
-    "course_descr":null,
+    "course_descr":"Corequisites: PORT UN1220 An intensive exposure to advanced points of Portuguese grammar and structure through written and oral practice, along with an introduction to the basic principles of academic composition in Portuguese. This course is required for the concentration in Portuguese Studies. This course is intended to improve Portuguese language skills in grammar, comprehension, and critical thinking through an archive of texts from literature, film, music, newspapers, critical reception and more. To do so, we will work through Portuguese-speaking communities and cultures from Brazil, to Portugal and Angola, during the twentieth and twenty-first century, to consider the mode in which genre, gender and sexuality materialize and are codified, disoriented, made, unmade and refigured through cultural productions, bodies, nation and resistant vernaculars of aesthetics and performance, always attentive to the intersections of gender with class and racism.",
     "instructor":"Joao Nemi Neto",
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:55pm",
@@ -71686,7 +71863,9 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "PORT UN1220"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20263PORT3300W001",
@@ -71695,7 +71874,7 @@
   {
     "course_code":"PORT UN3490",
     "course_title":"BRAZILIAN SOCIETY & CIV (ENG)",
-    "course_descr":null,
+    "course_descr":"Each week, a historical period is studied in connection to a particular theme of ongoing cultural expression. While diverse elements of popular culture are included, fiction is privileged as a source of cultural commentary. Students are expected to assimilate the background information but are also encouraged to develop their own perspective and interest, whether in the social sciences, the humanities (including the fine arts), or other areas.",
     "instructor":"Joao Nemi Neto",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:25pm",
@@ -73930,43 +74109,6 @@
     "type":"COLLOQUIA"
   },
   {
-    "course_code":"PSYC GU4244",
-    "course_title":"LANGUAGE AND MIND",
-    "course_descr":"Prerequisites: PSYC UN1001 and Preferably, an additional course in psychology, focusing on cognition, development, or research methods. Instructor permission required. This seminar explores the relationship between language and thought by investigating how language is mentally represented and processed; how various aspects of language interact with each other; and how language interacts with other aspects of cognition including perception, concepts, world knowledge, and memory. Students will examine how empirical data at the linguistic, psychological, and neuroscientific levels can bear on some of the biggest questions in the philosophy of mind and language and in psychology.",
-    "instructor":"Nora Isacoff",
-    "scheduled_time_start":"2:10pm",
-    "scheduled_time_end":"4:00pm",
-    "call_number":"10656",
-    "campus":null,
-    "class_id":"W4244-20263-001",
-    "course_subtitle":null,
-    "department":"Psychology",
-    "department_code":"PSYC",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PSYC\/W4244-20263-001\/",
-    "location":"To be announced",
-    "method_of_instruction":"In-Person",
-    "open_to":[
-      "Columbia College",
-      "Engineering:Graduate",
-      "Engineering:Undergraduate",
-      "GSAS",
-      "General Studies",
-      "Global Programs",
-      "Professional Studies",
-      "SIPA",
-      "Schools of the Arts"
-    ],
-    "points":"4",
-    "prerequisites":[
-      [
-        "PSYC UN1001"
-      ]
-    ],
-    "scheduled_days":"M",
-    "section_key":"20263PSYC4244W001",
-    "type":"SEMINAR"
-  },
-  {
     "course_code":"PSYC GU4265",
     "course_title":"AUDITORY PERCEPTION",
     "course_descr":"Prerequisites: PSYC UN1010 PSYC UN1010 or equivalent; background in statistics\/research methods recommended How does the human brain make sense of the acoustic world? What aspects of auditory perception do humans share with other animals? How does the brain perform the computations necessary for skills such as soundlocalization? How do we focus our auditory attention on one voice in a crowd? What acoustic cues are important for speech perception? How is music perceived? These are the types of questions we will address by studyingthe basics of auditory perception from textbook readings and reviews, and reading classic and current literatureto understand scientific progress in the field today.",
@@ -74160,6 +74302,31 @@
     ],
     "scheduled_days":"T",
     "section_key":"20263PSYC4498G001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"PSYC GU4612",
+    "course_title":"Frontiers of Justice",
+    "course_descr":"Frontiers of Justice is designed to encourage students and equip them with the skills to become active and effective\u00a0 \u201cChange Agents\u201d within their academic institutions and larger communities.. Oriented by the question, \nWhat does justice look like?\n, this course aims to raise political and social awareness and engagement with the challenges facing New York City and strengthen ties between Columbia University, disadvantaged communities, and city government agencies and community organizations. Through sharing ideas about how to make structural and systemic change in ways that integrate science, law, politics, history,\u00a0 narrative and community engagement, the course is intended to support students in working to break down racial and ethnic barriers and toward a more fair and just society.",
+    "instructor":"Nora Isacoff",
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"12332",
+    "campus":null,
+    "class_id":"W4612-20263-001",
+    "course_subtitle":null,
+    "department":"Psychology",
+    "department_code":"PSYC",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PSYC\/W4612-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20263PSYC4612W001",
     "type":"SEMINAR"
   },
   {
@@ -80294,7 +80461,7 @@
   {
     "course_code":"SPAN GR6025",
     "course_title":"In\/disciplines of the Quotidian: Spanish",
-    "course_descr":null,
+    "course_descr":"\u201cIn\/disciplines of the Quotidian: Spanish Still Lives and the Politics of the Overlooked\u201d is an interdisciplinary cultural studies course that investigates how the ordinary becomes a site of tension, meaning, and critique across Spanish artistic traditions. Taking as its point of departure two productive contradictions\u2014the paradox of still life\/ \nNaturaleza muerta\n (simultaneously immobile and vital) and the\u00a0\nbodeg\u00f3n\n\u00a0as both a lively social space and an emptied, object-filled scene\u2014the course examines how the materiality of objects and backgrounds administer absence, presence and attention, reshape cultural narratives but also structure the political.\n  \nThe course is grounded in a theoretical framework that treats materiality as inherently political, asking how objects participate in the organization of social life and regimes of value. Drawing on\u00a0Thomas Lemke\u2019s notion of the \u201cgovernment of things,\u201d it considers how power operates not only through subjects but through arrangements of objects, infrastructures, and environments that shape conduct and perception. At the same time, it stages a dialogue between new materialist approaches\u2014which emphasize the agency and vitality of matter\u2014and Marxist materialisms, with their focus on labor, commodity relations, and historical conditions. Rather than opposing these traditions, the course explores their productive dialogue, showing how attention to lively matter can coexist with a critical social and political analysis ultimately reframing the overlooked object as both an active force, tool and sediment of social relations.\n  \nWe will focus on very different contexts and objects of study from a comparative diachronic perspective, starting with seventeenth and eighteenth-century Spanish still life painting (S\u00e1nchez Cot\u00e1n, Zurbar\u00e1n, Mel\u00e9ndez, Goya) where everyday objects\u2014food, vessels, tools\u2014appear suspended in time yet charged with latent energy. These compositions negotiate life and stillness, abundance and austerity, the quotidian and the mystical, while also reflecting class structures, domestic labor, and consumption. The\u00a0\nbodeg\u00f3n \nemerges here as a conceptual hinge: a trace of human interaction or monastic solitude, but also a script of its outside, and a religious and\u00a0 political pedagogy.\n  \nThe course then turns to avant-garde literature and film of the 1920s, where writers and film-makers fragme",
     "instructor":"Alberto Medina",
     "scheduled_time_start":"3:00pm",
     "scheduled_time_end":"5:00pm",
@@ -81279,7 +81446,7 @@
   {
     "course_code":"SPRT PS5557",
     "course_title":"Internship in SPRT",
-    "course_descr":null,
+    "course_descr":"This asynchronous, 1.5-credit elective combines a supervised professional internship with guided analysis of workplace culture, ethics, and feedback practices. Students evaluate organizational values, inclusivity, and ethical decision-making while developing the skills needed to navigate professional environments and identify the workplace cultures in which they will thrive.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -81306,7 +81473,7 @@
   {
     "course_code":"SPRT PS5995",
     "course_title":"Internship in SPRT",
-    "course_descr":null,
+    "course_descr":"This asynchronous, 3-credit elective provides an immersive, supervised professional internship experience paired with structured reflection and applied academic work. Students integrate theory with practice while assessing organizational culture, ethical decision-making, feedback practices, and professional competencies. Through guided analysis and reflective assignments, students deepen self-awareness, strengthen career readiness, and clarify how their internship experience shapes future professional goals.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -81333,7 +81500,7 @@
   {
     "course_code":"STAB OC0002",
     "course_title":"FULL-TIME STUDY ABROAD PROGRAM",
-    "course_descr":null,
+    "course_descr":"This is a \"dummy\" course for CC and SEAS students studying abroad on a\u00a0Columbia-Approved program\u00a0(programs not administered by Columbia) for the semester.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -81358,7 +81525,7 @@
   {
     "course_code":"STAB OC0002",
     "course_title":"FULL-TIME STUDY ABROAD PROGRAM",
-    "course_descr":null,
+    "course_descr":"This is a \"dummy\" course for CC and SEAS students studying abroad on a\u00a0Columbia-Approved program\u00a0(programs not administered by Columbia) for the semester.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -81383,7 +81550,7 @@
   {
     "course_code":"STAB OC0002",
     "course_title":"FULL-TIME STUDY ABROAD PROGRAM",
-    "course_descr":null,
+    "course_descr":"This is a \"dummy\" course for CC and SEAS students studying abroad on a\u00a0Columbia-Approved program\u00a0(programs not administered by Columbia) for the semester.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -81483,7 +81650,7 @@
   {
     "course_code":"SUMA PS5557",
     "course_title":"Internship in SUMA",
-    "course_descr":null,
+    "course_descr":"This asynchronous, 1.5-credit elective combines a supervised professional internship with guided analysis of workplace culture, ethics, and feedback practices. Students evaluate organizational values, inclusivity, and ethical decision-making while developing the skills needed to navigate professional environments and identify the workplace cultures in which they will thrive.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -81510,7 +81677,7 @@
   {
     "course_code":"SUMA PS5995",
     "course_title":"Internship In SUMA",
-    "course_descr":null,
+    "course_descr":"This asynchronous, 3-credit elective provides an immersive, supervised professional internship experience paired with structured reflection and applied academic work. Students integrate theory with practice while assessing organizational culture, ethical decision-making, feedback practices, and professional competencies. Through guided analysis and reflective assignments, students deepen self-awareness, strengthen career readiness, and clarify how their internship experience shapes future professional goals.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -81637,7 +81804,7 @@
   {
     "course_code":"SUSC PS5557",
     "course_title":"Internship in SUSC",
-    "course_descr":null,
+    "course_descr":"This asynchronous, 1.5-credit elective combines a supervised professional internship with guided analysis of workplace culture, ethics, and feedback practices. Students evaluate organizational values, inclusivity, and ethical decision-making while developing the skills needed to navigate professional environments and identify the workplace cultures in which they will thrive.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -81664,7 +81831,7 @@
   {
     "course_code":"SUSC PS5995",
     "course_title":"Internship In SUSC",
-    "course_descr":null,
+    "course_descr":"This asynchronous, 3-credit elective provides an immersive, supervised professional internship experience paired with structured reflection and applied academic work. Students integrate theory with practice while assessing organizational culture, ethical decision-making, feedback practices, and professional competencies. Through guided analysis and reflective assignments, students deepen self-awareness, strengthen career readiness, and clarify how their internship experience shapes future professional goals.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -81691,7 +81858,7 @@
   {
     "course_code":"SWED UN1101",
     "course_title":"ELEMENTARY SWEDISH I",
-    "course_descr":null,
+    "course_descr":"The goal of this course is to introduce students to the Swedish language as it is spoken in Sweden today. The class will also introduce important aspects of contemporary Swedish culture, historical figures and events, and Swedish traditions. Upon the completion of the course, students who have attended class regularly have submitted all assignments and taken all tests and quizzes should be able to: provide basic information in Swedish about themselves, families, interests, food, likes and dislikes, daily activities; understand and participate in a simple conversation on everyday topics (e.g. occupation, school, meeting people, food, shopping, hobbies, etc.); read edited texts on familiar topics, understand the main ideas and identify the underlying themes; pick out important information from a variety of authentic texts (e.g. menus, signs, schedules, websites, as well as linguistically simple literary texts such as songs and rhymes); fill in forms requesting information, write letters, notes, postcards, or messages providing simple information; provide basic information about Sweden and the rest of the Nordic countries (e.g. languages spoken, capitals, etc); use and understand a range of essential vocabulary related to everyday life (e.g. days of the week, colors, numbers, months, seasons, telling time, foods, names of stores, family, common objects, transportation, basic adjectives etc.) pronounce Swedish well enough and produce Swedish with enough grammatical accuracy to be comprehensible to a Swedish speaker with experience in speaking with non-natives. use and understand basic vocabulary related to important aspects of contemporary Swedish culture and Swedish traditions (e.g. Christmas traditions, St. Lucia, etc.). Methodology The class will be taught in a communicative way. It will be conducted primarily, but not exclusively in Swedish. In-class activities and homework assignments will focus on developing speaking, reading, writing, listening skills, and a basic understanding of Swedish culture through interaction. Authentic materials will be used whenever possible.",
     "instructor":"Heli Sirvioe",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -82876,7 +83043,7 @@
   {
     "course_code":"TMGT PS5557",
     "course_title":"Internship in TMGT",
-    "course_descr":null,
+    "course_descr":"This asynchronous, 1.5-credit elective combines a supervised professional internship with guided analysis of workplace culture, ethics, and feedback practices. Students evaluate organizational values, inclusivity, and ethical decision-making while developing the skills needed to navigate professional environments and identify the workplace cultures in which they will thrive.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -82903,7 +83070,7 @@
   {
     "course_code":"TMGT PS5995",
     "course_title":"Internship In TMGT",
-    "course_descr":null,
+    "course_descr":"This asynchronous, 3-credit elective provides an immersive, supervised professional internship experience paired with structured reflection and applied academic work. Students integrate theory with practice while assessing organizational culture, ethical decision-making, feedback practices, and professional competencies. Through guided analysis and reflective assignments, students deepen self-awareness, strengthen career readiness, and clarify how their internship experience shapes future professional goals.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -83387,7 +83554,7 @@
   {
     "course_code":"WMGT K5101",
     "course_title":"Wealth Management Student Community Cent",
-    "course_descr":null,
+    "course_descr":"The Wealth Management Student Community Center helps facilitate remote pre-residency requirements and preparatory activities to preserve the limited in-person time we have during the residency for other activities. Given that we are a remote program, this is the most effective way to introduce, assign, inform and track new student activity prior to starting the core courses. The use of a dedicated site helps them practice using the LMS, in addition to acclimating to Columbia, the faculty and the resources. The activities in which the students participate for the residency are critical to their success in the 16-months of remote learning in which they engage. Recordings and other materials are provided to students in continuity with completed activities and the site is also used as a general communications tool with the students outside of the dedicated Canvas courses.",
     "instructor":null,
     "scheduled_time_start":"8:30am",
     "scheduled_time_end":"5:30pm",
