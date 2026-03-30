@@ -1185,7 +1185,7 @@
   {
     "course_code":"AFAS UN3011",
     "course_title":"Spirit of Justice",
-    "course_descr":null,
+    "course_descr":"Progressive social movements are often read as critiques of systemic injustice and calls to transform social arrangements. In this framework, activism is largely - if not exclusively - a \npolitical \nproject that addresses issues of housing, education, employment, healthcare, elections, labor, sexual violence, immigration, war, and climate, to name a few. Of course, these efforts are central to the long history of freedom struggles. Largely missing from such mainstream conceptions of activism, however, is serious attention to its \nspiritual \nwork. That is, the ways social movements can transform hearts, minds, and spirits as much as material conditions, public policies, and political arrangements.\u00a0\n  \nThis course explores the intersection of social liberation and spiritual transformation, with particular focus on black and multi-racial freedom struggles in the Americas from the 19th century to today. Conceptually, it covers scholarship that speaks broadly to questions of love, spirituality, ethics, and religion in progressive political movements. Practically, it considers how this rich tradition of spiritual activism may help us confront legacies of injustice and struggle toward a liberated world.",
     "instructor":"Nyle Fort",
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"2:00pm",
@@ -27809,7 +27809,7 @@
   {
     "course_code":"CSOR W4246",
     "course_title":"ALGORITHMS FOR DATA SCIENCE",
-    "course_descr":null,
+    "course_descr":"Methods for organizing data, e.g. hashing, trees, queues, lists,priority queues. Streaming algorithms for computing statistics on the data. Sorting and searching. Basic graph models and algorithms for searching, shortest paths, and matching. Dynamic programming. Linear and convex programming. Floating point arithmetic, stability of numerical algorithms, Eigenvalues, singular values, PCA, gradient descent, stochastic gradient descent, and block coordinate descent. Conjugate gradient, Newton and quasi-Newton methods. Large scale applications from signal processing, collaborative filtering, recommendations systems, etc.",
     "instructor":"Eleni Drinea",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -27836,7 +27836,7 @@
   {
     "course_code":"CSOR W4246",
     "course_title":"ALGORITHMS FOR DATA SCIENCE",
-    "course_descr":null,
+    "course_descr":"Methods for organizing data, e.g. hashing, trees, queues, lists,priority queues. Streaming algorithms for computing statistics on the data. Sorting and searching. Basic graph models and algorithms for searching, shortest paths, and matching. Dynamic programming. Linear and convex programming. Floating point arithmetic, stability of numerical algorithms, Eigenvalues, singular values, PCA, gradient descent, stochastic gradient descent, and block coordinate descent. Conjugate gradient, Newton and quasi-Newton methods. Large scale applications from signal processing, collaborative filtering, recommendations systems, etc.",
     "instructor":"Eleni Drinea",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:25pm",
@@ -34391,7 +34391,7 @@
   {
     "course_code":"EESC GR6908",
     "course_title":"QUANT METHODS OF DATA ANALYSIS",
-    "course_descr":null,
+    "course_descr":"Prerequisites: calculus. Recommended preparation: linear algebra, statistics, computer programming. Introduction to the fundamentals of quantitative data analysis in Earth and environmental sciences. Topics: review of relevant probability, statistics and linear algebra; linear models and generalized least squares; Fourier analysis and introduction to spectral analysis; filtering time series (convolution,deconvolution,smoothing); factor analysis and empirical orthogonal functions; covariance and correlation; methods of interpolation; statistical significance and hypothesis testing; introduction to Monte Carlo methods for data analysis.\u00a0Problem sets and term project require use of MATLAB or Python.",
     "instructor":"William H Menke",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -36811,6 +36811,87 @@
     ],
     "scheduled_days":"F",
     "section_key":"20263ENGI1102E001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGI E4800",
+    "course_title":"DATA SCIENCE CAPSTONE&ETHICS",
+    "course_descr":null,
+    "instructor":"Yining Liu",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"6:00pm",
+    "call_number":"11925",
+    "campus":null,
+    "class_id":"E4800-20263-001",
+    "course_subtitle":null,
+    "department":"Engineering",
+    "department_code":"ENGI",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGI\/E4800-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Engineering:Graduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20263ENGI4800E001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGI E4800",
+    "course_title":"DATA SCIENCE CAPSTONE&ETHICS",
+    "course_descr":null,
+    "instructor":"Yining Liu",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"6:00pm",
+    "call_number":"12501",
+    "campus":null,
+    "class_id":"E4800-20263-002",
+    "course_subtitle":null,
+    "department":"Engineering",
+    "department_code":"ENGI",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGI\/E4800-20263-002\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Engineering:Graduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20263ENGI4800E002",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGI E4800",
+    "course_title":"DATA SCIENCE CAPSTONE&ETHICS",
+    "course_descr":null,
+    "instructor":"Adam Kelleher",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"6:00pm",
+    "call_number":"12503",
+    "campus":null,
+    "class_id":"E4800-20263-003",
+    "course_subtitle":null,
+    "department":"Engineering",
+    "department_code":"ENGI",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGI\/E4800-20263-003\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Engineering:Graduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20263ENGI4800E003",
     "type":"LECTURE"
   },
   {
@@ -47810,7 +47891,7 @@
     "course_code":"HIST BC2803",
     "course_title":"GENDER AND EMPIRE",
     "course_descr":"This course provides a political and social history of India from the 16th-19th century, focusing on the Mughal empire. Two central concerns: first, the Mughal regnal politics towards their rival imperial concerns within India and West Asia (the Maratha, the Rajput, the Safavid, the Ottoman); and second, the foreign gaze onto the Mughals (via the presence of Portuguese, English, and French travelers, merchants, and diplomats in India). These interlocked practices (how Mughals saw the world and how the world saw the Mughals) will allow us develop a nuanced knowledge of universally acknowledged power of the early modern world. Partially fulfills Global Core Requirement.",
-    "instructor":"Anupama Rao",
+    "instructor":"Faculty",
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:55pm",
     "call_number":"00520",
@@ -47955,31 +48036,6 @@
     "scheduled_days":"R",
     "section_key":"20263HIST3589X001",
     "type":"RESEARCH SEM"
-  },
-  {
-    "course_code":"HIST BC3910",
-    "course_title":"GLOBAL POLITICS OF REPRODUCTION",
-    "course_descr":"Comparative, cross-cultural examination of social organization and historical construction of human reproduction, with emphasis on 20th century. Topics include role of states and local and transnational \"stratification\" of reproduction by race, class, and citizenship; eugenics; population politics; birth control; kinship as social and biological relationship; maternity; paternity; new reproductive technologies.",
-    "instructor":"Nara Milanich",
-    "scheduled_time_start":"2:10pm",
-    "scheduled_time_end":"4:00pm",
-    "call_number":"00874",
-    "campus":null,
-    "class_id":"X3910-20263-001",
-    "course_subtitle":"GLOBAL POLITICS OF REPROD",
-    "department":"History @Barnard",
-    "department_code":"HIST",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HIST\/X3910-20263-001\/",
-    "location":"To be announced",
-    "method_of_instruction":null,
-    "open_to":null,
-    "points":"4",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"M",
-    "section_key":"20263HIST3910X001",
-    "type":"SEMINAR"
   },
   {
     "course_code":"HIST GR5000",
@@ -64915,7 +64971,7 @@
   {
     "course_code":"NMED PS5100",
     "course_title":"SELF & OTHER IN CLIN ENCOUNTER",
-    "course_descr":null,
+    "course_descr":"TBD",
     "instructor":"Michael E Davidovits",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"5:00pm",
@@ -64969,7 +65025,7 @@
   {
     "course_code":"NMED PS5230",
     "course_title":"ADVOCACY & ORGANIZING",
-    "course_descr":null,
+    "course_descr":"Our interpersonal experiences and the personal identities we hold both shape and contribute to our individual concepts of health, as well as to our awareness of the beliefs and identities held by others. \u00a0This course examines how various marginalized groups have historically organized and advocated to bring about change in communities impacted by health disparities and social injustice. \u00a0How can understanding their stories and the strategies they've implemented to construct, share, and collect their narratives, inform health professionals and their allies in developing new and innovative approaches to hear, interpret, and respond to the needs of the communities they are charged with serving? \u00a0At a time when a renewed focus is being placed on health equity, social justice, race, bias, resource distribution, and access, it is imperative to look more closely at the experiences of communities and the individuals within them who have been placed at greater vulnerability. \u00a0With an attentiveness to intersectionality, critical race theory, and media studies, course materials will guide an exploration of narrative and its relationship to activism, advocacy, and messaging around community health.",
     "instructor":null,
     "scheduled_time_start":"3:10pm",
     "scheduled_time_end":"5:00pm",
@@ -64996,7 +65052,7 @@
   {
     "course_code":"NMED PS5290",
     "course_title":"NARRATIVES-DEATH,LIVING,CARING",
-    "course_descr":null,
+    "course_descr":"We would like to shift this course from Online Only to fully In Person",
     "instructor":"Cherie M Henderson",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -82047,6 +82103,31 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"SDEV GU4101",
+    "course_title":"QUAL RESEARCH METHODS SDEV",
+    "course_descr":null,
+    "instructor":"Lisa Dale",
+    "scheduled_time_start":"12:10pm",
+    "scheduled_time_end":"2:00pm",
+    "call_number":"12505",
+    "campus":null,
+    "class_id":"W4101-20263-001",
+    "course_subtitle":"QUAL RESEARCH METHODS SDE",
+    "department":"Earth Institute",
+    "department_code":"SDEV",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SDEV\/W4101-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20263SDEV4101W001",
+    "type":"SEMINAR"
+  },
+  {
     "course_code":"SDEV GU4550",
     "course_title":"The New York City Watershed: From Commun",
     "course_descr":"The New York City Watershed: From Community Displacement to\n \nCollaboration and Climate Adaptation \nbrings students to the Catskill Mountains in upstate New York to learn first hand from researchers and practitioners who help supply over ten million New Yorkers with safe and abundant drinking water while also working to build social, economic and environmental capital in the towns and villages located in the watershed surrounding the city\u2019s reservoirs \u2013 all against a backdrop of increasing climate-related disruption.\u00a0\n  \nThe class will learn how New York City and a coalition of upstate watershed communities worked to end nearly a century of mutual resentment, displacement and extraction by entering into the \nWatershed Agreement of 1997\n, which has become a widely renowned model for collaborative and equitable water resources management planning in the twenty-five years since its completion. Students will engage with several of the Watershed Agreement\u2019s original negotiators and with the local elected officials, agency staff and non-profit leaders who implement its signature \u201c\nmulti-barrier\n\u201d strategy for drinking water protection through open space preservation, support for sustainable farming practices and investments in clean water infrastructure and sustainable economic growth in watershed communities. They will also learn how increases in storm intensity and warming driven by climate change threaten to upset the delicate balance between New York City\u2019s need for safe drinking water and the socio-economic interests of upstate watershed communities.\u00a0\n  \nUpon completion of the course, students will better understand the challenges involved in creating and implementing collaborative, multi-stakeholder plans for water resource management and host community benefits in today\u2019s increasingly climate-disrupted world.",
@@ -82171,6 +82252,31 @@
     ],
     "scheduled_days":"MW",
     "section_key":"20263SDEV3360W001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"SDEV UN3390",
+    "course_title":"GIS FOR SUSTAINABLE DEVELOPMNT",
+    "course_descr":null,
+    "instructor":"Linda I Pistolesi",
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"3:25pm",
+    "call_number":"12504",
+    "campus":null,
+    "class_id":"W3390-20263-001",
+    "course_subtitle":"GIS FOR SUSTAINABLE DEVEL",
+    "department":"Earth Institute",
+    "department_code":"SDEV",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SDEV\/W3390-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20263SDEV3390W001",
     "type":"LECTURE"
   },
   {
@@ -84105,7 +84211,7 @@
   {
     "course_code":"SPAN GR9811",
     "course_title":"SUPERVISED INDIVIDUAL RESEARCH",
-    "course_descr":null,
+    "course_descr":"Prerequisites: graduate standing. Students register in this course while preparing their M.Phil. examinations and prospectus--usually in the fall and spring of their third year.",
     "instructor":"Jacqueline Garcia Suarez",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -87617,6 +87723,33 @@
     ],
     "scheduled_days":"W",
     "section_key":"20263TMGT5143K001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"TMGT PS5144",
+    "course_title":"Special Topics: Pathways to the C-Suite:",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"6:00pm",
+    "call_number":"12499",
+    "campus":null,
+    "class_id":"K5144-20263-001",
+    "course_subtitle":"Pathways to the C-Suite",
+    "department":"Technology Management",
+    "department_code":"TMGT",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/TMGT\/K5144-20263-001\/",
+    "location":"To be announced",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20263TMGT5144K001",
     "type":"LECTURE"
   },
   {
