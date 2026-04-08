@@ -32,7 +32,7 @@
     "course_descr":null,
     "instructor":"Amir Ziv",
     "scheduled_time_start":"1:00pm",
-    "scheduled_time_end":"5:30pm",
+    "scheduled_time_end":"4:00pm",
     "call_number":"11371",
     "campus":null,
     "class_id":"B5001-20262-300",
@@ -49,7 +49,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":"W",
+    "scheduled_days":"T",
     "section_key":"20262ACCT5001B300",
     "type":"LECTURE"
   },
@@ -18010,13 +18010,13 @@
     "course_code":"ERMC PS5610",
     "course_title":"LEADERSHIP, PRESENCE, AND INFLUENCE",
     "course_descr":"This highly experiential course helps students design, launch, and sustain a successful career. Blending scholarly foundations with practical tools and hands-on coaching, this course guides students through identifying their personal strengths and professional identity, developing a compelling personal pitch, and building the skills needed to navigate interviewing, networking, teamwork, organizational culture and change. Each session integrates theory, applied practice, and structured role-play with peer feedback, enabling students to move beyond a job search mentality toward a proactive, values-aligned approach to career development and long-term professional success.",
-    "instructor":null,
+    "instructor":"David Burkus",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
     "call_number":"10817",
     "campus":null,
     "class_id":"K5610-20262-D01",
-    "course_subtitle":"CAREER ACCELERATION",
+    "course_subtitle":"LEADERSHIP, PRESENCE, & I",
     "department":"Enterprise Risk Management",
     "department_code":"ERMC",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ERMC\/K5610-20262-D01\/",
@@ -24362,6 +24362,56 @@
     "type":"SEMINAR"
   },
   {
+    "course_code":"JOUR J6045",
+    "course_title":"MASTERS PROJECT",
+    "course_descr":null,
+    "instructor":"Alex L Clark",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11631",
+    "campus":null,
+    "class_id":"J6045-20262-011",
+    "course_subtitle":null,
+    "department":"Journalism",
+    "department_code":"JOUR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/JOUR\/J6045-20262-011\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"6",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262JOUR6045J011",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"JOUR J6045",
+    "course_title":"MASTERS PROJECT",
+    "course_descr":null,
+    "instructor":"Juanita Ceballos",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11632",
+    "campus":null,
+    "class_id":"J6045-20262-012",
+    "course_subtitle":null,
+    "department":"Journalism",
+    "department_code":"JOUR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/JOUR\/J6045-20262-012\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"6",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262JOUR6045J012",
+    "type":"SEMINAR"
+  },
+  {
     "course_code":"JOUR J6075",
     "course_title":"CRITICAL ISSUES IN JOURNALISM",
     "course_descr":"This course is an exercise in discussing philosophical and ethical choices -- quandaries, at times -- in the covering of news, the construing of news, judging the newsworthiness of news. Among the subjects explored during the class are the responsibilities of journalists; the ideal of objectivity, the impacts of new technology, use of anonymous sources, and using experts.",
@@ -29899,6 +29949,33 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"NURS N8634",
+    "course_title":"DNP SEMINAR IN PEDIATRIC PRIMARY CARE NU",
+    "course_descr":"Seminar in Pediatric Primary Care Nursing I is designed to provide PNP students an academic environment to share practicum experience and integrate the Columbia University School Of Nursing (CUSON) DNP competencies into clinical encounters. Students will draw upon current pediatric trends, history-taking and assessment skills, and common diagnoses and apply that knowledge to the clinical encounter format.",
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11626",
+    "campus":null,
+    "class_id":"N8634-20262-001",
+    "course_subtitle":"DNP SEM IN PED PRIM NURS",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N8634-20262-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"2",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262NURS8634N001",
+    "type":"SEMINAR"
+  },
+  {
     "course_code":"NURS N8750",
     "course_title":"Cancer Symptom Management",
     "course_descr":"This course is designed to present an integrative approach to identifying and managing the symptoms of cancer and cancer treatment through the disease continuum. The course will include a\u00a0focus on aspects related to physical, psychosocial and spiritual issues that impact the lives of the person\/family with cancer.",
@@ -30192,6 +30269,114 @@
     "scheduled_days":null,
     "section_key":"20262NURS9746ND01",
     "type":"SEMINAR"
+  },
+  {
+    "course_code":"NURS N9840",
+    "course_title":"Dissertation Research",
+    "course_descr":"This course is intended for PhD students who are engaged in relevant scholarly activities that are associated with dissertation research.",
+    "instructor":"Gregory Alexander",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11627",
+    "campus":null,
+    "class_id":"N9840-20262-001",
+    "course_subtitle":"DISSERTATION RESEARCH",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9840-20262-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262NURS9840N001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"NURS N9840",
+    "course_title":"Dissertation Research",
+    "course_descr":"This course is intended for PhD students who are engaged in relevant scholarly activities that are associated with dissertation research.",
+    "instructor":"Suzanne Bakken",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11628",
+    "campus":null,
+    "class_id":"N9840-20262-002",
+    "course_subtitle":"DISSERTATION RESEARCH",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9840-20262-002\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262NURS9840N002",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"NURS N9840",
+    "course_title":"Dissertation Research",
+    "course_descr":"This course is intended for PhD students who are engaged in relevant scholarly activities that are associated with dissertation research.",
+    "instructor":"Veronica Barcelona",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11629",
+    "campus":null,
+    "class_id":"N9840-20262-003",
+    "course_subtitle":"DISSERTATION RESEARCH",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9840-20262-003\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262NURS9840N003",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"NURS N9840",
+    "course_title":"Dissertation Research",
+    "course_descr":"This course is intended for PhD students who are engaged in relevant scholarly activities that are associated with dissertation research.",
+    "instructor":"Melissa P Beauchemin",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11630",
+    "campus":null,
+    "class_id":"N9840-20262-004",
+    "course_subtitle":"DISSERTATION RESEARCH",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9840-20262-004\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262NURS9840N004",
+    "type":"LECTURE"
   },
   {
     "course_code":"NUTR PS0101",
