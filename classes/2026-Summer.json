@@ -14131,6 +14131,85 @@
     "type":"INDEPENDENT"
   },
   {
+    "course_code":"ENGI E4201",
+    "course_title":"Global Engineering Fieldwork",
+    "course_descr":"Final reports required. May not be audited. International students must consult with the International Students and Scholars Office.",
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11762",
+    "campus":null,
+    "class_id":"E4201-20262-001",
+    "course_subtitle":"Global Engineering Fieldw",
+    "department":"Engineering",
+    "department_code":"ENGI",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGI\/E4201-20262-001\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":[
+      "Engineering:Graduate"
+    ],
+    "points":"1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262ENGI4201E001",
+    "type":"FIELD WORK"
+  },
+  {
+    "course_code":"ENGI E4201",
+    "course_title":"Global Engineering Fieldwork",
+    "course_descr":"Final reports required. May not be audited. International students must consult with the International Students and Scholars Office.",
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11763",
+    "campus":null,
+    "class_id":"E4201-20262-002",
+    "course_subtitle":"Global Engineering Fieldw",
+    "department":"Engineering",
+    "department_code":"ENGI",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGI\/E4201-20262-002\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":[
+      "Engineering:Graduate"
+    ],
+    "points":"1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262ENGI4201E002",
+    "type":"FIELD WORK"
+  },
+  {
+    "course_code":"ENGI E4250",
+    "course_title":"Summer at SEAS Research Program",
+    "course_descr":"Columbia Engineering's\u00a0summer\u00a0on-campus research program for Undergraduate and Master's students. Additional enrichment opportunities comprised of academic and professional seminars, a weekly luncheon, and social programming.",
+    "instructor":"Alexis R Moore",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11764",
+    "campus":null,
+    "class_id":"E4250-20262-001",
+    "course_subtitle":"SUMMER ATSEAS RESEARCH PR",
+    "department":"Engineering",
+    "department_code":"ENGI",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGI\/E4250-20262-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262ENGI4250E001",
+    "type":"RESEARCH SEM"
+  },
+  {
     "course_code":"ENGI E4299",
     "course_title":"Executive MS Residence",
     "course_descr":"Course enrollment for MBAxMS students during SEAS residence.",
@@ -30144,6 +30223,33 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"NURS N7005",
+    "course_title":"Health and Social Policy in the Context",
+    "course_descr":"This core course examines contextual contributors to health status and the current social, legal, and political determinants of healthcare systems, emphasizing the U.S. system. Issues are explored to understand their impact on current and future delivery of health care, in particular on advanced practice nursing. The class focuses on how to bring the professional values of nursing to bear in policy debate and how nurses partner in the policy process to improve health outcomes of populations and quality of the healthcare delivery system.",
+    "instructor":null,
+    "scheduled_time_start":"5:30pm",
+    "scheduled_time_end":"8:30pm",
+    "call_number":"11761",
+    "campus":null,
+    "class_id":"N7005-20262-D02",
+    "course_subtitle":"HLTH & SOC POL:CONTEXT PR",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N7005-20262-D02\/",
+    "location":"To be announced",
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20262NURS7005ND02",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"NURS N7015",
     "course_title":"Applied Quality Improvement in Nursing P",
     "course_descr":"Quality healthcare relies on systematic, collaborative, and evidence-based approaches to improve patient outcomes. This course offers students supervised, experiential learning in the application of initiatives to enhance patient safety and care delivery. Students will analyze quality improvement and nursing leadership processes that foster a culture of\u00a0 continuous improvement and innovation.",
@@ -32855,7 +32961,7 @@
   {
     "course_code":"NURS N9555",
     "course_title":"Adv Health Data Science: Analytics, Arti",
-    "course_descr":null,
+    "course_descr":"The course is intended to provide a hands\u2010on introduction to delivering data visualizations to serve as a critical lens through which individual and population level health can be examined. The course will combine concepts and theory in data visualization and exploration and practice to prepare the learner to begin using graphics and statistics to explore data, find and construct a narrative, and share findings in ways colleagues and decision-makers can readily understand and act upon. Topics may include: (a) principles of human perception and attention that inform visualization design; (b) The use of visualization to explore data and discover a narrative; (c) the use of visualization to communicate effectively with others; 4) the development of practical skills, including preparing datasets and applying programing language to analyze data and produce visualizations.\u00a0\n  \nInteraction with practitioners\/guest speakers is an integral part of this course as a way for students to understand real data and information challenges. Concept lectures and case studies concentrate on learning to scope and manage complex data science projects. Lab work will focus on gaining competency with data science\/visualization tools and techniques (e.g., Jupyter Notebook, R programming language) applied to an integrated health-relevant data set.",
     "instructor":"Meghan Reading",
     "scheduled_time_start":"12:00pm",
     "scheduled_time_end":"2:50pm",
@@ -36151,7 +36257,7 @@
     "call_number":"10902",
     "campus":null,
     "class_id":"W3220-20262-001",
-    "course_subtitle":"LOGIC OF COLLECTIVE CHOIC",
+    "course_subtitle":"Logic\/Paradox in Social C",
     "department":"Summer Session (SUMM)",
     "department_code":"POLS",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/POLS\/W3220-20262-001\/",
@@ -41581,7 +41687,7 @@
     "call_number":"10759",
     "campus":null,
     "class_id":"K5556-20262-D01",
-    "course_subtitle":"Internship in SUMA",
+    "course_subtitle":"Internship Experience 1 -",
     "department":"Sustainability Management",
     "department_code":"SUMA",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SUMA\/K5556-20262-D01\/",
@@ -41705,7 +41811,7 @@
   {
     "course_code":"SUMA PS6140",
     "course_title":"Financing an Equitable Energy Transition",
-    "course_descr":"This course focuses on developing financing strategies that accelerate the decarbonization of affordable housing in compliance with state and city climate laws. Developing affordable housing that is energy efficient involves a blend of\u00a0conventional and specialized financing tools like federal tax credits, government grants and subsidies, and private capital from mission-driven lenders. Through a structured hierarchy of debt and equity, called a capital stack, students will explore the ways in which expanding energy investments in affordable housing reduce the energy burden of tenants by lowering utility costs, contribute to tenant comfort through operational autonomy, and ensure long-term affordability through improved building performance.",
+    "course_descr":"Since the rollback of the Inflation Reduction Act (IRA), federal subsidies targeting energy conservation and renewables have decreased. These legislative changes are hindering progress within the New York City affordable housing sector in meeting climate goals. However, energy opportunities in affordable housing can still be realized with funding provided by government subsidies used in housing, incentives offered by investor-owned utilities, and private capital from mission-driven financial institutions.\n  \nThis course will assist students in understanding the complexities of mixing private and public funding to bridge the housing gap while achieving climate goals at the same time. Through a structured hierarchy of debt and equity, called a capital stack, students will explore the ways in which expanding energy investments in affordable housing reduce tenant energy burden and improve building performance.\n  \nStudents will learn fundamental concepts of real estate finance like project feasibility, the sources and use of capital, and the project development process.",
     "instructor":"Kenyetta N Lovings",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -41717,7 +41823,7 @@
     "department_code":"SUMA",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SUMA\/K6140-20262-D01\/",
     "location":"To be announced",
-    "method_of_instruction":"In-Person",
+    "method_of_instruction":"On-Line Only",
     "open_to":null,
     "points":"3",
     "prerequisites":[
