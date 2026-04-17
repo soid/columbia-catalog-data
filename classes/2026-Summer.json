@@ -18955,7 +18955,7 @@
     "call_number":"10745",
     "campus":null,
     "class_id":"K5995-20262-D01",
-    "course_subtitle":"Internship In ERM",
+    "course_subtitle":"Internship in Industry -",
     "department":"Enterprise Risk Management",
     "department_code":"ERMC",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ERMC\/K5995-20262-D01\/",
@@ -31046,8 +31046,8 @@
     "course_title":"PHYSICAL & PELVIC ASSESSMENT FOR MIDWIFE",
     "course_descr":"Through didactic and simulation lab sessions, this course provides the student with knowledge and clinical skills for physical and pelvic assessment of individuals across the reproductive lifespan. Foundational concepts of autonomy, empowerment, equity, justice and respect are emphasized to foster the development of skills needed to perform person-centered, physical and pelvic assessment",
     "instructor":"Rebekah L Ruppe",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"10:00am",
+    "scheduled_time_end":"12:50pm",
     "call_number":"11549",
     "campus":null,
     "class_id":"N7710-20262-001",
@@ -31055,7 +31055,7 @@
     "department":"Nursing",
     "department_code":"NURS",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N7710-20262-001\/",
-    "location":null,
+    "location":"To be announced",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Nursing"
@@ -31064,7 +31064,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"T",
     "section_key":"20262NURS7710N001",
     "type":"LABORATORY"
   },
@@ -31368,8 +31368,8 @@
     "course_title":"Essential Sexual and Reproductive Health",
     "course_descr":"This course addresses sexual and reproductive health issues and the diagnosis and management of essential health conditions.\u00a0 Measured outcome disparities and social justice issues will be presented as they relate to sexual and reproductive health.",
     "instructor":"Caroline S Handschuh",
-    "scheduled_time_start":"1:00pm",
-    "scheduled_time_end":"3:50pm",
+    "scheduled_time_start":"10:00am",
+    "scheduled_time_end":"12:50pm",
     "call_number":"11548",
     "campus":null,
     "class_id":"N8444-20262-001",
@@ -31386,7 +31386,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":"T",
+    "scheduled_days":"W",
     "section_key":"20262NURS8444N001",
     "type":"LECTURE"
   },
@@ -38490,6 +38490,31 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"PUBH P8088",
+    "course_title":"Internship Class - Summer Session",
+    "course_descr":"The internship course provides a substantive opportunity for students to practice applying their epidemiologic expertise and skills in a real-world setting. The course allows students to work with practitioners and public health\/healthcare professionals to expand their knowledge of current industries, sectors, and work environments where epidemiologic skills are in demand. Students will gain an understanding of cultural differences between different countries and apply them to their internship experience. They will gain knowledge of different industries, sectors, and professions appropriate for MS Epidemiology graduates and develop a research project focused on the industries they are interested in. They will also map the concepts learned in at least one of their prior epidemiology courses with their learning objectives in their internship.\n  \nThe seminar provides a supportive environment designed to enhance students\u2019 applied, field-based learning experience by exploring common themes encountered in the fieldwork setting. The seminar will address the public health core competencies of communication, interprofessional practice, and diversity and inclusion.",
+    "instructor":"Heather Krasna",
+    "scheduled_time_start":"11:00am",
+    "scheduled_time_end":"1:40pm",
+    "call_number":"11801",
+    "campus":null,
+    "class_id":"P8088-20262-D01",
+    "course_subtitle":"Internship Class - Summer",
+    "department":"Public Health",
+    "department_code":"PUBH",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PUBH\/P8088-20262-D01\/",
+    "location":"To be announced",
+    "method_of_instruction":"On-Line Only",
+    "open_to":null,
+    "points":"0.5",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TW",
+    "section_key":"20262PUBH8088PD01",
+    "type":"SEMINAR"
+  },
+  {
     "course_code":"QMSS GR5067",
     "course_title":"NATURAL LANG PROCESSING SOCIAL SCIENCES",
     "course_descr":"Social scientists need to engage with natural language processing (NLP) approaches that are found in computer science, engineering, AI, tech and in industry. This course will provide an overview of natural language processing as it is applied in a number of domains. The goal is to gain familiarity with a number of critical topics and techniques that use text as data, and then to see how those NLP techniques can be used to produce social science research and insights. This course will be hands-on, with several large-scale exercises. The course will start with an introduction to Python and associated key NLP packages and github. The course will then cover topics like language modeling; part of speech tagging; parsing; information extraction; tokenizing; topic modeling; machine translation; sentiment analysis; summarization; supervised machine learning; and hidden Markov models. Prerequisites are basic probability and statistics, basic linear algebra and calculus. The course will use Python, and so if students have programmed in at least one software language, that will make it easier to keep up with the course.",
@@ -39612,6 +39637,56 @@
     "type":"PRACTICA"
   },
   {
+    "course_code":"SOCW T6010",
+    "course_title":"GENERALIST SOCIAL WORK PRACTICUM",
+    "course_descr":"Field education is a central component in each student's professional education, and requires 21 hours a week for all four terms of the full-time M.S. degree. Placements provide a range of experiences to integrate with theoretical learning from class work and to develop knowledge, values, and skills for social practice.",
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11796",
+    "campus":null,
+    "class_id":"T6010-20262-098",
+    "course_subtitle":"GENERALIST SW PRACTICUM",
+    "department":"Social Work",
+    "department_code":"SOCW",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SOCW\/T6010-20262-098\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"4.5",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262SOCW6010T098",
+    "type":"PRACTICA"
+  },
+  {
+    "course_code":"SOCW T6010",
+    "course_title":"GENERALIST SOCIAL WORK PRACTICUM",
+    "course_descr":"Field education is a central component in each student's professional education, and requires 21 hours a week for all four terms of the full-time M.S. degree. Placements provide a range of experiences to integrate with theoretical learning from class work and to develop knowledge, values, and skills for social practice.",
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11797",
+    "campus":null,
+    "class_id":"T6010-20262-096",
+    "course_subtitle":"GENERALIST SW PRACTICUM",
+    "department":"Social Work",
+    "department_code":"SOCW",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SOCW\/T6010-20262-096\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"4.5",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262SOCW6010T096",
+    "type":"PRACTICA"
+  },
+  {
     "course_code":"SOCW T6012",
     "course_title":"Advanced Standing Practicum Seminar",
     "course_descr":"This seminar addresses the particular needs of Advanced Standing Students. The seminar provides a context and tools to deepen, critically reflect upon, and integrate each student's learning about the professional use of self in practice and the field. Also included is the review and exploration of professional social work identities within historical and current contexts, and an examination of the multiple professional identities that are inherent in all areas of social work practice.",
@@ -39660,6 +39735,56 @@
     "scheduled_days":"TW",
     "section_key":"20262SOCW6012TD20",
     "type":"SEMINAR"
+  },
+  {
+    "course_code":"SOCW T6030",
+    "course_title":"GENERALIST SOCIAL WORK PRACTICUM",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11799",
+    "campus":null,
+    "class_id":"T6030-20262-D41",
+    "course_subtitle":"GENERALIST SW PRACTICUM",
+    "department":"Social Work",
+    "department_code":"SOCW",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SOCW\/T6030-20262-D41\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262SOCW6030TD41",
+    "type":"FIELD WORK"
+  },
+  {
+    "course_code":"SOCW T6030",
+    "course_title":"GENERALIST SOCIAL WORK PRACTICUM",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11800",
+    "campus":null,
+    "class_id":"T6030-20262-D40",
+    "course_subtitle":"GENERALIST SW PRACTICUM",
+    "department":"Social Work",
+    "department_code":"SOCW",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SOCW\/T6030-20262-D40\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262SOCW6030TD40",
+    "type":"FIELD WORK"
   },
   {
     "course_code":"SOCW T6031",
@@ -39734,6 +39859,31 @@
     ],
     "scheduled_days":null,
     "section_key":"20262SOCW6031T097",
+    "type":"FIELD WORK"
+  },
+  {
+    "course_code":"SOCW T6031",
+    "course_title":"Specialized Social Work Practicum",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11798",
+    "campus":null,
+    "class_id":"T6031-20262-095",
+    "course_subtitle":"SPECIALIZED SW PRACTICUM",
+    "department":"Social Work",
+    "department_code":"SOCW",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SOCW\/T6031-20262-095\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262SOCW6031T095",
     "type":"FIELD WORK"
   },
   {
