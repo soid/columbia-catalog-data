@@ -10493,6 +10493,40 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"COMS W4701",
+    "course_title":"ARTIFICIAL INTELLIGENCE",
+    "course_descr":"Prior knowledge of Python is recommended. Provides a broad understanding of the basic techniques for building intelligent computer systems. Topics include state-space problem representations, problem reduction and and-or graphs, game playing and heuristic search, predicate calculus, and resolution theorem proving, AI systems and languages for knowledge representation, machine learning and concept formation and other topics such as natural language processing may be included as time permits.",
+    "instructor":"Tony B Dear",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11873",
+    "campus":null,
+    "class_id":"W4701-20262-V01",
+    "course_subtitle":null,
+    "department":"Video Network",
+    "department_code":"COMS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMS\/W4701-20262-V01\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Barnard College",
+      "Business",
+      "Columbia College",
+      "Engineering:Graduate",
+      "Engineering:Undergraduate",
+      "GSAS",
+      "General Studies",
+      "Journalism"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262COMS4701WV01",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"COMS W4705",
     "course_title":"NATURAL LANGUAGE PROCESSING",
     "course_descr":"Computational approaches to the analysis, understanding, and generation of natural language text at scale. Emphasis on machine learning techniques for NLP, including deep learning and large language models. Applications may include information extraction, sentiment analysis, question answering, summarization, machine translation, and conversational AI. Discussion of datasets, benchmarking and evaluation, interpretability, and ethical considerations.\n Due to significant overlap in content, only one of COMS 4705 or Barnard COMS 3705BC may be taken for credit.",
@@ -10518,6 +10552,33 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"COMS W4705",
+    "course_title":"NATURAL LANGUAGE PROCESSING",
+    "course_descr":"Computational approaches to the analysis, understanding, and generation of natural language text at scale. Emphasis on machine learning techniques for NLP, including deep learning and large language models. Applications may include information extraction, sentiment analysis, question answering, summarization, machine translation, and conversational AI. Discussion of datasets, benchmarking and evaluation, interpretability, and ethical considerations.\n Due to significant overlap in content, only one of COMS 4705 or Barnard COMS 3705BC may be taken for credit.",
+    "instructor":"Daniel Bauer",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11877",
+    "campus":null,
+    "class_id":"W4705-20262-V01",
+    "course_subtitle":"NATURAL LANGUAGE PROCESSI",
+    "department":"Video Network",
+    "department_code":"COMS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMS\/W4705-20262-V01\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Engineering:Graduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262COMS4705WV01",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"COMS W4710",
     "course_title":"Ethical and Responsible AI",
     "course_descr":"Principles of Ethical Artificial Intelligence across technical and societal dimensions. Combines technical AI and machine learning implementations and ethical analysis. Students will learn to build, audit, and mitigate ethical risks in AI systems using tools like fairness libraries, explainability frameworks, and privacy-preserving techniques. Emphasizes coding, algorithmic critique, and real-world cases.\n Topics include: foundations of AI ethics, fairness, interpretability, explainability,\u00a0 accountability, privacy, robustness, alignment, safety, and societal benefit.\u00a0\n Assessments include coding projects, bias auditing assignments, and ethical analysis papers.",
@@ -10540,6 +10601,33 @@
     ],
     "scheduled_days":"MW",
     "section_key":"20262COMS4710W001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"COMS W4710",
+    "course_title":"Ethical and Responsible AI",
+    "course_descr":"Principles of Ethical Artificial Intelligence across technical and societal dimensions. Combines technical AI and machine learning implementations and ethical analysis. Students will learn to build, audit, and mitigate ethical risks in AI systems using tools like fairness libraries, explainability frameworks, and privacy-preserving techniques. Emphasizes coding, algorithmic critique, and real-world cases.\n Topics include: foundations of AI ethics, fairness, interpretability, explainability,\u00a0 accountability, privacy, robustness, alignment, safety, and societal benefit.\u00a0\n Assessments include coding projects, bias auditing assignments, and ethical analysis papers.",
+    "instructor":"Ansaf Salleb-Aouissi",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11874",
+    "campus":null,
+    "class_id":"W4710-20262-V01",
+    "course_subtitle":"ETHIC AND RESPONSIBLE AI",
+    "department":"Video Network",
+    "department_code":"COMS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMS\/W4710-20262-V01\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Engineering:Graduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262COMS4710WV01",
     "type":"LECTURE"
   },
   {
@@ -10583,6 +10671,51 @@
     ],
     "scheduled_days":"TR",
     "section_key":"20262COMS4771W001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"COMS W4771",
+    "course_title":"MACHINE LEARNING",
+    "course_descr":"Basic statistical principles and algorithmic paradigms of supervised machine learning.\n  \nPrerequisites:\u00a0\n Multivariable calculus (e.g. MATH1201 or MATH1205 or APMA2000), linear algebra (e.g. COMS3251 or MATH2010 or MATH2015), probability (e.g. STAT1201 or STAT4001 or IEOR3658 or MATH2015), discrete math (COMS3203), and general mathematical maturity. Programming and algorithm analysis (e.g. COMS 3134). COMS 3770\u00a0is recommended for students who wish to refresh\u00a0their math background.",
+    "instructor":"Nakul Verma",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11875",
+    "campus":null,
+    "class_id":"W4771-20262-V01",
+    "course_subtitle":null,
+    "department":"Video Network",
+    "department_code":"COMS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMS\/W4771-20262-V01\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Engineering:Graduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+      [
+        "AT1201",
+        "AT4001",
+        "OR3658",
+        "TH2015"
+      ],
+      [
+        "MS3203"
+      ],
+      [
+        "MS3251",
+        "TH2010",
+        "TH2015"
+      ],
+      [
+        "TH1201",
+        "TH1205",
+        "MA2000"
+      ]
+    ],
+    "scheduled_days":null,
+    "section_key":"20262COMS4771WV01",
     "type":"LECTURE"
   },
   {
@@ -14968,8 +15101,8 @@
     "course_title":"Summer at SEAS Research Program",
     "course_descr":"Columbia Engineering's\u00a0summer\u00a0on-campus research program for Undergraduate and Master's students. Additional enrichment opportunities comprised of academic and professional seminars, a weekly luncheon, and social programming.",
     "instructor":"Alexis R Moore",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"12:10pm",
+    "scheduled_time_end":"2:00pm",
     "call_number":"11764",
     "campus":null,
     "class_id":"E4250-20262-001",
@@ -14977,14 +15110,14 @@
     "department":"Engineering",
     "department_code":"ENGI",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGI\/E4250-20262-001\/",
-    "location":null,
+    "location":"To be announced",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"0",
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"W",
     "section_key":"20262ENGI4250E001",
     "type":"RESEARCH SEM"
   },
@@ -16136,6 +16269,60 @@
     ],
     "scheduled_days":null,
     "section_key":"20262ENGL0026Z006",
+    "type":"LANGUAGE"
+  },
+  {
+    "course_code":"ENGL PS0026",
+    "course_title":"ADVANCED ACAD ENGLISH FOR GRAD STUDENTS",
+    "course_descr":"This six-week intensive program is intended to prepare international Master's students\u00a0entering Columbia University in Fall for the rigorous demands of their graduate coursework.\u00a0\n  \nThe curriculum is specifically designed to reflect\u00a0the type of work completed in\u00a0master's degrees in professional schools of study. It will focus on all language skills, with an emphasis on spoken interaction, helping students speak more fluently, accurately and intelligibly so they are better able to participate in their graduate courses. It also aims to familiarize students with the graduate student experience at Columbia University.\n  \nThe course is for international students whose first language is not English.\n  \nThe curriculum will combine linguistic and academic objectives.",
+    "instructor":null,
+    "scheduled_time_start":"7:00am",
+    "scheduled_time_end":"10:00am",
+    "call_number":"11879",
+    "campus":null,
+    "class_id":"Z0026-20262-D04",
+    "course_subtitle":"ADVANCED ACAD ENGLISH FOR",
+    "department":"American Language Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/Z0026-20262-D04\/",
+    "location":"To be announced",
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "ALP"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MTWRF",
+    "section_key":"20262ENGL0026ZD04",
+    "type":"LANGUAGE"
+  },
+  {
+    "course_code":"ENGL PS0026",
+    "course_title":"ADVANCED ACAD ENGLISH FOR GRAD STUDENTS",
+    "course_descr":"This six-week intensive program is intended to prepare international Master's students\u00a0entering Columbia University in Fall for the rigorous demands of their graduate coursework.\u00a0\n  \nThe curriculum is specifically designed to reflect\u00a0the type of work completed in\u00a0master's degrees in professional schools of study. It will focus on all language skills, with an emphasis on spoken interaction, helping students speak more fluently, accurately and intelligibly so they are better able to participate in their graduate courses. It also aims to familiarize students with the graduate student experience at Columbia University.\n  \nThe course is for international students whose first language is not English.\n  \nThe curriculum will combine linguistic and academic objectives.",
+    "instructor":null,
+    "scheduled_time_start":"7:00am",
+    "scheduled_time_end":"10:00am",
+    "call_number":"11880",
+    "campus":null,
+    "class_id":"Z0026-20262-D05",
+    "course_subtitle":"ADVANCED ACAD ENGLISH FOR",
+    "department":"American Language Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/Z0026-20262-D05\/",
+    "location":"To be announced",
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "ALP"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MTWRFS",
+    "section_key":"20262ENGL0026ZD05",
     "type":"LANGUAGE"
   },
   {
@@ -20084,7 +20271,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":"SS",
+    "scheduled_days":"S",
     "section_key":"20262FINC7306B002",
     "type":"LECTURE"
   },
@@ -23843,6 +24030,33 @@
     ],
     "scheduled_days":"TWRF",
     "section_key":"20262IEOR4737E001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"IEOR E4737",
+    "course_title":"AI Applications in Finance",
+    "course_descr":"Data, models, visuals; various facets of AI, applications in finance; areas: fund, manager, security selection, asset allocation, risk management within asset management; fraud detection and prevention; climate finance and risk; data-driven real estate finance; cutting-edge techniques: machine learning, deep learning in computational, quantitative finance; concepts: explainability, interpretability, adversarial machine learning, resilience of AI systems; industry utilization",
+    "instructor":"Ali Hirsa",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11876",
+    "campus":null,
+    "class_id":"E4737-20262-V01",
+    "course_subtitle":"AI Applications in Financ",
+    "department":"Video Network",
+    "department_code":"IEOR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/IEOR\/E4737-20262-V01\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Engineering:Graduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262IEOR4737EV01",
     "type":"LECTURE"
   },
   {
