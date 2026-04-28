@@ -3127,7 +3127,7 @@
     "course_code":"BIGD PS0103",
     "course_title":"Data Science and Machine Learning 1",
     "course_descr":"",
-    "instructor":null,
+    "instructor":"Jeremy Wang",
     "scheduled_time_start":"8:00am",
     "scheduled_time_end":"11:00am",
     "call_number":"10023",
@@ -7455,6 +7455,33 @@
     "type":"INDEPENDENT"
   },
   {
+    "course_code":"CHEN E3999",
+    "course_title":"UNDERGRADUATE FIELDWORK",
+    "course_descr":"Provides work experience on chemical engineering in relevant intern or fieldwork experience as part of their program of study as determined by the instructor. Written application must be made prior to registration outlining proposed internship\/study program. A written report describing the experience and how it relates to the chemical engineering core curriculum is required. Employer feedback on student performance and the quality of the report are the basis of the grade. This course may not be taken for pass\/fail or audited. May not be used as a technical or non\u00adtechnical elective. May be repeated for credit, but no more than 3 points total of CHEN E3999 may be used for degree credit.",
+    "instructor":"Daniel Esposito",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11889",
+    "campus":null,
+    "class_id":"E3999-20262-001",
+    "course_subtitle":null,
+    "department":"Chemical Engineering",
+    "department_code":"CHEN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CHEN\/E3999-20262-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"1-2",
+    "prerequisites":[
+      [
+        "CHEN E3999"
+      ]
+    ],
+    "scheduled_days":null,
+    "section_key":"20262CHEN3999E001",
+    "type":"FIELD WORK"
+  },
+  {
     "course_code":"CHEN E4999",
     "course_title":"FIELDWORK",
     "course_descr":null,
@@ -11496,60 +11523,6 @@
     ],
     "scheduled_days":"MTWRF",
     "section_key":"20262DRAW0100K001",
-    "type":"STUDIO"
-  },
-  {
-    "course_code":"DRAW PS0101",
-    "course_title":"Drawing: Eye & Idea",
-    "course_descr":"",
-    "instructor":"Olivia Drusin",
-    "scheduled_time_start":"1:10pm",
-    "scheduled_time_end":"4:00pm",
-    "call_number":"10079",
-    "campus":null,
-    "class_id":"K0101-20262-001",
-    "course_subtitle":null,
-    "department":"Pre-College Programs (SHSP)",
-    "department_code":"DRAW",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/DRAW\/K0101-20262-001\/",
-    "location":"To be announced",
-    "method_of_instruction":"In-Person",
-    "open_to":[
-      "Pre-College Programs"
-    ],
-    "points":"0",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"MTWRF",
-    "section_key":"20262DRAW0101K001",
-    "type":"STUDIO"
-  },
-  {
-    "course_code":"DRAW PS0101",
-    "course_title":"Drawing: Eye & Idea",
-    "course_descr":"",
-    "instructor":"Olivia Drusin",
-    "scheduled_time_start":"1:10pm",
-    "scheduled_time_end":"4:00pm",
-    "call_number":"10080",
-    "campus":null,
-    "class_id":"K0101-20262-002",
-    "course_subtitle":null,
-    "department":"Pre-College Programs (SHSP)",
-    "department_code":"DRAW",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/DRAW\/K0101-20262-002\/",
-    "location":"To be announced",
-    "method_of_instruction":"In-Person",
-    "open_to":[
-      "Pre-College Programs"
-    ],
-    "points":"0",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"MTWRF",
-    "section_key":"20262DRAW0101K002",
     "type":"STUDIO"
   },
   {
@@ -17437,7 +17410,7 @@
     "course_code":"ENIN PS0201",
     "course_title":"Entrepreneurship & Innovation: Changing",
     "course_descr":"",
-    "instructor":"Daniel Ahmadizadeh",
+    "instructor":"Stephane Goldsand",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"3:00pm",
     "call_number":"10098",
@@ -20742,33 +20715,6 @@
     ],
     "scheduled_days":"MTWRF",
     "section_key":"20262FINC0108KD01",
-    "type":"LECTURE"
-  },
-  {
-    "course_code":"FINC PS0109",
-    "course_title":"Foundations of FinTech",
-    "course_descr":"",
-    "instructor":"Jasper Pan",
-    "scheduled_time_start":"12:00pm",
-    "scheduled_time_end":"3:00pm",
-    "call_number":"10245",
-    "campus":null,
-    "class_id":"K0109-20262-D01",
-    "course_subtitle":null,
-    "department":"Pre-College Programs (SHSP)",
-    "department_code":"FINC",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FINC\/K0109-20262-D01\/",
-    "location":"To be announced",
-    "method_of_instruction":"On-Line Only",
-    "open_to":[
-      "Pre-College Programs"
-    ],
-    "points":"0",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"MTWRF",
-    "section_key":"20262FINC0109KD01",
     "type":"LECTURE"
   },
   {
@@ -24403,7 +24349,7 @@
     "call_number":"10748",
     "campus":null,
     "class_id":"K5556-20262-D01",
-    "course_subtitle":"Internship in IKNS",
+    "course_subtitle":"Internship Experience 1 -",
     "department":"Information & Knowledge Strat",
     "department_code":"IKNS",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/IKNS\/K5556-20262-D01\/",
@@ -28802,7 +28748,7 @@
   {
     "course_code":"MECE E6422",
     "course_title":"INTRO-THEORY OF ELASTICITY I",
-    "course_descr":null,
+    "course_descr":"Analysis of stress and strain. Formulation of the problem of elastic equilibrium. Torsion and flexure of prismatic bars. Problems in stress concentration, rotating disks, shrink fits, and curved beams; pressure vessels, contact and impact of elastic bodies, thermal stresses, propagation of elastic waves.",
     "instructor":"Jeffrey W Kysar",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -44074,56 +44020,6 @@
     "type":"LECTURE"
   },
   {
-    "course_code":"THEA S4120",
-    "course_title":"Introduction to Moment Work",
-    "course_descr":"Moment Work explores the theatrical potential of all the elements of the stage (props, sound, architecture, lights, costume, etc.) in order to create strong theatrical and dramatic narratives. In this class, students will foster an appreciation for the reexamination and exploration of theatrical form and theatrical and dramatic narratives. The semester will culminate with an in-class showcase of short, devised pieces created by the students.",
-    "instructor":"Njideka G Agwuna",
-    "scheduled_time_start":"1:00pm",
-    "scheduled_time_end":"4:10pm",
-    "call_number":"10310",
-    "campus":null,
-    "class_id":"S4120-20262-001",
-    "course_subtitle":"Introduction to Moment Wo",
-    "department":"Summer Session (SUMM)",
-    "department_code":"THEA",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/THEA\/S4120-20262-001\/",
-    "location":"To be announced",
-    "method_of_instruction":"In-Person",
-    "open_to":null,
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"MW",
-    "section_key":"20262THEA4120S001",
-    "type":"WORKSHOP"
-  },
-  {
-    "course_code":"THEA S4122",
-    "course_title":"Dramaturgy & Moment Work",
-    "course_descr":"Students will be empowered to tell stories from history through engaging with special collections and primary historical sources. We will spark students' curiosity as we explore one specific historical event and work together over the course of six weeks to devise moments of theater. By the end of the course, we will create a short presentation of \u201cMoments\u201d by investigating the themes and dramatic throughlines that the material offers. This is much like what a first presentation might look like at Tectonic Theater Project, a proof of dramatic and theatrical concept.\n  \nEach session will begin with a quiet and reflective writing prompt, associated with the historical event that we are researching. Responses will be used over the course of the class to spark devised moments.",
-    "instructor":"Leigh Fondakowski",
-    "scheduled_time_start":"1:00pm",
-    "scheduled_time_end":"4:10pm",
-    "call_number":"10311",
-    "campus":null,
-    "class_id":"S4122-20262-001",
-    "course_subtitle":null,
-    "department":"Summer Session (SUMM)",
-    "department_code":"THEA",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/THEA\/S4122-20262-001\/",
-    "location":"To be announced",
-    "method_of_instruction":"In-Person",
-    "open_to":null,
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"TR",
-    "section_key":"20262THEA4122S001",
-    "type":"WORKSHOP"
-  },
-  {
     "course_code":"THEA S4215",
     "course_title":"THE NEW YORK THEATRE EVENT",
     "course_descr":"This course examines the rich legacy of theater in New York, from Broadway to Off- Broadway, encompassing the writers, directors, actors, institutions, and artists who laid the foundations of American theater and continue to shape the contemporary theatrical landscape. We will commence with an exploration of the roots of theater in NYC and how the city's growth is mirrored in the historic innovations of the art form. Each week will delve into theatrical forms and disciplines, examples of seminal texts, and current productions throughout the city. These investigations offer insights into the ways theater evolves into a quintessential New York event, guided by a producer who has shepherded award-winning shows from initial idea to Broadway for over three decades. Performances will include productions both on and off Broadway.\u00a0Course fee covers tickets for up to 6 performances during the session. Shows for summer 2025 will be selected at the beginning of the course based on enrollment (shows currently under consideration include: \nPirates: The Penzance Musical, John Proctor is the Villain, The Jonathan Larson Project, Trophy Boys\n, among others pending both availability and final course registration).\n  \nPlease note: more Summer Theatre courses will be posted by the end of March",
@@ -45268,31 +45164,6 @@
     "type":"WORKSHOP"
   },
   {
-    "course_code":"WRIT S1101",
-    "course_title":"NONFICTION WRITING WORKSHOP",
-    "course_descr":"The Nonfiction Writing Workshop is designed for students new to the practice of such genres as reportage, criticism, biography and memoir. Various techniques are explored through exercises and other assignments. Critique of student work is supplemented by outside readings.",
-    "instructor":"Matty Davis",
-    "scheduled_time_start":"10:00am",
-    "scheduled_time_end":"1:10pm",
-    "call_number":"10373",
-    "campus":null,
-    "class_id":"S1101-20262-001",
-    "course_subtitle":"NONFICTION WRITING WORKSH",
-    "department":"Summer Session (SUMM)",
-    "department_code":"WRIT",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/WRIT\/S1101-20262-001\/",
-    "location":"To be announced",
-    "method_of_instruction":"In-Person",
-    "open_to":null,
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"TR",
-    "section_key":"20262WRIT1101S001",
-    "type":"WORKSHOP"
-  },
-  {
     "course_code":"WRIT S1201",
     "course_title":"POETRY WRITING WORKSHOP",
     "course_descr":"The Poetry Writing Workshop is designed for all students with a serious interest in poetry writing, from those who lack significant workshop experience or training in the craft of poetry to seasoned workshop participants looking for new challenges and perspectives on their work. Students will be assigned writing exercises emphasizing such aspects of verse composition as the poetic line, the image, rhyme and other sound devices, verse forms, repetition, collage, and others. Students will also read an variety of exemplary work in verse, submit brief critical analyses of poems, and critique each others original work.",
@@ -45417,31 +45288,6 @@
     ],
     "scheduled_days":"MW",
     "section_key":"20262WRIT4320S001",
-    "type":"SEMINAR"
-  },
-  {
-    "course_code":"WRIT S4323",
-    "course_title":"WRITING THE YOUNG ADULT NOVEL",
-    "course_descr":"The Young Adult (YA) publishing boom has changed the way we read\u2014and write\u2014coming-of-age stories. This course will introduce students to the elements that shape YA novels, and explore the fiction writing techniques needed for long projects, including narrative arcs, character construction, worldbuilding, and scene work. We\u2019ll study work from a wide range of YA genres and authors, including Angie Thomas, Elana K. Arnold, Leigh Bardugo, Jason Reynolds, A.S. King, Elizabeth Acevedo, and more.\n  \nStudents will begin to write and outline their own YA novel, and a variety of in-class writing exercises will support the development of each project. All students will workshop their own writing and respond to the work of others. By the end of class, students will have a portfolio of materials to draw from, and a richer understanding of the YA landscape and its possibilities.",
-    "instructor":"Emily K Austin",
-    "scheduled_time_start":"10:00am",
-    "scheduled_time_end":"1:10pm",
-    "call_number":"10380",
-    "campus":null,
-    "class_id":"S4323-20262-001",
-    "course_subtitle":"WRITING THE YOUNG ADULT N",
-    "department":"Summer Session (SUMM)",
-    "department_code":"WRIT",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/WRIT\/S4323-20262-001\/",
-    "location":"To be announced",
-    "method_of_instruction":"In-Person",
-    "open_to":null,
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"TR",
-    "section_key":"20262WRIT4323S001",
     "type":"SEMINAR"
   },
   {
