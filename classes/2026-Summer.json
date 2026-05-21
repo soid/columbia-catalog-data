@@ -2987,7 +2987,7 @@
     "course_code":"ARCT PS0120",
     "course_title":"Introduction to Architectural Design and",
     "course_descr":"",
-    "instructor":null,
+    "instructor":"Laura del Pino Noriega",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"10012",
@@ -8750,6 +8750,33 @@
     "scheduled_days":null,
     "section_key":"20262CHNS3305S001",
     "type":"LANGUAGE"
+  },
+  {
+    "course_code":"CIEN E3304",
+    "course_title":"IND STUDIES-CIVIL ENGIN-SENIOR",
+    "course_descr":"A project on civil engineering subjects approved by the chairman of the department.",
+    "instructor":"Xuan Di",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12814",
+    "campus":null,
+    "class_id":"E3304-20262-001",
+    "course_subtitle":"IND STUDIES-CIVIL ENGIN-S",
+    "department":"Civil Engineering and Engineering Mechanics",
+    "department_code":"CIEN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CIEN\/E3304-20262-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Engineering:Undergraduate"
+    ],
+    "points":"1-3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262CIEN3304E001",
+    "type":"INDEPENDENT"
   },
   {
     "course_code":"CIEN E3999",
@@ -20590,6 +20617,31 @@
     "type":"SEMINAR"
   },
   {
+    "course_code":"FILM UN3810",
+    "course_title":"INDEPENDENT STUDY",
+    "course_descr":"Faculty supervised independent study for undergraduate Film & Media Studies majors.\u00a0 Must have faculty approval prior to registration.",
+    "instructor":"Robert King",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12809",
+    "campus":null,
+    "class_id":"W3810-20262-001",
+    "course_subtitle":null,
+    "department":"Summer Session (SUMM)",
+    "department_code":"FILM",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FILM\/W3810-20262-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"1-3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262FILM3810W001",
+    "type":"INDEPENDENT"
+  },
+  {
     "course_code":"FINC B7306",
     "course_title":"Capital Markets & Investments",
     "course_descr":"This course provides students with a rigorous foundation in capital markets and investments, emphasizing asset valuation from an applied perspective. It covers valuation techniques for financial securities, essential to portfolio management and risk management applications. Key topics include arbitrage, the term structure of interest rates, portfolio theory, diversification, equilibrium asset pricing models such as the CAPM, market efficiency and inefficiencies, performance evaluation, analysis of common pooled investment vehicles, behavioral finance, and tax-aware investment strategies. Through interactive activities, case studies, and simulations utilizing real-world market data, students will acquire analytical skills and foundational knowledge required for advanced finance courses and practical roles within the investment industry",
@@ -25377,6 +25429,33 @@
     "scheduled_days":null,
     "section_key":"20262IEOR3999E001",
     "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"IEOR E4150",
+    "course_title":"INTRO-PROBABILITY & STATISTICS",
+    "course_descr":"Covers the following topics: fundamentals of probability theory and statistical inference used in engineering and applied science; Probabilistic models, random variables, useful distributions, expectations, law of large numbers, central limit theorem; Statistical inference: pint and confidence interval estimation, hypothesis tests, linear regression. For IEOR graduate students.",
+    "instructor":"Antonius B Dieker",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12812",
+    "campus":null,
+    "class_id":"E4150-20262-D01",
+    "course_subtitle":"INTRO-PROBABILITY & STATI",
+    "department":"Video Network",
+    "department_code":"IEOR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/IEOR\/E4150-20262-D01\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Engineering:Graduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262IEOR4150ED01",
+    "type":"LECTURE"
   },
   {
     "course_code":"IEOR E4737",
@@ -44737,6 +44816,31 @@
     "scheduled_days":null,
     "section_key":"20262SOCI0102K002",
     "type":"LECTURE"
+  },
+  {
+    "course_code":"SOCI S9040",
+    "course_title":"INDIVIDUAL STUDY IN SOCIOLOGY",
+    "course_descr":"Prerequisites: the director of graduate studies permission if taking more than 3 points of study with any one faculty member. Individual writing on a topic agreed upon by the supervising faculty member.",
+    "instructor":"Ryan Hagen",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12811",
+    "campus":null,
+    "class_id":"S9040-20262-001",
+    "course_subtitle":null,
+    "department":"Sociology",
+    "department_code":"SOCI",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SOCI\/S9040-20262-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262SOCI9040S001",
+    "type":"INDEPENDENT"
   },
   {
     "course_code":"SOCW T6002",
