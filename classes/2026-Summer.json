@@ -3392,7 +3392,7 @@
     "course_code":"ASTO PS0102",
     "course_title":"Astronomy and Astrophysics",
     "course_descr":"",
-    "instructor":null,
+    "instructor":"Seven Rasmussen",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"11228",
@@ -4543,7 +4543,7 @@
     "course_code":"BIOL PS0102",
     "course_title":"Modern Biology & Its Real World Applicat",
     "course_descr":"",
-    "instructor":null,
+    "instructor":"Shifra-Liba Klein",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"10031",
@@ -18283,7 +18283,7 @@
     "course_code":"ENIN PS0201",
     "course_title":"Entrepreneurship & Innovation: Changing",
     "course_descr":"",
-    "instructor":null,
+    "instructor":"Lisa Teach",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"10094",
@@ -20493,7 +20493,7 @@
     "course_code":"EVSC PS0101",
     "course_title":"Environmental Studies: Designing a Susta",
     "course_descr":"",
-    "instructor":"Rachel O Cohen",
+    "instructor":"Eva E Arroyo",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"10102",
@@ -32480,7 +32480,7 @@
   {
     "course_code":"MECE E4899",
     "course_title":"Research Training",
-    "course_descr":null,
+    "course_descr":"Research training course. Recommended in preparation for laboratory related research.",
     "instructor":"Michael Burke",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -32705,7 +32705,7 @@
   {
     "course_code":"MECE E4998",
     "course_title":"MS PROJECTS IN MECH ENGINEER",
-    "course_descr":null,
+    "course_descr":"Master's level independent project involving theoretical, computational, experimental, or engineering design work. May be repeated, subject to Master's Program guidelines. Students must submit both a project outline prior to registration and a final project write-up at the end of the semester.",
     "instructor":"Michael Burke",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -36882,7 +36882,9 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9140-20262-D01\/",
     "location":null,
     "method_of_instruction":"On-Line Only",
-    "open_to":null,
+    "open_to":[
+      "Nursing"
+    ],
     "points":"1",
     "prerequisites":[
 
@@ -45026,6 +45028,31 @@
     "type":"LANGUAGE"
   },
   {
+    "course_code":"RWJS M0001",
+    "course_title":"BIOLOGY",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12839",
+    "campus":null,
+    "class_id":"M0001-20262-001",
+    "course_subtitle":null,
+    "department":"Medicine",
+    "department_code":"RWJS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/RWJS\/M0001-20262-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20262RWJS0001M001",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"SCIP BC0001",
     "course_title":"Research and Professional Skills in STEM",
     "course_descr":"This course will introduce students to concepts and methods that allow them to develop their research voice, navigate the virtual research landscape, and develop an online professional presence.",
@@ -48683,7 +48710,7 @@
     "course_code":"SURB PS0105",
     "course_title":"Urban Planning and Design",
     "course_descr":"",
-    "instructor":null,
+    "instructor":"Stephen Metts",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"10214",
