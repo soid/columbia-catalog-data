@@ -14985,6 +14985,60 @@
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
+    "call_number":"10419",
+    "campus":null,
+    "class_id":"A4105-20263-012",
+    "course_subtitle":null,
+    "department":"Architecture, Planning and Preservation",
+    "department_code":"ARCH",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ARCH\/A4105-20263-012\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263ARCH4105A012",
+    "type":"TUTORIAL"
+  },
+  {
+    "course_code":"ARCH A4105",
+    "course_title":"ADV STUDIO V - TUTORIAL",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"10420",
+    "campus":null,
+    "class_id":"A4105-20263-013",
+    "course_subtitle":null,
+    "department":"Architecture, Planning and Preservation",
+    "department_code":"ARCH",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ARCH\/A4105-20263-013\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263ARCH4105A013",
+    "type":"TUTORIAL"
+  },
+  {
+    "course_code":"ARCH A4105",
+    "course_title":"ADV STUDIO V - TUTORIAL",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
     "call_number":"10421",
     "campus":null,
     "class_id":"A4105-20263-014",
@@ -15652,33 +15706,6 @@
     "type":"STUDIO"
   },
   {
-    "course_code":"ARCH A6455",
-    "course_title":"MILITARY URBANISM",
-    "course_descr":null,
-    "instructor":"Victoria Sanger",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
-    "call_number":"15501",
-    "campus":null,
-    "class_id":"A6455-20263-001",
-    "course_subtitle":null,
-    "department":"Architecture, Planning and Preservation",
-    "department_code":"ARCH",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ARCH\/A6455-20263-001\/",
-    "location":null,
-    "method_of_instruction":"In-Person",
-    "open_to":[
-      "Architecture"
-    ],
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":null,
-    "section_key":"20263ARCH6455A001",
-    "type":"LECTURE"
-  },
-  {
     "course_code":"ARCH A6631",
     "course_title":"ADVANCED PRESERVATION PLANNING & POLICY",
     "course_descr":null,
@@ -15952,7 +15979,7 @@
     "course_code":"ARCH A6820",
     "course_title":"URBAN DESIGN STUDIO II",
     "course_descr":null,
-    "instructor":null,
+    "instructor":"Emanuel Admassu",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"10603",
@@ -16329,6 +16356,33 @@
     "type":"SEMINAR"
   },
   {
+    "course_code":"ARCH A6941",
+    "course_title":"ARCHITECTURAL ACOUSTICAL ECOLOGY",
+    "course_descr":null,
+    "instructor":"Ethan Bourdeau",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17231",
+    "campus":null,
+    "class_id":"A6941-20263-001",
+    "course_subtitle":"ARCH ACOUSTICAL ECOLOGY",
+    "department":"Architecture, Planning and Preservation",
+    "department_code":"ARCH",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ARCH\/A6941-20263-001\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":[
+      "Architecture"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263ARCH6941A001",
+    "type":"SEMINAR"
+  },
+  {
     "course_code":"ARCH A6956",
     "course_title":"SPATIAL AI",
     "course_descr":null,
@@ -16446,7 +16500,7 @@
     "call_number":"10592",
     "campus":null,
     "class_id":"A6982-20263-001",
-    "course_subtitle":"ARCH AFTER REPRESENTATION",
+    "course_subtitle":null,
     "department":"Architecture, Planning and Preservation",
     "department_code":"ARCH",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ARCH\/A6982-20263-001\/",
@@ -150657,6 +150711,33 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"PLAN A6252",
+    "course_title":"ARCH & DEV DIALOGUES",
+    "course_descr":null,
+    "instructor":"Raquel Ramati",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"10749",
+    "campus":null,
+    "class_id":"A6252-20263-001",
+    "course_subtitle":null,
+    "department":"Architecture, Planning and Preservation",
+    "department_code":"PLAN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PLAN\/A6252-20263-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture"
+    ],
+    "points":"1.5",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263PLAN6252A001",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"PLAN A6259",
     "course_title":"US REIT ANALYSIS & INVESTMENT",
     "course_descr":null,
@@ -150735,6 +150816,33 @@
     ],
     "scheduled_days":null,
     "section_key":"20263PLAN6272A001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"PLAN A6281",
+    "course_title":"HOTEL DEVPT\/INVESTMNT ANALYSIS",
+    "course_descr":null,
+    "instructor":"Adam S Feil",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"10752",
+    "campus":null,
+    "class_id":"A6281-20263-001",
+    "course_subtitle":"HOTEL DEVPT\/INVESTMNT ANA",
+    "department":"Architecture, Planning and Preservation",
+    "department_code":"PLAN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PLAN\/A6281-20263-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture"
+    ],
+    "points":"1.5",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263PLAN6281A001",
     "type":"LECTURE"
   },
   {
@@ -151034,6 +151142,31 @@
     ],
     "scheduled_days":null,
     "section_key":"20263PLAN6719A001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"PLAN A6721",
+    "course_title":"DESIGN BY DEVELOPMENT",
+    "course_descr":null,
+    "instructor":"Eran Chen",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17230",
+    "campus":null,
+    "class_id":"A6721-20263-001",
+    "course_subtitle":null,
+    "department":"Architecture, Planning and Preservation",
+    "department_code":"PLAN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PLAN\/A6721-20263-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"1.5",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263PLAN6721A001",
     "type":"LECTURE"
   },
   {
