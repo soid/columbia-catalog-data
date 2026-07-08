@@ -5420,31 +5420,6 @@
     "type":"COLLOQUIA"
   },
   {
-    "course_code":"AHUM UN1400",
-    "course_title":"COLLOQUIUM ON MAJOR TEXTS",
-    "course_descr":"This course explores the core classical literature in Chinese, Japanese and Korean Humanities. The main objective of the course is to discover the meanings that these literature offer, not just for the original audience or for the respective cultures, but for us. As such, it is not a survey or a lecture-based course. Rather than being taught what meanings are to be derived from the texts, we explore meanings together, informed by in-depth reading and thorough ongoing discussion.",
-    "instructor":null,
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
-    "call_number":"15661",
-    "campus":null,
-    "class_id":"V1400-20263-005",
-    "course_subtitle":null,
-    "department":"East Asian Languages and Cultures",
-    "department_code":"AHUM",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/AHUM\/V1400-20263-005\/",
-    "location":null,
-    "method_of_instruction":"In-Person",
-    "open_to":null,
-    "points":"4",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":null,
-    "section_key":"20263AHUM1400V005",
-    "type":"COLLOQUIA"
-  },
-  {
     "course_code":"AHUM UN2800",
     "course_title":"Arts of Islam, 700-1000 CE",
     "course_descr":"This lecture course offers a comprehensive and chronological overview of the major masterpieces of art and architecture of the Muslim world between circa 700-1000 AD. Topics concerning the rise of Arabic as the official language of the new Muslim Empire and the aesthetic transformation it went from script to calligraphy, the shaping of sacred spaces and liturgical objects, rulers\u2019 iconographies and urban designs, as well as daily-life objects, will be discussed. Mecca, Madina, Jerusalem, Damascus, Fustat (old Cairo), Qayrawan, Cordoba, Baghdad, Samarra, Balkh, Bukhara and early Fatimid Cairo are the major playgrounds to illustrate particular moments of shifting powers and aesthetic paradigms in the early days of the Muslim empire, suggesting a more differentiate picture of the arts of Islam in the age of imagining a world-wide empire. The past narratives for these regions will be critically presented by both looking at the medieval sources and the modern historiographies for these regions and by highlighting the varied ideologies at play. Taking this critical vein of studying the arts of the early Muslim age, past narratives will be reconsidered, while enhancing our awareness to the complicated, if not sometimes manipulated, processes of giving works of arts meanings and values.",
@@ -90109,7 +90084,7 @@
   {
     "course_code":"FINC B8357",
     "course_title":"Activist Value Investing for Small Cap C",
-    "course_descr":null,
+    "course_descr":"The course provides a hands-on and practical overview of activist value investing in small-cap companies. Focusing on the day-to-day activities of an activist investor, the course combines lectures, guest speakers, and case studies to provide a conceptual understanding of activism levers, recent trends, and essential tasks within the end-to-end investing cycle.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -135198,9 +135173,171 @@
     "type":"CLINIC"
   },
   {
+    "course_code":"NURS N4104",
+    "course_title":"Introduction to Human Nutrition",
+    "course_descr":"This\u00a0undergraduate-level\u00a0introductory course\u00a0provides an overview of the science of nutrition and nutrition's relationship to health promotion and disease prevention. The primary focus is on the essential macronutrients and micronutrients, including their chemical structures, food sources, digestion and absorption, metabolism, storage,\u00a0and excretion. Students\u00a0develop the skills to evaluate dietary patterns and\u00a0to estimate caloric requirements and nutrient needs using tools such as\u00a0Dietary Guidelines for Americans,\u00a0My Plate,\u00a0Nutrition Facts Labels,\u00a0and Dietary Reference Intakes.",
+    "instructor":"Lora Sporny",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17245",
+    "campus":null,
+    "class_id":"N4104-20263-D01",
+    "course_subtitle":"INTRO HUMAN NUTRITION",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N4104-20263-D01\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263NURS4104ND01",
+    "type":"ONLINE COURS"
+  },
+  {
+    "course_code":"NURS N4105",
+    "course_title":"Human Anatomy & Physiology I with Lab",
+    "course_descr":"This\u00a0undergraduate-level\u00a0introductory course is the first of a two-course-series on human anatomy and physiology. Using a body systems approach, we will study the anatomical structure and physiological function of the human body. Foundational concepts from chemistry, cell biology, and histology are reviewed and built upon through the progression of topics. Each of the body systems will be studied for their structure, function, and mechanisms of regulation. The core concepts of levels of organization, interdependence of systems, and homeostasis will be emphasized throughout the course. This beginner level course will lay the foundation for further advanced study of physiology and pathophysiology within a nursing curriculum.",
+    "instructor":"Sally W Aboelela",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17246",
+    "campus":null,
+    "class_id":"N4105-20263-D01",
+    "course_subtitle":"HUMAN ANAT & PHYS I W\/LAB",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N4105-20263-D01\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263NURS4105ND01",
+    "type":"ONLINE COURS"
+  },
+  {
+    "course_code":"NURS N4106",
+    "course_title":"Human Anatomy & Physiology II with Lab",
+    "course_descr":"This\u00a0undergraduate-level\u00a0introductory course is the second of a two-course series on human anatomy and physiology. Using a body systems approach, we will study the anatomical structure and physiological function of the human body. Foundational concepts from chemistry, cell biology, and histology are reviewed and built upon through the progression of topics. Each of the body systems will be studied for their structure, function, and mechanisms of regulation. The core concepts of levels of organization, interdependence of systems, and homeostasis will be emphasized throughout the course. This beginner level course will lay the foundation for further advanced study of physiology and pathophysiology within a nursing curriculum.",
+    "instructor":"Sofia L Rosenberg-Klainberg",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17247",
+    "campus":null,
+    "class_id":"N4106-20263-D01",
+    "course_subtitle":"HUMAN ANAT & PHYS II W\/LA",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N4106-20263-D01\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263NURS4106ND01",
+    "type":"ONLINE COURS"
+  },
+  {
+    "course_code":"NURS N4110",
+    "course_title":"Microbiology with Lab",
+    "course_descr":"This online undergraduate-level\u00a0introductory course focuses on the core concepts and principles of microbiology. We will explore how microorganisms co-exist and interact with humans creating both beneficial and pathological results. We will survey the diversity of microorganisms,\u00a0their classification,\u00a0and the essential\u00a0processes needed\u00a0for\u00a0survival;\u00a0which will dictate the environments in which they can thrive. This exploration of microorganism diversity will include topics such as microbial nutrition and metabolism, genetics, and antimicrobial\u00a0mechanisms employed by and against microorganisms. Special attention will be\u00a0given to understanding the human immune system, mechanisms of infection by pathogenic microorganisms,\u00a0and the role non-harmful microbiota serve in supporting immune function.\u00a0The weekly lab component of this course will support and complement each learning module and familiarize students with basic microbiologic lab techniques.",
+    "instructor":"Michelle I Evans",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17248",
+    "campus":null,
+    "class_id":"N4110-20263-D01",
+    "course_subtitle":"MICROBIOLOGY W\/LAB",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N4110-20263-D01\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263NURS4110ND01",
+    "type":"LABORATORY"
+  },
+  {
+    "course_code":"NURS N4111",
+    "course_title":"Introduction to Developmental Psychology",
+    "course_descr":"This introductory course covers human development across the lifespan. The course will provide an overview of development and the complexity of human growth through physical, cognitive, emotional, and social capacities. A review of historical and modern-day developmental theories as well as more complex interpersonal constructs, such as cultural variations, will be discussed. Special emphasis is placed upon examining the dynamic interplay between biology and environment with relevant application to nursing practice. The role of social and cultural stressors such as racism and socioeconomics in shaping human development will be examined. This undergraduate-level course will lay the foundation for further advanced study of human development within a nursing curriculum.",
+    "instructor":"Michael Gross",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17249",
+    "campus":null,
+    "class_id":"N4111-20263-D01",
+    "course_subtitle":"INTRO DEV PSYCH LIFESPAN",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N4111-20263-D01\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263NURS4111ND01",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"NURS N4112",
+    "course_title":"Biostatistics",
+    "course_descr":"In this introductory undergraduate course students will learn how vital the study of Biostatistics is to ensure that clinical and public health practices are supported by reliable evidence. Students will gain an appreciation for the hazards of applying human intuition to probability and statistical questions. This course is designed to explore the collection, analysis, and presentation\/visualization of biologic and health data using statistical methods. Students will learn and apply fundamental concepts and techniques of descriptive statistics. Students will also learn basic fundamental concepts of inferential statistics.",
+    "instructor":"Sally W Aboelela",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17250",
+    "campus":null,
+    "class_id":"N4112-20263-D01",
+    "course_subtitle":null,
+    "department":"Nursing",
+    "department_code":"NURS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N4112-20263-D01\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263NURS4112ND01",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"NURS N6099",
     "course_title":"Independent Study",
-    "course_descr":null,
+    "course_descr":"Individualized, guided learning experiences at the graduate level in a selected area of concentration. The area of concentration selected should reflect both the role of the clinical specialist\/nurse practitioner and the student's specific interests. Proposed work must be outlined prior to registration and agreed upon by both faculty and student.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -135221,6 +135358,33 @@
     "scheduled_days":null,
     "section_key":"20263NURS6099N001",
     "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"NURS N7050",
+    "course_title":"Academic-Practice Research Fellowship",
+    "course_descr":"This graduate course is designed to provide the student with the knowledge and skills to facilitate changes in practice delivery using quality improvement strategies. Historical development for total quality management and strategies for implementing process improvement are emphasized. Students will learn how to develop a culture of appreciative inquiry to foster inquisition and innovation. Upon completion of this course, students will design a plan for implementation of a quality improvement project.",
+    "instructor":"Kasey B Jackman",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17251",
+    "campus":null,
+    "class_id":"N7050-20263-001",
+    "course_subtitle":"PRACTICE RESEARCH FELLOWS",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N7050-20263-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263NURS7050N001",
+    "type":"RESEARCH SEM"
   },
   {
     "course_code":"NUTR M6120",
@@ -171839,6 +172003,33 @@
     "type":"SEMINAR"
   },
   {
+    "course_code":"SOCI BC3148",
+    "course_title":"Race, Ethnicity, and Education in the US",
+    "course_descr":"Discussion section for SOCI BC3248: Race, Ethnicity, and Education in the US",
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"01079",
+    "campus":null,
+    "class_id":"X3148-20263-001",
+    "course_subtitle":"RACE ETHNICITY EDU IN US-",
+    "department":"Sociology @Barnard",
+    "department_code":"SOCI",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SOCI\/X3148-20263-001\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+      [
+        "SOCI BC3248"
+      ]
+    ],
+    "scheduled_days":null,
+    "section_key":"20263SOCI3148X001",
+    "type":"DISCUSSION"
+  },
+  {
     "course_code":"SOCI BC3202",
     "course_title":"Structural Drivers of Health",
     "course_descr":"The COVID-19 pandemic has made the underlying health disparities that exist in the United States more apparent. The traditional biomedical model places the responsibility of these disparities on the choices that an individual makes. The model assumes that one\u2019s smoking, eating and exercising habits are based on personal choice. Therefore, the prevalence of morbidities such as high blood pressure, obesity and diabetes is the result of an individual\u2019s poor decisions. This course will explore how the conditions under which individuals live, work, play and pray impact their health outcomes. Collectively these conditions are referred to as the Social Drivers of Health (SDoH) and often they reveal the systemic inequalities that disproportionately affect marginalized communities.\u00a0This course will also call upon the need for a paradigm shift from the \"Social\" \"Determinants\" of Health to the\u00a0\u201cStructural\u201d \"Drivers\" of Health. This shift is in recognition that it is the underlying structures (laws, material infrastructure) that impact\u00a0 and drive health outcomes.\u00a0The development of the SDoH has challenged health care providers to look beyond the biomedical model that stresses an individual\u2019s behavior as the main predictor of adverse health conditions. Instead the SDoH focuses on an \u201cupstream\u201d approach that examines the underlying systemic and racial inequalities that impact communities of color and their health outcomes.",
@@ -172484,6 +172675,114 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"SOCI UN1100",
+    "course_title":"THE SOCIAL WORLD - DISC",
+    "course_descr":"Mandatory discussion section if you are registered for UN1000 The Social World",
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"01071",
+    "campus":null,
+    "class_id":"W1100-20263-001",
+    "course_subtitle":null,
+    "department":"Sociology @Barnard",
+    "department_code":"SOCI",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SOCI\/W1100-20263-001\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+      [
+        "UN1000"
+      ]
+    ],
+    "scheduled_days":null,
+    "section_key":"20263SOCI1100W001",
+    "type":"DISCUSSION"
+  },
+  {
+    "course_code":"SOCI UN1100",
+    "course_title":"THE SOCIAL WORLD - DISC",
+    "course_descr":"Mandatory discussion section if you are registered for UN1000 The Social World",
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"01072",
+    "campus":null,
+    "class_id":"W1100-20263-002",
+    "course_subtitle":null,
+    "department":"Sociology @Barnard",
+    "department_code":"SOCI",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SOCI\/W1100-20263-002\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+      [
+        "UN1000"
+      ]
+    ],
+    "scheduled_days":null,
+    "section_key":"20263SOCI1100W002",
+    "type":"DISCUSSION"
+  },
+  {
+    "course_code":"SOCI UN1100",
+    "course_title":"THE SOCIAL WORLD - DISC",
+    "course_descr":"Mandatory discussion section if you are registered for UN1000 The Social World",
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"01073",
+    "campus":null,
+    "class_id":"W1100-20263-003",
+    "course_subtitle":null,
+    "department":"Sociology @Barnard",
+    "department_code":"SOCI",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SOCI\/W1100-20263-003\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+      [
+        "UN1000"
+      ]
+    ],
+    "scheduled_days":null,
+    "section_key":"20263SOCI1100W003",
+    "type":"DISCUSSION"
+  },
+  {
+    "course_code":"SOCI UN1100",
+    "course_title":"THE SOCIAL WORLD - DISC",
+    "course_descr":"Mandatory discussion section if you are registered for UN1000 The Social World",
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"01074",
+    "campus":null,
+    "class_id":"W1100-20263-004",
+    "course_subtitle":null,
+    "department":"Sociology @Barnard",
+    "department_code":"SOCI",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SOCI\/W1100-20263-004\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+      [
+        "UN1000"
+      ]
+    ],
+    "scheduled_days":null,
+    "section_key":"20263SOCI1100W004",
+    "type":"DISCUSSION"
+  },
+  {
     "course_code":"SOCI UN1203",
     "course_title":"The Social Animal in the Digital Age",
     "course_descr":"This course re-examines central theories and perspectives in the social sciences from the standpoint of digital technologies. Who are we in the digital age? Is the guiding question for the course. We consider the impact of modern technology on society including, forms of interaction and communication, possibilities for problem solving, and re-configurations of social relationships and forms of authority. The course integrates traditional social science readings with contemporary perspectives emerging from scholars who looking at modern social life. The course is an introductory Sociology offering.",
@@ -172609,6 +172908,116 @@
     "scheduled_days":null,
     "section_key":"20263SOCI3010W001",
     "type":"LECTURE"
+  },
+  {
+    "course_code":"SOCI UN3011",
+    "course_title":"METHODS SOCIAL RESEARCH-DISC",
+    "course_descr":"Prerequisites: SOCI UN1000\n  \nDiscussion section for SOCI UN3010: METHODS FOR SOCIAL RESEARCH",
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"01075",
+    "campus":null,
+    "class_id":"W3011-20263-001",
+    "course_subtitle":"METHODS SOCIAL RESEARCH-D",
+    "department":"Sociology @Barnard",
+    "department_code":"SOCI",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SOCI\/W3011-20263-001\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+      [
+        "SOCI UN1000",
+        "SOCI UN3010"
+      ]
+    ],
+    "scheduled_days":null,
+    "section_key":"20263SOCI3011W001",
+    "type":"DISCUSSION"
+  },
+  {
+    "course_code":"SOCI UN3011",
+    "course_title":"METHODS SOCIAL RESEARCH-DISC",
+    "course_descr":"Prerequisites: SOCI UN1000\n  \nDiscussion section for SOCI UN3010: METHODS FOR SOCIAL RESEARCH",
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"01076",
+    "campus":null,
+    "class_id":"W3011-20263-002",
+    "course_subtitle":"METHODS SOCIAL RESEARCH-D",
+    "department":"Sociology @Barnard",
+    "department_code":"SOCI",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SOCI\/W3011-20263-002\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+      [
+        "SOCI UN1000",
+        "SOCI UN3010"
+      ]
+    ],
+    "scheduled_days":null,
+    "section_key":"20263SOCI3011W002",
+    "type":"DISCUSSION"
+  },
+  {
+    "course_code":"SOCI UN3103",
+    "course_title":"Power, Politics & Society-DISC",
+    "course_descr":"Discussion section for SOCI UN3203: Power, Politics, and Society",
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"01077",
+    "campus":null,
+    "class_id":"W3103-20263-001",
+    "course_subtitle":"POWER, POLITICS & SOCIETY",
+    "department":"Sociology @Barnard",
+    "department_code":"SOCI",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SOCI\/W3103-20263-001\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+      [
+        "SOCI UN3203"
+      ]
+    ],
+    "scheduled_days":null,
+    "section_key":"20263SOCI3103W001",
+    "type":"DISCUSSION"
+  },
+  {
+    "course_code":"SOCI UN3103",
+    "course_title":"Power, Politics & Society-DISC",
+    "course_descr":"Discussion section for SOCI UN3203: Power, Politics, and Society",
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"01078",
+    "campus":null,
+    "class_id":"W3103-20263-002",
+    "course_subtitle":"POWER, POLITICS & SOCIETY",
+    "department":"Sociology @Barnard",
+    "department_code":"SOCI",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SOCI\/W3103-20263-002\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+      [
+        "SOCI UN3203"
+      ]
+    ],
+    "scheduled_days":null,
+    "section_key":"20263SOCI3103W002",
+    "type":"DISCUSSION"
   },
   {
     "course_code":"SOCI UN3203",
@@ -174014,6 +174423,56 @@
     "type":"LABORATORY"
   },
   {
+    "course_code":"SOCW T0008",
+    "course_title":"MOTIVATIONAL INTERVIEWING LAB",
+    "course_descr":"The skills-based lab is a 7-week \u201chands-on\u201d training for all students enrolled in Foundation Year Field. The aim of the lab is to equip social work students with universal engagement and communication skills to support both professional development in the field and personal growth. The lab is designed to be highly interactive, with a strong emphasis on \u201cexperiential learning\u201d through role\/real play and ongoing feedback. The lab is led by certified skills-based lab instructors, who serve as facilitators in the process of student learning and practice.",
+    "instructor":"Andrew Hamid",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17252",
+    "campus":null,
+    "class_id":"T0008-20263-098",
+    "course_subtitle":"MOTIVATIONAL INTERVIEWING",
+    "department":"Social Work",
+    "department_code":"SOCW",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SOCW\/T0008-20263-098\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263SOCW0008T098",
+    "type":"LABORATORY"
+  },
+  {
+    "course_code":"SOCW T0008",
+    "course_title":"MOTIVATIONAL INTERVIEWING LAB",
+    "course_descr":"The skills-based lab is a 7-week \u201chands-on\u201d training for all students enrolled in Foundation Year Field. The aim of the lab is to equip social work students with universal engagement and communication skills to support both professional development in the field and personal growth. The lab is designed to be highly interactive, with a strong emphasis on \u201cexperiential learning\u201d through role\/real play and ongoing feedback. The lab is led by certified skills-based lab instructors, who serve as facilitators in the process of student learning and practice.",
+    "instructor":"Andrew Hamid",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17253",
+    "campus":null,
+    "class_id":"T0008-20263-099",
+    "course_subtitle":"MOTIVATIONAL INTERVIEWING",
+    "department":"Social Work",
+    "department_code":"SOCW",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SOCW\/T0008-20263-099\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263SOCW0008T099",
+    "type":"LABORATORY"
+  },
+  {
     "course_code":"SOCW T0014",
     "course_title":"FALL ORIENTATION",
     "course_descr":null,
@@ -174822,6 +175281,56 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"SOCW T6501",
+    "course_title":"SOCIAL WORK RESEARCH",
+    "course_descr":null,
+    "instructor":"Victoria A Frye",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17254",
+    "campus":null,
+    "class_id":"T6501-20263-098",
+    "course_subtitle":null,
+    "department":"Social Work",
+    "department_code":"SOCW",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SOCW\/T6501-20263-098\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263SOCW6501T098",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"SOCW T6501",
+    "course_title":"SOCIAL WORK RESEARCH",
+    "course_descr":null,
+    "instructor":"Victoria A Frye",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17255",
+    "campus":null,
+    "class_id":"T6501-20263-099",
+    "course_subtitle":null,
+    "department":"Social Work",
+    "department_code":"SOCW",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SOCW\/T6501-20263-099\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263SOCW6501T099",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"SOCW T6505",
     "course_title":"INTRO TO STATISTICS",
     "course_descr":null,
@@ -174844,6 +175353,56 @@
     ],
     "scheduled_days":null,
     "section_key":"20263SOCW6505TD20",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"SOCW T6505",
+    "course_title":"INTRO TO STATISTICS",
+    "course_descr":null,
+    "instructor":"Melissa D Begg",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17256",
+    "campus":null,
+    "class_id":"T6505-20263-099",
+    "course_subtitle":null,
+    "department":"Social Work",
+    "department_code":"SOCW",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SOCW\/T6505-20263-099\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263SOCW6505T099",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"SOCW T6505",
+    "course_title":"INTRO TO STATISTICS",
+    "course_descr":null,
+    "instructor":"Melissa D Begg",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17257",
+    "campus":null,
+    "class_id":"T6505-20263-098",
+    "course_subtitle":null,
+    "department":"Social Work",
+    "department_code":"SOCW",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SOCW\/T6505-20263-098\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263SOCW6505T098",
     "type":"LECTURE"
   },
   {
@@ -175177,6 +175736,56 @@
     ],
     "scheduled_days":null,
     "section_key":"20263SOCW660AT009",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"SOCW T660A",
+    "course_title":"HUMAN BEHAVIOR AND THE SOCIAL ENVIRONMEN",
+    "course_descr":null,
+    "instructor":"Brenda Jones Harden",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17258",
+    "campus":null,
+    "class_id":"T660A-20263-098",
+    "course_subtitle":"HUMAN BEHAV\/SOC ENVIRMNT",
+    "department":"Social Work",
+    "department_code":"SOCW",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SOCW\/T660A-20263-098\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263SOCW660AT098",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"SOCW T660A",
+    "course_title":"HUMAN BEHAVIOR AND THE SOCIAL ENVIRONMEN",
+    "course_descr":null,
+    "instructor":"Brenda Jones Harden",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17259",
+    "campus":null,
+    "class_id":"T660A-20263-099",
+    "course_subtitle":"HUMAN BEHAV\/SOC ENVIRMNT",
+    "department":"Social Work",
+    "department_code":"SOCW",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SOCW\/T660A-20263-099\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263SOCW660AT099",
     "type":"LECTURE"
   },
   {
@@ -175613,6 +176222,56 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"SOCW T6801",
+    "course_title":"SOCIAL WELFARE POLICY",
+    "course_descr":null,
+    "instructor":"Neeraj Kaushal",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17260",
+    "campus":null,
+    "class_id":"T6801-20263-098",
+    "course_subtitle":null,
+    "department":"Social Work",
+    "department_code":"SOCW",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SOCW\/T6801-20263-098\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263SOCW6801T098",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"SOCW T6801",
+    "course_title":"SOCIAL WELFARE POLICY",
+    "course_descr":null,
+    "instructor":"Neeraj Kaushal",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17261",
+    "campus":null,
+    "class_id":"T6801-20263-099",
+    "course_subtitle":null,
+    "department":"Social Work",
+    "department_code":"SOCW",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SOCW\/T6801-20263-099\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263SOCW6801T099",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"SOCW T6910",
     "course_title":"THE HEALTH CARE SYSTEM",
     "course_descr":"This course takes a problem-identification and problem-solving approach to the delivery of social work services in health, mental health, and disabilities, with content about the social policies and organizational structures that characterize our current healthcare system.",
@@ -175791,6 +176450,56 @@
     ],
     "scheduled_days":null,
     "section_key":"20263SOCW6910TD22",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"SOCW T6910",
+    "course_title":"THE HEALTH CARE SYSTEM",
+    "course_descr":"This course takes a problem-identification and problem-solving approach to the delivery of social work services in health, mental health, and disabilities, with content about the social policies and organizational structures that characterize our current healthcare system.",
+    "instructor":"Heidi L Allen",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17262",
+    "campus":null,
+    "class_id":"T6910-20263-098",
+    "course_subtitle":null,
+    "department":"Social Work",
+    "department_code":"SOCW",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SOCW\/T6910-20263-098\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263SOCW6910T098",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"SOCW T6910",
+    "course_title":"THE HEALTH CARE SYSTEM",
+    "course_descr":"This course takes a problem-identification and problem-solving approach to the delivery of social work services in health, mental health, and disabilities, with content about the social policies and organizational structures that characterize our current healthcare system.",
+    "instructor":"Heidi L Allen",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17263",
+    "campus":null,
+    "class_id":"T6910-20263-099",
+    "course_subtitle":null,
+    "department":"Social Work",
+    "department_code":"SOCW",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SOCW\/T6910-20263-099\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263SOCW6910T099",
     "type":"LECTURE"
   },
   {
@@ -176691,6 +177400,56 @@
     "type":"PRACTICA"
   },
   {
+    "course_code":"SOCW T7100",
+    "course_title":"FOUNDATIONS OF SW PRACTICE",
+    "course_descr":null,
+    "instructor":"Richard T Hara",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17264",
+    "campus":null,
+    "class_id":"T7100-20263-098",
+    "course_subtitle":"FOUNDATIONS OF SW PRACTIC",
+    "department":"Social Work",
+    "department_code":"SOCW",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SOCW\/T7100-20263-098\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263SOCW7100T098",
+    "type":"PRACTICA"
+  },
+  {
+    "course_code":"SOCW T7100",
+    "course_title":"FOUNDATIONS OF SW PRACTICE",
+    "course_descr":null,
+    "instructor":"Richard T Hara",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17265",
+    "campus":null,
+    "class_id":"T7100-20263-099",
+    "course_subtitle":"FOUNDATIONS OF SW PRACTIC",
+    "department":"Social Work",
+    "department_code":"SOCW",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SOCW\/T7100-20263-099\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263SOCW7100T099",
+    "type":"PRACTICA"
+  },
+  {
     "course_code":"SOCW T7113",
     "course_title":"ADVANCED CLINICAL PRACTICE",
     "course_descr":null,
@@ -177066,6 +177825,56 @@
     ],
     "scheduled_days":null,
     "section_key":"20263SOCW7113T003",
+    "type":"PRACTICA"
+  },
+  {
+    "course_code":"SOCW T7113",
+    "course_title":"ADVANCED CLINICAL PRACTICE",
+    "course_descr":null,
+    "instructor":"Craig S Schwalbe",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17266",
+    "campus":null,
+    "class_id":"T7113-20263-098",
+    "course_subtitle":"ADVANCED CLINICAL PRACTIC",
+    "department":"Social Work",
+    "department_code":"SOCW",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SOCW\/T7113-20263-098\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263SOCW7113T098",
+    "type":"PRACTICA"
+  },
+  {
+    "course_code":"SOCW T7113",
+    "course_title":"ADVANCED CLINICAL PRACTICE",
+    "course_descr":null,
+    "instructor":"Craig S Schwalbe",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17267",
+    "campus":null,
+    "class_id":"T7113-20263-099",
+    "course_subtitle":"ADVANCED CLINICAL PRACTIC",
+    "department":"Social Work",
+    "department_code":"SOCW",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SOCW\/T7113-20263-099\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263SOCW7113T099",
     "type":"PRACTICA"
   },
   {
@@ -178078,6 +178887,56 @@
     ],
     "scheduled_days":null,
     "section_key":"20263SOCW7501T006",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"SOCW T7501",
+    "course_title":"CLINICAL CASE EVALUATION",
+    "course_descr":null,
+    "instructor":"Amy S Kapadia",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17268",
+    "campus":null,
+    "class_id":"T7501-20263-098",
+    "course_subtitle":null,
+    "department":"Social Work",
+    "department_code":"SOCW",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SOCW\/T7501-20263-098\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263SOCW7501T098",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"SOCW T7501",
+    "course_title":"CLINICAL CASE EVALUATION",
+    "course_descr":null,
+    "instructor":"Amy S Kapadia",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17269",
+    "campus":null,
+    "class_id":"T7501-20263-099",
+    "course_subtitle":null,
+    "department":"Social Work",
+    "department_code":"SOCW",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SOCW\/T7501-20263-099\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263SOCW7501T099",
     "type":"LECTURE"
   },
   {
