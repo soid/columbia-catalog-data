@@ -52862,7 +52862,7 @@
     "course_code":"DESC D9822",
     "course_title":"Community Based Primary Oral Health Prac",
     "course_descr":null,
-    "instructor":null,
+    "instructor":"Marcie S Rubin",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"17240",
@@ -108265,6 +108265,39 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"IEOR E4100",
+    "course_title":"STATISTICS & SIMULATION",
+    "course_descr":"Probability and simulation. Statistics building on knowledge in probability and simulation. Point and interval estimation, hypothesis testing, and regression. A specialized version of IEOR E4150 for MSE and MSBA students who are exempt from the first half of IEOR E4101. Must obtain waiver for E4101.",
+    "instructor":"Eric Stratman",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"14506",
+    "campus":null,
+    "class_id":"E4100-20263-001",
+    "course_subtitle":null,
+    "department":"Industrial Engineering and Operations Research",
+    "department_code":"IEOR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/IEOR\/E4100-20263-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Engineering:Graduate"
+    ],
+    "points":"1.5",
+    "prerequisites":[
+      [
+        "IEOR E4101",
+        "E4101"
+      ],
+      [
+        "IEOR E4150"
+      ]
+    ],
+    "scheduled_days":null,
+    "section_key":"20263IEOR4100E001",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"IEOR E4101",
     "course_title":"PROBABILITY STAT & SIMULATION",
     "course_descr":"Basic probability theory, including independence and conditioning, discrete and continuous random variable, law of large numbers, central limit theorem, and stochastic simulation, basic statistics, including point and interval estimation, hypothesis testing, and regression; examples from business applications such as inventory management, medical treatments, and finance. A specialized version of IEOR E4150 for MSE and MSBA students.",
@@ -108916,6 +108949,89 @@
     ],
     "scheduled_days":null,
     "section_key":"20263IEOR4511E002",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"IEOR E4523",
+    "course_title":"Data Analytics and Machine Learning",
+    "course_descr":"IEOR students only; priority to MSBA students. Practical survey of Python tools for acquiring, cleaning, and analyzing data. Techniques for obtaining data from files, web scraping, and APIs (CSV, HTML, JSON, XML); performing core data-cleaning tasks; and using data analysis, machine learning, and visualization\u00a0 libraries (NumPy, Pandas, Matplotlib, Seaborn, TensorFlow\/Keras). Introduces foundational machine learning and deep learning concepts, including backpropagation, gradient descent, and implementation of neural networks with TensorFlow\/Keras. Covers text mining using word, sentence, and document embeddings. Includes a group project requiring students to collect, store, and analyze a dataset of their choice and build a predictive model.",
+    "instructor":"Uday Menon",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"14702",
+    "campus":null,
+    "class_id":"E4523-20263-001",
+    "course_subtitle":"Data Analytics and ML",
+    "department":"Industrial Engineering and Operations Research",
+    "department_code":"IEOR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/IEOR\/E4523-20263-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Engineering:Graduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263IEOR4523E001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"IEOR E4523",
+    "course_title":"Data Analytics and Machine Learning",
+    "course_descr":"IEOR students only; priority to MSBA students. Practical survey of Python tools for acquiring, cleaning, and analyzing data. Techniques for obtaining data from files, web scraping, and APIs (CSV, HTML, JSON, XML); performing core data-cleaning tasks; and using data analysis, machine learning, and visualization\u00a0 libraries (NumPy, Pandas, Matplotlib, Seaborn, TensorFlow\/Keras). Introduces foundational machine learning and deep learning concepts, including backpropagation, gradient descent, and implementation of neural networks with TensorFlow\/Keras. Covers text mining using word, sentence, and document embeddings. Includes a group project requiring students to collect, store, and analyze a dataset of their choice and build a predictive model.",
+    "instructor":"Uday Menon",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"14703",
+    "campus":null,
+    "class_id":"E4523-20263-002",
+    "course_subtitle":"Data Analytics and ML",
+    "department":"Industrial Engineering and Operations Research",
+    "department_code":"IEOR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/IEOR\/E4523-20263-002\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Business",
+      "Engineering:Graduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263IEOR4523E002",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"IEOR E4523",
+    "course_title":"Data Analytics and Machine Learning",
+    "course_descr":"IEOR students only; priority to MSBA students. Practical survey of Python tools for acquiring, cleaning, and analyzing data. Techniques for obtaining data from files, web scraping, and APIs (CSV, HTML, JSON, XML); performing core data-cleaning tasks; and using data analysis, machine learning, and visualization\u00a0 libraries (NumPy, Pandas, Matplotlib, Seaborn, TensorFlow\/Keras). Introduces foundational machine learning and deep learning concepts, including backpropagation, gradient descent, and implementation of neural networks with TensorFlow\/Keras. Covers text mining using word, sentence, and document embeddings. Includes a group project requiring students to collect, store, and analyze a dataset of their choice and build a predictive model.",
+    "instructor":"Uday Menon",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"14704",
+    "campus":null,
+    "class_id":"E4523-20263-003",
+    "course_subtitle":"Data Analytics and ML",
+    "department":"Industrial Engineering and Operations Research",
+    "department_code":"IEOR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/IEOR\/E4523-20263-003\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Business",
+      "Engineering:Graduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263IEOR4523E003",
     "type":"LECTURE"
   },
   {
@@ -112371,7 +112487,7 @@
   },
   {
     "course_code":"IFEP IA7147",
-    "course_title":"Navigating China's Economy",
+    "course_title":"Navigating China",
     "course_descr":"No business and no government can ignore China. The People's Republic of China is the world's second-largest economy and is on track to surpass the US economyin the future. China represents enormous opportunities for businesses and public policies, but it also presents a set of tough challenges. This course is designed to provide a framework for understanding these issues. As several other emerging market economies hope to follow China's footsteps, the conceptual framework in the course should help one appreciate the risks and rewards in these economies better as well. In this course, we will discuss what motivates the Chinese as savers, consumers, workers, and entrepreneurs. We will examine both the people factor and the government factor that underpin China's growth story. We will not be satisfied with simply repeating the conventional wisdoms, but will probe deeper than what we often read or hear. We will also combine conceptual knowledge with practical insight by inviting distinguished speakers with rich business or government experience to share their perspectives on China's business environment and other related topics.",
     "instructor":"Shang-Jin Wei",
     "scheduled_time_start":null,
@@ -120091,7 +120207,7 @@
     "course_code":"MATH UN1101",
     "course_title":"CALCULUS I",
     "course_descr":"Prerequisites: (see Courses for First-Year Students). Functions, limits, derivatives, introduction to integrals, or an understanding of pre-calculus will be assumed. (SC)",
-    "instructor":null,
+    "instructor":"Haocheng Fan",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"13398",
@@ -120116,7 +120232,7 @@
     "course_code":"MATH UN1101",
     "course_title":"CALCULUS I",
     "course_descr":"Prerequisites: (see Courses for First-Year Students). Functions, limits, derivatives, introduction to integrals, or an understanding of pre-calculus will be assumed. (SC)",
-    "instructor":null,
+    "instructor":"Haocheng Fan",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"13399",
@@ -120141,7 +120257,7 @@
     "course_code":"MATH UN1101",
     "course_title":"CALCULUS I",
     "course_descr":"Prerequisites: (see Courses for First-Year Students). Functions, limits, derivatives, introduction to integrals, or an understanding of pre-calculus will be assumed. (SC)",
-    "instructor":null,
+    "instructor":"Alexander Hazeltine",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"13400",
@@ -120166,7 +120282,7 @@
     "course_code":"MATH UN1101",
     "course_title":"CALCULUS I",
     "course_descr":"Prerequisites: (see Courses for First-Year Students). Functions, limits, derivatives, introduction to integrals, or an understanding of pre-calculus will be assumed. (SC)",
-    "instructor":null,
+    "instructor":"Alexander Hazeltine",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"13401",
@@ -120191,7 +120307,7 @@
     "course_code":"MATH UN1101",
     "course_title":"CALCULUS I",
     "course_descr":"Prerequisites: (see Courses for First-Year Students). Functions, limits, derivatives, introduction to integrals, or an understanding of pre-calculus will be assumed. (SC)",
-    "instructor":null,
+    "instructor":"Andres Contreras Hip",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"13402",
@@ -120216,7 +120332,7 @@
     "course_code":"MATH UN1101",
     "course_title":"CALCULUS I",
     "course_descr":"Prerequisites: (see Courses for First-Year Students). Functions, limits, derivatives, introduction to integrals, or an understanding of pre-calculus will be assumed. (SC)",
-    "instructor":null,
+    "instructor":"Andres Contreras Hip",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"13403",
@@ -120320,7 +120436,7 @@
     "course_code":"MATH UN1102",
     "course_title":"CALCULUS II",
     "course_descr":"Prerequisites: MATH UN1101 or the equivalent. Methods of integration, applications of the integral, Taylors theorem, infinite series. (SC)",
-    "instructor":null,
+    "instructor":"Daigo Ito",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"13404",
@@ -120347,7 +120463,7 @@
     "course_code":"MATH UN1102",
     "course_title":"CALCULUS II",
     "course_descr":"Prerequisites: MATH UN1101 or the equivalent. Methods of integration, applications of the integral, Taylors theorem, infinite series. (SC)",
-    "instructor":null,
+    "instructor":"Daigo Ito",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"13405",
@@ -120509,7 +120625,7 @@
     "course_code":"MATH UN1201",
     "course_title":"CALCULUS III",
     "course_descr":"Prerequisites: MATH UN1101 or the equivalent Vectors in dimensions 2 and 3, complex numbers and the complex exponential function with applications to differential equations, Cramers rule, vector-valued functions of one variable, scalar-valued functions of several variables, partial derivatives, gradients, surfaces, optimization, the method of Lagrange multipliers. (SC)",
-    "instructor":null,
+    "instructor":"William Ogden",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"13407",
@@ -120617,7 +120733,7 @@
     "course_code":"MATH UN1201",
     "course_title":"CALCULUS III",
     "course_descr":"Prerequisites: MATH UN1101 or the equivalent Vectors in dimensions 2 and 3, complex numbers and the complex exponential function with applications to differential equations, Cramers rule, vector-valued functions of one variable, scalar-valued functions of several variables, partial derivatives, gradients, surfaces, optimization, the method of Lagrange multipliers. (SC)",
-    "instructor":null,
+    "instructor":"Reese Lance",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"13411",
@@ -120644,7 +120760,7 @@
     "course_code":"MATH UN1201",
     "course_title":"CALCULUS III",
     "course_descr":"Prerequisites: MATH UN1101 or the equivalent Vectors in dimensions 2 and 3, complex numbers and the complex exponential function with applications to differential equations, Cramers rule, vector-valued functions of one variable, scalar-valued functions of several variables, partial derivatives, gradients, surfaces, optimization, the method of Lagrange multipliers. (SC)",
-    "instructor":null,
+    "instructor":"Reese Lance",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"13412",
@@ -136480,7 +136596,7 @@
   {
     "course_code":"NURS N7005",
     "course_title":"Health and Social Policy in the Context",
-    "course_descr":null,
+    "course_descr":"This core course examines contextual contributors to health status and the current social, legal, and political determinants of healthcare systems, emphasizing the U.S. system. Issues are explored to understand their impact on current and future delivery of health care, in particular on advanced practice nursing. The class focuses on how to bring the professional values of nursing to bear in policy debate and how nurses partner in the policy process to improve health outcomes of populations and quality of the healthcare delivery system.",
     "instructor":"Lisa Iannacci-Manasia",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -136503,6 +136619,33 @@
     "scheduled_days":null,
     "section_key":"20263NURS7005ND01",
     "type":"LECTURE"
+  },
+  {
+    "course_code":"NURS N7009",
+    "course_title":"Financial Management and Informatics in",
+    "course_descr":"Financial Management and Informatics in Healthcare provides students with advanced knowledge and competencies essential to make data-driven decisions that improve patient care and optimize organizational performance. Critical topics in informatics governance, data analytics, financial planning, budgeting, revenue cycle management, and emerging healthcare technologies will enable students to lead quality improvements, enhance patient safety, and contribute to the financial sustainability of their organizations",
+    "instructor":"Anita Volpe",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17443",
+    "campus":null,
+    "class_id":"N7009-20263-D01",
+    "course_subtitle":"FIN MGT & INFORMATICS In",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N7009-20263-D01\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263NURS7009ND01",
+    "type":"SEMINAR"
   },
   {
     "course_code":"NURS N7050",
@@ -136665,6 +136808,60 @@
     "scheduled_days":null,
     "section_key":"20263NURS8143N001",
     "type":"CLINIC"
+  },
+  {
+    "course_code":"NURS N8190",
+    "course_title":"Diagnosis and Management of Acute & Crit",
+    "course_descr":"This is the second of three Diagnosis and Management courses designed to educate students on the assessment, diagnosis, treatment and evaluation of common acute and critical illnesses via a systems-based approach. Pathophysiologic alterations, assessment, diagnostic findings, and multimodal management will be discussed.\u00a0 The course will examine social determinants of health and health disparities that may impact patients and family outcomes. Focus will be on the differential diagnosis and comprehensive healthcare management of commonly encountered acute and chronic physical illnesses using didactic lectures, case studies and simulation.",
+    "instructor":"Leon Chen",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17444",
+    "campus":null,
+    "class_id":"N8190-20263-001",
+    "course_subtitle":"DX & MGMT ACUTE CRIT ILLN",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N8190-20263-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263NURS8190N001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"NURS N8240",
+    "course_title":"PRINCIPLES AND PRACTICE OF NURSE ANESTHE",
+    "course_descr":"This is the third of four didactic courses that discuss the various methods and techniques of anesthesia administration with an emphasis on the physiological basis for practice. Alterations in homeostatic mechanisms and advanced anesthetic management throughout the perioperative continuum of obstetric and pediatric care, and patients undergoing cardiac surgery are emphasized. Cultural humility will be incorporated into care plans to develop anesthetic management individualized to patient identities and cultures while including an emphasis on social and cultural health disparities.",
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17445",
+    "campus":null,
+    "class_id":"N8240-20263-001",
+    "course_subtitle":"PRIN & PRAC NURS ANES III",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N8240-20263-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263NURS8240N001",
+    "type":"LECTURE"
   },
   {
     "course_code":"NURS N8322",
