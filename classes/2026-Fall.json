@@ -43562,33 +43562,6 @@
     "type":"DISCUSSION"
   },
   {
-    "course_code":"CLMT G9030",
-    "course_title":"MSC Practicum",
-    "course_descr":"This is a required practicum course for all students in the M.S. in Climate program. Students must complete a required practicum experience with a fieldwork component and simultaneously enroll in CLMT9030.\n  \nStudents must complete a hands-on, immersive experience in a climate-related role during the summer in between their two years of study. It can be an internship, research assistantship, or similar practical experience. This is a 0 credit degree requirement that offers students the opportunity to apply their academic learning to real-world challenges, gaining practical insights and professional experience. Students will source their own opportunities, but will have the full support and resources of the Career Management team throughout the process.\n  \nThis course is required for and only open to students in the M.S. in Climate program.",
-    "instructor":"Julia S Goldsamt",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
-    "call_number":"16475",
-    "campus":null,
-    "class_id":"G9030-20263-001",
-    "course_subtitle":null,
-    "department":"Climate School",
-    "department_code":"CLMT",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CLMT\/G9030-20263-001\/",
-    "location":null,
-    "method_of_instruction":"In-Person",
-    "open_to":null,
-    "points":"0",
-    "prerequisites":[
-      [
-        "MT9030"
-      ]
-    ],
-    "scheduled_days":null,
-    "section_key":"20263CLMT9030G001",
-    "type":"LECTURE"
-  },
-  {
     "course_code":"CLMT GR5001",
     "course_title":"Dynamics of Climate Variability and Chan",
     "course_descr":"Required for students in the Climate and Society MA Program Prerequisites: undergraduate course in climate or physics; undergraduate calculus An overview of how the climate system works on large scales of space and time, with particular attention to the science and methods underlying forecasts of climate variability and climate change. This course serves as the basic physical science course for the MA program in Climate and Society",
@@ -47921,7 +47894,7 @@
     "course_code":"COMS BC1014",
     "course_title":"INTRODUCTION TO COMPUTER SCIENCE AND PRO",
     "course_descr":"This course provides a general introduction to computer science in the context of the Java programming language. We study basic approaches to structuring computation, and learn algorithmic problem solving skills. This course assumes no prior programming background. This course is the Barnard equivalent of Columbia's COMS W1004. \u00a0Students cannot receive credit for both this course and COMS W1004.",
-    "instructor":"Faculty",
+    "instructor":"Elaine Li",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"01052",
@@ -48427,6 +48400,72 @@
     ],
     "scheduled_days":null,
     "section_key":"20263COMS3895X010",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"COMS BC3895",
+    "course_title":"RESEARCH PROJECTS IN COMPUTER SCIENCE",
+    "course_descr":"COMS BC3895 Research Projects in Computer Science (CS) is an opportunity for undergraduates to conduct research under the supervision of a Barnard CS faculty member. The research project is usually in an area that the faculty member is an expert in and often arises out of discussions with the faculty member, but at times it is student-driven. A student may enroll in COMS BC3895 more than once. Application to enroll in BC3895 must be approved by the Faculty Advisor who will supervise the research. The instructor of the student\u2019s section of COMS BC3895 will be the Barnard CS Faculty Advisor. Note: Columbia CS has a similar course COMS W3998 Projects in Computer Science for students both at Barnard and Columbia to conduct research with Columbia CS faculty.",
+    "instructor":"Niall Williams",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"01081",
+    "campus":null,
+    "class_id":"X3895-20263-011",
+    "course_subtitle":"RESEARCH PROJECTS IN CS",
+    "department":"Computer Science @Barnard",
+    "department_code":"COMS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMS\/X3895-20263-011\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"1-4",
+    "prerequisites":[
+      [
+        "COMS BC3895"
+      ],
+      [
+        "COMS BC3895",
+        "BC3895",
+        "COMS BC3895",
+        "COMS W3998"
+      ]
+    ],
+    "scheduled_days":null,
+    "section_key":"20263COMS3895X011",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"COMS BC3895",
+    "course_title":"RESEARCH PROJECTS IN COMPUTER SCIENCE",
+    "course_descr":"COMS BC3895 Research Projects in Computer Science (CS) is an opportunity for undergraduates to conduct research under the supervision of a Barnard CS faculty member. The research project is usually in an area that the faculty member is an expert in and often arises out of discussions with the faculty member, but at times it is student-driven. A student may enroll in COMS BC3895 more than once. Application to enroll in BC3895 must be approved by the Faculty Advisor who will supervise the research. The instructor of the student\u2019s section of COMS BC3895 will be the Barnard CS Faculty Advisor. Note: Columbia CS has a similar course COMS W3998 Projects in Computer Science for students both at Barnard and Columbia to conduct research with Columbia CS faculty.",
+    "instructor":"Elaine Li",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"01082",
+    "campus":null,
+    "class_id":"X3895-20263-012",
+    "course_subtitle":"RESEARCH PROJECTS IN CS",
+    "department":"Computer Science @Barnard",
+    "department_code":"COMS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMS\/X3895-20263-012\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"1-4",
+    "prerequisites":[
+      [
+        "COMS BC3895"
+      ],
+      [
+        "COMS BC3895",
+        "BC3895",
+        "COMS BC3895",
+        "COMS W3998"
+      ]
+    ],
+    "scheduled_days":null,
+    "section_key":"20263COMS3895X012",
     "type":"INDEPENDENT"
   },
   {
@@ -50846,7 +50885,8 @@
     "location":null,
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Engineering:Graduate"
+      "Engineering:Graduate",
+      "GSAS"
     ],
     "points":"3",
     "prerequisites":[
@@ -64935,7 +64975,7 @@
     "call_number":"11315",
     "campus":null,
     "class_id":"E6896-20263-001",
-    "course_subtitle":"Learning and Storage",
+    "course_subtitle":"TPC:QUANTUM COMPUT & COMM",
     "department":"Electrical Engineering",
     "department_code":"EECS",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/EECS\/E6896-20263-001\/",
@@ -116985,6 +117025,189 @@
     "scheduled_days":null,
     "section_key":"20263JOUR0001J001",
     "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"JOUR J4001",
+    "course_title":"DATA JOURNALISM",
+    "course_descr":null,
+    "instructor":"Jonathan Soma",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17446",
+    "campus":null,
+    "class_id":"J4001-20263-001",
+    "course_subtitle":"FOUNDATIONS OF COMPUTING",
+    "department":"Journalism",
+    "department_code":"JOUR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/JOUR\/J4001-20263-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263JOUR4001J001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"JOUR J6001",
+    "course_title":"REPORTING",
+    "course_descr":"In this course, you'll explore the methods journalists use to gather and evaluate information. You'll learn how to think and behave as a journalist, how to conceive of journalistic story assignments, and how to report them quickly and accurately on deadline. You\u2019ll learn how to gather original information first-hand and to combine it with contextual information that can be found online and elsewhere. You will be taught how to ensure that a story is true, both in the sense of getting the facts right and also by stating the implications fairly. You\u2019ll also get some basic training in digital technologies such as photo, mobile video and audio that are essential parts of a modern journalist\u2019s toolkit, and you\u2019ll begin using them in the service of journalism, while thinking about ways to use social media to engage an audience for your work.",
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17447",
+    "campus":null,
+    "class_id":"J6001-20263-001",
+    "course_subtitle":null,
+    "department":"Journalism",
+    "department_code":"JOUR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/JOUR\/J6001-20263-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Journalism"
+    ],
+    "points":"6",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263JOUR6001J001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"JOUR J6001",
+    "course_title":"REPORTING",
+    "course_descr":"In this course, you'll explore the methods journalists use to gather and evaluate information. You'll learn how to think and behave as a journalist, how to conceive of journalistic story assignments, and how to report them quickly and accurately on deadline. You\u2019ll learn how to gather original information first-hand and to combine it with contextual information that can be found online and elsewhere. You will be taught how to ensure that a story is true, both in the sense of getting the facts right and also by stating the implications fairly. You\u2019ll also get some basic training in digital technologies such as photo, mobile video and audio that are essential parts of a modern journalist\u2019s toolkit, and you\u2019ll begin using them in the service of journalism, while thinking about ways to use social media to engage an audience for your work.",
+    "instructor":"Nina Alvarez",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17448",
+    "campus":null,
+    "class_id":"J6001-20263-002",
+    "course_subtitle":null,
+    "department":"Journalism",
+    "department_code":"JOUR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/JOUR\/J6001-20263-002\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Journalism"
+    ],
+    "points":"6",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263JOUR6001J002",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"JOUR J6001",
+    "course_title":"REPORTING",
+    "course_descr":"In this course, you'll explore the methods journalists use to gather and evaluate information. You'll learn how to think and behave as a journalist, how to conceive of journalistic story assignments, and how to report them quickly and accurately on deadline. You\u2019ll learn how to gather original information first-hand and to combine it with contextual information that can be found online and elsewhere. You will be taught how to ensure that a story is true, both in the sense of getting the facts right and also by stating the implications fairly. You\u2019ll also get some basic training in digital technologies such as photo, mobile video and audio that are essential parts of a modern journalist\u2019s toolkit, and you\u2019ll begin using them in the service of journalism, while thinking about ways to use social media to engage an audience for your work.",
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17449",
+    "campus":null,
+    "class_id":"J6001-20263-004",
+    "course_subtitle":"Reporting: Visual Craft",
+    "department":"Journalism",
+    "department_code":"JOUR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/JOUR\/J6001-20263-004\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Journalism"
+    ],
+    "points":"6",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263JOUR6001J004",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"JOUR J6001",
+    "course_title":"REPORTING",
+    "course_descr":"In this course, you'll explore the methods journalists use to gather and evaluate information. You'll learn how to think and behave as a journalist, how to conceive of journalistic story assignments, and how to report them quickly and accurately on deadline. You\u2019ll learn how to gather original information first-hand and to combine it with contextual information that can be found online and elsewhere. You will be taught how to ensure that a story is true, both in the sense of getting the facts right and also by stating the implications fairly. You\u2019ll also get some basic training in digital technologies such as photo, mobile video and audio that are essential parts of a modern journalist\u2019s toolkit, and you\u2019ll begin using them in the service of journalism, while thinking about ways to use social media to engage an audience for your work.",
+    "instructor":"Charles Stevens",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17450",
+    "campus":null,
+    "class_id":"J6001-20263-005",
+    "course_subtitle":null,
+    "department":"Journalism",
+    "department_code":"JOUR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/JOUR\/J6001-20263-005\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Journalism"
+    ],
+    "points":"6",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263JOUR6001J005",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"JOUR J6010",
+    "course_title":"THE WRITTEN WORD",
+    "course_descr":"Journalism is changing rapidly, but the written word remains as important to journalists today as it was a century ago. It\u2019s still a storytelling medium in and of itself, of course. But even if you don\u2019t plan to work in print, you need to know how to write clearly and accurately in order to supplement or explain video and photos, to put together engaging audio and video scripts, and to pitch ideas to editors.",
+    "instructor":"June Cross",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17451",
+    "campus":null,
+    "class_id":"J6010-20263-011",
+    "course_subtitle":"Journalist Issues in Doc",
+    "department":"Journalism",
+    "department_code":"JOUR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/JOUR\/J6010-20263-011\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263JOUR6010J011",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"JOUR J6010",
+    "course_title":"THE WRITTEN WORD",
+    "course_descr":"Journalism is changing rapidly, but the written word remains as important to journalists today as it was a century ago. It\u2019s still a storytelling medium in and of itself, of course. But even if you don\u2019t plan to work in print, you need to know how to write clearly and accurately in order to supplement or explain video and photos, to put together engaging audio and video scripts, and to pitch ideas to editors.",
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17452",
+    "campus":null,
+    "class_id":"J6010-20263-008",
+    "course_subtitle":"Tech & Biz Reporting",
+    "department":"Journalism",
+    "department_code":"JOUR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/JOUR\/J6010-20263-008\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263JOUR6010J008",
+    "type":"SEMINAR"
   },
   {
     "course_code":"JOUR J6030",
