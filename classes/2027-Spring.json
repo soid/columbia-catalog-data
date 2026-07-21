@@ -3131,7 +3131,7 @@
   {
     "course_code":"BUSI GU4300",
     "course_title":"Corporate Finance and Valuation",
-    "course_descr":null,
+    "course_descr":"This course introduces the fundamental principles of corporate finance and their application to real-world business decisions. Students will examine how companies determine value, measure risk, and make financing choices, while developing the tools to analyze corporate investments and capital structures.\n  \nIntellectual Goals and Rationale\n The course addresses core questions that drive business decision-making:\n  \n  \nHow do we determine what a company or investment opportunity is worth?\n  \nHow do we value financial securities in an uncertain world?\n  \nWhat is risk? How do we measure it, and how does it affect the cost of capital?\n  \nWhat is the appropriate balance between debt and equity?\n \n  \nCourse Content and Learning Approach\n Through a combination of theoretical frameworks, case discussions, and Excel-based financial modeling, students will build the ability to analyze complex financial scenarios. Lectures provide the foundations of valuation and financing, while case work applies these tools to real business challenges.\n  \nWhy This Course Matters\n Valuation, investment evaluation, and financing decisions are central to careers in finance, consulting, entrepreneurship, and management. The skills gained\u2014financial modeling, risk assessment, and valuation analysis\u2014are directly relevant to roles in investment banking, private equity, corporate development, consulting, and executive leadership.\n  \nWho Should Take This Course\n This introductory finance course is open to students from all academic backgrounds who seek to strengthen their financial literacy and analytical capabilities. It is particularly valuable for:\n  \n  \nStudents considering careers in finance, consulting, or general management\n  \nEntrepreneurs who need to understand funding and valuation\n  \nStudents in other fields interested in how businesses create and measure value\n  \nThose planning to pursue graduate business education\n \n  \nPrerequisites\n  \n  \nEconomics:\n\u00a0ECON UN1105 Principles of Economics\n  \nStatistics (one of the following):\n  \n   \nSTAT UN1001 Intro to Statistical Reasoning\n   \nSTAT UN1101 Introduction to Statistics\n   \nSTAT UN1201 Calc-Based Introduction to Statistics\n   \nPSYC UN1610 Introductory Statistics for Behavioral Science\n  \n  \n \n  \nCours",
     "instructor":"Haran Segram",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -3150,7 +3150,21 @@
     ],
     "points":"3",
     "prerequisites":[
-
+      [
+        "ECON UN1105"
+      ],
+      [
+        "PSYC UN1610"
+      ],
+      [
+        "STAT UN1001"
+      ],
+      [
+        "STAT UN1101"
+      ],
+      [
+        "STAT UN1201"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20271BUSI4300W001",
@@ -3159,7 +3173,7 @@
   {
     "course_code":"BUSI GU4377",
     "course_title":"Investment Strategies",
-    "course_descr":null,
+    "course_descr":"This course provides a comprehensive introduction to modern investment analysis, integrating two distinct yet complementary approaches: fundamental value investing and quantitative investment strategies. The first half focuses on value investing, emphasizing the economic analysis and valuation of a firm's business operations to estimate its fundamental value. Students will learn to assess competitive advantages and barriers to entry, apply valuation frameworks beyond standard DCF models, and manage risk in concentrated portfolios. The methodology is grounded in identifying a 'margin of safety' by investing when a company's market value is significantly below its intrinsic worth.\n  \nThe second half shifts to quantitative investment strategies, exploring the tools and techniques used in an environment of continuous financial innovation. Topics include hedging and risk management, single- and multi-period portfolio optimization, the use of factor models and Principal Component Analysis (PCA) for investment decisions, and the construction of systematic and volatility-based strategies. A hands-on approach is used to highlight the applications and limitations of these quantitative methods. Upon completion, students will have a rich and coherent view of investing that combines a sound understanding of business economics with robust quantitative and risk management techniques.\n \n We recommend that students take Corporate Finance (BUSI 4280 and ECON 4280) beforehand and Capital Markets (BUSI 3705) or Financial Economics (ECON 3025) concurrently.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -3188,7 +3202,7 @@
   {
     "course_code":"BUSI GU4518",
     "course_title":"Foundations of Entrepreneurship",
-    "course_descr":null,
+    "course_descr":"Entrepreneurship is one of the most important economic activities shaping the United States. Entrepreneurial processes play a role in delivering new solutions to social problems, they are a strong determinant of wealth inequality and spatial disparities, and underlie technological progress. The class Foundations of Entrepreneurship provides any undergraduate student a comprehensive introduction to what entrepreneurship is and how it functions, including understanding how an idea evolves into a company, the role of key actors in an entrepreneurial ecosystem, and experiencing the entrepreneurial process. The class is valuable to any student in science, engineering, and liberal arts who would like to understand what determines whether promising inventions and solutions fulfill their potential impact. It is offered as part of the Mendelson Center\u2019s special program in business management.\n  \nThe content is delivered incorporating lecture-based content, case discussions of existing companies, and group work to develop an early-stage idea and pitch it to a panel of investors.\n  \nFoundations of Entrepreneurship is a prerequisite to future lab-based entrepreneurship classes for undergraduates, Launch Your Startup and Entrepreneurial Greenhouse.\n \n \u00a0\n  \nPrerequisite or Corequisite:\n \nECON 1105W\n (Principles of Economics) \nAND\n one of the following Statistics courses:\n  \n  \n  \nSTAT 1001W\n (Intro to Statistical Reasoning)\n  \n  \n  \nSTAT 1101W\n (Introduction to Statistics)\n  \n  \n  \nSTAT 1201W\n (Calc-Based Intro to Statistics)\n  \n  \n  \nPSYC 1610W\n (Statistics for Behavioral Scientists)",
     "instructor":"Michael Mauskapf",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -3217,7 +3231,7 @@
   {
     "course_code":"BUSI UN3021",
     "course_title":"MARKETING MANAGEMENT",
-    "course_descr":null,
+    "course_descr":"Designed to provide students with an understanding of the fundamental marketing concepts and their application by business and non-business organizations. The goal is to expose students to these concepts as they are used in a wide variety of settings, including consumer goods firms, manufacturing and service industries, and small and large businesses. The course gives an overview of marketing strategy issues, elements of a market (company, customers, and competition), as well as the fundamental elements of the marketing mix (product, price, placement\/distribution, and promotion).",
     "instructor":"Silvia Bellezza",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -3245,7 +3259,7 @@
   {
     "course_code":"BUSI UN3701",
     "course_title":"STRATEGY FORMULATION",
-    "course_descr":null,
+    "course_descr":"This class is an introduction to strategic management and the decisions that firms make in their historical context. We look at the growth of the large multi-product firm in almost all countries in the world and the the process by which they internationalized their activities and, very often, were also forced to retreat from their international positions. \u00a0We treat strategies as relation to two broad goals of the class: to\u00a0understand why some companies are financially much more successful than others; and to analyze how managers can devise a set of actions (the strategy) and design processes and structures that allow their company to obtain a competitive advantage. You will learn the analytical tools developed in universities, in consulting and industrial firms, and even in the military. \u00a0 These tools include what companies do to outperform their rivals; to analyze the competitive moves of rival firms by game-theoretic concepts; and when it makes sense for companies to diversify and globalize their business.\u00a0Applications will be to Walmart and Apple, European firms and to Asian firms, and developing country firms.",
     "instructor":"Len Sherman",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
