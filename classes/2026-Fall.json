@@ -57323,6 +57323,33 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"DROM B9157",
+    "course_title":"Algorithms for Social Systems: Beyond i.",
+    "course_descr":"Algorithms and AI systems are increasingly deployed at scale in consequential social settings, e.g., online platforms, labor markets, healthcare systems, and educational institutions. The standard methods used to design and evaluate these algorithms were developed under assumptions of independent and identically distributed (i.i.d.) data, assumptions that are systematically violated when humans interact with each other and respond to the systems around them. Researchers working in these settings need to understand when these assumptions break down, what the resulting effects on system performance are, and how to design better systems.\n  \nThis course examines the evaluation, deployment, and human response to algorithms in social systems where these i.i.d. assumptions fail. We study how interference between users, capacity constraints, and behavioral responses to algorithms undermine both classical machine learning methods and causal inference tools like A\/B testing and RCTs \u2014 and for each failure mode, we examine recent methodological advances designed for these settings. Topics include experiment design under interference, recommendation systems and their downstream effects, human compliance and discretion in algorithmic decision-making, and the operational realities of deploying algorithms at scale. The course closes by applying this analytical lens to large language models, examining whether the same failure modes arise, and whether the same advances apply, as AI interventions scale across social systems. The class will draw on recent theory and methodological work in causal inference, operations research, and human-algorithm interaction to prepare students for research at this frontier.\n  \nThis course is targeted at mathematically mature PhD students in operations research, statistics, computer science, economics, business, or quantitative fields interested in the intersection of algorithms and human behavior.",
+    "instructor":"Hannah Q Li",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17856",
+    "campus":null,
+    "class_id":"B9157-20263-001",
+    "course_subtitle":"Algorithms for Social Sys",
+    "department":"Decision, Risk and Operations",
+    "department_code":"DROM",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/DROM\/B9157-20263-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Business"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263DROM9157B001",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"DR__ N01P_",
     "course_title":"DERMATOLOGY:CONSULT",
     "course_descr":null,
@@ -122103,7 +122130,7 @@
   {
     "course_code":"LAW_ L6423",
     "course_title":"SECURITIES REGULATION",
-    "course_descr":null,
+    "course_descr":"Prerequisites: L6231 This is a Law School course. For more detailed course information, please go to the Law School Curriculum Guide at: http:\/\/www.law.columbia.edu\/courses\/search",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -122119,7 +122146,9 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "L6231"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20263LAW_6423L001",
@@ -122128,7 +122157,7 @@
   {
     "course_code":"LAW_ L6423",
     "course_title":"SECURITIES REGULATION",
-    "course_descr":null,
+    "course_descr":"Prerequisites: L6231 This is a Law School course. For more detailed course information, please go to the Law School Curriculum Guide at: http:\/\/www.law.columbia.edu\/courses\/search",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -122144,7 +122173,9 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "L6231"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20263LAW_6423L002",
@@ -122278,7 +122309,7 @@
   {
     "course_code":"LAW_ L6488",
     "course_title":"The Regulation of International Trade: O",
-    "course_descr":null,
+    "course_descr":"N\/A",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -124953,7 +124984,7 @@
   {
     "course_code":"LAW_ L8115",
     "course_title":"SEM-NEGOTIATION WORKSHOP",
-    "course_descr":null,
+    "course_descr":"This is a Law School course. For more detailed course information, please go to the Law School Curriculum Guide at: http:\/\/www.law.columbia.edu\/courses\/search",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -124978,7 +125009,7 @@
   {
     "course_code":"LAW_ L8115",
     "course_title":"SEM-NEGOTIATION WORKSHOP",
-    "course_descr":null,
+    "course_descr":"This is a Law School course. For more detailed course information, please go to the Law School Curriculum Guide at: http:\/\/www.law.columbia.edu\/courses\/search",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -125278,7 +125309,7 @@
   {
     "course_code":"LAW_ L8295",
     "course_title":"S. Sovereignty, Rule of Law and Human Ri",
-    "course_descr":null,
+    "course_descr":"N\/A",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -125353,7 +125384,7 @@
   {
     "course_code":"LAW_ L8346",
     "course_title":"S. National Security, International Trad",
-    "course_descr":null,
+    "course_descr":"N\/A",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -125378,7 +125409,7 @@
   {
     "course_code":"LAW_ L8373",
     "course_title":"S TAX DEALS WORKSHOP",
-    "course_descr":null,
+    "course_descr":"This is a Law School course. For more detailed course information, please go to the Law School Curriculum Guide at: http:\/\/www.law.columbia.edu\/courses\/search",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -125678,7 +125709,7 @@
   {
     "course_code":"LAW_ L8609",
     "course_title":"S. Sports Corruption, Discrimination, an",
-    "course_descr":null,
+    "course_descr":"N\/A",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -126228,7 +126259,7 @@
   {
     "course_code":"LAW_ L9165",
     "course_title":"S TRANSITIONAL JUSTICE",
-    "course_descr":null,
+    "course_descr":"This is a Law School course. For more detailed course information, please go to the Law School Curriculum Guide at: http:\/\/www.law.columbia.edu\/courses\/search",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -126503,7 +126534,7 @@
   {
     "course_code":"LAW_ L9233",
     "course_title":"HUMAN RIGHTS CLINIC",
-    "course_descr":null,
+    "course_descr":"See CLS curriculum guide.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -126528,7 +126559,7 @@
   {
     "course_code":"LAW_ L9233",
     "course_title":"HUMAN RIGHTS CLINIC",
-    "course_descr":null,
+    "course_descr":"See CLS curriculum guide.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -127103,7 +127134,7 @@
   {
     "course_code":"LAW_ L9303",
     "course_title":"S STRATEGIC INT'L COMM'L TRANS",
-    "course_descr":null,
+    "course_descr":"This is a Law School course. For more detailed course information, please go to the Law School Curriculum Guide at: http:\/\/www.law.columbia.edu\/courses\/search",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -164321,7 +164352,7 @@
     "course_code":"PLAN A4577",
     "course_title":"GEOGRAPHICAL INFO SYS",
     "course_descr":null,
-    "instructor":"Jonathan Stiles",
+    "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"10722",
@@ -164348,7 +164379,7 @@
     "course_code":"PLAN A4577",
     "course_title":"GEOGRAPHICAL INFO SYS",
     "course_descr":null,
-    "instructor":"Jonathan Stiles",
+    "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"10723",
@@ -188634,6 +188665,31 @@
     "type":"LABORATORY"
   },
   {
+    "course_code":"SOCW T0008",
+    "course_title":"MOTIVATIONAL INTERVIEWING LAB",
+    "course_descr":"The skills-based lab is a 7-week \u201chands-on\u201d training for all students enrolled in Foundation Year Field. The aim of the lab is to equip social work students with universal engagement and communication skills to support both professional development in the field and personal growth. The lab is designed to be highly interactive, with a strong emphasis on \u201cexperiential learning\u201d through role\/real play and ongoing feedback. The lab is led by certified skills-based lab instructors, who serve as facilitators in the process of student learning and practice.",
+    "instructor":"Felecia S Farrell",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17854",
+    "campus":null,
+    "class_id":"T0008-20263-Z62",
+    "course_subtitle":"MOTIVATIONAL INTERVIEWING",
+    "department":"Social Work",
+    "department_code":"SOCW",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SOCW\/T0008-20263-Z62\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263SOCW0008TZ62",
+    "type":"LABORATORY"
+  },
+  {
     "course_code":"SOCW T0014",
     "course_title":"FALL ORIENTATION",
     "course_descr":null,
@@ -190483,6 +190539,56 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"SOCW T6801",
+    "course_title":"SOCIAL WELFARE POLICY",
+    "course_descr":null,
+    "instructor":"Peter Maugeri",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17853",
+    "campus":null,
+    "class_id":"T6801-20263-D25",
+    "course_subtitle":null,
+    "department":"Social Work",
+    "department_code":"SOCW",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SOCW\/T6801-20263-D25\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263SOCW6801TD25",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"SOCW T6801",
+    "course_title":"SOCIAL WELFARE POLICY",
+    "course_descr":null,
+    "instructor":"Monica A Joseph",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17857",
+    "campus":null,
+    "class_id":"T6801-20263-010",
+    "course_subtitle":null,
+    "department":"Social Work",
+    "department_code":"SOCW",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SOCW\/T6801-20263-010\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263SOCW6801T010",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"SOCW T6910",
     "course_title":"THE HEALTH CARE SYSTEM",
     "course_descr":"This course takes a problem-identification and problem-solving approach to the delivery of social work services in health, mental health, and disabilities, with content about the social policies and organizational structures that characterize our current healthcare system.",
@@ -192161,6 +192267,31 @@
     ],
     "scheduled_days":null,
     "section_key":"20263SOCW7113T099",
+    "type":"PRACTICA"
+  },
+  {
+    "course_code":"SOCW T7113",
+    "course_title":"ADVANCED CLINICAL PRACTICE",
+    "course_descr":null,
+    "instructor":"Helaine C Ciporen",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17855",
+    "campus":null,
+    "class_id":"T7113-20263-010",
+    "course_subtitle":"ADVANCED CLINICAL PRACTIC",
+    "department":"Social Work",
+    "department_code":"SOCW",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SOCW\/T7113-20263-010\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263SOCW7113T010",
     "type":"PRACTICA"
   },
   {
@@ -208797,33 +208928,6 @@
     ],
     "scheduled_days":null,
     "section_key":"20263TPIN7018U001",
-    "type":"SEMINAR"
-  },
-  {
-    "course_code":"TPIN IA7040",
-    "course_title":"Digital Service Delivery for Leaders and",
-    "course_descr":"Radically different approaches to digital government are being pursued across the world, from Elon Musk\u2019s \u201cDepartment of Government Efficiency\u201d (DOGE) to the UK\u2019s Government Digital Service. But one thing remains true: most public institutions are struggling to keep pace with technological change. This challenge is creating a crisis of confidence in large institutions and hampering the implementation of policies we need to move our world forward.\u00a0\n  \nThis course will study these varied approaches to digital government while equipping the next generation of leaders and public policy officials with tools to reform our institutions and deliver policy and digital services that improve outcomes, increase program efficiency, and delight the people that have to use them in the process.\n  \nNo tech background? No problem. We will cover the fundamentals of digital service design and unpack important concepts like agile development, user-centered design, and iterative testing and learn how to incorporate them into policy work.",
-    "instructor":"Haley Van Dyck",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
-    "call_number":"16988",
-    "campus":null,
-    "class_id":"U7040-20263-001",
-    "course_subtitle":"Digital Service for Polic",
-    "department":"Tech Policy and Innovation",
-    "department_code":"TPIN",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/TPIN\/U7040-20263-001\/",
-    "location":null,
-    "method_of_instruction":"In-Person",
-    "open_to":[
-      "SIPA"
-    ],
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":null,
-    "section_key":"20263TPIN7040U001",
     "type":"SEMINAR"
   },
   {
