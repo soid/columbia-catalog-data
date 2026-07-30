@@ -41679,7 +41679,8 @@
     "location":null,
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Engineering:Graduate"
+      "Engineering:Graduate",
+      "Professional Studies"
     ],
     "points":"3",
     "prerequisites":[
@@ -41765,7 +41766,8 @@
     "open_to":[
       "Engineering:Graduate",
       "Engineering:Undergraduate",
-      "Law"
+      "Law",
+      "Professional Studies"
     ],
     "points":"3",
     "prerequisites":[
@@ -167412,7 +167414,7 @@
     "call_number":"12180",
     "campus":null,
     "class_id":"K5995-20263-D01",
-    "course_subtitle":"Internship In POAN",
+    "course_subtitle":"Internship in Industry -",
     "department":"Political Analytics",
     "department_code":"POAN",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/POAN\/K5995-20263-D01\/",
@@ -209278,6 +209280,33 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"TMGT PS5121",
+    "course_title":"Technology for Good and Civic Technology",
+    "course_descr":"This course equips the next generation of technologists with the skills, strategies, and savvy needed to secure systemic and lasting change for social good. These topics are examined in three units: 1. Intrapreneurship: how to guide responsible technology within and by multinationals and other large-scale, risk-averse institutions; 2. Entrepreneurship & Nonprofits: how to balance market pressures with values-based missions within startups, nonprofits, and other social-good tech enterprises; and 3. Civic Tech: how to navigate policy, politics, and bureaucracies in delivering citizen-facing technologies within local, regional, and national government bodies.",
+    "instructor":"Alexis Wichowski",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"12459",
+    "campus":null,
+    "class_id":"K5121-20263-001",
+    "course_subtitle":"Tech for Good and Civic T",
+    "department":"Technology Management",
+    "department_code":"TMGT",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/TMGT\/K5121-20263-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263TMGT5121K001",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"TMGT PS5126",
     "course_title":"Strategic Advocacy",
     "course_descr":"Today, leaders must confront a world of volatility, uncertainty, complexity, and ambiguity. It demands that we strengthen how we lead change. We are all being stretched to learn, unlearn, relearn, and this is especially true for technology leaders \u2013 who operate in the \u2018eye of the storm\u2019 of relentless change.\u00a0\n \n In this context, strategic advocacy -- achieving support for change to address the challenges that confront an organization and the opportunities they provide \u2013 requires knowing and applying useful skills, behavior, and practices to win commitment to new, even unanticipated directions.\n \n This is a full-semester core course in the MS in Technology Management executive program designed to expose students to practices, tools, frameworks, concepts, and real-world examples that will help you move from a technical\/functional role to a senior executive orientation. Everyone\u2019s journey is unique. As you apply the course content in real life you will be expected to choose, experiment with, and adapt the relevant approaches most meaningful to your situation.",
@@ -209929,7 +209958,7 @@
     "course_code":"TMGT PS6402",
     "course_title":"Technology Management Capstone",
     "course_descr":"The TMGT Capstone serves as the culmination of the M.S. in Technology Management program journey. In this course, students will apply the learnings from the entire program to solve a real-world challenge that an organization is facing with a technology solution.",
-    "instructor":null,
+    "instructor":"Alexis Wichowski",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"12424",
