@@ -12119,33 +12119,6 @@
     "type":"LECTURE"
   },
   {
-    "course_code":"APAN PS5530",
-    "course_title":"ANALYTICS FOR BUSINESS OPERATIONS MANAGE",
-    "course_descr":"Operations Management (OM) is responsible for the efficient production and delivery of goods and services, serving as a cornerstone of successful organizations. This course emphasizes how analytical techniques, such as forecasting, queuing theory, and linear programming, provide critical tools for optimizing operational decision-making, improving efficiency, and addressing real-world challenges in operations management. In this course, you will gain essential skills to optimize processes, manage resources, and enhance productivity across various industries. The course will be delivered through a combination of interactive lectures, case studies, and hands-on coding exercises to ensure a balance between conceptual learning and practical application.\n  \nThrough lectures, you will gain a solid foundation in OM principles and analytical techniques. Case studies will help illustrate real-world applications of OM in industries such as manufacturing, healthcare, retail, and logistics, allowing you to see how the concepts are applied in diverse contexts. This course will integrate the principles of OM with hands-on analytical techniques using Python, allowing you to model and solve real-world OM problems. You will learn to run simulations, perform optimizations, and analyze data to make data-driven decisions that enhance efficiency and overall performance.\n  \nOM practices are tailored to meet the specific needs of various sectors. In manufacturing, OM helps streamline production lines and minimize waste; in healthcare, it enhances patient flow and optimizes resource allocation; in retail, it improves inventory management and supply chain operations; and in logistics, it ensures timely deliveries while reducing transportation costs. This course will equip you with the skills to apply OM practices effectively in different industries.\n  \nAnalytics for Business Operations Management is an elective that is intended for students who are interested in pursuing a career using analytics and operational insights to drive organizational success in a competitive global marketplace across various industries.",
-    "instructor":"Arash Khatibi",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
-    "call_number":"15640",
-    "campus":null,
-    "class_id":"K5530-20263-002",
-    "course_subtitle":"ANALYTICS FOR BUSINESS OP",
-    "department":"Applied Analytics",
-    "department_code":"APAN",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/APAN\/K5530-20263-002\/",
-    "location":null,
-    "method_of_instruction":"In-Person",
-    "open_to":[
-      "Professional Studies"
-    ],
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":null,
-    "section_key":"20263APAN5530K002",
-    "type":"LECTURE"
-  },
-  {
     "course_code":"APAN PS5540",
     "course_title":"FINANCIAL SEC ANALYSIS AND PORTFOLIO MGT",
     "course_descr":"Financial securities analysis and portfolio management is the study of analyzing information to evaluate financial securities and design investment strategies. Studying the subject can provide a foundation for students entering the fields of investment analysis or portfolio management. This course provides an intensive introduction to major topics in investments. Part I of the course lays the theoretical foundation by introducing the Portfolio Theory and Equilibrium Asset Pricing models. Part II covers the valuation models and analysis of major asset classes: equity, fixed-income, and derivatives. Topics include bond valuation and interest rate models, equity valuation and financial statement analysis, options valuation, other derivatives, and risk management. Part III of the course focuses on the practice of active portfolio management.",
@@ -34544,42 +34517,6 @@
     "type":"RECITATION"
   },
   {
-    "course_code":"CHEM UN1405",
-    "course_title":"GENERAL CHEMISTRY I - REC",
-    "course_descr":"Corequisites: CHEM UN1403 Recitation section for Chemistry UN1403GENERAL CHEMISTRY I-LECTURESTO BE ENROLLED IN 1403, YOU MUST REGISTER. FOR 1405",
-    "instructor":"Gerard F Parkin",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
-    "call_number":"11155",
-    "campus":null,
-    "class_id":"W1405-20263-014",
-    "course_subtitle":null,
-    "department":"Chemistry",
-    "department_code":"CHEM",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CHEM\/W1405-20263-014\/",
-    "location":null,
-    "method_of_instruction":"In-Person",
-    "open_to":[
-      "Barnard College",
-      "Columbia College",
-      "Engineering:Undergraduate",
-      "General Studies",
-      "Global Programs",
-      "Professional Studies",
-      "Schools of the Arts"
-    ],
-    "points":"0",
-    "prerequisites":[
-      [
-        "CHEM UN1403",
-        "UN1403"
-      ]
-    ],
-    "scheduled_days":null,
-    "section_key":"20263CHEM1405W014",
-    "type":"RECITATION"
-  },
-  {
     "course_code":"CHEM UN1406",
     "course_title":"GENERAL CHEMISTRY II-REC",
     "course_descr":"Corequisites: CHEM UN1404 Required section for UN1404 section 1 GENERAL CHEMISTRY II-LECTURES TO BE ENROLLED IN 1404 SEC 1, YOU MUST REG FOR 1406 RECITATION",
@@ -50980,6 +50917,38 @@
     ],
     "scheduled_days":null,
     "section_key":"20263COMS4731W001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"COMS W4731",
+    "course_title":"Computer Vision I: First Principles",
+    "course_descr":"Introductory course in computer vision. Topics include image formation and optics, image sensing, binary images, image processing and filtering, edge extraction and boundary detection, region growing and segmentation, pattern classification methods, brightness and reflectance, shape from shading and photometric stereo, texture, binocular stereo, optical flow and motion, 2D and 3D object representation, object recognition, vision systems and applications.",
+    "instructor":"Shree K Nayar",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17955",
+    "campus":null,
+    "class_id":"W4731-20263-002",
+    "course_subtitle":"Computer Vision I",
+    "department":"Computer Science",
+    "department_code":"COMS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMS\/W4731-20263-002\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "Engineering:Graduate",
+      "Engineering:Undergraduate",
+      "GSAS",
+      "General Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263COMS4731W002",
     "type":"LECTURE"
   },
   {
@@ -101755,7 +101724,7 @@
     "call_number":"17079",
     "campus":null,
     "class_id":"U7275-20263-001",
-    "course_subtitle":"Transnational LGBTI Right",
+    "course_subtitle":"Transnational LGBTQI+ Rig",
     "department":"Human Rights, Gender, and Equity",
     "department_code":"HRGE",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/HRGE\/U7275-20263-001\/",
@@ -113836,6 +113805,60 @@
     ],
     "scheduled_days":null,
     "section_key":"20263IFEP7600U002",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"IFEP IA7600",
+    "course_title":"International Finance & Monetary Theory",
+    "course_descr":"This is a theory and applications course in international macroeconomics and finance. It provides students with the basic tools to analyze real-life macroeconomic, policy, and financial market situations. The class is suitable for those interested in working at domestic or international policy institutions, in diplomatic service, the financial sector, or the media. Lectures are fairly rigorous, though if the student has some first-year economics, knows basic algebra and graphs, they will handle the material fairly easily. While theory is central, policy and market relevance is emphasized through: i) discussions on topical issues; ii) study of key historical and current episodes to illustrate ideas; iii) relevant pieces of policy\/media\/finance sector analysis. In terms of topics, part one will develop analytic frameworks to understand exchange rates in terms of short- and long-term determinants. Part two explores the balance of payments and the interaction between the macroeconomic policy, the exchange rate, and macroeconomic outcomes. Then part three will cover various advanced topics such as the choice of exchange rate regime, the euro, currency crashes, and default.",
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17951",
+    "campus":null,
+    "class_id":"U7600-20263-R01",
+    "course_subtitle":"Intl Finance & Monetary T",
+    "department":"International Finance & Economic Policy",
+    "department_code":"IFEP",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/IFEP\/U7600-20263-R01\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263IFEP7600UR01",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"IFEP IA7600",
+    "course_title":"International Finance & Monetary Theory",
+    "course_descr":"This is a theory and applications course in international macroeconomics and finance. It provides students with the basic tools to analyze real-life macroeconomic, policy, and financial market situations. The class is suitable for those interested in working at domestic or international policy institutions, in diplomatic service, the financial sector, or the media. Lectures are fairly rigorous, though if the student has some first-year economics, knows basic algebra and graphs, they will handle the material fairly easily. While theory is central, policy and market relevance is emphasized through: i) discussions on topical issues; ii) study of key historical and current episodes to illustrate ideas; iii) relevant pieces of policy\/media\/finance sector analysis. In terms of topics, part one will develop analytic frameworks to understand exchange rates in terms of short- and long-term determinants. Part two explores the balance of payments and the interaction between the macroeconomic policy, the exchange rate, and macroeconomic outcomes. Then part three will cover various advanced topics such as the choice of exchange rate regime, the euro, currency crashes, and default.",
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17952",
+    "campus":null,
+    "class_id":"U7600-20263-R02",
+    "course_subtitle":"Intl Finance & Monetary T",
+    "department":"International Finance & Economic Policy",
+    "department_code":"IFEP",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/IFEP\/U7600-20263-R02\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263IFEP7600UR02",
     "type":"LECTURE"
   },
   {
@@ -195025,9 +195048,7 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SOCW\/T8002-20263-001\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":[
-      "Social Work"
-    ],
+    "open_to":null,
     "points":"0",
     "prerequisites":[
 
@@ -204332,7 +204353,7 @@
     "course_code":"SUMA PS5040",
     "course_title":"ESG ALIGNED CORPORATE GOVERNANCE",
     "course_descr":"Environmental, social and governance issues (\u2018ESG\u2019) are moving to center stage for corporate boards and executive teams.\u00a0 This elective course complements management and operations courses by focusing on the perspective and roles of the board and C-suite of corporations, financial institutions and professional firms in addressing ESG risks as well as promoting and overseeing governance aligned with ESG principles. The course focuses on the interchange between the external legal, competitive, societal, environmental and policy \u2018ecosystems\u2019 corporations face (which vary around the world) and a company\u2019s internal structure, operations and pressures. We will use the United Nations Guiding Principles on Business and Human Rights and the UN Global Compact Principles (which incorporate all aspects of ESG) as the central frameworks to explore the concept of a corporation\u2019s responsibility to respect and remedy human rights and environmental harms.\u00a0 We will also examine the Equator Principles and other frameworks that spell out good practices for project finance and other investment decisions, and reference a wide range of the myriad indices, supplier disclosure portals and benchmarks that exist in this inter-disciplinary field.\u00a0 Relevant regulations, corporate law regimes and court cases will be discussed from the point of view of what business managers need to know. While most of the course will deal with companies and firms serving global, regional or national markets, several examples will deal with the question of how the ESG ecosystem affects or offers opportunities to start-ups.",
-    "instructor":"Bridget C Murphy",
+    "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"12655",
@@ -205084,7 +205105,7 @@
     "course_code":"SUMA PS5230",
     "course_title":"THE EARTH'S CLIMATE SYSTEM",
     "course_descr":"This class provides a broad, quantitative introduction to the science underlying our understanding of the Earth\u2019s climate system. Students will first learn the basic, fundamental concepts of energy transfer, the greenhouse effect, and general circulation in the climate system. We will then build on these ideas to explore more specialized topics, including climate variability now and in the past, the signs of climate change, climate models, extreme events, and projections of future climate. Lectures and slides will draw from the scientific literature, as well as the latest IPCC Assessment Report (AR6).\u00a0 By the end, students will have a working knowledge of the climate system, giving them the knowledge and skills to evaluate statements and claims in the media and from their peers. Limited math (basic algebra) will be necessary for some of the assignments. All lectures will be recorded, and all slide decks will be uploaded to Courseworks after class.",
-    "instructor":null,
+    "instructor":"Casey Ivanovich",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"12698",
@@ -205475,7 +205496,7 @@
     "course_code":"SUMA PS5720",
     "course_title":"POLICY AND LEGAL CONTEXT FOR SUSTAINABIL",
     "course_descr":null,
-    "instructor":null,
+    "instructor":"Patrick Foster",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"14804",
@@ -209985,7 +210006,7 @@
     "course_code":"TMGT PS6402",
     "course_title":"Technology Management Capstone",
     "course_descr":"The TMGT Capstone serves as the culmination of the M.S. in Technology Management program journey. In this course, students will apply the learnings from the entire program to solve a real-world challenge that an organization is facing with a technology solution.",
-    "instructor":null,
+    "instructor":"Raj Pannu",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"12425",
@@ -210388,7 +210409,7 @@
     "course_code":"TPIN IA7212",
     "course_title":"Civic Innovation: Design in Practice & I",
     "course_descr":"This course explores how human-centered design and innovation methods are used to drive public-sector change. Students will learn how to apply design tools to complex policy and service delivery challenges while also engaging with the ethical, philosophical, and institutional questions that shape civic innovation work. Weekly sessions follow the full arc of a design-based innovation project, from scoping and research to prototyping and implementation, paired with critical themes such as power, embodiment, ethics, and systems change.\n  \nStudents will practice design methodologies, develop speculative future policy proposals, and refine storytelling skills for public impact. The course culminates in a PechaKucha presentation reflecting personal insights into innovation practice.",
-    "instructor":null,
+    "instructor":"Chelsea Mauldin",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"16990",

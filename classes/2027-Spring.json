@@ -4981,56 +4981,6 @@
     "type":"LECTURE"
   },
   {
-    "course_code":"COMS BC3420",
-    "course_title":"PRIVACY IN A NETWORKED WORLD",
-    "course_descr":"The ubiquity of computers and networks in business, government, recreation, and almost all aspects of daily life has led to a proliferation of online sensitive data: data that, if used improperly, can harm the data subjects. As a result, concern about the use, ownership, control, privacy, and accuracy of these data has become a top priority. This seminar course focuses on both the technical challenges of handling sensitive data, the privacy implications of various technologies, and the policy and legal issues facing data subjects, data owners, and data users.",
-    "instructor":"Lucy Simko",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
-    "call_number":"00801",
-    "campus":null,
-    "class_id":"X3420-20271-001",
-    "course_subtitle":"PRIVACY IN A NETWORKED WO",
-    "department":"Computer Science @Barnard",
-    "department_code":"COMS",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMS\/X3420-20271-001\/",
-    "location":null,
-    "method_of_instruction":null,
-    "open_to":null,
-    "points":"4",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":null,
-    "section_key":"20271COMS3420X001",
-    "type":"SEMINAR"
-  },
-  {
-    "course_code":"COMS BC3423",
-    "course_title":"MISINFORMATION, JUSTICE & DESIGN",
-    "course_descr":"In this course, we work together to understand and address the challenges of misinformation, disinformation, and strategic manipulation in online environments. Students develop a deep understanding of the problem space from an information and social justice perspective by reading and discussing research\u2014both historical and contemporary\u2014on how and why misinformation and disinformation spread. Alongside this, we explore the process, both personal and interpersonal, by which these issues can be approached and addressed in our own lives. This will involve reflecting on our own presuppositions, beliefs, and biases about information; and doing a project in which we apply the principles of Human-Centered Design to investigate different design directions for addressing misleading information. Through this, students gain important contextual knowledge and hands-on design experience that they can take into future professional domains (from education to policy to technology), where they can contribute to building more trustworthy information systems.",
-    "instructor":"Ahmer Arif",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
-    "call_number":"00804",
-    "campus":null,
-    "class_id":"X3423-20271-001",
-    "course_subtitle":"MISINFO, JUSTICE & DESIGN",
-    "department":"Computer Science @Barnard",
-    "department_code":"COMS",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMS\/X3423-20271-001\/",
-    "location":null,
-    "method_of_instruction":null,
-    "open_to":null,
-    "points":"4",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":null,
-    "section_key":"20271COMS3423X001",
-    "type":"SEMINAR"
-  },
-  {
     "course_code":"COMS BC3430",
     "course_title":"Computational Sound",
     "course_descr":"In this course, we explore the variety of roles that computation can play in the analysis, creation, and performance of music. We start with the fundamentals of sound in the digital domain, covering issues of representation and audio synthesis. We then move through various synthesis techniques including the additive, subtractive, frequency modulation (FM), and amplitude modulation (AM) synthesis. After covering some core DSP techniques, we put these concepts into performative practice by exploring \u201clive coding\u201d. In the space of live coding, we examine various programming language designs to understand how various domain specific languages (DSLs) support live coding. For the third module, we turn our focus to automated composition and analysis, addressing challenges in music information retrieval, generative art, and autonomous improvisation systems. All the while, we continue to develop our fluency in live coding by putting new topics to practice.",
@@ -5082,6 +5032,31 @@
     ],
     "scheduled_days":null,
     "section_key":"20271COMS3707X001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"COMS BC3892",
+    "course_title":"SENIOR THESIS SEMINAR",
+    "course_descr":null,
+    "instructor":"Tiffany Tseng",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"00894",
+    "campus":null,
+    "class_id":"X3892-20271-001",
+    "course_subtitle":null,
+    "department":"Computer Science @Barnard",
+    "department_code":"COMS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMS\/X3892-20271-001\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271COMS3892X001",
     "type":"SEMINAR"
   },
   {
