@@ -2322,31 +2322,6 @@
     "type":"LECTURE"
   },
   {
-    "course_code":"BIOL BC3110",
-    "course_title":"MICROBIOLOGY",
-    "course_descr":null,
-    "instructor":"Stephen L Sturley",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
-    "call_number":"00809",
-    "campus":null,
-    "class_id":"X3110-20271-001",
-    "course_subtitle":null,
-    "department":"Biological Sciences @Barnard",
-    "department_code":"BIOL",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/BIOL\/X3110-20271-001\/",
-    "location":null,
-    "method_of_instruction":null,
-    "open_to":null,
-    "points":"5",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":null,
-    "section_key":"20271BIOL3110X001",
-    "type":"LECTURE"
-  },
-  {
     "course_code":"BIOL BC3141",
     "course_title":"Advanced R in Biology",
     "course_descr":"This course serves as a continuation of BIOL2500 R for Scientists. The course will meet weekly. Students will explore a range of methods and resources used by contemporary computational biologists. These include advanced statistical modeling approaches, manipulating genomic and spatial data, and working in R outside of the RStudio environment (including git, bash, Shiny and high-performance computing). Students will have opportunities to explore diverse biological and statistical R packages in the context of homework assignments, and will analyze a dataset of their own choosing for a semester project.",
@@ -2397,6 +2372,31 @@
     "scheduled_days":null,
     "section_key":"20271BIOL3272X001",
     "type":"LABORATORY"
+  },
+  {
+    "course_code":"BIOL BC3320",
+    "course_title":"MICROBIOLOGY",
+    "course_descr":null,
+    "instructor":"Stephen L Sturley",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"00895",
+    "campus":null,
+    "class_id":"X3320-20271-001",
+    "course_subtitle":null,
+    "department":"Biological Sciences @Barnard",
+    "department_code":"BIOL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/BIOL\/X3320-20271-001\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271BIOL3320X001",
+    "type":"LECTURE"
   },
   {
     "course_code":"BIOL BC3322",
@@ -5037,7 +5037,7 @@
   {
     "course_code":"COMS BC3892",
     "course_title":"SENIOR THESIS SEMINAR",
-    "course_descr":null,
+    "course_descr":"Computer Science majors at Barnard can choose to pursue a year-long senior research thesis for their senior experience. A senior thesis is intended to be a substantial piece of work in which the student engages in independent and original research. They should register for two semesters of research projects in CS through their faculty advisor\u2019s home department (Barnard or Columbia), each for at least 3 credits (one in Fall and one in the Spring). They should additionally register for this course. The main goal is to provide students with a venue to discuss their senior thesis projects with each other. In the seminar, students learn how to communicate and present their work. They also become more familiar with other students\u2019 areas of research and other types of research projects that fall under the umbrella of computer science. The seminar sometimes also features guest speakers in various areas of CS; students participate and engage in discussion with the speaker, further developing their research communication skills. The instructor of this course functions as a secondary advisor for the students\u2019 projects. At the end of the academic year, the students present their projects to the CS community at Barnard.",
     "instructor":"Tiffany Tseng",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
