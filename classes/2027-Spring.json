@@ -2376,7 +2376,7 @@
   {
     "course_code":"BIOL BC3320",
     "course_title":"MICROBIOLOGY",
-    "course_descr":null,
+    "course_descr":"Prerequisites: BIOL BC1500, BIOL BC1501, BIOL BC1502, BIOL BC1503 or the equivalent, and BIOL BC2100. Survey of the diversity, cellular organization, physiology, and genetics of the major microbial groups. Also includes aspects of applied microbiology and biotechnology, the function of microorganisms in the environment, and the role of microbes in human diseases.",
     "instructor":"Stephen L Sturley",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -2392,7 +2392,21 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "BIOL BC1500"
+      ],
+      [
+        "BIOL BC1501"
+      ],
+      [
+        "BIOL BC1502"
+      ],
+      [
+        "BIOL BC1503"
+      ],
+      [
+        "BIOL BC2100"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20271BIOL3320X001",
