@@ -75014,6 +75014,60 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"ENGI E4000",
+    "course_title":"PROF DEVELOPMENT&LEADERSHIP",
+    "course_descr":"The PDL course aims to enhance and expand Columbia Engineering graduate students' interpersonal, professional, and leadership skills, through five core sessions, covering (1) in-person communication skills; (2) resume; (3) business writing; (4) social media and the job search; and (5) academic and professional ethics and integrity. ENGI E4000 also requires 5 elective sessions to further students' development based on their personal interests. Students must select at least one life management elective and one interview elective. This course is offered at the Pass\/D\/Fail grading option.",
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"18071",
+    "campus":null,
+    "class_id":"E4000-20263-017",
+    "course_subtitle":"PDL for MSAI",
+    "department":"Engineering",
+    "department_code":"ENGI",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGI\/E4000-20263-017\/",
+    "location":null,
+    "method_of_instruction":"Hybrid 20-79",
+    "open_to":[
+      "Engineering:Graduate"
+    ],
+    "points":"0",
+    "prerequisites":[
+      [
+        "ENGI E4000"
+      ]
+    ],
+    "scheduled_days":null,
+    "section_key":"20263ENGI4000E017",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGI E4502",
+    "course_title":"Design of UI\/UX for Connected Systems",
+    "course_descr":"Introduction to theory and practice of computer user interface design, emphasizes software design of user interfaces in websites, automobiles, IoT, etc. Topics include basic interaction devices and techniques, human factors, interaction styles, dialogue design, and software infrastructure. Design and programming projects are required.",
+    "instructor":"Hugh W Thomas",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"18070",
+    "campus":null,
+    "class_id":"E4502-20263-001",
+    "course_subtitle":"Design UI\/UX Connected Sy",
+    "department":"Engineering",
+    "department_code":"ENGI",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGI\/E4502-20263-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263ENGI4502E001",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"ENGI E4503",
     "course_title":"Analytics in Python",
     "course_descr":"Intended to build familiarity with using Python for ingesting, analyzing, visualizing, and interpreting data. Includes data ingesting techniques, using libraries (pandas and numpy), data analytics, machine learning (using SciKit-Learn), visualization, and big data analytics (Spark).",
