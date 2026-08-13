@@ -53747,7 +53747,7 @@
   {
     "course_code":"COMS W4733",
     "course_title":"COMPUTATIONAL ASPECTS OF ROBOTICS",
-    "course_descr":null,
+    "course_descr":"Introduction to fundamental problems and algorithms in robotics. Topics include configuration spaces, motion and sensor models, search and sampling-based planning, state estimation, localization and mapping, perception, and learning.",
     "instructor":"Tony B Dear",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -141791,31 +141791,6 @@
     "type":"LANGUAGE"
   },
   {
-    "course_code":"MDES GU4825",
-    "course_title":"Indo-Islamic Culture in Literature",
-    "course_descr":"This course will focus on the Indo-Islamic literary traditions in South Asia, and particularly in what is now India and Pakistan, focusing on Urdu literature from the nineteenth and twentieth centuries. The course will emphasize the rhetorical and performative history of poetic forms in the subcontinent (including the forms of the \nGhazal\n and \nNauha\n, among others) and will consider how classical poetic tropes continue to inform contemporary mass culture in India and Pakistan\u2014particularly in the song lyrics of Hindi\/Bollywood cinema. The course will also consider more contemporary prose genres of Urdu-language writing (in English translation), including the literature of the Partition and the works of contemporary authors such as Naiyer Masud and Saima Iram.\n  \nThrough a comparative study of texts in different genres and at different moments in history, students will consider questions such as: What aspects of contemporary literary culture in India and Pakistan can be traced to early establishment of Islamic culture in the region? How have the poetic conventions of Indo-Islamic poetry continued to resonate? How did the interaction of Hindu and Muslim literary, musical, visual, and religious cultures in the Mughal era help to generate the rich profusion of literature and music and cultural tolerance in this period?\n  \nMost of our readings in this course will Urdu literature in English translation. We will also, however, read some secondary sources in order to help us better understand the primary sources.",
-    "instructor":"Timsal Masud",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
-    "call_number":"10781",
-    "campus":null,
-    "class_id":"W4825-20263-001",
-    "course_subtitle":"Indo-Islamic Culture in L",
-    "department":"Middle Eastern, South Asian and African Studies",
-    "department_code":"MDES",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/MDES\/W4825-20263-001\/",
-    "location":null,
-    "method_of_instruction":"In-Person",
-    "open_to":null,
-    "points":"4",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":null,
-    "section_key":"20263MDES4825W001",
-    "type":"SEMINAR"
-  },
-  {
     "course_code":"MDES GU4910",
     "course_title":"ADVANCED TURKISH I",
     "course_descr":"Advanced Turkish I is designed to use authentic Turkish materials around projects that are chosen by the student in a research seminar format where students conduct their own research and share it in class in a friendly atmosphere. No P\/D\/F or R credit is allowed for this class.",
@@ -181329,7 +181304,7 @@
   {
     "course_code":"POLS UN2211",
     "course_title":"Introduction to American Politics Discus",
-    "course_descr":null,
+    "course_descr":"Discussion section",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -181354,7 +181329,7 @@
   {
     "course_code":"POLS UN2211",
     "course_title":"Introduction to American Politics Discus",
-    "course_descr":null,
+    "course_descr":"Discussion section",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -181728,7 +181703,7 @@
   {
     "course_code":"POLS UN2611",
     "course_title":"International Politics Discussion",
-    "course_descr":null,
+    "course_descr":"Discussion section for POLS UN2601",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -181744,7 +181719,9 @@
     "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "POLS UN2601"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20263POLS2611W013",
@@ -181753,7 +181730,7 @@
   {
     "course_code":"POLS UN2611",
     "course_title":"International Politics Discussion",
-    "course_descr":null,
+    "course_descr":"Discussion section for POLS UN2601",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -181769,7 +181746,9 @@
     "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "POLS UN2601"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20263POLS2611W014",
@@ -181778,7 +181757,7 @@
   {
     "course_code":"POLS UN2611",
     "course_title":"International Politics Discussion",
-    "course_descr":null,
+    "course_descr":"Discussion section for POLS UN2601",
     "instructor":"Jocelyn Wang",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -181794,7 +181773,9 @@
     "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "POLS UN2601"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20263POLS2611W015",
@@ -181803,7 +181784,7 @@
   {
     "course_code":"POLS UN2611",
     "course_title":"International Politics Discussion",
-    "course_descr":null,
+    "course_descr":"Discussion section for POLS UN2601",
     "instructor":"Jocelyn Wang",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -181819,7 +181800,9 @@
     "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "POLS UN2601"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20263POLS2611W016",
@@ -182383,7 +182366,7 @@
   {
     "course_code":"POLS UN3649",
     "course_title":"GOVERNING GLOBAL ECONOMY-DISC",
-    "course_descr":null,
+    "course_descr":"This is the required discussion section for POLS UN3648",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -182399,7 +182382,9 @@
     "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "POLS UN3648"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20263POLS3649W006",
@@ -182459,7 +182444,7 @@
     "course_code":"POLS UN3722",
     "course_title":"SCOPE AND METHODS - DISC",
     "course_descr":"This is the required discussion section for \nPOLS UN3720.",
-    "instructor":null,
+    "instructor":"Konstantinos Niakaros",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"14669",
@@ -182486,7 +182471,7 @@
     "course_code":"POLS UN3722",
     "course_title":"SCOPE AND METHODS - DISC",
     "course_descr":"This is the required discussion section for \nPOLS UN3720.",
-    "instructor":null,
+    "instructor":"Konstantinos Niakaros",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"15883",
@@ -182646,7 +182631,7 @@
     "course_code":"POLS UN3769",
     "course_title":"EXPERIMENTAL RESEARCH-DISC",
     "course_descr":"This is the required discussion section for POLS UN3768.",
-    "instructor":null,
+    "instructor":"Muzhi Liu",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"13327",
@@ -182667,6 +182652,31 @@
     ],
     "scheduled_days":null,
     "section_key":"20263POLS3769W001",
+    "type":"DISCUSSION"
+  },
+  {
+    "course_code":"POLS UN3769",
+    "course_title":"EXPERIMENTAL RESEARCH-DISC",
+    "course_descr":null,
+    "instructor":"Muzhi Liu",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"19747",
+    "campus":null,
+    "class_id":"W3769-20263-002",
+    "course_subtitle":"EXPERIMENTAL RESEARCH-DIS",
+    "department":"Political Science",
+    "department_code":"POLS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/POLS\/W3769-20263-002\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263POLS3769W002",
     "type":"DISCUSSION"
   },
   {
@@ -203863,7 +203873,9 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SOCW\/T6009-20263-Z41\/",
     "location":null,
     "method_of_instruction":"On-Line Only",
-    "open_to":null,
+    "open_to":[
+      "Social Work"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -222720,7 +222732,7 @@
     "course_code":"TIBT GU4710",
     "course_title":"ADVANCED LITERARY TIBETAN I",
     "course_descr":"This course develops greater proficiency in literary\/classical Tibetan, which is the formal language used in all Tibetan publications and foundational to regional dialects. Students engage with diverse genres of writing, including ancient Buddhist canonical and Tibetan historical works, to support their academic research.",
-    "instructor":null,
+    "instructor":"Sonam Tsering",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"15881",
