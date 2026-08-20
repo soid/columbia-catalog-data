@@ -5109,7 +5109,8 @@
       "Columbia College",
       "Engineering:Undergraduate",
       "GSAS",
-      "General Studies"
+      "General Studies",
+      "Journalism"
     ],
     "points":"4",
     "prerequisites":[
@@ -13318,6 +13319,33 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"APMA E4007",
+    "course_title":"APPLIED LINEAR ALGEBRA",
+    "course_descr":"Fundamentals of Linear Algebra including vector and Matrix algebra, solution of linear systems, existence and uniqueness, gaussian elimination, gauss-jordan elimination, the matrix inverse, elementary matrices and the LU factorization, computational cost of \u00a0solutions.\u00a0Vector spaces and subspaces, \u00a0linear independence, basis and dimension.\u00a0The 4 fundamental subspaces of a matrix.\u00a0Orthogonal projection onto a subspace and solution of Linear Least Squares problems, unitary matrices, inner products, \u00a0orthogonalization algorithms and the QR factorization, applications. Determinants and applications.\u00a0Eigen problems including diagonalization, symmetric matrices, positive-definite systems, eigen factorization and applications to dynamical systems and iterative maps.\u00a0Introduction to the singular value decomposition and its applications.",
+    "instructor":"Marc W Spiegelman",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"19917",
+    "campus":null,
+    "class_id":"E4007-20263-C01",
+    "course_subtitle":null,
+    "department":"Video Network",
+    "department_code":"APMA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/APMA\/E4007-20263-C01\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Engineering:Graduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263APMA4007EC01",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"APMA E4100",
     "course_title":"Applied Analysis",
     "course_descr":"Elementary introduction to fundamental concepts and techniques in classical analysis; applications of such techniques in different topics in applied mathematics. Brief review of essential concepts and techniques in elementary analysis; elementary properties of metric and normed spaces; completeness, compactness, and their consequences; continuous functions and their properties; Contracting Mapping Theorem and its applications; elementary properties of Hilbert and Banach spaces; bounded linear operators in Hilbert spaces; Fourier series and their applications.",
@@ -20947,6 +20975,31 @@
     "type":"INDEPENDENT"
   },
   {
+    "course_code":"BINF GR5006",
+    "course_title":"Fieldwork: Bridging Theory and Practice",
+    "course_descr":"The Fieldwork: Bridging Theory and Practice elective is designed to provide students with the opportunity to integrate theoretical knowledge gained in their academic program with hands-on, real-world experience. This elective aims to enhance students' practical skills, professionalism, and industry readiness.\n  \nMA students are eligible to register for this course up to 3 times after completing 2 full semesters of courses\u00a0\n  \n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Full time (40 hours per week) in the Summer (after completing 2 full semesters) and part-time (up to 20h per week) in Fall and Spring (also after completing 2 full semesters)\n  \n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a0This course can only be taken as part of degree requirements. Students who have already completed all the degree requirements (required courses and 30 credits) are not eligible\n  \n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 o\u00a0\u00a0 \u00a0Students who wish to take it in the Spring of their 2nd\u00a0year, need to make sure they still have course\/credits that need to be completed in the same semester\n  \n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a0Students cannot take the fieldwork course pass\/fail and must receive a standard letter grade.",
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"19904",
+    "campus":null,
+    "class_id":"G5006-20263-001",
+    "course_subtitle":"Fieldwork",
+    "department":"Biomedical Informatics",
+    "department_code":"BINF",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/BINF\/G5006-20263-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"1-12",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263BINF5006G001",
+    "type":"FIELD WORK"
+  },
+  {
     "course_code":"BINF GU4001",
     "course_title":"Introduction to Computational Biomedicin",
     "course_descr":"This course offers a comprehensive introduction to the core computational methods driving modern biomedical research and health data science. As biological and clinical datasets grow in scale and complexity\u2014from genomic sequences and molecular profiles to electronic health records (EHRs) and consumer health data\u2014this course equips students with the essential computational foundations to model, analyze, and interpret high-dimensional biomedical data.\n  \nOrganized around key algorithmic challenges spanning Clinical Informatics, Consumer Health Informatics, and Bioinformatics, the course focuses on the design and application of algorithms and statistical models to solve real-world biomedical problems. Lectures emphasize practical techniques and showcase their use across diverse biomedical data types.\n  \nDesigned for advanced undergraduates and graduate students in biomedical informatics, computer science, biomedical engineering, applied mathematics, and related fields, this course builds a rigorous understanding of computational biomedicine. It serves as a core requirement for the Biomedical Informatics PhD and master\u2019s programs and is cross-listed with Computer Science. Students interested in careers in bioinformatics, health data science, computational biology, or biomedical AI will find this course especially valuable.\n  \nAs biomedical data continue to expand in size, diversity, and impact, this course provides a critical foundation in the algorithmic, statistical, and computational tools needed to advance the future of research at the intersection of computation and human health.",
@@ -24637,34 +24690,6 @@
     ],
     "scheduled_days":null,
     "section_key":"20263BIST8110P001",
-    "type":"LECTURE"
-  },
-  {
-    "course_code":"BIST P8116",
-    "course_title":"Design of Medical Experiments",
-    "course_descr":"This course covers the fundamental principles and techniques of experimental designs in clinical studies.  This is a required course for MS, DrPH and Ph.D. in Biostatistics. Topics include reliability of measurement, linear regression analysis, parallel groups design, analysis of variance (ANOVA), multiple comparison, blocking, stratification, analysis of covariance (ANCOVA), repeated measures studies; Latin squares design, crossover study, randomized incomplete block design, and factorial design.",
-    "instructor":"Helen Li",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
-    "call_number":"15064",
-    "campus":null,
-    "class_id":"P8116-20263-001",
-    "course_subtitle":"DESIGN OF MEDICAL EXPERIM",
-    "department":"Biostatistics",
-    "department_code":"BIST",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/BIST\/P8116-20263-001\/",
-    "location":null,
-    "method_of_instruction":"In-Person",
-    "open_to":[
-      "GSAS",
-      "Public Health"
-    ],
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":null,
-    "section_key":"20263BIST8116P001",
     "type":"LECTURE"
   },
   {
@@ -43921,6 +43946,7 @@
     "location":null,
     "method_of_instruction":"In-Person",
     "open_to":[
+      "Engineering:Graduate",
       "GSAS"
     ],
     "points":"0",
@@ -65098,6 +65124,209 @@
     "type":"INDEPENDENT"
   },
   {
+    "course_code":"ECON GR5001",
+    "course_title":"MICROECONOMIC ANALYSIS I-DISC",
+    "course_descr":"Corequisites: ECON GR5211 Discussion Section for Economics MA Course Microeconomics Analysis I.",
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"19921",
+    "campus":null,
+    "class_id":"G5001-20263-001",
+    "course_subtitle":"MICROECONOMIC ANALYSIS I-",
+    "department":"Economics",
+    "department_code":"ECON",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ECON\/G5001-20263-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "GSAS"
+    ],
+    "points":"0",
+    "prerequisites":[
+      [
+        "ECON GR5211"
+      ]
+    ],
+    "scheduled_days":null,
+    "section_key":"20263ECON5001G001",
+    "type":"DISCUSSION"
+  },
+  {
+    "course_code":"ECON GR5001",
+    "course_title":"MICROECONOMIC ANALYSIS I-DISC",
+    "course_descr":"Corequisites: ECON GR5211 Discussion Section for Economics MA Course Microeconomics Analysis I.",
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"19923",
+    "campus":null,
+    "class_id":"G5001-20263-002",
+    "course_subtitle":"MICROECONOMIC ANALYSIS I-",
+    "department":"Economics",
+    "department_code":"ECON",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ECON\/G5001-20263-002\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "GSAS"
+    ],
+    "points":"0",
+    "prerequisites":[
+      [
+        "ECON GR5211"
+      ]
+    ],
+    "scheduled_days":null,
+    "section_key":"20263ECON5001G002",
+    "type":"DISCUSSION"
+  },
+  {
+    "course_code":"ECON GR5002",
+    "course_title":"MACROECONOMIC ANALYSIS I-DISC",
+    "course_descr":"Corequisites: ECON G5215 Discussion Section for Economics MA Course Macroeconomics Analysis I.",
+    "instructor":"Korok Dasgupta",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"19909",
+    "campus":null,
+    "class_id":"G5002-20263-002",
+    "course_subtitle":"MACROECONOMIC ANALYSIS I-",
+    "department":"Economics",
+    "department_code":"ECON",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ECON\/G5002-20263-002\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "GSAS"
+    ],
+    "points":"0",
+    "prerequisites":[
+      [
+        "ECON G5215"
+      ]
+    ],
+    "scheduled_days":null,
+    "section_key":"20263ECON5002G002",
+    "type":"DISCUSSION"
+  },
+  {
+    "course_code":"ECON GR5002",
+    "course_title":"MACROECONOMIC ANALYSIS I-DISC",
+    "course_descr":"Corequisites: ECON G5215 Discussion Section for Economics MA Course Macroeconomics Analysis I.",
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"19918",
+    "campus":null,
+    "class_id":"G5002-20263-001",
+    "course_subtitle":"MACROECONOMIC ANALYSIS I-",
+    "department":"Economics",
+    "department_code":"ECON",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ECON\/G5002-20263-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "GSAS"
+    ],
+    "points":"0",
+    "prerequisites":[
+      [
+        "ECON G5215"
+      ]
+    ],
+    "scheduled_days":null,
+    "section_key":"20263ECON5002G001",
+    "type":"DISCUSSION"
+  },
+  {
+    "course_code":"ECON GR5003",
+    "course_title":"ECONOMETRICS I-DISCUSSION",
+    "course_descr":"Corequisites: ECON G5411 Discussion Section for Economics MA Course Econometrics I.",
+    "instructor":"Xiangru Li",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"19906",
+    "campus":null,
+    "class_id":"G5003-20263-002",
+    "course_subtitle":null,
+    "department":"Economics",
+    "department_code":"ECON",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ECON\/G5003-20263-002\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "GSAS"
+    ],
+    "points":"0",
+    "prerequisites":[
+      [
+        "ECON G5411"
+      ]
+    ],
+    "scheduled_days":null,
+    "section_key":"20263ECON5003G002",
+    "type":"DISCUSSION"
+  },
+  {
+    "course_code":"ECON GR5003",
+    "course_title":"ECONOMETRICS I-DISCUSSION",
+    "course_descr":"Corequisites: ECON G5411 Discussion Section for Economics MA Course Econometrics I.",
+    "instructor":"Piper Wang",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"19908",
+    "campus":null,
+    "class_id":"G5003-20263-001",
+    "course_subtitle":null,
+    "department":"Economics",
+    "department_code":"ECON",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ECON\/G5003-20263-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "GSAS"
+    ],
+    "points":"0",
+    "prerequisites":[
+      [
+        "ECON G5411"
+      ]
+    ],
+    "scheduled_days":null,
+    "section_key":"20263ECON5003G001",
+    "type":"DISCUSSION"
+  },
+  {
+    "course_code":"ECON GR5004",
+    "course_title":"MATH METHODS FOR ECONOMISTS-DISC",
+    "course_descr":"Corequisites: ECON GR5410 Discussion Section for Economics MA Course Math Methods for Economists.",
+    "instructor":"Sangjun Park",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"19920",
+    "campus":null,
+    "class_id":"G5004-20263-001",
+    "course_subtitle":"MATH METHODS FOR ECONOMIS",
+    "department":"Economics",
+    "department_code":"ECON",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ECON\/G5004-20263-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "GSAS"
+    ],
+    "points":"0",
+    "prerequisites":[
+      [
+        "ECON GR5410"
+      ]
+    ],
+    "scheduled_days":null,
+    "section_key":"20263ECON5004G001",
+    "type":"DISCUSSION"
+  },
+  {
     "course_code":"ECON GR5110",
     "course_title":"Fieldwork Course in Economics",
     "course_descr":"This course provides an opportunity for students in the Economics Master of Arts Program to engage in off-campus internships for academic credit that will count towards their requirements for the degree. The internships will facilitate the application of economic skills that students have developed in the program and prepare them for future work in the field.",
@@ -76146,6 +76375,168 @@
     "scheduled_days":null,
     "section_key":"20263ELEN6903E001",
     "type":"LECTURE"
+  },
+  {
+    "course_code":"ELEN E6999",
+    "course_title":"FIELDWORK",
+    "course_descr":"May be repeated for credit, but no more than 3 total points may be used for degree credit. Only for electrical engineering and computer engineering graduate students who include relevant off-campus work experience as part of their approved program of study. Final report required. May not be taken for pass\/fail credit or audited.",
+    "instructor":"Predrag R Jelenkovic",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"19911",
+    "campus":null,
+    "class_id":"E6999-20263-006",
+    "course_subtitle":null,
+    "department":"Electrical Engineering",
+    "department_code":"ELEN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ELEN\/E6999-20263-006\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":[
+      "Engineering:Graduate"
+    ],
+    "points":"1-1.5",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263ELEN6999E006",
+    "type":"FIELD WORK"
+  },
+  {
+    "course_code":"ELEN E6999",
+    "course_title":"FIELDWORK",
+    "course_descr":"May be repeated for credit, but no more than 3 total points may be used for degree credit. Only for electrical engineering and computer engineering graduate students who include relevant off-campus work experience as part of their approved program of study. Final report required. May not be taken for pass\/fail credit or audited.",
+    "instructor":"Homayoon Beigi",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"19912",
+    "campus":null,
+    "class_id":"E6999-20263-003",
+    "course_subtitle":null,
+    "department":"Electrical Engineering",
+    "department_code":"ELEN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ELEN\/E6999-20263-003\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Engineering:Graduate"
+    ],
+    "points":"1-1.5",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263ELEN6999E003",
+    "type":"FIELD WORK"
+  },
+  {
+    "course_code":"ELEN E6999",
+    "course_title":"FIELDWORK",
+    "course_descr":"May be repeated for credit, but no more than 3 total points may be used for degree credit. Only for electrical engineering and computer engineering graduate students who include relevant off-campus work experience as part of their approved program of study. Final report required. May not be taken for pass\/fail credit or audited.",
+    "instructor":"Asaf Cidon",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"19913",
+    "campus":null,
+    "class_id":"E6999-20263-005",
+    "course_subtitle":null,
+    "department":"Electrical Engineering",
+    "department_code":"ELEN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ELEN\/E6999-20263-005\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Engineering:Graduate"
+    ],
+    "points":"1-1.5",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263ELEN6999E005",
+    "type":"FIELD WORK"
+  },
+  {
+    "course_code":"ELEN E6999",
+    "course_title":"FIELDWORK",
+    "course_descr":"May be repeated for credit, but no more than 3 total points may be used for degree credit. Only for electrical engineering and computer engineering graduate students who include relevant off-campus work experience as part of their approved program of study. Final report required. May not be taken for pass\/fail credit or audited.",
+    "instructor":"Aurel A Lazar",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"19914",
+    "campus":null,
+    "class_id":"E6999-20263-004",
+    "course_subtitle":null,
+    "department":"Electrical Engineering",
+    "department_code":"ELEN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ELEN\/E6999-20263-004\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":[
+      "Engineering:Graduate"
+    ],
+    "points":"1-1.5",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263ELEN6999E004",
+    "type":"FIELD WORK"
+  },
+  {
+    "course_code":"ELEN E6999",
+    "course_title":"FIELDWORK",
+    "course_descr":"May be repeated for credit, but no more than 3 total points may be used for degree credit. Only for electrical engineering and computer engineering graduate students who include relevant off-campus work experience as part of their approved program of study. Final report required. May not be taken for pass\/fail credit or audited.",
+    "instructor":"Zoran Kostic",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"19915",
+    "campus":null,
+    "class_id":"E6999-20263-002",
+    "course_subtitle":null,
+    "department":"Electrical Engineering",
+    "department_code":"ELEN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ELEN\/E6999-20263-002\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Engineering:Graduate"
+    ],
+    "points":"1-1.5",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263ELEN6999E002",
+    "type":"FIELD WORK"
+  },
+  {
+    "course_code":"ELEN E6999",
+    "course_title":"FIELDWORK",
+    "course_descr":"May be repeated for credit, but no more than 3 total points may be used for degree credit. Only for electrical engineering and computer engineering graduate students who include relevant off-campus work experience as part of their approved program of study. Final report required. May not be taken for pass\/fail credit or audited.",
+    "instructor":"James Anderson",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"19916",
+    "campus":null,
+    "class_id":"E6999-20263-001",
+    "course_subtitle":null,
+    "department":"Electrical Engineering",
+    "department_code":"ELEN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ELEN\/E6999-20263-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Engineering:Graduate"
+    ],
+    "points":"1-1.5",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263ELEN6999E001",
+    "type":"FIELD WORK"
   },
   {
     "course_code":"ELEN E9001",
@@ -127556,7 +127947,7 @@
     "course_code":"JOUR J6016",
     "course_title":"JOURNALISM ESSENTIALS",
     "course_descr":"Journalism Essentials\/Business - 1 credit\n  \n  \n  \nThe Business of Journalism will help you to understand the challenges and vicissitudes of this period of historic flux in the journalism industry \u2014 not just for your own career development, but because we want you to be partners and innovators in determining new ways to secure the future of journalism.\n  \n \n  \nJournalism Essentials\/Ethics - 1 credit\n  \n  \n  \nJournalism Ethics explores the ethical issues that often arise in the practice of journalism, including verification of information, the relationship between personal values and journalistic decisions, issues driven by competition, and the impact of relentless deadline pressure.\u00a0\n  \n \n  \nJournalism Essentials\/History - 1 credit\n  \n  \n  \nJournalism Essentials: This 7-week module explores the historical development of the values, practices and social roles that cluster around the institution of journalism. In this class, you'll also consider how the press has itself been a significant actor (for better or worse) in politics, war, reform, social movements and other events.\n  \n \n  \n\u00a0\n  \nJournalism Essentials\/Law - 1 credit\n  \n  \n  \nJournalism Law is designed to acquaint you with the basic protections and restrictions of the law as they apply to the practice of journalism in this global era. You\u2019ll also explore significant court cases and fundamental legal rules in the context of political and historical realities, and journalistic standards and practices, both in the United States and internationally.",
-    "instructor":null,
+    "instructor":"Sara Ganim Cevallos",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"17509",
@@ -127612,7 +128003,7 @@
     "call_number":"17511",
     "campus":null,
     "class_id":"J6016-20263-008",
-    "course_subtitle":"J Essentials-Ethics",
+    "course_subtitle":"J Essentials-Law",
     "department":"Journalism",
     "department_code":"JOUR",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/JOUR\/J6016-20263-008\/",
@@ -203943,7 +204334,7 @@
     "course_code":"SOCI UN3011",
     "course_title":"METHODS SOCIAL RESEARCH-DISC",
     "course_descr":"Prerequisites: SOCI UN1000\n  \nDiscussion section for SOCI UN3010: METHODS FOR SOCIAL RESEARCH",
-    "instructor":null,
+    "instructor":"Yuhan Li",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"01075",
@@ -203971,7 +204362,7 @@
     "course_code":"SOCI UN3011",
     "course_title":"METHODS SOCIAL RESEARCH-DISC",
     "course_descr":"Prerequisites: SOCI UN1000\n  \nDiscussion section for SOCI UN3010: METHODS FOR SOCIAL RESEARCH",
-    "instructor":null,
+    "instructor":"Jess Robinson",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"01076",
