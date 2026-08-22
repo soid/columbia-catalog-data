@@ -3152,7 +3152,7 @@
     "course_code":"AHIS GR8867",
     "course_title":"Seventeenth-Century Chinese Painting",
     "course_descr":"This seminar will examine Chinese paintings primarily in Japanese and American collections. The aim of the course is to become familiar with the major painters of the seventeen century from Dong Qichang, whose history of Chinese painting still influences how we view paintings today, to his followers and imitators, and further to the scholar-painters who found ways to express resistance to the Manchu conquest at the middle of the century, and finally to imperial court painters. We will look at a wide variety of painting genres and formats. Special attention will be given to the way paintings are presented, from the outside title slip to the inner title sheet to seals and colophons. We will also consider the artists\u2019 intended audience.",
-    "instructor":"Jin Xu",
+    "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"17990",
@@ -10817,6 +10817,60 @@
     "type":"INDEPENDENT"
   },
   {
+    "course_code":"APAM E6650",
+    "course_title":"RESEARCH PROJECT",
+    "course_descr":"May be repeated for credit. A special investigation of a problem in nuclear engineering, medical physics, applied mathematics, applied physics, and\/or plasma physics consisting of independent work on the part of the student and embodied in a formal report.",
+    "instructor":"Michele Simoncelli",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"19984",
+    "campus":null,
+    "class_id":"E6650-20263-007",
+    "course_subtitle":null,
+    "department":"Applied Physics and Applied Mathematics",
+    "department_code":"APAM",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/APAM\/E6650-20263-007\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Engineering:Graduate"
+    ],
+    "points":"1-6",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263APAM6650E007",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"APAM E6650",
+    "course_title":"RESEARCH PROJECT",
+    "course_descr":"May be repeated for credit. A special investigation of a problem in nuclear engineering, medical physics, applied mathematics, applied physics, and\/or plasma physics consisting of independent work on the part of the student and embodied in a formal report.",
+    "instructor":"Sherry Zhang",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"19986",
+    "campus":null,
+    "class_id":"E6650-20263-009",
+    "course_subtitle":null,
+    "department":"Applied Physics and Applied Mathematics",
+    "department_code":"APAM",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/APAM\/E6650-20263-009\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Engineering:Graduate"
+    ],
+    "points":"1-6",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263APAM6650E009",
+    "type":"INDEPENDENT"
+  },
+  {
     "course_code":"APAM E9301",
     "course_title":"DOCTORAL RESEARCH",
     "course_descr":"Required of doctoral candidates.",
@@ -18132,6 +18186,33 @@
     ],
     "scheduled_days":null,
     "section_key":"20263ASCM2358V004",
+    "type":"DISCUSSION"
+  },
+  {
+    "course_code":"ASCM UN2358",
+    "course_title":"INTRO TO INDIAN CIV - DISC",
+    "course_descr":"Discussion section for ASCM UN2357: Intro to Indian Civilization",
+    "instructor":"Arkadeep Mitra",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"01103",
+    "campus":null,
+    "class_id":"V2358-20263-005",
+    "course_subtitle":"INTRO TO INDIAN CIV - DIS",
+    "department":"Asian and Middle East @Barnard",
+    "department_code":"ASCM",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ASCM\/V2358-20263-005\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+      [
+        "ASCM UN2357"
+      ]
+    ],
+    "scheduled_days":null,
+    "section_key":"20263ASCM2358V005",
     "type":"DISCUSSION"
   },
   {
@@ -43795,6 +43876,33 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"CIEN E4148",
+    "course_title":"Construction Engineering and Management",
+    "course_descr":"Expose students to various aspects of project management in the construction industry, enhance learning experience with real-world challenges and prepare for internships and future employment. Run for two semesters. First semester focuses on Traditional Project Management, and second semester focuses on Agile Project Management. For class project, development of a Project Management Plan (PMP) and an Operations Dashboard based on real-life examples of contracts (traditional project management) and operational excellence initiatives (agile project management).",
+    "instructor":"Ibrahim Odeh",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"19983",
+    "campus":null,
+    "class_id":"E4148-20263-V01",
+    "course_subtitle":"CEM Industry Field Studie",
+    "department":"Video Network",
+    "department_code":"CIEN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CIEN\/E4148-20263-V01\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Engineering:Graduate"
+    ],
+    "points":"1-3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263CIEN4148EV01",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"CIEN E4232",
     "course_title":"ADVNCD DSGN-CONCRETE STRUCTURS",
     "course_descr":"Design of concrete beams for combined torsion, shear and flexure; moment-curvature relation; bar cut-off locations; design of two-way slabs; strut-and-tie method for the design of deep beams and corbels; gravity and shear wall design; retaining wall design.",
@@ -62811,7 +62919,7 @@
     "course_code":"EAAS UN3999",
     "course_title":"RESEARCH IN EAST ASIAN STUDIES",
     "course_descr":"Introduces students to research and writing techniques and requires the preparation of a senior thesis proposal. Required for majors and concentrators in the East Asian studies major in the spring term of the junior year.",
-    "instructor":null,
+    "instructor":"Yan Liu",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"12163",
@@ -65579,7 +65687,7 @@
   {
     "course_code":"ECON GR5004",
     "course_title":"MATH METHODS FOR ECONOMISTS-DISC",
-    "course_descr":null,
+    "course_descr":"Corequisites: ECON GR5410 Discussion Section for Economics MA Course Math Methods for Economists.",
     "instructor":"Nicholas Guitian",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -65597,7 +65705,9 @@
     ],
     "points":"0",
     "prerequisites":[
-
+      [
+        "ECON GR5410"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20263ECON5004G002",
@@ -129697,7 +129807,7 @@
     "course_code":"JPNS UN1101",
     "course_title":"FIRST YEAR JAPANESE I",
     "course_descr":"Basic training in Japanese through speaking, listening, reading and writing in various cultural contexts.",
-    "instructor":"Mihoko Yagi",
+    "instructor":"Kana T Pierce",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"11685",
@@ -129797,7 +129907,7 @@
     "course_code":"JPNS UN1101",
     "course_title":"FIRST YEAR JAPANESE I",
     "course_descr":"Basic training in Japanese through speaking, listening, reading and writing in various cultural contexts.",
-    "instructor":"Kana T Pierce",
+    "instructor":"Chikako Takahashi",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"11689",
@@ -129976,6 +130086,33 @@
     ],
     "scheduled_days":null,
     "section_key":"20263JPNS3005W001",
+    "type":"LANGUAGE"
+  },
+  {
+    "course_code":"JPNS UN3005",
+    "course_title":"THIRD YEAR JAPANESE I",
+    "course_descr":"Prerequisites: JPNS C1202 or the equivalent. Readings in authentic\/semi-authentic texts, videos, and class discussions.",
+    "instructor":"Mihoko Yagi",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11696",
+    "campus":null,
+    "class_id":"W3005-20263-002",
+    "course_subtitle":null,
+    "department":"East Asian Languages and Cultures",
+    "department_code":"JPNS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/JPNS\/W3005-20263-002\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"5",
+    "prerequisites":[
+      [
+        "JPNS C1202"
+      ]
+    ],
+    "scheduled_days":null,
+    "section_key":"20263JPNS3005W002",
     "type":"LANGUAGE"
   },
   {
@@ -151995,6 +152132,33 @@
     "scheduled_days":null,
     "section_key":"20263MSAE4301E001",
     "type":"LABORATORY"
+  },
+  {
+    "course_code":"MSAE E6273",
+    "course_title":"MATERIALS SCIENCE REPORTS",
+    "course_descr":"Formal written reports and conferences with the appropriate member of the faculty on a subject of special interest to the student but not covered in the other course offerings.",
+    "instructor":"Michele Simoncelli",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"19985",
+    "campus":null,
+    "class_id":"E6273-20263-008",
+    "course_subtitle":null,
+    "department":"Applied Physics and Applied Mathematics",
+    "department_code":"MSAE",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/MSAE\/E6273-20263-008\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Engineering:Graduate"
+    ],
+    "points":"0-6",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263MSAE6273E008",
+    "type":"INDEPENDENT"
   },
   {
     "course_code":"MSAE E9301",
@@ -180865,7 +181029,7 @@
     "course_code":"PLAN A6918",
     "course_title":"THESIS I\/CAPSTONE I WORKSHOP",
     "course_descr":null,
-    "instructor":"Tom Slater",
+    "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"10733",
@@ -223343,6 +223507,31 @@
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
+    "call_number":"17217",
+    "campus":null,
+    "class_id":"9XXXX-20263-001",
+    "course_subtitle":"Students Can Register",
+    "department":"OFFC OF THE REGISTRAR",
+    "department_code":"TEST",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/TEST\/9XXXX-20263-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"1-2",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263TESTXXXX9001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"TEST 9XXXX",
+    "course_title":"TEST COURSE - SDL",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
     "call_number":"19682",
     "campus":null,
     "class_id":"9XXXX-20263-SD1",
@@ -224010,7 +224199,7 @@
     "course_code":"THEA AT6562",
     "course_title":"THE ACTOR'S BODY III",
     "course_descr":"This course deepens the actor\u2019s working understanding of their body as \u201cinstrument\u201d and teaches practical application of learned skill sets for professional practice and complex use.The course achieves this objective by examining current practice and providing solutions for real time obstacles and challenges actors are encountering in their daily practice in classes and rehearsals. Challenges faced are explored specifically in context of class vocabulary as well as by providing increasingly complex tasks that require use of multiple skills sets at once.The course continues the work of developing physical ease and awareness and expands each actor also to prepare body and being for work in ensemble.",
-    "instructor":"Sita Mani",
+    "instructor":"James Calder",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"17998",
@@ -225086,7 +225275,7 @@
     "course_code":"THEA AT8675",
     "course_title":"CURRENT ISSUES IN STAGE MANAGEMENT",
     "course_descr":"The function of a stage manager in the process of a musical \u2013 through the use of technological advances. This class will be an in-depth examination of how modern stage management contributes to this process through the implementation of seminal methodologies. Focus will be placed on how digital platforms can be used to support this process from beginning to end.",
-    "instructor":"Michael Passaro",
+    "instructor":"Jhanae Bonnick-McDonnell",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"14872",
@@ -226520,7 +226709,7 @@
     "course_code":"TMGT PS5128",
     "course_title":"Essentials for Technology Management and",
     "course_descr":"This 3-credit core course in the M.S. in Technology Management program provides an overview of the strategic role of the technology function to improve business processes, drive transformations, and fuel innovation. Through lectures and applied case study work, students will learn how to develop and keep technology strategies aligned with business goals, navigate governance, regulatory, and budgetary frameworks, and evaluate risks to protect the organization\u2019s IT investments.",
-    "instructor":null,
+    "instructor":"Ted Dezabala",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"12428",
