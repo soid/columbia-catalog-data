@@ -30893,6 +30893,31 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"BMLS GR7010",
+    "course_title":"Fellowship Writing Fundamentals",
+    "course_descr":null,
+    "instructor":"Michele Shirasu-Hiza",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"20092",
+    "campus":null,
+    "class_id":"G7010-20263-001",
+    "course_subtitle":"Fellowship Writing Fundam",
+    "department":"Biomedical Life Sciences",
+    "department_code":"BMLS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/BMLS\/G7010-20263-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263BMLS7010G001",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"BMLS GR7020",
     "course_title":"NSF Graduate Writing Fundamentals",
     "course_descr":"This intensive nanocourse will walk students through the process of writing an NSF Graduate Research Fellowship Program proposal. As only first year graduate students are eligible for the NSF GRFP, this course is intended for first year graduate students.\n  \nThis is a highly interactive course \u2013 students will work with the instructors and each other to develop a project for the proposal, engage in multiple rounds of peer review, and finally go through two rounds of individual one-one-one review with two VIBRE Faculty members. See syllabus for submission date.",
@@ -52024,6 +52049,33 @@
     ],
     "scheduled_days":null,
     "section_key":"20263COMS6998EV07",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"COMS E6998",
+    "course_title":"TOPICS IN COMPUTER SCIENCE",
+    "course_descr":null,
+    "instructor":"Lydia Chilton",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"20093",
+    "campus":null,
+    "class_id":"E6998-20263-V11",
+    "course_subtitle":"DESIGN FOR GENERATIVE AI",
+    "department":"Video Network",
+    "department_code":"COMS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMS\/E6998-20263-V11\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Engineering:Graduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263COMS6998EV11",
     "type":"LECTURE"
   },
   {
@@ -93773,7 +93825,7 @@
     "course_code":"FILM AF5430",
     "course_title":"TECH ARTS",
     "course_descr":"The Tech Arts curriculum is a hands-on, experiential way for our students to learn best practices regarding film production and post production technology in the integrated first year of the MFA Film Program. The curriculum will be taught in 3 different disciplines\/sections with up to 12. Instructors: Matthew Farrell, Michael O\u2019Brien, Gregg Conde\n  \n\u00a0The disciplines\/sections are: Cameras and Lenses, Grip and Electric, and Cinema Audio. Students will all be required to take one discipline for registration in their first year.\n  \nCameras and Lenses, Grip and Electric, and Cinema Audio will educate students on this topics utilizing the cameras and lens equipment offered by Film\u2019s Production Center in Nash. In addition to the practicum workshops students will be required to do specific readings and assignments to maximize their learning of the weekly subject matter and participate in class discussion.\n  \nPractical Production 1: Lab-Tech Arts Curriculum takes students through the principles of cinematography, lighting, framing, and audio production by working directly with the equipment and technology through small group sections. Technological competency is required to maximize what they are learning through their other classes in directing, screenwriting and producing classes.",
-    "instructor":"Michael O'Brien",
+    "instructor":"Sean O'Neil",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"19953",
@@ -93854,7 +93906,7 @@
     "course_code":"FILM AF5430",
     "course_title":"TECH ARTS",
     "course_descr":"The Tech Arts curriculum is a hands-on, experiential way for our students to learn best practices regarding film production and post production technology in the integrated first year of the MFA Film Program. The curriculum will be taught in 3 different disciplines\/sections with up to 12. Instructors: Matthew Farrell, Michael O\u2019Brien, Gregg Conde\n  \n\u00a0The disciplines\/sections are: Cameras and Lenses, Grip and Electric, and Cinema Audio. Students will all be required to take one discipline for registration in their first year.\n  \nCameras and Lenses, Grip and Electric, and Cinema Audio will educate students on this topics utilizing the cameras and lens equipment offered by Film\u2019s Production Center in Nash. In addition to the practicum workshops students will be required to do specific readings and assignments to maximize their learning of the weekly subject matter and participate in class discussion.\n  \nPractical Production 1: Lab-Tech Arts Curriculum takes students through the principles of cinematography, lighting, framing, and audio production by working directly with the equipment and technology through small group sections. Technological competency is required to maximize what they are learning through their other classes in directing, screenwriting and producing classes.",
-    "instructor":"Michael O'Brien",
+    "instructor":"Sean O'Neil",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"19956",
@@ -222799,7 +222851,7 @@
   {
     "course_code":"STAT UN1101",
     "course_title":"INTRODUCTION TO STATISTICS",
-    "course_descr":null,
+    "course_descr":"Prerequisites: intermediate high school algebra. Designed for students in fields that emphasize quantitative methods. Graphical and numerical summaries, probability, theory of sampling distributions, linear regression, analysis of variance, confidence intervals and hypothesis testing. Quantitative reasoning and data analysis. Practical experience with statistical software. Illustrations are taken from a variety of fields. Data-collection\/analysis project with emphasis on study designs is part of the coursework requirement.",
     "instructor":"Casey Bradshaw",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -223045,7 +223097,7 @@
   {
     "course_code":"STAT UN1102",
     "course_title":"Intro to Statistics Recitation",
-    "course_descr":null,
+    "course_descr":"This is only recitation for STAT UG1101. We are requesting 8 sections of recitation to align with the two sections of 1101 offered for Fall 2024.",
     "instructor":"Casey Bradshaw",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -223066,7 +223118,9 @@
     ],
     "points":"0",
     "prerequisites":[
-
+      [
+        "STAT UG1101"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20263STAT1102W009",
@@ -224796,7 +224850,7 @@
   {
     "course_code":"SUMA PS5260",
     "course_title":"Digital Product Development for Sustaina",
-    "course_descr":"In April 2022, the Intergovernmental Panel on Climate Change (IPCC) reported that global efforts are unlikely to reduce carbon emissions in line with COP21 targets of 1.5o C above preindustrial levels.\u00a0 This finding underscores the urgency around decarbonizing the economy and sustainably managing natural resources.\u00a0 A so-called \u201cbig, hairy, audacious goal,\u201d it requires that similarly ambitious solutions be implemented across countries and industries.\n  \nIt is only by measuring resources that stakeholders can manage them and ensure that they are available in sufficient quantities for future generations. Web tools provide up-to-date analyses of aggregated data; distill complex issues into accessible visualizations; enable users to drill down to answer questions; offer insights into complicated and interdependent issues; and display changes in performance over time.\u00a0 For example, Sustainable 1\/S&P Global\u2019s ESG Scores are valuable because they expose patterns in data related to environmental, social and governance risks and opportunities.\n  \nThis elective course will introduce students to the digital product management role in the context of sustainability.\u00a0 Students will get a strong understanding of what it means to be a product manager and its role in the organization.\u00a0 The course will demonstrate how to define a product vision; identify a product strategy; create product roadmaps; design a customer experience; enable data-driven decisions; understand the development process; manage for results; and, by \u201cleading through influence,\u201d coordinate cross-functional teams of business analysts, developers, data providers, marketing, users, customers, senior management and other\u00a0stakeholders.\u00a0 The course is about product strategy and how to innovate and launch new products and features.\u00a0 Students will be prepared for product management roles in companies; though many of those skills are applicable to entrepreneurship, the course is not geared toward start-ups or new ventures.",
+    "course_descr":"In April 2022, the Intergovernmental Panel on Climate Change reported that warming of the planet is likely to exceed COP targets.\u00a0 This finding underscores the urgency around decarbonizing the economy and sustainably managing natural resources.\u00a0 A so-called \u201cbig, hairy, audacious goal,\u201d it requires that similarly ambitious solutions be implemented across countries and industries.\u00a0 This course will introduce students to digital product management skills and the critical role they play in building digital decision support tools related to healing our planet.\u00a0\n  \nIt is only by measuring resources that stakeholders can manage them and ensure that they are available in sufficient quantities for future generations. Web tools provide up-to-date analyses of aggregated data; distill complex issues into accessible visualizations; enable users to drill down to answer questions; offer insights into complicated and interdependent issues; and display changes in performance over time.\u00a0\n  \nEfforts are underway -- locally, regionally, nationally and internationally -- to address climate and ESG issues and many more need to appear on drawing boards.\u00a0 Opportunities include:\u00a0\n  \n\u00b72,400 megawatts of offshore wind, enough to provide electricity to 1 million homes, are slated to be installed off the coast of New York State by 2030;\n  \n\u00b7Globally, companies need to evaluate opportunities to deploy renewable energy and energy efficiency measures in their facilities in order to reduce carbon emissions and costs;\u00a0\n  \n\u00b7Coastal cities are studying their exposure to sea-level rise so they can harden electricity infrastructure and avoid blackouts caused by more frequent storms; and\u00a0\n  \n\u00b7Indigenous populations and local governments in the Amazon wish to protect the jungles that act as global carbon sinks and generate revenue opportunities from carbon credits.\n  \nThis elective course\u00a0is about product strategy and how to design, build and launch new digital products and features in the AI era.\u00a0 It will introduce students to the digital product management role and product lifecycle and provide an opportunity to design a digital app and define the business case for it.\u00a0 Units will address how to define a product vision; identify a product strategy; define a valuable customer experience; enable data-driven decisions; collaborate with developers and responsibly use AI; create product roadmaps; manage for successful f",
     "instructor":"Teri Mendelsohn",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
