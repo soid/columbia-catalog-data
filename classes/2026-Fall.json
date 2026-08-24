@@ -6324,7 +6324,7 @@
     "course_code":"ANES M7201",
     "course_title":"ANESTHESIOLOGY CLERKSHIP",
     "course_descr":null,
-    "instructor":null,
+    "instructor":"Stephanie Chen",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"11906",
@@ -6349,7 +6349,7 @@
     "course_code":"ANES M7201",
     "course_title":"ANESTHESIOLOGY CLERKSHIP",
     "course_descr":null,
-    "instructor":null,
+    "instructor":"Stephanie Chen",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"11908",
@@ -6374,7 +6374,7 @@
     "course_code":"ANES M7201",
     "course_title":"ANESTHESIOLOGY CLERKSHIP",
     "course_descr":null,
-    "instructor":null,
+    "instructor":"Stephanie Chen",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"11909",
@@ -43626,7 +43626,7 @@
     "course_code":"CIEN E4134",
     "course_title":"CONSTRUCTION INDUSTRY LAW",
     "course_descr":"Practical focus upon legal concepts applicable to the construction industry. Provides sufficient understanding to manage legal aspects, instead of being managed by them. Topics include contractual relationships, contract performance, contract flexibility and change orders, liability and negligence, dispute avoidance\/resolution, surety bonds, insurance and site safety.",
-    "instructor":"Steven Charney",
+    "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"14585",
@@ -88563,7 +88563,7 @@
     "course_code":"ENVP IA9230",
     "course_title":"Workshop in Applied Earth Systems Manage",
     "course_descr":"This workshop is the second course in a three-semester sequence that serves as the professional development core of the MPA in Environmental Science and Policy. Building on the foundation established during the summer semester, students continue to refine their management and analytical skills through applied work on simulated public sector sustainability projects.\n  \nStudents work in teams to design and implement a one-year operational plan for an environmental sustainability program. Each project addresses real-world management and implementation challenges, including budgeting, staffing, political analysis, performance planning, and scheduling. Students are expected to draw on the scientific, economic, and policy tools they have acquired to date, applying them in an integrated and practical context.\n  \nThe course emphasizes project management, teamwork, and professional communication. Students assume defined leadership roles, develop briefings, and produce a final report that outlines a feasible policy direction and operational strategy. Through simulated client interactions and instructor-led seminars, students gain firsthand experience with the complexities of managing environmental programs in the public and nonprofit sectors.",
-    "instructor":null,
+    "instructor":"Richard Greenwald",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"17562",
@@ -222797,6 +222797,36 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"STAT UN1101",
+    "course_title":"INTRODUCTION TO STATISTICS",
+    "course_descr":null,
+    "instructor":"Casey Bradshaw",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"20090",
+    "campus":null,
+    "class_id":"W1101-20263-003",
+    "course_subtitle":"INTRODUCTION TO STATISTIC",
+    "department":"Statistics",
+    "department_code":"STAT",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/STAT\/W1101-20263-003\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "General Studies",
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263STAT1101W003",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"STAT UN1102",
     "course_title":"Intro to Statistics Recitation",
     "course_descr":"This is only recitation for STAT UG1101. We are requesting 8 sections of recitation to align with the two sections of 1101 offered for Fall 2024.",
@@ -223010,6 +223040,36 @@
     ],
     "scheduled_days":null,
     "section_key":"20263STAT1102W008",
+    "type":"RECITATION"
+  },
+  {
+    "course_code":"STAT UN1102",
+    "course_title":"Intro to Statistics Recitation",
+    "course_descr":null,
+    "instructor":"Casey Bradshaw",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"20091",
+    "campus":null,
+    "class_id":"W1102-20263-009",
+    "course_subtitle":"Intro to Statistics Recit",
+    "department":"Statistics",
+    "department_code":"STAT",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/STAT\/W1102-20263-009\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "General Studies",
+      "Professional Studies"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263STAT1102W009",
     "type":"RECITATION"
   },
   {
