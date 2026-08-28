@@ -532,7 +532,7 @@
     "course_code":"ANTH GR5555",
     "course_title":"From Ruins to Remains: Palestine & Archa",
     "course_descr":"This new course aims to provide advanced undergraduate and graduate students with a critical history of Palestine-related archaeology from the mid-19th century to the present, and (b) an examination of how archaeological narratives relating to Palestine have been impacted by state nationalism, colonialism and conflicting local, regional and global religious interests from the \"Classical World\" to the 21st century.",
-    "instructor":null,
+    "instructor":"Brian Boyd",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"10537",
@@ -544,7 +544,15 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ANTH\/G5555-20271-001\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "Columbia College",
+      "GSAS",
+      "General Studies",
+      "Journalism",
+      "Law",
+      "Professional Studies",
+      "Schools of the Arts"
+    ],
     "points":"4",
     "prerequisites":[
 
@@ -582,6 +590,33 @@
     "type":"SEMINAR"
   },
   {
+    "course_code":"ANTH GR6162",
+    "course_title":"Contemporary Archaeological Theory",
+    "course_descr":null,
+    "instructor":"Hannah Chazin",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"10539",
+    "campus":null,
+    "class_id":"G6162-20271-001",
+    "course_subtitle":"CONTEMP ARCH THEORY",
+    "department":"Anthropology",
+    "department_code":"ANTH",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ANTH\/G6162-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "GSAS"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271ANTH6162G001",
+    "type":"SEMINAR"
+  },
+  {
     "course_code":"ANTH GR8500",
     "course_title":"ETHNOGRAPHY STUDIO",
     "course_descr":"Ethnography is often taught as a method of observation. This course begins from a different\u00a0 premise: ethnography is a political technology of knowledge production shaped by empire, race,\u00a0 capital, gender, and disciplinary power. It is also a fragile and unfinished writing practice that\u00a0 scholars continually remake. This seminar treats ethnography as a site of struggle over these\u00a0 questions: Who can produce knowledge? Whose worlds become legible? Which archives\u00a0 endure? What research should refuse to know? And, how writing itself organizes relations of\u00a0 power?",
@@ -597,7 +632,9 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ANTH\/G8500-20271-001\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "GSAS"
+    ],
     "points":"4",
     "prerequisites":[
 
@@ -730,6 +767,35 @@
     "scheduled_days":null,
     "section_key":"20271ANTH1019V004",
     "type":"DISCUSSION"
+  },
+  {
+    "course_code":"ANTH UN2028",
+    "course_title":"THINK LIKE AN ARCHAEOLOGIST",
+    "course_descr":null,
+    "instructor":"Hannah Chazin",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"10540",
+    "campus":null,
+    "class_id":"W2028-20271-001",
+    "course_subtitle":"THINK LIKE AN ARCHAEOLOGI",
+    "department":"Anthropology",
+    "department_code":"ANTH",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ANTH\/W2028-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "General Studies"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271ANTH2028W001",
+    "type":"LECTURE"
   },
   {
     "course_code":"ANTH UN3052",
