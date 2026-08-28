@@ -20161,6 +20161,7 @@
     "location":null,
     "method_of_instruction":"On-Line Only",
     "open_to":[
+      "Columbia College",
       "Journalism",
       "Medicine",
       "Nursing",
@@ -32375,7 +32376,8 @@
     "open_to":[
       "Business",
       "Engineering:Graduate",
-      "Journalism"
+      "Journalism",
+      "SIPA"
     ],
     "points":"3",
     "prerequisites":[
@@ -32433,7 +32435,8 @@
     "open_to":[
       "Business",
       "Engineering:Graduate",
-      "Journalism"
+      "Journalism",
+      "SIPA"
     ],
     "points":"3",
     "prerequisites":[
@@ -32462,7 +32465,8 @@
     "open_to":[
       "Business",
       "Engineering:Graduate",
-      "Journalism"
+      "Journalism",
+      "SIPA"
     ],
     "points":"1.5",
     "prerequisites":[
@@ -44708,6 +44712,56 @@
     "type":"COLLOQUIA"
   },
   {
+    "course_code":"CLCV GR5011",
+    "course_title":"Proseminar",
+    "course_descr":null,
+    "instructor":"Elizabeth K Irwin",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"20226",
+    "campus":null,
+    "class_id":"G5011-20263-001",
+    "course_subtitle":null,
+    "department":"Classics",
+    "department_code":"CLCV",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CLCV\/G5011-20263-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263CLCV5011G001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"CLCV GR5011",
+    "course_title":"Proseminar",
+    "course_descr":null,
+    "instructor":"Katharina Volk",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"20227",
+    "campus":null,
+    "class_id":"G5011-20263-002",
+    "course_subtitle":null,
+    "department":"Classics",
+    "department_code":"CLCV",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CLCV\/G5011-20263-002\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263CLCV5011G002",
+    "type":"SEMINAR"
+  },
+  {
     "course_code":"CLCV UN1001",
     "course_title":"Introduction to Greek Mythology",
     "course_descr":"The stories of the Greek and Roman gods and heroes are at the root of countless works of art, philosophy, literature, and film, from antiquity to the present. Many familiar phrases from the English language also derive from myth: an Achilles heel (and Achilles tendon!), a Trojan horse, Pandora\u2019s box, and so forth. This course will introduce you to the broad range of tales that make up the complex and interconnected network of Greek and Roman mythology.",
@@ -55620,6 +55674,31 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"CPLS GR6998",
+    "course_title":"INDEPENDENT STUDY",
+    "course_descr":null,
+    "instructor":"Yasmine Seale",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"20228",
+    "campus":null,
+    "class_id":"G6998-20263-001",
+    "course_subtitle":null,
+    "department":"Comparative Literature and Society, Institute for",
+    "department_code":"CPLS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CPLS\/G6998-20263-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"1-4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263CPLS6998G001",
+    "type":"SEMINAR"
+  },
+  {
     "course_code":"CPLS GR8866",
     "course_title":"S CONTEMP CRITICAL THOUGHT",
     "course_descr":null,
@@ -56451,7 +56530,7 @@
     "course_code":"CSER UN1014",
     "course_title":"INTRO-COMP ETHIC STUDIES-DISC",
     "course_descr":null,
-    "instructor":"Tia Abdul-Wasi",
+    "instructor":"Ateeyah Z Abdul-Wasi",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"20099",
@@ -56476,7 +56555,7 @@
     "course_code":"CSER UN1014",
     "course_title":"INTRO-COMP ETHIC STUDIES-DISC",
     "course_descr":null,
-    "instructor":"Tia Abdul-Wasi",
+    "instructor":"Ateeyah Z Abdul-Wasi",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"20100",
@@ -60821,7 +60900,8 @@
     "method_of_instruction":"In-Person",
     "open_to":[
       "Business",
-      "Journalism"
+      "Journalism",
+      "SIPA"
     ],
     "points":"3",
     "prerequisites":[
@@ -60849,7 +60929,8 @@
     "method_of_instruction":"In-Person",
     "open_to":[
       "Business",
-      "Journalism"
+      "Journalism",
+      "SIPA"
     ],
     "points":"3",
     "prerequisites":[
@@ -71084,7 +71165,7 @@
     "course_code":"EEEB UN3991",
     "course_title":"THESIS RESEARCH SEMINAR",
     "course_descr":"Guided, independent, indepth research experience culminating in the senior essay. Weekly meetings are held to review work in progress, to share results through oral and written reports, and to consider career options for further work in this field.",
-    "instructor":"Matthew I Palmer",
+    "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"12633",
@@ -91007,33 +91088,6 @@
     "course_code":"ERMC PS5200",
     "course_title":"TRADITIONAL ERM PRACTICES",
     "course_descr":"This course provides an overview of the\u00a0traditional ERM\u00a0frameworks\u00a0used to identify, assess,\u00a0manage, and disclose key organizational risks.\u00a0The traditional ERM frameworks are those that are more commonly in use and include COSO ERM, ISO 31000, and the Basel Accords.\u00a0This\u00a0course also provides an understanding of the methods, tools, techniques, and terminology\u00a0most\u00a0organizations use to manage their key\u00a0risks, presented in the context of the foundational elements of an ERM process. This will enable\u00a0students\u00a0to navigate\u00a0the ERM landscape\u00a0within\u00a0most\u00a0organizations,\u00a0and, along with the second-semester course Value-Based ERM,\u00a0evaluate opportunities to enhance the\u00a0existing ERM\u00a0practices and evolve their ERM programs over time.",
-    "instructor":"Lyndsay Byun",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
-    "call_number":"11945",
-    "campus":null,
-    "class_id":"K5200-20263-012",
-    "course_subtitle":null,
-    "department":"Enterprise Risk Management",
-    "department_code":"ERMC",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ERMC\/K5200-20263-012\/",
-    "location":null,
-    "method_of_instruction":"In-Person",
-    "open_to":[
-      "Professional Studies"
-    ],
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":null,
-    "section_key":"20263ERMC5200K012",
-    "type":"LECTURE"
-  },
-  {
-    "course_code":"ERMC PS5200",
-    "course_title":"TRADITIONAL ERM PRACTICES",
-    "course_descr":"This course provides an overview of the\u00a0traditional ERM\u00a0frameworks\u00a0used to identify, assess,\u00a0manage, and disclose key organizational risks.\u00a0The traditional ERM frameworks are those that are more commonly in use and include COSO ERM, ISO 31000, and the Basel Accords.\u00a0This\u00a0course also provides an understanding of the methods, tools, techniques, and terminology\u00a0most\u00a0organizations use to manage their key\u00a0risks, presented in the context of the foundational elements of an ERM process. This will enable\u00a0students\u00a0to navigate\u00a0the ERM landscape\u00a0within\u00a0most\u00a0organizations,\u00a0and, along with the second-semester course Value-Based ERM,\u00a0evaluate opportunities to enhance the\u00a0existing ERM\u00a0practices and evolve their ERM programs over time.",
     "instructor":"Fabrice Fiol",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -91952,33 +92006,6 @@
     "course_code":"ERMC PS5350",
     "course_title":"INTRO TO QUANTITATIVE RISK MANAGEMENT",
     "course_descr":"Students without a strong math background and experience with Excel will require significant additional time and effort to achieve the learning objectives and work through the course assignments.\n  \nThis course builds a foundation in the mathematics and statistics of risk management. Students are empowered to understand the output of quantitative analysts and to do their own analytics. Concepts are presented in Excel and students will have the opportunity to practice those concepts in Excel, R or Python.\n  \nThis course is a required prerequisite for registering for the following courses: Coding for Risk Management, Financial Risk Management, Quantitative Risk Management, Credit Risk Management, Market Risk Management, Credit Risk Analytics, Applied Coding for Risk Management, Derivatives Risk Management, Model Risk Management, ERM Modeling, and Machine Learning for Risk Management.",
-    "instructor":"Roman Halfin",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
-    "call_number":"12000",
-    "campus":null,
-    "class_id":"K5350-20263-003",
-    "course_subtitle":"INTRO TO QUANT RISK MGMT",
-    "department":"Enterprise Risk Management",
-    "department_code":"ERMC",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ERMC\/K5350-20263-003\/",
-    "location":null,
-    "method_of_instruction":"In-Person",
-    "open_to":[
-      "Professional Studies"
-    ],
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":null,
-    "section_key":"20263ERMC5350K003",
-    "type":"LECTURE"
-  },
-  {
-    "course_code":"ERMC PS5350",
-    "course_title":"INTRO TO QUANTITATIVE RISK MANAGEMENT",
-    "course_descr":"Students without a strong math background and experience with Excel will require significant additional time and effort to achieve the learning objectives and work through the course assignments.\n  \nThis course builds a foundation in the mathematics and statistics of risk management. Students are empowered to understand the output of quantitative analysts and to do their own analytics. Concepts are presented in Excel and students will have the opportunity to practice those concepts in Excel, R or Python.\n  \nThis course is a required prerequisite for registering for the following courses: Coding for Risk Management, Financial Risk Management, Quantitative Risk Management, Credit Risk Management, Market Risk Management, Credit Risk Analytics, Applied Coding for Risk Management, Derivatives Risk Management, Model Risk Management, ERM Modeling, and Machine Learning for Risk Management.",
     "instructor":"Sudeep Lahiri",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -92489,33 +92516,6 @@
     "type":"LECTURE"
   },
   {
-    "course_code":"ERMC PS5420",
-    "course_title":"CREDIT RISK ANALYTICS",
-    "course_descr":"The field of credit risk management is undergoing a quiet revolution as subjective and manually-intensive methods give way to digitization, algorithmic management, and decision-making. This course provides a practical overview and hands-on experience with different methods, and it also provides a view of future technologies and discussions of potential future directions. Participants in this course should be well-positioned to take entry-level analytic positions and help drive strategic decisions.\n  \nThe first half of the course explores analytics used today for credit risk management. You will learn to create rating and scoring models and a macro scenario-based stress testing model. In the second half of the course, we explore more advanced tools used by the more prominent organizations and fintech firms, including neural net and XGBoost decision tree models.",
-    "instructor":"Douglas W Dwyer",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
-    "call_number":"12043",
-    "campus":null,
-    "class_id":"K5420-20263-D02",
-    "course_subtitle":null,
-    "department":"Enterprise Risk Management",
-    "department_code":"ERMC",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ERMC\/K5420-20263-D02\/",
-    "location":null,
-    "method_of_instruction":"On-Line Only",
-    "open_to":[
-      "Professional Studies"
-    ],
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":null,
-    "section_key":"20263ERMC5420KD02",
-    "type":"LECTURE"
-  },
-  {
     "course_code":"ERMC PS5430",
     "course_title":"LIQUIDITY RISK MANAGEMENT",
     "course_descr":"Indicators of companies running into hard times typically include revenue volatility, loss of key personnel, reputational damage, and increased litigation. However, company failures are frequently marked by insufficient liquidity, or the lack of cash to meet obligations. Liquidity risk is the unexpected change in a company\u2019s cash resources or demands on such resources that results in the untimely sale of assets, and\/or an inability to meet contractual demands and\/or default. In extreme cases, the lack of sufficient cash creates severe losses and results in company bankruptcy.\n  \nAn institution\u2019s cash resources and obligations can and must be managed. Indeed, the field of liquidity risk management is an established part of treasury departments at sizable institutions. The regularity of cash flows and the turbulence of business and markets must be assessed and quantified. This course provides students the tools and techniques to manage all types of liquidity challenges including the need to sell assets unexpectedly in the market, or work through \u2018\u2018run\u2010on-the\u2010bank\u2019\u2019 situations for financial services companies.",
@@ -92918,33 +92918,6 @@
     ],
     "scheduled_days":null,
     "section_key":"20263ERMC5535KD02",
-    "type":"LECTURE"
-  },
-  {
-    "course_code":"ERMC PS5535",
-    "course_title":"MANAGING STAKEHOLDER RISK IN THE ORGANIZ",
-    "course_descr":"In this course, students study major concepts of management and organization theory to understand human behavior in an organizational context, and then learn how to apply this to better manage interactions with key ERM stakeholders. Students will learn how to accomplish key ERM activities effectively while preserving and enhancing key internal relationships.\n \n The course provides a deep dive into how enterprise risk functions operate within organizations, blending theoretical frameworks with practical, real-world applications. Topics include individual and organizational psychology, risk culture, organizational structure and governance, and the dynamics of managing risk in complex institutions. Through case studies and class discussions, students explore the behavioral and structural dimensions that shape ERM practices.\n \n \nThis elective is open only to students within the ERM program.\u00a0This course (MSRO) is analogous to Managing Human Behavior in the Organization (MHBO), but customized for an ERM role. As a result, ERM students may not register for MHBO and those that have already taken MHBO may not register for MSRO.",
-    "instructor":"Ann Breslawski",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
-    "call_number":"12060",
-    "campus":null,
-    "class_id":"K5535-20263-D03",
-    "course_subtitle":"MANAGING STAKEHOLDER RISK",
-    "department":"Enterprise Risk Management",
-    "department_code":"ERMC",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ERMC\/K5535-20263-D03\/",
-    "location":null,
-    "method_of_instruction":"On-Line Only",
-    "open_to":[
-      "Professional Studies"
-    ],
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":null,
-    "section_key":"20263ERMC5535KD03",
     "type":"LECTURE"
   },
   {
@@ -97205,7 +97178,7 @@
     "course_code":"FILM GU4001",
     "course_title":"FILM & MEDIA THEORY-DISC",
     "course_descr":"Co-requisite undergraduate discussion section\u00a0for FILM GU 4000 Film & Media Theory.",
-    "instructor":null,
+    "instructor":"Molly Han",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"16861",
@@ -97335,7 +97308,7 @@
     "course_code":"FILM GU4301",
     "course_title":"Black Film and Media Discussion",
     "course_descr":"This course examines the historical and theoretical issues concerning the representation of African Americans in film and media. The course will provide a historical overview while focusing on key themes, concepts, and texts.",
-    "instructor":null,
+    "instructor":"Ian B Parker",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"14035",
@@ -102219,6 +102192,7 @@
       "General Studies",
       "Global Programs",
       "Professional Studies",
+      "Public Health",
       "SIPA",
       "Schools of the Arts"
     ],
@@ -102291,6 +102265,7 @@
       "General Studies",
       "Global Programs",
       "Professional Studies",
+      "Public Health",
       "SIPA",
       "Schools of the Arts"
     ],
@@ -102399,6 +102374,7 @@
       "General Studies",
       "Global Programs",
       "Professional Studies",
+      "Public Health",
       "SIPA",
       "Schools of the Arts"
     ],
@@ -129637,7 +129613,7 @@
     "call_number":"17891",
     "campus":null,
     "class_id":"J0004-20263-004",
-    "course_subtitle":"VC Video",
+    "course_subtitle":"VC PHOTO",
     "department":"Journalism",
     "department_code":"JOUR",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/JOUR\/J0004-20263-004\/",
@@ -154509,6 +154485,33 @@
     ],
     "scheduled_days":null,
     "section_key":"20263MSAE9301E001",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"MSAE E9301",
+    "course_title":"DOCTORAL RESEARCH",
+    "course_descr":null,
+    "instructor":"Marc W Spiegelman",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"20205",
+    "campus":null,
+    "class_id":"E9301-20263-012",
+    "course_subtitle":null,
+    "department":"Applied Physics and Applied Mathematics",
+    "department_code":"MSAE",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/MSAE\/E9301-20263-012\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "GSAS"
+    ],
+    "points":"0-15",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263MSAE9301E012",
     "type":"INDEPENDENT"
   },
   {
@@ -220660,33 +220663,6 @@
     "course_code":"SPMG PS5009",
     "course_title":"FINANCIAL ACCOUNTING",
     "course_descr":"Students will examine the generally accepted account principles (GAAP) underlying financial statements and their implementation in practice. The perspective and main focus of the course is from the users of the information contained in the statements, including investors, financial analysts, creditors and, management. By the end of this class students will be able to construct a cash flow statement, balance sheet and decipher a 10K report.",
-    "instructor":"Melissa Hall",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
-    "call_number":"12091",
-    "campus":null,
-    "class_id":"K5009-20263-001",
-    "course_subtitle":null,
-    "department":"Enterprise Risk Management",
-    "department_code":"SPMG",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SPMG\/K5009-20263-001\/",
-    "location":null,
-    "method_of_instruction":"In-Person",
-    "open_to":[
-      "Professional Studies"
-    ],
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":null,
-    "section_key":"20263SPMG5009K001",
-    "type":"LECTURE"
-  },
-  {
-    "course_code":"SPMG PS5009",
-    "course_title":"FINANCIAL ACCOUNTING",
-    "course_descr":"Students will examine the generally accepted account principles (GAAP) underlying financial statements and their implementation in practice. The perspective and main focus of the course is from the users of the information contained in the statements, including investors, financial analysts, creditors and, management. By the end of this class students will be able to construct a cash flow statement, balance sheet and decipher a 10K report.",
     "instructor":"Rebecca Shaffer",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -236498,7 +236474,7 @@
     "course_code":"VIAR UN3900",
     "course_title":"SENIOR THESIS I",
     "course_descr":"Department approval required. See requirements for a major in visual arts. VIAR UN3900 is the prerequisite for VIAR UN3901. Corequisites: VIAR UN3910 (Formerly R3901) Students must enroll in both semesters of the course (VIAR UN3900 and VIAR UN3901). The student is required to produce a significant body of work in which the ideas, method of investigation, and execution are determined by the student. A plan is developed in consultation with the faculty. Seminars; presentations. At the end, an exhibition or other public venue is presented for evaluation. Studio space is provided with a refundable deposit of $150.",
-    "instructor":"Delphine A Fawundu",
+    "instructor":"Naeem Mohaiemen",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"12993",

@@ -592,7 +592,7 @@
   {
     "course_code":"ANTH GR6162",
     "course_title":"Contemporary Archaeological Theory",
-    "course_descr":null,
+    "course_descr":"Archaeology is a sprawling, messy discipline and the role that theory does, should, and might play in the process of archaeological data collection, analysis, and interpretation has been highly contested. Archaeologists argue over whether there is such a thing as a stand-alone \u2018archaeological theory\u2019 and what kinds of theory from other disciplines should (or should not!) be imported. This course explores a range of recent theoretical conversations, orientations, and interventions within archaeology, with an eye to understanding what is currently at stake \u2013 and what is contested \u2013 in how archaeologists think about making archaeological knowledge in the contemporary moment. In doing so, this course encourages students to think about theory in archaeology as an important form of \u201cpractical knowledge\u201d or \u201cknow how\u201d for archaeologists (cf. Lucas 2018).",
     "instructor":"Hannah Chazin",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -771,7 +771,7 @@
   {
     "course_code":"ANTH UN2028",
     "course_title":"THINK LIKE AN ARCHAEOLOGIST",
-    "course_descr":null,
+    "course_descr":"This course provides a comprehensive introduction to methods and theory in archaeology \u2013 by exploring how archaeologists work to create narratives about the past (and the present) on the basis on the material remains of the past. The course begins with a consideration of how archaeologists deal with the remains of the past in the present: What are archaeological sites and how do we \u2018discover\u2019 them? How do archaeologists \u2018read\u2019 or analyze sites and artifacts? From there, we will turn to the question of how archaeologists interpret these materials traces, in order to create narratives about life in the past. After a review of the historical development of theoretical approaches in archaeological interpretation, the course will consider contemporary approaches to interpreting the past.",
     "instructor":"Hannah Chazin",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -785,9 +785,11 @@
     "location":null,
     "method_of_instruction":"In-Person",
     "open_to":[
+      "Architecture",
       "Columbia College",
       "Engineering:Undergraduate",
-      "General Studies"
+      "General Studies",
+      "SIPA"
     ],
     "points":"4",
     "prerequisites":[
@@ -1007,6 +1009,35 @@
     "scheduled_days":null,
     "section_key":"20271ANTH3976V001",
     "type":"SEMINAR"
+  },
+  {
+    "course_code":"ANTH UN3998",
+    "course_title":"SUPERVISED INDIVIDUAL RESEARCH",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"10541",
+    "campus":null,
+    "class_id":"W3998-20271-001",
+    "course_subtitle":"SUPERVISED INDIVIDUAL RES",
+    "department":"Anthropology",
+    "department_code":"ANTH",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ANTH\/W3998-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "General Studies"
+    ],
+    "points":"2-6",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271ANTH3998W001",
+    "type":"INDEPENDENT"
   },
   {
     "course_code":"ARCH GU4300",
@@ -10763,6 +10794,31 @@
     ],
     "scheduled_days":null,
     "section_key":"20271ENGL3195X001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGL BC3207",
+    "course_title":"THE 'GLOBAL' NOVEL",
+    "course_descr":null,
+    "instructor":"Atefeh Akbari Shahmirzadi",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"00900",
+    "campus":null,
+    "class_id":"X3207-20271-001",
+    "course_subtitle":null,
+    "department":"English @Barnard",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/X3207-20271-001\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271ENGL3207X001",
     "type":"LECTURE"
   },
   {
