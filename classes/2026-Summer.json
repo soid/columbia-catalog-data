@@ -47839,7 +47839,7 @@
   {
     "course_code":"STAT S4206",
     "course_title":"STAT COMP & INTRO DATA SCIENCE",
-    "course_descr":"Prerequisites: STAT GU4204 and GU4205 or the equivalent. Introduction to programming in the R statistical package: functions, objects, data structures, flow control, input and output, debugging, logical design, and abstraction. Writing code for numerical and graphical statistical analyses. Writing maintainable code and testing, stochastic simulations, paralleizing data analyses, and working with large data sets. Examples from data science will be used for demonstration.",
+    "course_descr":"This course introduces Python programming, covering data structures, control-flow, objects, and functions, along with libraries like re, requests, numpy, pandas, scikit-learn, scipy, and more. These skills are applied to real-world data science tasks, including AB testing, data manipulation, modeling, optimization, simulations, and data visualization.\u00a0Students will develop computational thinking abilities, including problem decomposition, pattern recognition, data representation, abstraction, and algorithm design, through practical exercises.",
     "instructor":"Benjamin K Goodrich",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -47855,12 +47855,7 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-      [
-        "GU4205"
-      ],
-      [
-        "STAT GU4204"
-      ]
+
     ],
     "scheduled_days":null,
     "section_key":"20262STAT4206S001",
