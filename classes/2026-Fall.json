@@ -18669,7 +18669,7 @@
   {
     "course_code":"ASTR GR8003",
     "course_title":"ASTROPHYSICAL FLUID DYNAMICS",
-    "course_descr":null,
+    "course_descr":"Modeling of fluids represents the most fundamental tool to understand our Universe. This course will provide an introduction to fluid dynamics and related topics with applications to astrophysics.\u00a0 We will develop fluid dynamics first from the macroscopic view (concept of \u201cfluid element\u201d), exploring general results as well as astrophysical applications.\u00a0 We will then examine the microscopic picture (the \u201ckinetic picture\u201d), showing an alternative way to derive the fluid equations.\u00a0 After a treatment of instabilities and turbulence, we will briefly explore plasma physics, moving finally to the ideal MHD limit and non-ideal MHD effects and exploring astrophysical applications.\u00a0 In addition, since much of the astrophysical research involving fluid dynamics is done through numerical simulations, a brief introduction to several key numerical concepts will be given by local experts, both in the fluid regime and in the kinetic regime.",
     "instructor":"Lorenzo Sironi",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -224835,7 +224835,7 @@
   {
     "course_code":"STAT GU4006",
     "course_title":"RECITATION FOR PROGRAMMING FOR DATA SCIE",
-    "course_descr":null,
+    "course_descr":"zero credit recitation for STAT GU4206",
     "instructor":"Haiyuan Wang",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -224851,7 +224851,9 @@
     "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "STAT GU4206"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20263STAT4006W001",
@@ -224860,7 +224862,7 @@
   {
     "course_code":"STAT GU4006",
     "course_title":"RECITATION FOR PROGRAMMING FOR DATA SCIE",
-    "course_descr":null,
+    "course_descr":"zero credit recitation for STAT GU4206",
     "instructor":"Benjamin K Goodrich",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -224876,7 +224878,9 @@
     "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "STAT GU4206"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20263STAT4006W002",
@@ -224885,7 +224889,7 @@
   {
     "course_code":"STAT GU4065",
     "course_title":"STOCHASTIC METHODS IN FINANCE - RECITATI",
-    "course_descr":null,
+    "course_descr":"This is only a request to create zero credit recitation for STAT4265GU\/5265GR Stochastic Methods in Finance starting in Fall 2026.",
     "instructor":"Graeme Baker",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -224901,7 +224905,9 @@
     "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "AT4265"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20263STAT4065W001",
