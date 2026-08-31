@@ -558,7 +558,7 @@
     "course_code":"ACTU PS5557",
     "course_title":"Internship Experience 2 - ACTU",
     "course_descr":"This asynchronous, 1.5-credit elective combines a supervised professional internship with guided analysis of workplace culture, ethics, and feedback practices. Students evaluate organizational values, inclusivity, and ethical decision-making while developing the skills needed to navigate professional environments and identify the workplace cultures in which they will thrive.",
-    "instructor":null,
+    "instructor":"Mariela Torres",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"12095",
@@ -12588,7 +12588,7 @@
     "course_code":"APAN PS5557",
     "course_title":"Internship Experience 2 - APAN",
     "course_descr":"This asynchronous, 1.5-credit elective combines a supervised professional internship with guided analysis of workplace culture, ethics, and feedback practices. Students evaluate organizational values, inclusivity, and ethical decision-making while developing the skills needed to navigate professional environments and identify the workplace cultures in which they will thrive.",
-    "instructor":null,
+    "instructor":"Mariela Torres",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"12097",
@@ -18292,6 +18292,114 @@
     ],
     "scheduled_days":null,
     "section_key":"20263ASCE1375V004",
+    "type":"DISCUSSION"
+  },
+  {
+    "course_code":"ASCE UN1377",
+    "course_title":"INTRO EAST ASIAN CIV-VIETNAM DISC",
+    "course_descr":"Corequisites: ASCE UN1367 Required discussion section to be taken with ASCE W 1367 - Intro to East Asian Civilizations: Vietnam.",
+    "instructor":"Jacqueline Jing Yu",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"20252",
+    "campus":null,
+    "class_id":"W1377-20263-001",
+    "course_subtitle":"INTRO EAST ASIAN CIV-VIET",
+    "department":"East Asian Languages and Cultures",
+    "department_code":"ASCE",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ASCE\/W1377-20263-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+      [
+        "ASCE UN1367"
+      ]
+    ],
+    "scheduled_days":null,
+    "section_key":"20263ASCE1377W001",
+    "type":"DISCUSSION"
+  },
+  {
+    "course_code":"ASCE UN1377",
+    "course_title":"INTRO EAST ASIAN CIV-VIETNAM DISC",
+    "course_descr":"Corequisites: ASCE UN1367 Required discussion section to be taken with ASCE W 1367 - Intro to East Asian Civilizations: Vietnam.",
+    "instructor":"Jacqueline Jing Yu",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"20253",
+    "campus":null,
+    "class_id":"W1377-20263-002",
+    "course_subtitle":"INTRO EAST ASIAN CIV-VIET",
+    "department":"East Asian Languages and Cultures",
+    "department_code":"ASCE",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ASCE\/W1377-20263-002\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+      [
+        "ASCE UN1367"
+      ]
+    ],
+    "scheduled_days":null,
+    "section_key":"20263ASCE1377W002",
+    "type":"DISCUSSION"
+  },
+  {
+    "course_code":"ASCE UN1377",
+    "course_title":"INTRO EAST ASIAN CIV-VIETNAM DISC",
+    "course_descr":"Corequisites: ASCE UN1367 Required discussion section to be taken with ASCE W 1367 - Intro to East Asian Civilizations: Vietnam.",
+    "instructor":"Danny Ching",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"20254",
+    "campus":null,
+    "class_id":"W1377-20263-003",
+    "course_subtitle":"INTRO EAST ASIAN CIV-VIET",
+    "department":"East Asian Languages and Cultures",
+    "department_code":"ASCE",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ASCE\/W1377-20263-003\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+      [
+        "ASCE UN1367"
+      ]
+    ],
+    "scheduled_days":null,
+    "section_key":"20263ASCE1377W003",
+    "type":"DISCUSSION"
+  },
+  {
+    "course_code":"ASCE UN1377",
+    "course_title":"INTRO EAST ASIAN CIV-VIETNAM DISC",
+    "course_descr":"Corequisites: ASCE UN1367 Required discussion section to be taken with ASCE W 1367 - Intro to East Asian Civilizations: Vietnam.",
+    "instructor":"Danny Ching",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"20255",
+    "campus":null,
+    "class_id":"W1377-20263-004",
+    "course_subtitle":"INTRO EAST ASIAN CIV-VIET",
+    "department":"East Asian Languages and Cultures",
+    "department_code":"ASCE",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ASCE\/W1377-20263-004\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+      [
+        "ASCE UN1367"
+      ]
+    ],
+    "scheduled_days":null,
+    "section_key":"20263ASCE1377W004",
     "type":"DISCUSSION"
   },
   {
@@ -45586,7 +45694,11 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/CLMT\/G5018-20263-001\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "GSAS",
+      "Professional Studies",
+      "SIPA"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -45611,7 +45723,11 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/CLMT\/G5020-20263-001\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "GSAS",
+      "Professional Studies",
+      "SIPA"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -45637,6 +45753,9 @@
     "location":null,
     "method_of_instruction":"In-Person",
     "open_to":[
+      "GSAS",
+      "Professional Studies",
+      "SIPA",
       "Schools of the Arts"
     ],
     "points":"3",
@@ -45663,7 +45782,11 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/CLMT\/G5046-20263-001\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "GSAS",
+      "Professional Studies",
+      "SIPA"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -45688,7 +45811,11 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/CLMT\/G5047-20263-001\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "GSAS",
+      "Professional Studies",
+      "SIPA"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -45713,7 +45840,11 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/CLMT\/G5048-20263-001\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "GSAS",
+      "Professional Studies",
+      "SIPA"
+    ],
     "points":"1.5",
     "prerequisites":[
 
@@ -45738,7 +45869,13 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/CLMT\/G5049-20263-001\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "Columbia College",
+      "GSAS",
+      "General Studies",
+      "Professional Studies",
+      "SIPA"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -45888,7 +46025,11 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/CLMT\/G5051-20263-001\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "GSAS",
+      "Professional Studies",
+      "SIPA"
+    ],
     "points":"1.5",
     "prerequisites":[
 
@@ -46013,7 +46154,11 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/CLMT\/G5070-20263-001\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "GSAS",
+      "Professional Studies",
+      "SIPA"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -46038,7 +46183,11 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/CLMT\/G5115-20263-001\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "GSAS",
+      "Professional Studies",
+      "SIPA"
+    ],
     "points":"1.5",
     "prerequisites":[
 
@@ -46063,7 +46212,10 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/CLMT\/G5120-20263-001\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "Engineering:Graduate",
+      "Engineering:Undergraduate"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -46413,7 +46565,11 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/CLMT\/G5017-20263-001\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "GSAS",
+      "Professional Studies",
+      "SIPA"
+    ],
     "points":"1.5",
     "prerequisites":[
 
@@ -46438,7 +46594,13 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/CLMT\/G5019-20263-001\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "Columbia College",
+      "GSAS",
+      "General Studies",
+      "Professional Studies",
+      "SIPA"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -47273,7 +47435,7 @@
     "course_code":"CNAD PS5557",
     "course_title":"Internship Experience 2 - CNAD",
     "course_descr":"This asynchronous, 1.5-credit elective combines a supervised professional internship with guided analysis of workplace culture, ethics, and feedback practices. Students evaluate organizational values, inclusivity, and ethical decision-making while developing the skills needed to navigate professional environments and identify the workplace cultures in which they will thrive.",
-    "instructor":null,
+    "instructor":"Mariela Torres",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"12099",
@@ -50676,7 +50838,7 @@
     "course_code":"COMM PS5557",
     "course_title":"Internship Experience 2 - COMM",
     "course_descr":"This asynchronous, 1.5-credit elective combines a supervised professional internship with guided analysis of workplace culture, ethics, and feedback practices. Students evaluate organizational values, inclusivity, and ethical decision-making while developing the skills needed to navigate professional environments and identify the workplace cultures in which they will thrive.",
-    "instructor":null,
+    "instructor":"Mariela Torres",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"12102",
@@ -55625,7 +55787,7 @@
     "course_code":"COMS W4995",
     "course_title":"TOPICS IN COMPUTER SCIENCE",
     "course_descr":"Selected topics in computer science. Content and prerequisites vary between sections and semesters.\u00a0May be repeated for credit. Check \u201ctopics course\u201d webpage on the department website for more information on each section.",
-    "instructor":null,
+    "instructor":"Ricardo Miotto",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"20176",
@@ -68245,7 +68407,7 @@
     "course_code":"ECON GU4415",
     "course_title":"GAME THEORY",
     "course_descr":"Prerequisites: ECON UN3211 and ECON UN3213 Introduction to the systematic treatment of game theory and its applications in economic analysis.",
-    "instructor":null,
+    "instructor":"Michael Richter",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"15469",
@@ -88433,7 +88595,7 @@
     "course_code":"ENGL UN2001",
     "course_title":"Approaches to Literary Study Seminar",
     "course_descr":"Prerequisites: Students who register for ENGL UN2001 must also register for ENGL UN2000 Approaches to Literary Study lecture. This course is intended to introduce students to the advanced study of literature, through a weekly pairing of a faculty lecture (ENGL 2000) and small seminar led by an advanced doctoral candidate (ENGL 2001).\u00a0 Students in the course will read works from across literary history, learning the different interpretive techniques appropriate to each of the major genres (poetry, drama, and prose fiction).\u00a0 Students will also encounter the wide variety of critical approaches taken by our faculty and by the discipline at large, and will be encouraged to adapt and combine these approaches as they develop as thinkers, readers, and writers.\u00a0 ENGL 2000\/2001 is a requirement for both the English Major and English Minor.\u00a0 While it is not a general prerequisite for other lectures and seminars, it should be taken as early as possible in a student's academic program.",
-    "instructor":null,
+    "instructor":"Wesley F Cornwell",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"12243",
@@ -88501,7 +88663,7 @@
     "course_code":"ENGL UN2001",
     "course_title":"Approaches to Literary Study Seminar",
     "course_descr":"Prerequisites: Students who register for ENGL UN2001 must also register for ENGL UN2000 Approaches to Literary Study lecture. This course is intended to introduce students to the advanced study of literature, through a weekly pairing of a faculty lecture (ENGL 2000) and small seminar led by an advanced doctoral candidate (ENGL 2001).\u00a0 Students in the course will read works from across literary history, learning the different interpretive techniques appropriate to each of the major genres (poetry, drama, and prose fiction).\u00a0 Students will also encounter the wide variety of critical approaches taken by our faculty and by the discipline at large, and will be encouraged to adapt and combine these approaches as they develop as thinkers, readers, and writers.\u00a0 ENGL 2000\/2001 is a requirement for both the English Major and English Minor.\u00a0 While it is not a general prerequisite for other lectures and seminars, it should be taken as early as possible in a student's academic program.",
-    "instructor":null,
+    "instructor":"Steven E Glavey",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"12245",
@@ -88535,7 +88697,7 @@
     "course_code":"ENGL UN2001",
     "course_title":"Approaches to Literary Study Seminar",
     "course_descr":"Prerequisites: Students who register for ENGL UN2001 must also register for ENGL UN2000 Approaches to Literary Study lecture. This course is intended to introduce students to the advanced study of literature, through a weekly pairing of a faculty lecture (ENGL 2000) and small seminar led by an advanced doctoral candidate (ENGL 2001).\u00a0 Students in the course will read works from across literary history, learning the different interpretive techniques appropriate to each of the major genres (poetry, drama, and prose fiction).\u00a0 Students will also encounter the wide variety of critical approaches taken by our faculty and by the discipline at large, and will be encouraged to adapt and combine these approaches as they develop as thinkers, readers, and writers.\u00a0 ENGL 2000\/2001 is a requirement for both the English Major and English Minor.\u00a0 While it is not a general prerequisite for other lectures and seminars, it should be taken as early as possible in a student's academic program.",
-    "instructor":null,
+    "instructor":"Sam Lim-Kimberg",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"12246",
@@ -88569,7 +88731,7 @@
     "course_code":"ENGL UN2001",
     "course_title":"Approaches to Literary Study Seminar",
     "course_descr":"Prerequisites: Students who register for ENGL UN2001 must also register for ENGL UN2000 Approaches to Literary Study lecture. This course is intended to introduce students to the advanced study of literature, through a weekly pairing of a faculty lecture (ENGL 2000) and small seminar led by an advanced doctoral candidate (ENGL 2001).\u00a0 Students in the course will read works from across literary history, learning the different interpretive techniques appropriate to each of the major genres (poetry, drama, and prose fiction).\u00a0 Students will also encounter the wide variety of critical approaches taken by our faculty and by the discipline at large, and will be encouraged to adapt and combine these approaches as they develop as thinkers, readers, and writers.\u00a0 ENGL 2000\/2001 is a requirement for both the English Major and English Minor.\u00a0 While it is not a general prerequisite for other lectures and seminars, it should be taken as early as possible in a student's academic program.",
-    "instructor":null,
+    "instructor":"Samuel Wilcox",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"12247",
@@ -93030,7 +93192,7 @@
     "course_code":"ERMC PS5557",
     "course_title":"Internship Experience 2 - ERM",
     "course_descr":"This asynchronous, 1.5-credit elective combines a supervised professional internship with guided analysis of workplace culture, ethics, and feedback practices. Students evaluate organizational values, inclusivity, and ethical decision-making while developing the skills needed to navigate professional environments and identify the workplace cultures in which they will thrive.",
-    "instructor":null,
+    "instructor":"Mariela Torres",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"12103",
@@ -107811,7 +107973,7 @@
     "course_code":"HCM_ PS5557",
     "course_title":"Internship Experience 2 - HCM",
     "course_descr":"This asynchronous, 1.5-credit elective combines a supervised professional internship with guided analysis of workplace culture, ethics, and feedback practices. Students evaluate organizational values, inclusivity, and ethical decision-making while developing the skills needed to navigate professional environments and identify the workplace cultures in which they will thrive.",
-    "instructor":null,
+    "instructor":"Mariela Torres",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"12105",
@@ -109710,6 +109872,31 @@
     ],
     "scheduled_days":null,
     "section_key":"20263HIST2348W001",
+    "type":"DISCUSSION"
+  },
+  {
+    "course_code":"HIST UN2348",
+    "course_title":"Conquests and Transformations: Ireland s",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"20257",
+    "campus":null,
+    "class_id":"W2348-20263-002",
+    "course_subtitle":"Ireland since 1500 - DISC",
+    "department":"History",
+    "department_code":"HIST",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HIST\/W2348-20263-002\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263HIST2348W002",
     "type":"DISCUSSION"
   },
   {
@@ -125642,13 +125829,13 @@
     "course_code":"IKNS PS5557",
     "course_title":"Internship Experience 2 - IKNS",
     "course_descr":"This asynchronous, 1.5-credit elective combines a supervised professional internship with guided analysis of workplace culture, ethics, and feedback practices. Students evaluate organizational values, inclusivity, and ethical decision-making while developing the skills needed to navigate professional environments and identify the workplace cultures in which they will thrive.",
-    "instructor":null,
+    "instructor":"Mariela Torres",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"12107",
     "campus":null,
     "class_id":"K5557-20263-D01",
-    "course_subtitle":"Internship in IKNS",
+    "course_subtitle":"Internship Experience 2 -",
     "department":"Information & Knowledge Strat",
     "department_code":"IKNS",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/IKNS\/K5557-20263-D01\/",
@@ -157574,13 +157761,13 @@
     "course_code":"NECR PS5557",
     "course_title":"Internship Experience 2 - NECR",
     "course_descr":"This asynchronous, 1.5-credit elective combines a supervised professional internship with guided analysis of workplace culture, ethics, and feedback practices. Students evaluate organizational values, inclusivity, and ethical decision-making while developing the skills needed to navigate professional environments and identify the workplace cultures in which they will thrive.",
-    "instructor":null,
+    "instructor":"Mariela Torres",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"12109",
     "campus":null,
     "class_id":"K5557-20263-D01",
-    "course_subtitle":"Internship in NECR",
+    "course_subtitle":"Internship Experience 2 -",
     "department":"Negotiation & Conflict Resolution",
     "department_code":"NECR",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/NECR\/K5557-20263-D01\/",
@@ -158555,13 +158742,13 @@
     "course_code":"NMED PS5557",
     "course_title":"Internship Experience 2 - NMED",
     "course_descr":"This asynchronous, 1.5-credit elective combines a supervised professional internship with guided analysis of workplace culture, ethics, and feedback practices. Students evaluate organizational values, inclusivity, and ethical decision-making while developing the skills needed to navigate professional environments and identify the workplace cultures in which they will thrive.",
-    "instructor":null,
+    "instructor":"Mariela Torres",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"12111",
     "campus":null,
     "class_id":"K5557-20263-D01",
-    "course_subtitle":"Internship in NMED",
+    "course_subtitle":"Internship Experience 2 -",
     "department":"Narrative Medicine",
     "department_code":"NMED",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/NMED\/K5557-20263-D01\/",
@@ -159201,7 +159388,7 @@
     "course_code":"NOPM PS5557",
     "course_title":"Internship Experience 2 - NOPM",
     "course_descr":"This asynchronous, 1.5-credit elective combines a supervised professional internship with guided analysis of workplace culture, ethics, and feedback practices. Students evaluate organizational values, inclusivity, and ethical decision-making while developing the skills needed to navigate professional environments and identify the workplace cultures in which they will thrive.",
-    "instructor":null,
+    "instructor":"Mariela Torres",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"12130",
@@ -160800,7 +160987,7 @@
     "course_code":"NURS N6306",
     "course_title":"Science of Nursing Practice with Childbe",
     "course_descr":"This course expands upon foundational knowledge of biophysical health problems to provide a comprehensive understanding of nursing practice in sexual and reproductive health care. The course integrates biopsychosocial sciences, epidemiology, and nursing sciences to deliver patient-centered evidence-based care during family planning, the processes of pregnancy and birth, and in the care of the newborn. Students will develop critical thinking, clinical reasoning, and interprofessional collaboration skills to ensure safe, high-quality, and equitable care within the context of the person, family, and community.",
-    "instructor":null,
+    "instructor":"Melissa Morelli-Walsh",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"20185",
@@ -177836,7 +178023,7 @@
     "course_code":"PHYS GR6036",
     "course_title":"STATISTICAL MECHANICS",
     "course_descr":"Prerequisites: PHYS W4021-W4022-W4023, or their equivalents. Fundamentals of statistical mechanics; theory of ensembles; quantum statistics; imperfect gases; cooperative phenomena.",
-    "instructor":"Alfred H Mueller",
+    "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"12379",
@@ -182615,6 +182802,31 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"PLAN A4577",
+    "course_title":"GEOGRAPHICAL INFO SYS",
+    "course_descr":null,
+    "instructor":"Jonathan Stiles",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"20251",
+    "campus":null,
+    "class_id":"A4577-20263-003",
+    "course_subtitle":null,
+    "department":"Architecture, Planning and Preservation",
+    "department_code":"PLAN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PLAN\/A4577-20263-003\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263PLAN4577A003",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"PLAN A4881",
     "course_title":"PRACTICUM: PLANNING THE CULTURAL SPACE",
     "course_descr":null,
@@ -184043,13 +184255,13 @@
     "course_code":"PMGT PS5557",
     "course_title":"Internship Experience 2 - PMGT",
     "course_descr":"This asynchronous, 1.5-credit elective combines a supervised professional internship with guided analysis of workplace culture, ethics, and feedback practices. Students evaluate organizational values, inclusivity, and ethical decision-making while developing the skills needed to navigate professional environments and identify the workplace cultures in which they will thrive.",
-    "instructor":null,
+    "instructor":"Mariela Torres",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"15342",
     "campus":null,
     "class_id":"K5557-20263-D01",
-    "course_subtitle":"nternship Experience 2 -",
+    "course_subtitle":"Internship Experience 2 -",
     "department":"Project Management",
     "department_code":"PMGT",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/PMGT\/K5557-20263-D01\/",
@@ -184176,13 +184388,13 @@
     "course_code":"POAN PS5557",
     "course_title":"Internship Experience 2 - POAN",
     "course_descr":"This asynchronous, 1.5-credit elective combines a supervised professional internship with guided analysis of workplace culture, ethics, and feedback practices. Students evaluate organizational values, inclusivity, and ethical decision-making while developing the skills needed to navigate professional environments and identify the workplace cultures in which they will thrive.",
-    "instructor":null,
+    "instructor":"Mariela Torres",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"12179",
     "campus":null,
     "class_id":"K5557-20263-D01",
-    "course_subtitle":"Internship in POAN",
+    "course_subtitle":"Internship Experience 2 -",
     "department":"Political Analytics",
     "department_code":"POAN",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/POAN\/K5557-20263-D01\/",
@@ -193310,41 +193522,6 @@
     ],
     "scheduled_days":null,
     "section_key":"20263PSYC4482W001",
-    "type":"SEMINAR"
-  },
-  {
-    "course_code":"PSYC GU4491",
-    "course_title":"The Parental Brain",
-    "course_descr":"This course will provide an overview of the field of parental and social biology, with an emphasis on changes in the adult rodent brain surrounding childbirth and caretaking behavior. We will explore how the experience of parenthood prepares the brain for survival of offspring. We will also discuss the dynamic between caregivers and parents in order to provide the structure necessary to rear young. This course will illustrate the fortitude of molecular, behavioral and circuit level investigations in concert to unveil mechanisms of social learning.",
-    "instructor":"Bianca J Marlin",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
-    "call_number":"10662",
-    "campus":null,
-    "class_id":"G4491-20263-001",
-    "course_subtitle":null,
-    "department":"Psychology",
-    "department_code":"PSYC",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PSYC\/G4491-20263-001\/",
-    "location":null,
-    "method_of_instruction":"In-Person",
-    "open_to":[
-      "Columbia College",
-      "Engineering:Graduate",
-      "Engineering:Undergraduate",
-      "GSAS",
-      "General Studies",
-      "Global Programs",
-      "Professional Studies",
-      "SIPA",
-      "Schools of the Arts"
-    ],
-    "points":"4",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":null,
-    "section_key":"20263PSYC4491G001",
     "type":"SEMINAR"
   },
   {
@@ -220025,6 +220202,66 @@
     "type":"LANGUAGE"
   },
   {
+    "course_code":"SPAN UN2102",
+    "course_title":"INTERMEDIATE SPANISH II",
+    "course_descr":"Prerequisites: SPAN UN2101 or a score of 450-625 in the departments Placement Examination. An intensive course in Spanish language communicative competence, with stress on oral interaction, reading, writing and culture as a continuation of SPAN UN2101. All Columbia students must take Spanish language courses (UN 1101-3300) for a letter grade.",
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"20249",
+    "campus":null,
+    "class_id":"W2102-20263-012",
+    "course_subtitle":null,
+    "department":"Latin American and Iberian Cultures",
+    "department_code":"SPAN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SPAN\/W2102-20263-012\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+      [
+        "SPAN UN2101"
+      ],
+      [
+        "SPAN UN2101"
+      ]
+    ],
+    "scheduled_days":null,
+    "section_key":"20263SPAN2102W012",
+    "type":"LANGUAGE"
+  },
+  {
+    "course_code":"SPAN UN2102",
+    "course_title":"INTERMEDIATE SPANISH II",
+    "course_descr":"Prerequisites: SPAN UN2101 or a score of 450-625 in the departments Placement Examination. An intensive course in Spanish language communicative competence, with stress on oral interaction, reading, writing and culture as a continuation of SPAN UN2101. All Columbia students must take Spanish language courses (UN 1101-3300) for a letter grade.",
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"20250",
+    "campus":null,
+    "class_id":"W2102-20263-013",
+    "course_subtitle":null,
+    "department":"Latin American and Iberian Cultures",
+    "department_code":"SPAN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SPAN\/W2102-20263-013\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+      [
+        "SPAN UN2101"
+      ],
+      [
+        "SPAN UN2101"
+      ]
+    ],
+    "scheduled_days":null,
+    "section_key":"20263SPAN2102W013",
+    "type":"LANGUAGE"
+  },
+  {
     "course_code":"SPAN UN2103",
     "course_title":"INTERMED SPAN II - MEDICAL",
     "course_descr":"Prerequisites: SPAN UN2101 or a score of 450-625 on the Department\u2019s placement examination. This is an intensive course in Spanish language communicative competence with an emphasis on oral interaction, reading, writing, and culture at an Intermediate II level with focus on health-related topics in the Spanish-speaking world. In an increasingly interconnected world, and in multilingual global cities such as New York City, the study of a foreign language is fundamental not only in the field of the humanities but also in the natural sciences. This interdisciplinary course analyzes the intersection between these two disciplines through the study of health-related topics in Iberian and Latin American cultural expressions (literature, film, documentaries, among other sources) in order to explore new critical perspectives across both domains. Students will learn health-related vocabulary and usage-based grammar in Spanish. Students will develop a cultural understanding of medicine, illness, and treatment in the Spanish-speaking world. Finally, students will be able to carry out specific collaborative tasks in Spanish with the aim of integrating language, culture, and health. * This course fulfills the last semester of the foreign language requirement. Therefore, students who have taken SPAN UN 2101 (Intermediate Spanish I), or have a score of 450-625 on the Department\u2019s placement exam, and are interested in health-related topics may proceed and enroll in SPAN UN 2103 (Intermediate Spanish II: Health-Related Topics in the Spanish-Speaking World). Pre-med and pre-health students, as well as those students majoring in the natural sciences\u2014including biology, general chemistry, organic chemistry, biochemistry, and physics\u2014will be given registration priority. All Columbia students must take Spanish language courses (UN 1101-3300) for a letter grade.",
@@ -221501,7 +221738,7 @@
     "course_code":"SPRT PS5557",
     "course_title":"Internship Experience 2 - SPRT",
     "course_descr":"This asynchronous, 1.5-credit elective combines a supervised professional internship with guided analysis of workplace culture, ethics, and feedback practices. Students evaluate organizational values, inclusivity, and ethical decision-making while developing the skills needed to navigate professional environments and identify the workplace cultures in which they will thrive.",
-    "instructor":null,
+    "instructor":"Mariela Torres",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"12181",
@@ -228233,7 +228470,7 @@
     "course_code":"SUMA PS5557",
     "course_title":"Internship Experience 2 - SUMA",
     "course_descr":"This asynchronous, 1.5-credit elective combines a supervised professional internship with guided analysis of workplace culture, ethics, and feedback practices. Students evaluate organizational values, inclusivity, and ethical decision-making while developing the skills needed to navigate professional environments and identify the workplace cultures in which they will thrive.",
-    "instructor":null,
+    "instructor":"Mariela Torres",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"12183",
@@ -229024,13 +229261,13 @@
     "course_code":"SUSC PS5557",
     "course_title":"Internship Experience 2 - SUSC",
     "course_descr":"This asynchronous, 1.5-credit elective combines a supervised professional internship with guided analysis of workplace culture, ethics, and feedback practices. Students evaluate organizational values, inclusivity, and ethical decision-making while developing the skills needed to navigate professional environments and identify the workplace cultures in which they will thrive.",
-    "instructor":null,
+    "instructor":"Mariela Torres",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"12185",
     "campus":null,
     "class_id":"K5557-20263-D01",
-    "course_subtitle":"Internship in SUSC",
+    "course_subtitle":"Internship Experience 2 -",
     "department":"Sustainability Science",
     "department_code":"SUSC",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SUSC\/K5557-20263-D01\/",
@@ -229436,7 +229673,7 @@
     ],
     "scheduled_days":null,
     "section_key":"20263TESTXXXX9001",
-    "type":"LECTURE"
+    "type":"LABORATORY"
   },
   {
     "course_code":"TEST 9XXXX",
@@ -229461,7 +229698,7 @@
     ],
     "scheduled_days":null,
     "section_key":"20263TESTXXXX9SD1",
-    "type":"LECTURE"
+    "type":"LABORATORY"
   },
   {
     "course_code":"TEST 9XXXX",
@@ -229486,7 +229723,7 @@
     ],
     "scheduled_days":null,
     "section_key":"20263TESTXXXX9SD2",
-    "type":"LECTURE"
+    "type":"LABORATORY"
   },
   {
     "course_code":"TEST 9XXXX",
@@ -229511,7 +229748,7 @@
     ],
     "scheduled_days":null,
     "section_key":"20263TESTXXXX9EM1",
-    "type":"LECTURE"
+    "type":"LABORATORY"
   },
   {
     "course_code":"THEA AR6017",
@@ -232678,7 +232915,7 @@
     "course_code":"TMGT PS5128",
     "course_title":"Essentials for Technology Management and",
     "course_descr":"This 3-credit core course in the M.S. in Technology Management program provides an overview of the strategic role of the technology function to improve business processes, drive transformations, and fuel innovation. Through lectures and applied case study work, students will learn how to develop and keep technology strategies aligned with business goals, navigate governance, regulatory, and budgetary frameworks, and evaluate risks to protect the organization\u2019s IT investments.",
-    "instructor":null,
+    "instructor":"Art Sedighi",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"12430",
@@ -233137,7 +233374,7 @@
     "course_code":"TMGT PS5557",
     "course_title":"Internship Experience 2 - TMGT",
     "course_descr":"This asynchronous, 1.5-credit elective combines a supervised professional internship with guided analysis of workplace culture, ethics, and feedback practices. Students evaluate organizational values, inclusivity, and ethical decision-making while developing the skills needed to navigate professional environments and identify the workplace cultures in which they will thrive.",
-    "instructor":null,
+    "instructor":"Mariela Torres",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"12187",
