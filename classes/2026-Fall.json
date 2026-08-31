@@ -9095,7 +9095,7 @@
     "course_code":"ANTH UN1017",
     "course_title":"THE ORIGINS OF HUMAN SOCIETY-DISC",
     "course_descr":null,
-    "instructor":null,
+    "instructor":"Marini Thorne",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"00846",
@@ -9120,7 +9120,7 @@
     "course_code":"ANTH UN1017",
     "course_title":"THE ORIGINS OF HUMAN SOCIETY-DISC",
     "course_descr":null,
-    "instructor":null,
+    "instructor":"Marini Thorne",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"00847",
@@ -16621,7 +16621,7 @@
   },
   {
     "course_code":"ARCH A6740",
-    "course_title":"HIST PRESV THEORY & PRACTICE",
+    "course_title":"HIST PRESV THEORY IN PRACTICE",
     "course_descr":null,
     "instructor":"Jorge Otero-Pailos",
     "scheduled_time_start":null,
@@ -54847,7 +54847,7 @@
     "course_code":"COMS W4726",
     "course_title":"Deep Learning for Data Science",
     "course_descr":"Introductory course in deep learning covering core architectures (perceptrons, MLPs, CNNs, U-Nets, RNNs, transformers), training methods (supervised\/adversarial loss, autoencoders, diffusion, RL), and key topics (regularization, optimization); includes hands-on implementation in PyTorch with coding, experiments, and paper reviews; students learn to design, build, train, and evaluate deep networks and engage with current research.",
-    "instructor":null,
+    "instructor":"Djallel Bouneffouf",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"15508",
@@ -109981,7 +109981,7 @@
   {
     "course_code":"HIST UN2354",
     "course_title":"Shadow of the Sun King: Early Modern Fra",
-    "course_descr":null,
+    "course_descr":"Required discussion section for HIST UN2353",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -109997,7 +109997,9 @@
     "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "HIST UN2353"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20263HIST2354W002",
