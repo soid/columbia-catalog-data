@@ -21392,7 +21392,7 @@
   {
     "course_code":"FINC B8306",
     "course_title":"Capital Markets & Investments",
-    "course_descr":null,
+    "course_descr":"This course provides students with a rigorous foundation in capital markets and investments, emphasizing asset valuation from an applied perspective. It covers valuation techniques for financial securities, essential to portfolio management and risk management applications. Key topics include arbitrage, the term structure of interest rates, portfolio theory, diversification, equilibrium asset pricing models such as the CAPM, market efficiency and inefficiencies, performance evaluation, analysis of common pooled investment vehicles, behavioral finance, and tax-aware investment strategies. Through interactive activities, case studies, and simulations utilizing real-world market data, students will acquire analytical skills and foundational knowledge required for advanced finance courses and practical roles within the investment industry.\n  \nNote for MBA students: B5300 is a full term course offered only to EMBA students and is not available to MBA students. MBA students must complete B6301, Foundations of Valuation, to satisfy this prerequisite. If you sat the Corporate Finance exemption exam, please note this exam corresponds to B6302, the half term version, which does not fulfill the B5300 or B6301 requirement for this course.",
     "instructor":"Harry Mamaysky",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -21411,7 +21411,17 @@
     ],
     "points":"3",
     "prerequisites":[
-
+      [
+        "B5300"
+      ],
+      [
+        "B5300",
+        "B6301"
+      ],
+      [
+        "B6301",
+        "B6302"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20262FINC8306B001",
@@ -21420,7 +21430,7 @@
   {
     "course_code":"FINC B8306",
     "course_title":"Capital Markets & Investments",
-    "course_descr":null,
+    "course_descr":"This course provides students with a rigorous foundation in capital markets and investments, emphasizing asset valuation from an applied perspective. It covers valuation techniques for financial securities, essential to portfolio management and risk management applications. Key topics include arbitrage, the term structure of interest rates, portfolio theory, diversification, equilibrium asset pricing models such as the CAPM, market efficiency and inefficiencies, performance evaluation, analysis of common pooled investment vehicles, behavioral finance, and tax-aware investment strategies. Through interactive activities, case studies, and simulations utilizing real-world market data, students will acquire analytical skills and foundational knowledge required for advanced finance courses and practical roles within the investment industry.\n  \nNote for MBA students: B5300 is a full term course offered only to EMBA students and is not available to MBA students. MBA students must complete B6301, Foundations of Valuation, to satisfy this prerequisite. If you sat the Corporate Finance exemption exam, please note this exam corresponds to B6302, the half term version, which does not fulfill the B5300 or B6301 requirement for this course.",
     "instructor":"Harry Mamaysky",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -21440,7 +21450,17 @@
     ],
     "points":"3",
     "prerequisites":[
-
+      [
+        "B5300"
+      ],
+      [
+        "B5300",
+        "B6301"
+      ],
+      [
+        "B6301",
+        "B6302"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20262FINC8306B002",
