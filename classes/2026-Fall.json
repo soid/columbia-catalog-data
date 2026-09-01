@@ -2758,6 +2758,56 @@
     "type":"STUDIO"
   },
   {
+    "course_code":"AHIS BC3582",
+    "course_title":"DISCUSSION SECTION FOR AHIS BC3682",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"8:10am",
+    "scheduled_time_end":"9:00am",
+    "call_number":"01105",
+    "campus":null,
+    "class_id":"X3582-20263-001",
+    "course_subtitle":"DISC SECTION FOR AHIS BC3",
+    "department":"Art History @Barnard",
+    "department_code":"AHIS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/AHIS\/X3582-20263-001\/",
+    "location":"101A Barnard Hall",
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20263AHIS3582X001",
+    "type":"DISCUSSION"
+  },
+  {
+    "course_code":"AHIS BC3582",
+    "course_title":"DISCUSSION SECTION FOR AHIS BC3682",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"9:10am",
+    "scheduled_time_end":"10:00am",
+    "call_number":"01106",
+    "campus":null,
+    "class_id":"X3582-20263-002",
+    "course_subtitle":"DISC SECTION FOR AHIS BC3",
+    "department":"Art History @Barnard",
+    "department_code":"AHIS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/AHIS\/X3582-20263-002\/",
+    "location":"101A Barnard Hall",
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20263AHIS3582X002",
+    "type":"DISCUSSION"
+  },
+  {
     "course_code":"AHIS BC3667",
     "course_title":"CLOTHING",
     "course_descr":"Human beings create second, social, skins for themselves. Everyone designs interfaces between their bodies and the world around them.\u00a0From\u00a0pre-historic\u00a0ornaments to global industry, clothing has always been a crucial feature of people\u2019s survival, desires, and identity. This course studies clothing from the perspectives of anthropology, architecture, art, craft, economics, labor, law, psychology, semiotics, sociology, and sustainability. Issues include gender roles, local traditions, world-wide trade patterns, dress codes, the history of European fashion, dissident or disruptive styles, and the environmental consequences of what we wear today.",
@@ -16615,7 +16665,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":"T",
+    "scheduled_days":"R",
     "section_key":"20263ARCH6682A001",
     "type":"SEMINAR"
   },
@@ -16629,7 +16679,7 @@
     "call_number":"10613",
     "campus":null,
     "class_id":"A6740-20263-001",
-    "course_subtitle":"HIST PRESV THEORY & PRACT",
+    "course_subtitle":"HIST PRESV THEORY IN PRAC",
     "department":"Architecture, Planning and Preservation",
     "department_code":"ARCH",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ARCH\/A6740-20263-001\/",
@@ -17518,7 +17568,7 @@
     "department":"Architecture @Barnard",
     "department_code":"ARCH",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ARCH\/V1020-20263-001\/",
-    "location":"116 Lewisohn Hall",
+    "location":null,
     "method_of_instruction":null,
     "open_to":null,
     "points":"3",
@@ -21688,7 +21738,7 @@
     "department":"Biological Sciences @Barnard",
     "department_code":"BIOL",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/BIOL\/X1009-20263-001\/",
-    "location":"407 Barnard Hall, Tuesday 1:10pm-3:55pm 113 MILSTEIN CEN",
+    "location":"407 Barnard Hall, Tuesday 1:10pm-3:55pm 718 Sherman Fairchild Life Sciences Building",
     "method_of_instruction":null,
     "open_to":null,
     "points":"4.5",
@@ -24564,6 +24614,33 @@
     ],
     "scheduled_days":"TR",
     "section_key":"20263BIOL3022W001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"BIOL UN3022",
+    "course_title":"DEVELOPMENTAL BIOLOGY",
+    "course_descr":null,
+    "instructor":"Alice Heicklen",
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"2:25pm",
+    "call_number":"20321",
+    "campus":null,
+    "class_id":"W3022-20263-AU1",
+    "course_subtitle":null,
+    "department":"Auditing",
+    "department_code":"BIOL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/BIOL\/W3022-20263-AU1\/",
+    "location":"OTHR OTHER",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Audit Program"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20263BIOL3022WAU1",
     "type":"LECTURE"
   },
   {
@@ -32509,10 +32586,23 @@
     "location":"870 Kravis Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
+      "Architecture",
       "Business",
+      "Columbia College",
+      "Dental Medicine",
+      "Dental Medicine:Post-Grad",
       "Engineering:Graduate",
+      "Engineering:Undergraduate",
+      "GSAS",
+      "General Studies",
       "Journalism",
-      "SIPA"
+      "Medicine",
+      "Nursing",
+      "Professional Studies",
+      "Public Health",
+      "SIPA",
+      "Schools of the Arts",
+      "Social Work"
     ],
     "points":"3",
     "prerequisites":[
@@ -32598,10 +32688,23 @@
     "location":"490 Kravis Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
+      "Architecture",
       "Business",
+      "Columbia College",
+      "Dental Medicine",
+      "Dental Medicine:Post-Grad",
       "Engineering:Graduate",
+      "Engineering:Undergraduate",
+      "GSAS",
+      "General Studies",
       "Journalism",
-      "SIPA"
+      "Medicine",
+      "Nursing",
+      "Professional Studies",
+      "Public Health",
+      "SIPA",
+      "Schools of the Arts",
+      "Social Work"
     ],
     "points":"1.5",
     "prerequisites":[
@@ -44797,56 +44900,6 @@
     "type":"LECTURE"
   },
   {
-    "course_code":"CLCV GR5010",
-    "course_title":"GRADUATE RESEARCH COLLOQUIUM",
-    "course_descr":"The Graduate Research Colloquium is a forum that offers two types of research seminars over the course of the semester. In the first, formerly the Graduate Colloquium, up to six outside speakers are invited by the graduate organizers to present research papers to an audience of graduates, faculty and others interested within the larger NYC Classics community, and afterwards to engage in discussion. The second is a Work-in-Progress seminar in which Columbia Classics graduate students present their research to their graduate peers in whatever format they deem most conducive to conveying their research to their audience and receiving feedback. The audience for these eight seminars is restricted to graduate students, the instructor who presides over the course, and any faculty the graduate student presenters choose should choose to invite. At least one semester of the Graduate Research Colloquium is required for MAO students and PhD students must attend the course in both the Fall and Spring semesters of their first year.",
-    "instructor":"Paraskevi Martzavou",
-    "scheduled_time_start":"2:10pm",
-    "scheduled_time_end":"4:00pm",
-    "call_number":"10322",
-    "campus":null,
-    "class_id":"G5010-20263-001",
-    "course_subtitle":"GRADUATE RESEARCH COLLOQU",
-    "department":"Classics",
-    "department_code":"CLCV",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CLCV\/G5010-20263-001\/",
-    "location":null,
-    "method_of_instruction":"In-Person",
-    "open_to":null,
-    "points":"2",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"F",
-    "section_key":"20263CLCV5010G001",
-    "type":"COLLOQUIA"
-  },
-  {
-    "course_code":"CLCV GR5010",
-    "course_title":"GRADUATE RESEARCH COLLOQUIUM",
-    "course_descr":"The Graduate Research Colloquium is a forum that offers two types of research seminars over the course of the semester. In the first, formerly the Graduate Colloquium, up to six outside speakers are invited by the graduate organizers to present research papers to an audience of graduates, faculty and others interested within the larger NYC Classics community, and afterwards to engage in discussion. The second is a Work-in-Progress seminar in which Columbia Classics graduate students present their research to their graduate peers in whatever format they deem most conducive to conveying their research to their audience and receiving feedback. The audience for these eight seminars is restricted to graduate students, the instructor who presides over the course, and any faculty the graduate student presenters choose should choose to invite. At least one semester of the Graduate Research Colloquium is required for MAO students and PhD students must attend the course in both the Fall and Spring semesters of their first year.",
-    "instructor":"Katharina Volk",
-    "scheduled_time_start":"4:10pm",
-    "scheduled_time_end":"6:00pm",
-    "call_number":"10323",
-    "campus":null,
-    "class_id":"G5010-20263-002",
-    "course_subtitle":"GRADUATE RESEARCH COLLOQU",
-    "department":"Classics",
-    "department_code":"CLCV",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CLCV\/G5010-20263-002\/",
-    "location":null,
-    "method_of_instruction":"In-Person",
-    "open_to":null,
-    "points":"2",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"TF",
-    "section_key":"20263CLCV5010G002",
-    "type":"COLLOQUIA"
-  },
-  {
     "course_code":"CLCV GR5011",
     "course_title":"Proseminar",
     "course_descr":"Proseminar is designed to offer beginning MA and PhD students an overview of (i) the major sub-disciplinary areas that are gathered under the umbrella term \u2018classics\u2019, making it a fundamentally interdisciplinary field of enquiry, and (ii) the diverse methodologies that are standardly applied in many subfields of classical research and publication.",
@@ -44995,31 +45048,6 @@
     "scheduled_days":"F",
     "section_key":"20263CLCV1111W002",
     "type":"DISCUSSION"
-  },
-  {
-    "course_code":"CLCV UN3018",
-    "course_title":"Illness and Healing in the Classical wor",
-    "course_descr":"In this course we will explore the experience of illness and healing in ancient Greece and Rome, with some exploration of other contexts such as Egypt, Babylonia, and Christianity down to modern Greece. The class will focus on close reading of documents, from the viewpoint of the ill and of those who try to understand illness and act on their understanding. We will pay attention to medical texts such as the diagnostic writing of the Hippocratic corpus or the treatises of Galen, but also popular texts and artifacts such as ex-votos.",
-    "instructor":"Paraskevi Martzavou",
-    "scheduled_time_start":"11:40am",
-    "scheduled_time_end":"12:55pm",
-    "call_number":"10383",
-    "campus":null,
-    "class_id":"W3018-20263-001",
-    "course_subtitle":"Illness and Healing",
-    "department":"Classics",
-    "department_code":"CLCV",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CLCV\/W3018-20263-001\/",
-    "location":"603 Hamilton Hall",
-    "method_of_instruction":"In-Person",
-    "open_to":null,
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"TR",
-    "section_key":"20263CLCV3018W001",
-    "type":"SEMINAR"
   },
   {
     "course_code":"CLCV UN3244",
@@ -52941,6 +52969,33 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"COMS E6998",
+    "course_title":"TOPICS IN COMPUTER SCIENCE",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"20343",
+    "campus":null,
+    "class_id":"E6998-20263-C08",
+    "course_subtitle":"SCALING LLMS SYSTEMS OPT",
+    "department":"Video Network",
+    "department_code":"COMS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMS\/E6998-20263-C08\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Engineering:Graduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263COMS6998EC08",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"COMS E9902",
     "course_title":"SEMINAR IN COMPUTER SCIENCE",
     "course_descr":null,
@@ -54757,6 +54812,33 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"COMS W4701",
+    "course_title":"ARTIFICIAL INTELLIGENCE",
+    "course_descr":null,
+    "instructor":"Ansaf Salleb-Aouissi",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"20342",
+    "campus":null,
+    "class_id":"W4701-20263-C02",
+    "course_subtitle":null,
+    "department":"Video Network",
+    "department_code":"COMS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMS\/W4701-20263-C02\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Engineering:Graduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263COMS4701WC02",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"COMS W4705",
     "course_title":"NATURAL LANGUAGE PROCESSING",
     "course_descr":"Computational approaches to the analysis, understanding, and generation of natural language text at scale. Emphasis on machine learning techniques for NLP, including deep learning and large language models. Applications may include information extraction, sentiment analysis, question answering, summarization, machine translation, and conversational AI. Discussion of datasets, benchmarking and evaluation, interpretability, and ethical considerations.\n Due to significant overlap in content, only one of COMS 4705 or Barnard COMS 3705BC may be taken for credit.",
@@ -56043,7 +56125,7 @@
     "course_code":"CPLS UN3994",
     "course_title":"Senior Seminar Discussion Section",
     "course_descr":"Discussion session for CPLS 3991, Senior Seminar in Comparative Literature & Society. Mandatory for ICLS seniors in both CLS and MedHum majors.",
-    "instructor":null,
+    "instructor":"Pat Santalices Torres",
     "scheduled_time_start":"3:00pm",
     "scheduled_time_end":"4:00pm",
     "call_number":"14983",
@@ -56068,7 +56150,7 @@
     "course_code":"CPLS UN3994",
     "course_title":"Senior Seminar Discussion Section",
     "course_descr":"Discussion session for CPLS 3991, Senior Seminar in Comparative Literature & Society. Mandatory for ICLS seniors in both CLS and MedHum majors.",
-    "instructor":null,
+    "instructor":"Alfonso Correa Cabrera",
     "scheduled_time_start":"5:00pm",
     "scheduled_time_end":"6:00pm",
     "call_number":"14984",
@@ -62690,9 +62772,9 @@
     "course_code":"DVGO IA7320",
     "course_title":"Economic Development in Latin America",
     "course_descr":"This course introduces students to major historical and contemporary debates on Latin American economic development and its social consequences. It adopts a comparative perspective, examining the region\u2019s trajectory relative to North America, Western Europe, East Asia, and other developing regions. Particular attention is given to the institutional, political, geographic, and social factors that help explain Latin America\u2019s comparatively low long-run growth, productivity, equality, and social development.\n  \nThe course begins with long-term economic trends and competing explanations for the region\u2019s relative performance. It then examines the colonial legacy, including institutions, labor systems, landholding patterns, and state formation, comparing Latin America with other world regions. The course also explores post-independence development, the effects of the Industrial Revolution, and the export era from the late nineteenth century to 1929.\n  \nThe course then examines Latin American economic development during the twentieth and twenty-first centuries, including the Great Depression, World War II, state-led industrialization, the debt crisis, the lost decade of the 1980s, market-oriented reforms, and recent economic transformations. These experiences are compared with East Asia, advanced economies, and other developing regions. The final section addresses current issues, including macroeconomic policy, trade, structural transformation, inequality, labor markets, social policy, technological change, climate transition, demographic slowdown, recent global crises, and Latin America\u2019s future development prospects.",
-    "instructor":"Fabio Sanchez Torres",
-    "scheduled_time_start":"3:10pm",
-    "scheduled_time_end":"5:00pm",
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
     "call_number":"17060",
     "campus":null,
     "class_id":"U7320-20263-001",
@@ -62700,7 +62782,7 @@
     "department":"Development and Governance",
     "department_code":"DVGO",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/DVGO\/U7320-20263-001\/",
-    "location":"501A International Affairs Building",
+    "location":null,
     "method_of_instruction":"In-Person",
     "open_to":[
       "SIPA"
@@ -62709,7 +62791,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":"T",
+    "scheduled_days":null,
     "section_key":"20263DVGO7320U001",
     "type":"SEMINAR"
   },
@@ -86357,7 +86439,7 @@
     "department":"English and Comparative Literature",
     "department_code":"ENGL",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/G6300-20263-001\/",
-    "location":"612 Philosophy Hall",
+    "location":null,
     "method_of_instruction":"In-Person",
     "open_to":[
       "GSAS"
@@ -92381,6 +92463,33 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"ERMC PS5355",
+    "course_title":"CODING FOR RISK MANAGEMENT",
+    "course_descr":null,
+    "instructor":"David Weltz",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"20322",
+    "campus":null,
+    "class_id":"K5355-20263-AU1",
+    "course_subtitle":"CODING FOR RISK MANAGEMEN",
+    "department":"Auditing",
+    "department_code":"ERMC",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ERMC\/K5355-20263-AU1\/",
+    "location":"OTHR OTHER",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Audit Program"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20263ERMC5355KAU1",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"ERMC PS5360",
     "course_title":"FINANCIAL RISK MANAGEMENT",
     "course_descr":"A survey of market, credit, liquidity, and systemic risk. Includes case studies, risk quantification methods, and common mitigation techniques using portfolio management, hedging, and derivatives. Also addresses traditional risk management practices at banking institutions.",
@@ -94781,7 +94890,7 @@
     "department":"Film",
     "department_code":"FILM",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/FILM\/R5230-20263-005\/",
-    "location":"15T Riverside Church",
+    "location":"12T Riverside Church",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Schools of the Arts"
@@ -94835,7 +94944,7 @@
     "department":"Film",
     "department_code":"FILM",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/FILM\/R5230-20263-006\/",
-    "location":"12T Riverside Church",
+    "location":"15T Riverside Church",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Schools of the Arts"
@@ -103921,7 +104030,7 @@
     "department":"First-Year Seminar Program @Barnard",
     "department_code":"FYSB",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/FYSB\/X1001-20263-008\/",
-    "location":"404 Barnard Hall",
+    "location":"LL227 R&D SCIENCE",
     "method_of_instruction":null,
     "open_to":null,
     "points":"3",
@@ -104146,7 +104255,7 @@
     "department":"First-Year Seminar Program @Barnard",
     "department_code":"FYSB",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/FYSB\/X1001-20263-006\/",
-    "location":"111 MILSTEIN CEN",
+    "location":"318 Milbank Hall (Barnard)",
     "method_of_instruction":null,
     "open_to":null,
     "points":"3",
@@ -106067,7 +106176,7 @@
     "department":"German @Barnard",
     "department_code":"GERM",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/GERM\/X2210-20263-001\/",
-    "location":"318 Milbank Hall (Barnard)",
+    "location":"214 Milbank Hall (Barnard)",
     "method_of_instruction":null,
     "open_to":null,
     "points":"2",
@@ -106371,7 +106480,7 @@
     "department":"German @Barnard",
     "department_code":"GERM",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/GERM\/V2101-20263-004\/",
-    "location":"327 Milbank Hall (Barnard)",
+    "location":"214 Milbank Hall (Barnard)",
     "method_of_instruction":null,
     "open_to":null,
     "points":"4",
@@ -107153,31 +107262,6 @@
     "course_code":"GREK UN3997",
     "course_title":"DIRECTED READINGS IN GREEK LIT",
     "course_descr":"Prerequisites: the director of undergraduate studies permission. A program of reading in Greek literature, to be tested by a series of short papers, one long paper, or an oral or written examination.",
-    "instructor":"Paraskevi Martzavou",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
-    "call_number":"10356",
-    "campus":null,
-    "class_id":"V3997-20263-005",
-    "course_subtitle":"DIRECTED READINGS IN GREE",
-    "department":"Classics",
-    "department_code":"GREK",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/GREK\/V3997-20263-005\/",
-    "location":null,
-    "method_of_instruction":"In-Person",
-    "open_to":null,
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":null,
-    "section_key":"20263GREK3997V005",
-    "type":"INDEPENDENT"
-  },
-  {
-    "course_code":"GREK UN3997",
-    "course_title":"DIRECTED READINGS IN GREEK LIT",
-    "course_descr":"Prerequisites: the director of undergraduate studies permission. A program of reading in Greek literature, to be tested by a series of short papers, one long paper, or an oral or written examination.",
     "instructor":"Nancy Worman",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -107303,31 +107387,6 @@
     "course_code":"GREK UN3998",
     "course_title":"SUPERVISED RSRCH IN GREEK LIT",
     "course_descr":"Prerequisites: the director of undergraduate studies permission. A program of research in Greek literature. Research paper required.",
-    "instructor":"Paraskevi Martzavou",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
-    "call_number":"10361",
-    "campus":null,
-    "class_id":"V3998-20263-004",
-    "course_subtitle":"SUPERVISED RSRCH IN GREEK",
-    "department":"Classics",
-    "department_code":"GREK",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/GREK\/V3998-20263-004\/",
-    "location":null,
-    "method_of_instruction":"In-Person",
-    "open_to":null,
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":null,
-    "section_key":"20263GREK3998V004",
-    "type":"INDEPENDENT"
-  },
-  {
-    "course_code":"GREK UN3998",
-    "course_title":"SUPERVISED RSRCH IN GREEK LIT",
-    "course_descr":"Prerequisites: the director of undergraduate studies permission. A program of research in Greek literature. Research paper required.",
     "instructor":"Nancy Worman",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -107425,31 +107484,6 @@
     "type":"INDEPENDENT"
   },
   {
-    "course_code":"GRKM GU4460",
-    "course_title":"SUPERVISED INDEPENDENT RESEARCH",
-    "course_descr":"All supervisors will be Columbia faculty who hold a PhD. Students are responsible for identifying their own supervisor and it is at the discretion of faculty whether they accept to supervise independent research. Projects must be focused on Hellenic Studies and can be approached from any disciplinary background. Students are expected to develop their own reading list in consultation with their supervisor. In addition to completing assigned readings, the student must also write a Hellenic studies paper of 20 pages. Projects other than a research paper will be considered on a case-by-case basis. Hellenic Studies is an interdisciplinary field that revolves around two main axes: space and time. Its teaching and research are focused on the study of post-classical Greece in various fields: Language, Literature, History, Politics, Anthropology, Art, Archaeology, and in various periods: Late Antique, Medieval, Byzantine, Modern Greek etc. Therefore, the range of topics that are acceptable as a Hellenic Studies seminar paper is broad. It is upon each supervisor to discuss the specific topic with the student. The work submitted for this independent study course must be different from the work a student submits in other courses, including the Hellenic Studies Senior Research Seminar.",
-    "instructor":"Paraskevi Martzavou",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
-    "call_number":"14970",
-    "campus":null,
-    "class_id":"W4460-20263-004",
-    "course_subtitle":"SUPERVISED INDEPENDENT RE",
-    "department":"Classics",
-    "department_code":"GRKM",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/GRKM\/W4460-20263-004\/",
-    "location":null,
-    "method_of_instruction":"In-Person",
-    "open_to":null,
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":null,
-    "section_key":"20263GRKM4460W004",
-    "type":"INDEPENDENT"
-  },
-  {
     "course_code":"GRKM UN1101",
     "course_title":"ELEMENTARY MODERN GREEK I",
     "course_descr":"This is the first semester of a year-long course designed for students wishing to learn Greek as it is written and spoken in Greece today. As well as learning the skills necessary to read texts of moderate difficulty and converse on a wide range of topics, students explore Modern Greeces cultural landscape from parea to poetry to politics. Special attention will be paid to Greek New York. How do our, American, Greek-American definitions of language and culture differ from their, Greek ones?",
@@ -107542,7 +107576,7 @@
     "course_code":"GRKM UN3003",
     "course_title":"GREECE TODAY: LANG, LIT",
     "course_descr":"Prerequisites: GRKM un2102 This course builds on the elements of the language acquired in GRKM1101 through 2102, but new students may place into it, after special arrangement with the instructor. It introduces the students to a number of authentic multimodal materials drawn from a range of sources which include films, literary texts, media, music etc. in order to better understand Greece\u2019s current cultural, socio-economic, and political landscape. In doing so, it aims to foster transcultural understanding and intercultural competence, while further developing the four language skills: listening, speaking, reading and writing. Topics of discussion include language, gender equality, youth unemployment, education, queer identities, refugees, and the multilayered aspects of the crisis.Pre-requisite for this class: GRKM 2102 or placement test. Instructor\u2019s permission required if the students have not taken GRKM2102 or equivalent.",
-    "instructor":"Paraskevi Martzavou",
+    "instructor":"Nikolas Kakkoufa",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
     "call_number":"10346",
@@ -107664,31 +107698,6 @@
     ],
     "scheduled_days":null,
     "section_key":"20263GRKM3997V003",
-    "type":"INDEPENDENT"
-  },
-  {
-    "course_code":"GRKM UN3997",
-    "course_title":"DIRECTED READINGS",
-    "course_descr":"Designed for undergraduates who want to do directed reading in a period or on a topic not covered in the curriculum.",
-    "instructor":"Paraskevi Martzavou",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
-    "call_number":"14966",
-    "campus":null,
-    "class_id":"V3997-20263-004",
-    "course_subtitle":null,
-    "department":"Classics",
-    "department_code":"GRKM",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/GRKM\/V3997-20263-004\/",
-    "location":null,
-    "method_of_instruction":"In-Person",
-    "open_to":null,
-    "points":"1-4",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":null,
-    "section_key":"20263GRKM3997V004",
     "type":"INDEPENDENT"
   },
   {
@@ -112455,7 +112464,7 @@
     "course_code":"HPMN P8596",
     "course_title":"Computing in Context: Health Policy",
     "course_descr":"This course consists of two components: a computer science component and a health policy-specific component. The first component consists of lectures, homework assignments, and in-class quizzes in the Department of Computer Science, which introduce students to algorithmic problem solving and implementing solutions in Python. These lectures will include students enrolled in context sections from other parts of the University, and assume no prior experience with programming whatsoever. They will be supplemented by a weekly lab at CUMC for Mailman students, which will focus on guiding students through practical examples\/applications of the methods presented in the lectures. The second component of the class is context-specific, and includes a health policy analysis project, in which students apply programming methods learned in class to a health policy problem, as well as context lectures given at CUMC in the second half of the semester. These context lectures will focus on the ever-expanding role of computing and \u201cbig data\u201d in health policy and healthcare, and will discuss recent research on these topics. Attendance for all lectures and labs is mandatory.",
-    "instructor":null,
+    "instructor":"Sarah Ashcroft-Jones",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"16477",
@@ -129983,6 +129992,81 @@
     "scheduled_days":"T",
     "section_key":"20263JOUR0004J004",
     "type":"REGISTRATION"
+  },
+  {
+    "course_code":"JOUR J0008",
+    "course_title":"LAB FEE REG",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"20345",
+    "campus":null,
+    "class_id":"J0008-20263-001",
+    "course_subtitle":"VC Photo Camera Gear Fee",
+    "department":"Journalism",
+    "department_code":"JOUR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/JOUR\/J0008-20263-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263JOUR0008J001",
+    "type":"DUMMY COURSE"
+  },
+  {
+    "course_code":"JOUR J0008",
+    "course_title":"LAB FEE REG",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"20347",
+    "campus":null,
+    "class_id":"J0008-20263-002",
+    "course_subtitle":"I&S Photo_Cole",
+    "department":"Journalism",
+    "department_code":"JOUR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/JOUR\/J0008-20263-002\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263JOUR0008J002",
+    "type":"DUMMY COURSE"
+  },
+  {
+    "course_code":"JOUR J0008",
+    "course_title":"LAB FEE REG",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"20348",
+    "campus":null,
+    "class_id":"J0008-20263-004",
+    "course_subtitle":"Fuji\/Berman",
+    "department":"Journalism",
+    "department_code":"JOUR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/JOUR\/J0008-20263-004\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263JOUR0008J004",
+    "type":"DUMMY COURSE"
   },
   {
     "course_code":"JOUR J4001",
@@ -150127,6 +150211,31 @@
     "type":"INDEPENDENT"
   },
   {
+    "course_code":"MECE E4899",
+    "course_title":"Research Training",
+    "course_descr":null,
+    "instructor":"P J Schuck",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"20346",
+    "campus":null,
+    "class_id":"E4899-20263-008",
+    "course_subtitle":null,
+    "department":"Mechanical Engineering",
+    "department_code":"MECE",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/MECE\/E4899-20263-008\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263MECE4899E008",
+    "type":"INDEPENDENT"
+  },
+  {
     "course_code":"MECE E4990",
     "course_title":"SPECIAL TOPICS IN ME",
     "course_descr":"Prerequisite(s): Permission of the instructor. Topics and Instructors change from year to year. For advanced undergraduate students and graduate students in engineering, physical sciences, and other fields.",
@@ -158754,7 +158863,7 @@
     "course_code":"NMED PS5120",
     "course_title":"METHODS: CLOSE READING & CREATIVE WRITIN",
     "course_descr":"TBA",
-    "instructor":null,
+    "instructor":"Derek S McCracken",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"12712",
@@ -158781,7 +158890,7 @@
     "course_code":"NMED PS5120",
     "course_title":"METHODS: CLOSE READING & CREATIVE WRITIN",
     "course_descr":"TBA",
-    "instructor":null,
+    "instructor":"Olga L Torres",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"12714",
@@ -158835,7 +158944,7 @@
     "course_code":"NMED PS5221",
     "course_title":"SOCIAL JUSTICE: NARRATIVES OF INEQUITY (",
     "course_descr":null,
-    "instructor":null,
+    "instructor":"Courtni K Jeffers",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"12717",
@@ -158943,7 +159052,7 @@
     "course_code":"NMED PS5305",
     "course_title":"NARRATIVE ETHICS (CERT)",
     "course_descr":null,
-    "instructor":null,
+    "instructor":"Sara S Kohrt",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"12719",
@@ -158970,7 +159079,7 @@
     "course_code":"NMED PS5305",
     "course_title":"NARRATIVE ETHICS (CERT)",
     "course_descr":null,
-    "instructor":null,
+    "instructor":"Deborah Starr",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"19831",
@@ -158997,7 +159106,7 @@
     "course_code":"NMED PS5375",
     "course_title":"Disability and Illness Narratives (CERT)",
     "course_descr":"This course examines questions such as: What does the telling and reading of narratives do for the ill or disabled individual? How can clinicians effectively elicit, interpret, and act upon such narratives? Who owns a story, and what is the role of co-authorship, power and witnessing in story-telling and story-listening? Whose voice do we hear? What are the roles of power and hierarchy in story-telling and listening? What is the impact of familial, cultural, social, institutional, political contexts on the individual story? And finally, how can personal stories be translated to political advocacy and action? Texts assigned weekly will be broadly interdisciplinary \u2013 drawing from memoir, poetry, essays, fiction, feature and documentary films, narrative theory, and disability studies, exploring the relationship between disability\/illness experience and narrative. This elective course is open to all students in the Narrative Medicine CPA program. Students should be prepared to engage with each other and with the instructor and to offer their questions, comments, insights, and analysis.\n  \nThis is an essential, practically applied element of narrative medicine study and it is exemplary as a way to illustrate the impact of narrative study in shaping experience, opening awareness, and highlighting the need for change and new stories. A narrative medicine course focused on disability and illness narratives is an important aspect of narrative medicine study. Exploring narratives presented in a variety of formats by using narrative medicine methods can encourage deeper perspective-taking and promote activism for underrepresented voices.\n  \nDisability and Illness Narratives: Storytelling For Awareness and Activism\n is an elective course in the Narrative Medicine CPA program. In addition, this course is open to cross-registrants in other programs who demonstrate some understanding of narrative medicine and\/or participate in the online asynchronous narrative medicine orientation course before the semester begins. Narrative Medicine CPA students are required to have completed, or be simultaneously enrolled in the course, \nNarrative Medicine Methods: Close Reading and Writing\n, course number K5120, and have completed the required program online asynchronous orientation course. CPA courses are all 10 weeks\/modules long, and they are online and asynchronous, which means there are no meeting times. Each module represents one week of the course. All modules begin on a Tuesday and end on Monday of th",
-    "instructor":null,
+    "instructor":"Joseph H Eveld",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"12724",
@@ -159080,7 +159189,7 @@
     "course_code":"NMED PS5430",
     "course_title":"WRITING CREATIVELY: CRAFT LAB & WORKSHOP",
     "course_descr":null,
-    "instructor":null,
+    "instructor":"Lynne B Mijangos",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"12723",
@@ -159134,7 +159243,7 @@
     "course_code":"NMED PS5500",
     "course_title":"PEDAGOGY: GOALS, METHODS, CONTEXTS  (CER",
     "course_descr":null,
-    "instructor":null,
+    "instructor":"Margaret A Cunney",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"12706",
@@ -159161,7 +159270,7 @@
     "course_code":"NMED PS5500",
     "course_title":"PEDAGOGY: GOALS, METHODS, CONTEXTS  (CER",
     "course_descr":null,
-    "instructor":null,
+    "instructor":"Kathy Riley",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"12708",
@@ -176563,6 +176672,33 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"PHIL UN1101",
+    "course_title":"METHODS OF PHILOSOPHIC THOUGHT",
+    "course_descr":null,
+    "instructor":"Akeel Bilgrami",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"11:25am",
+    "call_number":"20323",
+    "campus":null,
+    "class_id":"C1101-20263-AU1",
+    "course_subtitle":"METHODS OF PHILOSOPHIC TH",
+    "department":"Auditing",
+    "department_code":"PHIL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PHIL\/C1101-20263-AU1\/",
+    "location":"OTHR OTHER",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Audit Program"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20263PHIL1101CAU1",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"PHIL UN2101",
     "course_title":"HISTORY OF PHILOSOPHY I",
     "course_descr":"Corequisites: PHIL V2111 Required Discussion Section (0 points). Exposition and analysis of the positions of the major philosophers from the pre-Socratics through Augustine. This course has unrestricted enrollment.",
@@ -181759,7 +181895,7 @@
     "department":"Physics",
     "department_code":"PHYS",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/PHYS\/W3072-20263-001\/",
-    "location":"414 Pupin Laboratories",
+    "location":"705 Pupin Laboratories",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"2",
@@ -185353,7 +185489,7 @@
     "department":"Political Science @Barnard",
     "department_code":"POLS",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/POLS\/X3411-20263-001\/",
-    "location":"327 Milbank Hall (Barnard)",
+    "location":"111 MILSTEIN CEN",
     "method_of_instruction":null,
     "open_to":null,
     "points":"4",
@@ -193167,7 +193303,7 @@
     "department":"Psychology @Barnard",
     "department_code":"PSYC",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/PSYC\/X3465-20263-001\/",
-    "location":"308 Diana Center",
+    "location":"113 MILSTEIN CEN",
     "method_of_instruction":null,
     "open_to":[
       "Barnard College",
@@ -197165,6 +197301,31 @@
     "scheduled_days":null,
     "section_key":"20263PU__036_NFAL",
     "type":"PRECEPTORSHI"
+  },
+  {
+    "course_code":"QMSS GR5000",
+    "course_title":"ORIENTATION",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"20341",
+    "campus":null,
+    "class_id":"G5000-20263-001",
+    "course_subtitle":null,
+    "department":"Quantitative Methods\/Social Sciences",
+    "department_code":"QMSS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/QMSS\/G5000-20263-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263QMSS5000G001",
+    "type":"SEMINAR"
   },
   {
     "course_code":"QMSS GR5010",
@@ -202915,7 +203076,7 @@
     "course_title":"ELEMENTARY SINHALA I",
     "course_descr":"This course is designed to bring students with no background to a point where they can perform most basic linguistic functions in Sinhala, including greetings, likes\/dislikes, telling about yourself, describing places and situations, all in appropriate time frames. The class uses a highly interactive classroom style, supplemented by extensive use of video - both prepared and student-produced - and other computer-assisted tools. Please note this course is offered by videoconferencing from Cornell as part of the Shared Course Initiative.",
     "instructor":"Bandara Herath",
-    "scheduled_time_start":"4:10pm",
+    "scheduled_time_start":"4:00pm",
     "scheduled_time_end":"6:00pm",
     "call_number":"10484",
     "campus":null,
@@ -202924,14 +203085,14 @@
     "department":"Language Resource Center",
     "department_code":"SINH",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SINH\/W1101-20263-001\/",
-    "location":"351C International Affairs Building",
+    "location":"351C International Affairs Building, Thursday 10:30am-12:30pm 351C International Affairs Building",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"4",
     "prerequisites":[
 
     ],
-    "scheduled_days":"MW",
+    "scheduled_days":"T",
     "section_key":"20263SINH1101W001",
     "type":"LANGUAGE"
   },
@@ -210066,6 +210227,33 @@
     "type":"SEMINAR"
   },
   {
+    "course_code":"SLLT GR6100",
+    "course_title":"INTRODUCTION TO SLAVIC LITERARY THEORY",
+    "course_descr":null,
+    "instructor":"Mark Lipovetsky",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"12:00pm",
+    "call_number":"20324",
+    "campus":null,
+    "class_id":"G6100-20263-AU1",
+    "course_subtitle":"INTRO TO SLAVIC LITERARY",
+    "department":"Auditing",
+    "department_code":"SLLT",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SLLT\/G6100-20263-AU1\/",
+    "location":"OTHR OTHER",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Audit Program"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20263SLLT6100GAU1",
+    "type":"SEMINAR"
+  },
+  {
     "course_code":"SOAR AS4000",
     "course_title":"SOUND:Music, Math, and Mind",
     "course_descr":"This course is a detailed and hands-on (ears-on) exploration of the fundamental physical, physiological, and psychological aspects of sound. Topics covered include sound waves and their physical nature, the propagation and speed of sound in different mediums, geological and other non-living sound sources, animal and insect sound generating strategies, sound perception mechanisms and abilities in different species, the physiology of human hearing and the structure of the human ear, psycho-acoustics and human sound perception, sonic illusions and tricks of the ear.\n  \nIn-class experiments and research make up the majority of the class. Each student will design and lead at least one experiment\/demo session. Students also respond to creative weekly prompts about sound topics on courseworks.\n  \nWe also have visits with a number of special guests during the term.",
@@ -213388,7 +213576,7 @@
     "course_code":"SOCW T6009",
     "course_title":"EXPERIMENTAL SOCIAL WORK COURSES",
     "course_descr":null,
-    "instructor":"Faculty",
+    "instructor":"Elizabeth R Wolfson",
     "scheduled_time_start":"8:30pm",
     "scheduled_time_end":"10:20pm",
     "call_number":"16716",
@@ -228541,6 +228729,33 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"SUMA K6135",
+    "course_title":"SUMA PS6135 Art & Sustainability",
+    "course_descr":null,
+    "instructor":"Julie Reiss",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"6:00pm",
+    "call_number":"20335",
+    "campus":null,
+    "class_id":"K6135-20263-AU1",
+    "course_subtitle":"SUMA PS6135 Art & Sustain",
+    "department":"Auditing",
+    "department_code":"SUMA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SUMA\/K6135-20263-AU1\/",
+    "location":"OTHR OTHER",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Audit Program"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20263SUMA6135KAU1",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"SUMA PS4100",
     "course_title":"SUSTAINABILITY MANAGEMENT",
     "course_descr":"This course will begin by clearly defining what sustainability management is and determining if a sustainable economy is actually feasible. Students will learn to connect environmental protection to organizational management by exploring the technical, financial, managerial, and political challenges of effectively managing a sustainable environment and economy. This course is taught in a case-based format and will seek to help students learn the basics of management, environmental policy and sustainability economics. Sustainability management matters because we only have one planet, and we must learn how to manage our organizations in a way that ensures that the health of our planet can be maintained and bettered. This course is designed to introduce students to the field of sustainability management. It is not an academic course that reviews the literature of the field and discusses how scholars thing about the management of organizations that are environmentally sound. It is a practical course organized around the core concepts of sustainability.",
@@ -228638,6 +228853,33 @@
     ],
     "scheduled_days":"W",
     "section_key":"20263SUMA4100K004",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"SUMA PS4100",
+    "course_title":"SUSTAINABILITY MANAGEMENT",
+    "course_descr":null,
+    "instructor":"Fernando Ortiz Baez",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"20325",
+    "campus":null,
+    "class_id":"K4100-20263-AU1",
+    "course_subtitle":null,
+    "department":"Auditing",
+    "department_code":"SUMA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SUMA\/K4100-20263-AU1\/",
+    "location":"OTHR OTHER",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Audit Program"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20263SUMA4100KAU1",
     "type":"LECTURE"
   },
   {
@@ -228765,6 +229007,33 @@
     ],
     "scheduled_days":"M",
     "section_key":"20263SUMA4310K001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"SUMA PS4310",
+    "course_title":"PRAC-INNOVATV SUSTAIN LEADRSHP",
+    "course_descr":null,
+    "instructor":"Sophia Huda",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"20326",
+    "campus":null,
+    "class_id":"K4310-20263-AU1",
+    "course_subtitle":"PRAC-INNOVATV SUSTAIN LEA",
+    "department":"Auditing",
+    "department_code":"SUMA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SUMA\/K4310-20263-AU1\/",
+    "location":"OTHR OTHER",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Audit Program"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20263SUMA4310KAU1",
     "type":"LECTURE"
   },
   {
@@ -228968,6 +229237,33 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"SUMA PS5025",
+    "course_title":"CORPORATE SUSTAINABILITY REPORTING AND S",
+    "course_descr":null,
+    "instructor":"Suzanne M Klatt",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"20327",
+    "campus":null,
+    "class_id":"K5025-20263-AU1",
+    "course_subtitle":"CORP SUST REPORTING & STR",
+    "department":"Auditing",
+    "department_code":"SUMA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SUMA\/K5025-20263-AU1\/",
+    "location":"OTHR OTHER",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Audit Program"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20263SUMA5025KAU1",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"SUMA PS5035",
     "course_title":"GHG EMISSIONS: MEASURING AND MINIMIZING",
     "course_descr":"Global greenhouse gas (GHG) emissions are now at a record high, and the world\u2019s scientific community agrees that continued unabated release of greenhouse gases will have catastrophic consequences. Many efforts to curb greenhouse gas emissions, both public and private, have been underway for decades, yet it is now clear that collectively these efforts are failing, and that far more concerted efforts are necessary. In December 2015, the world\u2019s nations agreed in Paris to take actions to limit the future increase in global temperatures well below to 2\u00b0C, while pursuing efforts to limit the temperature increase even further to 1.5\u00b0C. Achieving this goal will require mitigation of greenhouse gas emissions from all sectors, both public and private. Critical to any attempt to mitigate greenhouse gas emissions is a clear, accurate understanding of the sources and levels of greenhouse gas emissions. This course will address all facets of greenhouse gas emissions accounting and reporting and will provide students with tangible skills needed to direct such efforts in the future.\n  \nStudents in this course will gain hands-on experience designing and executing greenhouse gas emissions inventories for companies, financial institutions and governments employing all necessary skills including the identification of analysis boundaries, \u00a0data collection, calculation of emissions levels, and reporting of results. In-class workshops and exercises will complement papers and group assignments. A key component of this course will be critical evaluation of both existing accounting and reporting standards as well as GHG emissions reduction target setting practices.\n  \nThis course will introduce many of the challenges facing carbon accounting practitioners and will require students to recommend solutions to these challenges derived through critical analysis. Classes will examine current examples of greenhouse gas reporting efforts and will allow students the opportunity to recommend improved calculation and reporting methods.",
@@ -229068,6 +229364,33 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"SUMA PS5040",
+    "course_title":"ESG ALIGNED CORPORATE GOVERNANCE",
+    "course_descr":null,
+    "instructor":"Bridget C Murphy",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"20328",
+    "campus":null,
+    "class_id":"K5040-20263-AU1",
+    "course_subtitle":"ESG ALIGNED CORP GOVERNAN",
+    "department":"Auditing",
+    "department_code":"SUMA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SUMA\/K5040-20263-AU1\/",
+    "location":"OTHR OTHER",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Audit Program"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20263SUMA5040KAU1",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"SUMA PS5050",
     "course_title":"CRITICAL URBAN INFRASTRUCTURE FOR SUSTAI",
     "course_descr":"What are urban infrastructures that promote sustainability? Such infrastructure must reduce environmental pollution at all scales, provide necessary urban services efficiently and enhance urban resilience to multiple potential crises. Sustainable infrastructure also must promote social and economic equity and environmental justice. And sustainable infrastructure must be economically feasible. This class will use these concepts to evaluate urban infrastructure and identify challenges to making urban infrastructure sustainable. Importantly, the course will use theories of urban transitions to help identify the drivers of potential change in infrastructure development and envision the emergence of sustainable infrastructure. This class will examine these notions across the energy, transportation, water supply and waste water treatment, buildings, health and open space urban sectors.",
@@ -229115,6 +229438,33 @@
     ],
     "scheduled_days":"T",
     "section_key":"20263SUMA5060K001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"SUMA PS5060",
+    "course_title":"SUSTAINABLE FASHION AND STARTUP STRATEGY",
+    "course_descr":null,
+    "instructor":"Ammar Belal",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"20329",
+    "campus":null,
+    "class_id":"K5060-20263-AU1",
+    "course_subtitle":"SUST FASHION & STARTUP ST",
+    "department":"Auditing",
+    "department_code":"SUMA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SUMA\/K5060-20263-AU1\/",
+    "location":"OTHR OTHER",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Audit Program"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20263SUMA5060KAU1",
     "type":"LECTURE"
   },
   {
@@ -229811,6 +230161,33 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"SUMA PS5247",
+    "course_title":"Special Topics: Urban Agriculture in NYC",
+    "course_descr":null,
+    "instructor":"Yolanda Gonzalez",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"20330",
+    "campus":null,
+    "class_id":"K5247-20263-AU1",
+    "course_subtitle":"ST: Urban Agriculture in",
+    "department":"Auditing",
+    "department_code":"SUMA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SUMA\/K5247-20263-AU1\/",
+    "location":"OTHR OTHER",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Audit Program"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20263SUMA5247KAU1",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"SUMA PS5255",
     "course_title":"DATA ANALYSIS AND VISUALIZATION IN SUSTA",
     "course_descr":"Data science is an exciting new field of applied research that takes advantage of the ever-growing volume of data being collected to support of decision-making in both the public and private sectors. Similar to traditional statistical analysis, these new approaches have limits and issues that are important to understand before application to problem solving. This is a full semester course taught in person.\u00a0 It aims to introduce the common methods used in data science, best practices in data management, and the basic scripting skills required to start analyzing data in R and Python. After introducing foundational scripting and data analysis methods, a case study approach will be used to highlight both what can be accomplished with data analysis and the limits of the data and methods used. Lab exercises will teach basic skills in scripting in Python and R and then move to a common approach for data analysis: adapting existing scripts and software libraries to solve applied data problems.\n  \n\u00a0\n  \nThe requirement to understand the interaction of social and natural systems requires data-driven policy decisions, and the ongoing assessment of policies requires rigorous, reproducible assessments of effectiveness for promoting sustainability. Both requirements can be met in part by data science approaches that are applicable to the natural and social sciences and reproducible in academic and applied settings. Data science techniques have been developed to derive insight from large volumes of available data that are often collected for purposes other than the interests of the data scientist. This flexibility in approach means that the techniques used in data science are well adapted to support gaining insights from data relevant for sustainability science. This course has been designed to introduce these techniques in anticipation of increased use in promoting sustainability.",
@@ -229986,6 +230363,33 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"SUMA PS5470",
+    "course_title":"CIRCULAR ECONOMY FOR SUSTAINABILITY PROF",
+    "course_descr":null,
+    "instructor":"Danielle Azoulay",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"20331",
+    "campus":null,
+    "class_id":"K5470-20263-AU1",
+    "course_subtitle":"CIRCULAR ECONOMY FOR SUST",
+    "department":"Auditing",
+    "department_code":"SUMA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SUMA\/K5470-20263-AU1\/",
+    "location":"OTHR OTHER",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Audit Program"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20263SUMA5470KAU1",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"SUMA PS5557",
     "course_title":"Internship Experience 2 - SUMA",
     "course_descr":"This asynchronous, 1.5-credit elective combines a supervised professional internship with guided analysis of workplace culture, ethics, and feedback practices. Students evaluate organizational values, inclusivity, and ethical decision-making while developing the skills needed to navigate professional environments and identify the workplace cultures in which they will thrive.",
@@ -230113,6 +230517,33 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"SUMA PS5720",
+    "course_title":"POLICY AND LEGAL CONTEXT FOR SUSTAINABIL",
+    "course_descr":null,
+    "instructor":"Patrick Foster",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"6:00pm",
+    "call_number":"20332",
+    "campus":null,
+    "class_id":"K5720-20263-AU1",
+    "course_subtitle":"POLICY & LEGAL CNTXT FOR",
+    "department":"Auditing",
+    "department_code":"SUMA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SUMA\/K5720-20263-AU1\/",
+    "location":"OTHR OTHER",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Audit Program"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"F",
+    "section_key":"20263SUMA5720KAU1",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"SUMA PS5770",
     "course_title":"Sustainable Management of Forests",
     "course_descr":"The course intends to give an overview of forests \u2013 how they function, and how they can be managed sustainably. The course addresses both the ecology and economics of forests. Combining the study of these two disciplines is necessary to understand and develop management actions and solutions to deforestation.\u00a0 The emphasis in integrating ecology and economics is going to be on learning tools and techniques for managing forests. The course accounts both for North American and forests in other countries, including tropical ones. Current typical conceptions of forests are somewhat paradoxical: forests are considered marginal in sustainability, and yet they connect with many issues of central concern such as biodiversity, climate change, household energy for the poor, homelands for indigenous people, water and human shelter, to name a few. More specifically, forests provide a fruitful line of inquiry into many environmental issues, such as the complex balances within ecosystems, global cycling of elements, such as carbon, the nature of sustainability, and interactions between economic development and the conservation of nature.\u00a0 For example, we will study biodiversity in forests. Much biodiversity is found outside of forests, but our study will provide an understanding of the ecological dynamics involved with biodiversity, the possible management options, and its importance for human survival. The course is going to emphasize the role of forests in the carbon cycle and the contribution of deforestation to climate change.",
@@ -230160,6 +230591,33 @@
     ],
     "scheduled_days":"T",
     "section_key":"20263SUMA5888K001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"SUMA PS5888",
+    "course_title":"Geographies of Environmental Justice and",
+    "course_descr":null,
+    "instructor":"John E Williams",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"20333",
+    "campus":null,
+    "class_id":"K5888-20263-AU1",
+    "course_subtitle":"Environmental Justice and",
+    "department":"Auditing",
+    "department_code":"SUMA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SUMA\/K5888-20263-AU1\/",
+    "location":"OTHR OTHER",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Audit Program"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20263SUMA5888KAU1",
     "type":"LECTURE"
   },
   {
@@ -230267,6 +230725,33 @@
     ],
     "scheduled_days":"W",
     "section_key":"20263SUMA6115K001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"SUMA PS6115",
+    "course_title":"Environmental Law and Policy in New York",
+    "course_descr":null,
+    "instructor":"Laura Popa",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"20334",
+    "campus":null,
+    "class_id":"K6115-20263-AU1",
+    "course_subtitle":"Environmental Law and Pol",
+    "department":"Auditing",
+    "department_code":"SUMA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SUMA\/K6115-20263-AU1\/",
+    "location":"OTHR OTHER",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Audit Program"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20263SUMA6115KAU1",
     "type":"LECTURE"
   },
   {
@@ -230602,6 +231087,33 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"SUSC PS5040",
+    "course_title":"SUSTAINABILITY IN THE FACE OF NATURAL DI",
+    "course_descr":null,
+    "instructor":"Einat Lev",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"6:00pm",
+    "call_number":"20336",
+    "campus":null,
+    "class_id":"K5040-20263-AU1",
+    "course_subtitle":"SUST IN FACE OF NATRL DIS",
+    "department":"Auditing",
+    "department_code":"SUSC",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SUSC\/K5040-20263-AU1\/",
+    "location":"OTHR OTHER",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Audit Program"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20263SUSC5040KAU1",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"SUSC PS5060",
     "course_title":"Scientific Programming for Sustainabilit",
     "course_descr":"Students in the Master of Science in Sustainability Science program will encounter a range of scientific problems throughout their Science-specific courses that require a strong working knowledge of computer programming.\u00a0 This course provides an introduction to scientific programming using Python. Computer coding skills gained in the course will prepare students for coursework in the Master of Science in Sustainability Science program as well as\u00a0to succeed in a career having a programming component.\u00a0 Students enrolled in this course will learn through lectures, class discussion, and hands-on exercises that address the following topics:\n  \n  \nBasics of computer programming, including precision of variables, arrays and data structures, input\/output, control flow, and subroutines.\n  \nApplying Python to read common scientific data formats, including NetCDF for gridded climate and other environmental data.\n  \nApplying Python for data analysis, with a focus on popular machine learning methods including linear regression, decision trees, neural networks, principal component analysis, and clustering.\n  \nApplying Python to visualize scientific data through basic X-Y plots as well as images of data fields on a global map.\n \n  \nThis course will train students to analyze and model scientific data using Python in order to better understand current and future environments and their interactions with human systems. \u00a0By learning analysis and modeling with Python, students will be better able to inform sustainability policy, management, and decision-making.",
@@ -230649,6 +231161,33 @@
     ],
     "scheduled_days":"M",
     "section_key":"20263SUSC5120K001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"SUSC PS5120",
+    "course_title":"THE TECHNOLOGY OF RENEWABLE ENERGY",
+    "course_descr":null,
+    "instructor":"Jonathan Hollander",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"20337",
+    "campus":null,
+    "class_id":"K5120-20263-AU1",
+    "course_subtitle":"THE TECHNOLOGY OF RENEWAB",
+    "department":"Auditing",
+    "department_code":"SUSC",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SUSC\/K5120-20263-AU1\/",
+    "location":"OTHR OTHER",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Audit Program"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20263SUSC5120KAU1",
     "type":"LECTURE"
   },
   {
@@ -230702,6 +231241,33 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"SUSC PS5210",
+    "course_title":"ENV SUST INDICATORS: CONSTRUCTION & USE",
+    "course_descr":null,
+    "instructor":"Alexander M Desherbinin",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"20338",
+    "campus":null,
+    "class_id":"K5210-20263-AU1",
+    "course_subtitle":"ENV SUST INDICATORS: CONS",
+    "department":"Auditing",
+    "department_code":"SUSC",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SUSC\/K5210-20263-AU1\/",
+    "location":"OTHR OTHER",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Audit Program"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20263SUSC5210KAU1",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"SUSC PS5250",
     "course_title":"AI, Climate, Sustainability and Society",
     "course_descr":"Course Overview\n  \nThis course provides students with a critical, evidence-based framework for understanding the relationship between artificial intelligence and the interconnected challenges of climate change, environmental sustainability, and our society. It is designed for graduate students and professionals in sustainability and climate science who will encounter AI systems throughout their professional lives, and will be equipped both to harness AI's capabilities and to interrogate its costs, blind spots, and distributional consequences. The course assumes no prior technical background in machine learning or computer science, but does require intellectual curiosity, comfort engaging with quantitative evidence, and willingness to work through genuinely contested questions.",
@@ -230752,6 +231318,33 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"SUSC PS5270",
+    "course_title":"Navigating conflict: Diverging stakehold",
+    "course_descr":null,
+    "instructor":"Robert Newton",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"6:00pm",
+    "call_number":"20339",
+    "campus":null,
+    "class_id":"K5270-20263-AU1",
+    "course_subtitle":"Navigating conflict",
+    "department":"Auditing",
+    "department_code":"SUSC",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SUSC\/K5270-20263-AU1\/",
+    "location":"OTHR OTHER",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Audit Program"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20263SUSC5270KAU1",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"SUSC PS5350",
     "course_title":"CARBON CAPTURE UTILIZATION AND STORAGE",
     "course_descr":"This course covers the technical and non-technical aspects of Carbon Utilization and Storage (CCUS), one of our most important and achievable tools to mitigate climate change. The course begins by presenting our global energy needs and the environmental motivation for CCUS and its natural analogues. Students will review the basic concepts and methods involved in CO2 capture, trapping, and monitoring, as well as established methods for modeling the fate of CO2in the subsurface. Students will then consider the needs and implications of CO2 capture from industrial sources (power plants) and directly from ambient air and examine current examples from around the world. This course will go on to discuss integrating CCUS with renewable energy sources (negative emission) and ocean storage options. Students will think through the challenges associated with CCUS, including the transportation of CO2to storage locations, regulations and incentives, and the public view and acceptance of this technology. The course will end with a discussion of where to go from here to find pathways to a carbon neutral future. At the conclusion of this course, each student will have gained a practical understanding of the potential for CCUS solutions to mitigate climate change and gain experience in presenting related technical and non-technical information to their peers. This will critically inform decision making and hone communication skills for future careers in fossil and renewable energy generation, power distribution, manufacturing, environmental policy, and scientific outreach.",
@@ -230774,6 +231367,33 @@
     ],
     "scheduled_days":"R",
     "section_key":"20263SUSC5350K001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"SUSC PS5350",
+    "course_title":"CARBON CAPTURE UTILIZATION AND STORAGE",
+    "course_descr":null,
+    "instructor":"David S Goldberg",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"6:00pm",
+    "call_number":"20340",
+    "campus":null,
+    "class_id":"K5350-20263-AU1",
+    "course_subtitle":"CARBON CAPTURE UTIL & STO",
+    "department":"Auditing",
+    "department_code":"SUSC",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SUSC\/K5350-20263-AU1\/",
+    "location":"OTHR OTHER",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Audit Program"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20263SUSC5350KAU1",
     "type":"LECTURE"
   },
   {
