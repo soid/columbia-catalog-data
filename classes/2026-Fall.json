@@ -11075,6 +11075,34 @@
     "type":"INDEPENDENT"
   },
   {
+    "course_code":"APAM E6650",
+    "course_title":"RESEARCH PROJECT",
+    "course_descr":null,
+    "instructor":"Alexander Gaeta",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"20482",
+    "campus":null,
+    "class_id":"E6650-20263-010",
+    "course_subtitle":null,
+    "department":"Applied Physics and Applied Mathematics",
+    "department_code":"APAM",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/APAM\/E6650-20263-010\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Engineering:Graduate",
+      "GSAS"
+    ],
+    "points":"1-6",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263APAM6650E010",
+    "type":"INDEPENDENT"
+  },
+  {
     "course_code":"APAM E9301",
     "course_title":"DOCTORAL RESEARCH",
     "course_descr":"Required of doctoral candidates.",
@@ -12443,7 +12471,7 @@
     "course_code":"APAN PS5430",
     "course_title":"APPLIED TEXT AND NATURAL LANGUAGE ANALYT",
     "course_descr":null,
-    "instructor":null,
+    "instructor":"Petros Zerfos",
     "scheduled_time_start":"8:10pm",
     "scheduled_time_end":"10:00pm",
     "call_number":"14957",
@@ -58299,7 +58327,9 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/CSOR\/W4246-20263-C01\/",
     "location":null,
     "method_of_instruction":"On-Line Only",
-    "open_to":null,
+    "open_to":[
+      "Engineering:Graduate"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -80306,6 +80336,31 @@
     "type":"INDEPENDENT"
   },
   {
+    "course_code":"ELEN E9800",
+    "course_title":"DOCTORAL RESEARCH INSTRUCTION",
+    "course_descr":null,
+    "instructor":"Mingoo Seok",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"20484",
+    "campus":null,
+    "class_id":"E9800-20263-006",
+    "course_subtitle":"DOCTORAL RESEARCH INSTRUC",
+    "department":"Electrical Engineering",
+    "department_code":"ELEN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ELEN\/E9800-20263-006\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"1-12",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263ELEN9800E006",
+    "type":"INDEPENDENT"
+  },
+  {
     "course_code":"EMPA IA6015",
     "course_title":"Public Finance",
     "course_descr":"Public Finance introduces the nuances of the US municipal financing market from the perspective of issuers, investors and intermediaries. Students will learn about traditional fixed rate bond structures, but will also look at innovative financing techniques that have been implemented in recent years. In-depth discussions of interest rate markets, especially the impacts of Federal Reserve policies and recent inflation pressures, and their impact on financing will be a key area of study. The growing pressures of public sector pensions are influencing how states and municipalities manage their budgets, and are under increased scrutiny by market participants; as such, pension accounting will be a focus area for the class as well. Financial distress and municipal bankruptcy will be examined through case studies of recent high profile issuers, such as the New York MTA, the City of Detroit and the Commonwealth of Puerto Rico.",
@@ -89512,8 +89567,8 @@
     "course_title":"AMER 12 PT PROG INTENSIVE",
     "course_descr":null,
     "instructor":null,
-    "scheduled_time_start":"1:10pm",
-    "scheduled_time_end":"4:00pm",
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"5:00pm",
     "call_number":"11022",
     "campus":null,
     "class_id":"Z0012-20263-002",
@@ -89521,7 +89576,7 @@
     "department":"American Language Program",
     "department_code":"ENGL",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/Z0012-20263-002\/",
-    "location":"609 Lewisohn Hall, Wednesday 10:10am-1:00pm 609 Lewisohn Hall, Wednesday Friday 2:10pm-5:00pm 607 Lewisohn Hall",
+    "location":"609 Lewisohn Hall, Tuesday Thursday 1:10pm-4:00pm 609 Lewisohn Hall, Wednesday 10:10am-1:00pm 609 Lewisohn Hall, Wednesday Friday 2:10pm-5:00pm 607 Lewisohn Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
       "ALP"
@@ -89530,7 +89585,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":"MTR",
+    "scheduled_days":"M",
     "section_key":"20263ENGL0012Z002",
     "type":"RESEARCH SEM"
   },
@@ -107678,7 +107733,7 @@
     "department":"Germanic Languages",
     "department_code":"GERM",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/GERM\/V1101-20263-004\/",
-    "location":"307 Mathematics Building",
+    "location":"313 Hamilton Hall",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"4",
@@ -109361,7 +109416,7 @@
     "department":"Human Capital Management",
     "department_code":"HCM_",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/HCM_\/K5300-20263-001\/",
-    "location":"313 Hamilton Hall",
+    "location":"413 Hamilton Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Professional Studies"
@@ -151992,7 +152047,7 @@
     "department":"Mechanical Engineering",
     "department_code":"MECE",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/MECE\/E4507-20263-001\/",
-    "location":"214 Seeley W. Mudd Building, Tuesday 6:00pm-8:30pm 1024 Seeley W. Mudd Building",
+    "location":"1024 Seeley W. Mudd Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Business"
@@ -152001,8 +152056,33 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":"M",
+    "scheduled_days":"T",
     "section_key":"20263MECE4507E001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"MECE E4507",
+    "course_title":"Fundamental Design Tools",
+    "course_descr":null,
+    "instructor":"Jonathan D Blutinger",
+    "scheduled_time_start":"6:00pm",
+    "scheduled_time_end":"8:30pm",
+    "call_number":"20483",
+    "campus":null,
+    "class_id":"E4507-20263-002",
+    "course_subtitle":null,
+    "department":"Mechanical Engineering",
+    "department_code":"MECE",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/MECE\/E4507-20263-002\/",
+    "location":"214 Seeley W. Mudd Building",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20263MECE4507E002",
     "type":"LECTURE"
   },
   {
@@ -153799,7 +153879,7 @@
     "department":"Mechanical Engineering",
     "department_code":"MECE",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/MECE\/E9500-20263-001\/",
-    "location":"415 Schapiro [SCEP]",
+    "location":"233 Seeley W. Mudd Building",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"0",
@@ -188682,7 +188762,7 @@
     "department":"Political Science",
     "department_code":"POLS",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/POLS\/W4466-20263-005\/",
-    "location":null,
+    "location":"608 Lewisohn Hall",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"0",
@@ -213750,7 +213830,7 @@
     "course_code":"SOCI UN1100",
     "course_title":"THE SOCIAL WORLD - DISC",
     "course_descr":"Mandatory discussion section if you are registered for UN1000 The Social World",
-    "instructor":"Jose B Castiblanco Montalvo",
+    "instructor":"Faculty",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"01071",
@@ -213777,7 +213857,7 @@
     "course_code":"SOCI UN1100",
     "course_title":"THE SOCIAL WORLD - DISC",
     "course_descr":"Mandatory discussion section if you are registered for UN1000 The Social World",
-    "instructor":"Faculty",
+    "instructor":"Melinda Y Han",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:00pm",
     "call_number":"01072",
@@ -216106,7 +216186,7 @@
     "course_code":"SOCW T6010",
     "course_title":"GENERALIST SOCIAL WORK PRACTICUM",
     "course_descr":"Field education is a central component in each student's professional education, and requires 21 hours a week for all four terms of the full-time M.S. degree. Placements provide a range of experiences to integrate with theoretical learning from class work and to develop knowledge, values, and skills for social practice.",
-    "instructor":"Stephanie Jalinos",
+    "instructor":"Chelsea E Rissner",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"20282",
@@ -216656,7 +216736,7 @@
     "course_code":"SOCW T6020",
     "course_title":"SPECIALIZED SOCIAL WORK PRACTICUM",
     "course_descr":"Field education is a central component in each student's professional education, and requires 21 hours a week for all four terms of the full-time M.S. degree. Placements provide a range of experiences to integrate with theoretical learning from class work and to develop knowledge, values, and skills for social practice.",
-    "instructor":null,
+    "instructor":"Sarah R Feeney",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"20300",
@@ -230267,7 +230347,7 @@
     "department":"Statistics",
     "department_code":"STAT",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/STAT\/W1009-20263-001\/",
-    "location":null,
+    "location":"507 Hamilton Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Columbia College",
