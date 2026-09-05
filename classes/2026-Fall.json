@@ -1420,7 +1420,7 @@
   {
     "course_code":"AERO E3420",
     "course_title":"Aerospace Engineering Design I",
-    "course_descr":null,
+    "course_descr":"First semester of a senior capstone sequence for students interested in aerospace engineering.\u00a0Focused on the technical design, prototyping, simulation, and validation of aerospace systems. Students work in teams to develop projects incorporating mechanical, electrical, and aerospace subsystems, progressing from concept to functional prototype. Emphasis is placed on 3D design, subsystem integration, critical testing, and mission-driven specifications and design reviews. Involves brainstorming concept generation, literature review, incorporation of multiple constraints, adherence to appropriate engineering codes and standards, and the production of a layout drawing of the proposed capstone design project in a Computer Aided Design (CAD) software tools.\u00a0 Business and product framing activities will support the technical work with market and mission relevance.",
     "instructor":"Evan Lerner",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"3:40pm",
@@ -9473,7 +9473,10 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ANTH\/W2031-20263-001\/",
     "location":"402 Chandler",
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "Columbia College",
+      "General Studies"
+    ],
     "points":"4",
     "prerequisites":[
 
@@ -9481,6 +9484,62 @@
     "scheduled_days":"TR",
     "section_key":"20263ANTH2031W001",
     "type":"LECTURE"
+  },
+  {
+    "course_code":"ANTH UN2033",
+    "course_title":"CORPSE LIFE:ANTH HIST OF THE DEAD-DISC",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"12:10pm",
+    "scheduled_time_end":"1:00pm",
+    "call_number":"20488",
+    "campus":null,
+    "class_id":"W2033-20263-001",
+    "course_subtitle":"CORPSE LIFE:ANTH OF DEAD-DISC",
+    "department":"Anthropology",
+    "department_code":"ANTH",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ANTH\/W2033-20263-001\/",
+    "location":"951 EXT Schermerhorn Hall [SCH]",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "General Studies"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20263ANTH2033W001",
+    "type":"DISCUSSION"
+  },
+  {
+    "course_code":"ANTH UN2033",
+    "course_title":"CORPSE LIFE:ANTH HIST OF THE DEAD-DISC",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"3:10pm",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"20489",
+    "campus":null,
+    "class_id":"W2033-20263-002",
+    "course_subtitle":"CORPSE LIFE:ANTH OF DEAD-DISC",
+    "department":"Anthropology",
+    "department_code":"ANTH",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ANTH\/W2033-20263-002\/",
+    "location":"951 EXT Schermerhorn Hall [SCH]",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "General Studies"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20263ANTH2033W002",
+    "type":"DISCUSSION"
   },
   {
     "course_code":"ANTH UN2105",
@@ -11077,7 +11136,7 @@
   {
     "course_code":"APAM E6650",
     "course_title":"RESEARCH PROJECT",
-    "course_descr":null,
+    "course_descr":"May be repeated for credit. A special investigation of a problem in nuclear engineering, medical physics, applied mathematics, applied physics, and\/or plasma physics consisting of independent work on the part of the student and embodied in a formal report.",
     "instructor":"Alexander Gaeta",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -19011,7 +19070,7 @@
   {
     "course_code":"ASTR GR6014",
     "course_title":"Cosmology, Black Holes, and Gravity",
-    "course_descr":null,
+    "course_descr":"The course will include a brief introduction to General Relativity and black holes; the majority of the time will be spent on Cosmology. It will include an overview of gravitational waves.",
     "instructor":"Maximiliano Isi Banales",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:25pm",
@@ -29933,7 +29992,7 @@
   {
     "course_code":"BMEN E9100",
     "course_title":"MASTERS RESEARCH",
-    "course_descr":null,
+    "course_descr":"Candidates for the M.S. degree may conduct an investigation of some problem in biomedical engineering. No more than 6 points in this course may be counted for graduate credit.",
     "instructor":"Jose McFaline-Figueroa",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -58108,7 +58167,7 @@
   {
     "course_code":"CSOR W4246",
     "course_title":"ALGORITHMS FOR DATA SCIENCE",
-    "course_descr":null,
+    "course_descr":"Methods for organizing data, e.g. hashing, trees, queues, lists,priority queues. Streaming algorithms for computing statistics on the data. Sorting and searching. Basic graph models and algorithms for searching, shortest paths, and matching. Dynamic programming. Linear and convex programming. Floating point arithmetic, stability of numerical algorithms, Eigenvalues, singular values, PCA, gradient descent, stochastic gradient descent, and block coordinate descent. Conjugate gradient, Newton and quasi-Newton methods. Large scale applications from signal processing, collaborative filtering, recommendations systems, etc.",
     "instructor":"Eleni Drinea",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -80132,7 +80191,7 @@
   {
     "course_code":"ELEN E9800",
     "course_title":"DOCTORAL RESEARCH INSTRUCTION",
-    "course_descr":null,
+    "course_descr":"A candidate for the Eng.Sc.D. degree in electrical engineering must register for 12 points of doctoral research instruction. Registration in ELEN E9800 may not be used to satisfy the minimum residence requirement for the degree.",
     "instructor":"Mingoo Seok",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -80148,7 +80207,9 @@
     "open_to":null,
     "points":"1-12",
     "prerequisites":[
-
+      [
+        "ELEN E9800"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20263ELEN9800E006",
@@ -94655,7 +94716,7 @@
   {
     "course_code":"ERMC PS5585",
     "course_title":"SUPPLY CHAIN RISK MANAGEMENT FOR NON-FIN",
-    "course_descr":null,
+    "course_descr":"The Pandemic made us all aware of the fragility of supply chains and how significant the consequences of failure of our supply chains can be. It is paramount to note that global and local economies can break down, and scarcity of essential resources can foment wars. Risk professionals must know what best practices bring security to supply chains and related companies, governments, and other institutions.\u00a0\nStudents taking this course are prohibited from taking Third-Party Risk Management (ERMC PS5575) at any time. Contact your advisor for more information.",
     "instructor":"Bryce Wolf",
     "scheduled_time_start":"8:10pm",
     "scheduled_time_end":"10:00pm",
@@ -94673,7 +94734,9 @@
     ],
     "points":"0",
     "prerequisites":[
-
+      [
+        "ERMC PS5575"
+      ]
     ],
     "scheduled_days":"M",
     "section_key":"20263ERMC5585KAD2",
@@ -109457,7 +109520,7 @@
   {
     "course_code":"HIST BC2413",
     "course_title":"UNITED STATES 1940-1975",
-    "course_descr":null,
+    "course_descr":"Emphasis on foreign policies as they pertain to the Second World War, the atomic bomb, containment, the Cold War, Korea, and Vietnam. Also considers major social and intellectual trends, including the Civil Rights movement, the counterculture, feminism, Watergate, and the recession of the 1970s.",
     "instructor":"Mark C Carnes",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -119204,7 +119267,7 @@
     "course_code":"HUMA UN1121",
     "course_title":"Art Humanities",
     "course_descr":"Discussion and analysis of the artistic qualities and significance of selected works of painting, sculpture, and architecture from the Parthenon in Athens to works of the 20th century.",
-    "instructor":null,
+    "instructor":"Mikael B Muehlbauer",
     "scheduled_time_start":"7:40pm",
     "scheduled_time_end":"8:55pm",
     "call_number":"11804",
@@ -122576,7 +122639,7 @@
   {
     "course_code":"IEOR E4407",
     "course_title":"GAME THEOR MODELS OF OPERATION",
-    "course_descr":null,
+    "course_descr":"Required for undergraduate students majoring in OR:FE and OR. A mathematically rigorous study of game theory and auctions, and their application to operations management. Topics include introductory game theory, private value auction, revenue equivalence, mechanism design, optimal auction, multiple-unit auctions, combinatorial auctions, incentives, and supply chain coordination with contracts. No previous knowledge of game theory is required.",
     "instructor":"Jay Sethuraman",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -132137,7 +132200,7 @@
     "course_code":"JOUR J6010",
     "course_title":"THE WRITTEN WORD",
     "course_descr":"Journalism is changing rapidly, but the written word remains as important to journalists today as it was a century ago. It\u2019s still a storytelling medium in and of itself, of course. But even if you don\u2019t plan to work in print, you need to know how to write clearly and accurately in order to supplement or explain video and photos, to put together engaging audio and video scripts, and to pitch ideas to editors.",
-    "instructor":null,
+    "instructor":"Angela Moon",
     "scheduled_time_start":"2:00pm",
     "scheduled_time_end":"5:00pm",
     "call_number":"17452",
@@ -133303,7 +133366,7 @@
     "course_code":"JOUR J6018",
     "course_title":"INVESTIGATIVE TECHNIQUES",
     "course_descr":null,
-    "instructor":null,
+    "instructor":"Emmanuel C Felton",
     "scheduled_time_start":"6:00pm",
     "scheduled_time_end":"9:00pm",
     "call_number":"19776",
@@ -151728,7 +151791,7 @@
   {
     "course_code":"MECE E4507",
     "course_title":"Fundamental Design Tools",
-    "course_descr":null,
+    "course_descr":"Covers fundamental engineering design tools for creating and testing physical products. Includes basics of computer-aided design, circuit design and use of microcontrollers, Internet of Things, and computational modeling and simulation. Additional hands-on exposure to tools for high-fidelity physical prototyping in Makerspace. Mini-project design involving an engineering device or system incorporated tools.",
     "instructor":"Jonathan D Blutinger",
     "scheduled_time_start":"6:00pm",
     "scheduled_time_end":"8:30pm",
@@ -153510,7 +153573,7 @@
   {
     "course_code":"MECE E9000",
     "course_title":"GRADUATE RESEARCH AND STUDY I",
-    "course_descr":null,
+    "course_descr":"Theoretical or experimental study or research in graduate areas in mechanical engineering and engineering science.",
     "instructor":"Cody Paige",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -178470,7 +178533,7 @@
   {
     "course_code":"PHIL GU4555",
     "course_title":"Listening as Inquiry: Understanding Ecol",
-    "course_descr":null,
+    "course_descr":"This course examines ecological and digital transformations by treating listening as a research method. We will consider listening as a means for understanding how environments\u00a0\u2013 natural, technical, social, digital\u00a0\u2013 are shaped and experienced today. Listening helps bring together issues that are often studied separately: biodiversity decline, pollution and changing habitats, pervasive digital infrastructures, automated and AI-based monitoring, data-driven systems, and new forms of media use and attention.\n  \nThis inquiry draws on several philosophical questions: Is there a specificity of listening in the formation of environmental knowledge? What is a soundscape, and is it an accurate concept to describe an acoustic environment?",
     "instructor":"Pauline Nadrigny",
     "scheduled_time_start":"8:10am",
     "scheduled_time_end":"10:00am",
@@ -230003,7 +230066,7 @@
   {
     "course_code":"STAT UN1009",
     "course_title":"UNDERGRADUATE SEM\/STATISTICS",
-    "course_descr":null,
+    "course_descr":"This is a seminar in probability and statistics taught by faculty in the Department of\n Statistics and with guests from other Departments.\n The format is that of a weekly Department seminar, but the presentations are geared for\n undergraduates.\n Meetings are once per week and open to all undergraduates, but undergraduates who\n register and attend regularly earn one point of credit and a notation on their transcript.",
     "instructor":"Daniel Rabinowitz",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:25pm",
