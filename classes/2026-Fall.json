@@ -6905,7 +6905,7 @@
     "department":"Anthropology",
     "department_code":"ANTH",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ANTH\/G6031-20263-001\/",
-    "location":"609 Martin Luther King Building",
+    "location":"951 EXT Schermerhorn Hall [SCH]",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Architecture",
@@ -9147,7 +9147,7 @@
     "course_code":"ANTH UN1012",
     "course_title":"INTERPRETATION OF CULTRE-DISC",
     "course_descr":null,
-    "instructor":null,
+    "instructor":"Noah T Tesfaye",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:00pm",
     "call_number":"00840",
@@ -9172,7 +9172,7 @@
     "course_code":"ANTH UN1012",
     "course_title":"INTERPRETATION OF CULTRE-DISC",
     "course_descr":null,
-    "instructor":null,
+    "instructor":"Noah T Tesfaye",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:00pm",
     "call_number":"00841",
@@ -9197,7 +9197,7 @@
     "course_code":"ANTH UN1012",
     "course_title":"INTERPRETATION OF CULTRE-DISC",
     "course_descr":null,
-    "instructor":null,
+    "instructor":"Oliver Friedmann",
     "scheduled_time_start":"9:10am",
     "scheduled_time_end":"10:00am",
     "call_number":"00842",
@@ -9222,7 +9222,7 @@
     "course_code":"ANTH UN1012",
     "course_title":"INTERPRETATION OF CULTRE-DISC",
     "course_descr":null,
-    "instructor":null,
+    "instructor":"Oliver Friedmann",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:00pm",
     "call_number":"00843",
@@ -9297,7 +9297,7 @@
     "course_code":"ANTH UN1017",
     "course_title":"THE ORIGINS OF HUMAN SOCIETY-DISC",
     "course_descr":null,
-    "instructor":null,
+    "instructor":"Xingyan Guo",
     "scheduled_time_start":"5:10pm",
     "scheduled_time_end":"6:00pm",
     "call_number":"00848",
@@ -9322,7 +9322,7 @@
     "course_code":"ANTH UN1017",
     "course_title":"THE ORIGINS OF HUMAN SOCIETY-DISC",
     "course_descr":null,
-    "instructor":null,
+    "instructor":"Xingyan Guo",
     "scheduled_time_start":"9:10am",
     "scheduled_time_end":"10:00am",
     "call_number":"00849",
@@ -11200,6 +11200,33 @@
     ],
     "scheduled_days":null,
     "section_key":"20263APAM6650E010",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"APAM E6650",
+    "course_title":"RESEARCH PROJECT",
+    "course_descr":null,
+    "instructor":"Nanfang Yu",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"20517",
+    "campus":null,
+    "class_id":"E6650-20263-008",
+    "course_subtitle":null,
+    "department":"Applied Physics and Applied Mathematics",
+    "department_code":"APAM",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/APAM\/E6650-20263-008\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Engineering:Graduate"
+    ],
+    "points":"1-6",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263APAM6650E008",
     "type":"INDEPENDENT"
   },
   {
@@ -13337,7 +13364,7 @@
     "department":"Applied Analytics",
     "department_code":"APAN",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/APAN\/K5800-20263-006\/",
-    "location":"616 Martin Luther King Building",
+    "location":"330 Uris Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Professional Studies"
@@ -19853,7 +19880,7 @@
     "department":"Slavic Languages",
     "department_code":"BCRS",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/BCRS\/W1101-20263-001\/",
-    "location":"352B International Affairs Building",
+    "location":null,
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"4",
@@ -19878,7 +19905,7 @@
     "department":"Slavic Languages",
     "department_code":"BCRS",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/BCRS\/W2101-20263-001\/",
-    "location":"352B International Affairs Building",
+    "location":null,
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"4",
@@ -30059,6 +30086,34 @@
     "type":"INDEPENDENT"
   },
   {
+    "course_code":"BMEN E9100",
+    "course_title":"MASTERS RESEARCH",
+    "course_descr":"Candidates for the M.S. degree may conduct an investigation of some problem in biomedical engineering. No more than 6 points in this course may be counted for graduate credit.",
+    "instructor":"Karen Kasza",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"20511",
+    "campus":null,
+    "class_id":"E9100-20263-049",
+    "course_subtitle":null,
+    "department":"Biomedical Engineering",
+    "department_code":"BMEN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/BMEN\/E9100-20263-049\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Engineering:Graduate",
+      "GSAS"
+    ],
+    "points":"1-6",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263BMEN9100E049",
+    "type":"INDEPENDENT"
+  },
+  {
     "course_code":"BMEN E9500",
     "course_title":"DOCTORAL RESEARCH",
     "course_descr":"Doctoral candidates are required to make an original investigation of a problem in biomedical engineering, the results of which are presented in the dissertation.",
@@ -35412,7 +35467,7 @@
     "course_code":"CHEM BC3253",
     "course_title":"QUANTUM CHEMISTRY",
     "course_descr":"Prerequisites:\u00a0 2 semesters of calculus-based introductory physics, Calculus II, BC3242 Quantitative Analysis, or permission of instructor. Exact and approximate solutions to the Schrodinger equation. The structure of atoms and molecules. Chemical bonding and spectroscopy. Computer-based molecular modeling.",
-    "instructor":null,
+    "instructor":"Christopher Hwu",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:25pm",
     "call_number":"00551",
@@ -37394,7 +37449,7 @@
     "department":"Chemistry",
     "department_code":"CHEM",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/CHEM\/W1405-20263-008\/",
-    "location":"212D Lewisohn Hall",
+    "location":"307 Pupin Laboratories",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Barnard College",
@@ -37448,7 +37503,7 @@
         "UN1403"
       ]
     ],
-    "scheduled_days":"F",
+    "scheduled_days":"W",
     "section_key":"20263CHEM1405W009",
     "type":"RECITATION"
   },
@@ -37466,7 +37521,7 @@
     "department":"Chemistry",
     "department_code":"CHEM",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/CHEM\/W1405-20263-010\/",
-    "location":"522C Kent Hall",
+    "location":"253 Engineering Terrace",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Barnard College",
@@ -37574,7 +37629,7 @@
     "department":"Chemistry",
     "department_code":"CHEM",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/CHEM\/W1405-20263-013\/",
-    "location":"522C Kent Hall",
+    "location":"253 Engineering Terrace",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Barnard College",
@@ -45254,6 +45309,33 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"CIEN E4235",
+    "course_title":"MULTI-HAZARD DESIGN OF STRUCTURES",
+    "course_descr":"Fundamental considerations of wave mechanics; design philosophies; reliability and risk concepts; basics of fluid mechanics; design of structures subjected to blast; elements of seismic design; elements of fire design; flood considerations; advanced analysis in support of structural design.",
+    "instructor":"Virginia Mosquera",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"20506",
+    "campus":null,
+    "class_id":"E4235-20263-V01",
+    "course_subtitle":"MULTI-HAZARD DESIGN OF ST",
+    "department":"Video Network",
+    "department_code":"CIEN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CIEN\/E4235-20263-V01\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Engineering:Graduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263CIEN4235EV01",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"CIEN E4241",
     "course_title":"GEOTECHNCL ENGNEERNG FUNDMNTLS",
     "course_descr":"Bearing capacity and settlement of shallow and deep foundations; earth pressure theories; retaining walls and reinforced soil retaining walls; sheet pile walls; braced excavation; slope stability.",
@@ -45336,6 +45418,33 @@
     ],
     "scheduled_days":"W",
     "section_key":"20263CIEN4256E001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"CIEN E4256",
+    "course_title":"Applied Machine Learning in Civil Engine",
+    "course_descr":null,
+    "instructor":"Zhengbo Zou",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"20513",
+    "campus":null,
+    "class_id":"E4256-20263-V01",
+    "course_subtitle":"APPLIED ML IN CIVIL ENG",
+    "department":"Video Network",
+    "department_code":"CIEN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CIEN\/E4256-20263-V01\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Engineering:Graduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263CIEN4256EV01",
     "type":"LECTURE"
   },
   {
@@ -46742,6 +46851,31 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"CLGR UN3998",
+    "course_title":"SUPERVISED INDIVIDUAL RESEARCH",
+    "course_descr":null,
+    "instructor":"Oliver Simons",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"20463",
+    "campus":null,
+    "class_id":"C3998-20263-001",
+    "course_subtitle":"SUPERVISED INDIVIDUAL RES",
+    "department":"Germanic Languages",
+    "department_code":"CLGR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CLGR\/C3998-20263-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263CLGR3998C001",
+    "type":"INDEPENDENT"
+  },
+  {
     "course_code":"CLIA GR6050",
     "course_title":"INVENTING THE ANCIENTS",
     "course_descr":"This course brings together the history of collecting and archaeology with biography. By examining the fascinating, entertaining, and often improbable lives of individuals who helped shape modern archaeology and the public museum, it explores the blurred boundaries between professionalism and amateurism, as well as between the fictive and the authentic. Students will read biographies of Hans Sloane, Giovanni Belzoni, Heinrich Schliemann, Luigi and Alessandro Palma di Cesnola, Constantine Simonides, among others, and will engage with themes such as biographical writing; collecting in the age of Enlightenment and empire; the museumization of the past; the reinvention of the ancient Mediterranean; the dream of the East; forgery and the illusion of authenticity; and archaeology, race, and nationalism.",
@@ -48082,7 +48216,7 @@
     "course_code":"CLPS GU4200",
     "course_title":"A Comprehensive Introduction to Sigmund",
     "course_descr":"This course offers a comprehensive understanding of the origins, foundations and evolution of Freud\u2019s psychoanalytic theorizing during the four decades following 1895. Via close readings of his texts, with neither worship nor condescension, we will situate the development of psychoanalysis as a theory of mind within historical context, and explore its applications to education, society, culture, and the humanities.",
-    "instructor":"Adele Tutter",
+    "instructor":null,
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"2:00pm",
     "call_number":"11056",
@@ -50938,6 +51072,31 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"COGS UN3900",
+    "course_title":"Supervised Individual Research",
+    "course_descr":"Supervised individual research in Cognitive Science.\u00a0 1-4 points.\u00a0 May be repeated for credit.",
+    "instructor":"Ann Senghas",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"01115",
+    "campus":null,
+    "class_id":"W3900-20263-004",
+    "course_subtitle":"Supervised Individual Res",
+    "department":"Cognitive Science @Barnard",
+    "department_code":"COGS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/COGS\/W3900-20263-004\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"1-4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263COGS3900W004",
+    "type":"INDEPENDENT"
+  },
+  {
     "course_code":"COGS UN3901",
     "course_title":"Senior Project Seminar",
     "course_descr":"Discussion of senior research projects during the fall and spring terms\u00a0that culminate in written and oral senior theses. Each project must be supervised by a cognitive scientist working at Barnard or Columbia.",
@@ -53012,14 +53171,12 @@
     "location":"451 Computer Science Building",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Barnard College",
       "Business",
       "Columbia College",
       "Engineering:Graduate",
       "Engineering:Undergraduate",
       "GSAS",
-      "General Studies",
-      "Journalism"
+      "General Studies"
     ],
     "points":"3",
     "prerequisites":[
@@ -53073,13 +53230,12 @@
     "location":"413 Kent Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Barnard College",
+      "Business",
       "Columbia College",
       "Engineering:Graduate",
       "Engineering:Undergraduate",
       "GSAS",
-      "General Studies",
-      "Journalism"
+      "General Studies"
     ],
     "points":"3",
     "prerequisites":[
@@ -53106,13 +53262,12 @@
     "location":"227 Seeley W. Mudd Building",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Barnard College",
+      "Business",
       "Columbia College",
       "Engineering:Graduate",
       "Engineering:Undergraduate",
       "GSAS",
-      "General Studies",
-      "Journalism"
+      "General Studies"
     ],
     "points":"3",
     "prerequisites":[
@@ -53139,13 +53294,12 @@
     "location":"224 Pupin Laboratories",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Barnard College",
+      "Business",
       "Columbia College",
       "Engineering:Graduate",
       "Engineering:Undergraduate",
       "GSAS",
-      "General Studies",
-      "Journalism"
+      "General Studies"
     ],
     "points":"3",
     "prerequisites":[
@@ -53172,13 +53326,12 @@
     "location":"644 Seeley W. Mudd Building",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Barnard College",
+      "Business",
       "Columbia College",
       "Engineering:Graduate",
       "Engineering:Undergraduate",
       "GSAS",
-      "General Studies",
-      "Journalism"
+      "General Studies"
     ],
     "points":"3",
     "prerequisites":[
@@ -53205,13 +53358,12 @@
     "location":"606 Martin Luther King Building",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Barnard College",
+      "Business",
       "Columbia College",
       "Engineering:Graduate",
       "Engineering:Undergraduate",
       "GSAS",
-      "General Studies",
-      "Journalism"
+      "General Studies"
     ],
     "points":"3",
     "prerequisites":[
@@ -53265,13 +53417,12 @@
     "location":"209 Havemeyer Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Barnard College",
+      "Business",
       "Columbia College",
       "Engineering:Graduate",
       "Engineering:Undergraduate",
       "GSAS",
-      "General Studies",
-      "Journalism"
+      "General Studies"
     ],
     "points":"3",
     "prerequisites":[
@@ -53325,13 +53476,12 @@
     "location":"601B Sherman Fairchild Life Sciences Building",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Barnard College",
+      "Business",
       "Columbia College",
       "Engineering:Graduate",
       "Engineering:Undergraduate",
       "GSAS",
-      "General Studies",
-      "Journalism"
+      "General Studies"
     ],
     "points":"3",
     "prerequisites":[
@@ -53358,8 +53508,11 @@
     "location":"333 Uris Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
+      "Business",
       "Columbia College",
+      "Engineering:Graduate",
       "Engineering:Undergraduate",
+      "GSAS",
       "General Studies"
     ],
     "points":"3",
@@ -53387,8 +53540,11 @@
     "location":"327 Seeley W. Mudd Building",
     "method_of_instruction":"In-Person",
     "open_to":[
+      "Business",
       "Columbia College",
+      "Engineering:Graduate",
       "Engineering:Undergraduate",
+      "GSAS",
       "General Studies"
     ],
     "points":"3",
@@ -53416,8 +53572,11 @@
     "location":"451 Computer Science Building",
     "method_of_instruction":"In-Person",
     "open_to":[
+      "Business",
       "Columbia College",
+      "Engineering:Graduate",
       "Engineering:Undergraduate",
+      "GSAS",
       "General Studies"
     ],
     "points":"3",
@@ -53445,8 +53604,11 @@
     "location":"227 Seeley W. Mudd Building",
     "method_of_instruction":"In-Person",
     "open_to":[
+      "Business",
       "Columbia College",
+      "Engineering:Graduate",
       "Engineering:Undergraduate",
+      "GSAS",
       "General Studies"
     ],
     "points":"3",
@@ -53474,8 +53636,11 @@
     "location":"825 Seeley W. Mudd Building",
     "method_of_instruction":"In-Person",
     "open_to":[
+      "Business",
       "Columbia College",
+      "Engineering:Graduate",
       "Engineering:Undergraduate",
+      "GSAS",
       "General Studies"
     ],
     "points":"3",
@@ -53503,8 +53668,11 @@
     "location":"644 Seeley W. Mudd Building",
     "method_of_instruction":"In-Person",
     "open_to":[
+      "Business",
       "Columbia College",
+      "Engineering:Graduate",
       "Engineering:Undergraduate",
+      "GSAS",
       "General Studies"
     ],
     "points":"3",
@@ -53532,8 +53700,11 @@
     "location":"501 Schermerhorn Hall [SCH]",
     "method_of_instruction":"In-Person",
     "open_to":[
+      "Business",
       "Columbia College",
+      "Engineering:Graduate",
       "Engineering:Undergraduate",
+      "GSAS",
       "General Studies"
     ],
     "points":"3",
@@ -53561,8 +53732,11 @@
     "location":"451 Computer Science Building",
     "method_of_instruction":"In-Person",
     "open_to":[
+      "Business",
       "Columbia College",
+      "Engineering:Graduate",
       "Engineering:Undergraduate",
+      "GSAS",
       "General Studies"
     ],
     "points":"3",
@@ -53590,8 +53764,11 @@
     "location":"1127 Seeley W. Mudd Building",
     "method_of_instruction":"In-Person",
     "open_to":[
+      "Business",
       "Columbia College",
+      "Engineering:Graduate",
       "Engineering:Undergraduate",
+      "GSAS",
       "General Studies"
     ],
     "points":"3",
@@ -53619,8 +53796,11 @@
     "location":"253 Engineering Terrace",
     "method_of_instruction":"In-Person",
     "open_to":[
+      "Business",
       "Columbia College",
+      "Engineering:Graduate",
       "Engineering:Undergraduate",
+      "GSAS",
       "General Studies"
     ],
     "points":"3",
@@ -53648,8 +53828,11 @@
     "location":"313 Fayerweather",
     "method_of_instruction":"In-Person",
     "open_to":[
+      "Business",
       "Columbia College",
+      "Engineering:Graduate",
       "Engineering:Undergraduate",
+      "GSAS",
       "General Studies"
     ],
     "points":"3",
@@ -53665,8 +53848,8 @@
     "course_title":"TOPICS IN COMPUTER SCIENCE",
     "course_descr":"Selected topics in computer science (advanced level). Content and prerequisites vary between sections and semesters. May be repeated for credit. Check \u201ctopics course\u201d webpage on the department website for more information on each section.",
     "instructor":"Lydia Chilton",
-    "scheduled_time_start":"4:10pm",
-    "scheduled_time_end":"6:00pm",
+    "scheduled_time_start":"2:40pm",
+    "scheduled_time_end":"5:10pm",
     "call_number":"13915",
     "campus":null,
     "class_id":"E6998-20263-011",
@@ -53674,18 +53857,21 @@
     "department":"Computer Science",
     "department_code":"COMS",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMS\/E6998-20263-011\/",
-    "location":"633 Seeley W. Mudd Building, Friday 2:40pm-5:10pm 207 Mathematics Building",
+    "location":"207 Mathematics Building",
     "method_of_instruction":"In-Person",
     "open_to":[
+      "Business",
       "Columbia College",
+      "Engineering:Graduate",
       "Engineering:Undergraduate",
+      "GSAS",
       "General Studies"
     ],
     "points":"3",
     "prerequisites":[
 
     ],
-    "scheduled_days":"M",
+    "scheduled_days":"F",
     "section_key":"20263COMS6998E011",
     "type":"LECTURE"
   },
@@ -53706,8 +53892,11 @@
     "location":"829 Seeley W. Mudd Building",
     "method_of_instruction":"In-Person",
     "open_to":[
+      "Business",
       "Columbia College",
+      "Engineering:Graduate",
       "Engineering:Undergraduate",
+      "GSAS",
       "General Studies"
     ],
     "points":"3",
@@ -53735,8 +53924,11 @@
     "location":"253 Engineering Terrace",
     "method_of_instruction":"In-Person",
     "open_to":[
+      "Business",
       "Columbia College",
+      "Engineering:Graduate",
       "Engineering:Undergraduate",
+      "GSAS",
       "General Studies"
     ],
     "points":"3",
@@ -53845,8 +54037,11 @@
     "location":"214 Pupin Laboratories",
     "method_of_instruction":"In-Person",
     "open_to":[
+      "Business",
       "Columbia College",
+      "Engineering:Graduate",
       "Engineering:Undergraduate",
+      "GSAS",
       "General Studies"
     ],
     "points":"3",
@@ -53874,8 +54069,11 @@
     "location":"606 Martin Luther King Building",
     "method_of_instruction":"In-Person",
     "open_to":[
+      "Business",
       "Columbia College",
+      "Engineering:Graduate",
       "Engineering:Undergraduate",
+      "GSAS",
       "General Studies"
     ],
     "points":"3",
@@ -53903,8 +54101,11 @@
     "location":"414 Schapiro [SCEP]",
     "method_of_instruction":"In-Person",
     "open_to":[
+      "Business",
       "Columbia College",
+      "Engineering:Graduate",
       "Engineering:Undergraduate",
+      "GSAS",
       "General Studies"
     ],
     "points":"3",
@@ -53932,8 +54133,11 @@
     "location":"703 Hamilton Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
+      "Business",
       "Columbia College",
+      "Engineering:Graduate",
       "Engineering:Undergraduate",
+      "GSAS",
       "General Studies"
     ],
     "points":"3",
@@ -53961,8 +54165,11 @@
     "location":"602 Northwest Corner Building",
     "method_of_instruction":"In-Person",
     "open_to":[
+      "Business",
       "Columbia College",
+      "Engineering:Graduate",
       "Engineering:Undergraduate",
+      "GSAS",
       "General Studies"
     ],
     "points":"3",
@@ -53990,8 +54197,11 @@
     "location":"602 Northwest Corner Building",
     "method_of_instruction":"In-Person",
     "open_to":[
+      "Business",
       "Columbia College",
+      "Engineering:Graduate",
       "Engineering:Undergraduate",
+      "GSAS",
       "General Studies"
     ],
     "points":"3",
@@ -54019,8 +54229,11 @@
     "location":"303 Hamilton Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
+      "Business",
       "Columbia College",
+      "Engineering:Graduate",
       "Engineering:Undergraduate",
+      "GSAS",
       "General Studies"
     ],
     "points":"3",
@@ -55085,8 +55298,11 @@
     "location":"301 Pupin Laboratories",
     "method_of_instruction":"In-Person",
     "open_to":[
+      "Business",
       "Columbia College",
+      "Engineering:Graduate",
       "Engineering:Undergraduate",
+      "GSAS",
       "General Studies"
     ],
     "points":"3",
@@ -55114,8 +55330,11 @@
     "location":"451 Computer Science Building",
     "method_of_instruction":"In-Person",
     "open_to":[
+      "Business",
       "Columbia College",
+      "Engineering:Graduate",
       "Engineering:Undergraduate",
+      "GSAS",
       "General Studies"
     ],
     "points":"3",
@@ -55143,8 +55362,11 @@
     "location":"142 Uris Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
+      "Business",
       "Columbia College",
+      "Engineering:Graduate",
       "Engineering:Undergraduate",
+      "GSAS",
       "General Studies"
     ],
     "points":"3",
@@ -55217,8 +55439,11 @@
     "location":"329 Pupin Laboratories",
     "method_of_instruction":"In-Person",
     "open_to":[
+      "Business",
       "Columbia College",
+      "Engineering:Graduate",
       "Engineering:Undergraduate",
+      "GSAS",
       "General Studies"
     ],
     "points":"3",
@@ -55273,8 +55498,11 @@
     "location":"501 Northwest Corner Building",
     "method_of_instruction":"In-Person",
     "open_to":[
+      "Business",
       "Columbia College",
+      "Engineering:Graduate",
       "Engineering:Undergraduate",
+      "GSAS",
       "General Studies"
     ],
     "points":"3",
@@ -55329,8 +55557,11 @@
     "location":"140 Uris Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
+      "Business",
       "Columbia College",
+      "Engineering:Graduate",
       "Engineering:Undergraduate",
+      "GSAS",
       "General Studies"
     ],
     "points":"3",
@@ -55358,13 +55589,12 @@
     "location":"451 Computer Science Building",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Barnard College",
+      "Business",
       "Columbia College",
       "Engineering:Graduate",
       "Engineering:Undergraduate",
       "GSAS",
-      "General Studies",
-      "Journalism"
+      "General Studies"
     ],
     "points":"3",
     "prerequisites":[
@@ -55418,8 +55648,11 @@
     "location":"451 Computer Science Building",
     "method_of_instruction":"In-Person",
     "open_to":[
+      "Business",
       "Columbia College",
+      "Engineering:Graduate",
       "Engineering:Undergraduate",
+      "GSAS",
       "General Studies"
     ],
     "points":"3",
@@ -55447,8 +55680,11 @@
     "location":"451 Computer Science Building",
     "method_of_instruction":"In-Person",
     "open_to":[
+      "Business",
       "Columbia College",
+      "Engineering:Graduate",
       "Engineering:Undergraduate",
+      "GSAS",
       "General Studies"
     ],
     "points":"3",
@@ -55476,8 +55712,11 @@
     "location":"702 Hamilton Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
+      "Business",
       "Columbia College",
+      "Engineering:Graduate",
       "Engineering:Undergraduate",
+      "GSAS",
       "General Studies"
     ],
     "points":"3",
@@ -55511,8 +55750,11 @@
     "location":"644 Seeley W. Mudd Building",
     "method_of_instruction":"In-Person",
     "open_to":[
+      "Business",
       "Columbia College",
+      "Engineering:Graduate",
       "Engineering:Undergraduate",
+      "GSAS",
       "General Studies"
     ],
     "points":"3",
@@ -55567,8 +55809,11 @@
     "location":"415 Schapiro [SCEP]",
     "method_of_instruction":"In-Person",
     "open_to":[
+      "Business",
       "Columbia College",
+      "Engineering:Graduate",
       "Engineering:Undergraduate",
+      "GSAS",
       "General Studies"
     ],
     "points":"3",
@@ -55596,13 +55841,12 @@
     "location":"330 Uris Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Barnard College",
+      "Business",
       "Columbia College",
       "Engineering:Graduate",
       "Engineering:Undergraduate",
       "GSAS",
-      "General Studies",
-      "Journalism"
+      "General Studies"
     ],
     "points":"3",
     "prerequisites":[
@@ -55629,13 +55873,12 @@
     "location":"327 Seeley W. Mudd Building",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Barnard College",
+      "Business",
       "Columbia College",
       "Engineering:Graduate",
       "Engineering:Undergraduate",
       "GSAS",
-      "General Studies",
-      "Journalism"
+      "General Studies"
     ],
     "points":"3",
     "prerequisites":[
@@ -55662,13 +55905,12 @@
     "location":"451 Computer Science Building",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Barnard College",
+      "Business",
       "Columbia College",
       "Engineering:Graduate",
       "Engineering:Undergraduate",
       "GSAS",
-      "General Studies",
-      "Journalism"
+      "General Studies"
     ],
     "points":"3",
     "prerequisites":[
@@ -55899,14 +56141,12 @@
     "location":"CIN ALFRED LERNE",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Barnard College",
       "Business",
       "Columbia College",
       "Engineering:Graduate",
       "Engineering:Undergraduate",
       "GSAS",
-      "General Studies",
-      "Journalism"
+      "General Studies"
     ],
     "points":"3",
     "prerequisites":[
@@ -55932,10 +56172,7 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMS\/W4705-20263-030\/",
     "location":"833 Seeley W. Mudd Building",
     "method_of_instruction":"In-Person",
-    "open_to":[
-      "Engineering:Graduate",
-      "GSAS"
-    ],
+    "open_to":null,
     "points":"3",
     "prerequisites":[
 
@@ -55987,10 +56224,7 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMS\/W4726-20263-001\/",
     "location":"413 Kent Hall",
     "method_of_instruction":"In-Person",
-    "open_to":[
-      "Business",
-      "Engineering:Graduate"
-    ],
+    "open_to":null,
     "points":"3",
     "prerequisites":[
 
@@ -56016,13 +56250,12 @@
     "location":"142 Uris Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Barnard College",
+      "Business",
       "Columbia College",
       "Engineering:Graduate",
       "Engineering:Undergraduate",
       "GSAS",
-      "General Studies",
-      "Journalism"
+      "General Studies"
     ],
     "points":"3",
     "prerequisites":[
@@ -56049,7 +56282,7 @@
     "location":"142 Uris Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Barnard College",
+      "Business",
       "Columbia College",
       "Engineering:Graduate",
       "Engineering:Undergraduate",
@@ -56081,13 +56314,12 @@
     "location":"614 Schermerhorn Hall [SCH]",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Barnard College",
+      "Business",
       "Columbia College",
       "Engineering:Graduate",
       "Engineering:Undergraduate",
       "GSAS",
-      "General Studies",
-      "Journalism"
+      "General Studies"
     ],
     "points":"3",
     "prerequisites":[
@@ -56141,14 +56373,12 @@
     "location":"451 Computer Science Building",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Barnard College",
       "Business",
       "Columbia College",
       "Engineering:Graduate",
       "Engineering:Undergraduate",
       "GSAS",
-      "General Studies",
-      "Journalism"
+      "General Studies"
     ],
     "points":"3",
     "prerequisites":[
@@ -56193,14 +56423,12 @@
     "location":"451 Computer Science Building",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Barnard College",
       "Business",
       "Columbia College",
       "Engineering:Graduate",
       "Engineering:Undergraduate",
       "GSAS",
-      "General Studies",
-      "Journalism"
+      "General Studies"
     ],
     "points":"3",
     "prerequisites":[
@@ -56295,13 +56523,12 @@
     "location":"428 Pupin Laboratories",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Barnard College",
+      "Business",
       "Columbia College",
       "Engineering:Graduate",
       "Engineering:Undergraduate",
       "GSAS",
-      "General Studies",
-      "Journalism"
+      "General Studies"
     ],
     "points":"3",
     "prerequisites":[
@@ -56355,13 +56582,12 @@
     "location":"451 Computer Science Building",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Barnard College",
+      "Business",
       "Columbia College",
       "Engineering:Graduate",
       "Engineering:Undergraduate",
       "GSAS",
-      "General Studies",
-      "Journalism"
+      "General Studies"
     ],
     "points":"3",
     "prerequisites":[
@@ -56388,13 +56614,12 @@
     "location":"327 Seeley W. Mudd Building",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Barnard College",
+      "Business",
       "Columbia College",
       "Engineering:Graduate",
       "Engineering:Undergraduate",
       "GSAS",
-      "General Studies",
-      "Journalism"
+      "General Studies"
     ],
     "points":"3",
     "prerequisites":[
@@ -56421,13 +56646,12 @@
     "location":"451 Computer Science Building",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Barnard College",
+      "Business",
       "Columbia College",
       "Engineering:Graduate",
       "Engineering:Undergraduate",
       "GSAS",
-      "General Studies",
-      "Journalism"
+      "General Studies"
     ],
     "points":"3",
     "prerequisites":[
@@ -56454,13 +56678,12 @@
     "location":"451 Computer Science Building",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Barnard College",
+      "Business",
       "Columbia College",
       "Engineering:Graduate",
       "Engineering:Undergraduate",
       "GSAS",
-      "General Studies",
-      "Journalism"
+      "General Studies"
     ],
     "points":"3",
     "prerequisites":[
@@ -56487,13 +56710,12 @@
     "location":"333 Uris Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Barnard College",
+      "Business",
       "Columbia College",
       "Engineering:Graduate",
       "Engineering:Undergraduate",
       "GSAS",
-      "General Studies",
-      "Journalism"
+      "General Studies"
     ],
     "points":"3",
     "prerequisites":[
@@ -56520,13 +56742,12 @@
     "location":"825 Seeley W. Mudd Building",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Barnard College",
+      "Business",
       "Columbia College",
       "Engineering:Graduate",
       "Engineering:Undergraduate",
       "GSAS",
-      "General Studies",
-      "Journalism"
+      "General Studies"
     ],
     "points":"3",
     "prerequisites":[
@@ -56553,13 +56774,12 @@
     "location":"451 Computer Science Building",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Barnard College",
+      "Business",
       "Columbia College",
       "Engineering:Graduate",
       "Engineering:Undergraduate",
       "GSAS",
-      "General Studies",
-      "Journalism"
+      "General Studies"
     ],
     "points":"3",
     "prerequisites":[
@@ -56586,13 +56806,12 @@
     "location":"825 Seeley W. Mudd Building",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Barnard College",
+      "Business",
       "Columbia College",
       "Engineering:Graduate",
       "Engineering:Undergraduate",
       "GSAS",
-      "General Studies",
-      "Journalism"
+      "General Studies"
     ],
     "points":"3",
     "prerequisites":[
@@ -56619,13 +56838,12 @@
     "location":"303 Uris Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Barnard College",
+      "Business",
       "Columbia College",
       "Engineering:Graduate",
       "Engineering:Undergraduate",
       "GSAS",
-      "General Studies",
-      "Journalism"
+      "General Studies"
     ],
     "points":"3",
     "prerequisites":[
@@ -56652,13 +56870,12 @@
     "location":"312 Mathematics Building",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Barnard College",
+      "Business",
       "Columbia College",
       "Engineering:Graduate",
       "Engineering:Undergraduate",
       "GSAS",
-      "General Studies",
-      "Journalism"
+      "General Studies"
     ],
     "points":"3",
     "prerequisites":[
@@ -56685,13 +56902,12 @@
     "location":"428 Pupin Laboratories",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Barnard College",
+      "Business",
       "Columbia College",
       "Engineering:Graduate",
       "Engineering:Undergraduate",
       "GSAS",
-      "General Studies",
-      "Journalism"
+      "General Studies"
     ],
     "points":"3",
     "prerequisites":[
@@ -56718,13 +56934,12 @@
     "location":"415 Schapiro [SCEP]",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Barnard College",
+      "Business",
       "Columbia College",
       "Engineering:Graduate",
       "Engineering:Undergraduate",
       "GSAS",
-      "General Studies",
-      "Journalism"
+      "General Studies"
     ],
     "points":"3",
     "prerequisites":[
@@ -56751,13 +56966,12 @@
     "location":"829 Seeley W. Mudd Building",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Barnard College",
+      "Business",
       "Columbia College",
       "Engineering:Graduate",
       "Engineering:Undergraduate",
       "GSAS",
-      "General Studies",
-      "Journalism"
+      "General Studies"
     ],
     "points":"3",
     "prerequisites":[
@@ -56783,10 +56997,7 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMS\/W4995-20263-030\/",
     "location":"717 Hamilton Hall",
     "method_of_instruction":"In-Person",
-    "open_to":[
-      "Business",
-      "Engineering:Graduate"
-    ],
+    "open_to":null,
     "points":"3",
     "prerequisites":[
 
@@ -56866,7 +57077,7 @@
     "location":"415 Schapiro [SCEP]",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Barnard College",
+      "Business",
       "Columbia College",
       "Engineering:Graduate",
       "Engineering:Undergraduate",
@@ -56898,7 +57109,7 @@
     "location":"420 Pupin Laboratories",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Barnard College",
+      "Business",
       "Columbia College",
       "Engineering:Graduate",
       "Engineering:Undergraduate",
@@ -56929,9 +57140,7 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMS\/W4995-20263-031\/",
     "location":"702 Hamilton Hall",
     "method_of_instruction":"In-Person",
-    "open_to":[
-      "Engineering:Graduate"
-    ],
+    "open_to":null,
     "points":"3",
     "prerequisites":[
 
@@ -57459,8 +57668,11 @@
     "location":"329 Pupin Laboratories",
     "method_of_instruction":"In-Person",
     "open_to":[
+      "Business",
       "Columbia College",
+      "Engineering:Graduate",
       "Engineering:Undergraduate",
+      "GSAS",
       "General Studies"
     ],
     "points":"3",
@@ -57512,7 +57724,14 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/CSEE\/W3827-20263-001\/",
     "location":"CIN ALFRED LERNE",
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "Business",
+      "Columbia College",
+      "Engineering:Graduate",
+      "Engineering:Undergraduate",
+      "GSAS",
+      "General Studies"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -57538,8 +57757,11 @@
     "location":"451 Computer Science Building",
     "method_of_instruction":"In-Person",
     "open_to":[
+      "Business",
       "Columbia College",
+      "Engineering:Graduate",
       "Engineering:Undergraduate",
+      "GSAS",
       "General Studies"
     ],
     "points":"3",
@@ -57629,8 +57851,11 @@
     "location":"451 Computer Science Building",
     "method_of_instruction":"In-Person",
     "open_to":[
+      "Business",
       "Columbia College",
+      "Engineering:Graduate",
       "Engineering:Undergraduate",
+      "GSAS",
       "General Studies"
     ],
     "points":"3",
@@ -57658,8 +57883,11 @@
     "location":"451 Computer Science Building",
     "method_of_instruction":"In-Person",
     "open_to":[
+      "Business",
       "Columbia College",
+      "Engineering:Graduate",
       "Engineering:Undergraduate",
+      "GSAS",
       "General Studies"
     ],
     "points":"3",
@@ -57687,8 +57915,11 @@
     "location":"227 Seeley W. Mudd Building",
     "method_of_instruction":"In-Person",
     "open_to":[
+      "Business",
       "Columbia College",
+      "Engineering:Graduate",
       "Engineering:Undergraduate",
+      "GSAS",
       "General Studies"
     ],
     "points":"3",
@@ -58068,13 +58299,12 @@
     "location":"633 Seeley W. Mudd Building",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Barnard College",
+      "Business",
       "Columbia College",
       "Engineering:Graduate",
       "Engineering:Undergraduate",
       "GSAS",
-      "General Studies",
-      "Journalism"
+      "General Studies"
     ],
     "points":"3",
     "prerequisites":[
@@ -58128,8 +58358,11 @@
     "location":"614 Schermerhorn Hall [SCH]",
     "method_of_instruction":"In-Person",
     "open_to":[
+      "Business",
       "Columbia College",
+      "Engineering:Graduate",
       "Engineering:Undergraduate",
+      "GSAS",
       "General Studies"
     ],
     "points":"3",
@@ -58166,8 +58399,11 @@
     "location":"451 Computer Science Building",
     "method_of_instruction":"In-Person",
     "open_to":[
+      "Business",
       "Columbia College",
+      "Engineering:Graduate",
       "Engineering:Undergraduate",
+      "GSAS",
       "General Studies"
     ],
     "points":"3",
@@ -58345,7 +58581,7 @@
     "department":"Slavic Languages",
     "department_code":"CZCH",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/CZCH\/W1101-20263-001\/",
-    "location":"352C International Affairs Building",
+    "location":"352B International Affairs Building",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"4",
@@ -58370,7 +58606,7 @@
     "department":"Slavic Languages",
     "department_code":"CZCH",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/CZCH\/W1102-20263-001\/",
-    "location":"352C International Affairs Building",
+    "location":"352B International Affairs Building",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"4",
@@ -65916,7 +66152,7 @@
     "course_code":"EAEE E4300",
     "course_title":"INTRO TO CARBON MANAGEMENT",
     "course_descr":"Introduction to natural and anthropogenic carbon cycle, and carbon - climate. Rationale and need to manage carbon and tools with which to do so (basic science, psychology, economics and policy background, negotiations - society; emphasis on interdisciplinary and inter-dependent approach). Simple carbon emission model to estimate the impacts of a specific intervention with regards to national, per capita and global emissions. Student-led case studies (e.g. reforestation, biofuels, CCS, efficiency, alternative energy) to illustrate necessary systems approach required to tackle global challenges.",
-    "instructor":null,
+    "instructor":"Sara T Hamilton",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:40pm",
     "call_number":"13492",
@@ -66199,7 +66435,7 @@
     "course_code":"EAEE E6212",
     "course_title":"CARBON SEQUESTRATION",
     "course_descr":"New technologies for\u00a0capturing carbon dioxide and disposing of it\u00a0away from the atmosphere. Detailed discussion\u00a0of the extent of the human modifications to the\u00a0natural carbon cycle, the motivation and\u00a0 scope\u00a0of future carbon management strategies and\u00a0the role of carbon sequestration. Introduction of\u00a0several carbon sequestration technologies that\u00a0allow for the capture and permanent disposal\u00a0of carbon dioxide. Engineering issues in their\u00a0implementation, economic\u00a0 impacts, and the\u00a0environmental issues raised by the various\u00a0methods.",
-    "instructor":null,
+    "instructor":"Sara T Hamilton",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:40pm",
     "call_number":"13494",
@@ -72664,7 +72900,7 @@
     "department":"Ecology, Evolution, and Environmental Biology",
     "department_code":"EEEB",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/EEEB\/W3991-20263-001\/",
-    "location":"405 Milbank Hall (Barnard)",
+    "location":"504 Diana Center",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"3",
@@ -76285,7 +76521,7 @@
     "course_code":"ELEN E4312",
     "course_title":"ANALOG ELECTRONIC CIRCUITS",
     "course_descr":"Differential and multistage amplifiers; small-signal analysis; biasing techniques; frequency response; negative feedback; stability criteria; frequency compensation techniques. Analog layout techniques. An extensive design project is an integral part of the course.",
-    "instructor":null,
+    "instructor":"Subhajit Ray",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:40pm",
     "call_number":"12139",
@@ -78809,6 +79045,31 @@
     "type":"INDEPENDENT"
   },
   {
+    "course_code":"ELEN E6003",
+    "course_title":"MASTER'S THESIS",
+    "course_descr":null,
+    "instructor":"Ioannis Kymissis",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"20512",
+    "campus":null,
+    "class_id":"E6003-20263-013",
+    "course_subtitle":null,
+    "department":"Electrical Engineering",
+    "department_code":"ELEN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ELEN\/E6003-20263-013\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263ELEN6003E013",
+    "type":"INDEPENDENT"
+  },
+  {
     "course_code":"ELEN E6320",
     "course_title":"MILLIMETER-WAVE IC DESIGN",
     "course_descr":"Principles behind the implementation of millimeter-wave (30GHz-300GHz) wireless circuits and systems in silicon-based technologies. Silicon-based active and passive devices for millimeter-wave operation, millimeter-wave low-noise amplifiers, power amplifiers, oscillators and VCOs, oscillator phase noise theory, mixers and frequency dividers for PLLs. A design project is an integral part of the course.",
@@ -80474,6 +80735,31 @@
     "type":"INDEPENDENT"
   },
   {
+    "course_code":"ELEN E9303",
+    "course_title":"SEM IN ELECTRONIC CIRCUITS",
+    "course_descr":"Open to doctoral candidates, and to qualified M.S. candidates with the instructor's permission. Study of recent developments in electronic circuits.",
+    "instructor":"Matthias Preindl",
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"11:00am",
+    "call_number":"20507",
+    "campus":null,
+    "class_id":"E9303-20263-002",
+    "course_subtitle":"SEM IN ELECTRONIC CIRCUIT",
+    "department":"Electrical Engineering",
+    "department_code":"ELEN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ELEN\/E9303-20263-002\/",
+    "location":"1306 Seeley W. Mudd Building",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20263ELEN9303E002",
+    "type":"SEMINAR"
+  },
+  {
     "course_code":"ELEN E9800",
     "course_title":"DOCTORAL RESEARCH INSTRUCTION",
     "course_descr":"A candidate for the Eng.Sc.D. degree in electrical engineering must register for 12 points of doctoral research instruction. Registration in ELEN E9800 may not be used to satisfy the minimum residence requirement for the degree.",
@@ -81743,7 +82029,7 @@
     "department":"Engineering",
     "department_code":"ENGI",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGI\/E1002-20263-001\/",
-    "location":"401 Hamilton Hall",
+    "location":"524 Seeley W. Mudd Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Engineering:Undergraduate"
@@ -93221,7 +93507,17 @@
     "location":"608 Martin Luther King Building",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Professional Studies"
+      "Architecture",
+      "Business",
+      "Engineering:Graduate",
+      "GSAS",
+      "Journalism",
+      "Law",
+      "Professional Studies",
+      "Public Health",
+      "SIPA",
+      "Schools of the Arts",
+      "Social Work"
     ],
     "points":"3",
     "prerequisites":[
@@ -93248,7 +93544,17 @@
     "location":"511 Hamilton Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Professional Studies"
+      "Architecture",
+      "Business",
+      "Engineering:Graduate",
+      "GSAS",
+      "Journalism",
+      "Law",
+      "Professional Studies",
+      "Public Health",
+      "SIPA",
+      "Schools of the Arts",
+      "Social Work"
     ],
     "points":"3",
     "prerequisites":[
@@ -93275,7 +93581,17 @@
     "location":"304 Hamilton Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Professional Studies"
+      "Architecture",
+      "Business",
+      "Engineering:Graduate",
+      "GSAS",
+      "Journalism",
+      "Law",
+      "Professional Studies",
+      "Public Health",
+      "SIPA",
+      "Schools of the Arts",
+      "Social Work"
     ],
     "points":"3",
     "prerequisites":[
@@ -93302,7 +93618,17 @@
     "location":"606 Martin Luther King Building",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Professional Studies"
+      "Architecture",
+      "Business",
+      "Engineering:Graduate",
+      "GSAS",
+      "Journalism",
+      "Law",
+      "Professional Studies",
+      "Public Health",
+      "SIPA",
+      "Schools of the Arts",
+      "Social Work"
     ],
     "points":"3",
     "prerequisites":[
@@ -93329,7 +93655,17 @@
     "location":"ONLINE ONLY",
     "method_of_instruction":"On-Line Only",
     "open_to":[
-      "Professional Studies"
+      "Architecture",
+      "Business",
+      "Engineering:Graduate",
+      "GSAS",
+      "Journalism",
+      "Law",
+      "Professional Studies",
+      "Public Health",
+      "SIPA",
+      "Schools of the Arts",
+      "Social Work"
     ],
     "points":"3",
     "prerequisites":[
@@ -93383,7 +93719,17 @@
     "location":"333 Uris Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Professional Studies"
+      "Architecture",
+      "Business",
+      "Engineering:Graduate",
+      "GSAS",
+      "Journalism",
+      "Law",
+      "Professional Studies",
+      "Public Health",
+      "SIPA",
+      "Schools of the Arts",
+      "Social Work"
     ],
     "points":"3",
     "prerequisites":[
@@ -93410,7 +93756,17 @@
     "location":"233 Seeley W. Mudd Building",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Professional Studies"
+      "Architecture",
+      "Business",
+      "Engineering:Graduate",
+      "GSAS",
+      "Journalism",
+      "Law",
+      "Professional Studies",
+      "Public Health",
+      "SIPA",
+      "Schools of the Arts",
+      "Social Work"
     ],
     "points":"3",
     "prerequisites":[
@@ -93437,7 +93793,17 @@
     "location":"227 Seeley W. Mudd Building",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Professional Studies"
+      "Architecture",
+      "Business",
+      "Engineering:Graduate",
+      "GSAS",
+      "Journalism",
+      "Law",
+      "Professional Studies",
+      "Public Health",
+      "SIPA",
+      "Schools of the Arts",
+      "Social Work"
     ],
     "points":"3",
     "prerequisites":[
@@ -93464,7 +93830,17 @@
     "location":"333 Uris Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Professional Studies"
+      "Architecture",
+      "Business",
+      "Engineering:Graduate",
+      "GSAS",
+      "Journalism",
+      "Law",
+      "Professional Studies",
+      "Public Health",
+      "SIPA",
+      "Schools of the Arts",
+      "Social Work"
     ],
     "points":"3",
     "prerequisites":[
@@ -93491,7 +93867,17 @@
     "location":"101 Knox Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Professional Studies"
+      "Architecture",
+      "Business",
+      "Engineering:Graduate",
+      "GSAS",
+      "Journalism",
+      "Law",
+      "Professional Studies",
+      "Public Health",
+      "SIPA",
+      "Schools of the Arts",
+      "Social Work"
     ],
     "points":"3",
     "prerequisites":[
@@ -93518,7 +93904,17 @@
     "location":"ONLINE ONLY",
     "method_of_instruction":"On-Line Only",
     "open_to":[
-      "Professional Studies"
+      "Architecture",
+      "Business",
+      "Engineering:Graduate",
+      "GSAS",
+      "Journalism",
+      "Law",
+      "Professional Studies",
+      "Public Health",
+      "SIPA",
+      "Schools of the Arts",
+      "Social Work"
     ],
     "points":"3",
     "prerequisites":[
@@ -93599,7 +93995,17 @@
     "location":"420 Pupin Laboratories",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Professional Studies"
+      "Architecture",
+      "Business",
+      "Engineering:Graduate",
+      "GSAS",
+      "Journalism",
+      "Law",
+      "Professional Studies",
+      "Public Health",
+      "SIPA",
+      "Schools of the Arts",
+      "Social Work"
     ],
     "points":"3",
     "prerequisites":[
@@ -93626,7 +94032,17 @@
     "location":"601B Sherman Fairchild Life Sciences Building",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Professional Studies"
+      "Architecture",
+      "Business",
+      "Engineering:Graduate",
+      "GSAS",
+      "Journalism",
+      "Law",
+      "Professional Studies",
+      "Public Health",
+      "SIPA",
+      "Schools of the Arts",
+      "Social Work"
     ],
     "points":"3",
     "prerequisites":[
@@ -93653,7 +94069,17 @@
     "location":"C01 80 Claremont Ave",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Professional Studies"
+      "Architecture",
+      "Business",
+      "Engineering:Graduate",
+      "GSAS",
+      "Journalism",
+      "Law",
+      "Professional Studies",
+      "Public Health",
+      "SIPA",
+      "Schools of the Arts",
+      "Social Work"
     ],
     "points":"3",
     "prerequisites":[
@@ -93680,7 +94106,17 @@
     "location":"332 Uris Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Professional Studies"
+      "Architecture",
+      "Business",
+      "Engineering:Graduate",
+      "GSAS",
+      "Journalism",
+      "Law",
+      "Professional Studies",
+      "Public Health",
+      "SIPA",
+      "Schools of the Arts",
+      "Social Work"
     ],
     "points":"3",
     "prerequisites":[
@@ -93707,7 +94143,17 @@
     "location":"420 Pupin Laboratories",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Professional Studies"
+      "Architecture",
+      "Business",
+      "Engineering:Graduate",
+      "GSAS",
+      "Journalism",
+      "Law",
+      "Professional Studies",
+      "Public Health",
+      "SIPA",
+      "Schools of the Arts",
+      "Social Work"
     ],
     "points":"3",
     "prerequisites":[
@@ -93734,7 +94180,17 @@
     "location":"ONLINE ONLY",
     "method_of_instruction":"On-Line Only",
     "open_to":[
-      "Professional Studies"
+      "Architecture",
+      "Business",
+      "Engineering:Graduate",
+      "GSAS",
+      "Journalism",
+      "Law",
+      "Professional Studies",
+      "Public Health",
+      "SIPA",
+      "Schools of the Arts",
+      "Social Work"
     ],
     "points":"3",
     "prerequisites":[
@@ -93761,7 +94217,17 @@
     "location":"ONLINE ONLY",
     "method_of_instruction":"On-Line Only",
     "open_to":[
-      "Professional Studies"
+      "Architecture",
+      "Business",
+      "Engineering:Graduate",
+      "GSAS",
+      "Journalism",
+      "Law",
+      "Professional Studies",
+      "Public Health",
+      "SIPA",
+      "Schools of the Arts",
+      "Social Work"
     ],
     "points":"3",
     "prerequisites":[
@@ -93950,7 +94416,17 @@
     "location":"303 Uris Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Professional Studies"
+      "Architecture",
+      "Business",
+      "Engineering:Graduate",
+      "GSAS",
+      "Journalism",
+      "Law",
+      "Professional Studies",
+      "Public Health",
+      "SIPA",
+      "Schools of the Arts",
+      "Social Work"
     ],
     "points":"3",
     "prerequisites":[
@@ -93977,7 +94453,17 @@
     "location":"302 Fayerweather",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Professional Studies"
+      "Architecture",
+      "Business",
+      "Engineering:Graduate",
+      "GSAS",
+      "Journalism",
+      "Law",
+      "Professional Studies",
+      "Public Health",
+      "SIPA",
+      "Schools of the Arts",
+      "Social Work"
     ],
     "points":"3",
     "prerequisites":[
@@ -94004,7 +94490,17 @@
     "location":"ONLINE ONLY",
     "method_of_instruction":"On-Line Only",
     "open_to":[
-      "Professional Studies"
+      "Architecture",
+      "Business",
+      "Engineering:Graduate",
+      "GSAS",
+      "Journalism",
+      "Law",
+      "Professional Studies",
+      "Public Health",
+      "SIPA",
+      "Schools of the Arts",
+      "Social Work"
     ],
     "points":"3",
     "prerequisites":[
@@ -94193,7 +94689,17 @@
     "location":"606 Martin Luther King Building",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Professional Studies"
+      "Architecture",
+      "Business",
+      "Engineering:Graduate",
+      "GSAS",
+      "Journalism",
+      "Law",
+      "Professional Studies",
+      "Public Health",
+      "SIPA",
+      "Schools of the Arts",
+      "Social Work"
     ],
     "points":"3",
     "prerequisites":[
@@ -94220,7 +94726,17 @@
     "location":"227 Seeley W. Mudd Building",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Professional Studies"
+      "Architecture",
+      "Business",
+      "Engineering:Graduate",
+      "GSAS",
+      "Journalism",
+      "Law",
+      "Professional Studies",
+      "Public Health",
+      "SIPA",
+      "Schools of the Arts",
+      "Social Work"
     ],
     "points":"3",
     "prerequisites":[
@@ -94247,7 +94763,17 @@
     "location":"467 EXT Schermerhorn Hall [SCH]",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Professional Studies"
+      "Architecture",
+      "Business",
+      "Engineering:Graduate",
+      "GSAS",
+      "Journalism",
+      "Law",
+      "Professional Studies",
+      "Public Health",
+      "SIPA",
+      "Schools of the Arts",
+      "Social Work"
     ],
     "points":"3",
     "prerequisites":[
@@ -94274,7 +94800,17 @@
     "location":"140 Uris Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Professional Studies"
+      "Architecture",
+      "Business",
+      "Engineering:Graduate",
+      "GSAS",
+      "Journalism",
+      "Law",
+      "Professional Studies",
+      "Public Health",
+      "SIPA",
+      "Schools of the Arts",
+      "Social Work"
     ],
     "points":"3",
     "prerequisites":[
@@ -94301,7 +94837,17 @@
     "location":"307 Pupin Laboratories",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Professional Studies"
+      "Architecture",
+      "Business",
+      "Engineering:Graduate",
+      "GSAS",
+      "Journalism",
+      "Law",
+      "Professional Studies",
+      "Public Health",
+      "SIPA",
+      "Schools of the Arts",
+      "Social Work"
     ],
     "points":"3",
     "prerequisites":[
@@ -94328,7 +94874,17 @@
     "location":"501 Northwest Corner Building",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Professional Studies"
+      "Architecture",
+      "Business",
+      "Engineering:Graduate",
+      "GSAS",
+      "Journalism",
+      "Law",
+      "Professional Studies",
+      "Public Health",
+      "SIPA",
+      "Schools of the Arts",
+      "Social Work"
     ],
     "points":"3",
     "prerequisites":[
@@ -94355,7 +94911,17 @@
     "location":"ONLINE ONLY",
     "method_of_instruction":"On-Line Only",
     "open_to":[
-      "Professional Studies"
+      "Architecture",
+      "Business",
+      "Engineering:Graduate",
+      "GSAS",
+      "Journalism",
+      "Law",
+      "Professional Studies",
+      "Public Health",
+      "SIPA",
+      "Schools of the Arts",
+      "Social Work"
     ],
     "points":"3",
     "prerequisites":[
@@ -94409,7 +94975,17 @@
     "location":"606 Martin Luther King Building",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Professional Studies"
+      "Architecture",
+      "Business",
+      "Engineering:Graduate",
+      "GSAS",
+      "Journalism",
+      "Law",
+      "Professional Studies",
+      "Public Health",
+      "SIPA",
+      "Schools of the Arts",
+      "Social Work"
     ],
     "points":"3",
     "prerequisites":[
@@ -94436,7 +95012,17 @@
     "location":"ONLINE ONLY",
     "method_of_instruction":"On-Line Only",
     "open_to":[
-      "Professional Studies"
+      "Architecture",
+      "Business",
+      "Engineering:Graduate",
+      "GSAS",
+      "Journalism",
+      "Law",
+      "Professional Studies",
+      "Public Health",
+      "SIPA",
+      "Schools of the Arts",
+      "Social Work"
     ],
     "points":"3",
     "prerequisites":[
@@ -94490,7 +95076,17 @@
     "location":"420 Pupin Laboratories",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Professional Studies"
+      "Architecture",
+      "Business",
+      "Engineering:Graduate",
+      "GSAS",
+      "Journalism",
+      "Law",
+      "Professional Studies",
+      "Public Health",
+      "SIPA",
+      "Schools of the Arts",
+      "Social Work"
     ],
     "points":"3",
     "prerequisites":[
@@ -94517,7 +95113,17 @@
     "location":"606 Martin Luther King Building",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Professional Studies"
+      "Architecture",
+      "Business",
+      "Engineering:Graduate",
+      "GSAS",
+      "Journalism",
+      "Law",
+      "Professional Studies",
+      "Public Health",
+      "SIPA",
+      "Schools of the Arts",
+      "Social Work"
     ],
     "points":"3",
     "prerequisites":[
@@ -94544,7 +95150,17 @@
     "location":"ONLINE ONLY",
     "method_of_instruction":"On-Line Only",
     "open_to":[
-      "Professional Studies"
+      "Architecture",
+      "Business",
+      "Engineering:Graduate",
+      "GSAS",
+      "Journalism",
+      "Law",
+      "Professional Studies",
+      "Public Health",
+      "SIPA",
+      "Schools of the Arts",
+      "Social Work"
     ],
     "points":"3",
     "prerequisites":[
@@ -94652,7 +95268,17 @@
     "location":"608 Schermerhorn Hall [SCH]",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Professional Studies"
+      "Architecture",
+      "Business",
+      "Engineering:Graduate",
+      "GSAS",
+      "Journalism",
+      "Law",
+      "Professional Studies",
+      "Public Health",
+      "SIPA",
+      "Schools of the Arts",
+      "Social Work"
     ],
     "points":"3",
     "prerequisites":[
@@ -94679,7 +95305,17 @@
     "location":"ONLINE ONLY",
     "method_of_instruction":"On-Line Only",
     "open_to":[
-      "Professional Studies"
+      "Architecture",
+      "Business",
+      "Engineering:Graduate",
+      "GSAS",
+      "Journalism",
+      "Law",
+      "Professional Studies",
+      "Public Health",
+      "SIPA",
+      "Schools of the Arts",
+      "Social Work"
     ],
     "points":"3",
     "prerequisites":[
@@ -94760,7 +95396,17 @@
     "location":"327 Uris Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Professional Studies"
+      "Architecture",
+      "Business",
+      "Engineering:Graduate",
+      "GSAS",
+      "Journalism",
+      "Law",
+      "Professional Studies",
+      "Public Health",
+      "SIPA",
+      "Schools of the Arts",
+      "Social Work"
     ],
     "points":"3",
     "prerequisites":[
@@ -94814,7 +95460,17 @@
     "location":"420 Pupin Laboratories",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Professional Studies"
+      "Architecture",
+      "Business",
+      "Engineering:Graduate",
+      "GSAS",
+      "Journalism",
+      "Law",
+      "Professional Studies",
+      "Public Health",
+      "SIPA",
+      "Schools of the Arts",
+      "Social Work"
     ],
     "points":"3",
     "prerequisites":[
@@ -94841,7 +95497,17 @@
     "location":"ONLINE ONLY",
     "method_of_instruction":"On-Line Only",
     "open_to":[
-      "Professional Studies"
+      "Architecture",
+      "Business",
+      "Engineering:Graduate",
+      "GSAS",
+      "Journalism",
+      "Law",
+      "Professional Studies",
+      "Public Health",
+      "SIPA",
+      "Schools of the Arts",
+      "Social Work"
     ],
     "points":"3",
     "prerequisites":[
@@ -94895,7 +95561,17 @@
     "location":"602 Lewisohn Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Professional Studies"
+      "Architecture",
+      "Business",
+      "Engineering:Graduate",
+      "GSAS",
+      "Journalism",
+      "Law",
+      "Professional Studies",
+      "Public Health",
+      "SIPA",
+      "Schools of the Arts",
+      "Social Work"
     ],
     "points":"3",
     "prerequisites":[
@@ -94924,7 +95600,17 @@
     "location":"ONLINE ONLY",
     "method_of_instruction":"On-Line Only",
     "open_to":[
-      "Professional Studies"
+      "Architecture",
+      "Business",
+      "Engineering:Graduate",
+      "GSAS",
+      "Journalism",
+      "Law",
+      "Professional Studies",
+      "Public Health",
+      "SIPA",
+      "Schools of the Arts",
+      "Social Work"
     ],
     "points":"3",
     "prerequisites":[
@@ -94953,7 +95639,17 @@
     "location":"616 Martin Luther King Building",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Professional Studies"
+      "Architecture",
+      "Business",
+      "Engineering:Graduate",
+      "GSAS",
+      "Journalism",
+      "Law",
+      "Professional Studies",
+      "Public Health",
+      "SIPA",
+      "Schools of the Arts",
+      "Social Work"
     ],
     "points":"3",
     "prerequisites":[
@@ -94982,7 +95678,17 @@
     "location":"ONLINE ONLY",
     "method_of_instruction":"On-Line Only",
     "open_to":[
-      "Professional Studies"
+      "Architecture",
+      "Business",
+      "Engineering:Graduate",
+      "GSAS",
+      "Journalism",
+      "Law",
+      "Professional Studies",
+      "Public Health",
+      "SIPA",
+      "Schools of the Arts",
+      "Social Work"
     ],
     "points":"3",
     "prerequisites":[
@@ -95011,7 +95717,17 @@
     "location":"103 Knox Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Professional Studies"
+      "Architecture",
+      "Business",
+      "Engineering:Graduate",
+      "GSAS",
+      "Journalism",
+      "Law",
+      "Professional Studies",
+      "Public Health",
+      "SIPA",
+      "Schools of the Arts",
+      "Social Work"
     ],
     "points":"3",
     "prerequisites":[
@@ -95040,7 +95756,17 @@
     "location":"ONLINE ONLY",
     "method_of_instruction":"On-Line Only",
     "open_to":[
-      "Professional Studies"
+      "Architecture",
+      "Business",
+      "Engineering:Graduate",
+      "GSAS",
+      "Journalism",
+      "Law",
+      "Professional Studies",
+      "Public Health",
+      "SIPA",
+      "Schools of the Arts",
+      "Social Work"
     ],
     "points":"3",
     "prerequisites":[
@@ -110092,8 +110818,8 @@
     "course_title":"GRADUATE LECTURE",
     "course_descr":"HIST 6998 GR is a twin listings of an undergraduate History lecture provided to graduate students for graduate credit. If a\u00a0graduate student enrolls, she\/he\/they attends the same class as the undergraduate students (unless otherwise directed by the instructor). Each instructor determines\u00a0additional work for graduate students to complete in order to receive graduate credit for the course. Please refer to the notes section in SSOL for the corresponding (twin) undergraduate 1000 or 2000 level course and follow that course's meeting day & time and assigned classroom. Instructor permission is required to join.",
     "instructor":"Adam Tooze",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"1:30pm",
+    "scheduled_time_end":"2:25pm",
     "call_number":"16884",
     "campus":null,
     "class_id":"G6998-20263-002",
@@ -110108,7 +110834,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"M",
     "section_key":"20263HIST6998G002",
     "type":"LECTURE"
   },
@@ -122602,6 +123328,33 @@
     ],
     "scheduled_days":"MW",
     "section_key":"20263IEOR4106E001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"IEOR E4106",
+    "course_title":"STOCHASTIC MODELS",
+    "course_descr":null,
+    "instructor":"David D Yao",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"20514",
+    "campus":null,
+    "class_id":"E4106-20263-V01",
+    "course_subtitle":null,
+    "department":"Video Network",
+    "department_code":"IEOR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/IEOR\/E4106-20263-V01\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Engineering:Graduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263IEOR4106EV01",
     "type":"LECTURE"
   },
   {
@@ -142950,6 +143703,31 @@
     "type":"SEMINAR"
   },
   {
+    "course_code":"LAW_ L8362",
+    "course_title":"S ENVIRO ISSUES IN BUS TRANS",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"20505",
+    "campus":null,
+    "class_id":"L8362-20263-001",
+    "course_subtitle":"S ENVIRO ISSUES IN BUS TR",
+    "department":"Law",
+    "department_code":"LAW_",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/LAW_\/L8362-20263-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"2",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263LAW_8362L001",
+    "type":"SEMINAR"
+  },
+  {
     "course_code":"LAW_ L8373",
     "course_title":"S TAX DEALS WORKSHOP",
     "course_descr":"This is a Law School course. For more detailed course information, please go to the Law School Curriculum Guide at: http:\/\/www.law.columbia.edu\/courses\/search",
@@ -143704,8 +144482,8 @@
     "course_title":"S. Legal Financial Arbitrage: Merger Arb",
     "course_descr":null,
     "instructor":null,
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"4:20pm",
+    "scheduled_time_end":"6:10pm",
     "call_number":"17781",
     "campus":null,
     "class_id":"L9045-20263-001",
@@ -143713,14 +144491,14 @@
     "department":"Law",
     "department_code":"LAW_",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/LAW_\/L9045-20263-001\/",
-    "location":null,
+    "location":"390 GEFFEN HALL",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"2",
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"R",
     "section_key":"20263LAW_9045L001",
     "type":"SEMINAR"
   },
@@ -151566,7 +152344,7 @@
     "department":"Mechanical Engineering",
     "department_code":"MECE",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/MECE\/E3414-20263-001\/",
-    "location":"CIN ALFRED LERNE",
+    "location":"301 Uris Hall",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"3",
@@ -165123,7 +165901,7 @@
     "course_code":"NURS N6680",
     "course_title":"Introduction to Addictive Behaviors",
     "course_descr":"This foundational course provides an understanding of addictive behaviors. Current theories regarding the development of addiction will be identified. Evaluation and assessment skills will be taught based on these theoretical models. Physiological, behavioral, emotional, and societal responses to addiction will be explored. Implications for nursing research are considered.",
-    "instructor":null,
+    "instructor":"Fatima M Ramos",
     "scheduled_time_start":"2:00pm",
     "scheduled_time_end":"3:50pm",
     "call_number":"17303",
@@ -171054,7 +171832,7 @@
     "department":"Industrial Engineering and Operations Research",
     "department_code":"ORCS",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ORCS\/E4200-20263-001\/",
-    "location":"303 Seeley W. Mudd Building",
+    "location":null,
     "method_of_instruction":"In-Person",
     "open_to":[
       "Business",
@@ -179612,7 +180390,10 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/PHIL\/C1101-20263-001\/",
     "location":"214 Pupin Laboratories",
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "Columbia College",
+      "General Studies"
+    ],
     "points":"3",
     "prerequisites":[
       [
@@ -181777,8 +182558,8 @@
     "course_title":"QUANTUM FIELD THEORY III",
     "course_descr":"Advanced topics at the discretion of the instructor, including string theory, supersymmetry and other aspects of beyond-standard-model physics.",
     "instructor":"Alberto Nicolis",
-    "scheduled_time_start":"10:10am",
-    "scheduled_time_end":"11:25am",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"5:25pm",
     "call_number":"16883",
     "campus":null,
     "class_id":"G8049-20263-001",
@@ -181786,7 +182567,7 @@
     "department":"Physics",
     "department_code":"PHYS",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/PHYS\/G8049-20263-001\/",
-    "location":"404 Hamilton Hall",
+    "location":"406 Hamilton Hall",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"3",
@@ -184069,40 +184850,6 @@
     "scheduled_days":"R",
     "section_key":"20263PHYS1404W027",
     "type":"RECITATION"
-  },
-  {
-    "course_code":"PHYS UN1494",
-    "course_title":"INTRO TO EXPERIMENTAL PHYS-LAB",
-    "course_descr":"Prerequisites: PHYS W1401 and W1402. Laboratory work associated with the two prerequisite lecture courses. Experiments in mechanics, thermodynamics, electricity, magnetism, optics, wave motion, atomic physics, and nuclear physics. Note: Students cannot receive credit for both PHYS W1493 and W1494.",
-    "instructor":"Timothy J Halpin-Healy",
-    "scheduled_time_start":"2:40pm",
-    "scheduled_time_end":"3:55pm",
-    "call_number":"12584",
-    "campus":null,
-    "class_id":"W1494-20263-001",
-    "course_subtitle":"INTRO TO EXPERIMENTAL PHY",
-    "department":"Physics",
-    "department_code":"PHYS",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PHYS\/W1494-20263-001\/",
-    "location":"428 Pupin Laboratories, Tuesday 9:30am-12:30pm 5TH FLR Pupin Laboratories",
-    "method_of_instruction":"In-Person",
-    "open_to":null,
-    "points":"3",
-    "prerequisites":[
-      [
-        "PHYS W1401"
-      ],
-      [
-        "W1402",
-        "PHYS W1493"
-      ],
-      [
-        "W1494"
-      ]
-    ],
-    "scheduled_days":"M",
-    "section_key":"20263PHYS1494W001",
-    "type":"LABORATORY"
   },
   {
     "course_code":"PHYS UN1494",
@@ -188054,6 +188801,72 @@
     "type":"LANGUAGE"
   },
   {
+    "course_code":"POLS BC1005",
+    "course_title":"GLOBAL POLITICS OF CLIMATE CHANGE  DISC.",
+    "course_descr":"Required Discussion Section for Barnard-taught GLOBAL POLITICS OF CLIMATE CHANGE (POLS-BC1605).\n  \nStudents enrolled in POLS-BC1605 must enroll in a Discussion Section of POLS-BC1005.",
+    "instructor":"Faculty",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"5:00pm",
+    "call_number":"00984",
+    "campus":null,
+    "class_id":"X1005-20263-001",
+    "course_subtitle":"GLOBAL POLITICS CLIMATE (",
+    "department":"Political Science @Barnard",
+    "department_code":"POLS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/POLS\/X1005-20263-001\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+      [
+        "BC1005"
+      ],
+      [
+        "BC1605"
+      ],
+      [
+        "BC1605"
+      ]
+    ],
+    "scheduled_days":"T",
+    "section_key":"20263POLS1005X001",
+    "type":"DISCUSSION"
+  },
+  {
+    "course_code":"POLS BC1005",
+    "course_title":"GLOBAL POLITICS OF CLIMATE CHANGE  DISC.",
+    "course_descr":"Required Discussion Section for Barnard-taught GLOBAL POLITICS OF CLIMATE CHANGE (POLS-BC1605).\n  \nStudents enrolled in POLS-BC1605 must enroll in a Discussion Section of POLS-BC1005.",
+    "instructor":"Faculty",
+    "scheduled_time_start":"9:10am",
+    "scheduled_time_end":"10:00am",
+    "call_number":"00985",
+    "campus":null,
+    "class_id":"X1005-20263-002",
+    "course_subtitle":"GLOBAL POLITICS CLIMATE (",
+    "department":"Political Science @Barnard",
+    "department_code":"POLS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/POLS\/X1005-20263-002\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+      [
+        "BC1005"
+      ],
+      [
+        "BC1605"
+      ],
+      [
+        "BC1605"
+      ]
+    ],
+    "scheduled_days":"T",
+    "section_key":"20263POLS1005X002",
+    "type":"DISCUSSION"
+  },
+  {
     "course_code":"POLS BC1210",
     "course_title":"INTRO TO AMERICAN POLITICS",
     "course_descr":"The purpose of this course is to introduce students to the principles of American politics and governance. Upon completing the class, students should be more informed about the American political process and better able to explain contemporary American political phenomena, as well as being more likely to engage with politics and elections.\u00a0\n  \nBEGINNING IN FALL 2025, BARNARD STUDENTS WISHING TO TAKE INTERNATIONAL POLITICS FOR INTRO CREDIT TOWARD THE MAJOR MUST TAKE POLS-BC1210. If Barnard students enroll in POLS-UN2201, the course will only count toward their major as elective credit.\n  \nColumbia College students who take POLS-BC1210 can only apply the course toward their major for elective credit.\n  \nStudents may not get credit for more than one of the following courses:\u00a0 POLS BC1210, POLS UN1201, or POLS-UN2201.",
@@ -188203,6 +189016,204 @@
     "scheduled_days":"MW",
     "section_key":"20263POLS1510X001",
     "type":"LECTURE"
+  },
+  {
+    "course_code":"POLS BC1512",
+    "course_title":"INTRO TO COMPARATIVE POLITICS - DISC.",
+    "course_descr":"Required Discussion Section for Barnard-taught Intro to Comparative Politics (POLS-BC1510).\n  \nStudents enrolled in POLS-BC1510 must enroll in a section of POLS-BC1512.",
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"00818",
+    "campus":null,
+    "class_id":"X1512-20263-001",
+    "course_subtitle":"INTRO TO COMP POL - DISC.",
+    "department":"Political Science @Barnard",
+    "department_code":"POLS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/POLS\/X1512-20263-001\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+      [
+        "BC1510"
+      ],
+      [
+        "BC1510"
+      ],
+      [
+        "BC1512"
+      ]
+    ],
+    "scheduled_days":null,
+    "section_key":"20263POLS1512X001",
+    "type":"DISCUSSION"
+  },
+  {
+    "course_code":"POLS BC1512",
+    "course_title":"INTRO TO COMPARATIVE POLITICS - DISC.",
+    "course_descr":"Required Discussion Section for Barnard-taught Intro to Comparative Politics (POLS-BC1510).\n  \nStudents enrolled in POLS-BC1510 must enroll in a section of POLS-BC1512.",
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"00819",
+    "campus":null,
+    "class_id":"X1512-20263-002",
+    "course_subtitle":"INTRO TO COMP POL - DISC.",
+    "department":"Political Science @Barnard",
+    "department_code":"POLS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/POLS\/X1512-20263-002\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+      [
+        "BC1510"
+      ],
+      [
+        "BC1510"
+      ],
+      [
+        "BC1512"
+      ]
+    ],
+    "scheduled_days":null,
+    "section_key":"20263POLS1512X002",
+    "type":"DISCUSSION"
+  },
+  {
+    "course_code":"POLS BC1512",
+    "course_title":"INTRO TO COMPARATIVE POLITICS - DISC.",
+    "course_descr":"Required Discussion Section for Barnard-taught Intro to Comparative Politics (POLS-BC1510).\n  \nStudents enrolled in POLS-BC1510 must enroll in a section of POLS-BC1512.",
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"00820",
+    "campus":null,
+    "class_id":"X1512-20263-003",
+    "course_subtitle":"INTRO TO COMP POL - DISC.",
+    "department":"Political Science @Barnard",
+    "department_code":"POLS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/POLS\/X1512-20263-003\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+      [
+        "BC1510"
+      ],
+      [
+        "BC1510"
+      ],
+      [
+        "BC1512"
+      ]
+    ],
+    "scheduled_days":null,
+    "section_key":"20263POLS1512X003",
+    "type":"DISCUSSION"
+  },
+  {
+    "course_code":"POLS BC1512",
+    "course_title":"INTRO TO COMPARATIVE POLITICS - DISC.",
+    "course_descr":"Required Discussion Section for Barnard-taught Intro to Comparative Politics (POLS-BC1510).\n  \nStudents enrolled in POLS-BC1510 must enroll in a section of POLS-BC1512.",
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"00821",
+    "campus":null,
+    "class_id":"X1512-20263-004",
+    "course_subtitle":"INTRO TO COMP POL - DISC.",
+    "department":"Political Science @Barnard",
+    "department_code":"POLS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/POLS\/X1512-20263-004\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+      [
+        "BC1510"
+      ],
+      [
+        "BC1510"
+      ],
+      [
+        "BC1512"
+      ]
+    ],
+    "scheduled_days":null,
+    "section_key":"20263POLS1512X004",
+    "type":"DISCUSSION"
+  },
+  {
+    "course_code":"POLS BC1512",
+    "course_title":"INTRO TO COMPARATIVE POLITICS - DISC.",
+    "course_descr":"Required Discussion Section for Barnard-taught Intro to Comparative Politics (POLS-BC1510).\n  \nStudents enrolled in POLS-BC1510 must enroll in a section of POLS-BC1512.",
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"00822",
+    "campus":null,
+    "class_id":"X1512-20263-005",
+    "course_subtitle":"INTRO TO COMP POL - DISC.",
+    "department":"Political Science @Barnard",
+    "department_code":"POLS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/POLS\/X1512-20263-005\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+      [
+        "BC1510"
+      ],
+      [
+        "BC1510"
+      ],
+      [
+        "BC1512"
+      ]
+    ],
+    "scheduled_days":null,
+    "section_key":"20263POLS1512X005",
+    "type":"DISCUSSION"
+  },
+  {
+    "course_code":"POLS BC1512",
+    "course_title":"INTRO TO COMPARATIVE POLITICS - DISC.",
+    "course_descr":"Required Discussion Section for Barnard-taught Intro to Comparative Politics (POLS-BC1510).\n  \nStudents enrolled in POLS-BC1510 must enroll in a section of POLS-BC1512.",
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"00988",
+    "campus":null,
+    "class_id":"X1512-20263-006",
+    "course_subtitle":"INTRO TO COMP POL - DISC.",
+    "department":"Political Science @Barnard",
+    "department_code":"POLS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/POLS\/X1512-20263-006\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+      [
+        "BC1510"
+      ],
+      [
+        "BC1510"
+      ],
+      [
+        "BC1512"
+      ]
+    ],
+    "scheduled_days":null,
+    "section_key":"20263POLS1512X006",
+    "type":"DISCUSSION"
   },
   {
     "course_code":"POLS BC1605",
@@ -190613,7 +191624,7 @@
     "department":"Political Science",
     "department_code":"POLS",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/POLS\/W2601-20263-001\/",
-    "location":"301 Uris Hall",
+    "location":"CIN ALFRED LERNE",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"4",
@@ -191693,8 +192704,8 @@
     "course_title":"SCOPE AND METHODS - DISC",
     "course_descr":"This is the required discussion section for \nPOLS UN3720.",
     "instructor":"Konstantinos Niakaros",
-    "scheduled_time_start":"5:10pm",
-    "scheduled_time_end":"6:00pm",
+    "scheduled_time_start":"11:10am",
+    "scheduled_time_end":"12:00pm",
     "call_number":"14669",
     "campus":null,
     "class_id":"W3722-20263-001",
@@ -191711,116 +192722,8 @@
         "POLS UN3720"
       ]
     ],
-    "scheduled_days":"W",
+    "scheduled_days":"R",
     "section_key":"20263POLS3722W001",
-    "type":"DISCUSSION"
-  },
-  {
-    "course_code":"POLS UN3722",
-    "course_title":"SCOPE AND METHODS - DISC",
-    "course_descr":"This is the required discussion section for \nPOLS UN3720.",
-    "instructor":"Konstantinos Niakaros",
-    "scheduled_time_start":"4:10pm",
-    "scheduled_time_end":"5:00pm",
-    "call_number":"15883",
-    "campus":null,
-    "class_id":"W3722-20263-002",
-    "course_subtitle":null,
-    "department":"Political Science",
-    "department_code":"POLS",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/POLS\/W3722-20263-002\/",
-    "location":null,
-    "method_of_instruction":"In-Person",
-    "open_to":null,
-    "points":"0",
-    "prerequisites":[
-      [
-        "POLS UN3720"
-      ]
-    ],
-    "scheduled_days":"W",
-    "section_key":"20263POLS3722W002",
-    "type":"DISCUSSION"
-  },
-  {
-    "course_code":"POLS UN3722",
-    "course_title":"SCOPE AND METHODS - DISC",
-    "course_descr":"This is the required discussion section for \nPOLS UN3720.",
-    "instructor":"Mariella F Rubenson",
-    "scheduled_time_start":"11:10am",
-    "scheduled_time_end":"12:00pm",
-    "call_number":"15884",
-    "campus":null,
-    "class_id":"W3722-20263-003",
-    "course_subtitle":null,
-    "department":"Political Science",
-    "department_code":"POLS",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/POLS\/W3722-20263-003\/",
-    "location":"415 Schermerhorn Hall [SCH]",
-    "method_of_instruction":"In-Person",
-    "open_to":null,
-    "points":"0",
-    "prerequisites":[
-      [
-        "POLS UN3720"
-      ]
-    ],
-    "scheduled_days":"W",
-    "section_key":"20263POLS3722W003",
-    "type":"DISCUSSION"
-  },
-  {
-    "course_code":"POLS UN3722",
-    "course_title":"SCOPE AND METHODS - DISC",
-    "course_descr":"This is the required discussion section for \nPOLS UN3720.",
-    "instructor":"Mariella F Rubenson",
-    "scheduled_time_start":"9:10am",
-    "scheduled_time_end":"10:00am",
-    "call_number":"15885",
-    "campus":null,
-    "class_id":"W3722-20263-004",
-    "course_subtitle":null,
-    "department":"Political Science",
-    "department_code":"POLS",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/POLS\/W3722-20263-004\/",
-    "location":"606 Lewisohn Hall",
-    "method_of_instruction":"In-Person",
-    "open_to":null,
-    "points":"0",
-    "prerequisites":[
-      [
-        "POLS UN3720"
-      ]
-    ],
-    "scheduled_days":"R",
-    "section_key":"20263POLS3722W004",
-    "type":"DISCUSSION"
-  },
-  {
-    "course_code":"POLS UN3722",
-    "course_title":"SCOPE AND METHODS - DISC",
-    "course_descr":"This is the required discussion section for \nPOLS UN3720.",
-    "instructor":"Jirui Zhang",
-    "scheduled_time_start":"10:10am",
-    "scheduled_time_end":"11:00am",
-    "call_number":"15886",
-    "campus":null,
-    "class_id":"W3722-20263-005",
-    "course_subtitle":null,
-    "department":"Political Science",
-    "department_code":"POLS",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/POLS\/W3722-20263-005\/",
-    "location":null,
-    "method_of_instruction":"In-Person",
-    "open_to":null,
-    "points":"0",
-    "prerequisites":[
-      [
-        "POLS UN3720"
-      ]
-    ],
-    "scheduled_days":"R",
-    "section_key":"20263POLS3722W005",
     "type":"DISCUSSION"
   },
   {
@@ -200130,7 +201033,7 @@
     "course_code":"PUBH UN3200",
     "course_title":"INTRODUCTION TO PUBLIC HEALTH",
     "course_descr":"An introduction to and overview of public health. Through a series of sessions with leading public health experts, this course views the multifaceted nature of public health through a prismic lens addressing key concepts, approaches, and issues of historical and contemporary import: What is public health and how has public health evolved over time? What are the core methods of public health? What are the approaches to understanding and addressing both infectious and chronic, non-communicable diseases? What role do micro- and macro-level determinants (i.e. biology and social context) play in public health? What are the global trends in population health? How does the individual life course bear on population health? How do systems, policy, and population health mutually shape each other? How are public health programs designed and evaluated? What are the limits of public health?",
-    "instructor":null,
+    "instructor":"Dana March",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:25pm",
     "call_number":"14485",
@@ -215571,6 +216474,33 @@
     "type":"INDEPENDENT"
   },
   {
+    "course_code":"SOCI UN3998",
+    "course_title":"INDIVIDUAL STUDY I",
+    "course_descr":"Prerequisites: open only to qualified majors in the department; the director of undergraduate studies permission is required. An opportunity for research under the direction of an individual faculty member. Students intending to write a year-long senior thesis should plan to register for C3996 in the spring semester of their senior year and are strongly advised to consult the undergraduate studies as they plan their programs.",
+    "instructor":"Sudhir A Venkatesh",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"20508",
+    "campus":null,
+    "class_id":"C3998-20263-012",
+    "course_subtitle":null,
+    "department":"Sociology",
+    "department_code":"SOCI",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SOCI\/C3998-20263-012\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"1-6",
+    "prerequisites":[
+      [
+        "C3996"
+      ]
+    ],
+    "scheduled_days":null,
+    "section_key":"20263SOCI3998C012",
+    "type":"INDEPENDENT"
+  },
+  {
     "course_code":"SOCW T0001",
     "course_title":"SEMINAR IN FIELD INSTRUCTION",
     "course_descr":"Learning Objectives:\n  \n1. Understand CSSW policies and procedures in practicum education\n  \n2. Understand roles of Associate Directors and Advisors at CSSW in relation to the student\u2019s success in their practicum \u00a0\n  \n3. Understand student\u2019s coursework and practicum education sequencing \u2013 enhance grasp of the relationship between course assignments, practicum assignments, and core competencies \u00a0\n  \n4. Enhance ability to provide practicum instruction support from an anti-racist and anti-oppressive perspective; increase ability to hold difficult dialogues and share power in the supervision relationship",
@@ -222698,6 +223628,31 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"SOSC P8790",
+    "course_title":"Tutorial in Sociomedical Sciences",
+    "course_descr":"Primarily for students who wish to acquire further knowledge and research skills in areas of special interest. Individual or small group reading tutorials or guided independent research. Permission required; contact Academic Coordinator",
+    "instructor":"Christian Gloria",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"20504",
+    "campus":null,
+    "class_id":"P8790-20263-001",
+    "course_subtitle":"TUTORIAL SOCIOMEDICAL SCI",
+    "department":"Sociomedical Sciences",
+    "department_code":"SOSC",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SOSC\/P8790-20263-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0-6",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263SOSC8790P001",
+    "type":"TUTORIAL"
+  },
+  {
     "course_code":"SOSC P8798",
     "course_title":"Seminar in Research and Professional Dev",
     "course_descr":"This seminar is designed for pre-doctoral students from the Departments of Sociomedical Sciences, Epidemiology, Biostatistics, and Population and Family Health who have been accepted to the T32, on Social Determinants of HIV, a training grant sponsored by the National Institute of Mental Health of the National Institutes of Health. Students in this T32 program are required to take this 2-year seminar (1 credit per semester). The seminar will highlight structural interventions designed to reduce the impact of HIV among underrepresented populations, professional development issues; funding mechanisms such as diversity supplements, diverse research careers for doctoral students in public health, and guest speakers who are experts in HIV structural interventions and social determinants of health. Students will lead many of the seminar discussions and they are given the opportunity to present their work in progress. Graded on a pass\/fail basis.",
@@ -227693,7 +228648,7 @@
     "department":"Statistics",
     "department_code":"STAT",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/STAT\/W5242-20263-001\/",
-    "location":null,
+    "location":"501 Schermerhorn Hall [SCH]",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Engineering:Graduate",
@@ -227723,7 +228678,7 @@
     "department":"Statistics",
     "department_code":"STAT",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/STAT\/W5242-20263-002\/",
-    "location":null,
+    "location":"301 Uris Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Engineering:Graduate",
@@ -227975,7 +228930,7 @@
     "course_descr":"Topics in Modern Statistics will provide MA Statistics students with an opportunity to study a specialized area of statistics in more depth and to meet the educational needs of a rapidly growing field.",
     "instructor":"Xiaofu He",
     "scheduled_time_start":"1:10pm",
-    "scheduled_time_end":"2:25pm",
+    "scheduled_time_end":"3:40pm",
     "call_number":"14628",
     "campus":null,
     "class_id":"G5293-20263-004",
@@ -227983,7 +228938,7 @@
     "department":"Statistics",
     "department_code":"STAT",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/STAT\/G5293-20263-004\/",
-    "location":"702 Hamilton Hall, Monday 1:10pm-3:40pm 717 Hamilton Hall",
+    "location":"717 Hamilton Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Engineering:Graduate",
@@ -227993,7 +228948,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":"MW",
+    "scheduled_days":"M",
     "section_key":"20263STAT5293G004",
     "type":"LECTURE"
   },
@@ -230343,7 +231298,7 @@
     "department":"Statistics",
     "department_code":"STAT",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/STAT\/W4242-20263-001\/",
-    "location":null,
+    "location":"501 Schermerhorn Hall [SCH]",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Columbia College",
@@ -230375,7 +231330,7 @@
     "department":"Statistics",
     "department_code":"STAT",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/STAT\/W4242-20263-002\/",
-    "location":null,
+    "location":"301 Uris Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Columbia College",
@@ -231514,7 +232469,7 @@
   {
     "course_code":"STAT UN1202",
     "course_title":"RECITATION FOR CALC-BASED INTRODUCTION T",
-    "course_descr":null,
+    "course_descr":"This is only a recitation request for STAT1202UN. We would like to have this recitation align with STAT1201UN offered for Fall 2026.",
     "instructor":null,
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"3:25pm",
@@ -231530,7 +232485,12 @@
     "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "AT1201"
+      ],
+      [
+        "AT1202"
+      ]
     ],
     "scheduled_days":"F",
     "section_key":"20263STAT1202W003",
@@ -231539,7 +232499,7 @@
   {
     "course_code":"STAT UN1202",
     "course_title":"RECITATION FOR CALC-BASED INTRODUCTION T",
-    "course_descr":null,
+    "course_descr":"This is only a recitation request for STAT1202UN. We would like to have this recitation align with STAT1201UN offered for Fall 2026.",
     "instructor":"Daniel Rabinowitz",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -231555,7 +232515,12 @@
     "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "AT1201"
+      ],
+      [
+        "AT1202"
+      ]
     ],
     "scheduled_days":"F",
     "section_key":"20263STAT1202W004",
@@ -231564,7 +232529,7 @@
   {
     "course_code":"STAT UN1202",
     "course_title":"RECITATION FOR CALC-BASED INTRODUCTION T",
-    "course_descr":null,
+    "course_descr":"This is only a recitation request for STAT1202UN. We would like to have this recitation align with STAT1201UN offered for Fall 2026.",
     "instructor":"Daniel Rabinowitz",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"3:25pm",
@@ -231580,7 +232545,12 @@
     "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "AT1201"
+      ],
+      [
+        "AT1202"
+      ]
     ],
     "scheduled_days":"F",
     "section_key":"20263STAT1202W005",
@@ -231589,7 +232559,7 @@
   {
     "course_code":"STAT UN1202",
     "course_title":"RECITATION FOR CALC-BASED INTRODUCTION T",
-    "course_descr":null,
+    "course_descr":"This is only a recitation request for STAT1202UN. We would like to have this recitation align with STAT1201UN offered for Fall 2026.",
     "instructor":"Daniel Rabinowitz",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -231605,7 +232575,12 @@
     "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "AT1201"
+      ],
+      [
+        "AT1202"
+      ]
     ],
     "scheduled_days":"S",
     "section_key":"20263STAT1202W006",
@@ -231614,7 +232589,7 @@
   {
     "course_code":"STAT UN1202",
     "course_title":"RECITATION FOR CALC-BASED INTRODUCTION T",
-    "course_descr":null,
+    "course_descr":"This is only a recitation request for STAT1202UN. We would like to have this recitation align with STAT1201UN offered for Fall 2026.",
     "instructor":"Daniel Rabinowitz",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"3:25pm",
@@ -231630,7 +232605,12 @@
     "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "AT1201"
+      ],
+      [
+        "AT1202"
+      ]
     ],
     "scheduled_days":"S",
     "section_key":"20263STAT1202W007",
@@ -231639,7 +232619,7 @@
   {
     "course_code":"STAT UN1202",
     "course_title":"RECITATION FOR CALC-BASED INTRODUCTION T",
-    "course_descr":null,
+    "course_descr":"This is only a recitation request for STAT1202UN. We would like to have this recitation align with STAT1201UN offered for Fall 2026.",
     "instructor":"Gabriel Young",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"7:25pm",
@@ -231655,7 +232635,12 @@
     "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "AT1201"
+      ],
+      [
+        "AT1202"
+      ]
     ],
     "scheduled_days":"M",
     "section_key":"20263STAT1202W008",
@@ -231664,7 +232649,7 @@
   {
     "course_code":"STAT UN1202",
     "course_title":"RECITATION FOR CALC-BASED INTRODUCTION T",
-    "course_descr":null,
+    "course_descr":"This is only a recitation request for STAT1202UN. We would like to have this recitation align with STAT1201UN offered for Fall 2026.",
     "instructor":"Gabriel Young",
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"1:25pm",
@@ -231680,7 +232665,12 @@
     "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "AT1201"
+      ],
+      [
+        "AT1202"
+      ]
     ],
     "scheduled_days":"F",
     "section_key":"20263STAT1202W010",
@@ -231689,7 +232679,7 @@
   {
     "course_code":"STAT UN1202",
     "course_title":"RECITATION FOR CALC-BASED INTRODUCTION T",
-    "course_descr":null,
+    "course_descr":"This is only a recitation request for STAT1202UN. We would like to have this recitation align with STAT1201UN offered for Fall 2026.",
     "instructor":"Gabriel Young",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"3:25pm",
@@ -231705,7 +232695,12 @@
     "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "AT1201"
+      ],
+      [
+        "AT1202"
+      ]
     ],
     "scheduled_days":"F",
     "section_key":"20263STAT1202W011",
@@ -231714,7 +232709,7 @@
   {
     "course_code":"STAT UN2002",
     "course_title":"RECITATION FOR APPLIED STATISTICAL COMPU",
-    "course_descr":null,
+    "course_descr":"This is only a zero credit recitation request to create STAT 2002UN. We would like to have this recitation align with STAT1202UN offered for Fall 2026.",
     "instructor":null,
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -231730,7 +232725,9 @@
     "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "AT1202"
+      ]
     ],
     "scheduled_days":"F",
     "section_key":"20263STAT2002W001",
@@ -231739,7 +232736,7 @@
   {
     "course_code":"STAT UN2002",
     "course_title":"RECITATION FOR APPLIED STATISTICAL COMPU",
-    "course_descr":null,
+    "course_descr":"This is only a zero credit recitation request to create STAT 2002UN. We would like to have this recitation align with STAT1202UN offered for Fall 2026.",
     "instructor":null,
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"3:25pm",
@@ -231755,7 +232752,9 @@
     "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "AT1202"
+      ]
     ],
     "scheduled_days":"F",
     "section_key":"20263STAT2002W002",
@@ -240002,7 +241001,7 @@
     "course_title":"JUNIOR SEMINAR IN URBAN STUDIES",
     "course_descr":"Prerequisites: Non-majors admitted by permission of instructor. Students must attend first class. Enrollment limited to 16 students per section.\u00a0Introduction to the historical process and social consequences of urban growth, from the middle of the nineteenth century to the present.",
     "instructor":"Mary Rocco",
-    "scheduled_time_start":"4:00pm",
+    "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
     "call_number":"00387",
     "campus":null,
@@ -242474,6 +243473,7 @@
       "Engineering:Undergraduate",
       "General Studies",
       "Global Programs",
+      "Law",
       "Schools of the Arts"
     ],
     "points":"3",
@@ -243444,31 +244444,6 @@
     "scheduled_days":"MW",
     "section_key":"20263WMST1006X001",
     "type":"LECTURE"
-  },
-  {
-    "course_code":"WMST BC1007",
-    "course_title":"Intro to Environmental Humanities Discus",
-    "course_descr":"Discussion Section",
-    "instructor":null,
-    "scheduled_time_start":"10:10am",
-    "scheduled_time_end":"11:25am",
-    "call_number":"01112",
-    "campus":null,
-    "class_id":"X1007-20263-001",
-    "course_subtitle":"Discussion Section",
-    "department":"Women's, Gender, Sexuality Studies @Barnard",
-    "department_code":"WMST",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/WMST\/X1007-20263-001\/",
-    "location":null,
-    "method_of_instruction":null,
-    "open_to":null,
-    "points":"0",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"W",
-    "section_key":"20263WMST1007X001",
-    "type":"DISCUSSION"
   },
   {
     "course_code":"WMST BC2140",
