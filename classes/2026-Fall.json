@@ -11232,7 +11232,7 @@
   {
     "course_code":"APAM E6650",
     "course_title":"RESEARCH PROJECT",
-    "course_descr":null,
+    "course_descr":"May be repeated for credit. A special investigation of a problem in nuclear engineering, medical physics, applied mathematics, applied physics, and\/or plasma physics consisting of independent work on the part of the student and embodied in a formal report.",
     "instructor":"Aravind Devarakonda",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -13768,7 +13768,7 @@
     "course_code":"APMA E2001",
     "course_title":"MULTV. CALC. FOR ENGI & APP SCI",
     "course_descr":"Required recitation session for students enrolled in APMA E2000.",
-    "instructor":null,
+    "instructor":"Peter Jin",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:00am",
     "call_number":"20121",
@@ -13828,7 +13828,7 @@
     "course_code":"APMA E2001",
     "course_title":"MULTV. CALC. FOR ENGI & APP SCI",
     "course_descr":"Required recitation session for students enrolled in APMA E2000.",
-    "instructor":null,
+    "instructor":"Winston Yu",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:00pm",
     "call_number":"20123",
@@ -13858,7 +13858,7 @@
     "course_code":"APMA E2001",
     "course_title":"MULTV. CALC. FOR ENGI & APP SCI",
     "course_descr":"Required recitation session for students enrolled in APMA E2000.",
-    "instructor":null,
+    "instructor":"Winston Yu",
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:30pm",
     "call_number":"20124",
@@ -13888,7 +13888,7 @@
     "course_code":"APMA E2001",
     "course_title":"MULTV. CALC. FOR ENGI & APP SCI",
     "course_descr":"Required recitation session for students enrolled in APMA E2000.",
-    "instructor":null,
+    "instructor":"Peter Jin",
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:30pm",
     "call_number":"20125",
@@ -13918,7 +13918,7 @@
     "course_code":"APMA E2001",
     "course_title":"MULTV. CALC. FOR ENGI & APP SCI",
     "course_descr":"Required recitation session for students enrolled in APMA E2000.",
-    "instructor":null,
+    "instructor":"Winston Yu",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:30pm",
     "call_number":"20126",
@@ -13948,7 +13948,7 @@
     "course_code":"APMA E2001",
     "course_title":"MULTV. CALC. FOR ENGI & APP SCI",
     "course_descr":"Required recitation session for students enrolled in APMA E2000.",
-    "instructor":null,
+    "instructor":"Peter Jin",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:00pm",
     "call_number":"20127",
@@ -14552,7 +14552,7 @@
   {
     "course_code":"APPH E3900",
     "course_title":"UNDERGRAD RESRCH-APPLD PHYSICS",
-    "course_descr":null,
+    "course_descr":"This course may be repeated for credit, but no more than 6 points of this course may be counted toward the satisfaction of the B.S. degree requirements. Candidates for the B.S. degree may conduct an investigation in applied physics or carry out a special project under the supervision of the staff. Credit for the course is contingent upon the submission of an acceptable thesis or final report.",
     "instructor":"Sherry Zhang",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -29243,6 +29243,31 @@
     "type":"INDEPENDENT"
   },
   {
+    "course_code":"BMEN E4899",
+    "course_title":"Research Training",
+    "course_descr":null,
+    "instructor":"Grace McIlvain",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"20523",
+    "campus":null,
+    "class_id":"E4899-20263-032",
+    "course_subtitle":null,
+    "department":"Biomedical Engineering",
+    "department_code":"BMEN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/BMEN\/E4899-20263-032\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263BMEN4899E032",
+    "type":"INDEPENDENT"
+  },
+  {
     "course_code":"BMEN E4999",
     "course_title":"FIELDWORK",
     "course_descr":"Only for BMEN graduate students who need relevant work experience as part of their program of study. Final reports required. May not be taken for pass\/fail credit or audited.",
@@ -42067,10 +42092,7 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/CHEN\/E4020-20263-001\/",
     "location":"545 Seeley W. Mudd Building",
     "method_of_instruction":"In-Person",
-    "open_to":[
-      "Engineering:Graduate",
-      "Engineering:Undergraduate"
-    ],
+    "open_to":null,
     "points":"3",
     "prerequisites":[
 
@@ -47147,12 +47169,7 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/CLMT\/G5033-20263-001\/",
     "location":"602 Northwest Corner Building",
     "method_of_instruction":"In-Person",
-    "open_to":[
-      "GSAS",
-      "Professional Studies",
-      "SIPA",
-      "Schools of the Arts"
-    ],
+    "open_to":null,
     "points":"3",
     "prerequisites":[
 
@@ -67960,7 +67977,7 @@
     "department":"Economics @Barnard",
     "department_code":"ECON",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ECON\/X3063-20263-003\/",
-    "location":"405 Barnard Hall",
+    "location":"113 MILSTEIN CEN",
     "method_of_instruction":null,
     "open_to":null,
     "points":"4",
@@ -72986,6 +73003,31 @@
     ],
     "scheduled_days":"M",
     "section_key":"20263EEEB3997W001",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"EEEB UN3997",
+    "course_title":"INDEPENDENT STUDY",
+    "course_descr":null,
+    "instructor":"Jill S Shapiro",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"20525",
+    "campus":null,
+    "class_id":"W3997-20263-002",
+    "course_subtitle":null,
+    "department":"Ecology, Evolution, and Environmental Biology",
+    "department_code":"EEEB",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/EEEB\/W3997-20263-002\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"1-3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263EEEB3997W002",
     "type":"INDEPENDENT"
   },
   {
@@ -91447,43 +91489,6 @@
     "type":"LECTURE"
   },
   {
-    "course_code":"ENVP IA6320",
-    "course_title":"Political Context of Environmental Manag",
-    "course_descr":"Political Context of Environmental Management \nexplores how environmental challenges are framed, debated, and addressed within political systems. The course examines how public issues emerge on the policy agenda, how competing interests shape environmental decision-making, and how policy solutions are formulated and implemented across sectors and scales.\n  \nEmphasizing the intersection of politics, governance, and environmental management, students will analyze tensions between economic and political models of policymaking, the role of interest groups and expertise, and the complexities of managing cross-jurisdictional issues such as federalism and globalization. Case studies, including agriculture, will provide practical insight into the dynamics of environmental policy from local to global levels.\n  \nBy the end of the course, students will develop a deeper understanding of environmental advocacy, the formal and informal actors in environmental governance, and the political conditions that enable or constrain policy change.",
-    "instructor":"Sara Tjossem",
-    "scheduled_time_start":"10:00am",
-    "scheduled_time_end":"11:50am",
-    "call_number":"17198",
-    "campus":null,
-    "class_id":"U6320-20263-001",
-    "course_subtitle":"Politics of Environmental",
-    "department":"MPA-ENVIRONMENTAL SCIENCE POL",
-    "department_code":"ENVP",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENVP\/U6320-20263-001\/",
-    "location":"801 International Affairs Building",
-    "method_of_instruction":"In-Person",
-    "open_to":[
-      "Architecture",
-      "Business",
-      "Engineering:Graduate",
-      "GSAS",
-      "Journalism",
-      "Law",
-      "Professional Studies",
-      "Public Health",
-      "SIPA",
-      "Schools of the Arts",
-      "Social Work"
-    ],
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"T",
-    "section_key":"20263ENVP6320U001",
-    "type":"LECTURE"
-  },
-  {
     "course_code":"ENVP IA8213",
     "course_title":"Microeconomics and Policy Analysis I",
     "course_descr":"The objective of Microeconomics and Policy Analysis I is to ensure that students can use an economic framework to analyze policy choices, including those related to the environment. Students will be expected to understand, apply, and critique microeconomic models that inform economic and environmental policy. By the end of the semester, students will be expected to use economic concepts fluently to advocate various public policy positions.\n  \nWe will begin with the big picture: how did economics evolve, what a capitalist economy is, and how do we think about it? We will then focus on tools for understanding core institutions such as markets, individual workers and consumers, and firms. We describe simple supply-demand relationships and apply these to economic problems. We introduce the concepts of opportunity cost and choice, which are fundamental to an economic framework for public policy. We then examine basic tools used by economists. We examine in detail the underlying theory of consumers and producers necessary to derive supply and demand relationships.\u00a0This detailed analysis facilitates an intelligent application and critique of these basic economic tools.\n  \nWe will incorporate environmental examples throughout the class, but this is not a class on environmental economics. It will introduce you to microeconomics more generally, and give you a view of the economy interacting with lots of other political, social, and environmental factors.",
@@ -98180,7 +98185,7 @@
     "department":"Film",
     "department_code":"FILM",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/FILM\/R8305-20263-001\/",
-    "location":null,
+    "location":"323 Riverside Church",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Engineering:Graduate",
@@ -116717,7 +116722,7 @@
     "course_code":"HSWM UN2762",
     "course_title":"GENDER & SEXUALITY IN AFRICA-DISC",
     "course_descr":"Required discussion for HSWM UN2761 lecture \"Gender & Sexuality in Africa\"",
-    "instructor":null,
+    "instructor":"Rhiannon Stephens",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:00pm",
     "call_number":"11040",
@@ -116744,7 +116749,7 @@
     "course_code":"HSWM UN2762",
     "course_title":"GENDER & SEXUALITY IN AFRICA-DISC",
     "course_descr":"Required discussion for HSWM UN2761 lecture \"Gender & Sexuality in Africa\"",
-    "instructor":null,
+    "instructor":"Rhiannon Stephens",
     "scheduled_time_start":"9:10am",
     "scheduled_time_end":"10:00am",
     "call_number":"12134",
@@ -116771,7 +116776,7 @@
     "course_code":"HSWM UN2762",
     "course_title":"GENDER & SEXUALITY IN AFRICA-DISC",
     "course_descr":"Required discussion for HSWM UN2761 lecture \"Gender & Sexuality in Africa\"",
-    "instructor":null,
+    "instructor":"Rhiannon Stephens",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:00am",
     "call_number":"12135",
@@ -116798,7 +116803,7 @@
     "course_code":"HSWM UN2762",
     "course_title":"GENDER & SEXUALITY IN AFRICA-DISC",
     "course_descr":"Required discussion for HSWM UN2761 lecture \"Gender & Sexuality in Africa\"",
-    "instructor":null,
+    "instructor":"Rhiannon Stephens",
     "scheduled_time_start":"11:10am",
     "scheduled_time_end":"12:00pm",
     "call_number":"12136",
@@ -123914,7 +123919,7 @@
   {
     "course_code":"IEOR E4404",
     "course_title":"SIMULATION",
-    "course_descr":null,
+    "course_descr":"Generation of random numbers from given distributions; variance reduction; statistical output analysis; introduction to simulation languages; application to financial, telecommunications, computer, and production systems. Graduate students must register for 3 points. Undergraduate students must register for 4 points. Note: Students who have taken IEOR E4703 Monte Carlo simulation may not register for this course for credit. Recitation section required.",
     "instructor":"Yuchen Hu",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -123932,7 +123937,9 @@
     ],
     "points":"3",
     "prerequisites":[
-
+      [
+        "IEOR E4703"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20263IEOR4404EC01",
@@ -150676,7 +150683,7 @@
   {
     "course_code":"MDES UN1031",
     "course_title":"Game of Thrones Discussion Section",
-    "course_descr":null,
+    "course_descr":"Discussion section to accompany the course, \"Game of Thrones\": On Epics and Empires.",
     "instructor":null,
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"7:00pm",
@@ -150701,7 +150708,7 @@
   {
     "course_code":"MDES UN1031",
     "course_title":"Game of Thrones Discussion Section",
-    "course_descr":null,
+    "course_descr":"Discussion section to accompany the course, \"Game of Thrones\": On Epics and Empires.",
     "instructor":null,
     "scheduled_time_start":"7:10pm",
     "scheduled_time_end":"8:00pm",
@@ -152621,6 +152628,31 @@
     ],
     "scheduled_days":"M",
     "section_key":"20263MECE3420E002",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"MECE E3420",
+    "course_title":"ENG DES-CONCPT\/DESIGN GENERATN",
+    "course_descr":null,
+    "instructor":"Evan Lerner",
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"3:40pm",
+    "call_number":"20526",
+    "campus":null,
+    "class_id":"E3420-20263-003",
+    "course_subtitle":null,
+    "department":"Mechanical Engineering",
+    "department_code":"MECE",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/MECE\/E3420-20263-003\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20263MECE3420E003",
     "type":"LECTURE"
   },
   {
@@ -169740,7 +169772,8 @@
     "location":null,
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Human Nutrition"
+      "Human Nutrition",
+      "Medicine"
     ],
     "points":"3",
     "prerequisites":[
@@ -192119,8 +192152,8 @@
     "course_title":"International Politics Discussion",
     "course_descr":"Discussion section for POLS UN2601",
     "instructor":"Arthur A Hoefliger",
-    "scheduled_time_start":"11:10am",
-    "scheduled_time_end":"12:00pm",
+    "scheduled_time_start":"12:10pm",
+    "scheduled_time_end":"1:00pm",
     "call_number":"15695",
     "campus":null,
     "class_id":"W2611-20263-007",
@@ -192128,7 +192161,7 @@
     "department":"Political Science",
     "department_code":"POLS",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/POLS\/W2611-20263-007\/",
-    "location":"306 Uris Hall",
+    "location":null,
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"0",
@@ -192137,7 +192170,7 @@
         "POLS UN2601"
       ]
     ],
-    "scheduled_days":"M",
+    "scheduled_days":"R",
     "section_key":"20263POLS2611W007",
     "type":"DISCUSSION"
   },
@@ -223688,7 +223721,7 @@
     "department":"Sociomedical Sciences",
     "department_code":"SOSC",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SOSC\/P6777-20263-001\/",
-    "location":"532AB ROSENFIELD B",
+    "location":"532A ROSENFIELD B",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Public Health"
@@ -229277,8 +229310,8 @@
     "course_title":"TOPICS IN MODERN STATISTICS",
     "course_descr":"Topics in Modern Statistics will provide MA Statistics students with an opportunity to study a specialized area of statistics in more depth and to meet the educational needs of a rapidly growing field.",
     "instructor":"Liam M Paninski",
-    "scheduled_time_start":"10:10am",
-    "scheduled_time_end":"12:40pm",
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"3:00pm",
     "call_number":"14629",
     "campus":null,
     "class_id":"G5293-20263-003",
@@ -229286,7 +229319,7 @@
     "department":"Statistics",
     "department_code":"STAT",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/STAT\/G5293-20263-003\/",
-    "location":"401 Chandler",
+    "location":null,
     "method_of_instruction":"In-Person",
     "open_to":[
       "Engineering:Graduate",
@@ -229296,7 +229329,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":"F",
+    "scheduled_days":"R",
     "section_key":"20263STAT5293G003",
     "type":"LECTURE"
   },
@@ -230727,7 +230760,7 @@
     "course_descr":".",
     "instructor":"Liam M Paninski",
     "scheduled_time_start":"1:10pm",
-    "scheduled_time_end":"2:25pm",
+    "scheduled_time_end":"3:00pm",
     "call_number":"14684",
     "campus":null,
     "class_id":"G8201-20263-001",
@@ -230735,7 +230768,7 @@
     "department":"Statistics",
     "department_code":"STAT",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/STAT\/G8201-20263-001\/",
-    "location":"325 Pupin Laboratories",
+    "location":null,
     "method_of_instruction":"In-Person",
     "open_to":[
       "GSAS"
@@ -230744,7 +230777,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":"TR",
+    "scheduled_days":"R",
     "section_key":"20263STAT8201G001",
     "type":"COLLOQUIA"
   },
@@ -230861,8 +230894,8 @@
     "course_title":"INTRODUCTION TO PROBABILITY AND STATISTI",
     "course_descr":"Prerequisites: Calculus through multiple integration and infinite sums. A calculus-based tour of the fundamentals of probability theory and statistical inference. Probability models, random variables, useful distributions, conditioning, expectations, law of large numbers, central limit theorem, point and confidence interval estimation, hypothesis tests, linear regression. This course replaces SIEO 4150.",
     "instructor":"Banu Baydil",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"7:25pm",
     "call_number":"14570",
     "campus":null,
     "class_id":"W4001-20263-001",
@@ -230885,7 +230918,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"MW",
     "section_key":"20263STAT4001W001",
     "type":"LECTURE"
   },
@@ -231992,8 +232025,8 @@
     "course_title":"TOPICS IN MODERN STATISTICS",
     "course_descr":"Topics in Modern Statistics provide students with an opportunity to study a specialized area of statistics in more depth to meet the educational needs of a rapidly changing field.",
     "instructor":"Liam M Paninski",
-    "scheduled_time_start":"10:10am",
-    "scheduled_time_end":"12:40pm",
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"3:00pm",
     "call_number":"14995",
     "campus":null,
     "class_id":"G4293-20263-003",
@@ -232001,7 +232034,7 @@
     "department":"Statistics",
     "department_code":"STAT",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/STAT\/G4293-20263-003\/",
-    "location":"401 Chandler",
+    "location":null,
     "method_of_instruction":"In-Person",
     "open_to":[
       "Columbia College",
@@ -232015,7 +232048,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":"F",
+    "scheduled_days":"R",
     "section_key":"20263STAT4293G003",
     "type":"LECTURE"
   },
