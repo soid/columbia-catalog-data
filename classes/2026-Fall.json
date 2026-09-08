@@ -11205,7 +11205,7 @@
   {
     "course_code":"APAM E6650",
     "course_title":"RESEARCH PROJECT",
-    "course_descr":null,
+    "course_descr":"May be repeated for credit. A special investigation of a problem in nuclear engineering, medical physics, applied mathematics, applied physics, and\/or plasma physics consisting of independent work on the part of the student and embodied in a formal report.",
     "instructor":"Nanfang Yu",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -11227,6 +11227,33 @@
     ],
     "scheduled_days":null,
     "section_key":"20263APAM6650E008",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"APAM E6650",
+    "course_title":"RESEARCH PROJECT",
+    "course_descr":null,
+    "instructor":"Aravind Devarakonda",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"20520",
+    "campus":null,
+    "class_id":"E6650-20263-004",
+    "course_subtitle":null,
+    "department":"Applied Physics and Applied Mathematics",
+    "department_code":"APAM",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/APAM\/E6650-20263-004\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Engineering:Graduate"
+    ],
+    "points":"1-6",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263APAM6650E004",
     "type":"INDEPENDENT"
   },
   {
@@ -14520,6 +14547,31 @@
     ],
     "scheduled_days":null,
     "section_key":"20263APPH3900E008",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"APPH E3900",
+    "course_title":"UNDERGRAD RESRCH-APPLD PHYSICS",
+    "course_descr":null,
+    "instructor":"Sherry Zhang",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"20522",
+    "campus":null,
+    "class_id":"E3900-20263-012",
+    "course_subtitle":"UNDERGRAD RESRCH-APPLD PH",
+    "department":"Applied Physics and Applied Mathematics",
+    "department_code":"APPH",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/APPH\/E3900-20263-012\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0-4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263APPH3900E012",
     "type":"INDEPENDENT"
   },
   {
@@ -37485,7 +37537,7 @@
     "department":"Chemistry",
     "department_code":"CHEM",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/CHEM\/W1405-20263-009\/",
-    "location":"320 Havemeyer Hall",
+    "location":"214 Pupin Laboratories",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Barnard College",
@@ -45293,7 +45345,7 @@
     "department":"Civil Engineering and Engineering Mechanics",
     "department_code":"CIEN",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/CIEN\/E4235-20263-001\/",
-    "location":"415 Schapiro [SCEP]",
+    "location":"524 Seeley W. Mudd Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Engineering:Graduate",
@@ -45405,7 +45457,7 @@
     "department":"Civil Engineering and Engineering Mechanics",
     "department_code":"CIEN",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/CIEN\/E4256-20263-001\/",
-    "location":"214 Pupin Laboratories",
+    "location":"524 Seeley W. Mudd Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Engineering:Graduate",
@@ -45423,7 +45475,7 @@
   {
     "course_code":"CIEN E4256",
     "course_title":"Applied Machine Learning in Civil Engine",
-    "course_descr":null,
+    "course_descr":"Utilization of data in everyday civil infrastructure. Optimization of decision-making for owners, facility managers, and policy-makers based on predictive results. Provides students with basic understanding\u00a0of machine learning concepts and methods to formulate civil engineering problems to prediction problems. Introduces students to classic machine learning algorithms, deep learning algorithms, algorithmic thinking, and probabilistic views, and their applications in existing civil engineering problems.",
     "instructor":"Zhengbo Zou",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -46849,31 +46901,6 @@
     "scheduled_days":"MW",
     "section_key":"20263CLGR3252W001",
     "type":"LECTURE"
-  },
-  {
-    "course_code":"CLGR UN3998",
-    "course_title":"SUPERVISED INDIVIDUAL RESEARCH",
-    "course_descr":null,
-    "instructor":"Oliver Simons",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
-    "call_number":"20463",
-    "campus":null,
-    "class_id":"C3998-20263-001",
-    "course_subtitle":"SUPERVISED INDIVIDUAL RES",
-    "department":"Germanic Languages",
-    "department_code":"CLGR",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CLGR\/C3998-20263-001\/",
-    "location":null,
-    "method_of_instruction":"In-Person",
-    "open_to":null,
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":null,
-    "section_key":"20263CLGR3998C001",
-    "type":"INDEPENDENT"
   },
   {
     "course_code":"CLIA GR6050",
@@ -55701,7 +55728,7 @@
     "course_descr":"Introduction to security. Threat models. Operating system security features. Vulnerabilities and tools. Firewalls, virtual private networks, viruses. Mobile and app security. Usable security. Note: May not earn credit for both W4181 and W4180 or W4187.",
     "instructor":"Zhuo Zhang",
     "scheduled_time_start":"4:10pm",
-    "scheduled_time_end":"6:00pm",
+    "scheduled_time_end":"5:25pm",
     "call_number":"13658",
     "campus":null,
     "class_id":"W4181-20263-001",
@@ -79047,7 +79074,7 @@
   {
     "course_code":"ELEN E6003",
     "course_title":"MASTER'S THESIS",
-    "course_descr":null,
+    "course_descr":"Research in an area of Electrical Engineering culminating in a verbal presentation and a written thesis document approved by the thesis instructor. Must obtain permission from a thesis instructor to enroll. Thesis projects span at least two terms: an ELEN E6001 or E6002 Advanced Project followed by the E6003 Master\u2019s Thesis with the same instructor. Students must use a department recommended format for thesis writing. Counts towards the amount of research credit in the MS program.",
     "instructor":"Ioannis Kymissis",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -79063,7 +79090,13 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "E6003"
+      ],
+      [
+        "ELEN E6001",
+        "E6002"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20263ELEN6003E013",
@@ -110458,6 +110491,114 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"HIST BC1412",
+    "course_title":"INTRO TO AMERICAN HISTORY SINCE 1865-DIS",
+    "course_descr":"Discussion section for HIST UN1402\u00a0Intro to American History since 1865.",
+    "instructor":null,
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"11:00am",
+    "call_number":"00973",
+    "campus":null,
+    "class_id":"X1412-20263-001",
+    "course_subtitle":"INTRO AMER HIST SINCE 186",
+    "department":"History @Barnard",
+    "department_code":"HIST",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HIST\/X1412-20263-001\/",
+    "location":"403 Barnard Hall",
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+      [
+        "HIST UN1402"
+      ]
+    ],
+    "scheduled_days":"F",
+    "section_key":"20263HIST1412X001",
+    "type":"DISCUSSION"
+  },
+  {
+    "course_code":"HIST BC1412",
+    "course_title":"INTRO TO AMERICAN HISTORY SINCE 1865-DIS",
+    "course_descr":"Discussion section for HIST UN1402\u00a0Intro to American History since 1865.",
+    "instructor":null,
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"11:00am",
+    "call_number":"00974",
+    "campus":null,
+    "class_id":"X1412-20263-003",
+    "course_subtitle":"INTRO AMER HIST SINCE 186",
+    "department":"History @Barnard",
+    "department_code":"HIST",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HIST\/X1412-20263-003\/",
+    "location":"912 MILSTEIN CEN",
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+      [
+        "HIST UN1402"
+      ]
+    ],
+    "scheduled_days":"R",
+    "section_key":"20263HIST1412X003",
+    "type":"DISCUSSION"
+  },
+  {
+    "course_code":"HIST BC1412",
+    "course_title":"INTRO TO AMERICAN HISTORY SINCE 1865-DIS",
+    "course_descr":"Discussion section for HIST UN1402\u00a0Intro to American History since 1865.",
+    "instructor":null,
+    "scheduled_time_start":"11:10am",
+    "scheduled_time_end":"12:00pm",
+    "call_number":"00975",
+    "campus":null,
+    "class_id":"X1412-20263-004",
+    "course_subtitle":"INTRO AMER HIST SINCE 186",
+    "department":"History @Barnard",
+    "department_code":"HIST",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HIST\/X1412-20263-004\/",
+    "location":"912 MILSTEIN CEN",
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+      [
+        "HIST UN1402"
+      ]
+    ],
+    "scheduled_days":"R",
+    "section_key":"20263HIST1412X004",
+    "type":"DISCUSSION"
+  },
+  {
+    "course_code":"HIST BC1412",
+    "course_title":"INTRO TO AMERICAN HISTORY SINCE 1865-DIS",
+    "course_descr":"Discussion section for HIST UN1402\u00a0Intro to American History since 1865.",
+    "instructor":null,
+    "scheduled_time_start":"11:10am",
+    "scheduled_time_end":"12:00pm",
+    "call_number":"01117",
+    "campus":null,
+    "class_id":"X1412-20263-002",
+    "course_subtitle":"INTRO AMER HIST SINCE 186",
+    "department":"History @Barnard",
+    "department_code":"HIST",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HIST\/X1412-20263-002\/",
+    "location":"403 Barnard Hall",
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+      [
+        "HIST UN1402"
+      ]
+    ],
+    "scheduled_days":"F",
+    "section_key":"20263HIST1412X002",
+    "type":"DISCUSSION"
+  },
+  {
     "course_code":"HIST BC2199",
     "course_title":"A History of Witchcraft and Magic in Eur",
     "course_descr":"This lecture course examines the social, cultural, and legal history of witchcraft, magic, and the occult throughout European history. We will examine the values and attitudes that have influenced beliefs about witchcraft and the supernatural, both historically and in the present day, using both primary and secondary sources. This course will pay specific attention to the role of gender and sexuality in the history of witchcraft, as the vast majority of individuals charged in the witch hunts of the sixteenth and seventeenth centuries were indeed women. We will also study accusations of witchcraft, breaking down the power dynamics and assumptions at play behind the witch trials, and the impacts of these trials on gender relations in European society. This class will track the intersections of magic and science throughout the early-modern period, and the reconciliation of belief systems during the Enlightenment. We will carry our analysis into the modern period, touching on Victorian spiritualism and mysticism, McCarthyism in the United States, and contemporary goddess worship. We will conclude the semester with an investigation into the role of witchcraft in discussions of gender, race, and sexuality in popular culture.",
@@ -116809,9 +116950,9 @@
     "course_code":"HUMA BC1111",
     "course_title":"A BARNARD EDUCATION AT WORK",
     "course_descr":"Per its mission statement, \u201cBarnard College aims to provide the highest-quality liberal arts\n education to promising and high-achieving young women\u2026 They graduate prepared to lead\n lives that are professionally satisfying and successful, personally fulfilling, and enriched by a love\n of learning.\u201d This course finds its roots in the connection posited here, between undergraduate\n study and professional life. Students will be asked to revisit a foundational text they have\n encountered in their major, and use it as a mode of exploration and reflection on an internship.\n They will consider how the text\u2019s themes and ideas can be reinterpreted and recontextualized in\n the working world, and think about what practical, moral, political, aesthetic and personal\n insights it affords. More broadly, students will be prompted to consider the relationship of the\n liberal arts degree (which purports to prepare students for no particular career) to their chosen\n career path. This course will further hone the critical thinking and writing skills that are\n translatable to any profession, and enables a Barnard student to put into practice the\n complexities they have learned in the classroom, by encouraging them to analyze the\n professional world from different perspectives, and in the context of other ideas and traditions.\n The text will be selected from a list provided by the student\u2019s major department, and will be\n subject to approval from the course instructor.\n On a weekly basis, in this discussion-based class, the student shares their ideas about their text\n and how it relates to their internship. They respond to and engage with their classmates. They\n are required to spend about two hours with their text per week. They are also required to\n create a presentation, to be shared with the full group. The group is also\n responsible for providing feedback on the presentation. The presentation ultimately evolves\n into a final paper that explores the line of inquiry from their text as it is\n instantiated in their work experience. Students are graded on their discussion (40%),\n presentation (25%), and final paper (35%).",
-    "instructor":null,
-    "scheduled_time_start":"5:40pm",
-    "scheduled_time_end":"6:55pm",
+    "instructor":"Chris Ivanov",
+    "scheduled_time_start":"7:10pm",
+    "scheduled_time_end":"8:25pm",
     "call_number":"01108",
     "campus":null,
     "class_id":"X1111-20263-007",
@@ -121877,7 +122018,7 @@
     "department":"Industrial Engineering and Operations Research",
     "department_code":"IEOR",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/IEOR\/E3658-20263-001\/",
-    "location":"614 Schermerhorn Hall [SCH]",
+    "location":"428 Pupin Laboratories",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Engineering:Undergraduate"
@@ -123086,7 +123227,7 @@
     "department":"Industrial Engineering and Operations Research",
     "department_code":"IEOR",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/IEOR\/E4010-20263-001\/",
-    "location":"428 Pupin Laboratories",
+    "location":"614 Schermerhorn Hall [SCH]",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Engineering:Graduate",
@@ -123333,7 +123474,7 @@
   {
     "course_code":"IEOR E4106",
     "course_title":"STOCHASTIC MODELS",
-    "course_descr":null,
+    "course_descr":"Some of the main stochastic models used in engineering and operations research applications: discrete-time Markov chains, Poisson processes, birth and death processes and other continuous Markov chains, renewal reward processes. Applications: queueing, reliability, inventory, and finance.",
     "instructor":"David D Yao",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -123768,6 +123909,33 @@
     ],
     "scheduled_days":null,
     "section_key":"20263IEOR4404EV01",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"IEOR E4404",
+    "course_title":"SIMULATION",
+    "course_descr":null,
+    "instructor":"Yuchen Hu",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"20521",
+    "campus":null,
+    "class_id":"E4404-20263-C01",
+    "course_subtitle":null,
+    "department":"Video Network",
+    "department_code":"IEOR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/IEOR\/E4404-20263-C01\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Engineering:Graduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263IEOR4404EC01",
     "type":"LECTURE"
   },
   {
@@ -135707,7 +135875,7 @@
     "department":"East Asian Languages and Cultures",
     "department_code":"JPNS",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/JPNS\/C2201-20263-002\/",
-    "location":"424 Kent Hall",
+    "location":"522D Kent Hall",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"5",
@@ -136344,7 +136512,7 @@
     "department":"East Asian Languages and Cultures",
     "department_code":"KORN",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/KORN\/W2201-20263-001\/",
-    "location":"522D Kent Hall",
+    "location":"424 Kent Hall",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"5",
@@ -150506,6 +150674,56 @@
     "type":"DISCUSSION"
   },
   {
+    "course_code":"MDES UN1031",
+    "course_title":"Game of Thrones Discussion Section",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"7:00pm",
+    "call_number":"20518",
+    "campus":null,
+    "class_id":"C1031-20263-015",
+    "course_subtitle":"Game of Thrones Discussio",
+    "department":"Middle Eastern, South Asian and African Studies",
+    "department_code":"MDES",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/MDES\/C1031-20263-015\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20263MDES1031C015",
+    "type":"DISCUSSION"
+  },
+  {
+    "course_code":"MDES UN1031",
+    "course_title":"Game of Thrones Discussion Section",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"7:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"20519",
+    "campus":null,
+    "class_id":"C1031-20263-016",
+    "course_subtitle":"Game of Thrones Discussio",
+    "department":"Middle Eastern, South Asian and African Studies",
+    "department_code":"MDES",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/MDES\/C1031-20263-016\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20263MDES1031C016",
+    "type":"DISCUSSION"
+  },
+  {
     "course_code":"MDES UN1101",
     "course_title":"ELEMENTARY TAMIL I",
     "course_descr":"This course constitutes the first half of a year-long introduction to\u00a0Tamil, the official language of\u00a0the Indian state of\u00a0Tamil\u00a0Nadu as well as an official language of Sri Lanka and Singapore. In\u00a0addition to being spoken by almost 80\u00a0million people worldwide,\u00a0Tamil\u00a0also has an impressive\u00a0classical past, having served as a language of religious, intellectual, and literary life in South India\u00a0for nearly two millennia. Assuming no prior experience with the language, this introductory sequence provides students\u00a0with the grammar, language skills, and cultural context necessary for achieving their individual\u00a0Tamil\u00a0language goals, whether they\u00a0be conducting fieldwork or scholarly research, chatting with\u00a0relatives back home, or simply waxing poetic over an artful\u00a0\ndosai\n. In order to cultivate students\u2019\u00a0reading, writing, speaking, and listening comprehension skills, this\u00a0course draws upon a wide\u00a0variety of teaching materials, including the core textbook, oral drills, audio recordings, short films,\u00a0music videos, memes, and more. No P\/D\/F or R credit is allowed for this class.",
@@ -154349,7 +154567,7 @@
     "call_number":"14905",
     "campus":null,
     "class_id":"E4998-20263-016",
-    "course_subtitle":"MS PROJECTS IN MECH ENGIN",
+    "course_subtitle":"MS PROJECTS IN MECH ENGINEERIN",
     "department":"Mechanical Engineering",
     "department_code":"MECE",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/MECE\/E4998-20263-016\/",
@@ -158369,7 +158587,7 @@
     "department":"Applied Physics and Applied Mathematics",
     "department_code":"MSAE",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/MSAE\/E3100-20263-001\/",
-    "location":"644 Seeley W. Mudd Building",
+    "location":"1127 Seeley W. Mudd Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Barnard College",
@@ -158459,7 +158677,7 @@
     "department":"Applied Physics and Applied Mathematics",
     "department_code":"MSAE",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/MSAE\/E4100-20263-001\/",
-    "location":"644 Seeley W. Mudd Building",
+    "location":"1127 Seeley W. Mudd Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Engineering:Graduate",
@@ -171832,7 +172050,7 @@
     "department":"Industrial Engineering and Operations Research",
     "department_code":"ORCS",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ORCS\/E4200-20263-001\/",
-    "location":null,
+    "location":"633 Seeley W. Mudd Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Business",
@@ -188901,6 +189119,105 @@
     "scheduled_days":"TR",
     "section_key":"20263POLS1210X001",
     "type":"LECTURE"
+  },
+  {
+    "course_code":"POLS BC1212",
+    "course_title":"INTRO TO AMERICAN POLITICS - DISC.",
+    "course_descr":"Required Discussion Section for Barnard-taught Intro to American Politics (POLS-BC1210).\n  \nStudents enrolled in POLS-BC1210 must enroll in a section of POLS-BC1212.",
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"00809",
+    "campus":null,
+    "class_id":"X1212-20263-001",
+    "course_subtitle":"INTRO TO AM POL - DISC",
+    "department":"Political Science @Barnard",
+    "department_code":"POLS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/POLS\/X1212-20263-001\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+      [
+        "BC1210"
+      ],
+      [
+        "BC1210"
+      ],
+      [
+        "BC1212"
+      ]
+    ],
+    "scheduled_days":null,
+    "section_key":"20263POLS1212X001",
+    "type":"DISCUSSION"
+  },
+  {
+    "course_code":"POLS BC1212",
+    "course_title":"INTRO TO AMERICAN POLITICS - DISC.",
+    "course_descr":"Required Discussion Section for Barnard-taught Intro to American Politics (POLS-BC1210).\n  \nStudents enrolled in POLS-BC1210 must enroll in a section of POLS-BC1212.",
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"00810",
+    "campus":null,
+    "class_id":"X1212-20263-002",
+    "course_subtitle":"INTRO TO AM POL - DISC",
+    "department":"Political Science @Barnard",
+    "department_code":"POLS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/POLS\/X1212-20263-002\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+      [
+        "BC1210"
+      ],
+      [
+        "BC1210"
+      ],
+      [
+        "BC1212"
+      ]
+    ],
+    "scheduled_days":null,
+    "section_key":"20263POLS1212X002",
+    "type":"DISCUSSION"
+  },
+  {
+    "course_code":"POLS BC1212",
+    "course_title":"INTRO TO AMERICAN POLITICS - DISC.",
+    "course_descr":"Required Discussion Section for Barnard-taught Intro to American Politics (POLS-BC1210).\n  \nStudents enrolled in POLS-BC1210 must enroll in a section of POLS-BC1212.",
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"00811",
+    "campus":null,
+    "class_id":"X1212-20263-003",
+    "course_subtitle":"INTRO TO AM POL - DISC",
+    "department":"Political Science @Barnard",
+    "department_code":"POLS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/POLS\/X1212-20263-003\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+      [
+        "BC1210"
+      ],
+      [
+        "BC1210"
+      ],
+      [
+        "BC1212"
+      ]
+    ],
+    "scheduled_days":null,
+    "section_key":"20263POLS1212X003",
+    "type":"DISCUSSION"
   },
   {
     "course_code":"POLS BC1401",
@@ -210804,8 +211121,11 @@
     "open_to":[
       "Architecture",
       "Business",
+      "Columbia College",
       "Engineering:Graduate",
+      "Engineering:Undergraduate",
       "GSAS",
+      "General Studies",
       "Journalism",
       "Law",
       "SIPA",
@@ -228669,8 +228989,8 @@
     "course_title":"ADVANCED MACHINE LEARNING",
     "course_descr":"Prerequisites: STAT GR5241 This course covers some advanced topics in machine learning and has an emphasis on applications to real world data. A major part of this course is a course project which consists of an in-class presentation and a written project report.",
     "instructor":"Kamiar Rahnama Rad",
-    "scheduled_time_start":"6:10pm",
-    "scheduled_time_end":"8:55pm",
+    "scheduled_time_start":"6:20pm",
+    "scheduled_time_end":"9:05pm",
     "call_number":"14619",
     "campus":null,
     "class_id":"W5242-20263-002",
@@ -230541,8 +230861,8 @@
     "course_title":"INTRODUCTION TO PROBABILITY AND STATISTI",
     "course_descr":"Prerequisites: Calculus through multiple integration and infinite sums. A calculus-based tour of the fundamentals of probability theory and statistical inference. Probability models, random variables, useful distributions, conditioning, expectations, law of large numbers, central limit theorem, point and confidence interval estimation, hypothesis tests, linear regression. This course replaces SIEO 4150.",
     "instructor":"Banu Baydil",
-    "scheduled_time_start":"6:10pm",
-    "scheduled_time_end":"7:25pm",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
     "call_number":"14570",
     "campus":null,
     "class_id":"W4001-20263-001",
@@ -230550,7 +230870,7 @@
     "department":"Statistics",
     "department_code":"STAT",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/STAT\/W4001-20263-001\/",
-    "location":"402 Chandler",
+    "location":null,
     "method_of_instruction":"In-Person",
     "open_to":[
       "Barnard College",
@@ -230565,7 +230885,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":"MW",
+    "scheduled_days":null,
     "section_key":"20263STAT4001W001",
     "type":"LECTURE"
   },
@@ -231321,8 +231641,8 @@
     "course_title":"ADVANCED MACHINE LEARNING",
     "course_descr":"This course covers various topics in advanced machine learning. Topics may include optimization algorithms, Python libraries for ML, principles for applied supervised and unsupervised learning, hyperparameter selection, computational trade-offs, modern neural network architectures such as ConvNets, LSTMs, and transformers for computer vision and natural language processing, and deep learning for LLMs.",
     "instructor":"Kamiar Rahnama Rad",
-    "scheduled_time_start":"6:10pm",
-    "scheduled_time_end":"8:55pm",
+    "scheduled_time_start":"6:20pm",
+    "scheduled_time_end":"9:05pm",
     "call_number":"14599",
     "campus":null,
     "class_id":"W4242-20263-002",
