@@ -25762,7 +25762,7 @@
     "department":"Biostatistics",
     "department_code":"BIST",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/BIST\/P8110-20263-001\/",
-    "location":"LL204 Armand Hammer Health Sciences Center",
+    "location":"LL205 Armand Hammer Health Sciences Center",
     "method_of_instruction":"In-Person",
     "open_to":[
       "GSAS",
@@ -27960,7 +27960,7 @@
   {
     "course_code":"BMEN E3998",
     "course_title":"PROJECTS IN BIOMEDICAL ENGIN",
-    "course_descr":null,
+    "course_descr":"Independent projects involving experimental, theoretical, computational, or engineering design work. May be repeated, but no more than 3 points of this or any other projects or research course may be counted toward the technical elective degree requirements as engineering technical electives.",
     "instructor":"Stephen H Tsang",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -45234,6 +45234,33 @@
     ],
     "scheduled_days":"R",
     "section_key":"20263CIEN4130E001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"CIEN E4130",
+    "course_title":"DESIGN OF CONSTRUCTION SYSTEMS",
+    "course_descr":null,
+    "instructor":"Vincent Tirolo",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"20566",
+    "campus":null,
+    "class_id":"E4130-20263-V01",
+    "course_subtitle":"DESIGN OF CONSTRUCTION SY",
+    "department":"Video Network",
+    "department_code":"CIEN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CIEN\/E4130-20263-V01\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Engineering:Graduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263CIEN4130EV01",
     "type":"LECTURE"
   },
   {
@@ -64496,8 +64523,11 @@
       "GSAS",
       "Journalism",
       "Law",
+      "Professional Studies",
+      "Public Health",
       "SIPA",
-      "Schools of the Arts"
+      "Schools of the Arts",
+      "Social Work"
     ],
     "points":"1.5",
     "prerequisites":[
@@ -70436,7 +70466,7 @@
     "course_descr":"Prerequisites: ECON UN3211 and ECON UN3213 ECON GU4400 is strongly recommended. What differences does race make in the U.S. economy? Why does it make these differences? Are these differences things we should be concerned about? If so, what should be done? The course examines labor markets, housing markets, capital markets, crime, education, and the links among these markets. Both empirical and theoretical contributions are studied.",
     "instructor":"Brendan O'Flaherty",
     "scheduled_time_start":"2:40pm",
-    "scheduled_time_end":"3:45pm",
+    "scheduled_time_end":"3:55pm",
     "call_number":"13478",
     "campus":null,
     "class_id":"W4438-20263-001",
@@ -70444,7 +70474,7 @@
     "department":"Economics",
     "department_code":"ECON",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ECON\/W4438-20263-001\/",
-    "location":"602 Hamilton Hall",
+    "location":null,
     "method_of_instruction":"In-Person",
     "open_to":[
       "Columbia College",
@@ -112797,7 +112827,7 @@
   {
     "course_code":"HIST GR9000",
     "course_title":"DIRECTED CLASS READINGS",
-    "course_descr":null,
+    "course_descr":"Prerequisites: the instructors and the departments permission. To register for G9000, students must request a section number from the departments graduate administrator.",
     "instructor":"Kimberly K Phillips-Fein",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -112813,7 +112843,9 @@
     "open_to":null,
     "points":"1-4",
     "prerequisites":[
-
+      [
+        "G9000"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20263HIST9000G001",
@@ -151772,7 +151804,7 @@
     "course_code":"MDES UN1031",
     "course_title":"Game of Thrones Discussion Section",
     "course_descr":"Discussion section to accompany the course, \"Game of Thrones\": On Epics and Empires.",
-    "instructor":null,
+    "instructor":"Saila Sri Kambhatla",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:00pm",
     "call_number":"12209",
@@ -151797,7 +151829,7 @@
     "course_code":"MDES UN1031",
     "course_title":"Game of Thrones Discussion Section",
     "course_descr":"Discussion section to accompany the course, \"Game of Thrones\": On Epics and Empires.",
-    "instructor":null,
+    "instructor":"Saila Sri Kambhatla",
     "scheduled_time_start":"5:10pm",
     "scheduled_time_end":"6:00pm",
     "call_number":"12210",
@@ -151822,7 +151854,7 @@
     "course_code":"MDES UN1031",
     "course_title":"Game of Thrones Discussion Section",
     "course_descr":"Discussion section to accompany the course, \"Game of Thrones\": On Epics and Empires.",
-    "instructor":null,
+    "instructor":"Hazem Fahmy",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"3:00pm",
     "call_number":"12211",
@@ -151847,7 +151879,7 @@
     "course_code":"MDES UN1031",
     "course_title":"Game of Thrones Discussion Section",
     "course_descr":"Discussion section to accompany the course, \"Game of Thrones\": On Epics and Empires.",
-    "instructor":null,
+    "instructor":"Hazem Fahmy",
     "scheduled_time_start":"3:10pm",
     "scheduled_time_end":"4:00pm",
     "call_number":"12212",
@@ -151872,7 +151904,7 @@
     "course_code":"MDES UN1031",
     "course_title":"Game of Thrones Discussion Section",
     "course_descr":"Discussion section to accompany the course, \"Game of Thrones\": On Epics and Empires.",
-    "instructor":null,
+    "instructor":"Leah R Alpern",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:00pm",
     "call_number":"12213",
@@ -151897,7 +151929,7 @@
     "course_code":"MDES UN1031",
     "course_title":"Game of Thrones Discussion Section",
     "course_descr":"Discussion section to accompany the course, \"Game of Thrones\": On Epics and Empires.",
-    "instructor":null,
+    "instructor":"Leah R Alpern",
     "scheduled_time_start":"5:10pm",
     "scheduled_time_end":"6:00pm",
     "call_number":"12214",
@@ -151922,7 +151954,7 @@
     "course_code":"MDES UN1031",
     "course_title":"Game of Thrones Discussion Section",
     "course_descr":"Discussion section to accompany the course, \"Game of Thrones\": On Epics and Empires.",
-    "instructor":null,
+    "instructor":"Yudan Zhu",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:00am",
     "call_number":"12215",
@@ -151947,7 +151979,7 @@
     "course_code":"MDES UN1031",
     "course_title":"Game of Thrones Discussion Section",
     "course_descr":"Discussion section to accompany the course, \"Game of Thrones\": On Epics and Empires.",
-    "instructor":null,
+    "instructor":"Yudan Zhu",
     "scheduled_time_start":"11:10am",
     "scheduled_time_end":"12:00pm",
     "call_number":"12216",
@@ -152072,9 +152104,9 @@
     "course_code":"MDES UN1031",
     "course_title":"Game of Thrones Discussion Section",
     "course_descr":"Discussion section to accompany the course, \"Game of Thrones\": On Epics and Empires.",
-    "instructor":null,
-    "scheduled_time_start":"12:10pm",
-    "scheduled_time_end":"1:00pm",
+    "instructor":"Omar Gebril",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"7:00pm",
     "call_number":"20218",
     "campus":null,
     "class_id":"C1031-20263-013",
@@ -152082,14 +152114,14 @@
     "department":"Middle Eastern, South Asian and African Studies",
     "department_code":"MDES",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/MDES\/C1031-20263-013\/",
-    "location":"114 Knox Hall",
+    "location":null,
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"0",
     "prerequisites":[
 
     ],
-    "scheduled_days":"F",
+    "scheduled_days":"W",
     "section_key":"20263MDES1031C013",
     "type":"DISCUSSION"
   },
@@ -152097,9 +152129,9 @@
     "course_code":"MDES UN1031",
     "course_title":"Game of Thrones Discussion Section",
     "course_descr":"Discussion section to accompany the course, \"Game of Thrones\": On Epics and Empires.",
-    "instructor":null,
-    "scheduled_time_start":"1:10pm",
-    "scheduled_time_end":"2:00pm",
+    "instructor":"Omar Gebril",
+    "scheduled_time_start":"7:10pm",
+    "scheduled_time_end":"8:00pm",
     "call_number":"20219",
     "campus":null,
     "class_id":"C1031-20263-014",
@@ -152107,14 +152139,14 @@
     "department":"Middle Eastern, South Asian and African Studies",
     "department_code":"MDES",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/MDES\/C1031-20263-014\/",
-    "location":"114 Knox Hall",
+    "location":null,
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"0",
     "prerequisites":[
 
     ],
-    "scheduled_days":"F",
+    "scheduled_days":"W",
     "section_key":"20263MDES1031C014",
     "type":"DISCUSSION"
   },
@@ -152122,7 +152154,7 @@
     "course_code":"MDES UN1031",
     "course_title":"Game of Thrones Discussion Section",
     "course_descr":"Discussion section to accompany the course, \"Game of Thrones\": On Epics and Empires.",
-    "instructor":null,
+    "instructor":"Elias M Taweel",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:00pm",
     "call_number":"20518",
@@ -152147,7 +152179,7 @@
     "course_code":"MDES UN1031",
     "course_title":"Game of Thrones Discussion Section",
     "course_descr":"Discussion section to accompany the course, \"Game of Thrones\": On Epics and Empires.",
-    "instructor":null,
+    "instructor":"Elias M Taweel",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"3:00pm",
     "call_number":"20519",
@@ -154296,7 +154328,7 @@
   {
     "course_code":"MECE E3899",
     "course_title":"Research Training",
-    "course_descr":null,
+    "course_descr":"Research training course. Recommended in preparation for laboratory related research.",
     "instructor":"Gerard A Ateshian",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -189929,7 +189961,7 @@
     "course_code":"PMGT PS5110",
     "course_title":"Project Planning, Scheduling and Control",
     "course_descr":"This course provides graduate students with an in-depth exploration of project controls and schedule-based decision support with the project schedule treated as a management and control model rather than as a technical output. The course emphasizes deterministic and analytical modeling methods, including Critical Path Method (CPM), network-based optimization, schedule performance metrics, earned value analytics, and quantitative forecasting techniques, positioning the project schedule as a formal analytical model rather than a descriptive artifact. Primavera is used as an implementation and analysis tool to support schedule development, updating, performance measurement, and forecasting across diverse industries. The course equips students with the analytical, technical, and control-oriented skills, methodologies, and frameworks needed to manage projects effectively, ensuring completion on time, within budget, and according to specifications. Through a combination of standards-based analysis, software application, case studies, and practical assignments, students will develop the ability to build, baseline, update, interpret, and communicate schedules to monitor performance through KPIs, evaluate progress, and make informed decisions across the project lifecycle. Throughout the course, students are required to interpret what the schedule communicates to management, including the meaning of variances, implications of forecasts, and recommended corrective actions, rather than solely producing technical files or reports.\n  \nDesigned for students pursuing advanced studies in project management, engineering management, construction management, and related professional tracks, this course is particularly valuable for those seeking careers that require deep expertise in planning, scheduling, and project controls. Emphasis is placed on developing mastery of schedule development, critical path analysis, resource and cost loading, progress measurement, forecasting, and schedule risk and change analysis as a component of an integrated project controls function, using industry-standard tools and methods. Building on foundational project management concepts, the course provides specialized training in schedule-centric project controls and equips students with the analytical, technical, and communication skills needed to design, manage, analyze, and govern complex project schedules as decision-support instruments across diverse industries.\n  \nThis course prepares students for professional roles such as project cont",
-    "instructor":"Muriel Rachid Campomizzi",
+    "instructor":"Olalla Garcia Perez",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
     "call_number":"14014",
@@ -190064,7 +190096,7 @@
     "course_code":"PMGT PS5125",
     "course_title":"Project Management Capstone Project",
     "course_descr":"The Capstone Project is the culminating integrative experience of the MS in Project Management program. Students are expected to enter the course prepared to apply quantitative reasoning, structured planning methods, and financial analysis to complex project environments.\n  \nWorking in teams, students engage in a complex real or realistic project scenario and design an integrated project strategy or applied analytical study that addresses a significant real world challenge in project management. Capstone projects are organized around the concentrations offered within the program, including Construction, Technology, Sports, and Sustainability. Students enrolled in a specific concentration will work on a project aligned with their track. Students in the General track may elect to participate in one of the concentration based projects or may be assigned to a cross sector project depending on availability and enrollment distribution.\n  \nProjects may be sourced from industry partners when available. When industry collaboration exists, it may include document access, advisory input, or structured feedback. When no external sponsor is involved, faculty curated materials and case documentation will be provided.\n  \nThe course emphasizes rigorous problem definition, stakeholder analysis, structured evaluation, and evidence based decision making. Students are expected to integrate quantitative and qualitative reasoning, financial and operational considerations, risk awareness, governance design, and performance evaluation into a coherent and defensible strategy. Through faculty mentorship and peer collaboration, students progressively develop their work into a final written deliverable and executive level presentation that demonstrate professional readiness, analytical maturity, and leadership capacity in complex project environments.",
-    "instructor":null,
+    "instructor":"Antonio Marinucci",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
     "call_number":"13969",
@@ -190511,6 +190543,39 @@
     ],
     "scheduled_days":"M",
     "section_key":"20263POLS1212X003",
+    "type":"DISCUSSION"
+  },
+  {
+    "course_code":"POLS BC1212",
+    "course_title":"INTRO TO AMERICAN POLITICS - DISC.",
+    "course_descr":"Required Discussion Section for Barnard-taught Intro to American Politics (POLS-BC1210).\n  \nStudents enrolled in POLS-BC1210 must enroll in a section of POLS-BC1212.",
+    "instructor":null,
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"7:00pm",
+    "call_number":"00812",
+    "campus":null,
+    "class_id":"X1212-20263-004",
+    "course_subtitle":"INTRO TO AM POL - DISC",
+    "department":"Political Science @Barnard",
+    "department_code":"POLS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/POLS\/X1212-20263-004\/",
+    "location":"307 Milbank Hall (Barnard)",
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+      [
+        "BC1210"
+      ],
+      [
+        "BC1210"
+      ],
+      [
+        "BC1212"
+      ]
+    ],
+    "scheduled_days":"W",
+    "section_key":"20263POLS1212X004",
     "type":"DISCUSSION"
   },
   {
@@ -192046,7 +192111,7 @@
     "department":"Political Science",
     "department_code":"POLS",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/POLS\/W4466-20263-005\/",
-    "location":null,
+    "location":"522C Kent Hall",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"0",
@@ -193515,7 +193580,7 @@
     "department":"Political Science",
     "department_code":"POLS",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/POLS\/W2611-20263-008\/",
-    "location":null,
+    "location":"114 Knox Hall",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"0",
@@ -234384,7 +234449,7 @@
         "AT1202"
       ]
     ],
-    "scheduled_days":"M",
+    "scheduled_days":"R",
     "section_key":"20263STAT1202W008",
     "type":"RECITATION"
   },
