@@ -4927,6 +4927,33 @@
     "type":"INDEPENDENT"
   },
   {
+    "course_code":"AHIS GR9001",
+    "course_title":"RESEARCH FOR ADVANCED STUDENTS",
+    "course_descr":null,
+    "instructor":"Frederique Baumgartner",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"20595",
+    "campus":null,
+    "class_id":"G9001-20263-012",
+    "course_subtitle":"RESEARCH FOR ADVANCED STU",
+    "department":"Art History and Archaeology",
+    "department_code":"AHIS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/AHIS\/G9001-20263-012\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "GSAS"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263AHIS9001G012",
+    "type":"INDEPENDENT"
+  },
+  {
     "course_code":"AHIS GU4017",
     "course_title":"Sumer: Art & Architecture",
     "course_descr":"The fourth millennium BC was a time of tremendous innovation in monumental architecture, the organization of urban space and developments in the visual arts in southern Mesopotamia. As settlements grew into city-states, monumental architectural works transformed the landscape. New technologies of metallurgy, casting, the mechanical reproduction of images, stone sculpture and seal carvings emerged alongside the invention of writing, a technology first documented in the city of Uruk, the place of the setting of the Epic of Gilgamesh. Sculpted images and monuments began to be inscribed with texts that reveal a great deal about the ontological and agentive, the aesthetic and the order of the divine. The lecture introduces students to these extraordinary developments in early art and architecture of ancient Sumer (southern Iraq). Lectures will discuss votive statues, portraiture, image rituals, and the visual manifestation of the gods. The lectures also introduce the extraordinary developments in architecture and monuments.",
@@ -9636,7 +9663,7 @@
     "course_code":"ANTH UN2033",
     "course_title":"CORPSE LIFE:ANTH HIST OF THE DEAD-DISC",
     "course_descr":null,
-    "instructor":null,
+    "instructor":"Zoe Crossland",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"3:00pm",
     "call_number":"20578",
@@ -9661,7 +9688,7 @@
     "course_code":"ANTH UN2033",
     "course_title":"CORPSE LIFE:ANTH HIST OF THE DEAD-DISC",
     "course_descr":null,
-    "instructor":null,
+    "instructor":"Zoe Crossland",
     "scheduled_time_start":"3:10pm",
     "scheduled_time_end":"4:00pm",
     "call_number":"20579",
@@ -9712,8 +9739,8 @@
     "course_title":"Mafias and Other Dangerous Affiliations",
     "course_descr":"Discussion section for ANTH2017.",
     "instructor":null,
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"11:00am",
     "call_number":"10294",
     "campus":null,
     "class_id":"W2111-20263-001",
@@ -9721,16 +9748,27 @@
     "department":"Anthropology",
     "department_code":"ANTH",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ANTH\/W2111-20263-001\/",
-    "location":null,
+    "location":"337 Seeley W. Mudd Building",
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "Columbia College",
+      "Engineering:Graduate",
+      "Engineering:Undergraduate",
+      "General Studies",
+      "Law",
+      "Professional Studies",
+      "Public Health",
+      "SIPA",
+      "Schools of the Arts",
+      "Social Work"
+    ],
     "points":"0",
     "prerequisites":[
       [
         "TH2017"
       ]
     ],
-    "scheduled_days":null,
+    "scheduled_days":"R",
     "section_key":"20263ANTH2111W001",
     "type":"DISCUSSION"
   },
@@ -9739,8 +9777,8 @@
     "course_title":"Mafias and Other Dangerous Affiliations",
     "course_descr":"Discussion section for ANTH2017.",
     "instructor":null,
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"12:10pm",
+    "scheduled_time_end":"1:00pm",
     "call_number":"10295",
     "campus":null,
     "class_id":"W2111-20263-002",
@@ -9748,16 +9786,27 @@
     "department":"Anthropology",
     "department_code":"ANTH",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ANTH\/W2111-20263-002\/",
-    "location":null,
+    "location":"328 Uris Hall",
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "Columbia College",
+      "Engineering:Graduate",
+      "Engineering:Undergraduate",
+      "General Studies",
+      "Law",
+      "Professional Studies",
+      "Public Health",
+      "SIPA",
+      "Schools of the Arts",
+      "Social Work"
+    ],
     "points":"0",
     "prerequisites":[
       [
         "TH2017"
       ]
     ],
-    "scheduled_days":null,
+    "scheduled_days":"R",
     "section_key":"20263ANTH2111W002",
     "type":"DISCUSSION"
   },
@@ -9765,9 +9814,9 @@
     "course_code":"ANTH UN2111",
     "course_title":"Mafias and Other Dangerous Affiliations",
     "course_descr":"Discussion section for ANTH2017.",
-    "instructor":null,
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "instructor":"Ahmed Z Mitiche",
+    "scheduled_time_start":"3:10pm",
+    "scheduled_time_end":"4:00pm",
     "call_number":"10296",
     "campus":null,
     "class_id":"W2111-20263-003",
@@ -9777,14 +9826,25 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ANTH\/W2111-20263-003\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "Columbia College",
+      "Engineering:Graduate",
+      "Engineering:Undergraduate",
+      "General Studies",
+      "Law",
+      "Professional Studies",
+      "Public Health",
+      "SIPA",
+      "Schools of the Arts",
+      "Social Work"
+    ],
     "points":"0",
     "prerequisites":[
       [
         "TH2017"
       ]
     ],
-    "scheduled_days":null,
+    "scheduled_days":"R",
     "section_key":"20263ANTH2111W003",
     "type":"DISCUSSION"
   },
@@ -9792,9 +9852,9 @@
     "course_code":"ANTH UN2111",
     "course_title":"Mafias and Other Dangerous Affiliations",
     "course_descr":"Discussion section for ANTH2017.",
-    "instructor":null,
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "instructor":"Ahmed Z Mitiche",
+    "scheduled_time_start":"5:10pm",
+    "scheduled_time_end":"6:00pm",
     "call_number":"10297",
     "campus":null,
     "class_id":"W2111-20263-004",
@@ -9804,15 +9864,119 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ANTH\/W2111-20263-004\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "Columbia College",
+      "Engineering:Graduate",
+      "Engineering:Undergraduate",
+      "General Studies",
+      "Law",
+      "Professional Studies",
+      "Public Health",
+      "SIPA",
+      "Social Work"
+    ],
     "points":"0",
     "prerequisites":[
       [
         "TH2017"
       ]
     ],
-    "scheduled_days":null,
+    "scheduled_days":"R",
     "section_key":"20263ANTH2111W004",
+    "type":"DISCUSSION"
+  },
+  {
+    "course_code":"ANTH UN2111",
+    "course_title":"Mafias and Other Dangerous Affiliations",
+    "course_descr":null,
+    "instructor":"Tabitha C Payne",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"5:00pm",
+    "call_number":"20601",
+    "campus":null,
+    "class_id":"W2111-20263-005",
+    "course_subtitle":"Mafias and Other Dangerou",
+    "department":"Anthropology",
+    "department_code":"ANTH",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ANTH\/W2111-20263-005\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Graduate",
+      "Engineering:Undergraduate",
+      "General Studies",
+      "Law",
+      "Public Health",
+      "SIPA",
+      "Schools of the Arts",
+      "Social Work"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20263ANTH2111W005",
+    "type":"DISCUSSION"
+  },
+  {
+    "course_code":"ANTH UN2111",
+    "course_title":"Mafias and Other Dangerous Affiliations",
+    "course_descr":null,
+    "instructor":"Tabitha C Payne",
+    "scheduled_time_start":"5:10pm",
+    "scheduled_time_end":"6:00pm",
+    "call_number":"20603",
+    "campus":null,
+    "class_id":"W2111-20263-006",
+    "course_subtitle":"Mafias and Other Dangerou",
+    "department":"Anthropology",
+    "department_code":"ANTH",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ANTH\/W2111-20263-006\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Graduate",
+      "Engineering:Undergraduate",
+      "General Studies",
+      "Law"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20263ANTH2111W006",
+    "type":"DISCUSSION"
+  },
+  {
+    "course_code":"ANTH UN2111",
+    "course_title":"Mafias and Other Dangerous Affiliations",
+    "course_descr":null,
+    "instructor":"Anselm Kizza-Besigye",
+    "scheduled_time_start":"3:10pm",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"20604",
+    "campus":null,
+    "class_id":"W2111-20263-007",
+    "course_subtitle":"Mafias and Other Dangerou",
+    "department":"Anthropology",
+    "department_code":"ANTH",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ANTH\/W2111-20263-007\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "General Studies"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20263ANTH2111W007",
     "type":"DISCUSSION"
   },
   {
@@ -14906,7 +15070,7 @@
     "department":"Applied Physics and Applied Mathematics",
     "department_code":"APPH",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/APPH\/E4301-20263-001\/",
-    "location":"644 Seeley W. Mudd Building",
+    "location":"1024 Seeley W. Mudd Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Columbia College",
@@ -17788,33 +17952,6 @@
     ],
     "scheduled_days":"W",
     "section_key":"20263ARCH6966A001",
-    "type":"SEMINAR"
-  },
-  {
-    "course_code":"ARCH A6980",
-    "course_title":"GLOBAL HOUSING SEMINAR",
-    "course_descr":null,
-    "instructor":"Galia Solomonoff",
-    "scheduled_time_start":"11:00am",
-    "scheduled_time_end":"1:00pm",
-    "call_number":"14226",
-    "campus":null,
-    "class_id":"A6980-20263-001",
-    "course_subtitle":null,
-    "department":"Architecture, Planning and Preservation",
-    "department_code":"ARCH",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ARCH\/A6980-20263-001\/",
-    "location":"408 Avery Hall",
-    "method_of_instruction":null,
-    "open_to":[
-      "Architecture"
-    ],
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"R",
-    "section_key":"20263ARCH6980A001",
     "type":"SEMINAR"
   },
   {
@@ -25838,7 +25975,7 @@
     "department":"Biostatistics",
     "department_code":"BIST",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/BIST\/P8108-20263-001\/",
-    "location":null,
+    "location":"AUD 8 ROSENFIELD B",
     "method_of_instruction":"In-Person",
     "open_to":[
       "GSAS",
@@ -45385,7 +45522,7 @@
   {
     "course_code":"CIEN E3303",
     "course_title":"IND STUDIES-CIVIL ENGIN-JUNIOR",
-    "course_descr":null,
+    "course_descr":"A project on civil engineering subjects approved by the chairman of the department.",
     "instructor":"Ibrahim Odeh",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -45412,7 +45549,7 @@
   {
     "course_code":"CIEN E3303",
     "course_title":"IND STUDIES-CIVIL ENGIN-JUNIOR",
-    "course_descr":null,
+    "course_descr":"A project on civil engineering subjects approved by the chairman of the department.",
     "instructor":"Markus Schlaepfer",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -45439,7 +45576,7 @@
   {
     "course_code":"CIEN E3303",
     "course_title":"IND STUDIES-CIVIL ENGIN-JUNIOR",
-    "course_descr":null,
+    "course_descr":"A project on civil engineering subjects approved by the chairman of the department.",
     "instructor":"Andrew W Smyth",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -45466,7 +45603,7 @@
   {
     "course_code":"CIEN E3303",
     "course_title":"IND STUDIES-CIVIL ENGIN-JUNIOR",
-    "course_descr":null,
+    "course_descr":"A project on civil engineering subjects approved by the chairman of the department.",
     "instructor":"Waiching Sun",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -45493,7 +45630,7 @@
   {
     "course_code":"CIEN E3303",
     "course_title":"IND STUDIES-CIVIL ENGIN-JUNIOR",
-    "course_descr":null,
+    "course_descr":"A project on civil engineering subjects approved by the chairman of the department.",
     "instructor":"Haim Waisman",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -45515,6 +45652,60 @@
     ],
     "scheduled_days":null,
     "section_key":"20263CIEN3303E018",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"CIEN E3303",
+    "course_title":"IND STUDIES-CIVIL ENGIN-JUNIOR",
+    "course_descr":"A project on civil engineering subjects approved by the chairman of the department.",
+    "instructor":"Huiming Yin",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"20592",
+    "campus":null,
+    "class_id":"E3303-20263-019",
+    "course_subtitle":"IND STUDIES-CIVIL ENGIN-J",
+    "department":"Civil Engineering and Engineering Mechanics",
+    "department_code":"CIEN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CIEN\/E3303-20263-019\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Engineering:Undergraduate"
+    ],
+    "points":"1-3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263CIEN3303E019",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"CIEN E3303",
+    "course_title":"IND STUDIES-CIVIL ENGIN-JUNIOR",
+    "course_descr":"A project on civil engineering subjects approved by the chairman of the department.",
+    "instructor":"Zhengbo Zou",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"20593",
+    "campus":null,
+    "class_id":"E3303-20263-020",
+    "course_subtitle":"IND STUDIES-CIVIL ENGIN-J",
+    "department":"Civil Engineering and Engineering Mechanics",
+    "department_code":"CIEN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CIEN\/E3303-20263-020\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Engineering:Undergraduate"
+    ],
+    "points":"1-3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263CIEN3303E020",
     "type":"INDEPENDENT"
   },
   {
@@ -45884,6 +46075,33 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"CIEN E4142",
+    "course_title":"INTL CONSTRUCTION MGMT",
+    "course_descr":"Complex global construction industry environment. Social, cultural, technological, and political risks; technical, financial, and contractual risk. Understanding of successful global project delivery principals and skills for construction professionals. Industry efforts and trends to support global operational mechanism. Global Case Studies. Engage with industry expert professionals. Student group projects with active ongoing global initiatives.",
+    "instructor":"Ibrahim Odeh",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"20596",
+    "campus":null,
+    "class_id":"E4142-20263-V01",
+    "course_subtitle":null,
+    "department":"Video Network",
+    "department_code":"CIEN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CIEN\/E4142-20263-V01\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Engineering:Graduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263CIEN4142EV01",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"CIEN E4145",
     "course_title":"APPLIED USE OF AEC DATA",
     "course_descr":"Digital transformation\u00a0optimizes day-to-day operations to provide maximum performance in Architecture, Engineering, and Construction (AEC) workflows. Focuses on broadening knowledge of AEC data leading to building data management. Use of open data sets from the design, construction, and operations of buildings to learn and practice data management and its applied use. Major technical topics include Project Management Information System (PMIS) and Facility Management (FM), leading to Digital Twin data management, data processing, and data visualization.",
@@ -45980,7 +46198,7 @@
     "department":"Civil Engineering and Engineering Mechanics",
     "department_code":"CIEN",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/CIEN\/E4148-20263-002\/",
-    "location":"601B Sherman Fairchild Life Sciences Building",
+    "location":null,
     "method_of_instruction":"In-Person",
     "open_to":[
       "Engineering:Graduate"
@@ -55285,7 +55503,7 @@
     "department":"Computer Science",
     "department_code":"COMS",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMS\/W1012-20263-002\/",
-    "location":"829 Seeley W. Mudd Building",
+    "location":"520 Mathematics Building",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"0",
@@ -59205,9 +59423,7 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/CSOR\/W4246-20263-001\/",
     "location":"833 Seeley W. Mudd Building",
     "method_of_instruction":"In-Person",
-    "open_to":[
-      "Engineering:Graduate"
-    ],
+    "open_to":null,
     "points":"3",
     "prerequisites":[
 
@@ -59232,9 +59448,7 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/CSOR\/W4246-20263-002\/",
     "location":"833 Seeley W. Mudd Building",
     "method_of_instruction":"In-Person",
-    "open_to":[
-      "Engineering:Graduate"
-    ],
+    "open_to":null,
     "points":"3",
     "prerequisites":[
 
@@ -69029,6 +69243,31 @@
     "type":"INDEPENDENT"
   },
   {
+    "course_code":"ECON BC3098",
+    "course_title":"GUIDED RESEARCH IN ECONOMICS",
+    "course_descr":null,
+    "instructor":"Martina Jasova",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"01128",
+    "campus":null,
+    "class_id":"X3098-20263-004",
+    "course_subtitle":"GUIDED RESEARCH IN ECONOM",
+    "department":"Economics @Barnard",
+    "department_code":"ECON",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ECON\/X3098-20263-004\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"1-2",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263ECON3098X004",
+    "type":"INDEPENDENT"
+  },
+  {
     "course_code":"ECON GR5001",
     "course_title":"MICROECONOMIC ANALYSIS I-DISC",
     "course_descr":"Corequisites: ECON GR5211 Discussion Section for Economics MA Course Microeconomics Analysis I.",
@@ -74560,6 +74799,31 @@
     "type":"COLLOQUIA"
   },
   {
+    "course_code":"EESC GR6003",
+    "course_title":"MASTERS RESEARCH",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"20602",
+    "campus":null,
+    "class_id":"G6003-20263-001",
+    "course_subtitle":null,
+    "department":"Earth and Environmental Sciences",
+    "department_code":"EESC",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/EESC\/G6003-20263-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263EESC6003G001",
+    "type":"INDEPENDENT"
+  },
+  {
     "course_code":"EESC GR6901",
     "course_title":"RSRCH COMPUTING EARTH SCI",
     "course_descr":"Prerequisites: Graduate student status, calculus, or instructor permission Priority given to first year PhD students in the Department of Earth and Environmental Sciences. Computing has become an indispensable tool for Earth Scientists. This course will introduce incoming DEES PhD students to modern computing software, programming tools and best practices that are broadly applicable to carrying out research in the Earth Sciences. This includes an introduction to Unix, programming in three commonly used languages (Python, MATLAB and Fortran), version control and data backup, tools for visualizing geoscience data and making maps. Students will learn the basics of high performance computing and big data analysis tools available on cluster computers. Student learning will be facilitated through a combination of lectures, in-class exercises, homework assignments and class projects. All topics will be taught through example datasets or problems from Earth Sciences. The course is designed to be accessible for Earth Science graduate students in any discipline.",
@@ -74700,7 +74964,7 @@
     "course_code":"EESC GR9998",
     "course_title":"POLITICS, POLICY, & DIPLOMACY OF CLIMATE",
     "course_descr":"Climate change is no longer solely an environmental issue. It has become one of the defining political, economic, diplomatic, and national security challenges of the twenty-first century. Governments, businesses, international organizations, and civil society are increasingly grappling with questions of energy transition, economic competitiveness, environmental justice, technological innovation, and geopolitical stability. This course examines climate through three interconnected lenses: politics, policy, and diplomacy.\n  \nDrawing upon Ambassador Shefali Razdan Duggal's experience as U.S. Ambassador to the Kingdom of the Netherlands and her extensive work in public policy, international affairs, and political leadership, students will explore how climate issues move from advocacy to legislation, from legislation to implementation, and from domestic priorities to international negotiations. Students will engage with policymakers, diplomats, elected officials, campaign strategists, business leaders, and climate experts through guest lectures and practitioner discussions.\n  \nThe course is designed for graduate students interested in climate science and policy, public policy, climate governance, political strategy, international affairs, diplomacy, sustainability, law, communications, and public leadership. It is intended as an interdisciplinary elective and is open to students across Columbia University, space permitting. Priority for enrollment will be given to DEES students, with remaining seats open to graduate students across Columbia University, space permitting. No prior climate policy coursework is required, although familiarity with current events and public policy is recommended.\n  \nThe course combines academic analysis with practical application. Students will be challenged not only to understand climate politics and policy, but also to develop realistic pathways for achieving meaningful change through democratic institutions and international cooperation.",
-    "instructor":null,
+    "instructor":"Shefali R Duggal",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"19929",
@@ -80268,7 +80532,7 @@
     "course_code":"ELEN E6594",
     "course_title":"Topics in Smart Electric Energy",
     "course_descr":"Selected advanced topics in smart electric energy. Content varies from year to year.",
-    "instructor":null,
+    "instructor":"Jennifer Pollock",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"3:40pm",
     "call_number":"11538",
@@ -91779,6 +92043,31 @@
     "type":"SEMINAR"
   },
   {
+    "course_code":"ENGL UN3871",
+    "course_title":"INDEPENDENT STUDY",
+    "course_descr":"If a student wishes to pursue a research project or a course of study not offered by the department, he or she may apply for an Independent Study. Application: 1. cover sheet with signatures of the professor who will serve as the project sponsor and departmental administrator or director of undergraduate studies; 2. project description in 750 words, including any preliminary work in the field, such as a lecture course(s) or seminar(s); 3. bibliography of primary and secondary works to be read or consulted. Please visit the English and Comparative Literature Department website at http:\/\/english.columbia.edu\/undergraduate\/forms for the cover sheet form or see the administrator in 602 Philosophy Hall for the cover sheet form and to answer any other questions you may have.",
+    "instructor":"Eileen Gillooly",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"20351",
+    "campus":null,
+    "class_id":"W3871-20263-001",
+    "course_subtitle":null,
+    "department":"English and Comparative Literature",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/W3871-20263-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"1-4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263ENGL3871W001",
+    "type":"INDEPENDENT"
+  },
+  {
     "course_code":"ENGL UN3873",
     "course_title":"Troilus and Criseyde",
     "course_descr":"The intellectual goals of the course are to understand the manuscript evidence for the text and to be able to read Chaucer with precision: precision as to the grammatical structure, vocabulary, rhymes, and meter of the text. Being such an enlightened, close reader will help students in many, if not all, of their other courses, and will be invaluable to them in most any job they will ever have thereafter.",
@@ -96260,7 +96549,7 @@
     "department":"Enterprise Risk Management",
     "department_code":"ERMC",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ERMC\/K5545-20263-001\/",
-    "location":"302 Fayerweather",
+    "location":"333 Uris Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Professional Studies"
@@ -100782,7 +101071,7 @@
     "course_code":"FILM UN1001",
     "course_title":"INTRO-FILM & MEDIA STUDIES-DIS",
     "course_descr":"Co-requisite discussion section for FILM UN 1000 INTRO TO FILM & MEDIA STUDIES.",
-    "instructor":null,
+    "instructor":"Johana L Fargeon",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:00pm",
     "call_number":"11864",
@@ -100974,7 +101263,7 @@
     "department":"Film",
     "department_code":"FILM",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/FILM\/W2021-20263-003\/",
-    "location":"306 Uris Hall",
+    "location":"15T Riverside Church",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Columbia College",
@@ -101116,8 +101405,8 @@
     "course_title":"CINEMA HIST III:1960-1990-DISC",
     "course_descr":"Co-requisite discussion section for FILM UN 2030 Cinema History III: 1960-90.",
     "instructor":"Nasser R Odetallah",
-    "scheduled_time_start":"5:10pm",
-    "scheduled_time_end":"6:00pm",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"7:00pm",
     "call_number":"15308",
     "campus":null,
     "class_id":"W2031-20263-003",
@@ -101125,7 +101414,7 @@
     "department":"Film",
     "department_code":"FILM",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/FILM\/W2031-20263-003\/",
-    "location":"328 Uris Hall",
+    "location":"12T Riverside Church",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Columbia College",
@@ -101475,7 +101764,7 @@
     "course_code":"FILM UN2420",
     "course_title":"LABORATORY IN SCREENWRITING",
     "course_descr":"This lab is limited to declared Film and Media Studies majors.\u00a0 Exercises in the writing of film scripts.",
-    "instructor":"Mary C Walker",
+    "instructor":"Anna Dunn",
     "scheduled_time_start":"10:00am",
     "scheduled_time_end":"1:00pm",
     "call_number":"10377",
@@ -105720,9 +106009,7 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/FREN\/W1101-20263-007\/",
     "location":"413 Hamilton Hall",
     "method_of_instruction":"In-Person",
-    "open_to":[
-      "Architecture"
-    ],
+    "open_to":null,
     "points":"4",
     "prerequisites":[
 
@@ -113878,7 +114165,7 @@
   {
     "course_code":"HIST UN2214",
     "course_title":"EARLY RUSS HIST TO 1800-DISC",
-    "course_descr":null,
+    "course_descr":"Required discussion section for\u00a0HIST2213W lecture (EARLY RUSSIAN HISTORY TO 1800)",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -113894,7 +114181,9 @@
     "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "ST2213"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20263HIST2214W001",
@@ -116806,7 +117095,7 @@
     "course_code":"HPMN P8562",
     "course_title":"Consulting Practice",
     "course_descr":null,
-    "instructor":null,
+    "instructor":"John Winkleman",
     "scheduled_time_start":"5:30pm",
     "scheduled_time_end":"8:20pm",
     "call_number":"16320",
@@ -127532,8 +127821,8 @@
     "course_title":"Financial Engineering Practitioners Semi",
     "course_descr":"Degree requirement for all MSFE first-year students. Topics in Financial Engineering. Past seminar topics include Evolving Financial Intermediation, Measuring and Using Trading Algorithms Effectively, Path-Dependent Volatility, Artificial Intelligence and Data Science in modern financial decision making, Risk-Based Performance Attribution, and Financial Machine Learning. Meets select Monday evenings.",
     "instructor":"Ali Hirsa",
-    "scheduled_time_start":"7:00pm",
-    "scheduled_time_end":"9:00pm",
+    "scheduled_time_start":"7:05pm",
+    "scheduled_time_end":"9:05pm",
     "call_number":"14731",
     "campus":null,
     "class_id":"E4798-20263-001",
@@ -127541,7 +127830,7 @@
     "department":"Industrial Engineering and Operations Research",
     "department_code":"IEOR",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/IEOR\/E4798-20263-001\/",
-    "location":"501 Northwest Corner Building",
+    "location":null,
     "method_of_instruction":"In-Person",
     "open_to":[
       "Engineering:Graduate"
@@ -144898,6 +145187,31 @@
     "type":"INDEPENDENT"
   },
   {
+    "course_code":"LAW_ L6822",
+    "course_title":"TEACHING FELLOWS",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"20599",
+    "campus":null,
+    "class_id":"L6822-20263-004",
+    "course_subtitle":null,
+    "department":"Law",
+    "department_code":"LAW_",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/LAW_\/L6822-20263-004\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"1-4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263LAW_6822L004",
+    "type":"INDEPENDENT"
+  },
+  {
     "course_code":"LAW_ L6867",
     "course_title":"INDEPENDENT MOOT CT COACHING",
     "course_descr":null,
@@ -151964,8 +152278,8 @@
     "course_title":"ADVANCED ARMENIAN I",
     "course_descr":"Advanced instruction in the Armenian dialect. No P\/D\/F or R credit is allowed for this class.",
     "instructor":"Charry Karamanoukian",
-    "scheduled_time_start":"11:10am",
-    "scheduled_time_end":"1:00pm",
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"2:00pm",
     "call_number":"10972",
     "campus":null,
     "class_id":"W4310-20263-001",
@@ -151980,7 +152294,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":"F",
+    "scheduled_days":"MW",
     "section_key":"20263MDES4310W001",
     "type":"LANGUAGE"
   },
@@ -152321,7 +152635,7 @@
     "course_code":"MDES UN1004",
     "course_title":"Premodern Islamic Worlds-Discussion Sect",
     "course_descr":"Discussion section to accompany the course, MDES UN1003 Premodern Islamic Worlds.",
-    "instructor":"Aseel Najib",
+    "instructor":"Aseel Sharawneh",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"3:00pm",
     "call_number":"12207",
@@ -152348,7 +152662,7 @@
     "course_code":"MDES UN1004",
     "course_title":"Premodern Islamic Worlds-Discussion Sect",
     "course_descr":"Discussion section to accompany the course, MDES UN1003 Premodern Islamic Worlds.",
-    "instructor":null,
+    "instructor":"Aseel Sharawneh",
     "scheduled_time_start":"3:10pm",
     "scheduled_time_end":"4:00pm",
     "call_number":"12208",
@@ -152375,7 +152689,7 @@
     "course_code":"MDES UN1004",
     "course_title":"Premodern Islamic Worlds-Discussion Sect",
     "course_descr":"Discussion section to accompany the course, MDES UN1003 Premodern Islamic Worlds.",
-    "instructor":null,
+    "instructor":"Liya Abraham",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:00am",
     "call_number":"20387",
@@ -152402,7 +152716,7 @@
     "course_code":"MDES UN1004",
     "course_title":"Premodern Islamic Worlds-Discussion Sect",
     "course_descr":"Discussion section to accompany the course, MDES UN1003 Premodern Islamic Worlds.",
-    "instructor":null,
+    "instructor":"Liya Abraham",
     "scheduled_time_start":"11:10am",
     "scheduled_time_end":"12:00pm",
     "call_number":"20388",
@@ -152654,7 +152968,7 @@
     "course_code":"MDES UN1031",
     "course_title":"Game of Thrones Discussion Section",
     "course_descr":"Discussion section to accompany the course, \"Game of Thrones\": On Epics and Empires.",
-    "instructor":null,
+    "instructor":"Clara R Ewert",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"3:00pm",
     "call_number":"12217",
@@ -152679,7 +152993,7 @@
     "course_code":"MDES UN1031",
     "course_title":"Game of Thrones Discussion Section",
     "course_descr":"Discussion section to accompany the course, \"Game of Thrones\": On Epics and Empires.",
-    "instructor":null,
+    "instructor":"Clara R Ewert",
     "scheduled_time_start":"3:10pm",
     "scheduled_time_end":"4:00pm",
     "call_number":"12218",
@@ -152704,7 +153018,7 @@
     "course_code":"MDES UN1031",
     "course_title":"Game of Thrones Discussion Section",
     "course_descr":"Discussion section to accompany the course, \"Game of Thrones\": On Epics and Empires.",
-    "instructor":null,
+    "instructor":"Ryan H Nazari",
     "scheduled_time_start":"8:10am",
     "scheduled_time_end":"9:00am",
     "call_number":"12219",
@@ -152729,7 +153043,7 @@
     "course_code":"MDES UN1031",
     "course_title":"Game of Thrones Discussion Section",
     "course_descr":"Discussion section to accompany the course, \"Game of Thrones\": On Epics and Empires.",
-    "instructor":null,
+    "instructor":"Ryan H Nazari",
     "scheduled_time_start":"9:10am",
     "scheduled_time_end":"10:00am",
     "call_number":"12220",
@@ -153024,6 +153338,31 @@
     "scheduled_days":"MW",
     "section_key":"20263MDES1301W001",
     "type":"LANGUAGE"
+  },
+  {
+    "course_code":"MDES UN1309",
+    "course_title":"INTEN ARMENIAN\/HERITAGE SPKRS",
+    "course_descr":null,
+    "instructor":"Charry Karamanoukian",
+    "scheduled_time_start":"3:10pm",
+    "scheduled_time_end":"5:00pm",
+    "call_number":"20600",
+    "campus":null,
+    "class_id":"W1309-20263-001",
+    "course_subtitle":"INTEN ARMENIAN\/HERITAGE S",
+    "department":"Middle Eastern, South Asian and African Studies",
+    "department_code":"MDES",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/MDES\/W1309-20263-001\/",
+    "location":"311 Knox Hall",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20263MDES1309W001",
+    "type":"LECTURE"
   },
   {
     "course_code":"MDES UN1401",
@@ -153393,36 +153732,6 @@
     ],
     "scheduled_days":"MTWR",
     "section_key":"20263MDES2208W001",
-    "type":"LANGUAGE"
-  },
-  {
-    "course_code":"MDES UN2301",
-    "course_title":"INTERMEDIATE ARMENIAN I",
-    "course_descr":"Prerequisites: MDES UN1301 and MDES UN1302 or the equivalent. A continuation of the study of reading, writing and speaking of Armenian. In Intermediate Armenian I, students learn to communicate about a wide range of topics. Such topics include biographical narration, cooking and recipes, health and well-being, holidays and celebrations, travel and geography, etc. At this level, students continue to develop their skills in reading, writing, speaking, and listening while perfecting the grammatical concepts to which they were introduced in the first year. No P\/D\/F or R credit is allowed for this class.",
-    "instructor":"Charry Karamanoukian",
-    "scheduled_time_start":"10:10am",
-    "scheduled_time_end":"12:00pm",
-    "call_number":"10970",
-    "campus":null,
-    "class_id":"W2301-20263-001",
-    "course_subtitle":null,
-    "department":"Middle Eastern, South Asian and African Studies",
-    "department_code":"MDES",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/MDES\/W2301-20263-001\/",
-    "location":"311 Knox Hall",
-    "method_of_instruction":"In-Person",
-    "open_to":null,
-    "points":"4",
-    "prerequisites":[
-      [
-        "MDES UN1301"
-      ],
-      [
-        "MDES UN1302"
-      ]
-    ],
-    "scheduled_days":"TR",
-    "section_key":"20263MDES2301W001",
     "type":"LANGUAGE"
   },
   {
@@ -165164,7 +165473,7 @@
     "department":"Narrative Medicine",
     "department_code":"NMED",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/NMED\/K5205-20263-001\/",
-    "location":"114 Knox Hall",
+    "location":"412 Pupin Laboratories",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Professional Studies"
@@ -169257,7 +169566,7 @@
     "department":"Nursing",
     "department_code":"NURS",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N8671-20263-001\/",
-    "location":"701A Vagelos Educ",
+    "location":"303 Armand Hammer Health Sciences Center",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"2",
@@ -191228,7 +191537,7 @@
     "department":"Political Science @Barnard",
     "department_code":"POLS",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/POLS\/X1212-20263-001\/",
-    "location":null,
+    "location":"222 Milbank Hall (Barnard)",
     "method_of_instruction":null,
     "open_to":null,
     "points":"0",
@@ -191245,6 +191554,39 @@
     ],
     "scheduled_days":"F",
     "section_key":"20263POLS1212X001",
+    "type":"DISCUSSION"
+  },
+  {
+    "course_code":"POLS BC1212",
+    "course_title":"INTRO TO AMERICAN POLITICS - DISC.",
+    "course_descr":"Required Discussion Section for Barnard-taught Intro to American Politics (POLS-BC1210).\n  \nStudents enrolled in POLS-BC1210 must enroll in a section of POLS-BC1212.",
+    "instructor":"Sobirjon Tilloev",
+    "scheduled_time_start":"12:00pm",
+    "scheduled_time_end":"12:50pm",
+    "call_number":"00810",
+    "campus":null,
+    "class_id":"X1212-20263-002",
+    "course_subtitle":"INTRO TO AM POL - DISC",
+    "department":"Political Science @Barnard",
+    "department_code":"POLS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/POLS\/X1212-20263-002\/",
+    "location":"237 Milbank Hall (Barnard)",
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+      [
+        "BC1210"
+      ],
+      [
+        "BC1210"
+      ],
+      [
+        "BC1212"
+      ]
+    ],
+    "scheduled_days":"F",
+    "section_key":"20263POLS1212X002",
     "type":"DISCUSSION"
   },
   {
@@ -191499,8 +191841,8 @@
     "course_title":"INTRO TO COMPARATIVE POLITICS - DISC.",
     "course_descr":"Required Discussion Section for Barnard-taught Intro to Comparative Politics (POLS-BC1510).\n  \nStudents enrolled in POLS-BC1510 must enroll in a section of POLS-BC1512.",
     "instructor":null,
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"10:00am",
+    "scheduled_time_end":"10:50am",
     "call_number":"00818",
     "campus":null,
     "class_id":"X1512-20263-001",
@@ -191523,7 +191865,7 @@
         "BC1512"
       ]
     ],
-    "scheduled_days":null,
+    "scheduled_days":"F",
     "section_key":"20263POLS1512X001",
     "type":"DISCUSSION"
   },
@@ -191532,8 +191874,8 @@
     "course_title":"INTRO TO COMPARATIVE POLITICS - DISC.",
     "course_descr":"Required Discussion Section for Barnard-taught Intro to Comparative Politics (POLS-BC1510).\n  \nStudents enrolled in POLS-BC1510 must enroll in a section of POLS-BC1512.",
     "instructor":null,
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"12:00pm",
+    "scheduled_time_end":"12:50pm",
     "call_number":"00819",
     "campus":null,
     "class_id":"X1512-20263-002",
@@ -191556,7 +191898,7 @@
         "BC1512"
       ]
     ],
-    "scheduled_days":null,
+    "scheduled_days":"F",
     "section_key":"20263POLS1512X002",
     "type":"DISCUSSION"
   },
@@ -192683,8 +193025,8 @@
     "course_title":"South Asian Politics Discussion",
     "course_descr":"Discussion section for POLS GU4454, South Asian Politics",
     "instructor":"Indira Tirumala",
-    "scheduled_time_start":"3:10pm",
-    "scheduled_time_end":"4:00pm",
+    "scheduled_time_start":"9:10pm",
+    "scheduled_time_end":"10:00pm",
     "call_number":"19750",
     "campus":null,
     "class_id":"G4456-20263-003",
@@ -192692,7 +193034,7 @@
     "department":"Political Science",
     "department_code":"POLS",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/POLS\/G4456-20263-003\/",
-    "location":"476A ALFRED LERNE",
+    "location":null,
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"0",
@@ -192701,7 +193043,7 @@
         "POLS GU4454"
       ]
     ],
-    "scheduled_days":"T",
+    "scheduled_days":"F",
     "section_key":"20263POLS4456G003",
     "type":"DISCUSSION"
   },
@@ -192710,8 +193052,8 @@
     "course_title":"South Asian Politics Discussion",
     "course_descr":"Discussion section for POLS GU4454, South Asian Politics",
     "instructor":"Indira Tirumala",
-    "scheduled_time_start":"4:10pm",
-    "scheduled_time_end":"5:00pm",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"11:00am",
     "call_number":"19751",
     "campus":null,
     "class_id":"G4456-20263-004",
@@ -192719,7 +193061,7 @@
     "department":"Political Science",
     "department_code":"POLS",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/POLS\/G4456-20263-004\/",
-    "location":"476A ALFRED LERNE",
+    "location":null,
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"0",
@@ -192728,7 +193070,7 @@
         "POLS GU4454"
       ]
     ],
-    "scheduled_days":"T",
+    "scheduled_days":"F",
     "section_key":"20263POLS4456G004",
     "type":"DISCUSSION"
   },
@@ -195382,6 +195724,56 @@
     ],
     "scheduled_days":null,
     "section_key":"20263POLS3901W003",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"POLS UN3901",
+    "course_title":"INDEPENDENT RESEARCH I",
+    "course_descr":null,
+    "instructor":"Justin H Phillips",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"20594",
+    "campus":null,
+    "class_id":"W3901-20263-004",
+    "course_subtitle":null,
+    "department":"Political Science",
+    "department_code":"POLS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/POLS\/W3901-20263-004\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"1-6",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263POLS3901W004",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"POLS UN3901",
+    "course_title":"INDEPENDENT RESEARCH I",
+    "course_descr":null,
+    "instructor":"Andrew J Nathan",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"20598",
+    "campus":null,
+    "class_id":"W3901-20263-005",
+    "course_subtitle":null,
+    "department":"Political Science",
+    "department_code":"POLS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/POLS\/W3901-20263-005\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"1-6",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263POLS3901W005",
     "type":"INDEPENDENT"
   },
   {
@@ -205940,7 +206332,7 @@
     "department":"Religion @Barnard",
     "department_code":"RELI",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/RELI\/W4322-20263-001\/",
-    "location":"223 Milbank Hall (Barnard)",
+    "location":null,
     "method_of_instruction":null,
     "open_to":null,
     "points":"4",
@@ -211404,7 +211796,7 @@
     "course_descr":"MIA Economics Core.\u00a0\nThis course provides a thorough introduction to the principles of microeconomics and macroeconomics, equipping students with the analytical tools to understand how individuals, firms, and governments make decisions and how they interact in local and global markets.\u00a0By combining theory with applied learning, the course builds a foundation for critical thinking about real-world economic challenges and policy-making in an increasingly interconnected world.",
     "instructor":null,
     "scheduled_time_start":"5:10pm",
-    "scheduled_time_end":"6:00pm",
+    "scheduled_time_end":"6:40pm",
     "call_number":"18171",
     "campus":null,
     "class_id":"U6350-20263-R02",
@@ -217901,8 +218293,8 @@
     "course_title":"THE SOCIAL WORLD - DISC",
     "course_descr":"Mandatory discussion section if you are registered for UN1000 The Social World",
     "instructor":"Tarek Yared",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"12:00pm",
+    "scheduled_time_end":"12:50pm",
     "call_number":"01071",
     "campus":null,
     "class_id":"W1100-20263-001",
@@ -217910,7 +218302,7 @@
     "department":"Sociology @Barnard",
     "department_code":"SOCI",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SOCI\/W1100-20263-001\/",
-    "location":null,
+    "location":"207 Milbank Hall (Barnard)",
     "method_of_instruction":null,
     "open_to":null,
     "points":"0",
@@ -217919,7 +218311,7 @@
         "UN1000"
       ]
     ],
-    "scheduled_days":null,
+    "scheduled_days":"F",
     "section_key":"20263SOCI1100W001",
     "type":"DISCUSSION"
   },
@@ -217964,7 +218356,7 @@
     "department":"Sociology @Barnard",
     "department_code":"SOCI",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SOCI\/W1100-20263-003\/",
-    "location":null,
+    "location":"207 Milbank Hall (Barnard)",
     "method_of_instruction":null,
     "open_to":null,
     "points":"0",
@@ -217982,8 +218374,8 @@
     "course_title":"THE SOCIAL WORLD - DISC",
     "course_descr":"Mandatory discussion section if you are registered for UN1000 The Social World",
     "instructor":"Sara M Rosado",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"2:00pm",
+    "scheduled_time_end":"2:50pm",
     "call_number":"01074",
     "campus":null,
     "class_id":"W1100-20263-004",
@@ -217991,7 +218383,7 @@
     "department":"Sociology @Barnard",
     "department_code":"SOCI",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SOCI\/W1100-20263-004\/",
-    "location":null,
+    "location":"223 Milbank Hall (Barnard)",
     "method_of_instruction":null,
     "open_to":null,
     "points":"0",
@@ -218000,7 +218392,7 @@
         "UN1000"
       ]
     ],
-    "scheduled_days":null,
+    "scheduled_days":"W",
     "section_key":"20263SOCI1100W004",
     "type":"DISCUSSION"
   },
@@ -230783,7 +231175,7 @@
     "call_number":"20191",
     "campus":null,
     "class_id":"G5005-20263-003",
-    "course_subtitle":"Recitation for Lin Reg Mo",
+    "course_subtitle":"RECITATION - LIINEAR REG",
     "department":"Statistics",
     "department_code":"STAT",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/STAT\/G5005-20263-003\/",
@@ -232204,7 +232596,7 @@
     "department":"Statistics",
     "department_code":"STAT",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/STAT\/G6105-20263-001\/",
-    "location":"1025 School of Social Work",
+    "location":null,
     "method_of_instruction":"In-Person",
     "open_to":[
       "GSAS"
@@ -233361,7 +233753,7 @@
     "department":"Statistics",
     "department_code":"STAT",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/STAT\/W4005-20263-001\/",
-    "location":null,
+    "location":"829 Seeley W. Mudd Building",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"0",
@@ -245304,6 +245696,19 @@
     "location":"101 Prentis Hall at 632 W 125th St",
     "method_of_instruction":"In-Person",
     "open_to":[
+      "Architecture",
+      "Business",
+      "Columbia College",
+      "Engineering:Graduate",
+      "Engineering:Undergraduate",
+      "GSAS",
+      "General Studies",
+      "Global Programs",
+      "Journalism",
+      "Law",
+      "Nursing",
+      "Professional Studies",
+      "SIPA",
       "Schools of the Arts"
     ],
     "points":"3",
@@ -245485,7 +245890,6 @@
     "location":"501 Dodge Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Business",
       "Columbia College",
       "Engineering:Undergraduate",
       "General Studies",
@@ -249112,7 +249516,7 @@
     "course_code":"WRIT AW6510",
     "course_title":"FICTION LECTURE",
     "course_descr":".",
-    "instructor":null,
+    "instructor":"Tobias Carroll",
     "scheduled_time_start":"4:15pm",
     "scheduled_time_end":"6:15pm",
     "call_number":"15296",
