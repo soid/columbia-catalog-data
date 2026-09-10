@@ -9888,7 +9888,7 @@
   {
     "course_code":"ANTH UN2111",
     "course_title":"Mafias and Other Dangerous Affiliations",
-    "course_descr":null,
+    "course_descr":"Discussion section for ANTH2017.",
     "instructor":"Tabitha C Payne",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:00pm",
@@ -9914,7 +9914,9 @@
     ],
     "points":"0",
     "prerequisites":[
-
+      [
+        "TH2017"
+      ]
     ],
     "scheduled_days":"M",
     "section_key":"20263ANTH2111W005",
@@ -9923,7 +9925,7 @@
   {
     "course_code":"ANTH UN2111",
     "course_title":"Mafias and Other Dangerous Affiliations",
-    "course_descr":null,
+    "course_descr":"Discussion section for ANTH2017.",
     "instructor":"Tabitha C Payne",
     "scheduled_time_start":"5:10pm",
     "scheduled_time_end":"6:00pm",
@@ -9945,7 +9947,9 @@
     ],
     "points":"0",
     "prerequisites":[
-
+      [
+        "TH2017"
+      ]
     ],
     "scheduled_days":"M",
     "section_key":"20263ANTH2111W006",
@@ -9954,7 +9958,7 @@
   {
     "course_code":"ANTH UN2111",
     "course_title":"Mafias and Other Dangerous Affiliations",
-    "course_descr":null,
+    "course_descr":"Discussion section for ANTH2017.",
     "instructor":"Anselm Kizza-Besigye",
     "scheduled_time_start":"3:10pm",
     "scheduled_time_end":"4:00pm",
@@ -9969,11 +9973,21 @@
     "method_of_instruction":"In-Person",
     "open_to":[
       "Columbia College",
-      "General Studies"
+      "Engineering:Graduate",
+      "Engineering:Undergraduate",
+      "General Studies",
+      "Law",
+      "Professional Studies",
+      "Public Health",
+      "SIPA",
+      "Schools of the Arts",
+      "Social Work"
     ],
     "points":"0",
     "prerequisites":[
-
+      [
+        "TH2017"
+      ]
     ],
     "scheduled_days":"R",
     "section_key":"20263ANTH2111W007",
@@ -15622,7 +15636,7 @@
     "department":"Architecture, Planning and Preservation",
     "department_code":"ARCH",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ARCH\/A4027-20263-001\/",
-    "location":"505 Avery Hall",
+    "location":"408 Avery Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Architecture"
@@ -20672,7 +20686,7 @@
     "department":"Bioethics",
     "department_code":"BIET",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/BIET\/K5310-20263-001\/",
-    "location":"307 Uris Hall",
+    "location":"610 Lewisohn Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Nursing",
@@ -46061,7 +46075,7 @@
     "department":"Civil Engineering and Engineering Mechanics",
     "department_code":"CIEN",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/CIEN\/E4142-20263-001\/",
-    "location":"327 Seeley W. Mudd Building",
+    "location":"524 Seeley W. Mudd Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Engineering:Graduate"
@@ -46254,7 +46268,7 @@
     "department":"Civil Engineering and Engineering Mechanics",
     "department_code":"CIEN",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/CIEN\/E4235-20263-001\/",
-    "location":"524 Seeley W. Mudd Building",
+    "location":"545 Seeley W. Mudd Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Engineering:Graduate",
@@ -49808,7 +49822,7 @@
     "department":"Core (A&S)",
     "department_code":"COCI",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/COCI\/C1101-20263-001\/",
-    "location":"111 Carman Hall",
+    "location":"613 Hamilton Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Columbia College",
@@ -69268,6 +69282,31 @@
     "type":"INDEPENDENT"
   },
   {
+    "course_code":"ECON BC3098",
+    "course_title":"GUIDED RESEARCH IN ECONOMICS",
+    "course_descr":null,
+    "instructor":"Randall Reback",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"01129",
+    "campus":null,
+    "class_id":"X3098-20263-005",
+    "course_subtitle":"GUIDED RESEARCH IN ECONOM",
+    "department":"Economics @Barnard",
+    "department_code":"ECON",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ECON\/X3098-20263-005\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"1-2",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263ECON3098X005",
+    "type":"INDEPENDENT"
+  },
+  {
     "course_code":"ECON GR5001",
     "course_title":"MICROECONOMIC ANALYSIS I-DISC",
     "course_descr":"Corequisites: ECON GR5211 Discussion Section for Economics MA Course Microeconomics Analysis I.",
@@ -74801,7 +74840,7 @@
   {
     "course_code":"EESC GR6003",
     "course_title":"MASTERS RESEARCH",
-    "course_descr":null,
+    "course_descr":"Individual research in the students field of specialization at the masters level. DEES PhD students register for this in the semester in which thay take their Masters Exam.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -95707,7 +95746,7 @@
     "department":"Enterprise Risk Management",
     "department_code":"ERMC",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ERMC\/K5390-20263-001\/",
-    "location":"608 Schermerhorn Hall [SCH]",
+    "location":"307 Uris Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Professional Studies"
@@ -153342,7 +153381,7 @@
   {
     "course_code":"MDES UN1309",
     "course_title":"INTEN ARMENIAN\/HERITAGE SPKRS",
-    "course_descr":null,
+    "course_descr":"Intensive Armenian for Heritage Speakers is an accelerated course for students of Armenian origin who already have basic knowledge of the spoken language and are able to converse on familiar topics relating to themselves and their immediate surroundings. The course will focus on developing their skills in reading, writing, and speaking and Armenian grammar and vocabulary. By the end of the course, students will be able to read, write and discuss simple texts. Placement will be based on an interview and questionnaire about their background. No P\/D\/F or R credit is allowed for this class. No P\/D\/F or R credit is allowed for this class.",
     "instructor":"Charry Karamanoukian",
     "scheduled_time_start":"3:10pm",
     "scheduled_time_end":"5:00pm",
@@ -189532,7 +189571,7 @@
     "department":"Architecture, Planning and Preservation",
     "department_code":"PLAN",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/PLAN\/A4320-20263-001\/",
-    "location":"600 Avery Hall",
+    "location":"204 Fayerweather",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Architecture"
@@ -211831,7 +211870,7 @@
     "department":"International and Public Affairs",
     "department_code":"SIPA",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U6350-20263-R03\/",
-    "location":"332 Uris Hall, Friday 1:20pm-2:50pm 332 Uris Hall",
+    "location":"332 Uris Hall, Friday 3:10pm-4:40pm 405 International Affairs Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "SIPA"
@@ -243947,7 +243986,7 @@
     "course_code":"URBS UN3308",
     "course_title":"INTRO TO URBAN ETHNOGRAPHIES",
     "course_descr":"What is ethnography and what makes ethnography \u201curban\u201d? This course explores how social scientists use ethnography to analyze questions and dilemmas often associated with urban settings. We will combine close readings of ethnographies with field-based inquiry, including our own studies of urban public space. Through both our readings and our field exercises, we will focus on the methods at the heart of ethnography: observation and participant-observation.\n  \nAs we read other scholars\u2019 work, we will ask how the author uses ethnographic tools to explore issues that are suitable for intensive fieldwork. We will assess which kinds of research problems and theoretical perspectives are a good fit with ethnography and the roles that ethnography can play in transdisciplinary research projects. You will apply what you have learned about research to design your own pilot fieldwork. The ethnographies that we read together will examine intersections of housing, race, and class in urban communities. You are welcome to extend this focus to your own fieldwork, but it\u2019s not required to do so. This is a writing-intensive course, and we will devote a considerable portion of class time to workshop your individual projects.",
-    "instructor":null,
+    "instructor":"Idil Onen",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
     "call_number":"00384",
@@ -246373,7 +246412,8 @@
       "General Studies",
       "Global Programs",
       "Professional Studies",
-      "Schools of the Arts"
+      "Schools of the Arts",
+      "Teachers College"
     ],
     "points":"3",
     "prerequisites":[
