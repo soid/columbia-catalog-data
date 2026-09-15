@@ -14593,7 +14593,7 @@
   {
     "course_code":"APMA E3900",
     "course_title":"UNDERGRAD RES IN APPLIED MATH",
-    "course_descr":null,
+    "course_descr":"This course may be repeated for credit, but no more than 6 points of this course may be counted toward the satisfaction of the B.S. degree requirements. Candidates for the B.S. degree may conduct an investigation in applied mathematics or carry out a special project under the supervision of the staff. Credit for the course is contingent upon the submission of an acceptable thesis or final report.",
     "instructor":"Marc W Spiegelman",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -126718,7 +126718,7 @@
   {
     "course_code":"IEOR E4150",
     "course_title":"INTRO-PROBABILITY & STATISTICS",
-    "course_descr":null,
+    "course_descr":"Covers the following topics: fundamentals of probability theory and statistical inference used in engineering and applied science; Probabilistic models, random variables, useful distributions, expectations, law of large numbers, central limit theorem; Statistical inference: pint and confidence interval estimation, hypothesis tests, linear regression. For IEOR graduate students.",
     "instructor":"Eric Stratman",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -165279,7 +165279,8 @@
       "Engineering:Graduate",
       "Engineering:Undergraduate",
       "GSAS",
-      "General Studies"
+      "General Studies",
+      "Professional Studies"
     ],
     "points":"3",
     "prerequisites":[
@@ -186398,8 +186399,8 @@
     "course_title":"QUANTUM FIELD THEORY II",
     "course_descr":"Prerequisites: PHYS G6037-G6038. Relativistic quantum mechanics and quantum field theory.",
     "instructor":"Frederik Denef",
-    "scheduled_time_start":"2:40pm",
-    "scheduled_time_end":"3:55pm",
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"2:25pm",
     "call_number":"12384",
     "campus":null,
     "class_id":"G8048-20263-001",
@@ -186407,7 +186408,7 @@
     "department":"Physics",
     "department_code":"PHYS",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/PHYS\/G8048-20263-001\/",
-    "location":"325 Pupin Laboratories",
+    "location":null,
     "method_of_instruction":"In-Person",
     "open_to":[
       "Engineering:Graduate",
@@ -186423,7 +186424,7 @@
         "PHYS G6037"
       ]
     ],
-    "scheduled_days":"TR",
+    "scheduled_days":"R",
     "section_key":"20263PHYS8048G001",
     "type":"LECTURE"
   },
@@ -195229,7 +195230,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":"F",
+    "scheduled_days":"T",
     "section_key":"20263POLS2111W009",
     "type":"DISCUSSION"
   },
@@ -195238,8 +195239,8 @@
     "course_title":"Political Theory I Discussion",
     "course_descr":"Discussion section",
     "instructor":"Antonia M Fratini Lagos",
-    "scheduled_time_start":"10:10am",
-    "scheduled_time_end":"11:00am",
+    "scheduled_time_start":"3:10pm",
+    "scheduled_time_end":"4:00pm",
     "call_number":"20676",
     "campus":null,
     "class_id":"W2111-20263-010",
@@ -196045,8 +196046,8 @@
     "course_title":"International Politics Discussion",
     "course_descr":"Discussion section for POLS UN2601",
     "instructor":"Maheen Rasul",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"11:10am",
+    "scheduled_time_end":"12:00pm",
     "call_number":"20635",
     "campus":null,
     "class_id":"W2611-20263-017",
@@ -196063,7 +196064,7 @@
         "POLS UN2601"
       ]
     ],
-    "scheduled_days":null,
+    "scheduled_days":"F",
     "section_key":"20263POLS2611W017",
     "type":"DISCUSSION"
   },
@@ -196072,8 +196073,8 @@
     "course_title":"International Politics Discussion",
     "course_descr":"Discussion section for POLS UN2601",
     "instructor":"Maheen Rasul",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"11:00am",
     "call_number":"20636",
     "campus":null,
     "class_id":"W2611-20263-018",
@@ -196090,7 +196091,7 @@
         "POLS UN2601"
       ]
     ],
-    "scheduled_days":null,
+    "scheduled_days":"F",
     "section_key":"20263POLS2611W018",
     "type":"DISCUSSION"
   },
@@ -197007,6 +197008,31 @@
     ],
     "scheduled_days":null,
     "section_key":"20263POLS3901W006",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"POLS UN3901",
+    "course_title":"INDEPENDENT RESEARCH I",
+    "course_descr":null,
+    "instructor":"Carlos Vargas-Ramos",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"20699",
+    "campus":null,
+    "class_id":"W3901-20263-007",
+    "course_subtitle":null,
+    "department":"Political Science",
+    "department_code":"POLS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/POLS\/W3901-20263-007\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"1-6",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263POLS3901W007",
     "type":"INDEPENDENT"
   },
   {
