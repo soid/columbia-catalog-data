@@ -14591,6 +14591,33 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"APMA E3900",
+    "course_title":"UNDERGRAD RES IN APPLIED MATH",
+    "course_descr":null,
+    "instructor":"Marc W Spiegelman",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"20698",
+    "campus":null,
+    "class_id":"E3900-20263-007",
+    "course_subtitle":"UNDERGRAD RES IN APPLIED",
+    "department":"Applied Physics and Applied Mathematics",
+    "department_code":"APMA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/APMA\/E3900-20263-007\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Engineering:Undergraduate"
+    ],
+    "points":"0-4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263APMA3900E007",
+    "type":"INDEPENDENT"
+  },
+  {
     "course_code":"APMA E4007",
     "course_title":"APPLIED LINEAR ALGEBRA",
     "course_descr":"Fundamentals of Linear Algebra including vector and Matrix algebra, solution of linear systems, existence and uniqueness, gaussian elimination, gauss-jordan elimination, the matrix inverse, elementary matrices and the LU factorization, computational cost of \u00a0solutions.\u00a0Vector spaces and subspaces, \u00a0linear independence, basis and dimension.\u00a0The 4 fundamental subspaces of a matrix.\u00a0Orthogonal projection onto a subspace and solution of Linear Least Squares problems, unitary matrices, inner products, \u00a0orthogonalization algorithms and the QR factorization, applications. Determinants and applications.\u00a0Eigen problems including diagonalization, symmetric matrices, positive-definite systems, eigen factorization and applications to dynamical systems and iterative maps.\u00a0Introduction to the singular value decomposition and its applications.",
@@ -49374,6 +49401,31 @@
     "type":"INDEPENDENT"
   },
   {
+    "course_code":"CLPH GU4902",
+    "course_title":"DIRECTED READINGS",
+    "course_descr":"Prerequisites: the instructors permission. Topics chosen in consultation between members of the staff and students.",
+    "instructor":"Steven Brandwood",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"20696",
+    "campus":null,
+    "class_id":"G4902-20263-004",
+    "course_subtitle":null,
+    "department":"Classics",
+    "department_code":"CLPH",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CLPH\/G4902-20263-004\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"1-4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263CLPH4902G004",
+    "type":"INDEPENDENT"
+  },
+  {
     "course_code":"CLPS GU4200",
     "course_title":"A Comprehensive Introduction to Sigmund",
     "course_descr":"This course offers a comprehensive understanding of the origins, foundations and evolution of Freud\u2019s psychoanalytic theorizing during the four decades following 1895. Via close readings of his texts, with neither worship nor condescension, we will situate the development of psychoanalysis as a theory of mind within historical context, and explore its applications to education, society, culture, and the humanities.",
@@ -52586,6 +52638,33 @@
     ],
     "scheduled_days":"R",
     "section_key":"20263COMM5020K001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"COMM PS5020",
+    "course_title":"STRATEGIC STORYTELLER",
+    "course_descr":"The purpose of this course is to provide students with a deep and broad understanding of stories and how they can be used in strategic communication. Drawing from a wealth of evidence-based and field-tested work on storytelling from both local and global contexts, students will learn why stories tend to be so powerful and\u2014with a focus on the written, performed, and transmedia aspects of storytelling\u2014gain experience in telling stories to achieve organizational objectives. Your skills will be sharpened through lively seminar discussions, storytelling exercises, workshop-style coaching, and presentations and on-camera practice. \u00a0By the end, students will walk away with a new mindset and a host of strategies that can be immediately implemented in their everyday work.",
+    "instructor":"Lauren R Glover",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"12:00pm",
+    "call_number":"20623",
+    "campus":null,
+    "class_id":"K5020-20263-AU1",
+    "course_subtitle":null,
+    "department":"Auditing",
+    "department_code":"COMM",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMM\/K5020-20263-AU1\/",
+    "location":"OTHR OTHER",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Audit Program"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20263COMM5020KAU1",
     "type":"LECTURE"
   },
   {
@@ -100733,7 +100812,7 @@
   {
     "course_code":"FILM AF9800",
     "course_title":"FILM RESEARCH ARTS INTERNSHIP",
-    "course_descr":"Internship for Film Research Arts Students Only",
+    "course_descr":"Film Program students in Creative Producing must complete at least one (1) internship to graduate. These provide exposure to\u00a0and experience in\u00a0the professional film industry beyond the classroom. The Internship requirement cannot be waived. Film AF9800 is the course number for Creative Producers in their Research Arts year.",
     "instructor":"Hanna Seifu",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -100751,7 +100830,9 @@
     ],
     "points":"1-6",
     "prerequisites":[
-
+      [
+        "AF9800"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20263FILM9800R001",
@@ -100760,7 +100841,7 @@
   {
     "course_code":"FILM AF9800",
     "course_title":"FILM RESEARCH ARTS INTERNSHIP",
-    "course_descr":"Internship for Film Research Arts Students Only",
+    "course_descr":"Film Program students in Creative Producing must complete at least one (1) internship to graduate. These provide exposure to\u00a0and experience in\u00a0the professional film industry beyond the classroom. The Internship requirement cannot be waived. Film AF9800 is the course number for Creative Producers in their Research Arts year.",
     "instructor":"Jack Lechner",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -100778,7 +100859,9 @@
     ],
     "points":"1-6",
     "prerequisites":[
-
+      [
+        "AF9800"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20263FILM9800R002",
@@ -100787,7 +100870,7 @@
   {
     "course_code":"FILM AF9800",
     "course_title":"FILM RESEARCH ARTS INTERNSHIP",
-    "course_descr":"Internship for Film Research Arts Students Only",
+    "course_descr":"Film Program students in Creative Producing must complete at least one (1) internship to graduate. These provide exposure to\u00a0and experience in\u00a0the professional film industry beyond the classroom. The Internship requirement cannot be waived. Film AF9800 is the course number for Creative Producers in their Research Arts year.",
     "instructor":"Maureen A Ryan",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -100805,7 +100888,9 @@
     ],
     "points":"1-6",
     "prerequisites":[
-
+      [
+        "AF9800"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20263FILM9800R003",
@@ -100814,7 +100899,7 @@
   {
     "course_code":"FILM AF9800",
     "course_title":"FILM RESEARCH ARTS INTERNSHIP",
-    "course_descr":"Internship for Film Research Arts Students Only",
+    "course_descr":"Film Program students in Creative Producing must complete at least one (1) internship to graduate. These provide exposure to\u00a0and experience in\u00a0the professional film industry beyond the classroom. The Internship requirement cannot be waived. Film AF9800 is the course number for Creative Producers in their Research Arts year.",
     "instructor":"Mynette Louie",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -100832,7 +100917,9 @@
     ],
     "points":"1-6",
     "prerequisites":[
-
+      [
+        "AF9800"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20263FILM9800R004",
@@ -119541,6 +119628,56 @@
     "type":"SEMINAR"
   },
   {
+    "course_code":"HSME UN2812",
+    "course_title":"HIST OF SOUTH ASIA I-DISC",
+    "course_descr":"MANDATORY Discussion Section for HSME 2810 History of South Asia I. Students must also be registered for HSME 2810.",
+    "instructor":null,
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"2:00pm",
+    "call_number":"20689",
+    "campus":null,
+    "class_id":"W2812-20263-009",
+    "course_subtitle":null,
+    "department":"History",
+    "department_code":"HSME",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HSME\/W2812-20263-009\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20263HSME2812W009",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"HSME UN2812",
+    "course_title":"HIST OF SOUTH ASIA I-DISC",
+    "course_descr":"MANDATORY Discussion Section for HSME 2810 History of South Asia I. Students must also be registered for HSME 2810.",
+    "instructor":null,
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"3:00pm",
+    "call_number":"20691",
+    "campus":null,
+    "class_id":"W2812-20263-010",
+    "course_subtitle":null,
+    "department":"History",
+    "department_code":"HSME",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HSME\/W2812-20263-010\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20263HSME2812W010",
+    "type":"SEMINAR"
+  },
+  {
     "course_code":"HSME UN2915",
     "course_title":"AFRICA BEFORE COLONIALISM",
     "course_descr":"This course is an interdisciplinary exploration of the precolonial history of the African continent. It investigates in-depth the political, social, cultural and economic developments of different Africa communities, covering various regions and periods, from prehistory to the formation of the Indian Ocean and Atlantic worlds. Its focus is the intersection of politics, economics, culture and society. Using world history and Africa\u2019s location in the production of history as key analytical frames, it pays special attention to social, political and cultural changes that shaped the various individual and collective experiences of African peoples and states and the historical discourses associated to them.",
@@ -119728,7 +119865,7 @@
   {
     "course_code":"HUMA BC1111",
     "course_title":"A BARNARD EDUCATION AT WORK",
-    "course_descr":"Per its mission statement, \u201cBarnard College aims to provide the highest-quality liberal arts\n education to promising and high-achieving young women\u2026 They graduate prepared to lead\n lives that are professionally satisfying and successful, personally fulfilling, and enriched by a love\n of learning.\u201d This course finds its roots in the connection posited here, between undergraduate\n study and professional life. Students will be asked to revisit a foundational text they have\n encountered in their major, and use it as a mode of exploration and reflection on an internship.\n They will consider how the text\u2019s themes and ideas can be reinterpreted and recontextualized in\n the working world, and think about what practical, moral, political, aesthetic and personal\n insights it affords. More broadly, students will be prompted to consider the relationship of the\n liberal arts degree (which purports to prepare students for no particular career) to their chosen\n career path. This course will further hone the critical thinking and writing skills that are\n translatable to any profession, and enables a Barnard student to put into practice the\n complexities they have learned in the classroom, by encouraging them to analyze the\n professional world from different perspectives, and in the context of other ideas and traditions.\n The text will be selected from a list provided by the student\u2019s major department, and will be\n subject to approval from the course instructor.\n On a weekly basis, in this discussion-based class, the student shares their ideas about their text\n and how it relates to their internship. They respond to and engage with their classmates. They\n are required to spend about two hours with their text per week. They are also required to\n create a presentation, to be shared with the full group. The group is also\n responsible for providing feedback on the presentation. The presentation ultimately evolves\n into a final paper that explores the line of inquiry from their text as it is\n instantiated in their work experience. Students are graded on their discussion (40%),\n presentation (25%), and final paper (35%).",
+    "course_descr":"Per its mission statement, \u201cBarnard College aims to provide the highest-quality liberal arts education to promising and high-achieving young women\u2026 They graduate prepared to lead\u00a0\n lives that are professionally satisfying and successful, personally fulfilling, and enriched by a love of learning.\u201d This course finds its roots in the connection posited here, between undergraduate study and professional life. Students will be asked to revisit a foundational text they have encountered in their major, and use it as a mode of exploration and reflection on an internship. They will consider how the text\u2019s themes and ideas can be reinterpreted and recontextualized in the working world, and think about what practical, moral, political, aesthetic and personal\u00a0\n insights it affords. More broadly, students will be prompted to consider the relationship of the\u00a0\n liberal arts degree and, in particular, their major to their chosen career path. This course will further hone the critical thinking and writing skills that are translatable to any profession, and enables a Barnard student to put into practice the complexities they have learned in the classroom, by encouraging them to analyze the professional world from different perspectives, and in the context of other ideas and traditions.The foundational text will be selected in consultation with the course instructor to ensure focus connections between the student\u2019s major, the internship and the reading chosen. .\u00a0\n On a weekly basis, in this discussion-based class, the student shares their ideas about their text\n and how it relates to their internship. They respond to and engage with their classmates. They\n are required to spend about two hours with their text per week. They are also required to\n create a presentation, to be shared with the full group. The group is also\n responsible for providing feedback on the presentation. The presentation ultimately evolves\n into a final paper that explores the line of inquiry from their text as it is\n instantiated in their work experience. Students are graded on their discussion (40%),\n presentation (25%), and final paper (35%).",
     "instructor":"Erica A Siegel",
     "scheduled_time_start":"5:40pm",
     "scheduled_time_end":"6:55pm",
@@ -119753,7 +119890,7 @@
   {
     "course_code":"HUMA BC1111",
     "course_title":"A BARNARD EDUCATION AT WORK",
-    "course_descr":"Per its mission statement, \u201cBarnard College aims to provide the highest-quality liberal arts\n education to promising and high-achieving young women\u2026 They graduate prepared to lead\n lives that are professionally satisfying and successful, personally fulfilling, and enriched by a love\n of learning.\u201d This course finds its roots in the connection posited here, between undergraduate\n study and professional life. Students will be asked to revisit a foundational text they have\n encountered in their major, and use it as a mode of exploration and reflection on an internship.\n They will consider how the text\u2019s themes and ideas can be reinterpreted and recontextualized in\n the working world, and think about what practical, moral, political, aesthetic and personal\n insights it affords. More broadly, students will be prompted to consider the relationship of the\n liberal arts degree (which purports to prepare students for no particular career) to their chosen\n career path. This course will further hone the critical thinking and writing skills that are\n translatable to any profession, and enables a Barnard student to put into practice the\n complexities they have learned in the classroom, by encouraging them to analyze the\n professional world from different perspectives, and in the context of other ideas and traditions.\n The text will be selected from a list provided by the student\u2019s major department, and will be\n subject to approval from the course instructor.\n On a weekly basis, in this discussion-based class, the student shares their ideas about their text\n and how it relates to their internship. They respond to and engage with their classmates. They\n are required to spend about two hours with their text per week. They are also required to\n create a presentation, to be shared with the full group. The group is also\n responsible for providing feedback on the presentation. The presentation ultimately evolves\n into a final paper that explores the line of inquiry from their text as it is\n instantiated in their work experience. Students are graded on their discussion (40%),\n presentation (25%), and final paper (35%).",
+    "course_descr":"Per its mission statement, \u201cBarnard College aims to provide the highest-quality liberal arts education to promising and high-achieving young women\u2026 They graduate prepared to lead\u00a0\n lives that are professionally satisfying and successful, personally fulfilling, and enriched by a love of learning.\u201d This course finds its roots in the connection posited here, between undergraduate study and professional life. Students will be asked to revisit a foundational text they have encountered in their major, and use it as a mode of exploration and reflection on an internship. They will consider how the text\u2019s themes and ideas can be reinterpreted and recontextualized in the working world, and think about what practical, moral, political, aesthetic and personal\u00a0\n insights it affords. More broadly, students will be prompted to consider the relationship of the\u00a0\n liberal arts degree and, in particular, their major to their chosen career path. This course will further hone the critical thinking and writing skills that are translatable to any profession, and enables a Barnard student to put into practice the complexities they have learned in the classroom, by encouraging them to analyze the professional world from different perspectives, and in the context of other ideas and traditions.The foundational text will be selected in consultation with the course instructor to ensure focus connections between the student\u2019s major, the internship and the reading chosen. .\u00a0\n On a weekly basis, in this discussion-based class, the student shares their ideas about their text\n and how it relates to their internship. They respond to and engage with their classmates. They\n are required to spend about two hours with their text per week. They are also required to\n create a presentation, to be shared with the full group. The group is also\n responsible for providing feedback on the presentation. The presentation ultimately evolves\n into a final paper that explores the line of inquiry from their text as it is\n instantiated in their work experience. Students are graded on their discussion (40%),\n presentation (25%), and final paper (35%).",
     "instructor":"Mulu Gebreyohannes",
     "scheduled_time_start":"5:40pm",
     "scheduled_time_end":"6:55pm",
@@ -119778,7 +119915,7 @@
   {
     "course_code":"HUMA BC1111",
     "course_title":"A BARNARD EDUCATION AT WORK",
-    "course_descr":"Per its mission statement, \u201cBarnard College aims to provide the highest-quality liberal arts\n education to promising and high-achieving young women\u2026 They graduate prepared to lead\n lives that are professionally satisfying and successful, personally fulfilling, and enriched by a love\n of learning.\u201d This course finds its roots in the connection posited here, between undergraduate\n study and professional life. Students will be asked to revisit a foundational text they have\n encountered in their major, and use it as a mode of exploration and reflection on an internship.\n They will consider how the text\u2019s themes and ideas can be reinterpreted and recontextualized in\n the working world, and think about what practical, moral, political, aesthetic and personal\n insights it affords. More broadly, students will be prompted to consider the relationship of the\n liberal arts degree (which purports to prepare students for no particular career) to their chosen\n career path. This course will further hone the critical thinking and writing skills that are\n translatable to any profession, and enables a Barnard student to put into practice the\n complexities they have learned in the classroom, by encouraging them to analyze the\n professional world from different perspectives, and in the context of other ideas and traditions.\n The text will be selected from a list provided by the student\u2019s major department, and will be\n subject to approval from the course instructor.\n On a weekly basis, in this discussion-based class, the student shares their ideas about their text\n and how it relates to their internship. They respond to and engage with their classmates. They\n are required to spend about two hours with their text per week. They are also required to\n create a presentation, to be shared with the full group. The group is also\n responsible for providing feedback on the presentation. The presentation ultimately evolves\n into a final paper that explores the line of inquiry from their text as it is\n instantiated in their work experience. Students are graded on their discussion (40%),\n presentation (25%), and final paper (35%).",
+    "course_descr":"Per its mission statement, \u201cBarnard College aims to provide the highest-quality liberal arts education to promising and high-achieving young women\u2026 They graduate prepared to lead\u00a0\n lives that are professionally satisfying and successful, personally fulfilling, and enriched by a love of learning.\u201d This course finds its roots in the connection posited here, between undergraduate study and professional life. Students will be asked to revisit a foundational text they have encountered in their major, and use it as a mode of exploration and reflection on an internship. They will consider how the text\u2019s themes and ideas can be reinterpreted and recontextualized in the working world, and think about what practical, moral, political, aesthetic and personal\u00a0\n insights it affords. More broadly, students will be prompted to consider the relationship of the\u00a0\n liberal arts degree and, in particular, their major to their chosen career path. This course will further hone the critical thinking and writing skills that are translatable to any profession, and enables a Barnard student to put into practice the complexities they have learned in the classroom, by encouraging them to analyze the professional world from different perspectives, and in the context of other ideas and traditions.The foundational text will be selected in consultation with the course instructor to ensure focus connections between the student\u2019s major, the internship and the reading chosen. .\u00a0\n On a weekly basis, in this discussion-based class, the student shares their ideas about their text\n and how it relates to their internship. They respond to and engage with their classmates. They\n are required to spend about two hours with their text per week. They are also required to\n create a presentation, to be shared with the full group. The group is also\n responsible for providing feedback on the presentation. The presentation ultimately evolves\n into a final paper that explores the line of inquiry from their text as it is\n instantiated in their work experience. Students are graded on their discussion (40%),\n presentation (25%), and final paper (35%).",
     "instructor":"Mary Laurita",
     "scheduled_time_start":"5:40pm",
     "scheduled_time_end":"6:55pm",
@@ -119803,7 +119940,7 @@
   {
     "course_code":"HUMA BC1111",
     "course_title":"A BARNARD EDUCATION AT WORK",
-    "course_descr":"Per its mission statement, \u201cBarnard College aims to provide the highest-quality liberal arts\n education to promising and high-achieving young women\u2026 They graduate prepared to lead\n lives that are professionally satisfying and successful, personally fulfilling, and enriched by a love\n of learning.\u201d This course finds its roots in the connection posited here, between undergraduate\n study and professional life. Students will be asked to revisit a foundational text they have\n encountered in their major, and use it as a mode of exploration and reflection on an internship.\n They will consider how the text\u2019s themes and ideas can be reinterpreted and recontextualized in\n the working world, and think about what practical, moral, political, aesthetic and personal\n insights it affords. More broadly, students will be prompted to consider the relationship of the\n liberal arts degree (which purports to prepare students for no particular career) to their chosen\n career path. This course will further hone the critical thinking and writing skills that are\n translatable to any profession, and enables a Barnard student to put into practice the\n complexities they have learned in the classroom, by encouraging them to analyze the\n professional world from different perspectives, and in the context of other ideas and traditions.\n The text will be selected from a list provided by the student\u2019s major department, and will be\n subject to approval from the course instructor.\n On a weekly basis, in this discussion-based class, the student shares their ideas about their text\n and how it relates to their internship. They respond to and engage with their classmates. They\n are required to spend about two hours with their text per week. They are also required to\n create a presentation, to be shared with the full group. The group is also\n responsible for providing feedback on the presentation. The presentation ultimately evolves\n into a final paper that explores the line of inquiry from their text as it is\n instantiated in their work experience. Students are graded on their discussion (40%),\n presentation (25%), and final paper (35%).",
+    "course_descr":"Per its mission statement, \u201cBarnard College aims to provide the highest-quality liberal arts education to promising and high-achieving young women\u2026 They graduate prepared to lead\u00a0\n lives that are professionally satisfying and successful, personally fulfilling, and enriched by a love of learning.\u201d This course finds its roots in the connection posited here, between undergraduate study and professional life. Students will be asked to revisit a foundational text they have encountered in their major, and use it as a mode of exploration and reflection on an internship. They will consider how the text\u2019s themes and ideas can be reinterpreted and recontextualized in the working world, and think about what practical, moral, political, aesthetic and personal\u00a0\n insights it affords. More broadly, students will be prompted to consider the relationship of the\u00a0\n liberal arts degree and, in particular, their major to their chosen career path. This course will further hone the critical thinking and writing skills that are translatable to any profession, and enables a Barnard student to put into practice the complexities they have learned in the classroom, by encouraging them to analyze the professional world from different perspectives, and in the context of other ideas and traditions.The foundational text will be selected in consultation with the course instructor to ensure focus connections between the student\u2019s major, the internship and the reading chosen. .\u00a0\n On a weekly basis, in this discussion-based class, the student shares their ideas about their text\n and how it relates to their internship. They respond to and engage with their classmates. They\n are required to spend about two hours with their text per week. They are also required to\n create a presentation, to be shared with the full group. The group is also\n responsible for providing feedback on the presentation. The presentation ultimately evolves\n into a final paper that explores the line of inquiry from their text as it is\n instantiated in their work experience. Students are graded on their discussion (40%),\n presentation (25%), and final paper (35%).",
     "instructor":"Jose Cao-Alvira",
     "scheduled_time_start":"5:40pm",
     "scheduled_time_end":"6:55pm",
@@ -119828,7 +119965,7 @@
   {
     "course_code":"HUMA BC1111",
     "course_title":"A BARNARD EDUCATION AT WORK",
-    "course_descr":"Per its mission statement, \u201cBarnard College aims to provide the highest-quality liberal arts\n education to promising and high-achieving young women\u2026 They graduate prepared to lead\n lives that are professionally satisfying and successful, personally fulfilling, and enriched by a love\n of learning.\u201d This course finds its roots in the connection posited here, between undergraduate\n study and professional life. Students will be asked to revisit a foundational text they have\n encountered in their major, and use it as a mode of exploration and reflection on an internship.\n They will consider how the text\u2019s themes and ideas can be reinterpreted and recontextualized in\n the working world, and think about what practical, moral, political, aesthetic and personal\n insights it affords. More broadly, students will be prompted to consider the relationship of the\n liberal arts degree (which purports to prepare students for no particular career) to their chosen\n career path. This course will further hone the critical thinking and writing skills that are\n translatable to any profession, and enables a Barnard student to put into practice the\n complexities they have learned in the classroom, by encouraging them to analyze the\n professional world from different perspectives, and in the context of other ideas and traditions.\n The text will be selected from a list provided by the student\u2019s major department, and will be\n subject to approval from the course instructor.\n On a weekly basis, in this discussion-based class, the student shares their ideas about their text\n and how it relates to their internship. They respond to and engage with their classmates. They\n are required to spend about two hours with their text per week. They are also required to\n create a presentation, to be shared with the full group. The group is also\n responsible for providing feedback on the presentation. The presentation ultimately evolves\n into a final paper that explores the line of inquiry from their text as it is\n instantiated in their work experience. Students are graded on their discussion (40%),\n presentation (25%), and final paper (35%).",
+    "course_descr":"Per its mission statement, \u201cBarnard College aims to provide the highest-quality liberal arts education to promising and high-achieving young women\u2026 They graduate prepared to lead\u00a0\n lives that are professionally satisfying and successful, personally fulfilling, and enriched by a love of learning.\u201d This course finds its roots in the connection posited here, between undergraduate study and professional life. Students will be asked to revisit a foundational text they have encountered in their major, and use it as a mode of exploration and reflection on an internship. They will consider how the text\u2019s themes and ideas can be reinterpreted and recontextualized in the working world, and think about what practical, moral, political, aesthetic and personal\u00a0\n insights it affords. More broadly, students will be prompted to consider the relationship of the\u00a0\n liberal arts degree and, in particular, their major to their chosen career path. This course will further hone the critical thinking and writing skills that are translatable to any profession, and enables a Barnard student to put into practice the complexities they have learned in the classroom, by encouraging them to analyze the professional world from different perspectives, and in the context of other ideas and traditions.The foundational text will be selected in consultation with the course instructor to ensure focus connections between the student\u2019s major, the internship and the reading chosen. .\u00a0\n On a weekly basis, in this discussion-based class, the student shares their ideas about their text\n and how it relates to their internship. They respond to and engage with their classmates. They\n are required to spend about two hours with their text per week. They are also required to\n create a presentation, to be shared with the full group. The group is also\n responsible for providing feedback on the presentation. The presentation ultimately evolves\n into a final paper that explores the line of inquiry from their text as it is\n instantiated in their work experience. Students are graded on their discussion (40%),\n presentation (25%), and final paper (35%).",
     "instructor":"Jj L Miranda",
     "scheduled_time_start":"5:40pm",
     "scheduled_time_end":"6:55pm",
@@ -119853,7 +119990,7 @@
   {
     "course_code":"HUMA BC1111",
     "course_title":"A BARNARD EDUCATION AT WORK",
-    "course_descr":"Per its mission statement, \u201cBarnard College aims to provide the highest-quality liberal arts\n education to promising and high-achieving young women\u2026 They graduate prepared to lead\n lives that are professionally satisfying and successful, personally fulfilling, and enriched by a love\n of learning.\u201d This course finds its roots in the connection posited here, between undergraduate\n study and professional life. Students will be asked to revisit a foundational text they have\n encountered in their major, and use it as a mode of exploration and reflection on an internship.\n They will consider how the text\u2019s themes and ideas can be reinterpreted and recontextualized in\n the working world, and think about what practical, moral, political, aesthetic and personal\n insights it affords. More broadly, students will be prompted to consider the relationship of the\n liberal arts degree (which purports to prepare students for no particular career) to their chosen\n career path. This course will further hone the critical thinking and writing skills that are\n translatable to any profession, and enables a Barnard student to put into practice the\n complexities they have learned in the classroom, by encouraging them to analyze the\n professional world from different perspectives, and in the context of other ideas and traditions.\n The text will be selected from a list provided by the student\u2019s major department, and will be\n subject to approval from the course instructor.\n On a weekly basis, in this discussion-based class, the student shares their ideas about their text\n and how it relates to their internship. They respond to and engage with their classmates. They\n are required to spend about two hours with their text per week. They are also required to\n create a presentation, to be shared with the full group. The group is also\n responsible for providing feedback on the presentation. The presentation ultimately evolves\n into a final paper that explores the line of inquiry from their text as it is\n instantiated in their work experience. Students are graded on their discussion (40%),\n presentation (25%), and final paper (35%).",
+    "course_descr":"Per its mission statement, \u201cBarnard College aims to provide the highest-quality liberal arts education to promising and high-achieving young women\u2026 They graduate prepared to lead\u00a0\n lives that are professionally satisfying and successful, personally fulfilling, and enriched by a love of learning.\u201d This course finds its roots in the connection posited here, between undergraduate study and professional life. Students will be asked to revisit a foundational text they have encountered in their major, and use it as a mode of exploration and reflection on an internship. They will consider how the text\u2019s themes and ideas can be reinterpreted and recontextualized in the working world, and think about what practical, moral, political, aesthetic and personal\u00a0\n insights it affords. More broadly, students will be prompted to consider the relationship of the\u00a0\n liberal arts degree and, in particular, their major to their chosen career path. This course will further hone the critical thinking and writing skills that are translatable to any profession, and enables a Barnard student to put into practice the complexities they have learned in the classroom, by encouraging them to analyze the professional world from different perspectives, and in the context of other ideas and traditions.The foundational text will be selected in consultation with the course instructor to ensure focus connections between the student\u2019s major, the internship and the reading chosen. .\u00a0\n On a weekly basis, in this discussion-based class, the student shares their ideas about their text\n and how it relates to their internship. They respond to and engage with their classmates. They\n are required to spend about two hours with their text per week. They are also required to\n create a presentation, to be shared with the full group. The group is also\n responsible for providing feedback on the presentation. The presentation ultimately evolves\n into a final paper that explores the line of inquiry from their text as it is\n instantiated in their work experience. Students are graded on their discussion (40%),\n presentation (25%), and final paper (35%).",
     "instructor":"Chris Ivanov",
     "scheduled_time_start":"7:10pm",
     "scheduled_time_end":"8:25pm",
@@ -124865,7 +125002,7 @@
     "department":"Industrial Engineering and Operations Research",
     "department_code":"IEOR",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/IEOR\/E3106-20263-001\/",
-    "location":"329 Pupin Laboratories",
+    "location":"CIN ALFRED LERNE",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Engineering:Undergraduate"
@@ -126101,7 +126238,7 @@
     "department":"Industrial Engineering and Operations Research",
     "department_code":"IEOR",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/IEOR\/E4007-20263-001\/",
-    "location":"CIN ALFRED LERNE",
+    "location":"329 Pupin Laboratories",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Engineering:Graduate"
@@ -126576,6 +126713,33 @@
     ],
     "scheduled_days":null,
     "section_key":"20263IEOR4150EV01",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"IEOR E4150",
+    "course_title":"INTRO-PROBABILITY & STATISTICS",
+    "course_descr":null,
+    "instructor":"Eric Stratman",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"20697",
+    "campus":null,
+    "class_id":"E4150-20263-C01",
+    "course_subtitle":"INTRO-PROBABILITY & STATI",
+    "department":"Video Network",
+    "department_code":"IEOR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/IEOR\/E4150-20263-C01\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Engineering:Graduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263IEOR4150EC01",
     "type":"LECTURE"
   },
   {
@@ -129739,7 +129903,7 @@
     "department":"Industrial Engineering and Operations Research",
     "department_code":"IEOR",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/IEOR\/E8100-20263-004\/",
-    "location":null,
+    "location":"415 Schapiro [SCEP]",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"3",
@@ -152591,7 +152755,7 @@
     "department":"Middle Eastern, South Asian and African Studies",
     "department_code":"MDES",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/MDES\/G5000-20263-001\/",
-    "location":"208 Knox Hall",
+    "location":"403 Knox Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
       "GSAS"
@@ -188321,7 +188485,7 @@
     "department":"Physics",
     "department_code":"PHYS",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/PHYS\/W1404-20263-017\/",
-    "location":null,
+    "location":"511 Hamilton Hall",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"0",
@@ -196818,6 +196982,31 @@
     ],
     "scheduled_days":null,
     "section_key":"20263POLS3901W005",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"POLS UN3901",
+    "course_title":"INDEPENDENT RESEARCH I",
+    "course_descr":null,
+    "instructor":"Xiaobo Lu",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"20693",
+    "campus":null,
+    "class_id":"W3901-20263-006",
+    "course_subtitle":null,
+    "department":"Political Science",
+    "department_code":"POLS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/POLS\/W3901-20263-006\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"1-6",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263POLS3901W006",
     "type":"INDEPENDENT"
   },
   {
@@ -232260,8 +232449,8 @@
     "course_title":"RECITATION FOR LINEAR REGRESSION MODELS",
     "course_descr":"Recitation for STATGR5205 zero credits, not mandatory",
     "instructor":"Gabriel Young",
-    "scheduled_time_start":"1:10pm",
-    "scheduled_time_end":"2:25pm",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"11:25am",
     "call_number":"20189",
     "campus":null,
     "class_id":"G5005-20263-001",
@@ -232269,7 +232458,7 @@
     "department":"Statistics",
     "department_code":"STAT",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/STAT\/G5005-20263-001\/",
-    "location":"402 Chandler",
+    "location":null,
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"0",
@@ -232314,8 +232503,8 @@
     "course_title":"RECITATION FOR LINEAR REGRESSION MODELS",
     "course_descr":"Recitation for STATGR5205 zero credits, not mandatory",
     "instructor":"Gabriel Young",
-    "scheduled_time_start":"2:40pm",
-    "scheduled_time_end":"3:55pm",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"7:25pm",
     "call_number":"20191",
     "campus":null,
     "class_id":"G5005-20263-003",
@@ -232323,7 +232512,7 @@
     "department":"Statistics",
     "department_code":"STAT",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/STAT\/G5005-20263-003\/",
-    "location":"402 Chandler",
+    "location":null,
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"0",
@@ -232332,7 +232521,7 @@
         "GR5205"
       ]
     ],
-    "scheduled_days":"F",
+    "scheduled_days":"R",
     "section_key":"20263STAT5005G003",
     "type":"RECITATION"
   },
@@ -240567,7 +240756,7 @@
   {
     "course_code":"THEA AR9800",
     "course_title":"THEATRE RESEARCH ARTS INTERNSHIP",
-    "course_descr":null,
+    "course_descr":"Theatre Program students in the Directing, Dramaturgy, Playwriting, and Stage Management concentrations must complete at least two (2) internships to graduate. Theatre Management and Producing must complete three (3) internships to\u00a0graduate. These provide\u00a0exposure to and experience\u00a0in a professional theatre beyond the classroom. This requirement cannot be waived.\u00a0\n\u200b\u200b\u200b\u200b\u200b\u200b\u200b",
     "instructor":"John Haas",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
