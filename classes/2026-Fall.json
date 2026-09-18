@@ -11555,7 +11555,7 @@
     "course_code":"ANTH UN3997",
     "course_title":"SUPERVISED INDIVIDUAL RESEARCH",
     "course_descr":"Prerequisite: the written permission of the staff member under whose supervision the research will be conducted.",
-    "instructor":null,
+    "instructor":"Radhika Govindrajan",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"16834",
@@ -59154,7 +59154,7 @@
     "department":"Computer Science",
     "department_code":"COMS",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMS\/W4995-20263-008\/",
-    "location":"825 Seeley W. Mudd Building",
+    "location":"1127 Seeley W. Mudd Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Business",
@@ -69979,7 +69979,7 @@
     "department":"Economics @Barnard",
     "department_code":"ECON",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ECON\/X1013-20263-003\/",
-    "location":null,
+    "location":"307 Milbank Hall (Barnard)",
     "method_of_instruction":null,
     "open_to":null,
     "points":"0",
@@ -70004,14 +70004,14 @@
     "department":"Economics @Barnard",
     "department_code":"ECON",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ECON\/X1013-20263-004\/",
-    "location":null,
+    "location":"307 Milbank Hall (Barnard)",
     "method_of_instruction":null,
     "open_to":null,
     "points":"0",
     "prerequisites":[
 
     ],
-    "scheduled_days":"TW",
+    "scheduled_days":"T",
     "section_key":"20263ECON1013X004",
     "type":"RECITATION"
   },
@@ -70079,7 +70079,7 @@
     "department":"Economics @Barnard",
     "department_code":"ECON",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ECON\/X1013-20263-007\/",
-    "location":null,
+    "location":"307 Milbank Hall (Barnard)",
     "method_of_instruction":null,
     "open_to":null,
     "points":"0",
@@ -70983,7 +70983,7 @@
     "department":"Economics @Barnard",
     "department_code":"ECON",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ECON\/X3135-20263-002\/",
-    "location":null,
+    "location":"307 Milbank Hall (Barnard)",
     "method_of_instruction":null,
     "open_to":null,
     "points":"0",
@@ -71008,7 +71008,7 @@
     "department":"Economics @Barnard",
     "department_code":"ECON",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ECON\/X3135-20263-003\/",
-    "location":null,
+    "location":"307 Milbank Hall (Barnard)",
     "method_of_instruction":null,
     "open_to":null,
     "points":"0",
@@ -73982,10 +73982,10 @@
   {
     "course_code":"ECON UN3026",
     "course_title":"FINANCIAL ECONOMICS - DISC",
-    "course_descr":null,
+    "course_descr":"Prerequisites: (ECON BC3035 or ECON UN3211) The purpose of the course is to think about public policy issues through an economic lens. We will explore the basic economic foundations of individual decision-making and discuss the ways in which economists hypothesize that individuals respond to the incentives embedded within public policies. We will pay particular attention to the nature and detail of existing public policies, and use economic analysis to predict how these policies might influence behavior. We will also explore some of the relevant empirical literature on a set of policy topics, to see how these predictions hold up.",
     "instructor":null,
-    "scheduled_time_start":"2:10pm",
-    "scheduled_time_end":"3:00pm",
+    "scheduled_time_start":"10:00am",
+    "scheduled_time_end":"12:00pm",
     "call_number":"01140",
     "campus":null,
     "class_id":"V3026-20263-001",
@@ -73993,15 +73993,46 @@
     "department":"Economics @Barnard",
     "department_code":"ECON",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ECON\/V3026-20263-001\/",
-    "location":null,
+    "location":"328 Milbank Hall (Barnard)",
     "method_of_instruction":null,
     "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "ECON BC3035",
+        "ECON UN3211"
+      ]
     ],
-    "scheduled_days":"R",
+    "scheduled_days":"F",
     "section_key":"20263ECON3026V001",
+    "type":"DISCUSSION"
+  },
+  {
+    "course_code":"ECON UN3026",
+    "course_title":"FINANCIAL ECONOMICS - DISC",
+    "course_descr":"Prerequisites: (ECON BC3035 or ECON UN3211) The purpose of the course is to think about public policy issues through an economic lens. We will explore the basic economic foundations of individual decision-making and discuss the ways in which economists hypothesize that individuals respond to the incentives embedded within public policies. We will pay particular attention to the nature and detail of existing public policies, and use economic analysis to predict how these policies might influence behavior. We will also explore some of the relevant empirical literature on a set of policy topics, to see how these predictions hold up.",
+    "instructor":null,
+    "scheduled_time_start":"1:00pm",
+    "scheduled_time_end":"3:00pm",
+    "call_number":"01141",
+    "campus":null,
+    "class_id":"V3026-20263-002",
+    "course_subtitle":"FINANCIAL ECONOMICS - DIS",
+    "department":"Economics @Barnard",
+    "department_code":"ECON",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ECON\/V3026-20263-002\/",
+    "location":"328 Milbank Hall (Barnard)",
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+      [
+        "ECON BC3035",
+        "ECON UN3211"
+      ]
+    ],
+    "scheduled_days":"F",
+    "section_key":"20263ECON3026V002",
     "type":"DISCUSSION"
   },
   {
@@ -93224,7 +93255,7 @@
     "department":"English and Comparative Literature",
     "department_code":"ENGL",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/W4132-20263-001\/",
-    "location":"REN KRAFT CENTER",
+    "location":"C03 School of Social Work",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Architecture",
@@ -102999,6 +103030,7 @@
     "location":"403 Dodge Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
+      "Architecture",
       "GSAS",
       "Professional Studies",
       "Schools of the Arts"
@@ -107766,6 +107798,31 @@
     "scheduled_days":null,
     "section_key":"20263FREN3036X001",
     "type":"LECTURE"
+  },
+  {
+    "course_code":"FREN BC3099",
+    "course_title":"INDEPENDENT STUDY",
+    "course_descr":null,
+    "instructor":"Brian D O'Keeffe",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"01142",
+    "campus":null,
+    "class_id":"X3099-20263-002",
+    "course_subtitle":null,
+    "department":"French @Barnard",
+    "department_code":"FREN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FREN\/X3099-20263-002\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"1-4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263FREN3099X002",
+    "type":"INDEPENDENT"
   },
   {
     "course_code":"FREN BC3101",
@@ -116029,6 +116086,33 @@
     "type":"INDEPENDENT"
   },
   {
+    "course_code":"HIST GR9000",
+    "course_title":"DIRECTED CLASS READINGS",
+    "course_descr":"Prerequisites: the instructors and the departments permission. To register for G9000, students must request a section number from the departments graduate administrator.",
+    "instructor":"Frank Guridy",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"20804",
+    "campus":null,
+    "class_id":"G9000-20263-002",
+    "course_subtitle":null,
+    "department":"History",
+    "department_code":"HIST",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HIST\/G9000-20263-002\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"1-4",
+    "prerequisites":[
+      [
+        "G9000"
+      ]
+    ],
+    "scheduled_days":null,
+    "section_key":"20263HIST9000G002",
+    "type":"INDEPENDENT"
+  },
+  {
     "course_code":"HIST GR9999",
     "course_title":"SEMINAR IN TEACHING",
     "course_descr":"History Doctoral students who are for TAs for a course must enroll in this independent study seminar. The DGS is always listed as instructor.",
@@ -121600,7 +121684,7 @@
     "department":"Barnard College",
     "department_code":"HUMA",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/HUMA\/X1111-20263-003\/",
-    "location":"237 Milbank Hall (Barnard)",
+    "location":"327 Milbank Hall (Barnard)",
     "method_of_instruction":null,
     "open_to":null,
     "points":"1",
@@ -126508,8 +126592,8 @@
     "course_title":"Practices in Community Building",
     "course_descr":"\u201cPolitical friendship is not an emotion, but a practice, a set of hard-won, complicated habits that are used to bridge trouble, difficulty, and differences of personality, experience, and aspiration.\u201d \u2013 Danielle Allen, \nTalking to Strangers\n  \n\u00a0\n  \nWhat does it take to build community on a campus made up of diverse sets of experiences, backgrounds, and perspectives? What sorts of communities are possible under the conditions of pluralism where we cannot take for granted that people in our community share similar interests or are making the same assumptions about political, social, or cultural goods? Is it possible to build something we would call friendship among people who experience social and political complexities differently, especially given the welter of feelings--rage and compassion, joy, fear, and sorrow--that course through us all?\n  \n\u00a0\n  \nTo claim, taking cues from the above quote from Danielle Allen, that building community requires learning practices or habits of engagement frames these questions in a particular way. It insists that communities are forged through embodied efforts and actions. What are the sorts of social practices and social habits--the doings--that help build communities marked by pluralistic cross-pressures? How does one learn these practices and habits? What traditions and examples can we call on?\n  \n\u00a0\n  \nIn this class, we will through the explicit and implicit norms that qualitatively shape community, norms such as:\n  \n\u00a0\n  \n  \nTo what degree and how should the pain of others be recognized?\n  \nHow important is a \u201chermeneutics of generosity\u201d in community building, which begins with trying to understand the other\u2019s intentions before judging or criticizing them?\n  \nHow does self-criticism and criticism of others function in community?\n  \nHow important is dialogue, and of what sorts, to building forms of political friendship? Exchange of ideas--dialogue--may be necessary, but our focus on practice and habits also casts a skeptical eye on the notion that community rests solely or primarily on evaluating the soundness of propositions. History is replete with other social practices--story-telling, song, listening, dance--that carry and convey real discursive value.\n \n  \nInformed by selected readings rooted in the themes of the Core Curriculum, students will envision and develop projects that appeal to their interests, which they will bring to fruiti",
     "instructor":"Asya Tsaturyan",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"10:00am",
+    "scheduled_time_end":"12:00pm",
     "call_number":"19965",
     "campus":null,
     "class_id":"C3000-20263-001",
@@ -126524,7 +126608,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"F",
     "section_key":"20263HUMA3000C001",
     "type":"SEMINAR"
   },
@@ -127515,9 +127599,7 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/IEOR\/E3900-20263-030\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":[
-      "Engineering:Undergraduate"
-    ],
+    "open_to":null,
     "points":"1-3",
     "prerequisites":[
 
@@ -144071,7 +144153,7 @@
     "location":null,
     "method_of_instruction":"In-Person",
     "open_to":null,
-    "points":"3",
+    "points":"4",
     "prerequisites":[
 
     ],
@@ -186881,6 +186963,31 @@
     "type":"RECITATION"
   },
   {
+    "course_code":"PHIL UN3611",
+    "course_title":"METAPHYSICS-REC",
+    "course_descr":null,
+    "instructor":"Saikeerthi Rachavelpula",
+    "scheduled_time_start":"5:10pm",
+    "scheduled_time_end":"6:00pm",
+    "call_number":"20805",
+    "campus":null,
+    "class_id":"V3611-20263-003",
+    "course_subtitle":null,
+    "department":"Philosophy",
+    "department_code":"PHIL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PHIL\/V3611-20263-003\/",
+    "location":"716 Philosophy Hall",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20263PHIL3611V003",
+    "type":"RECITATION"
+  },
+  {
     "course_code":"PHIL UN3655",
     "course_title":"TOPICS IN COGNITIVE SCIENCE AND PHILOSOP",
     "course_descr":"This course will focus on one topic at the intersection of cognitive science and philosophy. Potential topics include free will, consciousness, modularity, mental representation, probabilistic inference, the language of thought, and the computational theory of mind.",
@@ -194918,6 +195025,31 @@
     "type":"INTERNSHIP"
   },
   {
+    "course_code":"POLI GR8040",
+    "course_title":"DIR RSCH 20TH CENT POLISH LIT",
+    "course_descr":null,
+    "instructor":"Christopher Caes",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"20645",
+    "campus":null,
+    "class_id":"G8040-20263-001",
+    "course_subtitle":"DIR RSCH 20TH CENT POLISH",
+    "department":"Slavic Languages",
+    "department_code":"POLI",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/POLI\/G8040-20263-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"1-4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263POLI8040G001",
+    "type":"INDEPENDENT"
+  },
+  {
     "course_code":"POLI UN1101",
     "course_title":"ELEMENTARY POLISH I",
     "course_descr":"Essentials of the spoken and written language. Prepares students to read texts of moderate difficulty by the end of the first year.",
@@ -201914,7 +202046,7 @@
     "course_code":"PSCA M9961",
     "course_title":"ADOLESCENT & EMERGING ADULT PSYCHOANALYS",
     "course_descr":null,
-    "instructor":"Timothy R Rice",
+    "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"17901",
@@ -201939,7 +202071,7 @@
     "course_code":"PSCA M9963",
     "course_title":"ADOLESCENT CONTINUING CASE CONFERENCE I",
     "course_descr":null,
-    "instructor":"Timothy R Rice",
+    "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"17925",
@@ -202691,7 +202823,7 @@
     "department":"Psychology @Barnard",
     "department_code":"PSYC",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/PSYC\/X1099-20263-001\/",
-    "location":"418 Barnard Hall",
+    "location":"237 Milbank Hall (Barnard)",
     "method_of_instruction":null,
     "open_to":[
       "Columbia College",
@@ -210368,7 +210500,7 @@
     "department":"Religion",
     "department_code":"RELI",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/RELI\/V2305-20263-001\/",
-    "location":"330 Riverside Church",
+    "location":"417 Mathematics Building",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"4",
@@ -234885,7 +235017,7 @@
     "call_number":"20180",
     "campus":null,
     "class_id":"G5006-20263-001",
-    "course_subtitle":"Prog for Data Sci Recitat",
+    "course_subtitle":"RECITATION FOR PROGAM FOR",
     "department":"Statistics",
     "department_code":"STAT",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/STAT\/G5006-20263-001\/",
@@ -234939,7 +235071,7 @@
     "call_number":"20182",
     "campus":null,
     "class_id":"G5006-20263-003",
-    "course_subtitle":"Prog for Data Sci Recitat",
+    "course_subtitle":"RECITATION FOR PROGAM FOR",
     "department":"Statistics",
     "department_code":"STAT",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/STAT\/G5006-20263-003\/",
@@ -237314,7 +237446,7 @@
     "course_code":"STAT GU4003",
     "course_title":"RECITATION FOR PROBABILITY THEORY",
     "course_descr":"adding zero credit recitation to STAT\u00a04203UN PROBABILITY THEORY for Fall 2026",
-    "instructor":null,
+    "instructor":"Arian Maleki",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"7:25pm",
     "call_number":"20237",
@@ -237339,7 +237471,7 @@
     "course_code":"STAT GU4003",
     "course_title":"RECITATION FOR PROBABILITY THEORY",
     "course_descr":"adding zero credit recitation to STAT\u00a04203UN PROBABILITY THEORY for Fall 2026",
-    "instructor":null,
+    "instructor":"Arian Maleki",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"3:25pm",
     "call_number":"20238",
@@ -237364,9 +237496,9 @@
     "course_code":"STAT GU4003",
     "course_title":"RECITATION FOR PROBABILITY THEORY",
     "course_descr":"adding zero credit recitation to STAT\u00a04203UN PROBABILITY THEORY for Fall 2026",
-    "instructor":null,
-    "scheduled_time_start":"10:10am",
-    "scheduled_time_end":"11:25am",
+    "instructor":"Richard Davis",
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"2:25pm",
     "call_number":"20239",
     "campus":null,
     "class_id":"W4003-20263-003",
@@ -237374,7 +237506,7 @@
     "department":"Statistics",
     "department_code":"STAT",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/STAT\/W4003-20263-003\/",
-    "location":"516 Hamilton Hall",
+    "location":null,
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"0",
@@ -237408,6 +237540,31 @@
     ],
     "scheduled_days":"F",
     "section_key":"20263STAT4003W004",
+    "type":"RECITATION"
+  },
+  {
+    "course_code":"STAT GU4003",
+    "course_title":"RECITATION FOR PROBABILITY THEORY",
+    "course_descr":"adding zero credit recitation to STAT\u00a04203UN PROBABILITY THEORY for Fall 2026",
+    "instructor":"Richard Davis",
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"3:25pm",
+    "call_number":"20808",
+    "campus":null,
+    "class_id":"W4003-20263-005",
+    "course_subtitle":"REC FOR PROBABILITY THEOR",
+    "department":"Statistics",
+    "department_code":"STAT",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/STAT\/W4003-20263-005\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20263STAT4003W005",
     "type":"RECITATION"
   },
   {
@@ -238819,7 +238976,7 @@
     "call_number":"14555",
     "campus":null,
     "class_id":"W1102-20263-002",
-    "course_subtitle":"Intro to Statistics Recit",
+    "course_subtitle":"RECITATION FOR INTRO TO S",
     "department":"Statistics",
     "department_code":"STAT",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/STAT\/W1102-20263-002\/",
@@ -238873,7 +239030,7 @@
     "call_number":"14557",
     "campus":null,
     "class_id":"W1102-20263-004",
-    "course_subtitle":"Intro to Statistics Recit",
+    "course_subtitle":"RECITATION FOR INTRO TO S",
     "department":"Statistics",
     "department_code":"STAT",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/STAT\/W1102-20263-004\/",
@@ -239177,7 +239334,12 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/STAT\/W1202-20263-002\/",
     "location":"310 Fayerweather",
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "General Studies",
+      "Professional Studies"
+    ],
     "points":"0",
     "prerequisites":[
       [
@@ -239198,13 +239360,18 @@
     "call_number":"20492",
     "campus":null,
     "class_id":"W1202-20263-003",
-    "course_subtitle":"REC - CALC-BASED INTRO ST",
+    "course_subtitle":"RECITATION CALC-BAS INTRO",
     "department":"Statistics",
     "department_code":"STAT",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/STAT\/W1202-20263-003\/",
     "location":"313 Fayerweather",
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "General Studies",
+      "Professional Studies"
+    ],
     "points":"0",
     "prerequisites":[
       [
@@ -239225,13 +239392,18 @@
     "call_number":"20493",
     "campus":null,
     "class_id":"W1202-20263-004",
-    "course_subtitle":"REC - CALC-BASED INTRO ST",
+    "course_subtitle":"RECITATION CALC-BAS INTRO",
     "department":"Statistics",
     "department_code":"STAT",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/STAT\/W1202-20263-004\/",
     "location":"C03 School of Social Work",
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "General Studies",
+      "Professional Studies"
+    ],
     "points":"0",
     "prerequisites":[
       [
@@ -239252,13 +239424,18 @@
     "call_number":"20494",
     "campus":null,
     "class_id":"W1202-20263-005",
-    "course_subtitle":"REC - CALC-BASED INTRO ST",
+    "course_subtitle":"RECITATION CALC-BAS INTRO",
     "department":"Statistics",
     "department_code":"STAT",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/STAT\/W1202-20263-005\/",
     "location":"C03 School of Social Work",
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "General Studies",
+      "Professional Studies"
+    ],
     "points":"0",
     "prerequisites":[
       [
@@ -239279,13 +239456,18 @@
     "call_number":"20495",
     "campus":null,
     "class_id":"W1202-20263-006",
-    "course_subtitle":"REC - CALC-BASED INTRO ST",
+    "course_subtitle":"RECITATION CALC-BAS INTRO",
     "department":"Statistics",
     "department_code":"STAT",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/STAT\/W1202-20263-006\/",
     "location":"503 Hamilton Hall",
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "General Studies",
+      "Professional Studies"
+    ],
     "points":"0",
     "prerequisites":[
       [
@@ -239312,7 +239494,12 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/STAT\/W1202-20263-007\/",
     "location":"503 Hamilton Hall",
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "General Studies",
+      "Professional Studies"
+    ],
     "points":"0",
     "prerequisites":[
       [
@@ -239339,7 +239526,12 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/STAT\/W1202-20263-008\/",
     "location":"C06 School of Social Work",
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "General Studies",
+      "Professional Studies"
+    ],
     "points":"0",
     "prerequisites":[
       [
@@ -239366,7 +239558,12 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/STAT\/W1202-20263-009\/",
     "location":"214 Pupin Laboratories",
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "General Studies",
+      "Professional Studies"
+    ],
     "points":"0",
     "prerequisites":[
       [
@@ -239393,7 +239590,12 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/STAT\/W1202-20263-010\/",
     "location":"516 Hamilton Hall",
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "General Studies",
+      "Professional Studies"
+    ],
     "points":"0",
     "prerequisites":[
       [
@@ -239414,13 +239616,18 @@
     "call_number":"20500",
     "campus":null,
     "class_id":"W1202-20263-011",
-    "course_subtitle":"REC - CALC-BASED INTRO ST",
+    "course_subtitle":"RECITATION CALC-BAS INTRO",
     "department":"Statistics",
     "department_code":"STAT",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/STAT\/W1202-20263-011\/",
     "location":"503 Hamilton Hall",
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "General Studies",
+      "Professional Studies"
+    ],
     "points":"0",
     "prerequisites":[
       [
@@ -241802,6 +242009,31 @@
     ],
     "scheduled_days":null,
     "section_key":"20263SUMA5997K001",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"SUMA PS5998",
+    "course_title":"INDEPENDENT STUDY",
+    "course_descr":"Independent Study is a 1.5 credit course that can count toward the curriculum area requirement in Integrative Sustainability Management, Economics and Quantitative Analysis, Physical Dimensions, Public Policy, General and Financial Management, or Elective, with the approval of the faculty advisor. A final deliverable relating to the Sustainability Management curriculum is required at the end of the semester, and will be evaluated for a letter grade by the faculty advisor and reported to the SUMA program office.",
+    "instructor":"Maria L Gray",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"20807",
+    "campus":null,
+    "class_id":"K5998-20263-001",
+    "course_subtitle":null,
+    "department":"Sustainability Management",
+    "department_code":"SUMA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SUMA\/K5998-20263-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"1.5",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263SUMA5998K001",
     "type":"INDEPENDENT"
   },
   {
