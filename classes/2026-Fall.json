@@ -128385,6 +128385,33 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"IEOR E4106",
+    "course_title":"STOCHASTIC MODELS",
+    "course_descr":null,
+    "instructor":"David D Yao",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"20827",
+    "campus":null,
+    "class_id":"E4106-20263-C01",
+    "course_subtitle":null,
+    "department":"Video Network",
+    "department_code":"IEOR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/IEOR\/E4106-20263-C01\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Engineering:Graduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263IEOR4106EC01",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"IEOR E4108",
     "course_title":"SUPPLY CHAIN ANALYTICS",
     "course_descr":"Supply chain management, model design of a supply chain network, inventories, stock systems, commonly used inventory models, supply contracts, value of information and information sharing, risk pooling, design for postponement, managing product variety, information technology and supply chain management; international and environmental issues. Note: replaced IEOR E4000 beginning in fall 2018.",
@@ -152055,9 +152082,7 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/MATH\/G5220-20263-001\/",
     "location":"417 Mathematics Building",
     "method_of_instruction":"In-Person",
-    "open_to":[
-      "GSAS"
-    ],
+    "open_to":null,
     "points":"3",
     "prerequisites":[
 
@@ -158999,6 +159024,33 @@
     ],
     "scheduled_days":null,
     "section_key":"20263MECE4602EV01",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"MECE E4602",
+    "course_title":"INTRODUCTION TO ROBOTICS",
+    "course_descr":null,
+    "instructor":"Sunil Agrawal",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"20828",
+    "campus":null,
+    "class_id":"E4602-20263-C01",
+    "course_subtitle":null,
+    "department":"Video Network",
+    "department_code":"MECE",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/MECE\/E4602-20263-C01\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Engineering:Graduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263MECE4602EC01",
     "type":"LECTURE"
   },
   {
@@ -182495,7 +182547,8 @@
     "method_of_instruction":"In-Person",
     "open_to":[
       "Columbia College",
-      "Engineering:Undergraduate"
+      "Engineering:Undergraduate",
+      "General Studies"
     ],
     "points":"1",
     "prerequisites":[
@@ -184188,6 +184241,35 @@
     "type":"PHYSICAL EDU"
   },
   {
+    "course_code":"PHED UN1003",
+    "course_title":"Club Sports",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"20826",
+    "campus":null,
+    "class_id":"W1003-20263-017",
+    "course_subtitle":"Water Polo - Men's",
+    "department":"Physical Education",
+    "department_code":"PHED",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PHED\/W1003-20263-017\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "General Studies"
+    ],
+    "points":"1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263PHED1003W017",
+    "type":"PHYSICAL EDU"
+  },
+  {
     "course_code":"PHED UN1005",
     "course_title":"INTERCOLLEGIATE ATHLETICS",
     "course_descr":"Archery, Mens\/Womens Golf, Baseball, Womens Lacrosse, Womens Basketball, Womens Soccer, Mens Basketball, Mens Soccer, Womens Rowing, Womens Softball, Mens Freshman Light Row, Womens Swimming, Mens Freshman Heavy Row, Mens Swimming, Mens Varsity Light Row, Womens Tennis, Mens Varsity Heavy Row, Mens Tennis, Womens Fencing, Womens Track, Mens Fencing, Mens Track, Womens Field Hockey, Womens Volleyball, Football, Wrestling, Womens Squash, and Mens Squash.",
@@ -184290,7 +184372,8 @@
     "method_of_instruction":"In-Person",
     "open_to":[
       "Columbia College",
-      "Engineering:Undergraduate"
+      "Engineering:Undergraduate",
+      "General Studies"
     ],
     "points":"0-1",
     "prerequisites":[
@@ -184346,7 +184429,8 @@
     "method_of_instruction":"In-Person",
     "open_to":[
       "Columbia College",
-      "Engineering:Undergraduate"
+      "Engineering:Undergraduate",
+      "General Studies"
     ],
     "points":"0-1",
     "prerequisites":[
@@ -184515,7 +184599,8 @@
     "method_of_instruction":"In-Person",
     "open_to":[
       "Columbia College",
-      "Engineering:Undergraduate"
+      "Engineering:Undergraduate",
+      "General Studies"
     ],
     "points":"0-1",
     "prerequisites":[
@@ -184797,7 +184882,8 @@
     "method_of_instruction":"In-Person",
     "open_to":[
       "Columbia College",
-      "Engineering:Undergraduate"
+      "Engineering:Undergraduate",
+      "General Studies"
     ],
     "points":"0-1",
     "prerequisites":[
@@ -185023,7 +185109,8 @@
     "method_of_instruction":"In-Person",
     "open_to":[
       "Columbia College",
-      "Engineering:Undergraduate"
+      "Engineering:Undergraduate",
+      "General Studies"
     ],
     "points":"1",
     "prerequisites":[
@@ -186716,6 +186803,31 @@
     ],
     "scheduled_days":"T",
     "section_key":"20263PHIL2111V001",
+    "type":"RECITATION"
+  },
+  {
+    "course_code":"PHIL UN2111",
+    "course_title":"HIST-PHIL:PRE-SOCRATCS-AUGUSTN",
+    "course_descr":null,
+    "instructor":"Jack Romp",
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"2:00pm",
+    "call_number":"20829",
+    "campus":null,
+    "class_id":"V2111-20263-003",
+    "course_subtitle":"REC:HIST-PHIL:PRE-SOCRAT-AUGUS",
+    "department":"Philosophy",
+    "department_code":"PHIL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PHIL\/V2111-20263-003\/",
+    "location":"716 Philosophy Hall",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20263PHIL2111V003",
     "type":"RECITATION"
   },
   {
