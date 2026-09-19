@@ -21973,31 +21973,6 @@
     "type":"CLINIC"
   },
   {
-    "course_code":"MD__ M25P_",
-    "course_title":"Cardiology Subintership",
-    "course_descr":null,
-    "instructor":null,
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
-    "call_number":"10469",
-    "campus":null,
-    "class_id":"N25P_-20271-SPR",
-    "course_subtitle":"Cardiology Subinternship",
-    "department":"Medicine",
-    "department_code":"MD__",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/MD__\/N25P_-20271-SPR\/",
-    "location":null,
-    "method_of_instruction":"In-Person",
-    "open_to":null,
-    "points":"0",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":null,
-    "section_key":"20271MD__25P_NSPR",
-    "type":"CLINIC"
-  },
-  {
     "course_code":"MD__ MIC02",
     "course_title":"Elective in Integrative Medicine",
     "course_descr":null,
@@ -22745,6 +22720,31 @@
     ],
     "scheduled_days":null,
     "section_key":"20271MD__045HNFAL",
+    "type":"CLINIC"
+  },
+  {
+    "course_code":"MD__ OC25P_",
+    "course_title":"Cardiology Subintership",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"10469",
+    "campus":null,
+    "class_id":"N25P_-20271-SPR",
+    "course_subtitle":"Cardiology Subinternship",
+    "department":"Medicine",
+    "department_code":"MD__",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/MD__\/N25P_-20271-SPR\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271MD__25P_NSPR",
     "type":"CLINIC"
   },
   {
@@ -35112,7 +35112,7 @@
   {
     "course_code":"SIPA IA9000",
     "course_title":"Capstone Workshop",
-    "course_descr":null,
+    "course_descr":"Prerequisite: Course Application. \nA Capstone Workshop\u00a0is a live consulting project with an external client outside of SIPA. Each workshop\u00a0partners a team of about 6 graduate students\u00a0with a faculty advisor.\u00a0The goal is to provide clients with innovative analysis and practical recommendations while SIPA students gain experience by working on a real-world problem.\u00a0A core requirement for the\u00a0Master of International Affairs (MIA),\u00a0Master of Public Administration (MPA), the workshops give students an opportunity to put learning into practice. Serving as their culminating educational experience at SIPA, students work in teams of 6-8 students under the guidance of an expert faculty advisor to work on a real-world consultancy project with an external client.\u00a0For more information, visit: \nhttps:\/\/www.sipa.columbia.edu\/sipa-education\/capstone-workshops.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -35125,7 +35125,9 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U9000-20271-056\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "SIPA"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -35137,7 +35139,7 @@
   {
     "course_code":"SIPA IA9000",
     "course_title":"Capstone Workshop",
-    "course_descr":null,
+    "course_descr":"Prerequisite: Course Application. \nA Capstone Workshop\u00a0is a live consulting project with an external client outside of SIPA. Each workshop\u00a0partners a team of about 6 graduate students\u00a0with a faculty advisor.\u00a0The goal is to provide clients with innovative analysis and practical recommendations while SIPA students gain experience by working on a real-world problem.\u00a0A core requirement for the\u00a0Master of International Affairs (MIA),\u00a0Master of Public Administration (MPA), the workshops give students an opportunity to put learning into practice. Serving as their culminating educational experience at SIPA, students work in teams of 6-8 students under the guidance of an expert faculty advisor to work on a real-world consultancy project with an external client.\u00a0For more information, visit: \nhttps:\/\/www.sipa.columbia.edu\/sipa-education\/capstone-workshops.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -35150,7 +35152,9 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U9000-20271-057\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "SIPA"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -35162,7 +35166,7 @@
   {
     "course_code":"SIPA IA9000",
     "course_title":"Capstone Workshop",
-    "course_descr":null,
+    "course_descr":"Prerequisite: Course Application. \nA Capstone Workshop\u00a0is a live consulting project with an external client outside of SIPA. Each workshop\u00a0partners a team of about 6 graduate students\u00a0with a faculty advisor.\u00a0The goal is to provide clients with innovative analysis and practical recommendations while SIPA students gain experience by working on a real-world problem.\u00a0A core requirement for the\u00a0Master of International Affairs (MIA),\u00a0Master of Public Administration (MPA), the workshops give students an opportunity to put learning into practice. Serving as their culminating educational experience at SIPA, students work in teams of 6-8 students under the guidance of an expert faculty advisor to work on a real-world consultancy project with an external client.\u00a0For more information, visit: \nhttps:\/\/www.sipa.columbia.edu\/sipa-education\/capstone-workshops.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -35175,7 +35179,9 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U9000-20271-058\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "SIPA"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -35187,7 +35193,7 @@
   {
     "course_code":"SIPA IA9000",
     "course_title":"Capstone Workshop",
-    "course_descr":null,
+    "course_descr":"Prerequisite: Course Application. \nA Capstone Workshop\u00a0is a live consulting project with an external client outside of SIPA. Each workshop\u00a0partners a team of about 6 graduate students\u00a0with a faculty advisor.\u00a0The goal is to provide clients with innovative analysis and practical recommendations while SIPA students gain experience by working on a real-world problem.\u00a0A core requirement for the\u00a0Master of International Affairs (MIA),\u00a0Master of Public Administration (MPA), the workshops give students an opportunity to put learning into practice. Serving as their culminating educational experience at SIPA, students work in teams of 6-8 students under the guidance of an expert faculty advisor to work on a real-world consultancy project with an external client.\u00a0For more information, visit: \nhttps:\/\/www.sipa.columbia.edu\/sipa-education\/capstone-workshops.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -35200,7 +35206,9 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U9000-20271-059\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "SIPA"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -35212,7 +35220,7 @@
   {
     "course_code":"SIPA IA9000",
     "course_title":"Capstone Workshop",
-    "course_descr":null,
+    "course_descr":"Prerequisite: Course Application. \nA Capstone Workshop\u00a0is a live consulting project with an external client outside of SIPA. Each workshop\u00a0partners a team of about 6 graduate students\u00a0with a faculty advisor.\u00a0The goal is to provide clients with innovative analysis and practical recommendations while SIPA students gain experience by working on a real-world problem.\u00a0A core requirement for the\u00a0Master of International Affairs (MIA),\u00a0Master of Public Administration (MPA), the workshops give students an opportunity to put learning into practice. Serving as their culminating educational experience at SIPA, students work in teams of 6-8 students under the guidance of an expert faculty advisor to work on a real-world consultancy project with an external client.\u00a0For more information, visit: \nhttps:\/\/www.sipa.columbia.edu\/sipa-education\/capstone-workshops.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -35225,7 +35233,9 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U9000-20271-061\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "SIPA"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -35237,7 +35247,7 @@
   {
     "course_code":"SIPA IA9000",
     "course_title":"Capstone Workshop",
-    "course_descr":null,
+    "course_descr":"Prerequisite: Course Application. \nA Capstone Workshop\u00a0is a live consulting project with an external client outside of SIPA. Each workshop\u00a0partners a team of about 6 graduate students\u00a0with a faculty advisor.\u00a0The goal is to provide clients with innovative analysis and practical recommendations while SIPA students gain experience by working on a real-world problem.\u00a0A core requirement for the\u00a0Master of International Affairs (MIA),\u00a0Master of Public Administration (MPA), the workshops give students an opportunity to put learning into practice. Serving as their culminating educational experience at SIPA, students work in teams of 6-8 students under the guidance of an expert faculty advisor to work on a real-world consultancy project with an external client.\u00a0For more information, visit: \nhttps:\/\/www.sipa.columbia.edu\/sipa-education\/capstone-workshops.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -35250,7 +35260,9 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U9000-20271-062\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "SIPA"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -35262,7 +35274,7 @@
   {
     "course_code":"SIPA IA9000",
     "course_title":"Capstone Workshop",
-    "course_descr":null,
+    "course_descr":"Prerequisite: Course Application. \nA Capstone Workshop\u00a0is a live consulting project with an external client outside of SIPA. Each workshop\u00a0partners a team of about 6 graduate students\u00a0with a faculty advisor.\u00a0The goal is to provide clients with innovative analysis and practical recommendations while SIPA students gain experience by working on a real-world problem.\u00a0A core requirement for the\u00a0Master of International Affairs (MIA),\u00a0Master of Public Administration (MPA), the workshops give students an opportunity to put learning into practice. Serving as their culminating educational experience at SIPA, students work in teams of 6-8 students under the guidance of an expert faculty advisor to work on a real-world consultancy project with an external client.\u00a0For more information, visit: \nhttps:\/\/www.sipa.columbia.edu\/sipa-education\/capstone-workshops.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -35275,7 +35287,9 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U9000-20271-063\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "SIPA"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -35287,7 +35301,7 @@
   {
     "course_code":"SIPA IA9000",
     "course_title":"Capstone Workshop",
-    "course_descr":null,
+    "course_descr":"Prerequisite: Course Application. \nA Capstone Workshop\u00a0is a live consulting project with an external client outside of SIPA. Each workshop\u00a0partners a team of about 6 graduate students\u00a0with a faculty advisor.\u00a0The goal is to provide clients with innovative analysis and practical recommendations while SIPA students gain experience by working on a real-world problem.\u00a0A core requirement for the\u00a0Master of International Affairs (MIA),\u00a0Master of Public Administration (MPA), the workshops give students an opportunity to put learning into practice. Serving as their culminating educational experience at SIPA, students work in teams of 6-8 students under the guidance of an expert faculty advisor to work on a real-world consultancy project with an external client.\u00a0For more information, visit: \nhttps:\/\/www.sipa.columbia.edu\/sipa-education\/capstone-workshops.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -35300,7 +35314,9 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U9000-20271-064\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "SIPA"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -35312,7 +35328,7 @@
   {
     "course_code":"SIPA IA9000",
     "course_title":"Capstone Workshop",
-    "course_descr":null,
+    "course_descr":"Prerequisite: Course Application. \nA Capstone Workshop\u00a0is a live consulting project with an external client outside of SIPA. Each workshop\u00a0partners a team of about 6 graduate students\u00a0with a faculty advisor.\u00a0The goal is to provide clients with innovative analysis and practical recommendations while SIPA students gain experience by working on a real-world problem.\u00a0A core requirement for the\u00a0Master of International Affairs (MIA),\u00a0Master of Public Administration (MPA), the workshops give students an opportunity to put learning into practice. Serving as their culminating educational experience at SIPA, students work in teams of 6-8 students under the guidance of an expert faculty advisor to work on a real-world consultancy project with an external client.\u00a0For more information, visit: \nhttps:\/\/www.sipa.columbia.edu\/sipa-education\/capstone-workshops.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -35325,7 +35341,9 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U9000-20271-065\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "SIPA"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -35337,7 +35355,7 @@
   {
     "course_code":"SIPA IA9000",
     "course_title":"Capstone Workshop",
-    "course_descr":null,
+    "course_descr":"Prerequisite: Course Application. \nA Capstone Workshop\u00a0is a live consulting project with an external client outside of SIPA. Each workshop\u00a0partners a team of about 6 graduate students\u00a0with a faculty advisor.\u00a0The goal is to provide clients with innovative analysis and practical recommendations while SIPA students gain experience by working on a real-world problem.\u00a0A core requirement for the\u00a0Master of International Affairs (MIA),\u00a0Master of Public Administration (MPA), the workshops give students an opportunity to put learning into practice. Serving as their culminating educational experience at SIPA, students work in teams of 6-8 students under the guidance of an expert faculty advisor to work on a real-world consultancy project with an external client.\u00a0For more information, visit: \nhttps:\/\/www.sipa.columbia.edu\/sipa-education\/capstone-workshops.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -35350,7 +35368,9 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U9000-20271-066\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "SIPA"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -35362,7 +35382,7 @@
   {
     "course_code":"SIPA IA9000",
     "course_title":"Capstone Workshop",
-    "course_descr":null,
+    "course_descr":"Prerequisite: Course Application. \nA Capstone Workshop\u00a0is a live consulting project with an external client outside of SIPA. Each workshop\u00a0partners a team of about 6 graduate students\u00a0with a faculty advisor.\u00a0The goal is to provide clients with innovative analysis and practical recommendations while SIPA students gain experience by working on a real-world problem.\u00a0A core requirement for the\u00a0Master of International Affairs (MIA),\u00a0Master of Public Administration (MPA), the workshops give students an opportunity to put learning into practice. Serving as their culminating educational experience at SIPA, students work in teams of 6-8 students under the guidance of an expert faculty advisor to work on a real-world consultancy project with an external client.\u00a0For more information, visit: \nhttps:\/\/www.sipa.columbia.edu\/sipa-education\/capstone-workshops.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -35375,7 +35395,9 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U9000-20271-067\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "SIPA"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -35387,7 +35409,7 @@
   {
     "course_code":"SIPA IA9000",
     "course_title":"Capstone Workshop",
-    "course_descr":null,
+    "course_descr":"Prerequisite: Course Application. \nA Capstone Workshop\u00a0is a live consulting project with an external client outside of SIPA. Each workshop\u00a0partners a team of about 6 graduate students\u00a0with a faculty advisor.\u00a0The goal is to provide clients with innovative analysis and practical recommendations while SIPA students gain experience by working on a real-world problem.\u00a0A core requirement for the\u00a0Master of International Affairs (MIA),\u00a0Master of Public Administration (MPA), the workshops give students an opportunity to put learning into practice. Serving as their culminating educational experience at SIPA, students work in teams of 6-8 students under the guidance of an expert faculty advisor to work on a real-world consultancy project with an external client.\u00a0For more information, visit: \nhttps:\/\/www.sipa.columbia.edu\/sipa-education\/capstone-workshops.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -35400,7 +35422,9 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U9000-20271-060\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "SIPA"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -35412,7 +35436,7 @@
   {
     "course_code":"SIPA IA9000",
     "course_title":"Capstone Workshop",
-    "course_descr":null,
+    "course_descr":"Prerequisite: Course Application. \nA Capstone Workshop\u00a0is a live consulting project with an external client outside of SIPA. Each workshop\u00a0partners a team of about 6 graduate students\u00a0with a faculty advisor.\u00a0The goal is to provide clients with innovative analysis and practical recommendations while SIPA students gain experience by working on a real-world problem.\u00a0A core requirement for the\u00a0Master of International Affairs (MIA),\u00a0Master of Public Administration (MPA), the workshops give students an opportunity to put learning into practice. Serving as their culminating educational experience at SIPA, students work in teams of 6-8 students under the guidance of an expert faculty advisor to work on a real-world consultancy project with an external client.\u00a0For more information, visit: \nhttps:\/\/www.sipa.columbia.edu\/sipa-education\/capstone-workshops.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -35425,7 +35449,9 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U9000-20271-068\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "SIPA"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -35437,7 +35463,7 @@
   {
     "course_code":"SIPA IA9000",
     "course_title":"Capstone Workshop",
-    "course_descr":null,
+    "course_descr":"Prerequisite: Course Application. \nA Capstone Workshop\u00a0is a live consulting project with an external client outside of SIPA. Each workshop\u00a0partners a team of about 6 graduate students\u00a0with a faculty advisor.\u00a0The goal is to provide clients with innovative analysis and practical recommendations while SIPA students gain experience by working on a real-world problem.\u00a0A core requirement for the\u00a0Master of International Affairs (MIA),\u00a0Master of Public Administration (MPA), the workshops give students an opportunity to put learning into practice. Serving as their culminating educational experience at SIPA, students work in teams of 6-8 students under the guidance of an expert faculty advisor to work on a real-world consultancy project with an external client.\u00a0For more information, visit: \nhttps:\/\/www.sipa.columbia.edu\/sipa-education\/capstone-workshops.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -35450,7 +35476,9 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U9000-20271-069\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "SIPA"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -35462,7 +35490,7 @@
   {
     "course_code":"SIPA IA9000",
     "course_title":"Capstone Workshop",
-    "course_descr":null,
+    "course_descr":"Prerequisite: Course Application. \nA Capstone Workshop\u00a0is a live consulting project with an external client outside of SIPA. Each workshop\u00a0partners a team of about 6 graduate students\u00a0with a faculty advisor.\u00a0The goal is to provide clients with innovative analysis and practical recommendations while SIPA students gain experience by working on a real-world problem.\u00a0A core requirement for the\u00a0Master of International Affairs (MIA),\u00a0Master of Public Administration (MPA), the workshops give students an opportunity to put learning into practice. Serving as their culminating educational experience at SIPA, students work in teams of 6-8 students under the guidance of an expert faculty advisor to work on a real-world consultancy project with an external client.\u00a0For more information, visit: \nhttps:\/\/www.sipa.columbia.edu\/sipa-education\/capstone-workshops.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -35475,7 +35503,9 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U9000-20271-070\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "SIPA"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -35487,7 +35517,7 @@
   {
     "course_code":"SIPA IA9000",
     "course_title":"Capstone Workshop",
-    "course_descr":null,
+    "course_descr":"Prerequisite: Course Application. \nA Capstone Workshop\u00a0is a live consulting project with an external client outside of SIPA. Each workshop\u00a0partners a team of about 6 graduate students\u00a0with a faculty advisor.\u00a0The goal is to provide clients with innovative analysis and practical recommendations while SIPA students gain experience by working on a real-world problem.\u00a0A core requirement for the\u00a0Master of International Affairs (MIA),\u00a0Master of Public Administration (MPA), the workshops give students an opportunity to put learning into practice. Serving as their culminating educational experience at SIPA, students work in teams of 6-8 students under the guidance of an expert faculty advisor to work on a real-world consultancy project with an external client.\u00a0For more information, visit: \nhttps:\/\/www.sipa.columbia.edu\/sipa-education\/capstone-workshops.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -35500,7 +35530,9 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U9000-20271-071\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "SIPA"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -35512,7 +35544,7 @@
   {
     "course_code":"SIPA IA9000",
     "course_title":"Capstone Workshop",
-    "course_descr":null,
+    "course_descr":"Prerequisite: Course Application. \nA Capstone Workshop\u00a0is a live consulting project with an external client outside of SIPA. Each workshop\u00a0partners a team of about 6 graduate students\u00a0with a faculty advisor.\u00a0The goal is to provide clients with innovative analysis and practical recommendations while SIPA students gain experience by working on a real-world problem.\u00a0A core requirement for the\u00a0Master of International Affairs (MIA),\u00a0Master of Public Administration (MPA), the workshops give students an opportunity to put learning into practice. Serving as their culminating educational experience at SIPA, students work in teams of 6-8 students under the guidance of an expert faculty advisor to work on a real-world consultancy project with an external client.\u00a0For more information, visit: \nhttps:\/\/www.sipa.columbia.edu\/sipa-education\/capstone-workshops.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -35525,7 +35557,9 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U9000-20271-072\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "SIPA"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -35537,7 +35571,7 @@
   {
     "course_code":"SIPA IA9000",
     "course_title":"Capstone Workshop",
-    "course_descr":null,
+    "course_descr":"Prerequisite: Course Application. \nA Capstone Workshop\u00a0is a live consulting project with an external client outside of SIPA. Each workshop\u00a0partners a team of about 6 graduate students\u00a0with a faculty advisor.\u00a0The goal is to provide clients with innovative analysis and practical recommendations while SIPA students gain experience by working on a real-world problem.\u00a0A core requirement for the\u00a0Master of International Affairs (MIA),\u00a0Master of Public Administration (MPA), the workshops give students an opportunity to put learning into practice. Serving as their culminating educational experience at SIPA, students work in teams of 6-8 students under the guidance of an expert faculty advisor to work on a real-world consultancy project with an external client.\u00a0For more information, visit: \nhttps:\/\/www.sipa.columbia.edu\/sipa-education\/capstone-workshops.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -35550,7 +35584,9 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U9000-20271-073\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "SIPA"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -35562,7 +35598,7 @@
   {
     "course_code":"SIPA IA9000",
     "course_title":"Capstone Workshop",
-    "course_descr":null,
+    "course_descr":"Prerequisite: Course Application. \nA Capstone Workshop\u00a0is a live consulting project with an external client outside of SIPA. Each workshop\u00a0partners a team of about 6 graduate students\u00a0with a faculty advisor.\u00a0The goal is to provide clients with innovative analysis and practical recommendations while SIPA students gain experience by working on a real-world problem.\u00a0A core requirement for the\u00a0Master of International Affairs (MIA),\u00a0Master of Public Administration (MPA), the workshops give students an opportunity to put learning into practice. Serving as their culminating educational experience at SIPA, students work in teams of 6-8 students under the guidance of an expert faculty advisor to work on a real-world consultancy project with an external client.\u00a0For more information, visit: \nhttps:\/\/www.sipa.columbia.edu\/sipa-education\/capstone-workshops.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -35575,7 +35611,9 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U9000-20271-074\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "SIPA"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -35587,7 +35625,7 @@
   {
     "course_code":"SIPA IA9000",
     "course_title":"Capstone Workshop",
-    "course_descr":null,
+    "course_descr":"Prerequisite: Course Application. \nA Capstone Workshop\u00a0is a live consulting project with an external client outside of SIPA. Each workshop\u00a0partners a team of about 6 graduate students\u00a0with a faculty advisor.\u00a0The goal is to provide clients with innovative analysis and practical recommendations while SIPA students gain experience by working on a real-world problem.\u00a0A core requirement for the\u00a0Master of International Affairs (MIA),\u00a0Master of Public Administration (MPA), the workshops give students an opportunity to put learning into practice. Serving as their culminating educational experience at SIPA, students work in teams of 6-8 students under the guidance of an expert faculty advisor to work on a real-world consultancy project with an external client.\u00a0For more information, visit: \nhttps:\/\/www.sipa.columbia.edu\/sipa-education\/capstone-workshops.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -35600,7 +35638,9 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U9000-20271-075\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "SIPA"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -35612,7 +35652,7 @@
   {
     "course_code":"SIPA IA9000",
     "course_title":"Capstone Workshop",
-    "course_descr":null,
+    "course_descr":"Prerequisite: Course Application. \nA Capstone Workshop\u00a0is a live consulting project with an external client outside of SIPA. Each workshop\u00a0partners a team of about 6 graduate students\u00a0with a faculty advisor.\u00a0The goal is to provide clients with innovative analysis and practical recommendations while SIPA students gain experience by working on a real-world problem.\u00a0A core requirement for the\u00a0Master of International Affairs (MIA),\u00a0Master of Public Administration (MPA), the workshops give students an opportunity to put learning into practice. Serving as their culminating educational experience at SIPA, students work in teams of 6-8 students under the guidance of an expert faculty advisor to work on a real-world consultancy project with an external client.\u00a0For more information, visit: \nhttps:\/\/www.sipa.columbia.edu\/sipa-education\/capstone-workshops.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -35625,7 +35665,9 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U9000-20271-076\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "SIPA"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -35637,7 +35679,7 @@
   {
     "course_code":"SIPA IA9000",
     "course_title":"Capstone Workshop",
-    "course_descr":null,
+    "course_descr":"Prerequisite: Course Application. \nA Capstone Workshop\u00a0is a live consulting project with an external client outside of SIPA. Each workshop\u00a0partners a team of about 6 graduate students\u00a0with a faculty advisor.\u00a0The goal is to provide clients with innovative analysis and practical recommendations while SIPA students gain experience by working on a real-world problem.\u00a0A core requirement for the\u00a0Master of International Affairs (MIA),\u00a0Master of Public Administration (MPA), the workshops give students an opportunity to put learning into practice. Serving as their culminating educational experience at SIPA, students work in teams of 6-8 students under the guidance of an expert faculty advisor to work on a real-world consultancy project with an external client.\u00a0For more information, visit: \nhttps:\/\/www.sipa.columbia.edu\/sipa-education\/capstone-workshops.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -35650,7 +35692,9 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U9000-20271-077\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "SIPA"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -35662,7 +35706,7 @@
   {
     "course_code":"SIPA IA9000",
     "course_title":"Capstone Workshop",
-    "course_descr":null,
+    "course_descr":"Prerequisite: Course Application. \nA Capstone Workshop\u00a0is a live consulting project with an external client outside of SIPA. Each workshop\u00a0partners a team of about 6 graduate students\u00a0with a faculty advisor.\u00a0The goal is to provide clients with innovative analysis and practical recommendations while SIPA students gain experience by working on a real-world problem.\u00a0A core requirement for the\u00a0Master of International Affairs (MIA),\u00a0Master of Public Administration (MPA), the workshops give students an opportunity to put learning into practice. Serving as their culminating educational experience at SIPA, students work in teams of 6-8 students under the guidance of an expert faculty advisor to work on a real-world consultancy project with an external client.\u00a0For more information, visit: \nhttps:\/\/www.sipa.columbia.edu\/sipa-education\/capstone-workshops.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -35675,7 +35719,9 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U9000-20271-078\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "SIPA"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -35687,7 +35733,7 @@
   {
     "course_code":"SIPA IA9000",
     "course_title":"Capstone Workshop",
-    "course_descr":null,
+    "course_descr":"Prerequisite: Course Application. \nA Capstone Workshop\u00a0is a live consulting project with an external client outside of SIPA. Each workshop\u00a0partners a team of about 6 graduate students\u00a0with a faculty advisor.\u00a0The goal is to provide clients with innovative analysis and practical recommendations while SIPA students gain experience by working on a real-world problem.\u00a0A core requirement for the\u00a0Master of International Affairs (MIA),\u00a0Master of Public Administration (MPA), the workshops give students an opportunity to put learning into practice. Serving as their culminating educational experience at SIPA, students work in teams of 6-8 students under the guidance of an expert faculty advisor to work on a real-world consultancy project with an external client.\u00a0For more information, visit: \nhttps:\/\/www.sipa.columbia.edu\/sipa-education\/capstone-workshops.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -35700,7 +35746,9 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U9000-20271-079\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "SIPA"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -35712,7 +35760,7 @@
   {
     "course_code":"SIPA IA9000",
     "course_title":"Capstone Workshop",
-    "course_descr":null,
+    "course_descr":"Prerequisite: Course Application. \nA Capstone Workshop\u00a0is a live consulting project with an external client outside of SIPA. Each workshop\u00a0partners a team of about 6 graduate students\u00a0with a faculty advisor.\u00a0The goal is to provide clients with innovative analysis and practical recommendations while SIPA students gain experience by working on a real-world problem.\u00a0A core requirement for the\u00a0Master of International Affairs (MIA),\u00a0Master of Public Administration (MPA), the workshops give students an opportunity to put learning into practice. Serving as their culminating educational experience at SIPA, students work in teams of 6-8 students under the guidance of an expert faculty advisor to work on a real-world consultancy project with an external client.\u00a0For more information, visit: \nhttps:\/\/www.sipa.columbia.edu\/sipa-education\/capstone-workshops.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -35725,7 +35773,9 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U9000-20271-080\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "SIPA"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -35737,7 +35787,7 @@
   {
     "course_code":"SIPA IA9000",
     "course_title":"Capstone Workshop",
-    "course_descr":null,
+    "course_descr":"Prerequisite: Course Application. \nA Capstone Workshop\u00a0is a live consulting project with an external client outside of SIPA. Each workshop\u00a0partners a team of about 6 graduate students\u00a0with a faculty advisor.\u00a0The goal is to provide clients with innovative analysis and practical recommendations while SIPA students gain experience by working on a real-world problem.\u00a0A core requirement for the\u00a0Master of International Affairs (MIA),\u00a0Master of Public Administration (MPA), the workshops give students an opportunity to put learning into practice. Serving as their culminating educational experience at SIPA, students work in teams of 6-8 students under the guidance of an expert faculty advisor to work on a real-world consultancy project with an external client.\u00a0For more information, visit: \nhttps:\/\/www.sipa.columbia.edu\/sipa-education\/capstone-workshops.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -35750,7 +35800,9 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U9000-20271-081\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "SIPA"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -35762,7 +35814,7 @@
   {
     "course_code":"SIPA IA9000",
     "course_title":"Capstone Workshop",
-    "course_descr":null,
+    "course_descr":"Prerequisite: Course Application. \nA Capstone Workshop\u00a0is a live consulting project with an external client outside of SIPA. Each workshop\u00a0partners a team of about 6 graduate students\u00a0with a faculty advisor.\u00a0The goal is to provide clients with innovative analysis and practical recommendations while SIPA students gain experience by working on a real-world problem.\u00a0A core requirement for the\u00a0Master of International Affairs (MIA),\u00a0Master of Public Administration (MPA), the workshops give students an opportunity to put learning into practice. Serving as their culminating educational experience at SIPA, students work in teams of 6-8 students under the guidance of an expert faculty advisor to work on a real-world consultancy project with an external client.\u00a0For more information, visit: \nhttps:\/\/www.sipa.columbia.edu\/sipa-education\/capstone-workshops.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -35775,7 +35827,9 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U9000-20271-082\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "SIPA"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -35787,7 +35841,7 @@
   {
     "course_code":"SIPA IA9000",
     "course_title":"Capstone Workshop",
-    "course_descr":null,
+    "course_descr":"Prerequisite: Course Application. \nA Capstone Workshop\u00a0is a live consulting project with an external client outside of SIPA. Each workshop\u00a0partners a team of about 6 graduate students\u00a0with a faculty advisor.\u00a0The goal is to provide clients with innovative analysis and practical recommendations while SIPA students gain experience by working on a real-world problem.\u00a0A core requirement for the\u00a0Master of International Affairs (MIA),\u00a0Master of Public Administration (MPA), the workshops give students an opportunity to put learning into practice. Serving as their culminating educational experience at SIPA, students work in teams of 6-8 students under the guidance of an expert faculty advisor to work on a real-world consultancy project with an external client.\u00a0For more information, visit: \nhttps:\/\/www.sipa.columbia.edu\/sipa-education\/capstone-workshops.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -35800,7 +35854,9 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U9000-20271-083\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "SIPA"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -35812,7 +35868,7 @@
   {
     "course_code":"SIPA IA9000",
     "course_title":"Capstone Workshop",
-    "course_descr":null,
+    "course_descr":"Prerequisite: Course Application. \nA Capstone Workshop\u00a0is a live consulting project with an external client outside of SIPA. Each workshop\u00a0partners a team of about 6 graduate students\u00a0with a faculty advisor.\u00a0The goal is to provide clients with innovative analysis and practical recommendations while SIPA students gain experience by working on a real-world problem.\u00a0A core requirement for the\u00a0Master of International Affairs (MIA),\u00a0Master of Public Administration (MPA), the workshops give students an opportunity to put learning into practice. Serving as their culminating educational experience at SIPA, students work in teams of 6-8 students under the guidance of an expert faculty advisor to work on a real-world consultancy project with an external client.\u00a0For more information, visit: \nhttps:\/\/www.sipa.columbia.edu\/sipa-education\/capstone-workshops.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -35825,7 +35881,9 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U9000-20271-084\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "SIPA"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -35837,7 +35895,7 @@
   {
     "course_code":"SIPA IA9000",
     "course_title":"Capstone Workshop",
-    "course_descr":null,
+    "course_descr":"Prerequisite: Course Application. \nA Capstone Workshop\u00a0is a live consulting project with an external client outside of SIPA. Each workshop\u00a0partners a team of about 6 graduate students\u00a0with a faculty advisor.\u00a0The goal is to provide clients with innovative analysis and practical recommendations while SIPA students gain experience by working on a real-world problem.\u00a0A core requirement for the\u00a0Master of International Affairs (MIA),\u00a0Master of Public Administration (MPA), the workshops give students an opportunity to put learning into practice. Serving as their culminating educational experience at SIPA, students work in teams of 6-8 students under the guidance of an expert faculty advisor to work on a real-world consultancy project with an external client.\u00a0For more information, visit: \nhttps:\/\/www.sipa.columbia.edu\/sipa-education\/capstone-workshops.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -35850,7 +35908,9 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U9000-20271-085\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "SIPA"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -35862,7 +35922,7 @@
   {
     "course_code":"SIPA IA9000",
     "course_title":"Capstone Workshop",
-    "course_descr":null,
+    "course_descr":"Prerequisite: Course Application. \nA Capstone Workshop\u00a0is a live consulting project with an external client outside of SIPA. Each workshop\u00a0partners a team of about 6 graduate students\u00a0with a faculty advisor.\u00a0The goal is to provide clients with innovative analysis and practical recommendations while SIPA students gain experience by working on a real-world problem.\u00a0A core requirement for the\u00a0Master of International Affairs (MIA),\u00a0Master of Public Administration (MPA), the workshops give students an opportunity to put learning into practice. Serving as their culminating educational experience at SIPA, students work in teams of 6-8 students under the guidance of an expert faculty advisor to work on a real-world consultancy project with an external client.\u00a0For more information, visit: \nhttps:\/\/www.sipa.columbia.edu\/sipa-education\/capstone-workshops.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -35875,7 +35935,9 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U9000-20271-086\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "SIPA"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -35887,7 +35949,7 @@
   {
     "course_code":"SIPA IA9000",
     "course_title":"Capstone Workshop",
-    "course_descr":null,
+    "course_descr":"Prerequisite: Course Application. \nA Capstone Workshop\u00a0is a live consulting project with an external client outside of SIPA. Each workshop\u00a0partners a team of about 6 graduate students\u00a0with a faculty advisor.\u00a0The goal is to provide clients with innovative analysis and practical recommendations while SIPA students gain experience by working on a real-world problem.\u00a0A core requirement for the\u00a0Master of International Affairs (MIA),\u00a0Master of Public Administration (MPA), the workshops give students an opportunity to put learning into practice. Serving as their culminating educational experience at SIPA, students work in teams of 6-8 students under the guidance of an expert faculty advisor to work on a real-world consultancy project with an external client.\u00a0For more information, visit: \nhttps:\/\/www.sipa.columbia.edu\/sipa-education\/capstone-workshops.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -35900,7 +35962,9 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U9000-20271-087\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "SIPA"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -35912,7 +35976,7 @@
   {
     "course_code":"SIPA IA9000",
     "course_title":"Capstone Workshop",
-    "course_descr":null,
+    "course_descr":"Prerequisite: Course Application. \nA Capstone Workshop\u00a0is a live consulting project with an external client outside of SIPA. Each workshop\u00a0partners a team of about 6 graduate students\u00a0with a faculty advisor.\u00a0The goal is to provide clients with innovative analysis and practical recommendations while SIPA students gain experience by working on a real-world problem.\u00a0A core requirement for the\u00a0Master of International Affairs (MIA),\u00a0Master of Public Administration (MPA), the workshops give students an opportunity to put learning into practice. Serving as their culminating educational experience at SIPA, students work in teams of 6-8 students under the guidance of an expert faculty advisor to work on a real-world consultancy project with an external client.\u00a0For more information, visit: \nhttps:\/\/www.sipa.columbia.edu\/sipa-education\/capstone-workshops.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -35925,7 +35989,9 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U9000-20271-088\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "SIPA"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -35937,7 +36003,7 @@
   {
     "course_code":"SIPA IA9000",
     "course_title":"Capstone Workshop",
-    "course_descr":null,
+    "course_descr":"Prerequisite: Course Application. \nA Capstone Workshop\u00a0is a live consulting project with an external client outside of SIPA. Each workshop\u00a0partners a team of about 6 graduate students\u00a0with a faculty advisor.\u00a0The goal is to provide clients with innovative analysis and practical recommendations while SIPA students gain experience by working on a real-world problem.\u00a0A core requirement for the\u00a0Master of International Affairs (MIA),\u00a0Master of Public Administration (MPA), the workshops give students an opportunity to put learning into practice. Serving as their culminating educational experience at SIPA, students work in teams of 6-8 students under the guidance of an expert faculty advisor to work on a real-world consultancy project with an external client.\u00a0For more information, visit: \nhttps:\/\/www.sipa.columbia.edu\/sipa-education\/capstone-workshops.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -35950,7 +36016,9 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U9000-20271-089\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "SIPA"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -35962,7 +36030,7 @@
   {
     "course_code":"SIPA IA9000",
     "course_title":"Capstone Workshop",
-    "course_descr":null,
+    "course_descr":"Prerequisite: Course Application. \nA Capstone Workshop\u00a0is a live consulting project with an external client outside of SIPA. Each workshop\u00a0partners a team of about 6 graduate students\u00a0with a faculty advisor.\u00a0The goal is to provide clients with innovative analysis and practical recommendations while SIPA students gain experience by working on a real-world problem.\u00a0A core requirement for the\u00a0Master of International Affairs (MIA),\u00a0Master of Public Administration (MPA), the workshops give students an opportunity to put learning into practice. Serving as their culminating educational experience at SIPA, students work in teams of 6-8 students under the guidance of an expert faculty advisor to work on a real-world consultancy project with an external client.\u00a0For more information, visit: \nhttps:\/\/www.sipa.columbia.edu\/sipa-education\/capstone-workshops.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -35975,7 +36043,9 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U9000-20271-090\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "SIPA"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -35987,7 +36057,7 @@
   {
     "course_code":"SIPA IA9000",
     "course_title":"Capstone Workshop",
-    "course_descr":null,
+    "course_descr":"Prerequisite: Course Application. \nA Capstone Workshop\u00a0is a live consulting project with an external client outside of SIPA. Each workshop\u00a0partners a team of about 6 graduate students\u00a0with a faculty advisor.\u00a0The goal is to provide clients with innovative analysis and practical recommendations while SIPA students gain experience by working on a real-world problem.\u00a0A core requirement for the\u00a0Master of International Affairs (MIA),\u00a0Master of Public Administration (MPA), the workshops give students an opportunity to put learning into practice. Serving as their culminating educational experience at SIPA, students work in teams of 6-8 students under the guidance of an expert faculty advisor to work on a real-world consultancy project with an external client.\u00a0For more information, visit: \nhttps:\/\/www.sipa.columbia.edu\/sipa-education\/capstone-workshops.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -36000,7 +36070,9 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U9000-20271-091\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "SIPA"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -36012,7 +36084,7 @@
   {
     "course_code":"SIPA IA9000",
     "course_title":"Capstone Workshop",
-    "course_descr":null,
+    "course_descr":"Prerequisite: Course Application. \nA Capstone Workshop\u00a0is a live consulting project with an external client outside of SIPA. Each workshop\u00a0partners a team of about 6 graduate students\u00a0with a faculty advisor.\u00a0The goal is to provide clients with innovative analysis and practical recommendations while SIPA students gain experience by working on a real-world problem.\u00a0A core requirement for the\u00a0Master of International Affairs (MIA),\u00a0Master of Public Administration (MPA), the workshops give students an opportunity to put learning into practice. Serving as their culminating educational experience at SIPA, students work in teams of 6-8 students under the guidance of an expert faculty advisor to work on a real-world consultancy project with an external client.\u00a0For more information, visit: \nhttps:\/\/www.sipa.columbia.edu\/sipa-education\/capstone-workshops.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -36025,7 +36097,9 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U9000-20271-092\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "SIPA"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -36037,7 +36111,7 @@
   {
     "course_code":"SIPA IA9000",
     "course_title":"Capstone Workshop",
-    "course_descr":null,
+    "course_descr":"Prerequisite: Course Application. \nA Capstone Workshop\u00a0is a live consulting project with an external client outside of SIPA. Each workshop\u00a0partners a team of about 6 graduate students\u00a0with a faculty advisor.\u00a0The goal is to provide clients with innovative analysis and practical recommendations while SIPA students gain experience by working on a real-world problem.\u00a0A core requirement for the\u00a0Master of International Affairs (MIA),\u00a0Master of Public Administration (MPA), the workshops give students an opportunity to put learning into practice. Serving as their culminating educational experience at SIPA, students work in teams of 6-8 students under the guidance of an expert faculty advisor to work on a real-world consultancy project with an external client.\u00a0For more information, visit: \nhttps:\/\/www.sipa.columbia.edu\/sipa-education\/capstone-workshops.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -36050,7 +36124,9 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U9000-20271-093\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "SIPA"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -36062,7 +36138,7 @@
   {
     "course_code":"SIPA IA9000",
     "course_title":"Capstone Workshop",
-    "course_descr":null,
+    "course_descr":"Prerequisite: Course Application. \nA Capstone Workshop\u00a0is a live consulting project with an external client outside of SIPA. Each workshop\u00a0partners a team of about 6 graduate students\u00a0with a faculty advisor.\u00a0The goal is to provide clients with innovative analysis and practical recommendations while SIPA students gain experience by working on a real-world problem.\u00a0A core requirement for the\u00a0Master of International Affairs (MIA),\u00a0Master of Public Administration (MPA), the workshops give students an opportunity to put learning into practice. Serving as their culminating educational experience at SIPA, students work in teams of 6-8 students under the guidance of an expert faculty advisor to work on a real-world consultancy project with an external client.\u00a0For more information, visit: \nhttps:\/\/www.sipa.columbia.edu\/sipa-education\/capstone-workshops.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -36075,7 +36151,9 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U9000-20271-094\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "SIPA"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -36087,7 +36165,7 @@
   {
     "course_code":"SIPA IA9000",
     "course_title":"Capstone Workshop",
-    "course_descr":null,
+    "course_descr":"Prerequisite: Course Application. \nA Capstone Workshop\u00a0is a live consulting project with an external client outside of SIPA. Each workshop\u00a0partners a team of about 6 graduate students\u00a0with a faculty advisor.\u00a0The goal is to provide clients with innovative analysis and practical recommendations while SIPA students gain experience by working on a real-world problem.\u00a0A core requirement for the\u00a0Master of International Affairs (MIA),\u00a0Master of Public Administration (MPA), the workshops give students an opportunity to put learning into practice. Serving as their culminating educational experience at SIPA, students work in teams of 6-8 students under the guidance of an expert faculty advisor to work on a real-world consultancy project with an external client.\u00a0For more information, visit: \nhttps:\/\/www.sipa.columbia.edu\/sipa-education\/capstone-workshops.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -36100,7 +36178,9 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U9000-20271-095\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "SIPA"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -36112,7 +36192,7 @@
   {
     "course_code":"SIPA IA9000",
     "course_title":"Capstone Workshop",
-    "course_descr":null,
+    "course_descr":"Prerequisite: Course Application. \nA Capstone Workshop\u00a0is a live consulting project with an external client outside of SIPA. Each workshop\u00a0partners a team of about 6 graduate students\u00a0with a faculty advisor.\u00a0The goal is to provide clients with innovative analysis and practical recommendations while SIPA students gain experience by working on a real-world problem.\u00a0A core requirement for the\u00a0Master of International Affairs (MIA),\u00a0Master of Public Administration (MPA), the workshops give students an opportunity to put learning into practice. Serving as their culminating educational experience at SIPA, students work in teams of 6-8 students under the guidance of an expert faculty advisor to work on a real-world consultancy project with an external client.\u00a0For more information, visit: \nhttps:\/\/www.sipa.columbia.edu\/sipa-education\/capstone-workshops.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -36125,7 +36205,9 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U9000-20271-096\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "SIPA"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -36137,7 +36219,7 @@
   {
     "course_code":"SIPA IA9000",
     "course_title":"Capstone Workshop",
-    "course_descr":null,
+    "course_descr":"Prerequisite: Course Application. \nA Capstone Workshop\u00a0is a live consulting project with an external client outside of SIPA. Each workshop\u00a0partners a team of about 6 graduate students\u00a0with a faculty advisor.\u00a0The goal is to provide clients with innovative analysis and practical recommendations while SIPA students gain experience by working on a real-world problem.\u00a0A core requirement for the\u00a0Master of International Affairs (MIA),\u00a0Master of Public Administration (MPA), the workshops give students an opportunity to put learning into practice. Serving as their culminating educational experience at SIPA, students work in teams of 6-8 students under the guidance of an expert faculty advisor to work on a real-world consultancy project with an external client.\u00a0For more information, visit: \nhttps:\/\/www.sipa.columbia.edu\/sipa-education\/capstone-workshops.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -36150,7 +36232,9 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U9000-20271-097\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "SIPA"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -36162,7 +36246,7 @@
   {
     "course_code":"SIPA IA9000",
     "course_title":"Capstone Workshop",
-    "course_descr":null,
+    "course_descr":"Prerequisite: Course Application. \nA Capstone Workshop\u00a0is a live consulting project with an external client outside of SIPA. Each workshop\u00a0partners a team of about 6 graduate students\u00a0with a faculty advisor.\u00a0The goal is to provide clients with innovative analysis and practical recommendations while SIPA students gain experience by working on a real-world problem.\u00a0A core requirement for the\u00a0Master of International Affairs (MIA),\u00a0Master of Public Administration (MPA), the workshops give students an opportunity to put learning into practice. Serving as their culminating educational experience at SIPA, students work in teams of 6-8 students under the guidance of an expert faculty advisor to work on a real-world consultancy project with an external client.\u00a0For more information, visit: \nhttps:\/\/www.sipa.columbia.edu\/sipa-education\/capstone-workshops.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -36175,7 +36259,9 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U9000-20271-098\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "SIPA"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -36187,7 +36273,7 @@
   {
     "course_code":"SIPA IA9000",
     "course_title":"Capstone Workshop",
-    "course_descr":null,
+    "course_descr":"Prerequisite: Course Application. \nA Capstone Workshop\u00a0is a live consulting project with an external client outside of SIPA. Each workshop\u00a0partners a team of about 6 graduate students\u00a0with a faculty advisor.\u00a0The goal is to provide clients with innovative analysis and practical recommendations while SIPA students gain experience by working on a real-world problem.\u00a0A core requirement for the\u00a0Master of International Affairs (MIA),\u00a0Master of Public Administration (MPA), the workshops give students an opportunity to put learning into practice. Serving as their culminating educational experience at SIPA, students work in teams of 6-8 students under the guidance of an expert faculty advisor to work on a real-world consultancy project with an external client.\u00a0For more information, visit: \nhttps:\/\/www.sipa.columbia.edu\/sipa-education\/capstone-workshops.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -36200,7 +36286,9 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U9000-20271-099\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "SIPA"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -36212,7 +36300,7 @@
   {
     "course_code":"SIPA IA9000",
     "course_title":"Capstone Workshop",
-    "course_descr":null,
+    "course_descr":"Prerequisite: Course Application. \nA Capstone Workshop\u00a0is a live consulting project with an external client outside of SIPA. Each workshop\u00a0partners a team of about 6 graduate students\u00a0with a faculty advisor.\u00a0The goal is to provide clients with innovative analysis and practical recommendations while SIPA students gain experience by working on a real-world problem.\u00a0A core requirement for the\u00a0Master of International Affairs (MIA),\u00a0Master of Public Administration (MPA), the workshops give students an opportunity to put learning into practice. Serving as their culminating educational experience at SIPA, students work in teams of 6-8 students under the guidance of an expert faculty advisor to work on a real-world consultancy project with an external client.\u00a0For more information, visit: \nhttps:\/\/www.sipa.columbia.edu\/sipa-education\/capstone-workshops.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -36225,7 +36313,9 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U9000-20271-100\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "SIPA"
+    ],
     "points":"3",
     "prerequisites":[
 
