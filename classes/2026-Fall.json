@@ -7325,7 +7325,8 @@
     "location":"963 EXT Schermerhorn Hall [SCH]",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "GSAS"
+      "GSAS",
+      "Schools of the Arts"
     ],
     "points":"3",
     "prerequisites":[
@@ -11929,6 +11930,33 @@
     ],
     "scheduled_days":null,
     "section_key":"20263APAM6650E015",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"APAM E6650",
+    "course_title":"RESEARCH PROJECT",
+    "course_descr":"May be repeated for credit. A special investigation of a problem in nuclear engineering, medical physics, applied mathematics, applied physics, and\/or plasma physics consisting of independent work on the part of the student and embodied in a formal report.",
+    "instructor":"Qiang Du",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"20837",
+    "campus":null,
+    "class_id":"E6650-20263-016",
+    "course_subtitle":null,
+    "department":"Applied Physics and Applied Mathematics",
+    "department_code":"APAM",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/APAM\/E6650-20263-016\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Engineering:Graduate"
+    ],
+    "points":"1-6",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263APAM6650E016",
     "type":"INDEPENDENT"
   },
   {
@@ -54210,7 +54238,7 @@
     "department":"Strategic Communication",
     "department_code":"COMM",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMM\/K5210-20263-001\/",
-    "location":"313 Pupin Laboratories",
+    "location":"331 Uris Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Professional Studies"
@@ -54507,7 +54535,7 @@
     "department":"Strategic Communication",
     "department_code":"COMM",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMM\/K5470-20263-001\/",
-    "location":"224 Pupin Laboratories",
+    "location":"140 Uris Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Professional Studies"
@@ -56624,6 +56652,33 @@
     ],
     "scheduled_days":null,
     "section_key":"20263COMS6998EC08",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"COMS E6998",
+    "course_title":"TOPICS IN COMPUTER SCIENCE",
+    "course_descr":"Selected topics in computer science (advanced level). Content and prerequisites vary between sections and semesters. May be repeated for credit. Check \u201ctopics course\u201d webpage on the department website for more information on each section.",
+    "instructor":"Lydia Chilton",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"20841",
+    "campus":null,
+    "class_id":"E6998-20263-C11",
+    "course_subtitle":"DESIGN FOR GENERATIVE AI",
+    "department":"Video Network",
+    "department_code":"COMS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMS\/E6998-20263-C11\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Engineering:Graduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263COMS6998EC11",
     "type":"LECTURE"
   },
   {
@@ -59200,7 +59255,7 @@
     "department":"Computer Science",
     "department_code":"COMS",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMS\/W4995-20263-011\/",
-    "location":"428 Pupin Laboratories",
+    "location":"411 Hamilton Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Business",
@@ -59639,7 +59694,7 @@
     "department":"Comparative Literature and Society, Institute for",
     "department_code":"CPLS",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/CPLS\/W3931-20263-001\/",
-    "location":"212A Lewisohn Hall",
+    "location":"C01 Knox Hall",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"4",
@@ -60256,19 +60311,19 @@
     "type":"SEMINAR"
   },
   {
-    "course_code":"CSER GU4999",
+    "course_code":"CSER GU4998",
     "course_title":"SUPERVISED INDIVIDUAL RESEARCH",
     "course_descr":null,
     "instructor":"Matthew Sandler",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
-    "call_number":"20820",
+    "call_number":"20617",
     "campus":null,
-    "class_id":"G4999-20263-002",
+    "class_id":"G4998-20263-001",
     "course_subtitle":"SUPERVISED INDIVIDUAL RES",
     "department":"Ethnicity and Race, Center for",
     "department_code":"CSER",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CSER\/G4999-20263-002\/",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CSER\/G4998-20263-001\/",
     "location":null,
     "method_of_instruction":"In-Person",
     "open_to":null,
@@ -60277,7 +60332,7 @@
 
     ],
     "scheduled_days":null,
-    "section_key":"20263CSER4999G002",
+    "section_key":"20263CSER4998G001",
     "type":"INDEPENDENT"
   },
   {
@@ -60606,31 +60661,6 @@
     "scheduled_days":"W",
     "section_key":"20263CSER3949W001",
     "type":"SEMINAR"
-  },
-  {
-    "course_code":"CSER UN3997",
-    "course_title":"INDEPENDENT STUDY",
-    "course_descr":null,
-    "instructor":"Frances Negron-Muntaner",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
-    "call_number":"20813",
-    "campus":null,
-    "class_id":"W3997-20263-001",
-    "course_subtitle":null,
-    "department":"Ethnicity and Race, Center for",
-    "department_code":"CSER",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CSER\/W3997-20263-001\/",
-    "location":null,
-    "method_of_instruction":"In-Person",
-    "open_to":null,
-    "points":"1-4",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":null,
-    "section_key":"20263CSER3997W001",
-    "type":"INDEPENDENT"
   },
   {
     "course_code":"CSOR W4223",
@@ -78155,7 +78185,7 @@
     "department":"Environmental Health Sciences",
     "department_code":"EHSC",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/EHSC\/P6320-20263-001\/",
-    "location":"1102 ROSENFIELD B",
+    "location":"1101 ROSENFIELD B",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"3",
@@ -78292,7 +78322,7 @@
     "department":"Environmental Health Sciences",
     "department_code":"EHSC",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/EHSC\/P8312-20263-001\/",
-    "location":"1101 ROSENFIELD B",
+    "location":"1102 ROSENFIELD B",
     "method_of_instruction":"In-Person",
     "open_to":[
       "GSAS",
@@ -126701,7 +126731,7 @@
     "department":"Core (A&S)",
     "department_code":"HUMA",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/HUMA\/C3000-20263-001\/",
-    "location":null,
+    "location":"609 Hamilton Hall",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"1",
@@ -131512,7 +131542,7 @@
   {
     "course_code":"IEOR E4900",
     "course_title":"MASTERS RESEARCH OR PROJECT",
-    "course_descr":null,
+    "course_descr":"Prerequisite(s): Approval by a faculty member who agrees to supervise the work. Independent work involving experiments, computer programming, analytical investigation, or engineering design.",
     "instructor":"Yuchen Hu",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -168560,7 +168590,7 @@
     "department":"Narrative Medicine",
     "department_code":"NMED",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/NMED\/K5290-20263-001\/",
-    "location":"608 Lewisohn Hall",
+    "location":"212A Lewisohn Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Professional Studies"
@@ -169009,7 +169039,7 @@
     "course_code":"NMED PS6000",
     "course_title":"WORKSHOP (CERT)",
     "course_descr":"This workshop provides an intense immersion in the methods and skills of narrative medicine. Lectures will open up themes of how stories work, creativity, ethics, bearing witness, and empathy, while the small groups practice rigorous skills in close reading, creative writing, and responding to the writings of others. The learning objectives of the workshops are to 1) provide personal contact to introduce and solidify intersubjective relationships among participants; 2) to ignite use of methods that have been and will be utilized in the on-line component, e.g., writing to prompts from literary texts and responding to both form and content of colleagues\u2019 writing; 3) plenary lectures from the architects of the discipline of Narrative Medicine in the foundational theories to be studied; 4) scheduled cultural learning opportunities of New York City (music, museums, literary readings) for shared creative experiences; 5) contact with Master of Science in Narrative Medicine graduate program for certification participants toward their understanding of the breadth of the field and the potential for their continuing to study NM after the CPA; 6) introduction to the national and international reach of Columbia Narrative Medicine so that participants grasp the value and magnitude of the community they have entered as certification program students. Participants will be given the chance to present their own works-in-progress to assembled participants and faculty as a jump-start to collaborative projects during and after the participation in the certification program.",
-    "instructor":null,
+    "instructor":"Cindy K Smalletz",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"12725",
@@ -195307,6 +195337,31 @@
     "scheduled_days":"TRF",
     "section_key":"20263POLI2101W001",
     "type":"LANGUAGE"
+  },
+  {
+    "course_code":"POLI UN3997",
+    "course_title":"SUPERVISED INDIVIDUAL RESEARCH",
+    "course_descr":null,
+    "instructor":"Christopher Caes",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"20835",
+    "campus":null,
+    "class_id":"W3997-20263-001",
+    "course_subtitle":"SUPERVISED INDIVIDUAL RES",
+    "department":"Slavic Languages",
+    "department_code":"POLI",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/POLI\/W3997-20263-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"1-4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263POLI3997W001",
+    "type":"INDEPENDENT"
   },
   {
     "course_code":"POLS BC1005",
@@ -221620,31 +221675,6 @@
     "type":"LECTURE"
   },
   {
-    "course_code":"SOCI BC3907",
-    "course_title":"COMMUNITIES AND SOCIAL CHANGE",
-    "course_descr":"Examines how changes in the economy, racial composition, and class relations affect community life-how it is created, changed and sometimes lost-with a specific focus on the local urban context. Student research projects will address how contemporary forces such as neoliberalization, gentrification and tourism impact a communitys social fabric.",
-    "instructor":"Andrew S Anastasi",
-    "scheduled_time_start":"11:00am",
-    "scheduled_time_end":"12:50pm",
-    "call_number":"00770",
-    "campus":null,
-    "class_id":"X3907-20263-001",
-    "course_subtitle":"COMMUNITIES AND SOCIAL CH",
-    "department":"Sociology @Barnard",
-    "department_code":"SOCI",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SOCI\/X3907-20263-001\/",
-    "location":"308 Diana Center",
-    "method_of_instruction":null,
-    "open_to":null,
-    "points":"4",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"R",
-    "section_key":"20263SOCI3907X001",
-    "type":"SEMINAR"
-  },
-  {
     "course_code":"SOCI BC3920",
     "course_title":"ADV TOPICS GENDER & SEXUALITY",
     "course_descr":"This research and writing-intensive seminar is designed for senior majors with a background and interest in the sociology of gender and sexuality. The goal of the seminar is to facilitate completion of the senior requirement (a 25-30 page paper) based on ;hands on; research with original qualitative data. Since the seminar will be restricted to students with prior academic training in the subfield, students will be able to receive intensive research training and guidance through every step of the research process, from choosing a research question to conducting original ethnographic and interview-based research, to analyzing and interpreting ones findings. The final goal of the course will be the production of an original paper of standard journal-article length. Students who choose to pursue their projects over the course of a second semester will have the option of revisiting their articles further for submission and publications.",
@@ -235172,7 +235202,7 @@
     "department":"Statistics",
     "department_code":"STAT",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/STAT\/G5005-20263-001\/",
-    "location":null,
+    "location":"C01 Knox Hall",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"0",
@@ -235226,7 +235256,7 @@
     "department":"Statistics",
     "department_code":"STAT",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/STAT\/G5005-20263-003\/",
-    "location":null,
+    "location":"103 Knox Hall",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"0",
@@ -237788,7 +237818,7 @@
     "department":"Statistics",
     "department_code":"STAT",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/STAT\/W4003-20263-005\/",
-    "location":null,
+    "location":"C06 School of Social Work",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"0",
@@ -241100,7 +241130,7 @@
     "department":"Sustainability Management",
     "department_code":"SUMA",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SUMA\/K5157-20263-001\/",
-    "location":"608 Martin Luther King Building",
+    "location":"402 Chandler",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"3",
@@ -247222,7 +247252,7 @@
     "department":"Technology Management",
     "department_code":"TMGT",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/TMGT\/K6402-20263-002\/",
-    "location":"608 Lewisohn Hall",
+    "location":"222 Pupin Laboratories",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Professional Studies"
