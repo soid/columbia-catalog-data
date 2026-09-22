@@ -2041,7 +2041,7 @@
     "department":"African American and African Diaspora",
     "department_code":"AFAS",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/AFAS\/C1010-20263-002\/",
-    "location":"201A Philosophy Hall",
+    "location":"307 Pupin Laboratories",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"0",
@@ -2066,7 +2066,7 @@
     "department":"African American and African Diaspora",
     "department_code":"AFAS",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/AFAS\/C1010-20263-003\/",
-    "location":"311 Fayerweather",
+    "location":"304 Hamilton Hall",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"0",
@@ -2091,7 +2091,7 @@
     "department":"African American and African Diaspora",
     "department_code":"AFAS",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/AFAS\/C1010-20263-004\/",
-    "location":"325 Pupin Laboratories",
+    "location":"304 Hamilton Hall",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"0",
@@ -2116,7 +2116,7 @@
     "department":"African American and African Diaspora",
     "department_code":"AFAS",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/AFAS\/C1010-20263-005\/",
-    "location":"325 Pupin Laboratories",
+    "location":"627 Seeley W. Mudd Building",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"0",
@@ -2150,6 +2150,31 @@
     ],
     "scheduled_days":"R",
     "section_key":"20263AFAS1010C006",
+    "type":"DISCUSSION"
+  },
+  {
+    "course_code":"AFAS UN1010",
+    "course_title":"INTRO-AFR-AMER STUDIES - DISC",
+    "course_descr":"At each discussion section meeting, one or more students will be responsible for leading the section in a general discussion about that week's readings. They will present the key ideas within the assigned readings, making connections with information from previous readings and lectures from class. Each student's initial presentation should be about 10 minutes in length, and accompanied by a one or two page outline or short paper. If more than one student is assigned to a particular week, they should meet together prior to class to determine which topics or readings each individual will present. All grades are based \u00a0on individual performances, not by the group as a whole.",
+    "instructor":"Nyle Fort",
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"2:00pm",
+    "call_number":"20844",
+    "campus":null,
+    "class_id":"C1010-20263-007",
+    "course_subtitle":null,
+    "department":"African American and African Diaspora",
+    "department_code":"AFAS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/AFAS\/C1010-20263-007\/",
+    "location":"212D Lewisohn Hall",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20263AFAS1010C007",
     "type":"DISCUSSION"
   },
   {
@@ -28054,10 +28079,7 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/BMEN\/E3899-20263-031\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":[
-      "Engineering:Graduate",
-      "Engineering:Undergraduate"
-    ],
+    "open_to":null,
     "points":"0",
     "prerequisites":[
 
@@ -70199,6 +70221,31 @@
     "type":"RECITATION"
   },
   {
+    "course_code":"ECON BC1017",
+    "course_title":"Math Methods for Economics Recitation",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"01150",
+    "campus":null,
+    "class_id":"X1017-20263-002",
+    "course_subtitle":"MATH METHODS FOR ECON REC",
+    "department":"Economics @Barnard",
+    "department_code":"ECON",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ECON\/X1017-20263-002\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20263ECON1017X002",
+    "type":"RECITATION"
+  },
+  {
     "course_code":"ECON BC2020",
     "course_title":"INTRO TO DEVELOPMENT ECON",
     "course_descr":null,
@@ -70272,6 +70319,31 @@
     "scheduled_days":"MW",
     "section_key":"20263ECON2411X002",
     "type":"LECTURE"
+  },
+  {
+    "course_code":"ECON BC2413",
+    "course_title":"STATS FOR ECONOMICS - REC",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"10:00am",
+    "scheduled_time_end":"10:50am",
+    "call_number":"01147",
+    "campus":null,
+    "class_id":"X2413-20263-001",
+    "course_subtitle":null,
+    "department":"Economics @Barnard",
+    "department_code":"ECON",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ECON\/X2413-20263-001\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"F",
+    "section_key":"20263ECON2413X001",
+    "type":"RECITATION"
   },
   {
     "course_code":"ECON BC3011",
@@ -71007,8 +71079,8 @@
     "course_title":"INTERMEDIATE MACRO-DISC\/RECIT",
     "course_descr":"Discussion\/Recitation section for ECON BC3033",
     "instructor":null,
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"10:00am",
+    "scheduled_time_end":"10:50am",
     "call_number":"01143",
     "campus":null,
     "class_id":"X3133-20263-001",
@@ -71025,7 +71097,7 @@
         "ECON BC3033"
       ]
     ],
-    "scheduled_days":null,
+    "scheduled_days":"R",
     "section_key":"20263ECON3133X001",
     "type":"RECITATION"
   },
@@ -74024,6 +74096,56 @@
     "scheduled_days":"MW",
     "section_key":"20263ECON2261W001",
     "type":"LECTURE"
+  },
+  {
+    "course_code":"ECON UN2262",
+    "course_title":"INTRO-ACCOUNTING & FIN - DISC",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"10:00am",
+    "scheduled_time_end":"10:50am",
+    "call_number":"01148",
+    "campus":null,
+    "class_id":"W2262-20263-001",
+    "course_subtitle":"INTRO-ACCOUNTING & FIN -",
+    "department":"Economics @Barnard",
+    "department_code":"ECON",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ECON\/W2262-20263-001\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20263ECON2262W001",
+    "type":"DISCUSSION"
+  },
+  {
+    "course_code":"ECON UN2262",
+    "course_title":"INTRO-ACCOUNTING & FIN - DISC",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"10:00am",
+    "scheduled_time_end":"10:50am",
+    "call_number":"01149",
+    "campus":null,
+    "class_id":"W2262-20263-002",
+    "course_subtitle":"INTRO-ACCOUNTING & FIN -",
+    "department":"Economics @Barnard",
+    "department_code":"ECON",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ECON\/W2262-20263-002\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"F",
+    "section_key":"20263ECON2262W002",
+    "type":"DISCUSSION"
   },
   {
     "course_code":"ECON UN3025",
