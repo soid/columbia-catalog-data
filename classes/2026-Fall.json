@@ -10287,7 +10287,7 @@
   {
     "course_code":"ANTH UN2111",
     "course_title":"Mafias and Other Dangerous Affiliations",
-    "course_descr":null,
+    "course_descr":"Discussion section for ANTH2017.",
     "instructor":"Marini Thorne",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:00pm",
@@ -10314,7 +10314,9 @@
     ],
     "points":"0",
     "prerequisites":[
-
+      [
+        "TH2017"
+      ]
     ],
     "scheduled_days":"M",
     "section_key":"20263ANTH2111W009",
@@ -10323,7 +10325,7 @@
   {
     "course_code":"ANTH UN2111",
     "course_title":"Mafias and Other Dangerous Affiliations",
-    "course_descr":null,
+    "course_descr":"Discussion section for ANTH2017.",
     "instructor":"Marini Thorne",
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"1:00pm",
@@ -10350,7 +10352,9 @@
     ],
     "points":"0",
     "prerequisites":[
-
+      [
+        "TH2017"
+      ]
     ],
     "scheduled_days":"R",
     "section_key":"20263ANTH2111W010",
@@ -60377,7 +60381,7 @@
     "department":"Computer Science",
     "department_code":"CSEE",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/CSEE\/W4824-20263-001\/",
-    "location":"451 Computer Science Building",
+    "location":"614 Schermerhorn Hall [SCH]",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Business",
@@ -108113,7 +108117,7 @@
     "department":"French @Barnard",
     "department_code":"FREN",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/FREN\/X2457-20263-002\/",
-    "location":null,
+    "location":"511 R&D SCIENCE",
     "method_of_instruction":null,
     "open_to":null,
     "points":"0",
@@ -128479,7 +128483,7 @@
     "department":"Industrial Engineering and Operations Research",
     "department_code":"IEOR",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/IEOR\/E4010-20263-001\/",
-    "location":"614 Schermerhorn Hall [SCH]",
+    "location":"451 Computer Science Building",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"3",
@@ -155144,7 +155148,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":"M",
+    "scheduled_days":"W",
     "section_key":"20263MDES8008G001",
     "type":"COLLOQUIA"
   },
@@ -215935,8 +215939,8 @@
     "course_title":"Budgeting & Financial Management for Gov",
     "course_descr":"MPA Financial Management II Core.\u00a0\nThis course introduces students to budgeting and financial management in the public sector, with an emphasis on real-world application and analytical skill development. Drawing on current and historical challenges\u2014including the 2008 financial crisis and the COVID-19 pandemic\u2014students will explore the political, technical, and managerial dimensions of public budgeting in the United States.\u00a0\n  \nTopics include the structure and function of operating and capital budgets, principles of revenue generation, deficit spending, and debt financing. Students will work with actual federal, state, and local budgets, gaining experience in constructing, analyzing, and presenting budgets in a government context. By the end of the course, students will be able to evaluate budget proposals and make data-informed recommendations grounded in public policy goals and financial feasibility.",
     "instructor":null,
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"8:00am",
+    "scheduled_time_end":"9:50am",
     "call_number":"18151",
     "campus":null,
     "class_id":"U6252-20263-R01",
@@ -215944,7 +215948,7 @@
     "department":"International and Public Affairs",
     "department_code":"SIPA",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U6252-20263-R01\/",
-    "location":null,
+    "location":"405 International Affairs Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "SIPA"
@@ -215953,7 +215957,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"F",
     "section_key":"20263SIPA6252UR01",
     "type":"LECTURE"
   },
@@ -235544,7 +235548,7 @@
   {
     "course_code":"STAT GR5003",
     "course_title":"RECITATION FOR PROBABILITY",
-    "course_descr":"This is a zero credit recitation course for STAT 5203 Probability.",
+    "course_descr":"RECITATION FOR STAT5203GR PROBABILITY",
     "instructor":"Banu Baydil",
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"1:15pm",
@@ -235560,7 +235564,9 @@
     "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "AT5203"
+      ]
     ],
     "scheduled_days":"F",
     "section_key":"20263STAT5003W001",
@@ -238060,7 +238066,7 @@
   {
     "course_code":"STAT GU4003",
     "course_title":"RECITATION FOR PROBABILITY THEORY",
-    "course_descr":"adding zero credit recitation to STAT\u00a04203UN PROBABILITY THEORY for Fall 2026",
+    "course_descr":"RECITATION FOR STAT4203GU PROBABILITY THEORY",
     "instructor":"Arian Maleki",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"7:25pm",
@@ -238076,7 +238082,9 @@
     "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "AT4203"
+      ]
     ],
     "scheduled_days":"R",
     "section_key":"20263STAT4003W001",
@@ -238085,7 +238093,7 @@
   {
     "course_code":"STAT GU4003",
     "course_title":"RECITATION FOR PROBABILITY THEORY",
-    "course_descr":"adding zero credit recitation to STAT\u00a04203UN PROBABILITY THEORY for Fall 2026",
+    "course_descr":"RECITATION FOR STAT4203GU PROBABILITY THEORY",
     "instructor":"Arian Maleki",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"3:25pm",
@@ -238101,7 +238109,9 @@
     "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "AT4203"
+      ]
     ],
     "scheduled_days":"F",
     "section_key":"20263STAT4003W002",
@@ -238110,7 +238120,7 @@
   {
     "course_code":"STAT GU4003",
     "course_title":"RECITATION FOR PROBABILITY THEORY",
-    "course_descr":"adding zero credit recitation to STAT\u00a04203UN PROBABILITY THEORY for Fall 2026",
+    "course_descr":"RECITATION FOR STAT4203GU PROBABILITY THEORY",
     "instructor":"Richard Davis",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:25pm",
@@ -238126,7 +238136,9 @@
     "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "AT4203"
+      ]
     ],
     "scheduled_days":"F",
     "section_key":"20263STAT4003W003",
@@ -238135,7 +238147,7 @@
   {
     "course_code":"STAT GU4003",
     "course_title":"RECITATION FOR PROBABILITY THEORY",
-    "course_descr":"adding zero credit recitation to STAT\u00a04203UN PROBABILITY THEORY for Fall 2026",
+    "course_descr":"RECITATION FOR STAT4203GU PROBABILITY THEORY",
     "instructor":"Banu Baydil",
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"1:15pm",
@@ -238151,7 +238163,9 @@
     "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "AT4203"
+      ]
     ],
     "scheduled_days":"F",
     "section_key":"20263STAT4003W004",
@@ -238160,14 +238174,14 @@
   {
     "course_code":"STAT GU4003",
     "course_title":"RECITATION FOR PROBABILITY THEORY",
-    "course_descr":"adding zero credit recitation to STAT\u00a04203UN PROBABILITY THEORY for Fall 2026",
+    "course_descr":"RECITATION FOR STAT4203GU PROBABILITY THEORY",
     "instructor":"Richard Davis",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"3:25pm",
     "call_number":"20808",
     "campus":null,
     "class_id":"W4003-20263-005",
-    "course_subtitle":"REC FOR PROBABILITY THEOR",
+    "course_subtitle":"RECITATION FOR PROB THEOR",
     "department":"Statistics",
     "department_code":"STAT",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/STAT\/W4003-20263-005\/",
@@ -238176,7 +238190,9 @@
     "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "AT4203"
+      ]
     ],
     "scheduled_days":"R",
     "section_key":"20263STAT4003W005",
@@ -238185,7 +238201,7 @@
   {
     "course_code":"STAT GU4004",
     "course_title":"RECITATION FOR STATISTICAL INFERENCE",
-    "course_descr":"adding zero credit recitation to STAT\u00a04204GU STATISTICAL INFERENCE for Fall 2026",
+    "course_descr":"RECITATION FOR STAT4204GU STATISTICAL INFERENCE",
     "instructor":"Bodhisattva Sen",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -238201,7 +238217,9 @@
     "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "AT4204"
+      ]
     ],
     "scheduled_days":"F",
     "section_key":"20263STAT4004W001",
@@ -238210,7 +238228,7 @@
   {
     "course_code":"STAT GU4004",
     "course_title":"RECITATION FOR STATISTICAL INFERENCE",
-    "course_descr":"adding zero credit recitation to STAT\u00a04204GU STATISTICAL INFERENCE for Fall 2026",
+    "course_descr":"RECITATION FOR STAT4204GU STATISTICAL INFERENCE",
     "instructor":"Bodhisattva Sen",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"3:25pm",
@@ -238226,7 +238244,9 @@
     "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "AT4204"
+      ]
     ],
     "scheduled_days":"F",
     "section_key":"20263STAT4004W002",
@@ -238235,7 +238255,7 @@
   {
     "course_code":"STAT GU4005",
     "course_title":"RECITATION FOR LINEAR REGRESSION MODELS",
-    "course_descr":"adding zero credit recitation to STAT\u00a04205GU for Fall 2026",
+    "course_descr":"RECITATION FOR STAT4205GU LINEAR REGRESSION MODELS",
     "instructor":"Gabriel Young",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"7:25pm",
@@ -238251,7 +238271,9 @@
     "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "AT4205"
+      ]
     ],
     "scheduled_days":"R",
     "section_key":"20263STAT4005W001",
@@ -238260,7 +238282,7 @@
   {
     "course_code":"STAT GU4005",
     "course_title":"RECITATION FOR LINEAR REGRESSION MODELS",
-    "course_descr":"adding zero credit recitation to STAT\u00a04205GU for Fall 2026",
+    "course_descr":"RECITATION FOR STAT4205GU LINEAR REGRESSION MODELS",
     "instructor":"Gabriel Young",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:25pm",
@@ -238276,7 +238298,9 @@
     "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "AT4205"
+      ]
     ],
     "scheduled_days":"F",
     "section_key":"20263STAT4005W002",
@@ -238285,7 +238309,7 @@
   {
     "course_code":"STAT GU4006",
     "course_title":"RECITATION FOR PROGRAMMING FOR DATA SCIE",
-    "course_descr":"zero credit recitation for STAT GU4206",
+    "course_descr":"RECITATION FOR STAT4206GU PROGRAMMING FOR DATA SCIENCE",
     "instructor":null,
     "scheduled_time_start":"9:40am",
     "scheduled_time_end":"10:55am",
@@ -238302,7 +238326,7 @@
     "points":"0",
     "prerequisites":[
       [
-        "STAT GU4206"
+        "AT4206"
       ]
     ],
     "scheduled_days":"F",
@@ -238312,7 +238336,7 @@
   {
     "course_code":"STAT GU4006",
     "course_title":"RECITATION FOR PROGRAMMING FOR DATA SCIE",
-    "course_descr":"zero credit recitation for STAT GU4206",
+    "course_descr":"RECITATION FOR STAT4206GU PROGRAMMING FOR DATA SCIENCE",
     "instructor":null,
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:55pm",
@@ -238329,7 +238353,7 @@
     "points":"0",
     "prerequisites":[
       [
-        "STAT GU4206"
+        "AT4206"
       ]
     ],
     "scheduled_days":"F",
@@ -238339,7 +238363,7 @@
   {
     "course_code":"STAT GU4006",
     "course_title":"RECITATION FOR PROGRAMMING FOR DATA SCIE",
-    "course_descr":"zero credit recitation for STAT GU4206",
+    "course_descr":"RECITATION FOR STAT4206GU PROGRAMMING FOR DATA SCIENCE",
     "instructor":null,
     "scheduled_time_start":"10:40am",
     "scheduled_time_end":"11:55am",
@@ -238356,7 +238380,7 @@
     "points":"0",
     "prerequisites":[
       [
-        "STAT GU4206"
+        "AT4206"
       ]
     ],
     "scheduled_days":"F",
@@ -238366,7 +238390,7 @@
   {
     "course_code":"STAT GU4006",
     "course_title":"RECITATION FOR PROGRAMMING FOR DATA SCIE",
-    "course_descr":"zero credit recitation for STAT GU4206",
+    "course_descr":"RECITATION FOR STAT4206GU PROGRAMMING FOR DATA SCIENCE",
     "instructor":null,
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -238383,7 +238407,7 @@
     "points":"0",
     "prerequisites":[
       [
-        "STAT GU4206"
+        "AT4206"
       ]
     ],
     "scheduled_days":"F",

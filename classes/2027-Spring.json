@@ -646,7 +646,7 @@
   {
     "course_code":"ANTH GR6365",
     "course_title":"EXHIBITION CULTURES",
-    "course_descr":null,
+    "course_descr":"Laurel Kendall. This course is a continuation of Museum Anthropology G6352 (not a prerequisite). Through the study of museum exhibitions, this course explores a series of debates about the representation of culture in museums, the politics of identity, and the significance of objects. We will consider the museum as a contemporary and variable form, as a site for the expression of national, group, and individual identity and as a site of performance and consumption. We will consider how exhibits are developed, what they aim to convey, what makes them effective (or not), and how they sometimes become flashpoints of controversy. Because the work of museums is visual, enacted through the display of material forms, we will also consider the transformation of objects into artifacts and as part of exhibitions, addressing questions of meaning, ownership, value, and magic. We will look at this range of issues from the point of view of practitioners, critics, and audiences. G6365 works in tandem with the exhibition project that will be developed in \u201cExhibition Practice in Global Culture\u201d to produce a small exhibit at AMNH.",
     "instructor":"Laurel Kendall",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -664,7 +664,12 @@
     ],
     "points":"3",
     "prerequisites":[
-
+      [
+        "G6352"
+      ],
+      [
+        "G6365"
+      ]
     ],
     "scheduled_days":"T",
     "section_key":"20271ANTH6365G001",
@@ -29762,6 +29767,56 @@
     "scheduled_days":"M",
     "section_key":"20271PSYC3618X001",
     "type":"SEMINAR"
+  },
+  {
+    "course_code":"PUBH UN3100",
+    "course_title":"FUNDAMENTALS OF GLOBAL HEALTH",
+    "course_descr":null,
+    "instructor":"Rachel Moresky",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"5:25pm",
+    "call_number":"10881",
+    "campus":null,
+    "class_id":"W3100-20271-001",
+    "course_subtitle":"FUNDAMENTALS OF GLOBAL HE",
+    "department":"Columbia College",
+    "department_code":"PUBH",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PUBH\/W3100-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20271PUBH3100W001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"PUBH UN3400",
+    "course_title":"Data Science and Health Equity in New Yo",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"5:40pm",
+    "scheduled_time_end":"6:55pm",
+    "call_number":"10880",
+    "campus":null,
+    "class_id":"C3400-20271-001",
+    "course_subtitle":"Data Science and Health E",
+    "department":"Columbia College",
+    "department_code":"PUBH",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PUBH\/C3400-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20271PUBH3400C001",
+    "type":"LECTURE"
   },
   {
     "course_code":"PU__ N01P_",
