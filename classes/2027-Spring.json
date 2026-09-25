@@ -3390,7 +3390,7 @@
   {
     "course_code":"BIOL GR5031",
     "course_title":"Genetics",
-    "course_descr":null,
+    "course_descr":"Prerequisites: BIOL UN2005 and BIOL UN2006 or the equivalent. General genetics course focused on basic principles of transmission genetics and the application of genetic approaches to the study of biological function. Principles will be illustrated using classical and contemporary examples from prokaryote and eukaryote organisms, and the experimental discoveries at their foundation will be featured. Applications will include genetic approaches to studying animal development and human diseases. \u00a0All students must get permission from the instructor to be added from the waitlist.",
     "instructor":null,
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -3406,7 +3406,12 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "BIOL UN2005"
+      ],
+      [
+        "BIOL UN2006"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20271BIOL5031G001",
@@ -3415,7 +3420,7 @@
   {
     "course_code":"BIOL GR6300",
     "course_title":"Writing for the Biological Sciences",
-    "course_descr":null,
+    "course_descr":"Throughout their careers, scientists are expected to communicate their ideas and report their results in writing to the scientific community. Researchers who can make themselves understood tend to get funded, get published, and have more successful careers. PhD graduates who decide to go into STEM fields outside academic research often find scientific communication skills among the most sought after in industry, foundation work, and other areas. In this course, we will explore the choices a writer can make to achieve clarity of thought and clear prose style while communicating complex scientific ideas to other scientists. To that end, we will read examples of scientific writing from the recent literature, consider the strategies used by successful writers, and workshop student writing. All the writing you do in this course will be geared toward producing your written Qualifying Exam in Biological Sciences. By the end of the semester, you will have a complete, revised draft of your written Qualifying Exam.",
     "instructor":"Meehan J Crist",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:25pm",
@@ -3442,7 +3447,7 @@
   {
     "course_code":"BIOL GU4001",
     "course_title":"ADVANCED GENETIC ANALYSIS",
-    "course_descr":null,
+    "course_descr":"Prerequisites: for undergraduates: Introductory Genetics (W3031) and the instructors permission. This seminar course provides a detailed presentation of areas in classical and molecular genetics for advanced undergraduates and beginning graduate students. Topics include transmission genetics, gain and loss of function mutations, genetic redundancy, suppressors, enhancers, epistasis, expression patterns, using transposons, and genome analysis. The course is a mixture of lectures, student presentations, seminar discussions, and readings from the original literature.",
     "instructor":"Martin Chalfie",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"4:00pm",
@@ -3458,7 +3463,9 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "W3031"
+      ]
     ],
     "scheduled_days":"M",
     "section_key":"20271BIOL4001W001",
@@ -3467,7 +3474,7 @@
   {
     "course_code":"BIOL GU4075",
     "course_title":"BIOLOGY AT PHYSICAL EXTREMES",
-    "course_descr":null,
+    "course_descr":"Prerequisites: one year each of biology and physics, or the instructor's permission. This is a combined lecture\/seminar course designed for graduate students and advanced undergraduates. The course will cover a series of cases where biological systems take advantage of physical phenomena in counter intuitive and surprising ways to accomplish their functions. In each of these cases, we will discuss different physical mechanisms at work. We will limit our discussions to simple, qualitative arguments. We will also discuss experimental methods enabling the study of these biological systems. Overall, the course will expose students to a wide range of physical concepts involved in biological processes.",
     "instructor":"Ozgur Sahin",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -3492,7 +3499,7 @@
   {
     "course_code":"BIOL GU4080",
     "course_title":"ANCIENT AND MODERN RNA WORLDS",
-    "course_descr":null,
+    "course_descr":"RNA has recently taken center stage with the discovery that RNA molecules sculpt the landscape and information contained within our genomes. Furthermore, some ancient RNA molecules combine the roles of both genotype and phenotype into a single molecule. These multi-tasking RNAs offering a possible solution to the paradox of which came first: DNA or proteins. This seminar explores the link between modern RNA, metabolism, and insights into a prebiotic RNA world that existed some 3.8 billion years ago. Topics include the origin of life, replication, and the origin of the genetic code; conventional, new, and bizarre forms of RNA processing; structure, function and evolution of key RNA molecules, including the ribosome, and RNA therapeutics including vaccines. The format will be weekly seminar discussions with presentations. Readings will be taken from the primary literature, emphasizing seminal and recent literature. Requirements will be student presentations, class participation, and a final paper.",
     "instructor":"Laura Landweber",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -3542,7 +3549,7 @@
   {
     "course_code":"BIOL GU4512",
     "course_title":"Molecular Biology",
-    "course_descr":null,
+    "course_descr":"Prerequisites: one year of biology. This is a lecture course designed for advanced undergraduates and graduate students. The focus is on understanding at the molecular\/biochemical level how genetic information is stored within the cell, how it is replicated and expressed, and how it is regulated. Topics covered include genome organization, DNA replication and repair, transcription, RNA processing, and translation. This course will also emphasize the critical analysis of the scientific literature and help students understand how to identify important biological problems and how to address them experimentally. SPS and TC students may register for this course, but they must first obtain the written permission of the instructor, by filling out a paper Registration Adjustment Form (Add\/Drop form). The form can be downloaded at the URL below, but must be signed by the instructor and returned to the office of the registrar. \nhttp:\/\/registrar.columbia.edu\/sites\/default\/files\/content\/reg-adjustment.pdf",
     "instructor":"Alice Heicklen",
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:55pm",
@@ -3592,7 +3599,7 @@
   {
     "course_code":"BIOL GU4565",
     "course_title":"Fundamentals of Human Genetics",
-    "course_descr":null,
+    "course_descr":"From the notion of a type-specimen for a species to a wild-type mouse strain, biology has long relied on the idea of an archetype. In reality, however, there is variation everywhere one looks\u2014no wild-type, only mutants. This variation is what makes some families taller than others or more susceptible to autism. Making sense of these differences is what led from the study of \u201cthe\u201d human genome to that of millions of genomes. Notably, this goal is central to precision medicine, undergirding accurate disease risk prediction and tailored individual treatments. This shift in perspective poses new and fundamental questions, challenging us to understand how genetic perturbations and environmental effects together give rise to human difference. The goal of this course is to provide a basis for the study of such questions, by focusing on the causes and consequences of human genetic variation. It aims to provide a fundamental toolbox with which to approach human genetic data and to facilitate access to exciting developments in the field, from weekly discoveries about our prehistory to major developments in our understanding of the genetic basis for disease risk. The basis for the course is a new, freely available textbook, An Owner\u2019s Guide to the Human Genome, by Jonathan Pritchard.",
     "instructor":null,
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:25pm",
@@ -3617,7 +3624,7 @@
   {
     "course_code":"BIOL UN1004",
     "course_title":"Foundations of Biology",
-    "course_descr":null,
+    "course_descr":"General Chemistry I is a pre-requisite; General Chemistry II is a pre\/co-requisite. In this course, we will introduce basic terminology, important concepts, and basic problem-solving skills in order to prepare biology and pre-health students for the challenging Biology courses they will take at Columbia. We will do a deep dive into a small number of topics and use these as access points to teaching skills that will aid students in future STEM courses. Classes will include time for problem solving. Recitations will involve problem solving and student presentations of solutions to problems.",
     "instructor":"Mary Ann Price",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:25pm",
@@ -3642,7 +3649,7 @@
   {
     "course_code":"BIOL UN1360",
     "course_title":"Science and Society",
-    "course_descr":null,
+    "course_descr":"BIOL 1360 is a seminar for undergraduates in any class who are interested in exploring the complex relationships between science and society, some of which have become especially prominent and controversial during the past several months.\u00a0\u00a0 I have enjoyed teaching this course for nearly a decade, at Columbia and elsewhere, based in part on my own experiences conducting and overseeing biomedical research at academic and governmental institutions.\n  \nMany of our discussions will be built upon the foundational philosophy outlined in a famous short essay by Vannevar Bush and adopted by the US government shortly after World War Two.\u00a0 His essay helped to define the relationships---among government, academia, and industry---that\u00a0 influence how scientific work is conducted and supported, how universities operate, and how our nation\u2019s economy, health, security, and prestige rise and fall.\n  \nThe course addresses a wide array of topics, such as: why do people choose a scientific career? why do governments and other funders support scientific work? how does science fail? why is there skepticism about science? how is it represented in the arts? how are results disseminated, evaluated, and legally protected?\u00a0\u00a0 These questions and others are addressed from numerous perspectives, with examples taken from many fields of science, mostly biology and medicine, including the Covid-19 pandemic, biotechnology, and others.\n  \nI will provide assignments for each class --- mainly short articles (from newspapers and scientific journals) and book chapters, but also a few films and short books --- at least a week in advance as topics for discussion. \u00a0\u00a0\u00a0There will be no final exam or other written tests, but every student will undertake a term project on a topic developed through private consultations with me, and will present the findings orally in class and in a short essay.\u00a0\n  \nI welcome undergraduate students from all classes who are concentrating in any field: the natural or social sciences, humanities, or the arts. There are no prerequisites, other than an interest in how the scientific enterprise works and how it interacts with other components of our society.",
     "instructor":"Harold Varmus",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:25pm",
@@ -3667,7 +3674,7 @@
   {
     "course_code":"BIOL UN2006",
     "course_title":"INTRO BIO II:CELL BIO,DEV\/PHYS",
-    "course_descr":null,
+    "course_descr":"Prerequisites: BIOL UN2005, or the instructors permission. Lecture and recitation. Recommended second term of biology for majors in biology and related majors, and for premedical students. Cellular biology and development; physiology of cells and organisms. SPS, Barnard, and TC students may register for this course, but they must first obtain the written permission of the instructor, by filling out a paper Registration Adjustment Form (Add\/Drop form). The form can be downloaded at the URL below, but must be signed by the instructor and returned to the office of the registrar.\u00a0\nhttp:\/\/registrar.columbia.edu\/sites\/default\/files\/content\/reg-adjustment.pdf\n\u00a0. Students must register for a recitation section BIOL UN2016.",
     "instructor":null,
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -3683,7 +3690,10 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "BIOL UN2005",
+        "BIOL UN2016"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20271BIOL2006C001",
@@ -3692,7 +3702,7 @@
   {
     "course_code":"BIOL UN2006",
     "course_title":"INTRO BIO II:CELL BIO,DEV\/PHYS",
-    "course_descr":null,
+    "course_descr":"Prerequisites: BIOL UN2005, or the instructors permission. Lecture and recitation. Recommended second term of biology for majors in biology and related majors, and for premedical students. Cellular biology and development; physiology of cells and organisms. SPS, Barnard, and TC students may register for this course, but they must first obtain the written permission of the instructor, by filling out a paper Registration Adjustment Form (Add\/Drop form). The form can be downloaded at the URL below, but must be signed by the instructor and returned to the office of the registrar.\u00a0\nhttp:\/\/registrar.columbia.edu\/sites\/default\/files\/content\/reg-adjustment.pdf\n\u00a0. Students must register for a recitation section BIOL UN2016.",
     "instructor":null,
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:25pm",
@@ -3708,7 +3718,10 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "BIOL UN2005",
+        "BIOL UN2016"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20271BIOL2006C002",
@@ -3717,7 +3730,7 @@
   {
     "course_code":"BIOL UN2402",
     "course_title":"CONTMP BIO II:CELL BIO,DEV,PHYS",
-    "course_descr":null,
+    "course_descr":"Prerequisites: a course in college chemistry and BIOL UN2005 or BIOL UN2401, or the written permission of either the instructor or the premedical adviser. Cellular biology and development; physiology of cells and organisms. Same lectures as BIOL UN2006, but recitation is optional. For a detailed description of the differences between the two courses, see the course web site or http:\/\/www.columbia.edu\/cu\/biology\/ug\/advice\/faqs\/gs.html. SPS, Barnard, and TC students may register for this course, but they must first obtain the written permission of the instructor, by filling out a paper Registration Adjustment Form (Add\/Drop form). The form can be downloaded at the URL below, but must be signed by the instructor and returned to the office of the registrar. http:\/\/registrar.columbia.edu\/sites\/default\/files\/content\/reg-adjustment.pdf",
     "instructor":null,
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -3733,7 +3746,11 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "BIOL UN2005",
+        "BIOL UN2401",
+        "BIOL UN2006"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20271BIOL2402F001",
@@ -3742,7 +3759,7 @@
   {
     "course_code":"BIOL UN2402",
     "course_title":"CONTMP BIO II:CELL BIO,DEV,PHYS",
-    "course_descr":null,
+    "course_descr":"Prerequisites: a course in college chemistry and BIOL UN2005 or BIOL UN2401, or the written permission of either the instructor or the premedical adviser. Cellular biology and development; physiology of cells and organisms. Same lectures as BIOL UN2006, but recitation is optional. For a detailed description of the differences between the two courses, see the course web site or http:\/\/www.columbia.edu\/cu\/biology\/ug\/advice\/faqs\/gs.html. SPS, Barnard, and TC students may register for this course, but they must first obtain the written permission of the instructor, by filling out a paper Registration Adjustment Form (Add\/Drop form). The form can be downloaded at the URL below, but must be signed by the instructor and returned to the office of the registrar. http:\/\/registrar.columbia.edu\/sites\/default\/files\/content\/reg-adjustment.pdf",
     "instructor":null,
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:25pm",
@@ -3758,7 +3775,11 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "BIOL UN2005",
+        "BIOL UN2401",
+        "BIOL UN2006"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20271BIOL2402F002",
@@ -3767,7 +3788,7 @@
   {
     "course_code":"BIOL UN2501",
     "course_title":"CONTEMPORARY BIOLOGY LAB",
-    "course_descr":null,
+    "course_descr":"Prerequisite or corequisite: BIOL UN2005 or BIOL UN2401. Contemporary Biology Lab is designed to provide students with hands-on exploration of fundamental and contemporary biological tools and concepts. Activities include in depth study of mammalian anatomy and physiology through dissection and histology, as well as a series of experiments in genetics and molecular biology, with emphasis on data analysis and experimental technique.",
     "instructor":"Ava E Brent",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"5:00pm",
@@ -3783,7 +3804,10 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "BIOL UN2005",
+        "BIOL UN2401"
+      ]
     ],
     "scheduled_days":"M",
     "section_key":"20271BIOL2501W001",
@@ -3792,7 +3816,7 @@
   {
     "course_code":"BIOL UN2501",
     "course_title":"CONTEMPORARY BIOLOGY LAB",
-    "course_descr":null,
+    "course_descr":"Prerequisite or corequisite: BIOL UN2005 or BIOL UN2401. Contemporary Biology Lab is designed to provide students with hands-on exploration of fundamental and contemporary biological tools and concepts. Activities include in depth study of mammalian anatomy and physiology through dissection and histology, as well as a series of experiments in genetics and molecular biology, with emphasis on data analysis and experimental technique.",
     "instructor":"Joshua M Abrams",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"5:00pm",
@@ -3808,7 +3832,10 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "BIOL UN2005",
+        "BIOL UN2401"
+      ]
     ],
     "scheduled_days":"T",
     "section_key":"20271BIOL2501W002",
@@ -3817,7 +3844,7 @@
   {
     "course_code":"BIOL UN2501",
     "course_title":"CONTEMPORARY BIOLOGY LAB",
-    "course_descr":null,
+    "course_descr":"Prerequisite or corequisite: BIOL UN2005 or BIOL UN2401. Contemporary Biology Lab is designed to provide students with hands-on exploration of fundamental and contemporary biological tools and concepts. Activities include in depth study of mammalian anatomy and physiology through dissection and histology, as well as a series of experiments in genetics and molecular biology, with emphasis on data analysis and experimental technique.",
     "instructor":"Ava E Brent",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"5:00pm",
@@ -3833,7 +3860,10 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "BIOL UN2005",
+        "BIOL UN2401"
+      ]
     ],
     "scheduled_days":"W",
     "section_key":"20271BIOL2501W003",
@@ -3842,7 +3872,7 @@
   {
     "course_code":"BIOL UN2501",
     "course_title":"CONTEMPORARY BIOLOGY LAB",
-    "course_descr":null,
+    "course_descr":"Prerequisite or corequisite: BIOL UN2005 or BIOL UN2401. Contemporary Biology Lab is designed to provide students with hands-on exploration of fundamental and contemporary biological tools and concepts. Activities include in depth study of mammalian anatomy and physiology through dissection and histology, as well as a series of experiments in genetics and molecular biology, with emphasis on data analysis and experimental technique.",
     "instructor":"Joshua M Abrams",
     "scheduled_time_start":"5:40pm",
     "scheduled_time_end":"9:30pm",
@@ -3858,7 +3888,10 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "BIOL UN2005",
+        "BIOL UN2401"
+      ]
     ],
     "scheduled_days":"R",
     "section_key":"20271BIOL2501W004",
@@ -3867,7 +3900,7 @@
   {
     "course_code":"BIOL UN3005",
     "course_title":"NEUROBIO II: DEVPT & SYSTEMS",
-    "course_descr":null,
+    "course_descr":"Prerequisites: One year of biology, \u00a0BIOL UN3004 or instructors permission in case the student hasn't take it. This course is the capstone course for the Neurobiology and Behavior undergraduate major at Columbia University. It is designed for advanced undergraduate and graduate students. Knowledge of \u00a0Cellular Neuroscience (how an action potential is generated and how a synapse works) will be assumed. It is recommended that students take BIOL UN3004 Neurobiology I: Molecular and Cellular Neuroscience, or a similar course, or obtain instructors permission. Website for BIOLUN3005:\u00a0\nhttps:\/\/blogs.cuit.columbia.edu\/rmy5\/files\/2022\/01\/syllabus.UN3005.2022.v4-lab.pdf",
     "instructor":"Maria Tosches",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -3883,7 +3916,14 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "BIOL UN3004",
+        "BIOL UN3004",
+        "UN3005"
+      ],
+      [
+        "UN3005"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20271BIOL3005W001",
@@ -3892,7 +3932,7 @@
   {
     "course_code":"BIOL UN3006",
     "course_title":"PHYSIOLOGY",
-    "course_descr":null,
+    "course_descr":"In this primarily human physiology course, we will discuss how the major organ systems function, with an emphasis on cellular, molecular, and physical mechanisms. Organ systems covered include musculoskeletal, cardiovascular, respiratory, urinary, and digestive systems. Traditional lectures focus primarily on the normal functioning of organ systems, while pathophysiology is introduced through five case studies during the semester. After this course, students should be able to 1) describe the basic functioning of the major organ systems and how they contribute to homeostasis and health, 2) apply key concepts in physics and chemistry, such as flow, pressure\/volume relationships, and mass action, to physiological systems, 3) use key concepts in molecular and cell biology to gain a mechanistic understanding of physiological processes, explain how organ systems work in an integrated way to achieve homeostasis and health, and 4) predict changes in organ function upon drug treatment, genetic mutation, or disease conditions.",
     "instructor":"Ava E Brent",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:25pm",
@@ -3917,7 +3957,7 @@
   {
     "course_code":"BIOL UN3031",
     "course_title":"GENETICS",
-    "course_descr":null,
+    "course_descr":"Prerequisites: BIOL UN2005 and BIOL UN2006. General genetics course focused on basic principles of transmission genetics and the application of genetic approaches to the study of biological function. Principles will be illustrated using classical and contemporary examples from prokaryote and eukaryote organisms, and the experimental discoveries at their foundation will be featured. Applications will include genetic approaches to studying animal development and human diseases. SPS and TC students must obtain the written permission from the instructor, by filling out a Registration Adjustment Form (Add\/Drop form). https:\/\/www.registrar.columbia.edu\/sites\/default\/files\/content\/reg-adjustment.pdf",
     "instructor":null,
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -3933,7 +3973,12 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "BIOL UN2005"
+      ],
+      [
+        "BIOL UN2006"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20271BIOL3031W001",
@@ -3942,7 +3987,7 @@
   {
     "course_code":"BIOL UN3052",
     "course_title":"PROJECT LAB-MOLECULAR GENETICS",
-    "course_descr":null,
+    "course_descr":"Multicellular animals contain a diverse array of cell types, yet start from a single cell. How do cells decide what kind of cell to be? In this lab course, we will use the tools of molecular biology and genetics to explore this fascinating question. We will use the nematode \nCaenorhabditis elegans\n, a powerful model organism used in hundreds of research labs. The course will be divided into three modules: \nC. elegans\n genetics, molecular cloning, and genetic screening. Laboratory techniques will include PCR, gel electrophoresis, restriction digest, ligation, transformation, RNAi, and \nC. elegans\n maintenance. Students will pursue original projects; emphasis will be placed on scientific thinking and scientific communication. SPS and TC students may register for this course, but they must first obtain the written permission of the instructor, by filling out a paper Registration Adjustment Form (Add\/Drop form).\u00a0Prerequisites: UN2005\/UN2401 and UN2006\/UN2402, or the equivalent at a different institution.",
     "instructor":"Michelle Attner",
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"4:00pm",
@@ -3958,7 +4003,18 @@
     "open_to":null,
     "points":"5",
     "prerequisites":[
-
+      [
+        "UN2005"
+      ],
+      [
+        "UN2006"
+      ],
+      [
+        "UN2401"
+      ],
+      [
+        "UN2402"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20271BIOL3052C001",
@@ -3967,7 +4023,7 @@
   {
     "course_code":"BIOL UN3058",
     "course_title":"PROJECT LAB IN MICROBIOLOGY",
-    "course_descr":null,
+    "course_descr":"Prerequisites: one year of Intro Bio. An introductory biology or chemistry lab is recommended. Bacteria are not just unicellular germs. This lab course will broaden your awareness of the amazing world of microbiology and the diverse capabilities of microbes. The focus will be on bacterial multicellularity, pigment production, and intercellular signaling. Pigment-producing bacteria will be isolated from the wild (i.e. Morningside Campus or your skin), and characterized using standard genetic tools (PCR, DNA gel electrophoresis, transformation, screen) and microbiology techniques (isolation of bacteria and growth of bacterial colonies, media preparation, enrichment techniques for pigments). These techniques will also be applied in the study of bacterial multicellularity and signaling in the standard lab strain Pseudomonas aeruginosa. SCE and TC students may register for this course, but they must first obtain the written permission of the instructor, by filling out a paper Registration Adjustment Form (Add\/Drop form). The form can be downloaded at the URL below, but must be signed by the instructor and returned to the office of the registrar. http:\/\/registrar.columbia.edu\/sites\/default\/files\/content\/reg-adjustment.pdf",
     "instructor":"Lars E Dietrich",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"5:00pm",
@@ -3992,7 +4048,7 @@
   {
     "course_code":"BIOL UN3300",
     "course_title":"Biochemistry",
-    "course_descr":null,
+    "course_descr":"Prerequisites: 1\u00a0year\u00a0of Introductory Biology, 1 year General Chemistry, and 1st semester Organic Chemistry.\u00a0 Biochemistry is the study of the chemical processes within organisms that give rise to the immense complexity of life. This complexity emerges from a highly regulated and coordinated flow of chemical energy from one biomolecule to another. This course serves to familiarize students with the spectrum of biomolecules (carbohydrates, lipids, amino acids, nucleic acids, etc.) as well as the fundamental chemical processes (glycolysis, citric acid cycle, fatty acid metabolism, etc.) that allow life to happen.\u00a0The course will end with a discussion of diseases that have biochemical etiologies.\u00a0In particular, this course will employ active learning techniques and critical thinking problem-solving to engage students in answering the question: how is the complexity of life possible? NOTE: While\u00a0only the 1st\u00a0semester of Organic Chemistry is listed as a pre-requisite, it is highly recommended that you take all of Organic Chemistry beforehand.",
     "instructor":"Danny N Ho",
     "scheduled_time_start":"7:00pm",
     "scheduled_time_end":"9:30pm",
@@ -4017,7 +4073,7 @@
   {
     "course_code":"BIOL UN3500",
     "course_title":"INDEP BIOLOGICAL RESEARCH",
-    "course_descr":null,
+    "course_descr":"Prerequisites: Intro Bio I & II. Students who have not taken Intro Bio are encouraged to register for BIOL UN2600. Concurrent with registering for this course, a student must register with the department and provide a written invitation from a mentor; details of this procedure are available at https:\/\/biology.columbia.edu\/content\/biol-un3500-independent-biological-research. Students must register for recitations UN3510 or consult the instructor. Corequisites: BIOL UN3510.\n  \nIndependent Biological Research is an opportunity for full-time undergraduates in the College, SEAS and GS interested in laboratory research to share in the work of an ongoing research program in our Department or in a comparable laboratory elsewhere in the region. Projects should address a specific biological problem. Clinical projects are not allowed. While most projects are laboratory-based, computational projects that address specific biological issues are allowed.",
     "instructor":"Ron M Prywes",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -4033,7 +4089,11 @@
     "open_to":null,
     "points":"3-4",
     "prerequisites":[
-
+      [
+        "BIOL UN2600",
+        "UN3510",
+        "BIOL UN3510"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20271BIOL3500W001",
@@ -6312,7 +6372,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Kelvin J Ng",
     "scheduled_time_start":"8:10am",
     "scheduled_time_end":"10:00am",
@@ -6340,7 +6400,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Zehra Mehdi",
     "scheduled_time_start":"8:10am",
     "scheduled_time_end":"10:00am",
@@ -6368,7 +6428,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Ali Noori",
     "scheduled_time_start":"8:10am",
     "scheduled_time_end":"10:00am",
@@ -6396,7 +6456,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Lyu Zhou",
     "scheduled_time_start":"8:10am",
     "scheduled_time_end":"10:00am",
@@ -6424,7 +6484,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Noah B Strote",
     "scheduled_time_start":"8:10am",
     "scheduled_time_end":"10:00am",
@@ -6452,7 +6512,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Yannik Thiem",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -6480,7 +6540,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Zehra Mehdi",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -6508,7 +6568,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Ali Noori",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -6536,7 +6596,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Lyu Zhou",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -6564,7 +6624,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Roger Lehecka",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -6592,7 +6652,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Michael F Stanislawski",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -6620,7 +6680,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Ethan Jacobs",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -6648,7 +6708,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Anthony E Garruzzo",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -6676,7 +6736,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Kelvin J Ng",
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"2:00pm",
@@ -6704,7 +6764,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Isaac J Stethem",
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"2:00pm",
@@ -6732,7 +6792,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Nader H Atassi",
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"2:00pm",
@@ -6760,7 +6820,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Christopher T Hoffman",
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"2:00pm",
@@ -6788,7 +6848,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Noah B Strote",
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"2:00pm",
@@ -6816,7 +6876,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Celia C Eckert",
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"2:00pm",
@@ -6844,7 +6904,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Ethan Jacobs",
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"2:00pm",
@@ -6872,7 +6932,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Anthony E Garruzzo",
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"2:00pm",
@@ -6900,7 +6960,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Daniel Luban",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -6928,7 +6988,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Isaac J Stethem",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -6956,7 +7016,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Nader H Atassi",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -6984,7 +7044,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Dante Clementi",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -7012,7 +7072,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Patricia Dailey",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -7040,7 +7100,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Celia C Eckert",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -7068,7 +7128,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Lisa S Anderson",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -7096,7 +7156,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Jonathan Peterson",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -7124,7 +7184,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Jiyoon Kim",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -7152,7 +7212,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Larry Jackson",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -7180,7 +7240,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Jacob C Haagenson",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -7208,7 +7268,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Christopher T Hoffman",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -7236,7 +7296,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Matthew Hart",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -7264,7 +7324,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Christopher L Brown",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -7292,7 +7352,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Branka Arsic",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -7320,7 +7380,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Marcus Folch",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -7348,7 +7408,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Jennifer McDonald",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -7376,7 +7436,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Aziza Shanazarova",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -7404,7 +7464,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Jacob C Haagenson",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -7432,7 +7492,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Dante Clementi",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -7460,7 +7520,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Joseph Schittone",
     "scheduled_time_start":"8:10am",
     "scheduled_time_end":"10:00am",
@@ -7488,7 +7548,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Rafael Yuste",
     "scheduled_time_start":"8:10am",
     "scheduled_time_end":"10:00am",
@@ -7516,7 +7576,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Soren J Dudley",
     "scheduled_time_start":"8:10am",
     "scheduled_time_end":"10:00am",
@@ -7544,7 +7604,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Amogha B Sahu",
     "scheduled_time_start":"8:10am",
     "scheduled_time_end":"10:00am",
@@ -7572,7 +7632,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Joseph M Lasky",
     "scheduled_time_start":"8:10am",
     "scheduled_time_end":"10:00am",
@@ -7600,7 +7660,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Elsa J Lora",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -7628,7 +7688,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Joshua Whitford",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -7656,7 +7716,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Gil Anidjar",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -7684,7 +7744,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Amogha B Sahu",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -7712,7 +7772,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Malgorzata Mazurek",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -7740,7 +7800,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Liam Dee",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -7768,7 +7828,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Clara Maier",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -7796,7 +7856,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Matthew Engelke",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -7824,7 +7884,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Neslihan Senocak",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -7852,7 +7912,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Mana Kia",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -7880,7 +7940,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Shaunna Rodrigues",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -7908,7 +7968,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Carol Rovane",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -7936,7 +7996,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Adam Leeds",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -7964,7 +8024,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Charly J Coleman",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -7992,7 +8052,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Liam Dee",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -8020,7 +8080,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Akeel Bilgrami",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -8048,7 +8108,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Richard A Billows",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -8076,7 +8136,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Joshua F Dienstag",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -8104,7 +8164,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Amnah Almukhtar",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -8132,7 +8192,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Soren J Dudley",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -8160,7 +8220,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Kyle Baasch",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -8188,7 +8248,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Elisabeth A Ladenson",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -8216,7 +8276,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Matthew J Connelly",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -8244,7 +8304,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Jesse A Chevan",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -8272,7 +8332,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Nathaniel Berman",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -8300,7 +8360,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Amnah Almukhtar",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -8328,7 +8388,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Dana Neacsu",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -8356,7 +8416,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Kyle Baasch",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -8384,7 +8444,7 @@
   {
     "course_code":"COCI CC1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"Taught by members of the Departments of Anthropology, Classics, English and Comparative Literature, French, German, History, Middle East and Asian Languages and Cultures, Philosophy, Political Science, Religion, Slavic Languages, and Sociology; and members of the Society of Fellows. A study in their historical context of major contributions to the intellectual traditions that underpin contemporary civilization. Emphasis is on the history of political, social, and philosophical thought. Students are expected to write at least three papers to complete two examinations, and to participate actively in class discussions.",
     "instructor":"Jesse W Izzo",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -8412,7 +8472,7 @@
   {
     "course_code":"COCI GS1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"A year-long course designed to introduce students to a wide range of issues of public significance by asking them to read closely texts in various traditions of argument with a focus on selected European traditions of moral, political, religious, and social thought. Readings in the Bible, the Qur\u2019an, Plato, Aristotle, St. Augustine, Machiavelli, Descartes, Hobbes, Locke, Rousseau, Smith, Kant, Marx, Darwin, Nietzsche, DuBois, and Freud.",
     "instructor":"Jennifer McDonald",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -8439,7 +8499,7 @@
   {
     "course_code":"COCI GS1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"A year-long course designed to introduce students to a wide range of issues of public significance by asking them to read closely texts in various traditions of argument with a focus on selected European traditions of moral, political, religious, and social thought. Readings in the Bible, the Qur\u2019an, Plato, Aristotle, St. Augustine, Machiavelli, Descartes, Hobbes, Locke, Rousseau, Smith, Kant, Marx, Darwin, Nietzsche, DuBois, and Freud.",
     "instructor":"Jesse A Chevan",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -8466,7 +8526,7 @@
   {
     "course_code":"COCI GS1102",
     "course_title":"CONTEMP WESTRN CIVILIZATION II",
-    "course_descr":null,
+    "course_descr":"A year-long course designed to introduce students to a wide range of issues of public significance by asking them to read closely texts in various traditions of argument with a focus on selected European traditions of moral, political, religious, and social thought. Readings in the Bible, the Qur\u2019an, Plato, Aristotle, St. Augustine, Machiavelli, Descartes, Hobbes, Locke, Rousseau, Smith, Kant, Marx, Darwin, Nietzsche, DuBois, and Freud.",
     "instructor":"Shaunna Rodrigues",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -17246,7 +17306,7 @@
   {
     "course_code":"HIST BC3508",
     "course_title":"COLONIAL GOTHAM",
-    "course_descr":null,
+    "course_descr":"This class is not a \u201cpre-history\u201d of the modern metropolis, but rather a stand-alone story of Gotham\u2019s growth from a tiny Dutch trading post in the midst of hundreds of Native villages into a key port of the first British Empire. We will close at the dramatic moment when the colonial society at the tip of Manhattan was torn apart and partially destroyed in the inter-imperial civil war we know as the American Revolution.\n  \nEven when its skyline was made of wooden masts and steeples, New York City was a diverse and dangerous place. Major topics will include frontier wars, slave conspiracies, religious revivals, and conflicts between the legitimate and contraband economies. All along, we will try to balance local and global perspectives, and blend social, cultural, political, and economic analyses. The course will also consider this colonial town\u2019s place in American national memory, and critically approaching the many self-congratulatory and silly stories people like to believe about this long-lost island town.\n  \nThe central texts in this course are a combination of secondary sources and primary texts. Our weekly meetings will mostly focus on the assigned reading, with each student submitting six (6) short reading responses on Courseworks before 9 am on the day of class. Students will also develop an original fifteen-to-twenty-page research paper on a colonial New York topic of their own choosing, and will be strongly encouraged to use archival resources held at Columbia or one of the city\u2019s other major archives (NYPL, N-YHS, NMAI, Schomburg Center, Municipal Archives).",
     "instructor":"Andrew C Lipman",
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"2:00pm",
@@ -17266,6 +17326,31 @@
     ],
     "scheduled_days":"F",
     "section_key":"20271HIST3508X001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"HIST BC3910",
+    "course_title":"GLOBAL POLITICS OF REPRODUCTION",
+    "course_descr":null,
+    "instructor":"Nara Milanich",
+    "scheduled_time_start":"12:10pm",
+    "scheduled_time_end":"2:00pm",
+    "call_number":"00907",
+    "campus":null,
+    "class_id":"X3910-20271-001",
+    "course_subtitle":"GLOBAL POLITICS OF REPROD",
+    "department":"History @Barnard",
+    "department_code":"HIST",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HIST\/X3910-20271-001\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20271HIST3910X001",
     "type":"SEMINAR"
   },
   {
@@ -17830,7 +17915,7 @@
   {
     "course_code":"HUMA UN1123",
     "course_title":"Music Humanities",
-    "course_descr":null,
+    "course_descr":"Analysis and discussion of representative works from the Middle Ages to the present.",
     "instructor":null,
     "scheduled_time_start":"8:40am",
     "scheduled_time_end":"9:55am",
@@ -17859,7 +17944,7 @@
   {
     "course_code":"HUMA UN1123",
     "course_title":"Music Humanities",
-    "course_descr":null,
+    "course_descr":"Analysis and discussion of representative works from the Middle Ages to the present.",
     "instructor":null,
     "scheduled_time_start":"8:40am",
     "scheduled_time_end":"9:55am",
@@ -17888,7 +17973,7 @@
   {
     "course_code":"HUMA UN1123",
     "course_title":"Music Humanities",
-    "course_descr":null,
+    "course_descr":"Analysis and discussion of representative works from the Middle Ages to the present.",
     "instructor":null,
     "scheduled_time_start":"8:40am",
     "scheduled_time_end":"9:55am",
@@ -17917,7 +18002,7 @@
   {
     "course_code":"HUMA UN1123",
     "course_title":"Music Humanities",
-    "course_descr":null,
+    "course_descr":"Analysis and discussion of representative works from the Middle Ages to the present.",
     "instructor":null,
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -17946,7 +18031,7 @@
   {
     "course_code":"HUMA UN1123",
     "course_title":"Music Humanities",
-    "course_descr":null,
+    "course_descr":"Analysis and discussion of representative works from the Middle Ages to the present.",
     "instructor":null,
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -17975,7 +18060,7 @@
   {
     "course_code":"HUMA UN1123",
     "course_title":"Music Humanities",
-    "course_descr":null,
+    "course_descr":"Analysis and discussion of representative works from the Middle Ages to the present.",
     "instructor":null,
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -18004,7 +18089,7 @@
   {
     "course_code":"HUMA UN1123",
     "course_title":"Music Humanities",
-    "course_descr":null,
+    "course_descr":"Analysis and discussion of representative works from the Middle Ages to the present.",
     "instructor":null,
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:25pm",
@@ -18033,7 +18118,7 @@
   {
     "course_code":"HUMA UN1123",
     "course_title":"Music Humanities",
-    "course_descr":null,
+    "course_descr":"Analysis and discussion of representative works from the Middle Ages to the present.",
     "instructor":null,
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:25pm",
@@ -18062,7 +18147,7 @@
   {
     "course_code":"HUMA UN1123",
     "course_title":"Music Humanities",
-    "course_descr":null,
+    "course_descr":"Analysis and discussion of representative works from the Middle Ages to the present.",
     "instructor":null,
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:55pm",
@@ -18091,7 +18176,7 @@
   {
     "course_code":"HUMA UN1123",
     "course_title":"Music Humanities",
-    "course_descr":null,
+    "course_descr":"Analysis and discussion of representative works from the Middle Ages to the present.",
     "instructor":null,
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:55pm",
@@ -18120,7 +18205,7 @@
   {
     "course_code":"HUMA UN1123",
     "course_title":"Music Humanities",
-    "course_descr":null,
+    "course_descr":"Analysis and discussion of representative works from the Middle Ages to the present.",
     "instructor":null,
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:55pm",
@@ -18149,7 +18234,7 @@
   {
     "course_code":"HUMA UN1123",
     "course_title":"Music Humanities",
-    "course_descr":null,
+    "course_descr":"Analysis and discussion of representative works from the Middle Ages to the present.",
     "instructor":null,
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:25pm",
@@ -18178,7 +18263,7 @@
   {
     "course_code":"HUMA UN1123",
     "course_title":"Music Humanities",
-    "course_descr":null,
+    "course_descr":"Analysis and discussion of representative works from the Middle Ages to the present.",
     "instructor":null,
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:25pm",
@@ -18207,7 +18292,7 @@
   {
     "course_code":"HUMA UN1123",
     "course_title":"Music Humanities",
-    "course_descr":null,
+    "course_descr":"Analysis and discussion of representative works from the Middle Ages to the present.",
     "instructor":null,
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:25pm",
@@ -18236,7 +18321,7 @@
   {
     "course_code":"HUMA UN1123",
     "course_title":"Music Humanities",
-    "course_descr":null,
+    "course_descr":"Analysis and discussion of representative works from the Middle Ages to the present.",
     "instructor":null,
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:25pm",
@@ -18265,7 +18350,7 @@
   {
     "course_code":"HUMA UN1123",
     "course_title":"Music Humanities",
-    "course_descr":null,
+    "course_descr":"Analysis and discussion of representative works from the Middle Ages to the present.",
     "instructor":null,
     "scheduled_time_start":"5:40pm",
     "scheduled_time_end":"6:55pm",
@@ -18294,7 +18379,7 @@
   {
     "course_code":"HUMA UN1123",
     "course_title":"Music Humanities",
-    "course_descr":null,
+    "course_descr":"Analysis and discussion of representative works from the Middle Ages to the present.",
     "instructor":null,
     "scheduled_time_start":"5:40pm",
     "scheduled_time_end":"6:55pm",
@@ -18323,7 +18408,7 @@
   {
     "course_code":"HUMA UN1123",
     "course_title":"Music Humanities",
-    "course_descr":null,
+    "course_descr":"Analysis and discussion of representative works from the Middle Ages to the present.",
     "instructor":null,
     "scheduled_time_start":"5:40pm",
     "scheduled_time_end":"6:55pm",
@@ -18352,7 +18437,7 @@
   {
     "course_code":"HUMA UN1123",
     "course_title":"Music Humanities",
-    "course_descr":null,
+    "course_descr":"Analysis and discussion of representative works from the Middle Ages to the present.",
     "instructor":null,
     "scheduled_time_start":"5:40pm",
     "scheduled_time_end":"6:55pm",
@@ -18381,7 +18466,7 @@
   {
     "course_code":"HUMA UN1123",
     "course_title":"Music Humanities",
-    "course_descr":null,
+    "course_descr":"Analysis and discussion of representative works from the Middle Ages to the present.",
     "instructor":null,
     "scheduled_time_start":"7:40pm",
     "scheduled_time_end":"8:55pm",
@@ -18410,7 +18495,7 @@
   {
     "course_code":"HUMA UN1123",
     "course_title":"Music Humanities",
-    "course_descr":null,
+    "course_descr":"Analysis and discussion of representative works from the Middle Ages to the present.",
     "instructor":null,
     "scheduled_time_start":"8:40am",
     "scheduled_time_end":"9:55am",
@@ -18439,7 +18524,7 @@
   {
     "course_code":"HUMA UN1123",
     "course_title":"Music Humanities",
-    "course_descr":null,
+    "course_descr":"Analysis and discussion of representative works from the Middle Ages to the present.",
     "instructor":null,
     "scheduled_time_start":"8:40am",
     "scheduled_time_end":"9:55am",
@@ -18468,7 +18553,7 @@
   {
     "course_code":"HUMA UN1123",
     "course_title":"Music Humanities",
-    "course_descr":null,
+    "course_descr":"Analysis and discussion of representative works from the Middle Ages to the present.",
     "instructor":null,
     "scheduled_time_start":"8:40am",
     "scheduled_time_end":"9:55am",
@@ -18497,7 +18582,7 @@
   {
     "course_code":"HUMA UN1123",
     "course_title":"Music Humanities",
-    "course_descr":null,
+    "course_descr":"Analysis and discussion of representative works from the Middle Ages to the present.",
     "instructor":null,
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -18526,7 +18611,7 @@
   {
     "course_code":"HUMA UN1123",
     "course_title":"Music Humanities",
-    "course_descr":null,
+    "course_descr":"Analysis and discussion of representative works from the Middle Ages to the present.",
     "instructor":null,
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -18555,7 +18640,7 @@
   {
     "course_code":"HUMA UN1123",
     "course_title":"Music Humanities",
-    "course_descr":null,
+    "course_descr":"Analysis and discussion of representative works from the Middle Ages to the present.",
     "instructor":null,
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -18584,7 +18669,7 @@
   {
     "course_code":"HUMA UN1123",
     "course_title":"Music Humanities",
-    "course_descr":null,
+    "course_descr":"Analysis and discussion of representative works from the Middle Ages to the present.",
     "instructor":null,
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -18613,7 +18698,7 @@
   {
     "course_code":"HUMA UN1123",
     "course_title":"Music Humanities",
-    "course_descr":null,
+    "course_descr":"Analysis and discussion of representative works from the Middle Ages to the present.",
     "instructor":null,
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:25pm",
@@ -18642,7 +18727,7 @@
   {
     "course_code":"HUMA UN1123",
     "course_title":"Music Humanities",
-    "course_descr":null,
+    "course_descr":"Analysis and discussion of representative works from the Middle Ages to the present.",
     "instructor":null,
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:55pm",
@@ -18671,7 +18756,7 @@
   {
     "course_code":"HUMA UN1123",
     "course_title":"Music Humanities",
-    "course_descr":null,
+    "course_descr":"Analysis and discussion of representative works from the Middle Ages to the present.",
     "instructor":null,
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:55pm",
@@ -18700,7 +18785,7 @@
   {
     "course_code":"HUMA UN1123",
     "course_title":"Music Humanities",
-    "course_descr":null,
+    "course_descr":"Analysis and discussion of representative works from the Middle Ages to the present.",
     "instructor":null,
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:55pm",
@@ -18729,7 +18814,7 @@
   {
     "course_code":"HUMA UN1123",
     "course_title":"Music Humanities",
-    "course_descr":null,
+    "course_descr":"Analysis and discussion of representative works from the Middle Ages to the present.",
     "instructor":null,
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:25pm",
@@ -18758,7 +18843,7 @@
   {
     "course_code":"HUMA UN1123",
     "course_title":"Music Humanities",
-    "course_descr":null,
+    "course_descr":"Analysis and discussion of representative works from the Middle Ages to the present.",
     "instructor":null,
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:25pm",
@@ -18787,7 +18872,7 @@
   {
     "course_code":"HUMA UN1123",
     "course_title":"Music Humanities",
-    "course_descr":null,
+    "course_descr":"Analysis and discussion of representative works from the Middle Ages to the present.",
     "instructor":null,
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:25pm",
@@ -18816,7 +18901,7 @@
   {
     "course_code":"HUMA UN1123",
     "course_title":"Music Humanities",
-    "course_descr":null,
+    "course_descr":"Analysis and discussion of representative works from the Middle Ages to the present.",
     "instructor":null,
     "scheduled_time_start":"5:40pm",
     "scheduled_time_end":"6:55pm",
@@ -18845,7 +18930,7 @@
   {
     "course_code":"HUMA UN1123",
     "course_title":"Music Humanities",
-    "course_descr":null,
+    "course_descr":"Analysis and discussion of representative works from the Middle Ages to the present.",
     "instructor":null,
     "scheduled_time_start":"5:40pm",
     "scheduled_time_end":"6:55pm",
@@ -18874,7 +18959,7 @@
   {
     "course_code":"HUMA UN1123",
     "course_title":"Music Humanities",
-    "course_descr":null,
+    "course_descr":"Analysis and discussion of representative works from the Middle Ages to the present.",
     "instructor":null,
     "scheduled_time_start":"5:40pm",
     "scheduled_time_end":"6:55pm",
@@ -18903,7 +18988,7 @@
   {
     "course_code":"HUMA UN1123",
     "course_title":"Music Humanities",
-    "course_descr":null,
+    "course_descr":"Analysis and discussion of representative works from the Middle Ages to the present.",
     "instructor":null,
     "scheduled_time_start":"7:40pm",
     "scheduled_time_end":"8:55pm",
@@ -18932,7 +19017,7 @@
   {
     "course_code":"HUMA UN2000",
     "course_title":"Core as Praxis\/Fieldwork",
-    "course_descr":null,
+    "course_descr":"HUMA UN2000\n\u00a0\u2013 The\u00a0\nCore as Praxis\n\u00a0or\u00a0\nFieldwork\n\u00a0provides students with the opportunity to explore the connections among texts from the Core Curriculum, their work in their major field of study, and their work in a professional environment outside of Columbia\u2019s campus. Students will be guided through a process of reflection on the ideas and approaches that they develop in Core classes and in the courses in their major, and to think about how they can apply theory to practice in the context of an experiential learning environment\u00a0(e.g., service learning, fieldwork, internship, etc.). Students will reread and revisit a text that they have studied previously in\u00a0\nLiterature Humanities\n\u00a0or in\u00a0\nContemporary Civilization\n\u00a0as the basis for their critical lens on their major and experiential learning and as the basis for their reading and writing assignments during the course.\u00a0\n  \nStudent Eligibility Criteria:\n  \n  \nHave already completed the sophomore year\n  \nHave already declared a major\n  \nAre engaging concurrently in an experiential learning opportunity (e.g., service learning, fieldwork, internship, etc.)\n \n  \nHUMA UN2000 may not be taken with the Pass\/D\/Fail option. All students will receive a letter grade for the course. Students can take HUMA UN2000 twice.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -18951,7 +19036,11 @@
     ],
     "points":"1",
     "prerequisites":[
-
+      [
+        "HUMA UN2000",
+        "HUMA UN2000",
+        "HUMA UN2000"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20271HUMA2000S001",
@@ -23855,7 +23944,7 @@
   {
     "course_code":"LACV UN1020",
     "course_title":"PRIM TEXTS OF LATIN AMER CIV",
-    "course_descr":null,
+    "course_descr":"It focuses on key texts from Latin America in their historical and intellectual context and seeks to understand their structure and the practical purposes they served using close reading and, when possible, translations. The course seeks to establish a counterpoint to the list of canonical texts of Contemporary Civilization. The selections are not intended to be compared directly to those in CC but to raise questions about the different contexts in which ideas are used, the critical exchanges and influences (within and beyond Latin America) that shaped ideas in the region, and the long-term intellectual, political, and cultural pursuits that have defined Latin American history. The active engagement of students toward these texts is the most important aspect of class work and assignments. NO FIRST YEAR STUDENTS PERMITTED.",
     "instructor":"Caterina Pizzigoni",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -43045,7 +43134,7 @@
   {
     "course_code":"THTR UN3004",
     "course_title":"ACTING I",
-    "course_descr":null,
+    "course_descr":"Prerequisite: Open to all Barnard and Columbia undergraduates. Permission of Instructor required; students admitted from Waiting List. Course develops physical, vocal, and imaginative range and skills needed to approach the text of a play: text analysis, speech exercises, non-verbal behavior, improvisation designed to enhance embodiment, movement, and projection.\u00a0\nGateway course to advanced courses; transfer students who have previous college-level course may be exempted with approval of Chair\n.\n\u00a0May be retaken for full credit.",
     "instructor":"Gisela D Cardenas Ojeda",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -43145,7 +43234,7 @@
   {
     "course_code":"THTR UN3005",
     "course_title":"ACTING II",
-    "course_descr":null,
+    "course_descr":"Prerequisite: Open to all Barnard and Columbia undergraduates. Permission of Instructor required; students admitted from Waiting List. Students must have taken Acting I or equivalent to be eligible for Acting II sections. Acting II will offer several different sections, focusing on a specific range of conceptual, embodiment, and physical acting skills. Please check with the Theatre Department website forspecific offerings and audition information.\u00a0May be retaken for full credit.\u00a0 All sections of Acting II fullfull the \u201cArts and Humanities\u201d Foundations requirement at Barnard College.",
     "instructor":"Crystal Finn",
     "scheduled_time_start":"9:10am",
     "scheduled_time_end":"11:00am",
