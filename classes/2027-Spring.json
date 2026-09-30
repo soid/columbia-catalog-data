@@ -25,31 +25,6 @@
     "type":"SEMINAR"
   },
   {
-    "course_code":"AFRS BC2004",
-    "course_title":"INTRODUCTN TO AFRICAN STUDIES",
-    "course_descr":"Interdisciplinary and thematic approach to the study of Africa, moving from pre-colonial through colonial and post-colonial periods to contemporary Africa. Focus will be on its history, societal relations, politics and the arts. The objective is to provide a critical survey of the history as well as the continuing debates in African Studies.",
-    "instructor":"Abosede A George",
-    "scheduled_time_start":"11:40am",
-    "scheduled_time_end":"12:55pm",
-    "call_number":"00909",
-    "campus":null,
-    "class_id":"X2004-20271-001",
-    "course_subtitle":"INTRODUCTN TO AFRICAN STU",
-    "department":"Africana Studies (AFSB)",
-    "department_code":"AFRS",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/AFRS\/X2004-20271-001\/",
-    "location":null,
-    "method_of_instruction":null,
-    "open_to":null,
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"MW",
-    "section_key":"20271AFRS2004X001",
-    "type":"LECTURE"
-  },
-  {
     "course_code":"AFRS BC2005",
     "course_title":"CARIBBEAN CULTURE & SOCIETIES",
     "course_descr":"This course offers a chronological study of the Anglophone, Hispanophone, and Francophone insular Caribbean through the eyes of some of the region\u2019s most important writers and thinkers. We will focus on issues that key Caribbean intellectuals--including two Nobel prize-winning authors--consider particularly enduring and relevant in Caribbean cultures and societies. Among these are, for example, colonization, slavery, national and postcolonial identity, race, class, popular culture, gender, sexuality, tourism and migration. This course will also serve as an introduction to some of the exciting work on the Caribbean by professors at Barnard College and Columbia University (faculty spotlights).",
@@ -1663,6 +1638,41 @@
     "scheduled_days":null,
     "section_key":"20271ARCH3998V004",
     "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"ARTS AR6060",
+    "course_title":"Art and Artists in Society: The Subversi",
+    "course_descr":null,
+    "instructor":"Carol Becker",
+    "scheduled_time_start":"2:00pm",
+    "scheduled_time_end":"5:00pm",
+    "call_number":"11068",
+    "campus":null,
+    "class_id":"R6060-20271-001",
+    "course_subtitle":"The Subversive Imaginatio",
+    "department":"Arts, School of the",
+    "department_code":"ARTS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ARTS\/R6060-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture",
+      "Business",
+      "GSAS",
+      "Journalism",
+      "Law",
+      "Public Health",
+      "SIPA",
+      "Schools of the Arts",
+      "Teachers College"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20271ARTS6060R001",
+    "type":"SEMINAR"
   },
   {
     "course_code":"ASCM BC3000",
@@ -12544,7 +12554,7 @@
   {
     "course_code":"ECON BC3039",
     "course_title":"ENVIRONMENTAL & NATURAL RESOURCE ECONOMI",
-    "course_descr":null,
+    "course_descr":"Prerequisites: ECON BC1003 or ECON W1105. Prerequisite for Economics majors: ECON BC3035. Link between economic behavior and environmental quality: valuation of non-market benefits of pollution abatement; emissions standards; taxes; and transferable discharge permits. Specific problems of hazardous waste; the distribution of hazardous pollutants across different sub-groups of the U.S. population; the exploitation of commonly owned natural resources; and the links between the environment, income distribution, and economic development.",
     "instructor":"Thuy Nguyen",
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:55pm",
@@ -12560,7 +12570,11 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "ECON BC1003",
+        "ECON W1105",
+        "ECON BC3035"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20271ECON3039X001",
@@ -12744,7 +12758,7 @@
   {
     "course_code":"ECON BC3062",
     "course_title":"SENIOR THESIS II",
-    "course_descr":null,
+    "course_descr":"Permission of the instructor and the completion of all courses (except for the senior requirement) required for the economics department majors. Exceptions to these prerequisites may be granted by the chair of the department only.\u00a0Tutorials and conferences on the research for and writing of the senior thesis. This is the 2nd semester of a two-semester course sequence.",
     "instructor":"Thuy Nguyen",
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"2:00pm",
@@ -17273,6 +17287,31 @@
     ],
     "scheduled_days":null,
     "section_key":"20271GAPP2250U001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"GEND GR6212",
+    "course_title":"Introduction to the Biology of Aging",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11067",
+    "campus":null,
+    "class_id":"G6212-20271-001",
+    "course_subtitle":"Biology of Aging",
+    "department":"Genetics and Development",
+    "department_code":"GEND",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/GEND\/G6212-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"1.5",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271GEND6212G001",
     "type":"LECTURE"
   },
   {
@@ -46030,7 +46069,7 @@
   {
     "course_code":"WMST GU4305",
     "course_title":"Decolonization and Feminist Critique",
-    "course_descr":null,
+    "course_descr":"This advanced seminar examines historical, social, cultural, and theoretical propositions for decolonizing praxis and their complex relations to feminist critique. How do we understand Western European colonialism and coloniality as modes, conditions, and institutions of power, dispossession, subjugation, and subjection continuing into the present? What are the methods, practices, and vision enacted and proposed by the colonized for undoing and radically transforming the determinate logics, instruments, and structures of colonialism as these persist in the present moment? We will consider how gender and sexuality as well as race \u2013 as technologies of social organization, codes of valuation, and modes of survival \u2013 shape colonialism and the struggles against it. We will inquire into their significance to projects of decolonization. How might decolonization envision and make possible other ways of life?",
     "instructor":"Neferti Tadiar",
     "scheduled_time_start":"11:10am",
     "scheduled_time_end":"1:00pm",
@@ -46132,8 +46171,8 @@
     "course_title":"QUEER THEORY",
     "course_descr":null,
     "instructor":"Jack Halberstam",
-    "scheduled_time_start":"2:10pm",
-    "scheduled_time_end":"4:00pm",
+    "scheduled_time_start":"12:10pm",
+    "scheduled_time_end":"2:00pm",
     "call_number":"10211",
     "campus":null,
     "class_id":"W3200-20271-001",
@@ -46148,7 +46187,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":"M",
+    "scheduled_days":"T",
     "section_key":"20271WMST3200W001",
     "type":"SEMINAR"
   },
