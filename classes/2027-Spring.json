@@ -1225,6 +1225,34 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"ANTH UN2000",
+    "course_title":"POLITICAL ANTHROPOLOGY",
+    "course_descr":null,
+    "instructor":"Radhika Govindrajan",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"11:25am",
+    "call_number":"11466",
+    "campus":null,
+    "class_id":"W2000-20271-001",
+    "course_subtitle":null,
+    "department":"Anthropology",
+    "department_code":"ANTH",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ANTH\/W2000-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "General Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20271ANTH2000W001",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"ANTH UN2005",
     "course_title":"THE ETHNOGRAPHIC IMAGINATION",
     "course_descr":"Introduction to the theory and practice of \u201cethnography\u201d\u2014the intensive study of peoples\u2019 lives as shaped by social relations, cultural images, and historical forces. Considers through critical reading of various kinds of texts (classic ethnographies, histories, journalism, novels, films) the ways in which understanding, interpreting, and representing the lived words of people\u2014at home or abroad, in one place or transnationally, in the past or the present\u2014can be accomplished. Discussion section required.",
@@ -8567,8 +8595,8 @@
     "course_title":"BASIC CONCEPTS-POST-FREUD THGT",
     "course_descr":null,
     "instructor":"Adele Tutter",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"12:10pm",
+    "scheduled_time_end":"2:00pm",
     "call_number":"11454",
     "campus":null,
     "class_id":"G4201-20271-001",
@@ -8583,7 +8611,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"W",
     "section_key":"20271CLPS4201G001",
     "type":"SEMINAR"
   },
@@ -10873,8 +10901,8 @@
     "course_title":"Introduction to Computational Thinking a",
     "course_descr":"This course and its co-requisite lab course will introduce students to the methods and tools used in data science to obtain insights from data. Students will learn how to analyze data arising from real-world phenomena while mastering critical concepts and skills in computer programming and statistical inference. The course will involve hands-on analysis of real-world datasets, including economic data, document collections, geographical data, and social networks. The course is ideal for students looking to increase their digital literacy and expand their use and understanding of computation and data analysis across disciplines. No prior programming or college-level math background is required.",
     "instructor":"Niall Williams",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"11:40am",
+    "scheduled_time_end":"12:55pm",
     "call_number":"00799",
     "campus":null,
     "class_id":"X1016-20271-001",
@@ -10889,33 +10917,8 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"TR",
     "section_key":"20271COMS1016X001",
-    "type":"LECTURE"
-  },
-  {
-    "course_code":"COMS BC1016",
-    "course_title":"Introduction to Computational Thinking a",
-    "course_descr":"This course and its co-requisite lab course will introduce students to the methods and tools used in data science to obtain insights from data. Students will learn how to analyze data arising from real-world phenomena while mastering critical concepts and skills in computer programming and statistical inference. The course will involve hands-on analysis of real-world datasets, including economic data, document collections, geographical data, and social networks. The course is ideal for students looking to increase their digital literacy and expand their use and understanding of computation and data analysis across disciplines. No prior programming or college-level math background is required.",
-    "instructor":"Tiffany Tseng",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
-    "call_number":"00800",
-    "campus":null,
-    "class_id":"X1016-20271-002",
-    "course_subtitle":"INTRO COMP THINK AND DATA SCI",
-    "department":"Computer Science @Barnard",
-    "department_code":"COMS",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMS\/X1016-20271-002\/",
-    "location":null,
-    "method_of_instruction":null,
-    "open_to":null,
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":null,
-    "section_key":"20271COMS1016X002",
     "type":"LECTURE"
   },
   {
@@ -10923,8 +10926,8 @@
     "course_title":"COMPUTER GRAPHICS",
     "course_descr":"This undergraduate course introduces students to algorithms, data structures and mathematical principles used in computer graphics. Students will gain experience with OpenGL and graphics processing unit (GPU) programming and develop an understanding of the graphics pipeline. The topics covered include shading and illumination, sampling and reconstruction, ray tracing, graphics hardware, geometric and viewing transformations, rendering, modeling curves and surfaces and image-based methods. Near the end of the course, students will be introduced to topics in animation, global illumination and reflectance and modern concepts like neural rendering. Pre-Requisites: COMS W3157 Advanced Programming, Linear Algebra (COMS W3251, APMA E3101, APMA E2101, MATH UN2010, or MATH UN2015), and Calculus I or higher.\n  \nPlease note:\u00a0\n  \nDue to significant overlap in content, only one of COMS BC3160 or COMS W4160 may be taken for credit.",
     "instructor":"Niall Williams",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"11:25am",
     "call_number":"00802",
     "campus":null,
     "class_id":"X3160-20271-001",
@@ -10956,33 +10959,8 @@
         "COMS W4160"
       ]
     ],
-    "scheduled_days":null,
+    "scheduled_days":"TR",
     "section_key":"20271COMS3160X001",
-    "type":"LECTURE"
-  },
-  {
-    "course_code":"COMS BC3262",
-    "course_title":"INTRODUCTION TO CRYPTOGRAPHY",
-    "course_descr":"This course is an introduction to modern cryptography, focusing on the complexity-theoretic foundations of secure computation and communication in adversarial environments, precise definitions, and provably secure protocols. Topics include private and public key encryption schemes, digital signatures, authentication, pseudorandom generators and functions, one-way functions, trapdoor functions, number theory and computational hardness, identification and zero knowledge protocols.",
-    "instructor":"Eysa Lee",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
-    "call_number":"00803",
-    "campus":null,
-    "class_id":"X3262-20271-001",
-    "course_subtitle":"INTRODUCTION TO CRYPTOGRA",
-    "department":"Computer Science @Barnard",
-    "department_code":"COMS",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMS\/X3262-20271-001\/",
-    "location":null,
-    "method_of_instruction":null,
-    "open_to":null,
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":null,
-    "section_key":"20271COMS3262X001",
     "type":"LECTURE"
   },
   {
@@ -10990,8 +10968,8 @@
     "course_title":"HUMAN-CENTERED SOCIAL NETWORK ANALYSIS",
     "course_descr":"Social media platforms enable millions of people to contribute their own information to web-enabled systems. This course prepares students to grapple with and analyze this information as they explore questions at the intersection of computational systems and social behavior. Student projects focus on studying real-world challenges and opportunities in current social media platforms by analyzing the vast amounts of data people leave behind, applying both computational and qualitative techniques. Readings and discussions guide students in reasoning about the ethics of working with this kind of data and approaching it from a human-centered perspective.\u00a0Students must be comfortable with programming in python.",
     "instructor":"Ahmer Arif",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"2:40pm",
+    "scheduled_time_end":"3:55pm",
     "call_number":"00896",
     "campus":null,
     "class_id":"X3411-20271-001",
@@ -11006,7 +10984,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"TR",
     "section_key":"20271COMS3411X001",
     "type":"SEMINAR"
   },
@@ -11040,8 +11018,8 @@
     "course_title":"LARGE LANGUAGE MODELS: FOUNDATIONS AND E",
     "course_descr":"Large Language Models (LLMs) such as GPT-3, ChatGPT, LLaMA are models that are trained on large amounts of data and are adaptable to a wide range of tasks. They are the basis of most state-of-the-art systems in Natural Language Processing. While the potential of these technologies for social good is large, the risks are also comparable. In this course, the students will learn the fundamentals about the modeling, theory and ethical aspects of LLMs and their applications, while gaining experience working with them. The course will be structured as a seminar, where one class is dedicated to instructor-led lecture and one to studentled discussion of papers around topics covered in the lecture. Each paper discussion will be structured as a panel of 3-4 students, each with an assigned role. Each panel role covers one aspect of critically assessing an academic\/industry paper. Everyone in the class should participate by commenting and asking questions from the panel. The class is project-based, meaning there will be a semester-long project focused on evaluating LLMs and\/or building LLMs around a topic\/problem\/task you care about, with an end of semester final paper. The projects will be done by groups of 3-4 students.\n  \nPrerequisite(s): COMS W3134 or W3136 or W3137 (or equivalent). Background in probability\/statistics and linear algebra is also required and experience with Python programming is strongly encouraged. Some previous or concurrent exposure to NLP, AI or machine learning is beneficial, but not required.",
     "instructor":"Smaranda Muresan",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"11:25am",
     "call_number":"00806",
     "campus":null,
     "class_id":"X3707-20271-001",
@@ -11060,7 +11038,7 @@
         "W3137"
       ]
     ],
-    "scheduled_days":null,
+    "scheduled_days":"MW",
     "section_key":"20271COMS3707X001",
     "type":"SEMINAR"
   },
@@ -11269,8 +11247,8 @@
     "course_title":"INTRO TO COMP LIT & SOCIETY",
     "course_descr":null,
     "instructor":"Arden A Hegele",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"12:00pm",
     "call_number":"11453",
     "campus":null,
     "class_id":"W3900-20271-001",
@@ -11278,14 +11256,14 @@
     "department":"Comparative Literature and Society, Institute for",
     "department_code":"CPLS",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/CPLS\/W3900-20271-001\/",
-    "location":null,
+    "location":"B-100 Heyman Center for the Humanities (East Campus)",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"3",
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"T",
     "section_key":"20271CPLS3900W001",
     "type":"SEMINAR"
   },
@@ -17296,6 +17274,436 @@
     "type":"SEMINAR"
   },
   {
+    "course_code":"ENGL PS0003",
+    "course_title":"LISTEN & SPEAK FOR INT'L STUDS",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"11467",
+    "campus":null,
+    "class_id":"Z0003-20271-001",
+    "course_subtitle":"LISTEN & SPEAK FOR INT'L",
+    "department":"American Language Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/Z0003-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "ALP"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20271ENGL0003Z001",
+    "type":"RESEARCH SEM"
+  },
+  {
+    "course_code":"ENGL PS0005",
+    "course_title":"ACADEMIC WRITING",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"9:10am",
+    "scheduled_time_end":"11:25am",
+    "call_number":"11468",
+    "campus":null,
+    "class_id":"Z0005-20271-001",
+    "course_subtitle":null,
+    "department":"American Language Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/Z0005-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "ALP"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MTR",
+    "section_key":"20271ENGL0005Z001",
+    "type":"LANGUAGE"
+  },
+  {
+    "course_code":"ENGL PS0005",
+    "course_title":"ACADEMIC WRITING",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"9:10am",
+    "scheduled_time_end":"11:25am",
+    "call_number":"11469",
+    "campus":null,
+    "class_id":"Z0005-20271-002",
+    "course_subtitle":null,
+    "department":"American Language Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/Z0005-20271-002\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "ALP"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MTR",
+    "section_key":"20271ENGL0005Z002",
+    "type":"LANGUAGE"
+  },
+  {
+    "course_code":"ENGL PS0006",
+    "course_title":"ACADEMIC WRITING",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:25pm",
+    "call_number":"11470",
+    "campus":null,
+    "class_id":"Z0006-20271-001",
+    "course_subtitle":null,
+    "department":"American Language Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/Z0006-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "ALP"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MWR",
+    "section_key":"20271ENGL0006Z001",
+    "type":"LANGUAGE"
+  },
+  {
+    "course_code":"ENGL PS0006",
+    "course_title":"ACADEMIC WRITING",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:25pm",
+    "call_number":"11471",
+    "campus":null,
+    "class_id":"Z0006-20271-002",
+    "course_subtitle":null,
+    "department":"American Language Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/Z0006-20271-002\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "ALP"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MWR",
+    "section_key":"20271ENGL0006Z002",
+    "type":"LANGUAGE"
+  },
+  {
+    "course_code":"ENGL PS0012",
+    "course_title":"AMER 12 PT PROG INTENSIVE",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11472",
+    "campus":null,
+    "class_id":"Z0012-20271-001",
+    "course_subtitle":null,
+    "department":"American Language Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/Z0012-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "ALP"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271ENGL0012Z001",
+    "type":"RESEARCH SEM"
+  },
+  {
+    "course_code":"ENGL PS0012",
+    "course_title":"AMER 12 PT PROG INTENSIVE",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11473",
+    "campus":null,
+    "class_id":"Z0012-20271-002",
+    "course_subtitle":null,
+    "department":"American Language Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/Z0012-20271-002\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "ALP"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271ENGL0012Z002",
+    "type":"RESEARCH SEM"
+  },
+  {
+    "course_code":"ENGL PS0012",
+    "course_title":"AMER 12 PT PROG INTENSIVE",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11474",
+    "campus":null,
+    "class_id":"Z0012-20271-003",
+    "course_subtitle":null,
+    "department":"American Language Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/Z0012-20271-003\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271ENGL0012Z003",
+    "type":"RESEARCH SEM"
+  },
+  {
+    "course_code":"ENGL PS0012",
+    "course_title":"AMER 12 PT PROG INTENSIVE",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11475",
+    "campus":null,
+    "class_id":"Z0012-20271-004",
+    "course_subtitle":null,
+    "department":"American Language Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/Z0012-20271-004\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "ALP"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271ENGL0012Z004",
+    "type":"RESEARCH SEM"
+  },
+  {
+    "course_code":"ENGL PS0719",
+    "course_title":"PRONUNCIATION WORKSHOP",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"11476",
+    "campus":null,
+    "class_id":"Z0719-20271-001",
+    "course_subtitle":null,
+    "department":"American Language Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/Z0719-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "ALP"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20271ENGL0719Z001",
+    "type":"WORKSHOP"
+  },
+  {
+    "course_code":"ENGL PS1007",
+    "course_title":"ADV ACAD WRITING FOR GS",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"9:10am",
+    "scheduled_time_end":"11:00am",
+    "call_number":"11477",
+    "campus":null,
+    "class_id":"Z1007-20271-001",
+    "course_subtitle":null,
+    "department":"American Language Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/Z1007-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "General Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20271ENGL1007Z001",
+    "type":"LANGUAGE"
+  },
+  {
+    "course_code":"ENGL PS1007",
+    "course_title":"ADV ACAD WRITING FOR GS",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"11:10am",
+    "scheduled_time_end":"1:00pm",
+    "call_number":"11478",
+    "campus":null,
+    "class_id":"Z1007-20271-002",
+    "course_subtitle":null,
+    "department":"American Language Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/Z1007-20271-002\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "General Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20271ENGL1007Z002",
+    "type":"LANGUAGE"
+  },
+  {
+    "course_code":"ENGL PS1007",
+    "course_title":"ADV ACAD WRITING FOR GS",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"11479",
+    "campus":null,
+    "class_id":"Z1007-20271-003",
+    "course_subtitle":null,
+    "department":"American Language Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/Z1007-20271-003\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "General Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20271ENGL1007Z003",
+    "type":"LANGUAGE"
+  },
+  {
+    "course_code":"ENGL PS1007",
+    "course_title":"ADV ACAD WRITING FOR GS",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"11480",
+    "campus":null,
+    "class_id":"Z1007-20271-004",
+    "course_subtitle":null,
+    "department":"American Language Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/Z1007-20271-004\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "General Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20271ENGL1007Z004",
+    "type":"LANGUAGE"
+  },
+  {
+    "course_code":"ENGL PS1007",
+    "course_title":"ADV ACAD WRITING FOR GS",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11481",
+    "campus":null,
+    "class_id":"Z1007-20271-005",
+    "course_subtitle":null,
+    "department":"American Language Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/Z1007-20271-005\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "General Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271ENGL1007Z005",
+    "type":"LANGUAGE"
+  },
+  {
+    "course_code":"ENGL PS1007",
+    "course_title":"ADV ACAD WRITING FOR GS",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11482",
+    "campus":null,
+    "class_id":"Z1007-20271-006",
+    "course_subtitle":null,
+    "department":"American Language Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/Z1007-20271-006\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "General Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271ENGL1007Z006",
+    "type":"LANGUAGE"
+  },
+  {
     "course_code":"ENTH BC3136",
     "course_title":"SHAKESPEARE IN PERFORMANCE",
     "course_descr":"Shakespeare's plays as theatrical events. Differing performance spaces, acting traditions, directorial frames, theatre practices, performance theories, critical studies, cultural codes, and historical conventions promote differing modes of engagement with drama in performance. We will explore Shakespeare's plays in the context of actual and possible performance from the Renaissance to the twenty-first century.",
@@ -21409,31 +21817,6 @@
     "instructor":"Faculty",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
-    "call_number":"00024",
-    "campus":null,
-    "class_id":"X1001-20271-024",
-    "course_subtitle":"FIRST-YEAR WRITING AT BAR",
-    "department":"First-Year Writing @Barnard",
-    "department_code":"FYWB",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FYWB\/X1001-20271-024\/",
-    "location":null,
-    "method_of_instruction":null,
-    "open_to":null,
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":null,
-    "section_key":"20271FYWB1001X024",
-    "type":"SEMINAR"
-  },
-  {
-    "course_code":"FYWB BC1001",
-    "course_title":"FIRST-YEAR WRITING AT BARNARD",
-    "course_descr":"First-Year Writing (FYW) courses invite students into the vibrant scholarly life of the college. Working in small, discussion-based seminar classes over the course of one semester, we read challenging literary texts and critical scholarship, helping students to develop fundamental skills in analysis and academic writing that allow them to take their place in vitally important scholarly conversations. Students may choose from a variety of special topics\u00a0that focus\u00a0on a particular literary tradition, theme, or phenomenon. Please see\u00a0https:\/\/firstyear.barnard.edu\/fyw\/course-listings for full course descriptions.",
-    "instructor":"Faculty",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
     "call_number":"00025",
     "campus":null,
     "class_id":"X1001-20271-025",
@@ -22705,8 +23088,8 @@
     "course_title":"Urban Healthscapes: A Spatial History of",
     "course_descr":"This course examines the landscapes of urban public health from the medieval era to the 19th century using spatial analysis. It has two objectives. Thematically, it introduces students to the concept and study of \u201curban healthscapes\u201d in Europe and the Americas before the age of modern bacteriology. Weekly lectures advance through a sequence of four related themes: (1) medieval and early modern communal, infrastructural, and regulatory spatial practices of public health; (2) urban mortality regimes, epidemics, and societal responses; (3) the relationships between urban form, spatial governance, planning, and public health; and (4) problems of environmental justice, including unequal exposure to health risks and access to health amenities. Methodologically, the course approaches these topics via the lens of historical Geographic Information Systems. In weekly labs, students acquire technical skills of GIS mapping. They learn how to work with spatial data, create GIS maps, conduct spatial analysis, and develop spatial historical arguments and narratives. Labs integrate recently released public hGIS datasets on a variety of cities\u2014such as medieval Bologna and 19th-century New York\u2014directly relevant to the themes covered in lectures. For course assignments, students use these datasets to conduct spatial analyses of urban healthscapes. The course is open to all undergraduates. Previous GIS knowledge is not needed.",
     "instructor":"Gergely Baics",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"11:25am",
     "call_number":"00430",
     "campus":null,
     "class_id":"X2920-20271-001",
@@ -22721,7 +23104,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"TR",
     "section_key":"20271HIST2920X001",
     "type":"LECTURE"
   },
@@ -22773,6 +23156,31 @@
     ],
     "scheduled_days":"R",
     "section_key":"20271HIST3098X001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"HIST BC3327",
+    "course_title":"CONSUMER CULTURE IN MOD EUROPE",
+    "course_descr":null,
+    "instructor":"Lisa Tiersten",
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"00924",
+    "campus":null,
+    "class_id":"X3327-20271-001",
+    "course_subtitle":"CONSUMER CULTURE IN MOD E",
+    "department":"History @Barnard",
+    "department_code":"HIST",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HIST\/X3327-20271-001\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20271HIST3327X001",
     "type":"SEMINAR"
   },
   {
@@ -38531,6 +38939,31 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"NSBV BC2008",
+    "course_title":"ADAPTIVE OR ARRESTED DEVELOPMENT OF THE",
+    "course_descr":null,
+    "instructor":"Bj Casey",
+    "scheduled_time_start":"8:40am",
+    "scheduled_time_end":"9:55am",
+    "call_number":"00925",
+    "campus":null,
+    "class_id":"X2008-20271-001",
+    "course_subtitle":"ADOLESCENT BRAIN",
+    "department":"Neuroscience & Behavior @Barnard",
+    "department_code":"NSBV",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NSBV\/X2008-20271-001\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20271NSBV2008X001",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"NSBV BC3001",
     "course_title":"SYSTEMS AND BEHAVIORAL NEUROSCIENCE",
     "course_descr":"This course provides an in-depth examination of the physiological bases of behavior and the development, organization, and function of the nervous system. Specific topics include methods used in behavioral neuroscience, development of the nervous system, sensory and motor systems, homeostasis, sexual differentiation, biological rhythms, stress, learning and memory, psychopathology, and neurological disorders.",
@@ -42323,6 +42756,31 @@
     ],
     "scheduled_days":"MW",
     "section_key":"20271POLS3100W001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"POLS UN3210",
+    "course_title":"JUDICIAL POLITICS",
+    "course_descr":null,
+    "instructor":"Jeffrey R Lax",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"5:25pm",
+    "call_number":"11465",
+    "campus":null,
+    "class_id":"W3210-20271-001",
+    "course_subtitle":null,
+    "department":"Political Science",
+    "department_code":"POLS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/POLS\/W3210-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20271POLS3210W001",
     "type":"LECTURE"
   },
   {
