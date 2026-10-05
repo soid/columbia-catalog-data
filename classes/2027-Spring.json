@@ -5847,7 +5847,7 @@
   {
     "course_code":"BUSI GU4013",
     "course_title":"Financial Accounting",
-    "course_descr":null,
+    "course_descr":"The purpose of this course is to provide a comprehensive introduction to accounting. It is designed to provide managerially oriented users of accounting products with the foundations of accounting concepts, the underlying mechanics, and the overall perspective required to become intelligent users of accounting information. The course will focus on the typical financial statements (e.g., balance sheets, income statements, and cash flow statements) along with the environment in which they are produced and used. The overarching perspective is that accounting reports provide information that is useful for various purposes.\n The course design emphasizes that the information content of accounting reports is jointly determined by the accounting methods used to generate the reports and the environment in which the reports are produced and used. Thus, the course integrates the study of accounting methods and the study of the accounting environment. Accounting concerns, in turn, vary with market opportunities, instruments, and organizational arrangements at hand.\n The course is organized into two interrelated modules. First, we review accounting-related institutional details, the nature of financial reports, audits, and disclosure. This includes the examination of the three main financial statements\u00a0the nature of accrual measurement, and the information perspective that is central to the course. Second, we explore accounting methods in detail, focusing on revenue recognition, assets, liabilities, and equity. We explicitly consider accounting issues related to global organizations.\n Throughout the course, we apply these concepts to real-world contexts, with attention to ethics, data integrity, financial statement analysis, valuation, and regulatory frameworks. In addition, we integrate contemporary topics such as the impact of climate change and ESG (environmental, social, and governance) considerations on financial reporting. Selected current events and emerging trends in ESG reporting are discussed in relation to the accounting frameworks and principles covered in class.\n Finally, we explore the role of artificial intelligence\u2014particularly large language models (LLMs)\u2014in financial analysis. The course introduces how AI tools can assist in interpreting financial statements, while emphasizing the importance of human judgment and expertise in ensuring responsible and effective use of AI technologies.\n \n For Mendelson Students Only.",
     "instructor":"Jonathan Glover",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"3:40pm",
@@ -9031,6 +9031,80 @@
     "scheduled_days":null,
     "section_key":"20271CLSL2301X001",
     "type":"LECTURE"
+  },
+  {
+    "course_code":"CLST GR8999",
+    "course_title":"Supervised Independent Research",
+    "course_descr":null,
+    "instructor":"Seth R Schwartz",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11554",
+    "campus":null,
+    "class_id":"G8999-20271-001",
+    "course_subtitle":"Supervised Independent Re",
+    "department":"Classical Studies",
+    "department_code":"CLST",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CLST\/G8999-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture",
+      "Business",
+      "Engineering:Graduate",
+      "GSAS",
+      "Journalism",
+      "Law",
+      "Professional Studies",
+      "Public Health",
+      "SIPA",
+      "Schools of the Arts",
+      "Social Work"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271CLST8999G001",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"CLST GR8999",
+    "course_title":"Supervised Independent Research",
+    "course_descr":null,
+    "instructor":"Katja Vogt",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11555",
+    "campus":null,
+    "class_id":"G8999-20271-002",
+    "course_subtitle":"Supervised Independent Re",
+    "department":"Classical Studies",
+    "department_code":"CLST",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CLST\/G8999-20271-002\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture",
+      "Business",
+      "Engineering:Graduate",
+      "GSAS",
+      "Journalism",
+      "Law",
+      "Professional Studies",
+      "Public Health",
+      "SIPA",
+      "Schools of the Arts",
+      "Social Work"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271CLST8999G002",
+    "type":"INDEPENDENT"
   },
   {
     "course_code":"COCI CC1102",
@@ -16616,6 +16690,81 @@
     "type":"SEMINAR"
   },
   {
+    "course_code":"ENGI E1102",
+    "course_title":"THE ART OF ENGINEERING",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11526",
+    "campus":null,
+    "class_id":"E1102-20271-001",
+    "course_subtitle":null,
+    "department":"Engineering",
+    "department_code":"ENGI",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGI\/E1102-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271ENGI1102E001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGI E4990",
+    "course_title":"ADVANCED MASTER'S RESEARCH",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11527",
+    "campus":null,
+    "class_id":"E4990-20271-001",
+    "course_subtitle":"ADVANCED MASTER'S RESEARC",
+    "department":"Engineering",
+    "department_code":"ENGI",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGI\/E4990-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0-6",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271ENGI4990E001",
+    "type":"RESEARCH SEM"
+  },
+  {
+    "course_code":"ENGI E8000",
+    "course_title":"DOCTORAL FIELD WORK",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"11529",
+    "campus":null,
+    "class_id":"E8000-20271-001",
+    "course_subtitle":null,
+    "department":"Engineering",
+    "department_code":"ENGI",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGI\/E8000-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271ENGI8000E001",
+    "type":"FIELD WORK"
+  },
+  {
     "course_code":"ENGL BC1045",
     "course_title":"Ghost Stories",
     "course_descr":"What are ghosts? Why are we haunted by them? And why are we so drawn to telling stories about these hauntings? In this class, we will read ghost stories from the 17th century through the present day; in the process, we will examine what these stories reveal about our own preoccupations, fears, and desires. Writers and readers turn to ghost stories for horror and suspense, for sure, but also because they\u2019re a powerful medium for reckoning with history and memory\u2014with the past\u2019s hold over the present\u2014particularly when it comes to violence, loss, oppression, and trauma. Ghost stories engage with issues of race, class, gender, and sexuality; with social otherness; with marginalization. Ghost stories stage problems of justice, vengeance, and guilt. Ghost stories trouble the nature of the body, and the meaning of (and boundaries between) life and death. Ghost stories lend themselves both to fear and to laughter, both to questions and to answers. While exploring all of these topics and themes, we will also consider the trope of storytelling itself, which figures prominently in so many works of the genre. What is wrapped up in the gesture of telling a story, and in the ways, contexts, and reasons in and for which these stories get told? Readings (subject to change) include works by Shakespeare, Charles Dickens, Edith Wharton, Henry James, Shirley Jackson, Helen Oyeyemi, Maxine Hong Kingston, Toni Morrison, Oscar Wilde, and others.",
@@ -16719,7 +16868,7 @@
     "course_code":"ENGL BC3104",
     "course_title":"THE ART OF THE ESSAY",
     "course_descr":"Essay writing above the first-year level. Reading and writing various types of essays to develop one's natural writing voice and craft thoughtful, sophisticated and personal essays.",
-    "instructor":"Shelly Fredman",
+    "instructor":"Nina Sharma",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"00272",
@@ -16791,6 +16940,31 @@
     "type":"WORKSHOP"
   },
   {
+    "course_code":"ENGL BC3108",
+    "course_title":"INTRODUCTION TO FICTION WRITING",
+    "course_descr":null,
+    "instructor":"Sarah Wang",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"00936",
+    "campus":null,
+    "class_id":"X3108-20271-002",
+    "course_subtitle":"INTRO TO FICTION WRITING",
+    "department":"English @Barnard",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/X3108-20271-002\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20271ENGL3108X002",
+    "type":"WORKSHOP"
+  },
+  {
     "course_code":"ENGL BC3110",
     "course_title":"INTRODUCTION TO POETRY WRITING",
     "course_descr":"Writing sample and application required to apply. Instructions and the application form can be found under\u00a0\nApplying to Creative Writing Courses on the English Department website.\n.\n  \nVaried assignments in poetry designed to explore the resources of language through imitation, allusion, free association, revision, and other techniques. For a more detailed, instructor-specific description, \nplease see our Course Offerings packet\n. If you are a Columbia student, please note that you will need to submit an access request to view the document containing instructor-specific course descriptions. All requests will be approved within 24 business hours.",
@@ -16846,7 +17020,7 @@
     "course_code":"ENGL BC3117",
     "course_title":"FICTION WRITING",
     "course_descr":"Writing sample and application required to apply. Instructions and the application form can be found under\u00a0\nApplying to Creative Writing Courses on the English Department website.\n  \nAssignments designed to examine form and structure in fiction. For a more detailed, instructor-specific description, \nplease see our Course Offerings packet.\n If you are a Columbia student, please note that you will need to submit an access request to view the document containing instructor-specific course descriptions. All requests will be approved within 24 business hours.",
-    "instructor":"Sarah Wang",
+    "instructor":"Gina Apostol",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
     "call_number":"00281",
@@ -16863,33 +17037,8 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":"T",
-    "section_key":"20271ENGL3117X001",
-    "type":"WORKSHOP"
-  },
-  {
-    "course_code":"ENGL BC3117",
-    "course_title":"FICTION WRITING",
-    "course_descr":"Writing sample and application required to apply. Instructions and the application form can be found under\u00a0\nApplying to Creative Writing Courses on the English Department website.\n  \nAssignments designed to examine form and structure in fiction. For a more detailed, instructor-specific description, \nplease see our Course Offerings packet.\n If you are a Columbia student, please note that you will need to submit an access request to view the document containing instructor-specific course descriptions. All requests will be approved within 24 business hours.",
-    "instructor":"Gina Apostol",
-    "scheduled_time_start":"6:10pm",
-    "scheduled_time_end":"8:00pm",
-    "call_number":"00282",
-    "campus":null,
-    "class_id":"X3117-20271-002",
-    "course_subtitle":null,
-    "department":"English @Barnard",
-    "department_code":"ENGL",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/X3117-20271-002\/",
-    "location":null,
-    "method_of_instruction":null,
-    "open_to":null,
-    "points":"3",
-    "prerequisites":[
-
-    ],
     "scheduled_days":"R",
-    "section_key":"20271ENGL3117X002",
+    "section_key":"20271ENGL3117X001",
     "type":"WORKSHOP"
   },
   {
@@ -17748,6 +17897,650 @@
     "type":"SEMINAR"
   },
   {
+    "course_code":"ENGL CC1010",
+    "course_title":"UNIVERSITY WRITING",
+    "course_descr":null,
+    "instructor":"Erag Ramizi",
+    "scheduled_time_start":"8:40am",
+    "scheduled_time_end":"9:55am",
+    "call_number":"11525",
+    "campus":null,
+    "class_id":"C1010-20271-901",
+    "course_subtitle":"UW FOR INTERNATIONAL STUDENTS",
+    "department":"Undergraduate Writing Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/C1010-20271-901\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20271ENGL1010C901",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGL CC1010",
+    "course_title":"UNIVERSITY WRITING",
+    "course_descr":null,
+    "instructor":"Stephanie Ahrens",
+    "scheduled_time_start":"8:40am",
+    "scheduled_time_end":"9:55am",
+    "call_number":"11530",
+    "campus":null,
+    "class_id":"C1010-20271-002",
+    "course_subtitle":"UW: CONTEMPORARY ESSAYS",
+    "department":"Undergraduate Writing Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/C1010-20271-002\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20271ENGL1010C002",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGL CC1010",
+    "course_title":"UNIVERSITY WRITING",
+    "course_descr":null,
+    "instructor":"Abigail R Melick",
+    "scheduled_time_start":"8:40am",
+    "scheduled_time_end":"9:55am",
+    "call_number":"11531",
+    "campus":null,
+    "class_id":"C1010-20271-303",
+    "course_subtitle":"UW: Readings-Performance Arts",
+    "department":"Undergraduate Writing Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/C1010-20271-303\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20271ENGL1010C303",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGL CC1010",
+    "course_title":"UNIVERSITY WRITING",
+    "course_descr":null,
+    "instructor":"Erag Ramizi",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"11:25am",
+    "call_number":"11532",
+    "campus":null,
+    "class_id":"C1010-20271-004",
+    "course_subtitle":"UW: CONTEMPORARY ESSAYS",
+    "department":"Undergraduate Writing Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/C1010-20271-004\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20271ENGL1010C004",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGL CC1010",
+    "course_title":"UNIVERSITY WRITING",
+    "course_descr":null,
+    "instructor":"Naomi Michalowicz",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"11:25am",
+    "call_number":"11533",
+    "campus":null,
+    "class_id":"C1010-20271-605",
+    "course_subtitle":"UW: Readings in Medical Hum",
+    "department":"Undergraduate Writing Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/C1010-20271-605\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20271ENGL1010C605",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGL CC1010",
+    "course_title":"UNIVERSITY WRITING",
+    "course_descr":null,
+    "instructor":"Abigail R Melick",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"11:25am",
+    "call_number":"11534",
+    "campus":null,
+    "class_id":"C1010-20271-306",
+    "course_subtitle":"UW: Readings-Performance Arts",
+    "department":"Undergraduate Writing Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/C1010-20271-306\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20271ENGL1010C306",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGL CC1010",
+    "course_title":"UNIVERSITY WRITING",
+    "course_descr":null,
+    "instructor":"Stephanie Ahrens",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"11:25am",
+    "call_number":"11539",
+    "campus":null,
+    "class_id":"C1010-20271-107",
+    "course_subtitle":"UW:READINGS IN AMERICN STUDIES",
+    "department":"Undergraduate Writing Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/C1010-20271-107\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20271ENGL1010C107",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGL CC1010",
+    "course_title":"UNIVERSITY WRITING",
+    "course_descr":null,
+    "instructor":"Andy Jo",
+    "scheduled_time_start":"11:40am",
+    "scheduled_time_end":"12:55pm",
+    "call_number":"11540",
+    "campus":null,
+    "class_id":"C1010-20271-208",
+    "course_subtitle":"UW: Readings in Gender & Sex",
+    "department":"Undergraduate Writing Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/C1010-20271-208\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20271ENGL1010C208",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGL CC1010",
+    "course_title":"UNIVERSITY WRITING",
+    "course_descr":null,
+    "instructor":"Finn A Anderson",
+    "scheduled_time_start":"11:40am",
+    "scheduled_time_end":"12:55pm",
+    "call_number":"11541",
+    "campus":null,
+    "class_id":"C1010-20271-409",
+    "course_subtitle":"UW: Rdings in Urb Studies",
+    "department":"Undergraduate Writing Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/C1010-20271-409\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20271ENGL1010C409",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGL CC1010",
+    "course_title":"UNIVERSITY WRITING",
+    "course_descr":null,
+    "instructor":"Abigail R Melick",
+    "scheduled_time_start":"11:40am",
+    "scheduled_time_end":"12:55pm",
+    "call_number":"11542",
+    "campus":null,
+    "class_id":"C1010-20271-310",
+    "course_subtitle":"UW: Readings-Performance Arts",
+    "department":"Undergraduate Writing Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/C1010-20271-310\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20271ENGL1010C310",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGL CC1010",
+    "course_title":"UNIVERSITY WRITING",
+    "course_descr":null,
+    "instructor":"Elizabeth F Furlong",
+    "scheduled_time_start":"11:40am",
+    "scheduled_time_end":"12:55pm",
+    "call_number":"11543",
+    "campus":null,
+    "class_id":"C1010-20271-411",
+    "course_subtitle":"UW: Rdings in Urb Studies",
+    "department":"Undergraduate Writing Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/C1010-20271-411\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20271ENGL1010C411",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGL CC1010",
+    "course_title":"UNIVERSITY WRITING",
+    "course_descr":null,
+    "instructor":"Allison T Fowler",
+    "scheduled_time_start":"11:40am",
+    "scheduled_time_end":"12:55pm",
+    "call_number":"11544",
+    "campus":null,
+    "class_id":"C1010-20271-812",
+    "course_subtitle":"UW: Readings in Race & Ethncty",
+    "department":"Undergraduate Writing Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/C1010-20271-812\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20271ENGL1010C812",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGL CC1010",
+    "course_title":"UNIVERSITY WRITING",
+    "course_descr":null,
+    "instructor":"Naomi Michalowicz",
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"2:25pm",
+    "call_number":"11545",
+    "campus":null,
+    "class_id":"C1010-20271-913",
+    "course_subtitle":"UW FOR INTERNATIONAL STUDENTS",
+    "department":"Undergraduate Writing Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/C1010-20271-913\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20271ENGL1010C913",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGL CC1010",
+    "course_title":"UNIVERSITY WRITING",
+    "course_descr":null,
+    "instructor":"Matthew L Rossi",
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"2:25pm",
+    "call_number":"11546",
+    "campus":null,
+    "class_id":"C1010-20271-514",
+    "course_subtitle":"UW: Climate Humanities",
+    "department":"Undergraduate Writing Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/C1010-20271-514\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20271ENGL1010C514",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGL CC1010",
+    "course_title":"UNIVERSITY WRITING",
+    "course_descr":null,
+    "instructor":"Andy Jo",
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"2:25pm",
+    "call_number":"11547",
+    "campus":null,
+    "class_id":"C1010-20271-215",
+    "course_subtitle":"UW: Readings in Gender & Sex",
+    "department":"Undergraduate Writing Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/C1010-20271-215\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20271ENGL1010C215",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGL CC1010",
+    "course_title":"UNIVERSITY WRITING",
+    "course_descr":null,
+    "instructor":"Joseph W Bubar",
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"2:25pm",
+    "call_number":"11550",
+    "campus":null,
+    "class_id":"C1010-20271-116",
+    "course_subtitle":"UW:READINGS IN AMERICN STUDIES",
+    "department":"Undergraduate Writing Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/C1010-20271-116\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20271ENGL1010C116",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGL CC1010",
+    "course_title":"UNIVERSITY WRITING",
+    "course_descr":null,
+    "instructor":"Joey de Jesus",
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"2:25pm",
+    "call_number":"11552",
+    "campus":null,
+    "class_id":"C1010-20271-817",
+    "course_subtitle":"UW: Readings in Race & Ethncty",
+    "department":"Undergraduate Writing Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/C1010-20271-817\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20271ENGL1010C817",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGL CC1010",
+    "course_title":"UNIVERSITY WRITING",
+    "course_descr":null,
+    "instructor":"Anirbaan Banerjee",
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"2:25pm",
+    "call_number":"11553",
+    "campus":null,
+    "class_id":"C1010-20271-418",
+    "course_subtitle":"UW: Rdings in Urb Studies",
+    "department":"Undergraduate Writing Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/C1010-20271-418\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20271ENGL1010C418",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGL CC1010",
+    "course_title":"UNIVERSITY WRITING",
+    "course_descr":null,
+    "instructor":"Jonathan S Karp",
+    "scheduled_time_start":"2:40pm",
+    "scheduled_time_end":"3:55pm",
+    "call_number":"11556",
+    "campus":null,
+    "class_id":"C1010-20271-319",
+    "course_subtitle":"UW: Readings-Performance Arts",
+    "department":"Undergraduate Writing Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/C1010-20271-319\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20271ENGL1010C319",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGL CC1010",
+    "course_title":"UNIVERSITY WRITING",
+    "course_descr":null,
+    "instructor":"Finn A Anderson",
+    "scheduled_time_start":"2:40pm",
+    "scheduled_time_end":"3:55pm",
+    "call_number":"11557",
+    "campus":null,
+    "class_id":"C1010-20271-420",
+    "course_subtitle":"UW: Rdings in Urb Studies",
+    "department":"Undergraduate Writing Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/C1010-20271-420\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20271ENGL1010C420",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGL CC1010",
+    "course_title":"UNIVERSITY WRITING",
+    "course_descr":null,
+    "instructor":"Joseph W Bubar",
+    "scheduled_time_start":"2:40pm",
+    "scheduled_time_end":"3:55pm",
+    "call_number":"11558",
+    "campus":null,
+    "class_id":"C1010-20271-121",
+    "course_subtitle":"UW:READINGS IN AMERICN STUDIES",
+    "department":"Undergraduate Writing Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/C1010-20271-121\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20271ENGL1010C121",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGL CC1010",
+    "course_title":"UNIVERSITY WRITING",
+    "course_descr":null,
+    "instructor":"Joey de Jesus",
+    "scheduled_time_start":"2:40pm",
+    "scheduled_time_end":"3:55pm",
+    "call_number":"11559",
+    "campus":null,
+    "class_id":"C1010-20271-822",
+    "course_subtitle":"UW: Readings in Race & Ethncty",
+    "department":"Undergraduate Writing Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/C1010-20271-822\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20271ENGL1010C822",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGL CC1010",
+    "course_title":"UNIVERSITY WRITING",
+    "course_descr":null,
+    "instructor":"Elizabeth F Furlong",
+    "scheduled_time_start":"2:40pm",
+    "scheduled_time_end":"3:55pm",
+    "call_number":"11560",
+    "campus":null,
+    "class_id":"C1010-20271-423",
+    "course_subtitle":"UW: Rdings in Urb Studies",
+    "department":"Undergraduate Writing Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/C1010-20271-423\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20271ENGL1010C423",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"ENGL PS0003",
     "course_title":"LISTEN & SPEAK FOR INT'L STUDS",
     "course_descr":null,
@@ -18020,114 +18813,6 @@
     "course_title":"ADV ACAD WRITING FOR GS",
     "course_descr":null,
     "instructor":null,
-    "scheduled_time_start":"9:10am",
-    "scheduled_time_end":"11:00am",
-    "call_number":"11477",
-    "campus":null,
-    "class_id":"Z1007-20271-001",
-    "course_subtitle":null,
-    "department":"American Language Program",
-    "department_code":"ENGL",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/Z1007-20271-001\/",
-    "location":null,
-    "method_of_instruction":"In-Person",
-    "open_to":[
-      "General Studies"
-    ],
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"TR",
-    "section_key":"20271ENGL1007Z001",
-    "type":"LANGUAGE"
-  },
-  {
-    "course_code":"ENGL PS1007",
-    "course_title":"ADV ACAD WRITING FOR GS",
-    "course_descr":null,
-    "instructor":null,
-    "scheduled_time_start":"11:10am",
-    "scheduled_time_end":"1:00pm",
-    "call_number":"11478",
-    "campus":null,
-    "class_id":"Z1007-20271-002",
-    "course_subtitle":null,
-    "department":"American Language Program",
-    "department_code":"ENGL",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/Z1007-20271-002\/",
-    "location":null,
-    "method_of_instruction":"In-Person",
-    "open_to":[
-      "General Studies"
-    ],
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"TR",
-    "section_key":"20271ENGL1007Z002",
-    "type":"LANGUAGE"
-  },
-  {
-    "course_code":"ENGL PS1007",
-    "course_title":"ADV ACAD WRITING FOR GS",
-    "course_descr":null,
-    "instructor":null,
-    "scheduled_time_start":"6:10pm",
-    "scheduled_time_end":"8:00pm",
-    "call_number":"11479",
-    "campus":null,
-    "class_id":"Z1007-20271-003",
-    "course_subtitle":null,
-    "department":"American Language Program",
-    "department_code":"ENGL",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/Z1007-20271-003\/",
-    "location":null,
-    "method_of_instruction":"In-Person",
-    "open_to":[
-      "General Studies"
-    ],
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"MW",
-    "section_key":"20271ENGL1007Z003",
-    "type":"LANGUAGE"
-  },
-  {
-    "course_code":"ENGL PS1007",
-    "course_title":"ADV ACAD WRITING FOR GS",
-    "course_descr":null,
-    "instructor":null,
-    "scheduled_time_start":"6:10pm",
-    "scheduled_time_end":"8:00pm",
-    "call_number":"11480",
-    "campus":null,
-    "class_id":"Z1007-20271-004",
-    "course_subtitle":null,
-    "department":"American Language Program",
-    "department_code":"ENGL",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/Z1007-20271-004\/",
-    "location":null,
-    "method_of_instruction":"In-Person",
-    "open_to":[
-      "General Studies"
-    ],
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"TR",
-    "section_key":"20271ENGL1007Z004",
-    "type":"LANGUAGE"
-  },
-  {
-    "course_code":"ENGL PS1007",
-    "course_title":"ADV ACAD WRITING FOR GS",
-    "course_descr":null,
-    "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"11481",
@@ -18148,33 +18833,6 @@
     ],
     "scheduled_days":null,
     "section_key":"20271ENGL1007Z005",
-    "type":"LANGUAGE"
-  },
-  {
-    "course_code":"ENGL PS1007",
-    "course_title":"ADV ACAD WRITING FOR GS",
-    "course_descr":null,
-    "instructor":null,
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
-    "call_number":"11482",
-    "campus":null,
-    "class_id":"Z1007-20271-006",
-    "course_subtitle":null,
-    "department":"American Language Program",
-    "department_code":"ENGL",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/Z1007-20271-006\/",
-    "location":null,
-    "method_of_instruction":"In-Person",
-    "open_to":[
-      "General Studies"
-    ],
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":null,
-    "section_key":"20271ENGL1007Z006",
     "type":"LANGUAGE"
   },
   {
@@ -20271,7 +20929,7 @@
     "course_code":"ERMC PS5560",
     "course_title":"SYSTEMIC RISK",
     "course_descr":"A study of financial, economic, and engineering disasters from a common systems engineering perspective, to better understand and model risk in complex process systems. Course topics will introduce process systems engineering concepts and tools such as digraphs, fault trees, probabilistic risk assessment, HAZOP, FMEA, etc., for modeling enterprise-wide risk. We will develop risk models and analyze them for real-life inspired examples and case studies. Several disaster case studies will also be discussed.",
-    "instructor":"Venkat Venkatasubramanian",
+    "instructor":null,
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
     "call_number":"11298",
@@ -20325,7 +20983,7 @@
     "course_code":"ERMC PS5570",
     "course_title":"INFORMATION TECHNOLOGY RISK MANAGEMENT",
     "course_descr":"Students will learn how to better identify and manage a wide range of IT risks as well as better inform IT investment decisions that support the business strategy. Students will develop an instinct for where to look for technological risks, and how IT risks may be contributing factors toward key business risks. This course includes a review of IT risks, including those related to governance, general controls, compliance, cybersecurity, data privacy, and project management. Students will learn how to use a risk-based approach to identify and mitigate cybersecurity and privacy related risks and vulnerabilities. No prior experience or technical skills required to successfully complete this course.",
-    "instructor":null,
+    "instructor":"Terry Cottrell",
     "scheduled_time_start":"8:10pm",
     "scheduled_time_end":"10:00pm",
     "call_number":"11301",
@@ -20833,7 +21491,7 @@
   {
     "course_code":"FILM BC3119",
     "course_title":"SCREENWRITING FUNDAMENTALS",
-    "course_descr":null,
+    "course_descr":"Prerequisites: FILM BC3201 or equivalent. Enrollment limited to 12 students. Priority is given to Film Studies majors\/concentrations in order of class seniority. Corequisites: (Since this is a Film course, it does not count as a writing course for English majors with a Writing Concentration.)\n  \nThis course is ideal for writers of their FIRST, SECOND AND THIRD screenplays. The first several weeks will focus on STORY: What it is, what it isn\u2019t, how to recognize the difference. How to find your own individual stories that nobody else in the universe can tell.\n  \nFrom there we will make the transition to the highly individualized techniques, the strengths and limitations, the dynamics of telling a SCREEN STORY; what to leave in, what to leave out. As Michelangelo puts it\u2014starting with a block of marble and chipping away everything that isn\u2019t David.\u00a0 Through studies of existing screenplays and films in coordination with and hands-on writing exercises which we will share in class, we will develop our skills in all aspects of screenwriting; building fascinating characters, dialogue, story construction (The BIG PICTURE) and scene construction (The Small Picture)\n  \nPerfection is not the goal; but rather it is to be able to say truly at the end of each day\u2019s writing, \u201cI did the best I could with what I had at the time. (Phillip Roth quoting heavyweight champion Joe Louis)",
     "instructor":null,
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -20849,7 +21507,9 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "FILM BC3201"
+      ]
     ],
     "scheduled_days":"F",
     "section_key":"20271FILM3119X002",
@@ -20912,7 +21572,7 @@
   {
     "course_code":"FILM BC3200",
     "course_title":"FILM PRODUCTION",
-    "course_descr":null,
+    "course_descr":"Prerequisites: FILM BC3201 or equivalent. Sophomore standing. Priority is given to Film Studies majors\/concentrations in order of class seniority. If you are accepted into this course, attending the first day of class is mandatory. If you do not show up, you may be dropped.\n  \nThis workshop introduces the student to all the cinematic tools necessary to produce their own short narrative work.\u00a0 Using what the student has learned in film studies, we'll break down shot syntax, mise-en-scene and editing strategies. We'll include scheduling, budgeting, casting, working with actors and expressive camera work in our process as we build toward a final video project.",
     "instructor":null,
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -20928,7 +21588,9 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "FILM BC3201"
+      ]
     ],
     "scheduled_days":"T",
     "section_key":"20271FILM3200X003",
@@ -20987,7 +21649,7 @@
   {
     "course_code":"FILM BC3550",
     "course_title":"Digital Media Culture and Theory",
-    "course_descr":null,
+    "course_descr":"In this seminar, we will explore digital images in relation to cinema, photography, and other media. We will examine the fate of materiality, the body, and duration in 21st c. media, and consider whether the digital marks a significant break from the analog. Texts by Gilles Deleuze, Lev Manovich, Hito Steyerl, and others; works by Natalie Bookchin, Harun Farocki, Jacolby Satterwhite, and others.",
     "instructor":null,
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -21062,7 +21724,7 @@
   {
     "course_code":"FILM BC3902",
     "course_title":"SENIOR SEMINAR: ADVANCED SCREENWRITING F",
-    "course_descr":null,
+    "course_descr":"This advanced screenwriting course workshops independently developed and written student projects. The objective is for students to write strong, effective and producible scripts. The course will focus on three genres: the \"long short\" film (~15- mins), sophisticated short film (~5-15 mins), half-hour pilot (22-30 mins) and web-series\/micro dramas (5-10 mins). This class incorporates research, extensive peer feedback, presentations, workshop, and revision. Students write and revise their original scripts. The ambition of this class is to sensitize students to the elements of effective screenwriting and to draft, analyze, and revise original work using. the \u201cworkshop\u201d model to explore screenwriting in a respectful, structured way.\n  \nThrough class presentations with constructive peer feedback, each writer will aim to write and revise their work to create visual power, emotional complexity, and dramatic force. I don\u2019t grade talent \u2014\u00a0I grade investment, diligence, and effort. The goals of this class include:\n * Understanding\/utilizing the principles of the screenwriting form\n * Developing ideas into effective pitches\/scenes\/scripts\n * Contributing thoughtful feedback on fellow students\u2019 work\n * Incorporating feedback from peers\n * Presenting effectively about films you aim to write and films you admire\n * Creating a passion for cinematic and storytelling possibility",
     "instructor":"Daniel F Pfeffer",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"5:30pm",
@@ -21083,6 +21745,205 @@
     "scheduled_days":"W",
     "section_key":"20271FILM3902X001",
     "type":"SEMINAR"
+  },
+  {
+    "course_code":"FILM UN1000",
+    "course_title":"INTRO TO FILM & MEDIA STUDIES",
+    "course_descr":null,
+    "instructor":"Robert King",
+    "scheduled_time_start":"10:00am",
+    "scheduled_time_end":"11:25am",
+    "call_number":"11535",
+    "campus":null,
+    "class_id":"W1000-20271-001",
+    "course_subtitle":"INTRO TO FILM & MEDIA STU",
+    "department":"Film",
+    "department_code":"FILM",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FILM\/W1000-20271-001\/",
+    "location":"KOB LENFEST CENT",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "General Studies",
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20271FILM1000W001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"FILM UN1001",
+    "course_title":"INTRO-FILM & MEDIA STUDIES-DIS",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"9:10am",
+    "scheduled_time_end":"10:00am",
+    "call_number":"11536",
+    "campus":null,
+    "class_id":"W1001-20271-001",
+    "course_subtitle":"INTRO-FILM & MEDIA STUDIE",
+    "department":"Film",
+    "department_code":"FILM",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FILM\/W1001-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "General Studies",
+      "Professional Studies"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"F",
+    "section_key":"20271FILM1001W001",
+    "type":"DISCUSSION"
+  },
+  {
+    "course_code":"FILM UN1001",
+    "course_title":"INTRO-FILM & MEDIA STUDIES-DIS",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"1:00pm",
+    "scheduled_time_end":"2:00pm",
+    "call_number":"11537",
+    "campus":null,
+    "class_id":"W1001-20271-002",
+    "course_subtitle":"INTRO-FILM & MEDIA STUDIE",
+    "department":"Film",
+    "department_code":"FILM",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FILM\/W1001-20271-002\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "General Studies",
+      "Professional Studies"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"F",
+    "section_key":"20271FILM1001W002",
+    "type":"DISCUSSION"
+  },
+  {
+    "course_code":"FILM UN1001",
+    "course_title":"INTRO-FILM & MEDIA STUDIES-DIS",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"3:00pm",
+    "call_number":"11538",
+    "campus":null,
+    "class_id":"W1001-20271-003",
+    "course_subtitle":"INTRO-FILM & MEDIA STUDIE",
+    "department":"Film",
+    "department_code":"FILM",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FILM\/W1001-20271-003\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"F",
+    "section_key":"20271FILM1001W003",
+    "type":"DISCUSSION"
+  },
+  {
+    "course_code":"FILM UN2420",
+    "course_title":"LABORATORY IN SCREENWRITING",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"10:00am",
+    "scheduled_time_end":"1:00pm",
+    "call_number":"11548",
+    "campus":null,
+    "class_id":"W2420-20271-001",
+    "course_subtitle":"LABORATORY IN SCREENWRITI",
+    "department":"Film",
+    "department_code":"FILM",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FILM\/W2420-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "General Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20271FILM2420W001",
+    "type":"WORKSHOP"
+  },
+  {
+    "course_code":"FILM UN2420",
+    "course_title":"LABORATORY IN SCREENWRITING",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"6:00pm",
+    "scheduled_time_end":"9:00pm",
+    "call_number":"11549",
+    "campus":null,
+    "class_id":"W2420-20271-002",
+    "course_subtitle":"LABORATORY IN SCREENWRITI",
+    "department":"Film",
+    "department_code":"FILM",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FILM\/W2420-20271-002\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "General Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20271FILM2420W002",
+    "type":"WORKSHOP"
+  },
+  {
+    "course_code":"FILM UN2420",
+    "course_title":"LABORATORY IN SCREENWRITING",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"10:00am",
+    "scheduled_time_end":"1:00pm",
+    "call_number":"11551",
+    "campus":null,
+    "class_id":"W2420-20271-003",
+    "course_subtitle":"LABORATORY IN SCREENWRITI",
+    "department":"Film",
+    "department_code":"FILM",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FILM\/W2420-20271-003\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "General Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"F",
+    "section_key":"20271FILM2420W003",
+    "type":"WORKSHOP"
   },
   {
     "course_code":"FM__ N002P",
@@ -21743,31 +22604,6 @@
     "scheduled_days":null,
     "section_key":"20271FREN3072X001",
     "type":"LECTURE"
-  },
-  {
-    "course_code":"FREN BC3091",
-    "course_title":"SENIOR THESIS",
-    "course_descr":"French majors will write their senior thesis under the supervision of the instructor.",
-    "instructor":"Brian D O'Keeffe",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
-    "call_number":"00728",
-    "campus":null,
-    "class_id":"X3091-20271-001",
-    "course_subtitle":null,
-    "department":"French @Barnard",
-    "department_code":"FREN",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FREN\/X3091-20271-001\/",
-    "location":null,
-    "method_of_instruction":null,
-    "open_to":null,
-    "points":"4",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":null,
-    "section_key":"20271FREN3091X001",
-    "type":"SEMINAR"
   },
   {
     "course_code":"FREN BC3106",
@@ -23668,31 +24504,6 @@
     ],
     "scheduled_days":"R",
     "section_key":"20271HIST3079X001",
-    "type":"SEMINAR"
-  },
-  {
-    "course_code":"HIST BC3098",
-    "course_title":"Margins of the Middle Ages",
-    "course_descr":"This seminar course examines how people during the early Middle Ages defined their existence through negotiated boundaries of gender, class, ethnicity, race, religion, and other aspects of the human condition. Our work will curate the contributions of marginalized groups to decenter traditional narratives. Students will leave this course with a broad understanding of early medieval history, an appreciation of historical work done by people often omitted from our histories, and a mastery of historical and interdisciplinary tools for promoting our awareness and understanding of marginalized groups. Work will include two research papers, including one focused on a manuscript selected from the Columbia collections.",
-    "instructor":"Matthew Delvaux",
-    "scheduled_time_start":"2:10pm",
-    "scheduled_time_end":"4:00pm",
-    "call_number":"00922",
-    "campus":null,
-    "class_id":"X3098-20271-001",
-    "course_subtitle":"Margins of the Middle Age",
-    "department":"History @Barnard",
-    "department_code":"HIST",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HIST\/X3098-20271-001\/",
-    "location":null,
-    "method_of_instruction":null,
-    "open_to":null,
-    "points":"4",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"R",
-    "section_key":"20271HIST3098X001",
     "type":"SEMINAR"
   },
   {
@@ -44996,8 +45807,8 @@
     "course_title":"HONORS SEMINAR",
     "course_descr":"Prerequisites: admission to the departmental honors program. A two-term seminar for students writing the senior honors thesis.",
     "instructor":"Timothy M Frye",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"6:00pm",
     "call_number":"11270",
     "campus":null,
     "class_id":"W3999-20271-001",
@@ -45005,14 +45816,14 @@
     "department":"Political Science",
     "department_code":"POLS",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/POLS\/W3999-20271-001\/",
-    "location":null,
+    "location":"711 International Affairs Building",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"4",
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"M",
     "section_key":"20271POLS3999W001",
     "type":"SEMINAR"
   },
@@ -54180,6 +54991,31 @@
     "type":"SEMINAR"
   },
   {
+    "course_code":"SOCI GR6068",
+    "course_title":"Reckoning with Asian America",
+    "course_descr":null,
+    "instructor":"Jennifer Lee",
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"11528",
+    "campus":null,
+    "class_id":"G6068-20271-001",
+    "course_subtitle":"Reckoning with Asian Amer",
+    "department":"Sociology",
+    "department_code":"SOCI",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SOCI\/G6068-20271-001\/",
+    "location":"509 Knox Hall",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20271SOCI6068G001",
+    "type":"SEMINAR"
+  },
+  {
     "course_code":"SOCI GR6210",
     "course_title":"Globalization and Diffusion",
     "course_descr":"This course introduces students to the literature on globalization and the diffusion of culture and institutions. It covers literatures in sociology and political science as well as some anthropology and history. This course will not discuss economic, financial, or migratory globalization in depth. In the first part, we will survey the major theories of the global diffusion of culture and institutions: world polity theory, global field theory, the policy diffusion literature, etc. In the second part, we discuss select topics, such as the role of local power relations in diffusion processes or the consequences of diffusion for patterns of cultural similarity and difference across the world.",
@@ -58764,8 +59600,8 @@
     "course_title":"GENDERED CONTROVERSIES",
     "course_descr":"This seminar investigates the significance of contemporary and historical issues of social, political, and cultural conflicts conducted through the language of gender. How do such conflicts constitute social relations, and what do they tell us about societies, cultures, and politics? How do we understand gender analysis in relation to intersectionality? How to we read and analyze gender through contested social issues? How do we analyze the ethical discourses employed in such conflicts? How do we best create change in response to such conflicts?",
     "instructor":"Lisa Duggan",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"11:00am",
+    "scheduled_time_end":"12:50pm",
     "call_number":"00514",
     "campus":null,
     "class_id":"X3132-20271-001",
@@ -58780,7 +59616,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"F",
     "section_key":"20271WMST3132X001",
     "type":"SEMINAR"
   },
@@ -58789,8 +59625,8 @@
     "course_title":"AFFECT AND ACTIVISM",
     "course_descr":"From love to anger to disappointment to hope, political activism mobilizes emotions towards certain ends but also generates new affective states and feelings along the way. This advanced seminar will familiarize students with feminist, anti-racist and queer scholarship on affect, feelings and emotion as intrinsic to politics and as crucial for understanding how political thought and action unfold in contingent and often unexpected ways. Mixing theoretical and cultural texts with case studies, we will look at how affect permeates structures of power and domination, embodiment and identity, and collective activist projects concerned with gender and sexual liberation. Students will have an opportunity to read theories of affect as well as to \u201cread\u201d activist movements \nfor\n affect by working with archival documents (such as zines, manifestos, and movement ephemera) and other primary sources (such as memoir, photography and documentary film).",
     "instructor":"Manijeh Moradian",
-    "scheduled_time_start":"10:10am",
-    "scheduled_time_end":"12:00pm",
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"10:50am",
     "call_number":"00515",
     "campus":null,
     "class_id":"X3138-20271-001",
@@ -58805,7 +59641,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":"M",
+    "scheduled_days":"W",
     "section_key":"20271WMST3138X001",
     "type":"SEMINAR"
   },
@@ -58905,7 +59741,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":"T",
+    "scheduled_days":"M",
     "section_key":"20271WMST4330W001",
     "type":"SEMINAR"
   },
