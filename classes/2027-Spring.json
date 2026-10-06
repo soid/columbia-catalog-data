@@ -907,9 +907,9 @@
     "course_code":"AMST BC1112",
     "course_title":"Elementary American Sign Language (ASL)",
     "course_descr":"This course is an introduction to the basic skills in developing production and comprehension skills in American Sign Language (ASL). Students will learn ASL vocabulary, structure, and grammar. Course content also includes the manual alphabet and numbers. Students will develop basic conversational abilities, culturally appropriate behaviors, and learn about the culture and history of Deaf communities.",
-    "instructor":"Kailyn Aaron-Lozano",
-    "scheduled_time_start":"10:10am",
-    "scheduled_time_end":"11:25am",
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
     "call_number":"00881",
     "campus":null,
     "class_id":"X1112-20271-001",
@@ -924,7 +924,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":"MWF",
+    "scheduled_days":null,
     "section_key":"20271AMST1112X001",
     "type":"LANGUAGE"
   },
@@ -932,9 +932,9 @@
     "course_code":"AMST BC1112",
     "course_title":"Elementary American Sign Language (ASL)",
     "course_descr":"This course is an introduction to the basic skills in developing production and comprehension skills in American Sign Language (ASL). Students will learn ASL vocabulary, structure, and grammar. Course content also includes the manual alphabet and numbers. Students will develop basic conversational abilities, culturally appropriate behaviors, and learn about the culture and history of Deaf communities.",
-    "instructor":"Kailyn Aaron-Lozano",
-    "scheduled_time_start":"1:10pm",
-    "scheduled_time_end":"2:25pm",
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
     "call_number":"00882",
     "campus":null,
     "class_id":"X1112-20271-002",
@@ -949,7 +949,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":"MWF",
+    "scheduled_days":null,
     "section_key":"20271AMST1112X002",
     "type":"LANGUAGE"
   },
@@ -1158,56 +1158,6 @@
     "scheduled_days":null,
     "section_key":"20271ANTH2012X001",
     "type":"LECTURE"
-  },
-  {
-    "course_code":"ANTH BC3234",
-    "course_title":"Indigenous Place-Thought",
-    "course_descr":"This seminar\u00a0considers what it means to be of a place and to think with and be committed to that place\u2014environmentally, politically, and spiritually. After locating ourselves in our own particular places and place-based commitments, our attention turns to the Indigenous traditions of North America, to accounts of tribal emergence and pre-colonial being, to colonial histories of land dispossession, to ongoing struggles to protect ecological health and land-based sovereignty, to the epistemological and moral systems that have developed over the course of many millennia of living with and for the land, and to the contributions such systems might make to our collective future. The\u00a0seminar\u2019s title is borrowed from an essay on \u201cIndigenous place-thought\u201d by Mohawk\/Anishinaabe scholar Vanessa Watts.",
-    "instructor":"Severin Fowles",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
-    "call_number":"00828",
-    "campus":null,
-    "class_id":"X3234-20271-001",
-    "course_subtitle":"INDIGENOUS PLACE-THOUGHT",
-    "department":"Anthropology @Barnard",
-    "department_code":"ANTH",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ANTH\/X3234-20271-001\/",
-    "location":null,
-    "method_of_instruction":null,
-    "open_to":null,
-    "points":"4",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":null,
-    "section_key":"20271ANTH3234X001",
-    "type":"SEMINAR"
-  },
-  {
-    "course_code":"ANTH BC3868",
-    "course_title":"ETHNOGRAPHIC FIELD RESEARCH IN NYC",
-    "course_descr":"This course provides the aspiring anthropologist with an array of primarily qualitative methodological tools essential to successful urban fieldwork. As such, it is a practicum of sorts, where regular field assignments help build one\u2019s ability to record and analyze social behavior by drawing on several key data collection techniques. Because we have the luxury of inhabiting a large, densely populated, international city, this class requires that you take a head-first plunge into urban anthropology. The NYC area will define the laboratory for individually- designed research projects. Be forewarned, however! Ethnographic engagement involves efforts to detect social patterns, but it is often a self-reflexive exercise, too. Readings provide methodological, analytical, and personal insights into the skills, joys, and trials that define successful field research.",
-    "instructor":"Kaya N Williams",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
-    "call_number":"00829",
-    "campus":null,
-    "class_id":"X3868-20271-001",
-    "course_subtitle":"ETHNOGRAPHIC FIELD RESEAR",
-    "department":"Anthropology @Barnard",
-    "department_code":"ANTH",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ANTH\/X3868-20271-001\/",
-    "location":null,
-    "method_of_instruction":null,
-    "open_to":null,
-    "points":"4",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":null,
-    "section_key":"20271ANTH3868X001",
-    "type":"SEMINAR"
   },
   {
     "course_code":"ANTH BC3872",
@@ -1653,6 +1603,106 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"ANTH UN2200",
+    "course_title":"Ceramic Analysis: Lecture",
+    "course_descr":null,
+    "instructor":"Camilla Sturm",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"11:25am",
+    "call_number":"00940",
+    "campus":null,
+    "class_id":"V2200-20271-001",
+    "course_subtitle":null,
+    "department":"Anthropology @Barnard",
+    "department_code":"ANTH",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ANTH\/V2200-20271-001\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20271ANTH2200V001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ANTH UN2201",
+    "course_title":"Ceramic Analysis: Lab",
+    "course_descr":null,
+    "instructor":"Camilla Sturm",
+    "scheduled_time_start":"12:00pm",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"00941",
+    "campus":null,
+    "class_id":"V2201-20271-001",
+    "course_subtitle":null,
+    "department":"Anthropology @Barnard",
+    "department_code":"ANTH",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ANTH\/V2201-20271-001\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"2.5",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20271ANTH2201V001",
+    "type":"LABORATORY"
+  },
+  {
+    "course_code":"ANTH UN2201",
+    "course_title":"Ceramic Analysis: Lab",
+    "course_descr":null,
+    "instructor":"Camilla Sturm",
+    "scheduled_time_start":"12:00pm",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"00942",
+    "campus":null,
+    "class_id":"V2201-20271-002",
+    "course_subtitle":null,
+    "department":"Anthropology @Barnard",
+    "department_code":"ANTH",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ANTH\/V2201-20271-002\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"2.5",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20271ANTH2201V002",
+    "type":"LABORATORY"
+  },
+  {
+    "course_code":"ANTH UN2201",
+    "course_title":"Ceramic Analysis: Lab",
+    "course_descr":null,
+    "instructor":"Camilla Sturm",
+    "scheduled_time_start":"10:00am",
+    "scheduled_time_end":"2:00pm",
+    "call_number":"00944",
+    "campus":null,
+    "class_id":"V2201-20271-003",
+    "course_subtitle":null,
+    "department":"Anthropology @Barnard",
+    "department_code":"ANTH",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ANTH\/V2201-20271-003\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"2.5",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"F",
+    "section_key":"20271ANTH2201V003",
+    "type":"LABORATORY"
+  },
+  {
     "course_code":"ANTH UN3052",
     "course_title":"The City Jail",
     "course_descr":"Municipal jails are one of the most impactful institutions of criminal justice in the United States; and yet many Americans do not even know the difference between a prison and a jail.\u00a0 This course will investigate the conditions of mass incarceration in America by centering the municipal jail. Taking as objects of study both the jail itself and the practice of incarcerating people in local jails, this course will combine scholarly work on U.S. criminal justice with a variety of non-academic texts including legal decisions, contemporary journalism, and documentary film. The course is focused on jails writ large,\u00a0 but as we are living in New York City, we will pay particular attention throughout the semester to our own municipal jail system.",
@@ -1707,8 +1757,8 @@
     "course_title":"THE BODY AND SOCIETY",
     "course_descr":"As an introduction to the field of medical anthropology, this seminar addresses themes of health, affliction, and healing across sociocultural domains.\u00a0 Concerns include critiques of biomedical, epidemiological and other models of disease and suffering; the entwinement of religion and healing; technocratic interventions in healthcare; and the sociomoral underpinnings of human life, death, and survival.\u00a0 A 1000 level course in Anthropology is recommended as a prerequisite, although not required.\u00a0 Enrollment limited to 30. 4 units",
     "instructor":"Paloma Rodrigo Gonzales",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"12:00pm",
     "call_number":"00825",
     "campus":null,
     "class_id":"V3160-20271-001",
@@ -1723,7 +1773,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"M",
     "section_key":"20271ANTH3160V001",
     "type":"SEMINAR"
   },
@@ -1754,6 +1804,31 @@
     ],
     "scheduled_days":"T",
     "section_key":"20271ANTH3710W001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"ANTH UN3723",
+    "course_title":"AMERICAN MATERIAL CULTURE",
+    "course_descr":null,
+    "instructor":"Severin Fowles",
+    "scheduled_time_start":"12:10pm",
+    "scheduled_time_end":"2:00pm",
+    "call_number":"00945",
+    "campus":null,
+    "class_id":"V3723-20271-001",
+    "course_subtitle":null,
+    "department":"Anthropology @Barnard",
+    "department_code":"ANTH",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ANTH\/V3723-20271-001\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20271ANTH3723V001",
     "type":"SEMINAR"
   },
   {
@@ -2002,11 +2077,11 @@
     "call_number":"00341",
     "campus":null,
     "class_id":"V1020-20271-001",
-    "course_subtitle":"INTRO-ARCH DESIGN\/VIS CUL",
+    "course_subtitle":"INTRO ARCH DESIGN&VIS CUL",
     "department":"Architecture @Barnard",
     "department_code":"ARCH",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ARCH\/V1020-20271-001\/",
-    "location":"116 Lewisohn Hall",
+    "location":"2M02 Uris Hall",
     "method_of_instruction":null,
     "open_to":null,
     "points":"3",
@@ -2015,31 +2090,6 @@
     ],
     "scheduled_days":"MW",
     "section_key":"20271ARCH1020V001",
-    "type":"STUDIO"
-  },
-  {
-    "course_code":"ARCH UN1020",
-    "course_title":"INTRO ARCH DESIGN&VIS CULTURE",
-    "course_descr":"Introductory design studio to introduce students to architectural design through readings and studio design projects. Intended to develop analytic skills to critique existing media and spaces. Process of analysis used as a generative tool for the students own design work. Must apply for placement in course. Priority to upperclass students. Class capped at 16.",
-    "instructor":null,
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
-    "call_number":"00342",
-    "campus":null,
-    "class_id":"V1020-20271-002",
-    "course_subtitle":"INTRO-ARCH DESIGN\/VIS CUL",
-    "department":"Architecture @Barnard",
-    "department_code":"ARCH",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ARCH\/V1020-20271-002\/",
-    "location":null,
-    "method_of_instruction":null,
-    "open_to":null,
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":null,
-    "section_key":"20271ARCH1020V002",
     "type":"STUDIO"
   },
   {
@@ -2233,7 +2283,7 @@
     "department":"Architecture @Barnard",
     "department_code":"ARCH",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ARCH\/W3202-20271-001\/",
-    "location":"116 Lewisohn Hall",
+    "location":"2M01 Uris Hall",
     "method_of_instruction":null,
     "open_to":null,
     "points":"4.5",
@@ -6465,8 +6515,8 @@
     "course_title":"ORGANIC CHEMISTRY I-LEC",
     "course_descr":"Prerequisites: CHEM BC2001 or equivalent. Credit will not be given for any course below the 3000 level after completing CHEM BC3230 or its equivalent. Corequisites: With lab, counts towards Lab Science requirement. Atomic and molecular structure; stereochemistry of organic molecules; introduction to organic reactions, reaction mechanisms, and synthesis.",
     "instructor":"Christian Rojas",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"10:00am",
+    "scheduled_time_end":"10:50am",
     "call_number":"00448",
     "campus":null,
     "class_id":"X3230-20271-001",
@@ -6484,7 +6534,7 @@
         "CHEM BC3230"
       ]
     ],
-    "scheduled_days":null,
+    "scheduled_days":"MWF",
     "section_key":"20271CHEM3230X001",
     "type":"LECTURE"
   },
@@ -6549,9 +6599,9 @@
     "course_code":"CHEM BC3252",
     "course_title":"THERMODYNAMICS-KINETICS",
     "course_descr":"Prerequisites: CHEM BC3231, PHYS BC2001, PHYS BC 2002, MATH UN1102 or MATH UN1201. Introduction to the laws of thermodynamics; application primarily to ideal systems. Free energy and equilibrium. Kinetics: rate laws and mechanisms, experimental techniques.",
-    "instructor":null,
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "instructor":"Andrew C Crowther",
+    "scheduled_time_start":"10:00am",
+    "scheduled_time_end":"10:50am",
     "call_number":"00451",
     "campus":null,
     "class_id":"X3252-20271-001",
@@ -6575,7 +6625,7 @@
         "PHYS BC2001"
       ]
     ],
-    "scheduled_days":null,
+    "scheduled_days":"MWF",
     "section_key":"20271CHEM3252X001",
     "type":"LECTURE"
   },
@@ -6584,8 +6634,8 @@
     "course_title":"INORGANIC CHEMISTRY",
     "course_descr":"Prerequisites: CHEM BC3231\u00a0or Permission of Instructor. Structure, bonding and spectroscopy in inorganic compounds: applications of group theory to chemistry; ligand field theory; vibrational and electronic spectroscopy of transition metal complexes; selected topics from coordination chemistry, organometallics, bioinorganic chemistry, solid state and materials chemistry, mineralogy, and biogeochemistry.",
     "instructor":"Michael Campbell",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"11:40am",
+    "scheduled_time_end":"12:55pm",
     "call_number":"00452",
     "campus":null,
     "class_id":"X3271-20271-001",
@@ -6602,7 +6652,7 @@
         "CHEM BC3231"
       ]
     ],
-    "scheduled_days":null,
+    "scheduled_days":"TR",
     "section_key":"20271CHEM3271X001",
     "type":"LECTURE"
   },
@@ -7853,6 +7903,31 @@
     "scheduled_days":null,
     "section_key":"20271CHEM3904X001",
     "type":"LABORATORY"
+  },
+  {
+    "course_code":"CHEM UN1403",
+    "course_title":"GENERAL CHEMISTRY I-LECTURES",
+    "course_descr":null,
+    "instructor":"Ruben M Savizky",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"7:25pm",
+    "call_number":"11601",
+    "campus":null,
+    "class_id":"W1403-20271-001",
+    "course_subtitle":"GENERAL CHEMISTRY I-LECTU",
+    "department":"Chemistry",
+    "department_code":"CHEM",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CHEM\/W1403-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20271CHEM1403W001",
+    "type":"LECTURE"
   },
   {
     "course_code":"CHNS BC1002",
@@ -15768,8 +15843,8 @@
     "course_title":"FOUNDATIONS OF EDUCATION",
     "course_descr":"Introduction to the psychological, philosophical, sociological, and historical foundations of education as way to understand what education is, how education has become what it is, and to envision what education should be.",
     "instructor":"Madeleine Neufeld",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"2:40pm",
+    "scheduled_time_end":"3:55pm",
     "call_number":"00748",
     "campus":null,
     "class_id":"X1510-20271-002",
@@ -15784,7 +15859,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"TR",
     "section_key":"20271EDUC1510X002",
     "type":"LECTURE"
   },
@@ -15793,8 +15868,8 @@
     "course_title":"FOUNDATIONS OF EDUCATION",
     "course_descr":"Introduction to the psychological, philosophical, sociological, and historical foundations of education as way to understand what education is, how education has become what it is, and to envision what education should be.",
     "instructor":"Rachel Throop",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"11:40am",
+    "scheduled_time_end":"12:55pm",
     "call_number":"00752",
     "campus":null,
     "class_id":"X1510-20271-001",
@@ -15809,7 +15884,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"MW",
     "section_key":"20271EDUC1510X001",
     "type":"LECTURE"
   },
@@ -15818,8 +15893,8 @@
     "course_title":"INCLUSIVE APPROACHES TO TEACHING LITERAC",
     "course_descr":"This seminar engages students in an exploration of how schools prepare students to be literate across multiple subject areas. Engaging students with theory and practice,\u00a0we will look at how students learn to read and write, considering approaches for literacy instruction from early childhood through adolescence. Understanding that schools are required to meet the needs of diverse learners, we will explore literacy instruction for K-12 students with special needs, multilingual learners, and students from diverse cultural backgrounds. This course requires 60 hours of clinical experience (fieldwork).",
     "instructor":"Lisa Edstrom",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"5:00pm",
+    "scheduled_time_end":"7:50pm",
     "call_number":"00771",
     "campus":null,
     "class_id":"X3025-20271-001",
@@ -15834,7 +15909,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"W",
     "section_key":"20271EDUC3025X001",
     "type":"SEMINAR"
   },
@@ -15843,8 +15918,8 @@
     "course_title":"Critical Pedagogies",
     "course_descr":"This course explores education as a process through which critical consciousness and epistemic justice combat oppression in communities. Students will connect seminal work by critical pedagogues, such as\u00a0Paolo Freire and bell hooks, to systemic educational challenges and lived experience. As a class, we will investigate power dynamics and structural inequalities at the systemic, institutional, interpersonal and individual levels. Students will problem-pose, dialogue and create pedagogical tools through praxis, by integrating the theory learned in the class to educational practice.",
     "instructor":"Fawziah Qadir",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"4:00pm",
     "call_number":"00773",
     "campus":null,
     "class_id":"X3030-20271-001",
@@ -15859,7 +15934,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"T",
     "section_key":"20271EDUC3030X001",
     "type":"SEMINAR"
   },
@@ -15868,8 +15943,8 @@
     "course_title":"Ethnographies of Youth Confinement, Cons",
     "course_descr":"Being young can often mean being (or feeling) powerless, particularly within the large\n institutions that structure youth\u2019s lives. Couple this with experiences of marginalization due to\n race, class, gender, or other social identities, and young people may experience profound\n constraints in their choices or pathways. At the same time, youth \u2013 both individually and in\n groups \u2013 often develop strategies to resist these sources of literal and figurative confinement to\n seek out dignity, joy, and justice. Using sociological and ethnographic texts as our foundation,\n this course will explore the way experiences of confinement and constraint show up in the lives\n of young people, particularly as they move through educational institutions \u2013 and how youth\n work to resist those forms of subordination.\n  \n In the first half of the semester, we will focus on policing and prisons and examine the ways\n schools play a role in funneling youth into different forms of confinement. In the second half of\n the semester, we will investigate college and college preparatory contexts in an effort to\n understand the ways they may constrain opportunities by creating or foreclosing particular\n pathways for students\u2019 futures. Throughout the semester, we will emphasize the role of socially\n constructed identity categories \u2013 race, gender, class, in particular, as well as the category of\n youth itself \u2013 in these processes of confinement and constraint. We will also highlight youth and\n community practices of resistance against these social and institutional forces. Along the way,\n we will consider (and practice) the affordances and limitations of ethnography as a mode of\n social research for studying confinement, constraint, and practices of resistance in educational\n contexts.\n  \nLEARNING OBJECTIVES\n Through this course, students will:\n  \n\u25cf Use a range of sociological, ethnographic, and multimodal texts to analyze youth\u2019s\n experiences of confinement, constraint, and resistance (expansively defined) and the\n ways they play out in different institutional, educational, and social contexts.\n \u25cf Explore the methodological approach of ethnography \u2013 its affordances, challenges, and\n some of the major dilemmas in the field \u2013 and practice it by conducting a series of\n scaffolded ethnographic projects.\n \u25cf Write for multiple purposes, including exploratory and dialogic writing shared with peers",
     "instructor":"Nora M Gross",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"12:10pm",
+    "scheduled_time_end":"2:00pm",
     "call_number":"00776",
     "campus":null,
     "class_id":"X3033-20271-001",
@@ -15884,7 +15959,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"M",
     "section_key":"20271EDUC3033X001",
     "type":"SEMINAR"
   },
@@ -15909,7 +15984,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":"M",
+    "scheduled_days":"R",
     "section_key":"20271EDUC3042X001",
     "type":"SEMINAR"
   },
@@ -15918,8 +15993,8 @@
     "course_title":"Making Change: Activism, Social Movement",
     "course_descr":"Summer and\u00a0\nSemester version:\n  \nMaking Change: Activism, Social Movements and Education will look at the ways people power has pushed for change in the United States educational landscape. We will study historical and current social political education movements to answer questions such as: What does education\/teacher activism look like? Who engages in educational social activism, and why? What do different models for organizing look like, past to present? We will learn from the examples of the Freedom Schools, the Chicago Teachers Union, the Tucson Unified School District fight for ethnics studies, BLM at Schools, Teacher Activist Groups and more. We will engage in readings, watch documentaries and hear from education activist guest lecturers.\n  \nLearning Outcomes:\u00a0\n  \n  \nYou will explore the historical relationships between and across social movements in education and its social contexts.\u00a0\n  \nYou will reflect on major educational justice movements from across the country and analyze its impact and importance.\u00a0\n  \nYou will evaluate the changing role of education and schools in our society and propose actions that could be taken to improve education and schools in the future.",
     "instructor":"Fawziah Qadir",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"6:00pm",
     "call_number":"00779",
     "campus":null,
     "class_id":"X3043-20271-001",
@@ -15934,7 +16009,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"W",
     "section_key":"20271EDUC3043X001",
     "type":"SEMINAR"
   },
@@ -15943,8 +16018,8 @@
     "course_title":"COMPLICATING CLASS:  EDUCATION AND THE L",
     "course_descr":"In this course, we start from the premise that a failure to understand what social class is and how social class matters in daily life stops us from having conversations about the possibilities and limitations of schooling and, as such, prevents us from doing what we can to improve the schooling experiences of poor and working-class students. Throughout the semester, we will work to \u201ccomplicate class\u201d, reconsidering what class is, why class matters, and how we can best think about the relationship between social class and schooling. You will develop a language for talking about class, considering the affordances and constraints of various conceptions of class. You will also leave with critical questions about the possibilities and limitations of relying on schools as a solution to social problems. Recognizing restraints, we will conclude by reflecting on how we might work toward creating more equitable learning environments for poor and working-class students.",
     "instructor":"Rachel Throop",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"4:00pm",
     "call_number":"00774",
     "campus":null,
     "class_id":"X3045-20271-001",
@@ -15959,7 +16034,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"M",
     "section_key":"20271EDUC3045X001",
     "type":"SEMINAR"
   },
@@ -15993,8 +16068,8 @@
     "course_title":"ARTS AND HUMANITIES IN THE CITY:CRITICAL",
     "course_descr":"Using the theme of \u201cArts and Humanities in the City\u201d, this seminar will build participants\u2019 knowledge of critical literacy, digital storytelling methods, and ways to use New York City as a resource for teaching the Arts (Dance, Theatre, Music, and Visual Arts), Social Studies, and English Language Arts in grades K-12. Critical literacy is an approach to teaching and learning that focuses on developing students\u2019 abilities to read, analyze, understand, question, and critique hidden perspectives and socially-constructed power relations embedded in what it means to be literate in a content area.",
     "instructor":"Madeleine Neufeld",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"12:10pm",
+    "scheduled_time_end":"2:00pm",
     "call_number":"00778",
     "campus":null,
     "class_id":"X3055-20271-001",
@@ -16009,7 +16084,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"R",
     "section_key":"20271EDUC3055X001",
     "type":"SEMINAR"
   },
@@ -16092,8 +16167,8 @@
     "course_title":"Senior Research Seminar: Inquiry",
     "course_descr":"This is the second semester of a year-long senior capstone experience for Educational Studies majors. Over the course of the year, you will design and carry-out an inquiry project, and you will report on this project through an appropriate medium, for a specific purpose and audience.",
     "instructor":"Nora M Gross",
-    "scheduled_time_start":"4:10pm",
-    "scheduled_time_end":"6:00pm",
+    "scheduled_time_start":"12:10pm",
+    "scheduled_time_end":"2:00pm",
     "call_number":"00782",
     "campus":null,
     "class_id":"X3089-20271-001",
@@ -16108,7 +16183,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":"T",
+    "scheduled_days":"R",
     "section_key":"20271EDUC3089X001",
     "type":"SEMINAR"
   },
@@ -16894,8 +16969,8 @@
     "course_title":"THE ART OF THE ESSAY",
     "course_descr":"Essay writing above the first-year level. Reading and writing various types of essays to develop one's natural writing voice and craft thoughtful, sophisticated and personal essays.",
     "instructor":"Nina Sharma",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"6:00pm",
     "call_number":"00272",
     "campus":null,
     "class_id":"X3104-20271-003",
@@ -16910,7 +16985,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"M",
     "section_key":"20271ENGL3104X003",
     "type":"WORKSHOP"
   },
@@ -18874,6 +18949,677 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"ENGL CC1010",
+    "course_title":"UNIVERSITY WRITING",
+    "course_descr":null,
+    "instructor":"Jack Hanson",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"11:25am",
+    "call_number":"11586",
+    "campus":null,
+    "class_id":"C1010-20271-035",
+    "course_subtitle":"UW: CONTEMPORARY ESSAYS",
+    "department":"Undergraduate Writing Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/C1010-20271-035\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20271ENGL1010C035",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGL CC1010",
+    "course_title":"UNIVERSITY WRITING",
+    "course_descr":null,
+    "instructor":"Sarah Y Ng",
+    "scheduled_time_start":"11:40am",
+    "scheduled_time_end":"12:55pm",
+    "call_number":"11588",
+    "campus":null,
+    "class_id":"C1010-20271-936",
+    "course_subtitle":"UW FOR INTERNATIONAL STUDENTS",
+    "department":"Undergraduate Writing Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/C1010-20271-936\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20271ENGL1010C936",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGL CC1010",
+    "course_title":"UNIVERSITY WRITING",
+    "course_descr":null,
+    "instructor":"Sarah L Wingerter",
+    "scheduled_time_start":"11:40am",
+    "scheduled_time_end":"12:55pm",
+    "call_number":"11589",
+    "campus":null,
+    "class_id":"C1010-20271-637",
+    "course_subtitle":"UW: Readings in Medical Hum",
+    "department":"Undergraduate Writing Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/C1010-20271-637\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20271ENGL1010C637",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGL CC1010",
+    "course_title":"UNIVERSITY WRITING",
+    "course_descr":null,
+    "instructor":"Emily M Suazo",
+    "scheduled_time_start":"11:40am",
+    "scheduled_time_end":"12:55pm",
+    "call_number":"11590",
+    "campus":null,
+    "class_id":"C1010-20271-338",
+    "course_subtitle":"UW: Readings-Performance Arts",
+    "department":"Undergraduate Writing Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/C1010-20271-338\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20271ENGL1010C338",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGL CC1010",
+    "course_title":"UNIVERSITY WRITING",
+    "course_descr":null,
+    "instructor":"Mary Mussman",
+    "scheduled_time_start":"11:40am",
+    "scheduled_time_end":"12:55pm",
+    "call_number":"11592",
+    "campus":null,
+    "class_id":"C1010-20271-239",
+    "course_subtitle":"UW: Readings in Gender & Sex",
+    "department":"Undergraduate Writing Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/C1010-20271-239\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20271ENGL1010C239",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGL CC1010",
+    "course_title":"UNIVERSITY WRITING",
+    "course_descr":null,
+    "instructor":"Sarah L Wingerter",
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"2:25pm",
+    "call_number":"11593",
+    "campus":null,
+    "class_id":"C1010-20271-640",
+    "course_subtitle":"UW: Readings in Medical Hum",
+    "department":"Undergraduate Writing Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/C1010-20271-640\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20271ENGL1010C640",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGL CC1010",
+    "course_title":"UNIVERSITY WRITING",
+    "course_descr":null,
+    "instructor":"Maximillian Clee",
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"2:25pm",
+    "call_number":"11595",
+    "campus":null,
+    "class_id":"C1010-20271-141",
+    "course_subtitle":"UW:READINGS IN AMERICN STUDIES",
+    "department":"Undergraduate Writing Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/C1010-20271-141\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20271ENGL1010C141",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGL CC1010",
+    "course_title":"UNIVERSITY WRITING",
+    "course_descr":null,
+    "instructor":"Emily M Suazo",
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"2:25pm",
+    "call_number":"11596",
+    "campus":null,
+    "class_id":"C1010-20271-842",
+    "course_subtitle":"UW: Readings in Race & Ethncty",
+    "department":"Undergraduate Writing Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/C1010-20271-842\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20271ENGL1010C842",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGL CC1010",
+    "course_title":"UNIVERSITY WRITING",
+    "course_descr":null,
+    "instructor":"Mary Mussman",
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"2:25pm",
+    "call_number":"11597",
+    "campus":null,
+    "class_id":"C1010-20271-043",
+    "course_subtitle":"UW: CONTEMPORARY ESSAYS",
+    "department":"Undergraduate Writing Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/C1010-20271-043\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20271ENGL1010C043",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGL CC1010",
+    "course_title":"UNIVERSITY WRITING",
+    "course_descr":null,
+    "instructor":"Kirkwood F Adams",
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"2:25pm",
+    "call_number":"11598",
+    "campus":null,
+    "class_id":"C1010-20271-544",
+    "course_subtitle":"UW: Readings in Data & Society",
+    "department":"Undergraduate Writing Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/C1010-20271-544\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20271ENGL1010C544",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGL CC1010",
+    "course_title":"UNIVERSITY WRITING",
+    "course_descr":null,
+    "instructor":"Christine A Prevas",
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"2:25pm",
+    "call_number":"11599",
+    "campus":null,
+    "class_id":"C1010-20271-045",
+    "course_subtitle":"UW: CONTEMPORARY ESSAYS",
+    "department":"Undergraduate Writing Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/C1010-20271-045\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20271ENGL1010C045",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGL CC1010",
+    "course_title":"UNIVERSITY WRITING",
+    "course_descr":null,
+    "instructor":"Daniel S Swain",
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"2:25pm",
+    "call_number":"11600",
+    "campus":null,
+    "class_id":"C1010-20271-246",
+    "course_subtitle":"UW: Readings in Gender & Sex",
+    "department":"Undergraduate Writing Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/C1010-20271-246\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20271ENGL1010C246",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGL CC1010",
+    "course_title":"UNIVERSITY WRITING",
+    "course_descr":null,
+    "instructor":"Wally Suphap",
+    "scheduled_time_start":"2:40pm",
+    "scheduled_time_end":"3:55pm",
+    "call_number":"11602",
+    "campus":null,
+    "class_id":"C1010-20271-747",
+    "course_subtitle":"UW: Readings in Law & Justice",
+    "department":"Undergraduate Writing Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/C1010-20271-747\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20271ENGL1010C747",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGL CC1010",
+    "course_title":"UNIVERSITY WRITING",
+    "course_descr":null,
+    "instructor":"Maximillian Clee",
+    "scheduled_time_start":"2:40pm",
+    "scheduled_time_end":"3:55pm",
+    "call_number":"11603",
+    "campus":null,
+    "class_id":"C1010-20271-048",
+    "course_subtitle":"UW: CONTEMPORARY ESSAYS",
+    "department":"Undergraduate Writing Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/C1010-20271-048\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20271ENGL1010C048",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGL CC1010",
+    "course_title":"UNIVERSITY WRITING",
+    "course_descr":null,
+    "instructor":"Emily M Suazo",
+    "scheduled_time_start":"2:40pm",
+    "scheduled_time_end":"3:55pm",
+    "call_number":"11604",
+    "campus":null,
+    "class_id":"C1010-20271-849",
+    "course_subtitle":"UW: Readings in Race & Ethncty",
+    "department":"Undergraduate Writing Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/C1010-20271-849\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20271ENGL1010C849",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGL CC1010",
+    "course_title":"UNIVERSITY WRITING",
+    "course_descr":null,
+    "instructor":"Peter C Huhne",
+    "scheduled_time_start":"2:40pm",
+    "scheduled_time_end":"3:55pm",
+    "call_number":"11605",
+    "campus":null,
+    "class_id":"C1010-20271-350",
+    "course_subtitle":"UW: Readings-Performance Arts",
+    "department":"Undergraduate Writing Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/C1010-20271-350\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20271ENGL1010C350",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGL CC1010",
+    "course_title":"UNIVERSITY WRITING",
+    "course_descr":null,
+    "instructor":"Kirkwood F Adams",
+    "scheduled_time_start":"2:40pm",
+    "scheduled_time_end":"3:55pm",
+    "call_number":"11606",
+    "campus":null,
+    "class_id":"C1010-20271-551",
+    "course_subtitle":"UW: Readings in Data & Society",
+    "department":"Undergraduate Writing Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/C1010-20271-551\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20271ENGL1010C551",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGL CC1010",
+    "course_title":"UNIVERSITY WRITING",
+    "course_descr":null,
+    "instructor":"Wally Suphap",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"5:25pm",
+    "call_number":"11607",
+    "campus":null,
+    "class_id":"C1010-20271-752",
+    "course_subtitle":"UW: Readings in Law & Justice",
+    "department":"Undergraduate Writing Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/C1010-20271-752\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20271ENGL1010C752",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGL CC1010",
+    "course_title":"UNIVERSITY WRITING",
+    "course_descr":null,
+    "instructor":"Peter C Huhne",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"5:25pm",
+    "call_number":"11608",
+    "campus":null,
+    "class_id":"C1010-20271-353",
+    "course_subtitle":"UW: Readings-Performance Arts",
+    "department":"Undergraduate Writing Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/C1010-20271-353\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20271ENGL1010C353",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGL CC1010",
+    "course_title":"UNIVERSITY WRITING",
+    "course_descr":null,
+    "instructor":"Christine A Prevas",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"5:25pm",
+    "call_number":"11609",
+    "campus":null,
+    "class_id":"C1010-20271-554",
+    "course_subtitle":"UW: Climate Humanities",
+    "department":"Undergraduate Writing Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/C1010-20271-554\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20271ENGL1010C554",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGL CC1010",
+    "course_title":"UNIVERSITY WRITING",
+    "course_descr":null,
+    "instructor":"Daniel S Swain",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"5:25pm",
+    "call_number":"11610",
+    "campus":null,
+    "class_id":"C1010-20271-255",
+    "course_subtitle":"UW: Readings in Gender & Sex",
+    "department":"Undergraduate Writing Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/C1010-20271-255\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20271ENGL1010C255",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGL CC1010",
+    "course_title":"UNIVERSITY WRITING",
+    "course_descr":null,
+    "instructor":"Peter C Huhne",
+    "scheduled_time_start":"5:40pm",
+    "scheduled_time_end":"6:55pm",
+    "call_number":"11612",
+    "campus":null,
+    "class_id":"C1010-20271-356",
+    "course_subtitle":"UW: Readings-Performance Arts",
+    "department":"Undergraduate Writing Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/C1010-20271-356\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20271ENGL1010C356",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGL CC1010",
+    "course_title":"UNIVERSITY WRITING",
+    "course_descr":null,
+    "instructor":"Brittney Frantece",
+    "scheduled_time_start":"5:40pm",
+    "scheduled_time_end":"6:55pm",
+    "call_number":"11613",
+    "campus":null,
+    "class_id":"C1010-20271-857",
+    "course_subtitle":"UW: Readings in Race & Ethncty",
+    "department":"Undergraduate Writing Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/C1010-20271-857\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20271ENGL1010C857",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGL CC1010",
+    "course_title":"UNIVERSITY WRITING",
+    "course_descr":null,
+    "instructor":"Joey de Jesus",
+    "scheduled_time_start":"11:40am",
+    "scheduled_time_end":"12:55pm",
+    "call_number":"11623",
+    "campus":null,
+    "class_id":"C1010-20271-806",
+    "course_subtitle":"UW: Readings in Race & Ethncty",
+    "department":"Undergraduate Writing Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/C1010-20271-806\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "General Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20271ENGL1010C806",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"ENGL GS1010",
     "course_title":"UNIVERSITY WRITING",
     "course_descr":null,
@@ -18898,6 +19644,708 @@
     ],
     "scheduled_days":"MW",
     "section_key":"20271ENGL1010F802",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGL GS1010",
+    "course_title":"UNIVERSITY WRITING",
+    "course_descr":null,
+    "instructor":"Sarah Y Ng",
+    "scheduled_time_start":"8:40am",
+    "scheduled_time_end":"9:55am",
+    "call_number":"11614",
+    "campus":null,
+    "class_id":"F1010-20271-901",
+    "course_subtitle":"UW FOR INTERNATIONAL STUDENTS",
+    "department":"Undergraduate Writing Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/F1010-20271-901\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "General Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20271ENGL1010F901",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGL GS1010",
+    "course_title":"UNIVERSITY WRITING",
+    "course_descr":null,
+    "instructor":"Sarah L Wingerter",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"11:25am",
+    "call_number":"11616",
+    "campus":null,
+    "class_id":"F1010-20271-603",
+    "course_subtitle":"UW: Readings in Medical Hum",
+    "department":"Undergraduate Writing Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/F1010-20271-603\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "General Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20271ENGL1010F603",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGL GS1010",
+    "course_title":"UNIVERSITY WRITING",
+    "course_descr":null,
+    "instructor":"Mary Mussman",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"11:25am",
+    "call_number":"11618",
+    "campus":null,
+    "class_id":"F1010-20271-204",
+    "course_subtitle":"UW: Readings in Gender and Sex",
+    "department":"Undergraduate Writing Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/F1010-20271-204\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "General Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20271ENGL1010F204",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGL GS1010",
+    "course_title":"UNIVERSITY WRITING",
+    "course_descr":null,
+    "instructor":"Naomi Michalowicz",
+    "scheduled_time_start":"11:40am",
+    "scheduled_time_end":"12:55pm",
+    "call_number":"11620",
+    "campus":null,
+    "class_id":"F1010-20271-605",
+    "course_subtitle":"UW: Readings in Medical Hum",
+    "department":"Undergraduate Writing Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/F1010-20271-605\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "General Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20271ENGL1010F605",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGL GS1010",
+    "course_title":"UNIVERSITY WRITING",
+    "course_descr":null,
+    "instructor":"Joey de Jesus",
+    "scheduled_time_start":"11:40am",
+    "scheduled_time_end":"12:55pm",
+    "call_number":"11624",
+    "campus":null,
+    "class_id":"F1010-20271-806",
+    "course_subtitle":"UW: Readings in Race & Ethncty",
+    "department":"Undergraduate Writing Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/F1010-20271-806\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "General Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20271ENGL1010F806",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGL GS1010",
+    "course_title":"UNIVERSITY WRITING",
+    "course_descr":null,
+    "instructor":"Maximillian Clee",
+    "scheduled_time_start":"11:40am",
+    "scheduled_time_end":"12:55pm",
+    "call_number":"11625",
+    "campus":null,
+    "class_id":"F1010-20271-107",
+    "course_subtitle":"UW: Readings in American Stu",
+    "department":"Undergraduate Writing Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/F1010-20271-107\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "General Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20271ENGL1010F107",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGL GS1010",
+    "course_title":"UNIVERSITY WRITING",
+    "course_descr":null,
+    "instructor":"Jenna A Schoen",
+    "scheduled_time_start":"11:40am",
+    "scheduled_time_end":"12:55pm",
+    "call_number":"11626",
+    "campus":null,
+    "class_id":"F1010-20271-508",
+    "course_subtitle":"UW: Readings in Data & Society",
+    "department":"Undergraduate Writing Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/F1010-20271-508\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "General Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20271ENGL1010F508",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGL GS1010",
+    "course_title":"UNIVERSITY WRITING",
+    "course_descr":null,
+    "instructor":"Kirkwood F Adams",
+    "scheduled_time_start":"11:40am",
+    "scheduled_time_end":"12:55pm",
+    "call_number":"11627",
+    "campus":null,
+    "class_id":"F1010-20271-409",
+    "course_subtitle":"UW: Rdings in Urb Studies",
+    "department":"Undergraduate Writing Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/F1010-20271-409\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "General Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20271ENGL1010F409",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGL GS1010",
+    "course_title":"UNIVERSITY WRITING",
+    "course_descr":null,
+    "instructor":"Alexander M Burchfield",
+    "scheduled_time_start":"11:40am",
+    "scheduled_time_end":"12:55pm",
+    "call_number":"11628",
+    "campus":null,
+    "class_id":"F1010-20271-110",
+    "course_subtitle":"UW: Readings in American Stu",
+    "department":"Undergraduate Writing Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/F1010-20271-110\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "General Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20271ENGL1010F110",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGL GS1010",
+    "course_title":"UNIVERSITY WRITING",
+    "course_descr":null,
+    "instructor":"Stephanie Ahrens",
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"2:25pm",
+    "call_number":"11629",
+    "campus":null,
+    "class_id":"F1010-20271-111",
+    "course_subtitle":"UW: Readings in American Stu",
+    "department":"Undergraduate Writing Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/F1010-20271-111\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "General Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20271ENGL1010F111",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGL GS1010",
+    "course_title":"UNIVERSITY WRITING",
+    "course_descr":null,
+    "instructor":"Elizabeth F Furlong",
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"2:25pm",
+    "call_number":"11630",
+    "campus":null,
+    "class_id":"F1010-20271-412",
+    "course_subtitle":"UW: Rdings in Urb Studies",
+    "department":"Undergraduate Writing Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/F1010-20271-412\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "General Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20271ENGL1010F412",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGL GS1010",
+    "course_title":"UNIVERSITY WRITING",
+    "course_descr":null,
+    "instructor":"Wally Suphap",
+    "scheduled_time_start":"11:40am",
+    "scheduled_time_end":"12:55pm",
+    "call_number":"11631",
+    "campus":null,
+    "class_id":"F1010-20271-913",
+    "course_subtitle":"UW FOR INTERNATIONAL STUDENTS",
+    "department":"Undergraduate Writing Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/F1010-20271-913\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "General Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20271ENGL1010F913",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGL GS1010",
+    "course_title":"UNIVERSITY WRITING",
+    "course_descr":null,
+    "instructor":"Jenna A Schoen",
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"2:25pm",
+    "call_number":"11632",
+    "campus":null,
+    "class_id":"F1010-20271-514",
+    "course_subtitle":"UW: Readings in Data & Society",
+    "department":"Undergraduate Writing Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/F1010-20271-514\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "General Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20271ENGL1010F514",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGL GS1010",
+    "course_title":"UNIVERSITY WRITING",
+    "course_descr":null,
+    "instructor":"Jack Hanson",
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"2:25pm",
+    "call_number":"11633",
+    "campus":null,
+    "class_id":"F1010-20271-015",
+    "course_subtitle":"UW: CONTEMPORARY ESSAYS",
+    "department":"Undergraduate Writing Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/F1010-20271-015\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "General Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20271ENGL1010F015",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGL GS1010",
+    "course_title":"UNIVERSITY WRITING",
+    "course_descr":null,
+    "instructor":"Erag Ramizi",
+    "scheduled_time_start":"2:40pm",
+    "scheduled_time_end":"3:55pm",
+    "call_number":"11634",
+    "campus":null,
+    "class_id":"F1010-20271-916",
+    "course_subtitle":"UW FOR INTERNATIONAL STUDENTS",
+    "department":"Undergraduate Writing Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/F1010-20271-916\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "General Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20271ENGL1010F916",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGL GS1010",
+    "course_title":"UNIVERSITY WRITING",
+    "course_descr":null,
+    "instructor":"Matthew L Rossi",
+    "scheduled_time_start":"2:40pm",
+    "scheduled_time_end":"3:55pm",
+    "call_number":"11635",
+    "campus":null,
+    "class_id":"F1010-20271-017",
+    "course_subtitle":"UW: CONTEMPORARY ESSAYS",
+    "department":"Undergraduate Writing Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/F1010-20271-017\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "General Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20271ENGL1010F017",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGL GS1010",
+    "course_title":"UNIVERSITY WRITING",
+    "course_descr":null,
+    "instructor":"Allison T Fowler",
+    "scheduled_time_start":"2:40pm",
+    "scheduled_time_end":"3:55pm",
+    "call_number":"11636",
+    "campus":null,
+    "class_id":"F1010-20271-818",
+    "course_subtitle":"UW: Readings in Race & Ethncty",
+    "department":"Undergraduate Writing Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/F1010-20271-818\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "General Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20271ENGL1010F818",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGL GS1010",
+    "course_title":"UNIVERSITY WRITING",
+    "course_descr":null,
+    "instructor":"Christine A Prevas",
+    "scheduled_time_start":"2:40pm",
+    "scheduled_time_end":"3:55pm",
+    "call_number":"11637",
+    "campus":null,
+    "class_id":"F1010-20271-519",
+    "course_subtitle":"UW: Climate Humanities",
+    "department":"Undergraduate Writing Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/F1010-20271-519\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "General Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20271ENGL1010F519",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGL GS1010",
+    "course_title":"UNIVERSITY WRITING",
+    "course_descr":null,
+    "instructor":"Brittney Frantece",
+    "scheduled_time_start":"2:40pm",
+    "scheduled_time_end":"3:55pm",
+    "call_number":"11638",
+    "campus":null,
+    "class_id":"F1010-20271-820",
+    "course_subtitle":"UW: Readings in Race & Ethncty",
+    "department":"Undergraduate Writing Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/F1010-20271-820\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "General Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20271ENGL1010F820",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGL GS1010",
+    "course_title":"UNIVERSITY WRITING",
+    "course_descr":null,
+    "instructor":"Andy Jo",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"5:25pm",
+    "call_number":"11639",
+    "campus":null,
+    "class_id":"F1010-20271-221",
+    "course_subtitle":"UW: Readings in Gender and Sex",
+    "department":"Undergraduate Writing Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/F1010-20271-221\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "General Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20271ENGL1010F221",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGL GS1010",
+    "course_title":"UNIVERSITY WRITING",
+    "course_descr":null,
+    "instructor":"Joseph W Bubar",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"5:25pm",
+    "call_number":"11640",
+    "campus":null,
+    "class_id":"F1010-20271-022",
+    "course_subtitle":"UW: CONTEMPORARY ESSAYS",
+    "department":"Undergraduate Writing Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/F1010-20271-022\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "General Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20271ENGL1010F022",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGL GS1010",
+    "course_title":"UNIVERSITY WRITING",
+    "course_descr":null,
+    "instructor":"Brittney Frantece",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"5:25pm",
+    "call_number":"11641",
+    "campus":null,
+    "class_id":"F1010-20271-823",
+    "course_subtitle":"UW: Readings in Race & Ethncty",
+    "department":"Undergraduate Writing Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/F1010-20271-823\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "General Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20271ENGL1010F823",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGL GS1010",
+    "course_title":"UNIVERSITY WRITING",
+    "course_descr":null,
+    "instructor":"Finn A Anderson",
+    "scheduled_time_start":"5:40pm",
+    "scheduled_time_end":"6:55pm",
+    "call_number":"11643",
+    "campus":null,
+    "class_id":"F1010-20271-424",
+    "course_subtitle":"UW: Rdings in Urb Studies",
+    "department":"Undergraduate Writing Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/F1010-20271-424\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "General Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20271ENGL1010F424",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGL GS1010",
+    "course_title":"UNIVERSITY WRITING",
+    "course_descr":null,
+    "instructor":"Anirbaan Banerjee",
+    "scheduled_time_start":"5:40pm",
+    "scheduled_time_end":"6:55pm",
+    "call_number":"11644",
+    "campus":null,
+    "class_id":"F1010-20271-425",
+    "course_subtitle":"UW: Rdings in Urb Studies",
+    "department":"Undergraduate Writing Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/F1010-20271-425\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "General Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20271ENGL1010F425",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGL GS1010",
+    "course_title":"UNIVERSITY WRITING",
+    "course_descr":null,
+    "instructor":"Daniel S Swain",
+    "scheduled_time_start":"5:40pm",
+    "scheduled_time_end":"6:55pm",
+    "call_number":"11645",
+    "campus":null,
+    "class_id":"F1010-20271-226",
+    "course_subtitle":"UW: Readings in Gender and Sex",
+    "department":"Undergraduate Writing Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/F1010-20271-226\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "General Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20271ENGL1010F226",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGL GS1010",
+    "course_title":"UNIVERSITY WRITING",
+    "course_descr":null,
+    "instructor":"Chelsea Largent",
+    "scheduled_time_start":"7:10pm",
+    "scheduled_time_end":"8:25pm",
+    "call_number":"11646",
+    "campus":null,
+    "class_id":"F1010-20271-227",
+    "course_subtitle":"UW: Rdings in Urb Studies",
+    "department":"Undergraduate Writing Program",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/F1010-20271-227\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "General Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20271ENGL1010F227",
     "type":"LECTURE"
   },
   {
@@ -19167,33 +20615,6 @@
     "scheduled_days":"TR",
     "section_key":"20271ENGL0719Z001",
     "type":"WORKSHOP"
-  },
-  {
-    "course_code":"ENGL PS1007",
-    "course_title":"ADV ACAD WRITING FOR GS",
-    "course_descr":null,
-    "instructor":null,
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
-    "call_number":"11481",
-    "campus":null,
-    "class_id":"Z1007-20271-005",
-    "course_subtitle":null,
-    "department":"American Language Program",
-    "department_code":"ENGL",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/Z1007-20271-005\/",
-    "location":null,
-    "method_of_instruction":"In-Person",
-    "open_to":[
-      "General Studies"
-    ],
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":null,
-    "section_key":"20271ENGL1007Z005",
-    "type":"LANGUAGE"
   },
   {
     "course_code":"ENTH BC3136",
@@ -22587,8 +24008,8 @@
     "course_title":"ELEMENTARY FRENCH II",
     "course_descr":"Basic elements of French grammar. Oral, writing, and reading skills. Students may take either or both of these courses at Columbia.",
     "instructor":"Alexandre Bournery",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"11:40am",
+    "scheduled_time_end":"12:55pm",
     "call_number":"00710",
     "campus":null,
     "class_id":"X1002-20271-001",
@@ -22603,7 +24024,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"TRF",
     "section_key":"20271FREN1002X001",
     "type":"LECTURE"
   },
@@ -22611,9 +24032,9 @@
     "course_code":"FREN BC1002",
     "course_title":"ELEMENTARY FRENCH II",
     "course_descr":"Basic elements of French grammar. Oral, writing, and reading skills. Students may take either or both of these courses at Columbia.",
-    "instructor":null,
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "instructor":"Dane Stalcup",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"5:25pm",
     "call_number":"00711",
     "campus":null,
     "class_id":"X1002-20271-002",
@@ -22628,7 +24049,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"MWF",
     "section_key":"20271FREN1002X002",
     "type":"LECTURE"
   },
@@ -23779,56 +25200,6 @@
     "type":"LECTURE"
   },
   {
-    "course_code":"GERM BC3061",
-    "course_title":"SEMINAR",
-    "course_descr":null,
-    "instructor":"Erk Grimm",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
-    "call_number":"00794",
-    "campus":null,
-    "class_id":"X3061-20271-001",
-    "course_subtitle":null,
-    "department":"German @Barnard",
-    "department_code":"GERM",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/GERM\/X3061-20271-001\/",
-    "location":null,
-    "method_of_instruction":null,
-    "open_to":null,
-    "points":"4",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":null,
-    "section_key":"20271GERM3061X001",
-    "type":"SEMINAR"
-  },
-  {
-    "course_code":"GERM BC3105",
-    "course_title":"Comical Expression in Multicult Lit\/Film",
-    "course_descr":"This course is designed for participants who are interested in learning more about the role of humor in 20th\/21st-c. literature and film. The survey begins with an introduction to key elements of the comical in literature and film, including slapstick, clowning, mime, or stunts. Discussions revolve around the issue of how or whether humor is universally recognizable or whether it is regionally, historically, and culturally defined. To shed light on this difficult question we will consider both historical and geographical settings. In close studies of popular films and literary texts we will examine the characters\u2019 proclivities and discuss their gender-based perspectives as well as the influence of racial, religious or age-related identities. Our weekly readings\u2014which include excerpts from major novels, selected scenes from films as well as short stories--provide us with rich and instructive examples of how eating habits, choice of food, calendrical events (holiday vs. weekday) may be related to the formation and expression of cultural identity. Romantic comedies reveal not only personal preferences and the joy of eating\u2014they also signal collective taste patterns and indicate what kind of fantasies or constraints have governed the daily or festive dietary practices from the early 20th c. on. While the comical is first and foremost represented in time-honored genres such as comedies\u00a0 or jokes, we will concentrate on the modern tradition in this course. This approach allows us to address the social, political, and cultural issue of multiculturalism and to build bridges between individual text\/film and their historical contexts in the German-speaking countries. The emphasis of the course lies on a critical investigation of how cultural identity is related to self-expression and to physical interaction on the page, the stage or the screen. The course is taught in English, all readings are in English, and there are no prerequisites.",
-    "instructor":"Erk Grimm",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
-    "call_number":"00603",
-    "campus":null,
-    "class_id":"X3105-20271-001",
-    "course_subtitle":"COMIC EXPRSN: GERMAN LIT\/",
-    "department":"German @Barnard",
-    "department_code":"GERM",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/GERM\/X3105-20271-001\/",
-    "location":null,
-    "method_of_instruction":null,
-    "open_to":null,
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":null,
-    "section_key":"20271GERM3105X001",
-    "type":"LECTURE"
-  },
-  {
     "course_code":"GERM UN1102",
     "course_title":"ELEMENTARY GERMAN II",
     "course_descr":"Prerequisites: GERM UN1101 or the equivalent. If you have prior German outside of Columbia\u2019s language sequence, the placement exam is required. German 1102 is the continuation of Elementary German I (1101). It is a four-skill language course taught in German, in which students continue to develop listening, speaking, reading, and writing skills in German and an understanding of German-speaking cultures. Emphasis is placed on acquiring the four language skills--listening, speaking, reading and writing--within a cultural context. Students expand their communication skills to include travel, storytelling, personal well- being, basic economics, recent historical events, and working with movie segments. Completion of daily assignments, which align with class content, and consistent work are necessary in order to achieve basic communicative proficiency.",
@@ -23888,8 +25259,8 @@
     "course_title":"ADVANCED GERMAN II",
     "course_descr":"Corequisites: Course either taken before or after GERM V3001. Intensive practice in oral and written German. Discussions, oral reports, and weekly written assignments, based on material of topical and stylistic variety taken from German press and from literary sources.",
     "instructor":"Irene Motyl",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"5:25pm",
     "call_number":"00620",
     "campus":null,
     "class_id":"V3002-20271-001",
@@ -23906,7 +25277,7 @@
         "GERM V3001"
       ]
     ],
-    "scheduled_days":null,
+    "scheduled_days":"MW",
     "section_key":"20271GERM3002V001",
     "type":"LECTURE"
   },
@@ -24312,8 +25683,8 @@
     "course_title":"GREEK LITERATURE SELECTIONS II",
     "course_descr":"Prerequisites: GREK UN2101 - GREK UN2102 or the equivalent. Since the content of this course changes from year to year, it may be repeated for credit.",
     "instructor":"Rosa M Andujar",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"2:25pm",
     "call_number":"00198",
     "campus":null,
     "class_id":"V3310-20271-001",
@@ -24333,7 +25704,7 @@
         "GREK UN2102"
       ]
     ],
-    "scheduled_days":null,
+    "scheduled_days":"TR",
     "section_key":"20271GREK3310V001",
     "type":"LECTURE"
   },
@@ -25450,8 +26821,8 @@
     "course_title":"HUM RGTS IN THEORY& PRACTICE",
     "course_descr":"Provides a broad overview of the rapidly expanding field of human rights. Lectures on the philosophical, historical, legal and institutional foundations are interspersed with weekly presentations by frontline advocates from the U.S. and overseas.",
     "instructor":"Kayum Ahmed",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"11:40am",
+    "scheduled_time_end":"12:55pm",
     "call_number":"00051",
     "campus":null,
     "class_id":"X1025-20271-001",
@@ -25466,7 +26837,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"TR",
     "section_key":"20271HRTS1025X001",
     "type":"LECTURE"
   },
@@ -25475,8 +26846,8 @@
     "course_title":"INTL LAW & U.N. IN PRACTICE",
     "course_descr":"Prerequisites: POLS UN1601 or HRTS UN3001 An equivalent course to POLS UN1601 or HRTS UN3001 may be used as a pre-requisite, with departmental permission. Examines the development of international law and the United Nations, their evolution in the Twentieth Century, and their role in world affairs today. Concepts and principles are illustrated through their application to contemporary human rights and humanitarian challenges, and with respect to other threats to international peace and security. The course consists primarily of presentation and discussion, drawing heavily on the practical application of theory to actual experiences and situations. For the Barnard Political Science major, this seminar counts as elective credit only. (Cross-listed by the Human Rights Program.)",
     "instructor":"Martin S Flaherty",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"12:10pm",
+    "scheduled_time_end":"2:00pm",
     "call_number":"00052",
     "campus":null,
     "class_id":"X3601-20271-001",
@@ -25498,7 +26869,7 @@
         "HRTS UN3001"
       ]
     ],
-    "scheduled_days":null,
+    "scheduled_days":"F",
     "section_key":"20271HRTS3601X001",
     "type":"SEMINAR"
   },
@@ -25507,8 +26878,8 @@
     "course_title":"HUMAN RIGHTS & PUBLIC HEALTH",
     "course_descr":"Prerequisites: Enrollment in the course is open to 18 undergraduates who have completed at least one core course in human rights and \/or international law. This seminar introduces students to the field of health and human rights. It examines how to advocate for and implement public health strategies using a human rights framework. It takes note of current international and domestic debates about the utility of a ;human rights-based approach; to health, discusses methods and ethics of health-related human rights research, and examines case studies of human rights investigations to explore the role of human rights analysis in promoting public health.",
     "instructor":"Kayum Ahmed",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"12:10pm",
+    "scheduled_time_end":"2:00pm",
     "call_number":"00509",
     "campus":null,
     "class_id":"X3850-20271-001",
@@ -25523,7 +26894,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"W",
     "section_key":"20271HRTS3850X001",
     "type":"SEMINAR"
   },
@@ -25532,8 +26903,8 @@
     "course_title":"SOC JUSTICE & HUM RIGHTS",
     "course_descr":"Corequisites: Students must have an internship related to social justice or human rights during This class is intended to complement and enhance the internship experience for students working in internships that relate to social justice and human rights during the Spring 2016 semester. This course will meet bi-weekly to provide an academic framing of the issues that students are working on and to provide an opportunity for students to analyze their internship experience.",
     "instructor":"Kayum Ahmed",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"4:00pm",
     "call_number":"00053",
     "campus":null,
     "class_id":"X3931-20271-001",
@@ -25548,7 +26919,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"R",
     "section_key":"20271HRTS3931X001",
     "type":"SEMINAR"
   },
@@ -25557,8 +26928,8 @@
     "course_title":"Education in Conflict Zones",
     "course_descr":"Across the world, conflict and violence are on the rise, in many forms and due to myriad factors. This course explores the relationship between war, conflict, and education. Drawing on a human rights framework and its applications to education, this course will explore the possibilities and limitations inherent in this framework. Questions we will explore include: How does education contribute to, or mitigate conflict? What is the role of education in emergencies? What is the role of education in addressing the needs of refugees? What is the role of education in post conflict contexts and peacebuilding? What is human rights education?",
     "instructor":"Thea R Abu El-Haj",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"4:00pm",
     "call_number":"00783",
     "campus":null,
     "class_id":"W4995-20271-001",
@@ -25573,7 +26944,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"T",
     "section_key":"20271HRTS4995W001",
     "type":"LECTURE"
   },
@@ -25582,8 +26953,8 @@
     "course_title":"Seeking Sanctuary in New York City",
     "course_descr":"In a renewed age of anti-immigrant fervor, the last few years have seen attention focused on people seeking asylum \u2013 the process under international law by which people fleeing persecution can seek protection in a country not of their citizenship. New York has become a particular flashpoint with a large influx of asylum seekers, most of them from Latin America. Often, they have arrived on buses sent here by southern governors intending to make the border \u201cproblem\u201d that of a so-called \u201csanctuary city.\u201d How has New York responded? And how does this fit into the city\u2019s long history of refuge?\u00a0\n  \nThis course will offer students an introduction to the theory, ethics, and history of the idea of international protection. We will look specifically at how Latin American citizens have engaged with the US asylum system over time and how this engagement has changed the shape of US immigration laws. We will study the origins of the ideas of international protection, who is understood to qualify and why, how the system has changed over time, and what these developments mean for a broader understanding of human rights across borders. We will also take a critical look at asylum, examine ideas of deservingness and innocence and their intersection with categories of race, class and gender, and question what it means for certain people to be constructed as victims and others to be seen as not eligible \u2013 or worthy \u2013 of protection.\n  \nThis is an engaged pedagogy course. The class will be organized around a close collaboration with a NY legal organization that has taken on the work of representing many asylum seekers in the city. Students will learn the complexities of US asylum law and will work collectively to use this knowledge, while developing their research skills, to put together reports to be used in active asylum cases.",
     "instructor":"Jennifer Trowbridge",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"4:00pm",
     "call_number":"00255",
     "campus":null,
     "class_id":"V3934-20271-001",
@@ -25598,7 +26969,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"TR",
     "section_key":"20271HRTS3934V001",
     "type":"SEMINAR"
   },
@@ -25607,8 +26978,8 @@
     "course_title":"Human Rights and Social Justice in NYC",
     "course_descr":"This seminar and engaged pedagogy course is centered around close collaboration with a community-based organization in New York City. We will divide our time between an intellectual study of the history, theory, and practice of human rights protections, and address the semester's specific topic as it is unfolding locally and nationally, in real time. As an engaged pedagogy course, the academic and project-based work will be conducted in conjunction with, and for the benefit of, an organization involved in local social justice work. The course is therefore fundamentally designed around the lives, experiences, and needs of real people in New York City and the organizations dedicated to advancing their demands. Our partner organizations serve the needs of their members or clients in various ways, including but not limited to: legal representation, public policy advocacy, rights' campaigns, and educational outreach. Students will work directly with members and\/or clients of these organizations as they draw upon human rights frameworks to make specific demands to ameliorate their circumstances. Ultimately, students will use their academic knowledge, reading and writing skills, and newly-gained on-site experience to complete a specific project intended to further the causes and needs of the community-based organization and its members.",
     "instructor":"Jennifer Trowbridge",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"12:00pm",
     "call_number":"00256",
     "campus":null,
     "class_id":"W3936-20271-001",
@@ -25623,7 +26994,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"TR",
     "section_key":"20271HRTS3936W001",
     "type":"SEMINAR"
   },
@@ -25707,8 +27078,8 @@
     "course_title":"HISTORY OF MODERN CHINA II",
     "course_descr":"China's search for a new order in the long twentieth century with a focus on political, social and cultural change.",
     "instructor":"Cameron K Foltz",
-    "scheduled_time_start":"4:10pm",
-    "scheduled_time_end":"5:25pm",
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"2:25pm",
     "call_number":"11213",
     "campus":null,
     "class_id":"W4882-20271-001",
@@ -30244,6 +31615,145 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"IEOR E4402",
+    "course_title":"Corporate Finance, Accounting & Investme",
+    "course_descr":null,
+    "instructor":"Rodney Sunada-Wong",
+    "scheduled_time_start":"5:40pm",
+    "scheduled_time_end":"8:10pm",
+    "call_number":"11587",
+    "campus":null,
+    "class_id":"E4402-20271-001",
+    "course_subtitle":"CorpFin, Account & Invest",
+    "department":"Industrial Engineering and Operations Research",
+    "department_code":"IEOR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/IEOR\/E4402-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Engineering:Graduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20271IEOR4402E001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"IEOR E4405",
+    "course_title":"PRODUCTION SCHEDULING",
+    "course_descr":null,
+    "instructor":"Clifford Stein",
+    "scheduled_time_start":"8:40am",
+    "scheduled_time_end":"9:55am",
+    "call_number":"11591",
+    "campus":null,
+    "class_id":"E4405-20271-001",
+    "course_subtitle":null,
+    "department":"Industrial Engineering and Operations Research",
+    "department_code":"IEOR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/IEOR\/E4405-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Engineering:Graduate",
+      "Engineering:Undergraduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20271IEOR4405E001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"IEOR E4505",
+    "course_title":"OPERATION RES IN PUBLIC POLICY",
+    "course_descr":null,
+    "instructor":"Yaren Kaya",
+    "scheduled_time_start":"11:40am",
+    "scheduled_time_end":"12:55pm",
+    "call_number":"11594",
+    "campus":null,
+    "class_id":"E4505-20271-001",
+    "course_subtitle":"OR in Public Policy",
+    "department":"Industrial Engineering and Operations Research",
+    "department_code":"IEOR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/IEOR\/E4505-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Engineering:Graduate",
+      "Engineering:Undergraduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20271IEOR4505E001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"IEOR E4511",
+    "course_title":"Industry Projects in Analytics & Operati",
+    "course_descr":null,
+    "instructor":"Michael Robbins",
+    "scheduled_time_start":"8:00am",
+    "scheduled_time_end":"10:30am",
+    "call_number":"11611",
+    "campus":null,
+    "class_id":"E4511-20271-001",
+    "course_subtitle":"Industry Projs in Analyti",
+    "department":"Industrial Engineering and Operations Research",
+    "department_code":"IEOR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/IEOR\/E4511-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Engineering:Graduate",
+      "Engineering:Undergraduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20271IEOR4511E001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"IEOR E4540",
+    "course_title":"DATA MINING",
+    "course_descr":null,
+    "instructor":"Krzysztof M Choromanski",
+    "scheduled_time_start":"7:00pm",
+    "scheduled_time_end":"9:30pm",
+    "call_number":"11619",
+    "campus":null,
+    "class_id":"E4540-20271-001",
+    "course_subtitle":null,
+    "department":"Industrial Engineering and Operations Research",
+    "department_code":"IEOR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/IEOR\/E4540-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Engineering:Graduate",
+      "Engineering:Undergraduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20271IEOR4540E001",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"IEOR E4900",
     "course_title":"MASTERS RESEARCH OR PROJECT",
     "course_descr":"Prerequisite(s): Approval by a faculty member who agrees to supervise the work. Independent work involving experiments, computer programming, analytical investigation, or engineering design.",
@@ -34079,8 +35589,8 @@
     "course_title":"ELEMENTARY ITALIAN II",
     "course_descr":"Ciao!\n I am so thrilled that you have chosen to study Italian at Barnard. This class marks the beginning of your journey through the wonderful language, history, and culture of Italy. I am hopeful that our time together will be fruitful, informative, and fun.\n  \nThis document outlines the course objectives, requirements and policies for Elementary Italian 2.\u00a0 I have chosen to outline these policies in English so that they are as clear as possible, but \nItalian is the official language of the course\n, and classes will be conducted accordingly. Some English will be used at the beginning of the semester as we get to know each other, but it will be phased out over the course of our time together.",
     "instructor":"Emilia Gambardella",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"8:40am",
+    "scheduled_time_end":"9:55am",
     "call_number":"00708",
     "campus":null,
     "class_id":"X1002-20271-001",
@@ -34095,7 +35605,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"TRF",
     "section_key":"20271ITAL1002X001",
     "type":"LANGUAGE"
   },
@@ -34104,8 +35614,8 @@
     "course_title":"ELEMENTARY ITALIAN II",
     "course_descr":"Ciao!\n I am so thrilled that you have chosen to study Italian at Barnard. This class marks the beginning of your journey through the wonderful language, history, and culture of Italy. I am hopeful that our time together will be fruitful, informative, and fun.\n  \nThis document outlines the course objectives, requirements and policies for Elementary Italian 2.\u00a0 I have chosen to outline these policies in English so that they are as clear as possible, but \nItalian is the official language of the course\n, and classes will be conducted accordingly. Some English will be used at the beginning of the semester as we get to know each other, but it will be phased out over the course of our time together.",
     "instructor":"Emilia Gambardella",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"11:25am",
     "call_number":"00709",
     "campus":null,
     "class_id":"X1002-20271-002",
@@ -34120,7 +35630,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"TRF",
     "section_key":"20271ITAL1002X002",
     "type":"LANGUAGE"
   },
@@ -34129,8 +35639,8 @@
     "course_title":"ITL CULTRL ST II:WWI-PRESENT",
     "course_descr":"An interdisciplinary investigation into Italian culture and society in the years between World War I and the present. Drawing on historical analyses, literary texts, letters, film, cartoons, popular music, etc. the course examines some of the key problems and trends in the cultural and political history of the period. Lectures, discussion and required readings will be in English. Students with a knowledge of Italian are encouraged to read the primary literature in Italian.",
     "instructor":"Nelson Moe",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"11:25am",
     "call_number":"00706",
     "campus":null,
     "class_id":"G4503-20271-001",
@@ -34145,7 +35655,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"MW",
     "section_key":"20271ITAL4503G001",
     "type":"LECTURE"
   },
@@ -35425,8 +36935,8 @@
     "course_title":"ELEMENTARY LATIN II",
     "course_descr":"Prerequisites: LATN UN1101. A continuation of LATN UN1101, including a review of grammar and syntax for students whose study of Latin has been interrupted.",
     "instructor":"Darcy Krasne",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"11:25am",
     "call_number":"00199",
     "campus":null,
     "class_id":"V1102-20271-001",
@@ -35446,7 +36956,7 @@
         "LATN UN1101"
       ]
     ],
-    "scheduled_days":null,
+    "scheduled_days":"TRF",
     "section_key":"20271LATN1102V001",
     "type":"LANGUAGE"
   },
@@ -35595,8 +37105,8 @@
     "course_title":"LATIN LITERATURE SELECTIONS",
     "course_descr":"Prerequisites: LATN UN2102 or the equivalent. Since the content of this course changes from year to year, it may be repeated for credit.",
     "instructor":"Darcy Krasne",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"8:40am",
+    "scheduled_time_end":"9:55am",
     "call_number":"00200",
     "campus":null,
     "class_id":"V3310-20271-001",
@@ -35613,7 +37123,7 @@
         "LATN UN2102"
       ]
     ],
-    "scheduled_days":null,
+    "scheduled_days":"TR",
     "section_key":"20271LATN3310V001",
     "type":"LECTURE"
   },
@@ -36879,8 +38389,8 @@
     "course_title":"CALCULUS III",
     "course_descr":"Prerequisites: MATH UN1101 or the equivalent Vectors in dimensions 2 and 3, complex numbers and the complex exponential function with applications to differential equations, Cramers rule, vector-valued functions of one variable, scalar-valued functions of several variables, partial derivatives, gradients, surfaces, optimization, the method of Lagrange multipliers. (SC)",
     "instructor":"Chris Ivanov",
-    "scheduled_time_start":"8:40am",
-    "scheduled_time_end":"9:55am",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"11:25am",
     "call_number":"00044",
     "campus":null,
     "class_id":"V1201-20271-001",
@@ -37034,6 +38544,31 @@
     ],
     "scheduled_days":"TR",
     "section_key":"20271MATH1201V007",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"MATH UN1202",
+    "course_title":"CALCULUS IV",
+    "course_descr":null,
+    "instructor":"Daniela de Silva",
+    "scheduled_time_start":"8:40am",
+    "scheduled_time_end":"9:55am",
+    "call_number":"00938",
+    "campus":null,
+    "class_id":"W1202-20271-001",
+    "course_subtitle":null,
+    "department":"Mathematics @Barnard",
+    "department_code":"MATH",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/MATH\/W1202-20271-001\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20271MATH1202W001",
     "type":"LECTURE"
   },
   {
@@ -37326,6 +38861,31 @@
     ],
     "scheduled_days":"MW",
     "section_key":"20271MATH2010V001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"MATH UN2010",
+    "course_title":"LINEAR ALGEBRA",
+    "course_descr":null,
+    "instructor":"Marco Castronovo",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"11:25am",
+    "call_number":"00939",
+    "campus":null,
+    "class_id":"V2010-20271-002",
+    "course_subtitle":null,
+    "department":"Mathematics @Barnard",
+    "department_code":"MATH",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/MATH\/V2010-20271-002\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20271MATH2010V002",
     "type":"LECTURE"
   },
   {
@@ -39532,6 +41092,56 @@
     "type":"REHEARSAL"
   },
   {
+    "course_code":"MPP_ UN1521",
+    "course_title":"UNIVERSITY ORCHESTRA I",
+    "course_descr":null,
+    "instructor":"Jeffrey Milarsky",
+    "scheduled_time_start":"6:30pm",
+    "scheduled_time_end":"9:00pm",
+    "call_number":"11621",
+    "campus":null,
+    "class_id":"V1521-20271-001",
+    "course_subtitle":null,
+    "department":"Music",
+    "department_code":"MPP_",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/MPP_\/V1521-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"2",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20271MPP_1521V001",
+    "type":"REHEARSAL"
+  },
+  {
+    "course_code":"MPP_ UN1601",
+    "course_title":"Performance Seminar MasterClass",
+    "course_descr":null,
+    "instructor":"Magdalena Baczewska",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"5:25pm",
+    "call_number":"11622",
+    "campus":null,
+    "class_id":"W1601-20271-001",
+    "course_subtitle":"Performance Sem MasterCla",
+    "department":"Music",
+    "department_code":"MPP_",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/MPP_\/W1601-20271-001\/",
+    "location":"622 Dodge Hall",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20271MPP_1601W001",
+    "type":"REHEARSAL"
+  },
+  {
     "course_code":"MRST GR6020",
     "course_title":"MEDIEVAL\/RENAISSANCE PHILOLOGY",
     "course_descr":null,
@@ -40122,7 +41732,7 @@
     "course_code":"MUSI GR8097",
     "course_title":"INDIV PROJECTS IN MUSICOLOGY",
     "course_descr":"Sec. 1: Ethnomusicology; Sec. 2: Historical Musicology; Sec. 3: Music Theory; Sec. 4: Music Cognition; Sec. 5: Music Philosophy.",
-    "instructor":"Zosha Di Castri",
+    "instructor":"Joseph P Dubiel",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"11497",
@@ -40147,7 +41757,7 @@
     "course_code":"MUSI GR8097",
     "course_title":"INDIV PROJECTS IN MUSICOLOGY",
     "course_descr":"Sec. 1: Ethnomusicology; Sec. 2: Historical Musicology; Sec. 3: Music Theory; Sec. 4: Music Cognition; Sec. 5: Music Philosophy.",
-    "instructor":"Joseph P Dubiel",
+    "instructor":"Kevin Fellezs",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"11498",
@@ -40172,7 +41782,7 @@
     "course_code":"MUSI GR8097",
     "course_title":"INDIV PROJECTS IN MUSICOLOGY",
     "course_descr":"Sec. 1: Ethnomusicology; Sec. 2: Historical Musicology; Sec. 3: Music Theory; Sec. 4: Music Cognition; Sec. 5: Music Philosophy.",
-    "instructor":"Kevin Fellezs",
+    "instructor":"Aaron A Fox",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"11500",
@@ -40197,7 +41807,7 @@
     "course_code":"MUSI GR8097",
     "course_title":"INDIV PROJECTS IN MUSICOLOGY",
     "course_descr":"Sec. 1: Ethnomusicology; Sec. 2: Historical Musicology; Sec. 3: Music Theory; Sec. 4: Music Cognition; Sec. 5: Music Philosophy.",
-    "instructor":"Aaron A Fox",
+    "instructor":"Giuseppe Gerbino",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"11501",
@@ -40222,7 +41832,7 @@
     "course_code":"MUSI GR8097",
     "course_title":"INDIV PROJECTS IN MUSICOLOGY",
     "course_descr":"Sec. 1: Ethnomusicology; Sec. 2: Historical Musicology; Sec. 3: Music Theory; Sec. 4: Music Cognition; Sec. 5: Music Philosophy.",
-    "instructor":"Giuseppe Gerbino",
+    "instructor":"Christopher J Washburne",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"11502",
@@ -40247,32 +41857,7 @@
     "course_code":"MUSI GR8097",
     "course_title":"INDIV PROJECTS IN MUSICOLOGY",
     "course_descr":"Sec. 1: Ethnomusicology; Sec. 2: Historical Musicology; Sec. 3: Music Theory; Sec. 4: Music Cognition; Sec. 5: Music Philosophy.",
-    "instructor":"Georg Friedrich Haas",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
-    "call_number":"11503",
-    "campus":null,
-    "class_id":"G8097-20271-008",
-    "course_subtitle":"INDIV PROJECTS IN MUSICOL",
-    "department":"Music",
-    "department_code":"MUSI",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/MUSI\/G8097-20271-008\/",
-    "location":null,
-    "method_of_instruction":"In-Person",
-    "open_to":null,
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":null,
-    "section_key":"20271MUSI8097G008",
-    "type":"INDEPENDENT"
-  },
-  {
-    "course_code":"MUSI GR8097",
-    "course_title":"INDIV PROJECTS IN MUSICOLOGY",
-    "course_descr":"Sec. 1: Ethnomusicology; Sec. 2: Historical Musicology; Sec. 3: Music Theory; Sec. 4: Music Cognition; Sec. 5: Music Philosophy.",
-    "instructor":"Christopher J Washburne",
+    "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"11504",
@@ -40292,6 +41877,56 @@
     "scheduled_days":null,
     "section_key":"20271MUSI8097G009",
     "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"MUSI UN1002",
+    "course_title":"FUNDAMENTALS OF MUSIC",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"2:25pm",
+    "call_number":"11615",
+    "campus":null,
+    "class_id":"V1002-20271-001",
+    "course_subtitle":null,
+    "department":"Music",
+    "department_code":"MUSI",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/MUSI\/V1002-20271-001\/",
+    "location":"814 Dodge Hall",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20271MUSI1002V001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"MUSI UN1350",
+    "course_title":"Introduction to Musicianship",
+    "course_descr":null,
+    "instructor":"Michael Joviala",
+    "scheduled_time_start":"9:05am",
+    "scheduled_time_end":"9:55am",
+    "call_number":"11617",
+    "campus":null,
+    "class_id":"W1350-20271-001",
+    "course_subtitle":"Introduction to Musicians",
+    "department":"Music",
+    "department_code":"MUSI",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/MUSI\/W1350-20271-001\/",
+    "location":"814 Dodge Hall",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20271MUSI1350W001",
+    "type":"LABORATORY"
   },
   {
     "course_code":"MUSI UN1594",
@@ -44250,8 +45885,8 @@
     "course_title":"SENIOR SEMINAR",
     "course_descr":"Intensive study of a philosophical issue or topic, or of a philosopher, group of philosophers, or philosophical school or movement. Open only to Barnard senior philosophy majors.",
     "instructor":"Francey Russell",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
     "call_number":"00507",
     "campus":null,
     "class_id":"X4050-20271-001",
@@ -44266,7 +45901,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"W",
     "section_key":"20271PHIL4050X001",
     "type":"SEMINAR"
   },
@@ -44300,8 +45935,8 @@
     "course_title":"INTRODUCTION TO PHILOSOPHY",
     "course_descr":"Survey of some of the central problems, key figures, and great works in both traditional and contemporary philosophy. Topics and texts will vary with instructor and semester.",
     "instructor":"Christopher P Prodoehl",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"2:40pm",
+    "scheduled_time_end":"3:55pm",
     "call_number":"00478",
     "campus":null,
     "class_id":"V1001-20271-001",
@@ -44316,7 +45951,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"TR",
     "section_key":"20271PHIL1001V001",
     "type":"LECTURE"
   },
@@ -44325,8 +45960,8 @@
     "course_title":"INTRODUCTION TO PHILOSOPHY",
     "course_descr":"Survey of some of the central problems, key figures, and great works in both traditional and contemporary philosophy. Topics and texts will vary with instructor and semester.",
     "instructor":"Taylor Carman",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"8:40am",
+    "scheduled_time_end":"9:55am",
     "call_number":"00483",
     "campus":null,
     "class_id":"V1001-20271-002",
@@ -44341,7 +45976,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"MW",
     "section_key":"20271PHIL1001V002",
     "type":"LECTURE"
   },
@@ -44350,8 +45985,8 @@
     "course_title":"INTRODUCTION TO LOGIC",
     "course_descr":"Explicit criteria for recognizing valid and fallacious arguments, together with various methods for schematizing discourse for the purpose of logical analysis. Illustrative material taken from science and everyday life.",
     "instructor":"Christopher P Prodoehl",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"11:40am",
+    "scheduled_time_end":"12:55pm",
     "call_number":"00488",
     "campus":null,
     "class_id":"V1401-20271-001",
@@ -44366,7 +46001,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"TR",
     "section_key":"20271PHIL1401V001",
     "type":"LECTURE"
   },
@@ -44375,8 +46010,8 @@
     "course_title":"HISTORY OF PHILOSOPHY II",
     "course_descr":"Prerequisites: PHIL UN2211 Required Discussion Section (0 points). PHIL UN2101 is not a prerequisite for this course. Exposition and analysis of the metaphysics, epistemology, and natural philosophy of the major philosophers from Aquinas through Kant. Authors include Aquinas, Galileo, Gassendi, Descartes, Spinoza, Leibniz, Berkeley, Hume, and Kant. This course has unrestricted enrollment.",
     "instructor":"Caroline D Bowman",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"11:25am",
     "call_number":"00497",
     "campus":null,
     "class_id":"V2201-20271-001",
@@ -44396,7 +46031,7 @@
         "PHIL UN2211"
       ]
     ],
-    "scheduled_days":null,
+    "scheduled_days":"TR",
     "section_key":"20271PHIL2201V001",
     "type":"LECTURE"
   },
@@ -44530,8 +46165,8 @@
     "course_title":"PHENOMENOLOGY & EXISTENTIALISM",
     "course_descr":null,
     "instructor":"Taylor Carman",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"2:25pm",
     "call_number":"00506",
     "campus":null,
     "class_id":"V3351-20271-001",
@@ -44546,7 +46181,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"MW",
     "section_key":"20271PHIL3351V001",
     "type":"LECTURE"
   },
@@ -46530,6 +48165,31 @@
     ],
     "scheduled_days":"R",
     "section_key":"20271POLS3961W005",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"POLS UN3961",
+    "course_title":"INTERNATIONAL POLITICS SEMINAR",
+    "course_descr":null,
+    "instructor":"Marjorie Castle",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"6:00pm",
+    "call_number":"11642",
+    "campus":null,
+    "class_id":"W3961-20271-007",
+    "course_subtitle":"INTERNATIONAL POLITICS SE",
+    "department":"Political Science",
+    "department_code":"POLS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/POLS\/W3961-20271-007\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20271POLS3961W007",
     "type":"SEMINAR"
   },
   {
@@ -49311,8 +50971,8 @@
     "course_title":"CURATING ISLAM IN NEW YORK CITY",
     "course_descr":"This course focuses on the ways in which museums conceptualize, contextualize, curate and display Islamic art.\u00a0 In the process, it interrogates the degree to which the orientalist past and the secular present shapes our understanding of the Muslim world.\u00a0 Students will not just engage with material objects from Muslim societies but also consider the choices museums make about their display and presentation.\u00a0 These choices, in turn, speak to the role of museums in defining a specific understanding of the \u201csacred.\u201d Finally, students will learn to thoughtfully and critically pose questions about the roles that museums as public institutions play in sharping public and private understandings of Islam.\n  \nThe course begins with a general discussion of material objects in the study of religion.\u00a0 This is followed by a broad survey of Islamic Art which both describes and critiques the category as it has been framed in the Academy.\u00a0 Students then visit a number of museums to learn about the style and content of their Islamic collections.\u00a0 The course concludes by engaging a different kind of curation, namely oral histories in the Brooklyn Museum.",
     "instructor":"Najam I Haider",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"6:00pm",
     "call_number":"00215",
     "campus":null,
     "class_id":"W4002-20271-001",
@@ -49327,7 +50987,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"W",
     "section_key":"20271RELI4002W001",
     "type":"SEMINAR"
   },
@@ -49336,8 +50996,8 @@
     "course_title":"Religion and the Afro-Native Experience",
     "course_descr":"African Americans and Native Americans have a shared history of racial oppression in America. However, the prevailing lenses through which scholars understand settler colonialism, religion, and black and indigenous histories focus overwhelmingly on the dynamics between Europeans and these respective groups. How might our understanding of these subjects change when viewed from a different point of departure, if we center the history of entanglements between black and native lives? How does religion structure the overlapping experiences of Afro-Native peoples in North America?\n  \nFrom political movements in Minneapolis, Oakland, and New York City to enslavement from the Cotton Belt to the Rio Grande, this class will explore how Africans, Native Americans, and their descendants adapted to shifting contexts of race and religion in America. The course will proceed thematically by examining experiences of war, dislocation, survival, and diaspora.",
     "instructor":"Tiffany Hale",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"6:00pm",
     "call_number":"00216",
     "campus":null,
     "class_id":"W4207-20271-001",
@@ -49352,7 +51012,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"T",
     "section_key":"20271RELI4207W001",
     "type":"SEMINAR"
   },
@@ -49361,8 +51021,8 @@
     "course_title":"RELIGION AND POPULAR CULTURE",
     "course_descr":"When we hear \u201cpop culture,\u201d we often think of it in comparison to a \u201chigh culture.\u201d In reality, popular culture is something that everyone has easy access to, and represents a common language of the people. Religion permeates American popular culture in surprising ways, and is part of national vocabulary. In addition, religious communities turn to popular culture as a way to preserve their own identities and uniqueness in the face of homogenization and assimilation. The course will attempt to cover a diversity of voices and perspectives. It is important to understand how context plays a role in the interpretation and practice of faith, as well as to witness the tension between the theology and the manifestation of belief.\n  \nWe are not interested in determining if a particular understanding is right or wrong. Rather, we want to understand the role religion plays in society and for the individual. You will be expected to be critical and engaged. My hope is that you will also be creative and daring, and push us all into a better understanding of the material.",
     "instructor":"Hussein Rashid",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"2:25pm",
     "call_number":"00201",
     "campus":null,
     "class_id":"V1610-20271-001",
@@ -49377,8 +51037,58 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"MW",
     "section_key":"20271RELI1610V001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"RELI UN1800",
+    "course_title":"The Bible as Religious Object",
+    "course_descr":null,
+    "instructor":"Michael Chin",
+    "scheduled_time_start":"11:40am",
+    "scheduled_time_end":"12:55pm",
+    "call_number":"00946",
+    "campus":null,
+    "class_id":"W1800-20271-001",
+    "course_subtitle":"The Bible as Religious Ob",
+    "department":"Religion @Barnard",
+    "department_code":"RELI",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/RELI\/W1800-20271-001\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20271RELI1800W001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"RELI UN2103",
+    "course_title":"Puppets and the Spirit World",
+    "course_descr":null,
+    "instructor":"Michael Chin",
+    "scheduled_time_start":"5:40pm",
+    "scheduled_time_end":"6:55pm",
+    "call_number":"00947",
+    "campus":null,
+    "class_id":"W2103-20271-001",
+    "course_subtitle":"Puppets and the Spirit Wo",
+    "department":"Religion @Barnard",
+    "department_code":"RELI",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/RELI\/W2103-20271-001\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20271RELI2103W001",
     "type":"LECTURE"
   },
   {
@@ -49386,8 +51096,8 @@
     "course_title":"INTRO TO JUDAISM",
     "course_descr":"A historical overview of Jewish belief and practice as these have crystallized and changed over the centuries. Special attention to ritual and worship, the forms of religious literature, central concepts, religious leadership and institutions, Israel among the nations.",
     "instructor":"Beth A Berkowitz",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"11:25am",
     "call_number":"00919",
     "campus":null,
     "class_id":"V2306-20271-001",
@@ -49402,7 +51112,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"TR",
     "section_key":"20271RELI2306V001",
     "type":"LECTURE"
   },
@@ -49411,8 +51121,8 @@
     "course_title":"HINDUISM",
     "course_descr":"Considers efforts since 1900 to synthesize a coherent understanding of what Hinduism entails, sometimes under the heading of sanatana dharma. Using a rubric provided by the Bhagavad Gita, explores philosophical\/theological (jnana), ritual (karma), and devotional (bhakti) aspects of Hindu life and thought.",
     "instructor":"Meghan E Hartman",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"11:40am",
+    "scheduled_time_end":"12:55pm",
     "call_number":"00202",
     "campus":null,
     "class_id":"V2309-20271-001",
@@ -49427,7 +51137,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"TR",
     "section_key":"20271RELI2309V001",
     "type":"LECTURE"
   },
@@ -49436,8 +51146,8 @@
     "course_title":"INTRODUCTION TO NATIVE AMERICAN RELIGIOU",
     "course_descr":"There are over 800 distinct Native American nations currently within the borders of the United States. This course offers a broad introduction to the diversity of American Indian religious systems and their larger functions in communities and in history. We will explore general themes in the study of Native American religious traditions as well as look at some specific examples of practices, ideas, and beliefs. Of particular importance are the history and effects of colonialism and missionization on Native peoples, their continuing struggles for religious freedom and cultural and linguistic survival, and the ways in which American Indians engage with religion and spirituality, both past and present, to respond to social, cultural, political, and geographical change.",
     "instructor":"Tiffany Hale",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"2:40pm",
+    "scheduled_time_end":"3:55pm",
     "call_number":"00203",
     "campus":null,
     "class_id":"V2779-20271-001",
@@ -49452,7 +51162,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"MW",
     "section_key":"20271RELI2779V001",
     "type":"LECTURE"
   },
@@ -49461,8 +51171,8 @@
     "course_title":"THEORY",
     "course_descr":"An exploration of alternative theoretical approaches to the study of religion as well as other areas of humanistic inquiry. The methods considered include: sociology, anthropology, philosophy, hermeneutics, psychoanalysis, structuralism, genealogy, and deconstruction. (Previous title: Juniors Colloquium)",
     "instructor":"Beth A Berkowitz",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"4:00pm",
     "call_number":"00204",
     "campus":null,
     "class_id":"V3199-20271-001",
@@ -49477,7 +51187,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"T",
     "section_key":"20271RELI3199V001",
     "type":"SEMINAR"
   },
@@ -49486,8 +51196,8 @@
     "course_title":"QURAN",
     "course_descr":"This course conceives of the Qur\u2019\u0101n as a living text in constant flux through interactions with other religious traditions.\u00a0 It focuses on developing an understanding of the Qur\u2019\u0101n\u2019s form, style, and content through a\u00a0 close reading of comparable religious texts.\u00a0 Major topics covered include the Qur\u2019\u0101nic theory of prophecy, its treatment of the Biblical tradition (both that of the Hebrew Bible and the New Testament), and its perspective on pre-Islamic pagan religion.\u00a0 The central goals of the course include the ability to (a) analyze primary religious sources in a critical and objective manner and (b) construct coherent arguments based on concrete evidence.\u00a0\u00a0 In a class of this nature, class members will naturally hold or develop a wide variety of opinions about the topics covered.\u00a0 The goal is not to adopt a single opinion concerning the interpretation of a particular text, but rather to support personal conclusions in a clear logical manner.",
     "instructor":"Najam I Haider",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"2:25pm",
     "call_number":"00210",
     "campus":null,
     "class_id":"V3314-20271-001",
@@ -49502,7 +51212,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"MW",
     "section_key":"20271RELI3314V001",
     "type":"LECTURE"
   },
@@ -49511,8 +51221,8 @@
     "course_title":"Religion and Medicine in South Asia: Psy",
     "course_descr":"In this course, students will come to see the imbrication of religion, power, and mental illness across South Asia by examining experiences of suffering and its management; the history of psychiatry in the British colonial era and its afterlives; and the relationship of religion to concepts of mental and emotional disorder. Students will identify models for medical structures of care, healing, and treatments in the context of religion, ritual, and quotidian life. Topics include diagnostic processes and the creation of categories, stigma and models of clinical care, hysteria, spirit possession, pharmaceuticals, and the relationship of trauma to political structures. This course has three sections: 1) the first portion undertakes a brief historical survey of medical disciplines and institutions in South Asia (such as the development of Ayurveda, Yun\u0101n\u012b \u1e6cibb, and the rise of the b\u012bm\u0101rist\u0101n); 2) the second portion of the course focuses on the rise of the asylum (sometimes called the p\u0101gal kh\u0101na) in tandem with psychiatry and its twinned consequence: the pathologization of asceticism by British colonial technologies of discipline; 3) the final portion examines the relationship between British colonialism and psychoanalysis with the introduction of this western discipline to the subcontinent.\u00a0\n  \nThis course will take \ncritical\n stock of historical structures throughout South Asia \nclaiming\n to provide care (such as family, caste, healthcare, mental asylums, colonialism, educational systems, pensions, and much more). As a result, students come to consider concepts of social suffering, biopolitics, biosociality, political subjectivity, and postcolonial disorder.\u00a0\n  \nPrimary source material will include the following: \u015b\u0101stra, ethnography, clinical studies, poetry, scripture, ritual texts across Islamic, Hindu, Buddhist, and Jain traditions.",
     "instructor":"Meghan E Hartman",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"6:00pm",
     "call_number":"00211",
     "campus":null,
     "class_id":"V3323-20271-001",
@@ -49527,7 +51237,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"R",
     "section_key":"20271RELI3323V001",
     "type":"SEMINAR"
   },
@@ -57587,7 +59297,7 @@
     "course_code":"THTR UN2022",
     "course_title":"PRACTICUM PERFORMANCE SHOW 1",
     "course_descr":"May be retaken for full credit.\n  \nPrerequisites: Open to all Barnard and Columbia undergraduates. Permission of Department through audition required. Students cast as actors in a departmental stage production register for this course; course emphasizes the collaborative nature of production, and appropriate research and reading required in addition to artistic assignments. Auditions for each semester's stage productions held 6pm on the first Tuesday and Wednesday class days of each semester. For required details, consult \"Auditions\" on the Barnard Theatre Department website in advance:\u00a0\ntheatre.barnard.edu\/auditions\n.",
-    "instructor":null,
+    "instructor":"Faculty",
     "scheduled_time_start":"6:30pm",
     "scheduled_time_end":"10:00pm",
     "call_number":"00056",
@@ -57612,7 +59322,7 @@
     "course_code":"THTR UN2024",
     "course_title":"PRACTICUM PERFORMANCE THESIS 1",
     "course_descr":"May be retaken for full credit.\u00a0\n  \nPrerequisites: Open to all Barnard and Columbia undergraduates. Permission of Department through audition required. Students cast as actors in a Senior Thesis in Directing\u00a0register for this course.\u00a0 Auditions for each semester's stage productions held 6pm on the first Tuesday and Wednesday class days of each semester. For required details, consult \"Auditions\" on the Barnard Theatre Department website in advance:\u00a0\ntheatre.barnard.edu\/auditions",
-    "instructor":"Alice A Reagan",
+    "instructor":"Michael Banta",
     "scheduled_time_start":"7:00pm",
     "scheduled_time_end":"10:00pm",
     "call_number":"00057",
@@ -57622,7 +59332,7 @@
     "department":"Theatre @Barnard",
     "department_code":"THTR",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/THTR\/V2024-20271-001\/",
-    "location":null,
+    "location":"118 Milbank Hall (Barnard)",
     "method_of_instruction":null,
     "open_to":null,
     "points":"3",
@@ -57637,7 +59347,7 @@
     "course_code":"THTR UN2025",
     "course_title":"PRACTICUM PERFORMANCE THESIS 2",
     "course_descr":"May be retaken for full credit.\u00a0\n  \nPrerequisites: Open to all Barnard and Columbia undergraduates. Permission of Department through audition required. Students cast as actors in a Senior Thesis in Directing\u00a0register for this course.\u00a0 Auditions for each semester's stage productions held 6pm on the first Tuesday and Wednesday class days of each semester. For required details, consult \"Auditions\" on the Barnard Theatre Department website in advance:\u00a0\ntheatre.barnard.edu\/auditions",
-    "instructor":"Alice A Reagan",
+    "instructor":"Michael Banta",
     "scheduled_time_start":"7:00pm",
     "scheduled_time_end":"10:00pm",
     "call_number":"00058",
@@ -57647,7 +59357,7 @@
     "department":"Theatre @Barnard",
     "department_code":"THTR",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/THTR\/V2025-20271-001\/",
-    "location":null,
+    "location":"118 Milbank Hall (Barnard)",
     "method_of_instruction":null,
     "open_to":null,
     "points":"3",
@@ -57662,7 +59372,7 @@
     "course_code":"THTR UN2026",
     "course_title":"PRACTICUM PERFORMANCE THESIS 3",
     "course_descr":"May be retaken for full credit.\u00a0\n  \nPrerequisites: Open to all Barnard and Columbia undergraduates. Permission of Department through audition required. Students cast as actors in a Senior Thesis in Directing\u00a0register for this course.\u00a0 Auditions for each semester's stage productions held 6pm on the first Tuesday and Wednesday class days of each semester. For required details, consult \"Auditions\" on the Barnard Theatre Department website in advance:\u00a0\ntheatre.barnard.edu\/auditions",
-    "instructor":"Alice A Reagan",
+    "instructor":"Michael Banta",
     "scheduled_time_start":"7:00pm",
     "scheduled_time_end":"10:00pm",
     "call_number":"00059",
@@ -57672,7 +59382,7 @@
     "department":"Theatre @Barnard",
     "department_code":"THTR",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/THTR\/V2026-20271-001\/",
-    "location":null,
+    "location":"118 Milbank Hall (Barnard)",
     "method_of_instruction":null,
     "open_to":null,
     "points":"3",
@@ -58365,7 +60075,7 @@
     "course_code":"THTR UN3997",
     "course_title":"SENIOR THESIS IN PERFORMANCE",
     "course_descr":"Prerequisites: Appropriate coursework and substantial production experience, including a major crew assignment in the junior year. Enrollment limited to senior Theatre majors. Combined and special majors may be considered under exceptional circumstances. Permission of the instructor required. Students register for this course to pursue approved theses in acting, design, directing, dramaturgy, solo performance, or stage and production management.\n  \nStudents will act in, direct, design, stage manage or dramaturg a play in the Barnard Department of Theatre season, or write a short play or solo performance piece that will be produced (according to departmental guidelines) in the Senior Thesis Festival. Collaboration is expected and students will meet weekly with faculty and other seniors. A written proposal must be submitted in the spring of the junior year and be approved. In addition to the performance, an extensive written Casebook is required: see departmental guidelines.",
-    "instructor":null,
+    "instructor":"Michael Banta",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"5:00pm",
     "call_number":"00087",
@@ -58450,7 +60160,7 @@
     "department":"Theatre @Barnard",
     "department_code":"THTR",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/THTR\/V3997-20271-006\/",
-    "location":"230 Milbank Hall (Barnard)",
+    "location":"229 Milbank Hall (Barnard)",
     "method_of_instruction":null,
     "open_to":null,
     "points":"4",
@@ -59265,6 +60975,31 @@
     "scheduled_days":"W",
     "section_key":"20271URBS3252V001",
     "type":"SEMINAR"
+  },
+  {
+    "course_code":"URBS UN3310",
+    "course_title":"RACE. SPACE, URB SCHOOLS",
+    "course_descr":null,
+    "instructor":"Fawziah Qadir",
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"00948",
+    "campus":null,
+    "class_id":"V3310-20271-003",
+    "course_subtitle":null,
+    "department":"Education @Barnard",
+    "department_code":"URBS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/URBS\/V3310-20271-003\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20271URBS3310V003",
+    "type":"LECTURE"
   },
   {
     "course_code":"URBS UN3315",
