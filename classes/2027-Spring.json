@@ -5750,6 +5750,35 @@
     "type":"SEMINAR"
   },
   {
+    "course_code":"ASTR GR6013",
+    "course_title":"Stars and Planets",
+    "course_descr":null,
+    "instructor":"Jane Huang",
+    "scheduled_time_start":"2:40pm",
+    "scheduled_time_end":"3:55pm",
+    "call_number":"13618",
+    "campus":null,
+    "class_id":"G6013-20271-001",
+    "course_subtitle":null,
+    "department":"Astronomy",
+    "department_code":"ASTR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ASTR\/G6013-20271-001\/",
+    "location":"1332 Pupin Laboratories",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Engineering:Graduate",
+      "GSAS",
+      "SIPA"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20271ASTR6013G001",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"ASTR GR9002",
     "course_title":"GRADUATE SEMINAR",
     "course_descr":null,
@@ -5986,7 +6015,7 @@
     "department":"Astronomy",
     "department_code":"ASTR",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ASTR\/C3105-20271-001\/",
-    "location":null,
+    "location":"1332 Pupin Laboratories",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"3",
@@ -6011,7 +6040,7 @@
     "department":"Astronomy",
     "department_code":"ASTR",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ASTR\/C3601-20271-001\/",
-    "location":null,
+    "location":"1332 Pupin Laboratories",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Columbia College",
@@ -6028,6 +6057,70 @@
     "scheduled_days":"MW",
     "section_key":"20271ASTR3601C001",
     "type":"LECTURE"
+  },
+  {
+    "course_code":"ASTR UN3646",
+    "course_title":"OBSERVATIONAL ASTRONOMY",
+    "course_descr":null,
+    "instructor":"Kishalay De",
+    "scheduled_time_start":"7:00pm",
+    "scheduled_time_end":"9:30pm",
+    "call_number":"13608",
+    "campus":null,
+    "class_id":"W3646-20271-001",
+    "course_subtitle":null,
+    "department":"Astronomy",
+    "department_code":"ASTR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ASTR\/W3646-20271-001\/",
+    "location":"1402 Pupin Laboratories",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "General Studies",
+      "Global Programs",
+      "Journalism",
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20271ASTR3646W001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ASTR UN3998",
+    "course_title":"INDEPENDENT RESEARCH",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"13613",
+    "campus":null,
+    "class_id":"W3998-20271-001",
+    "course_subtitle":null,
+    "department":"Astronomy",
+    "department_code":"ASTR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ASTR\/W3998-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "General Studies",
+      "Global Programs",
+      "Journalism",
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271ASTR3998W001",
+    "type":"INDEPENDENT"
   },
   {
     "course_code":"BCRS UN1102",
@@ -13422,6 +13515,137 @@
     ],
     "scheduled_days":"T",
     "section_key":"20271CEEN7750U001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"CGTH GR6101",
+    "course_title":"MA SEMINAR IN GLOBAL THOUGHT II",
+    "course_descr":null,
+    "instructor":"Kevin Funk",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"6:00pm",
+    "call_number":"13594",
+    "campus":null,
+    "class_id":"G6101-20271-001",
+    "course_subtitle":"MA SEM IN GLOBAL THOUGHT II",
+    "department":"Committee on Global Thought",
+    "department_code":"CGTH",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CGTH\/G6101-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "GSAS"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20271CGTH6101G001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"CGTH GR6101",
+    "course_title":"MA SEMINAR IN GLOBAL THOUGHT II",
+    "course_descr":null,
+    "instructor":"Kevin Funk",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"6:00pm",
+    "call_number":"13600",
+    "campus":null,
+    "class_id":"G6101-20271-002",
+    "course_subtitle":"MA SEM IN GLOBAL THOUGHT II",
+    "department":"Committee on Global Thought",
+    "department_code":"CGTH",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CGTH\/G6101-20271-002\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "GSAS"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20271CGTH6101G002",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"CGTH GR9001",
+    "course_title":"INDS APPROACHES GLOBAL THOUGHT",
+    "course_descr":null,
+    "instructor":"Farryl Last",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"13621",
+    "campus":null,
+    "class_id":"G9001-20271-001",
+    "course_subtitle":null,
+    "department":"Committee on Global Thought",
+    "department_code":"CGTH",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CGTH\/G9001-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "GSAS"
+    ],
+    "points":"1-3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271CGTH9001G001",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"CGTH UN3402",
+    "course_title":"YOUTH-INTERCONNECTED WRLD",
+    "course_descr":null,
+    "instructor":"Laura L Neitzel",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"12:00pm",
+    "call_number":"13586",
+    "campus":null,
+    "class_id":"W3402-20271-001",
+    "course_subtitle":null,
+    "department":"Committee on Global Thought",
+    "department_code":"CGTH",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CGTH\/W3402-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20271CGTH3402W001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"CGTH UN3600",
+    "course_title":"Approaches to Global Thought",
+    "course_descr":null,
+    "instructor":"Sarah A Miller-Davenport",
+    "scheduled_time_start":"12:10pm",
+    "scheduled_time_end":"2:00pm",
+    "call_number":"13590",
+    "campus":null,
+    "class_id":"C3600-20271-001",
+    "course_subtitle":"Approaches to Global Thou",
+    "department":"Committee on Global Thought",
+    "department_code":"CGTH",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CGTH\/C3600-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20271CGTH3600C001",
     "type":"SEMINAR"
   },
   {
@@ -32384,7 +32608,7 @@
     "course_code":"ECON GR8310",
     "course_title":"ECONOMETRICS COLLOQUIUM",
     "course_descr":"Prerequisites: ECON G6411 and G6412. Students will make presentations of original research.",
-    "instructor":"Jushan Bai",
+    "instructor":null,
     "scheduled_time_start":"12:00pm",
     "scheduled_time_end":"1:00pm",
     "call_number":"13174",
@@ -43840,6 +44064,122 @@
     "type":"SEMINAR"
   },
   {
+    "course_code":"ENGL UN3153",
+    "course_title":"How the Ancients Argued: The Global Rhet",
+    "course_descr":null,
+    "instructor":"Susan Mendelsohn",
+    "scheduled_time_start":"12:10pm",
+    "scheduled_time_end":"2:00pm",
+    "call_number":"13602",
+    "campus":null,
+    "class_id":"W3153-20271-001",
+    "course_subtitle":"How the Ancients Argued",
+    "department":"English and Comparative Literature",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/W3153-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "General Studies"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20271ENGL3153W001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"ENGL UN3394",
+    "course_title":"HOW WRITERS THINK",
+    "course_descr":null,
+    "instructor":"Susan Mendelsohn",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"6:00pm",
+    "call_number":"13609",
+    "campus":null,
+    "class_id":"W3394-20271-001",
+    "course_subtitle":null,
+    "department":"English and Comparative Literature",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/W3394-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "General Studies"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20271ENGL3394W001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"ENGL UN3725",
+    "course_title":"Auden",
+    "course_descr":null,
+    "instructor":"Edward Mendelson",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"12:00pm",
+    "call_number":"13620",
+    "campus":null,
+    "class_id":"W3725-20271-001",
+    "course_subtitle":null,
+    "department":"English and Comparative Literature",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/W3725-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "General Studies"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20271ENGL3725W001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"ENGL UN3851",
+    "course_title":"INDIAN WRITING IN ENGLISH",
+    "course_descr":null,
+    "instructor":"Gauri Viswanathan",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"6:00pm",
+    "call_number":"13622",
+    "campus":null,
+    "class_id":"W3851-20271-001",
+    "course_subtitle":null,
+    "department":"English and Comparative Literature",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/W3851-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "General Studies"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20271ENGL3851W001",
+    "type":"SEMINAR"
+  },
+  {
     "course_code":"ENME E3105",
     "course_title":"MECHANICS",
     "course_descr":"Elements of statics; dynamics of a particle and systems of particles.",
@@ -50833,6 +51173,56 @@
     ],
     "scheduled_days":"M",
     "section_key":"20271GERM3780W001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"GEST UN0005",
+    "course_title":"UNIVERSITY STUDIES",
+    "course_descr":null,
+    "instructor":"Sara Remedios",
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"2:25pm",
+    "call_number":"13596",
+    "campus":null,
+    "class_id":"F0005-20271-002",
+    "course_subtitle":null,
+    "department":"General Studies",
+    "department_code":"GEST",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/GEST\/F0005-20271-002\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"F",
+    "section_key":"20271GEST0005F002",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"GEST UN0005",
+    "course_title":"UNIVERSITY STUDIES",
+    "course_descr":null,
+    "instructor":"Sara Remedios",
+    "scheduled_time_start":"2:40pm",
+    "scheduled_time_end":"3:55pm",
+    "call_number":"13598",
+    "campus":null,
+    "class_id":"F0005-20271-001",
+    "course_subtitle":null,
+    "department":"General Studies",
+    "department_code":"GEST",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/GEST\/F0005-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20271GEST0005F001",
     "type":"SEMINAR"
   },
   {
@@ -68070,6 +68460,220 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"MATH GR5010",
+    "course_title":"INTRO TO THE MATH OF FINANCE",
+    "course_descr":null,
+    "instructor":"Mikhail Smirnov",
+    "scheduled_time_start":"7:40pm",
+    "scheduled_time_end":"8:55pm",
+    "call_number":"13595",
+    "campus":null,
+    "class_id":"W5010-20271-001",
+    "course_subtitle":"INTRO TO THE MATH OF FINA",
+    "department":"Mathematics",
+    "department_code":"MATH",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/MATH\/W5010-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20271MATH5010W001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"MATH GR5260",
+    "course_title":"PROG FOR QUANT & COMP FINANCE",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"7:50pm",
+    "call_number":"13585",
+    "campus":null,
+    "class_id":"G5260-20271-001",
+    "course_subtitle":"PROG FOR QUANT & COMP FIN",
+    "department":"Mathematics",
+    "department_code":"MATH",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/MATH\/G5260-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "GSAS"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"F",
+    "section_key":"20271MATH5260G001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"MATH GR5320",
+    "course_title":"FINANCIAL RISK MGMT & REGULATION",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"7:40pm",
+    "scheduled_time_end":"9:30pm",
+    "call_number":"13587",
+    "campus":null,
+    "class_id":"G5320-20271-001",
+    "course_subtitle":"FINANCIAL RISK MGMT & REGULATN",
+    "department":"Mathematics",
+    "department_code":"MATH",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/MATH\/G5320-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "GSAS"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20271MATH5320G001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"MATH GR5340",
+    "course_title":"FIXED INCOME PORTFOLIO MGMT",
+    "course_descr":null,
+    "instructor":"Rosanna Pezzo-Brizio",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"12:00pm",
+    "call_number":"13589",
+    "campus":null,
+    "class_id":"G5340-20271-001",
+    "course_subtitle":"FIXED INCOME PORTFOLIO MG",
+    "department":"Mathematics",
+    "department_code":"MATH",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/MATH\/G5340-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "GSAS"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20271MATH5340G001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"MATH GR5360",
+    "course_title":"MATH MTHDS-FIN PRICE ANALYSIS",
+    "course_descr":null,
+    "instructor":"Alexei Chekhlov",
+    "scheduled_time_start":"7:00pm",
+    "scheduled_time_end":"9:20pm",
+    "call_number":"13584",
+    "campus":null,
+    "class_id":"G5360-20271-001",
+    "course_subtitle":"MATH MTHDS-FIN PRICE ANAL",
+    "department":"Mathematics",
+    "department_code":"MATH",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/MATH\/G5360-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "GSAS"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"S",
+    "section_key":"20271MATH5360G001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"MATH GR5380",
+    "course_title":"MULTI-ASSET PORTFOLIO MGMT",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"7:25pm",
+    "call_number":"13593",
+    "campus":null,
+    "class_id":"G5380-20271-001",
+    "course_subtitle":"MULTI-ASSET PORTFOLIO MGM",
+    "department":"Mathematics",
+    "department_code":"MATH",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/MATH\/G5380-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "GSAS"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20271MATH5380G001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"MATH GR5430",
+    "course_title":"Machine Learning for Finance",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"2:40pm",
+    "scheduled_time_end":"4:30pm",
+    "call_number":"13599",
+    "campus":null,
+    "class_id":"G5430-20271-001",
+    "course_subtitle":"Machine Learning for Fina",
+    "department":"Mathematics",
+    "department_code":"MATH",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/MATH\/G5430-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "GSAS"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"S",
+    "section_key":"20271MATH5430G001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"MATH GR5520",
+    "course_title":"Career Development for Quantitative Fina",
+    "course_descr":null,
+    "instructor":"Jaehyuk Choi",
+    "scheduled_time_start":"11:40am",
+    "scheduled_time_end":"12:55pm",
+    "call_number":"13612",
+    "campus":null,
+    "class_id":"G5520-20271-001",
+    "course_subtitle":"Career Develop for Quant",
+    "department":"Mathematics",
+    "department_code":"MATH",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/MATH\/G5520-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "GSAS"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20271MATH5520G001",
+    "type":"SEMINAR"
+  },
+  {
     "course_code":"MATH GR6000",
     "course_title":"THE TEACHING OF MATHEMATICS",
     "course_descr":"A seminar required of all incoming graduate students, designed to instill effective teaching techniques.",
@@ -68989,6 +69593,31 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"MATH UN1101",
+    "course_title":"CALCULUS I",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"7:25pm",
+    "call_number":"13597",
+    "campus":null,
+    "class_id":"V1101-20271-006",
+    "course_subtitle":null,
+    "department":"Mathematics",
+    "department_code":"MATH",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/MATH\/V1101-20271-006\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20271MATH1101V006",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"MATH UN1102",
     "course_title":"CALCULUS II",
     "course_descr":"Prerequisites: MATH UN1101 or the equivalent. Methods of integration, applications of the integral, Taylors theorem, infinite series. (SC)",
@@ -69121,6 +69750,31 @@
     ],
     "scheduled_days":"TR",
     "section_key":"20271MATH1102V005",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"MATH UN1102",
+    "course_title":"CALCULUS II",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"7:25pm",
+    "call_number":"13603",
+    "campus":null,
+    "class_id":"V1102-20271-006",
+    "course_subtitle":null,
+    "department":"Mathematics",
+    "department_code":"MATH",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/MATH\/V1102-20271-006\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20271MATH1102V006",
     "type":"LECTURE"
   },
   {
@@ -82767,7 +83421,7 @@
     "course_code":"PHYS GR8040",
     "course_title":"GENERAL RELATIVITY",
     "course_descr":null,
-    "instructor":null,
+    "instructor":"Yury Levin",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"13400",
@@ -92883,6 +93537,56 @@
     "type":"SEMINAR"
   },
   {
+    "course_code":"RELI BC2310",
+    "course_title":"Intro to Judaism- Discussion",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"01016",
+    "campus":null,
+    "class_id":"X2310-20271-001",
+    "course_subtitle":"Intro to Judaism- Discuss",
+    "department":"Religion @Barnard",
+    "department_code":"RELI",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/RELI\/X2310-20271-001\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271RELI2310X001",
+    "type":"DISCUSSION"
+  },
+  {
+    "course_code":"RELI BC2310",
+    "course_title":"Intro to Judaism- Discussion",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"01017",
+    "campus":null,
+    "class_id":"X2310-20271-002",
+    "course_subtitle":"Intro to Judaism- Discuss",
+    "department":"Religion @Barnard",
+    "department_code":"RELI",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/RELI\/X2310-20271-002\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271RELI2310X002",
+    "type":"DISCUSSION"
+  },
+  {
     "course_code":"RELI BC2780",
     "course_title":"INTRODUCTION TO NATIVE AMERICAN RELIGIOU",
     "course_descr":"REQUIRED DISCUSSION SECTION FOR RELI UN2779",
@@ -93363,6 +94067,106 @@
     "scheduled_days":"TR",
     "section_key":"20271RELI2309V001",
     "type":"LECTURE"
+  },
+  {
+    "course_code":"RELI UN2316",
+    "course_title":"HINDUISM - DISCUSSION",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"01018",
+    "campus":null,
+    "class_id":"V2316-20271-001",
+    "course_subtitle":null,
+    "department":"Religion @Barnard",
+    "department_code":"RELI",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/RELI\/V2316-20271-001\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271RELI2316V001",
+    "type":"DISCUSSION"
+  },
+  {
+    "course_code":"RELI UN2316",
+    "course_title":"HINDUISM - DISCUSSION",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"01019",
+    "campus":null,
+    "class_id":"V2316-20271-002",
+    "course_subtitle":null,
+    "department":"Religion @Barnard",
+    "department_code":"RELI",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/RELI\/V2316-20271-002\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271RELI2316V002",
+    "type":"DISCUSSION"
+  },
+  {
+    "course_code":"RELI UN2316",
+    "course_title":"HINDUISM - DISCUSSION",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"01020",
+    "campus":null,
+    "class_id":"V2316-20271-003",
+    "course_subtitle":null,
+    "department":"Religion @Barnard",
+    "department_code":"RELI",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/RELI\/V2316-20271-003\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271RELI2316V003",
+    "type":"DISCUSSION"
+  },
+  {
+    "course_code":"RELI UN2316",
+    "course_title":"HINDUISM - DISCUSSION",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"01021",
+    "campus":null,
+    "class_id":"V2316-20271-004",
+    "course_subtitle":null,
+    "department":"Religion @Barnard",
+    "department_code":"RELI",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/RELI\/V2316-20271-004\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271RELI2316V004",
+    "type":"DISCUSSION"
   },
   {
     "course_code":"RELI UN2779",
@@ -95400,6 +96204,85 @@
     "scheduled_days":"R",
     "section_key":"20271SCNC1100C030",
     "type":"DISCUSSION"
+  },
+  {
+    "course_code":"SCNC UN1212",
+    "course_title":"Foundations of Science",
+    "course_descr":null,
+    "instructor":"Amanda C Quirk",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"12:00pm",
+    "call_number":"13591",
+    "campus":null,
+    "class_id":"W1212-20271-001",
+    "course_subtitle":null,
+    "department":"Astronomy",
+    "department_code":"SCNC",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SCNC\/W1212-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "General Studies"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20271SCNC1212W001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"SCNC UN1212",
+    "course_title":"Foundations of Science",
+    "course_descr":null,
+    "instructor":"Amanda C Quirk",
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"13592",
+    "campus":null,
+    "class_id":"W1212-20271-002",
+    "course_subtitle":null,
+    "department":"Astronomy",
+    "department_code":"SCNC",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SCNC\/W1212-20271-002\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "General Studies"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20271SCNC1212W002",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"SCNC UN1700",
+    "course_title":"Science for Future Leaders",
+    "course_descr":null,
+    "instructor":"Stuart J Firestein",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"11:25am",
+    "call_number":"13588",
+    "campus":null,
+    "class_id":"W1700-20271-001",
+    "course_subtitle":"Science for Future Leader",
+    "department":"Biological Sciences",
+    "department_code":"SCNC",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SCNC\/W1700-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20271SCNC1700W001",
+    "type":"SEMINAR"
   },
   {
     "course_code":"SCPP BC3334",
@@ -103899,6 +104782,60 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"SPRT PS5150",
+    "course_title":"THE BUSINESS OF PROFESSIONAL SPORTS LEAG",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"12:10pm",
+    "scheduled_time_end":"2:10pm",
+    "call_number":"13623",
+    "campus":null,
+    "class_id":"K5150-20271-001",
+    "course_subtitle":"BUSI OF PROF SPORTS LEAGU",
+    "department":"Sports Management",
+    "department_code":"SPRT",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SPRT\/K5150-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20271SPRT5150K001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"SPRT PS5220",
+    "course_title":"FOUNDATIONS OF SPORTS MANAGEMENT",
+    "course_descr":null,
+    "instructor":"Laurajean Holmgren",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"6:00pm",
+    "call_number":"13625",
+    "campus":null,
+    "class_id":"K5220-20271-001",
+    "course_subtitle":"FOUNDATIONS OF SPORTS MGM",
+    "department":"Sports Management",
+    "department_code":"SPRT",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SPRT\/K5220-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20271SPRT5220K001",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"SPRT PS5410",
     "course_title":"LEADERSHIP IN SPORTS MANAGEMENT",
     "course_descr":"TBA",
@@ -106160,6 +107097,33 @@
     ],
     "scheduled_days":"T",
     "section_key":"20271TMGT5145K001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"TMGT PS5998",
+    "course_title":"Research in Technology Management",
+    "course_descr":null,
+    "instructor":"Katja Schroeder",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"6:00pm",
+    "call_number":"13624",
+    "campus":null,
+    "class_id":"K5998-20271-001",
+    "course_subtitle":"Research in Tech Manageme",
+    "department":"Technology Management",
+    "department_code":"TMGT",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/TMGT\/K5998-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20271TMGT5998K001",
     "type":"LECTURE"
   },
   {
