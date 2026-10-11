@@ -3508,6 +3508,33 @@
     "type":"INDEPENDENT"
   },
   {
+    "course_code":"ANTH GR9101",
+    "course_title":"RSCH IN SOCIAL\/CULTURAL ANTHRO",
+    "course_descr":null,
+    "instructor":"Nadia Abu El-Haj",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"14288",
+    "campus":null,
+    "class_id":"G9101-20271-020",
+    "course_subtitle":"RSCH IN SOCIAL\/CULTURAL ANTH",
+    "department":"Anthropology",
+    "department_code":"ANTH",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ANTH\/G9101-20271-020\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "GSAS"
+    ],
+    "points":"3-9",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271ANTH9101G020",
+    "type":"INDEPENDENT"
+  },
+  {
     "course_code":"ANTH GR9102",
     "course_title":"RESEARCH IN ARCHAEOLOGY",
     "course_descr":"Prerequisites: the instructors permission. Individual research and tutorial in archaeology for advanced graduate students.",
@@ -4313,6 +4340,60 @@
     ],
     "scheduled_days":null,
     "section_key":"20271ANTH9105G025",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"ANTH GR9105",
+    "course_title":"RESEARCH IN SPECIAL FIELDS",
+    "course_descr":null,
+    "instructor":"Rosalind Morris",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"14289",
+    "campus":null,
+    "class_id":"G9105-20271-017",
+    "course_subtitle":"RESEARCH IN SPECIAL FIELD",
+    "department":"Anthropology",
+    "department_code":"ANTH",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ANTH\/G9105-20271-017\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "GSAS"
+    ],
+    "points":"3-9",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271ANTH9105G017",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"ANTH GR9105",
+    "course_title":"RESEARCH IN SPECIAL FIELDS",
+    "course_descr":null,
+    "instructor":"Nadia Abu El-Haj",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"14290",
+    "campus":null,
+    "class_id":"G9105-20271-016",
+    "course_subtitle":"RESEARCH IN SPECIAL FIELD",
+    "department":"Anthropology",
+    "department_code":"ANTH",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ANTH\/G9105-20271-016\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "GSAS"
+    ],
+    "points":"3-9",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271ANTH9105G016",
     "type":"INDEPENDENT"
   },
   {
@@ -68242,7 +68323,7 @@
     "course_descr":"Open to SEAS graduate and advanced undergraduate students, Business School, and GSAPP. Students from other schools may apply. Fast-paced introduction to human-centered design. Students learn the vocabulary of design methods, understanding of design process. Small group projects to create prototypes. Design of simple product, more complex systems of products and services, and design of business.",
     "instructor":"Harry West",
     "scheduled_time_start":"10:10am",
-    "scheduled_time_end":"12:40pm",
+    "scheduled_time_end":"11:25am",
     "call_number":"12963",
     "campus":null,
     "class_id":"E4200-20271-001",
@@ -68257,7 +68338,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":"W",
+    "scheduled_days":"MW",
     "section_key":"20271IEME4200E001",
     "type":"LECTURE"
   },
@@ -68267,7 +68348,7 @@
     "course_descr":"Open to SEAS graduate and advanced undergraduate students, Business School, and GSAPP. Students from other schools may apply. Fast-paced introduction to human-centered design. Students learn the vocabulary of design methods, understanding of design process. Small group projects to create prototypes. Design of simple product, more complex systems of products and services, and design of business.",
     "instructor":"Harry West",
     "scheduled_time_start":"4:10pm",
-    "scheduled_time_end":"6:40pm",
+    "scheduled_time_end":"5:25pm",
     "call_number":"12964",
     "campus":null,
     "class_id":"E4200-20271-003",
@@ -68282,8 +68363,33 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":"W",
+    "scheduled_days":"MW",
     "section_key":"20271IEME4200E003",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"IEME E4200",
+    "course_title":"HUMAN-CENTERED DESIGN AND INNOVATION",
+    "course_descr":null,
+    "instructor":"Harry West",
+    "scheduled_time_start":"11:25am",
+    "scheduled_time_end":"12:40pm",
+    "call_number":"14291",
+    "campus":null,
+    "class_id":"E4200-20271-002",
+    "course_subtitle":"HUMAN-CENTERED DESIGN & I",
+    "department":"Industrial Engineering and Operations Research",
+    "department_code":"IEME",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/IEME\/E4200-20271-002\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20271IEME4200E002",
     "type":"LECTURE"
   },
   {
@@ -68474,7 +68580,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":"M",
+    "scheduled_days":"F",
     "section_key":"20271IEOR3700E001",
     "type":"LECTURE"
   },
@@ -69792,7 +69898,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":"T",
+    "scheduled_days":"W",
     "section_key":"20271IEOR4524E002",
     "type":"LECTURE"
   },
@@ -69823,6 +69929,33 @@
     ],
     "scheduled_days":"MW",
     "section_key":"20271IEOR4525E001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"IEOR E4532",
+    "course_title":"Visualization and Storytelling with Data",
+    "course_descr":null,
+    "instructor":"Michelle Glaser",
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"5:00pm",
+    "call_number":"14296",
+    "campus":null,
+    "class_id":"E4532-20271-001",
+    "course_subtitle":"Data Visualization",
+    "department":"Industrial Engineering and Operations Research",
+    "department_code":"IEOR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/IEOR\/E4532-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Engineering:Graduate"
+    ],
+    "points":"1.5",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"F",
+    "section_key":"20271IEOR4532E001",
     "type":"LECTURE"
   },
   {
@@ -69909,6 +70042,33 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"IEOR E4573",
+    "course_title":"TOPICS IN OR",
+    "course_descr":null,
+    "instructor":"Mahir Yavuz",
+    "scheduled_time_start":"5:40pm",
+    "scheduled_time_end":"8:10pm",
+    "call_number":"14297",
+    "campus":null,
+    "class_id":"E4573-20271-001",
+    "course_subtitle":null,
+    "department":"Industrial Engineering and Operations Research",
+    "department_code":"IEOR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/IEOR\/E4573-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Engineering:Graduate"
+    ],
+    "points":"1.5",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20271IEOR4573E001",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"IEOR E4575",
     "course_title":"TOPICS IN OPERATIONS RESEARCH",
     "course_descr":null,
@@ -69933,6 +70093,34 @@
     ],
     "scheduled_days":"T",
     "section_key":"20271IEOR4575E001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"IEOR E4577",
+    "course_title":"TOPICS IN OPERATIONS RESEARCH",
+    "course_descr":null,
+    "instructor":"Casandra Campbell",
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"3:40pm",
+    "call_number":"14301",
+    "campus":null,
+    "class_id":"E4577-20271-001",
+    "course_subtitle":"Comm for Data Leaders",
+    "department":"Industrial Engineering and Operations Research",
+    "department_code":"IEOR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/IEOR\/E4577-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Engineering:Graduate",
+      "Engineering:Undergraduate"
+    ],
+    "points":"1.5",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"F",
+    "section_key":"20271IEOR4577E001",
     "type":"LECTURE"
   },
   {
@@ -69988,34 +70176,6 @@
     ],
     "scheduled_days":"TR",
     "section_key":"20271IEOR4601E001",
-    "type":"LECTURE"
-  },
-  {
-    "course_code":"IEOR E4630",
-    "course_title":"ASSET ALLOCATION",
-    "course_descr":"Models for pricing and hedging equity, fixed-income, credit-derivative securities, standard tools for hedging and risk management, models and theoretical foundations for pricing equity options (standard European, American equity options, Asian options), standard Black-Scholes model (with multiasset extension), asset allocation, portfolio optimization, investments over longtime horizons, and pricing of fixed-income derivatives (Ho-Lee, Black-Derman-Toy, Heath-Jarrow-Morton interest rate model).",
-    "instructor":"Christopher A Perez",
-    "scheduled_time_start":"2:40pm",
-    "scheduled_time_end":"5:10pm",
-    "call_number":"12984",
-    "campus":null,
-    "class_id":"E4630-20271-001",
-    "course_subtitle":null,
-    "department":"Industrial Engineering and Operations Research",
-    "department_code":"IEOR",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/IEOR\/E4630-20271-001\/",
-    "location":null,
-    "method_of_instruction":"In-Person",
-    "open_to":[
-      "Engineering:Graduate",
-      "Engineering:Undergraduate"
-    ],
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"T",
-    "section_key":"20271IEOR4630E001",
     "type":"LECTURE"
   },
   {
@@ -70186,6 +70346,33 @@
     ],
     "scheduled_days":"MW",
     "section_key":"20271IEOR4709E001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"IEOR E4718",
+    "course_title":"INTRO-IMPLIED VOLATILITY SMILE",
+    "course_descr":null,
+    "instructor":"Amal Moussa",
+    "scheduled_time_start":"7:00pm",
+    "scheduled_time_end":"9:30pm",
+    "call_number":"14303",
+    "campus":null,
+    "class_id":"E4718-20271-001",
+    "course_subtitle":"BEYOND BLACK-SCHOLES: IMPLIED",
+    "department":"Industrial Engineering and Operations Research",
+    "department_code":"IEOR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/IEOR\/E4718-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Engineering:Graduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20271IEOR4718E001",
     "type":"LECTURE"
   },
   {
@@ -71263,6 +71450,34 @@
     "scheduled_days":null,
     "section_key":"20271IEOR4900E013",
     "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"IEOR E4998",
+    "course_title":"MANAG TECH INNOV & ENTREPRENEURSHIP",
+    "course_descr":null,
+    "instructor":"Brandon M Procak",
+    "scheduled_time_start":"7:00pm",
+    "scheduled_time_end":"9:30pm",
+    "call_number":"14306",
+    "campus":null,
+    "class_id":"E4998-20271-001",
+    "course_subtitle":"MANAGING TECH INNOVATION",
+    "department":"Industrial Engineering and Operations Research",
+    "department_code":"IEOR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/IEOR\/E4998-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Engineering:Graduate",
+      "Engineering:Undergraduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20271IEOR4998E001",
+    "type":"LECTURE"
   },
   {
     "course_code":"IEOR E6614",
