@@ -6198,8 +6198,8 @@
     "course_title":"APPLIED MACHINE LEARNING II",
     "course_descr":"APPLIED MACHINE LEARNING II",
     "instructor":"Vishal Lala",
-    "scheduled_time_start":"8:10pm",
-    "scheduled_time_end":"10:00pm",
+    "scheduled_time_start":"12:10pm",
+    "scheduled_time_end":"2:00pm",
     "call_number":"14132",
     "campus":null,
     "class_id":"K5205-20271-003",
@@ -6216,7 +6216,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":"T",
+    "scheduled_days":"F",
     "section_key":"20271APAN5205K003",
     "type":"LECTURE"
   },
@@ -6353,6 +6353,33 @@
     ],
     "scheduled_days":"R",
     "section_key":"20271APAN5205KD01",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"APAN PS5205",
+    "course_title":"APPLIED MACHINE LEARNING II",
+    "course_descr":null,
+    "instructor":"Vishal Lala",
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"14361",
+    "campus":null,
+    "class_id":"K5205-20271-008",
+    "course_subtitle":"APPLIED MACHINE LEARNING",
+    "department":"Applied Analytics",
+    "department_code":"APAN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/APAN\/K5205-20271-008\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"F",
+    "section_key":"20271APAN5205K008",
     "type":"LECTURE"
   },
   {
@@ -30892,6 +30919,31 @@
     ],
     "scheduled_days":"F",
     "section_key":"20271COMS6998E010",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"COMS E6998",
+    "course_title":"TOPICS IN COMPUTER SCIENCE",
+    "course_descr":null,
+    "instructor":"Peter Belhumeur",
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"14359",
+    "campus":null,
+    "class_id":"E6998-20271-011",
+    "course_subtitle":"ADV TOPICS PROJ DEEP LEARNING",
+    "department":"Computer Science",
+    "department_code":"COMS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMS\/E6998-20271-011\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20271COMS6998E011",
     "type":"LECTURE"
   },
   {
@@ -97705,6 +97757,31 @@
     ],
     "scheduled_days":"TR",
     "section_key":"20271PHYS1202W003",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"PHYS UN1202",
+    "course_title":"GENERAL PHYSICS II",
+    "course_descr":null,
+    "instructor":"Eric Raymer",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"5:25pm",
+    "call_number":"14360",
+    "campus":null,
+    "class_id":"W1202-20271-002",
+    "course_subtitle":null,
+    "department":"Physics",
+    "department_code":"PHYS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PHYS\/W1202-20271-002\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20271PHYS1202W002",
     "type":"LECTURE"
   },
   {
