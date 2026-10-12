@@ -481,8 +481,8 @@
     "course_title":"TOPICS IN THE BLACK EXPERIENCE",
     "course_descr":null,
     "instructor":"Zinga A Fraser",
-    "scheduled_time_start":"2:10pm",
-    "scheduled_time_end":"4:00pm",
+    "scheduled_time_start":"12:10pm",
+    "scheduled_time_end":"2:00pm",
     "call_number":"14726",
     "campus":null,
     "class_id":"G4080-20271-002",
@@ -576,6 +576,31 @@
     ],
     "scheduled_days":"W",
     "section_key":"20271AFAS1002W001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"AFAS UN3005",
+    "course_title":"Introduction to Caribbean Art",
+    "course_descr":null,
+    "instructor":"Rachel Grace Newman",
+    "scheduled_time_start":"2:40pm",
+    "scheduled_time_end":"3:55pm",
+    "call_number":"14760",
+    "campus":null,
+    "class_id":"W3005-20271-001",
+    "course_subtitle":"Introduction to Caribbean",
+    "department":"African American and African Diaspora",
+    "department_code":"AFAS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/AFAS\/W3005-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20271AFAS3005W001",
     "type":"LECTURE"
   },
   {
@@ -58776,6 +58801,33 @@
     "type":"WORKSHOP"
   },
   {
+    "course_code":"FILM AF6125",
+    "course_title":"Story Gym",
+    "course_descr":null,
+    "instructor":"Matthew R Fennell",
+    "scheduled_time_start":"2:00pm",
+    "scheduled_time_end":"5:00pm",
+    "call_number":"14797",
+    "campus":null,
+    "class_id":"R6125-20271-001",
+    "course_subtitle":null,
+    "department":"Film",
+    "department_code":"FILM",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FILM\/R6125-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Schools of the Arts"
+    ],
+    "points":"1.5",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20271FILM6125R001",
+    "type":"WORKSHOP"
+  },
+  {
     "course_code":"FILM AF6320",
     "course_title":"FEATURE FILM FINANCING",
     "course_descr":null,
@@ -80044,6 +80096,31 @@
     ],
     "scheduled_days":"M",
     "section_key":"20271JWST4161W001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"JWST GU4170",
+    "course_title":"It   s a Long Story!    Russian-Jewis",
+    "course_descr":null,
+    "instructor":"Jonathan Dekel-Chen",
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"14756",
+    "campus":null,
+    "class_id":"W4170-20271-001",
+    "course_subtitle":"Russian-Jewish History",
+    "department":"Institute for Israel & Jewish Studies",
+    "department_code":"JWST",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/JWST\/W4170-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20271JWST4170W001",
     "type":"SEMINAR"
   },
   {
@@ -126758,7 +126835,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":"W",
+    "scheduled_days":"T",
     "section_key":"20271SPMG5010K002",
     "type":"LECTURE"
   },
@@ -133082,6 +133159,33 @@
     "type":"STUDIO"
   },
   {
+    "course_code":"THEA AT6150",
+    "course_title":"CLOWN",
+    "course_descr":null,
+    "instructor":"Ralf Jean-Pierre",
+    "scheduled_time_start":"9:30am",
+    "scheduled_time_end":"12:50pm",
+    "call_number":"14764",
+    "campus":null,
+    "class_id":"Q6150-20271-001",
+    "course_subtitle":"CLOWN II",
+    "department":"Theatre Arts",
+    "department_code":"THEA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/THEA\/Q6150-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Schools of the Arts"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20271THEA6150Q001",
+    "type":"STUDIO"
+  },
+  {
     "course_code":"THEA AT6170",
     "course_title":"ACTING II",
     "course_descr":null,
@@ -133106,6 +133210,33 @@
     ],
     "scheduled_days":"F",
     "section_key":"20271THEA6170R001",
+    "type":"STUDIO"
+  },
+  {
+    "course_code":"THEA AT6190",
+    "course_title":"CREATIVE CODING",
+    "course_descr":null,
+    "instructor":"Josh Corn",
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"5:00pm",
+    "call_number":"14801",
+    "campus":null,
+    "class_id":"R6190-20271-001",
+    "course_subtitle":null,
+    "department":"Theatre Arts",
+    "department_code":"THEA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/THEA\/R6190-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Schools of the Arts"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20271THEA6190R001",
     "type":"STUDIO"
   },
   {
@@ -133190,6 +133321,60 @@
     "type":"SEMINAR"
   },
   {
+    "course_code":"THEA AT6490",
+    "course_title":"TOPICS IN THEATRE HISTORY & THEORY",
+    "course_descr":null,
+    "instructor":"Maria Jose Contreras",
+    "scheduled_time_start":"9:30am",
+    "scheduled_time_end":"12:20pm",
+    "call_number":"14798",
+    "campus":null,
+    "class_id":"R6490-20271-001",
+    "course_subtitle":"DRAMATURGIES OF THE REAL",
+    "department":"Theatre Arts",
+    "department_code":"THEA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/THEA\/R6490-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Schools of the Arts"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20271THEA6490R001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"THEA AT6505",
+    "course_title":"SUZUKI",
+    "course_descr":null,
+    "instructor":"Shanga Parker",
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"5:00pm",
+    "call_number":"14768",
+    "campus":null,
+    "class_id":"R6505-20271-001",
+    "course_subtitle":null,
+    "department":"Theatre Arts",
+    "department_code":"THEA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/THEA\/R6505-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Schools of the Arts"
+    ],
+    "points":"0-1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20271THEA6505R001",
+    "type":"STUDIO"
+  },
+  {
     "course_code":"THEA AT6510",
     "course_title":"PLAYWRITING II",
     "course_descr":null,
@@ -133244,6 +133429,87 @@
     "type":"STUDIO"
   },
   {
+    "course_code":"THEA AT6517",
+    "course_title":"SPEECH III",
+    "course_descr":null,
+    "instructor":"Elizabeth Hayes",
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"12:50pm",
+    "call_number":"14774",
+    "campus":null,
+    "class_id":"R6517-20271-001",
+    "course_subtitle":null,
+    "department":"Theatre Arts",
+    "department_code":"THEA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/THEA\/R6517-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Schools of the Arts"
+    ],
+    "points":"2",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"F",
+    "section_key":"20271THEA6517R001",
+    "type":"STUDIO"
+  },
+  {
+    "course_code":"THEA AT6519",
+    "course_title":"VOICE & ALEXANDER TECHNIQUE II",
+    "course_descr":null,
+    "instructor":"Jean McClelland",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"14758",
+    "campus":null,
+    "class_id":"R6519-20271-001",
+    "course_subtitle":"VOICE & ALEXANDER TECHNIQ",
+    "department":"Theatre Arts",
+    "department_code":"THEA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/THEA\/R6519-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Schools of the Arts"
+    ],
+    "points":"1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271THEA6519R001",
+    "type":"STUDIO"
+  },
+  {
+    "course_code":"THEA AT6520",
+    "course_title":"FUNDAMENTALS OF SCREENWRITING",
+    "course_descr":null,
+    "instructor":"David Auburn",
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"5:00pm",
+    "call_number":"14802",
+    "campus":null,
+    "class_id":"R6520-20271-001",
+    "course_subtitle":"FUNDAMENTALS OF SCREENWRI",
+    "department":"Theatre Arts",
+    "department_code":"THEA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/THEA\/R6520-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Schools of the Arts"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20271THEA6520R001",
+    "type":"WORKSHOP"
+  },
+  {
     "course_code":"THEA AT6561",
     "course_title":"THE ACTOR'S BODY II",
     "course_descr":null,
@@ -133268,6 +133534,33 @@
     ],
     "scheduled_days":"MR",
     "section_key":"20271THEA6561R001",
+    "type":"WORKSHOP"
+  },
+  {
+    "course_code":"THEA AT6570",
+    "course_title":"AMERICAN MUSICAL THEATRE",
+    "course_descr":null,
+    "instructor":"Michael Korie",
+    "scheduled_time_start":"6:00pm",
+    "scheduled_time_end":"8:50pm",
+    "call_number":"14803",
+    "campus":null,
+    "class_id":"R6570-20271-001",
+    "course_subtitle":null,
+    "department":"Theatre Arts",
+    "department_code":"THEA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/THEA\/R6570-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Schools of the Arts"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20271THEA6570R001",
     "type":"WORKSHOP"
   },
   {
@@ -133376,6 +133669,33 @@
     ],
     "scheduled_days":null,
     "section_key":"20271THEA6803R001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"THEA AT8002",
+    "course_title":"TICKETING",
+    "course_descr":null,
+    "instructor":"Justin L Karr",
+    "scheduled_time_start":"6:30pm",
+    "scheduled_time_end":"8:30pm",
+    "call_number":"14810",
+    "campus":null,
+    "class_id":"R8002-20271-001",
+    "course_subtitle":null,
+    "department":"Theatre Arts",
+    "department_code":"THEA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/THEA\/R8002-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Schools of the Arts"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20271THEA8002R001",
     "type":"SEMINAR"
   },
   {
@@ -133539,6 +133859,60 @@
     "type":"STUDIO"
   },
   {
+    "course_code":"THEA AT8050",
+    "course_title":"THEATRE PRACTICUM II",
+    "course_descr":null,
+    "instructor":"Scott V Whitehurst",
+    "scheduled_time_start":"10:00am",
+    "scheduled_time_end":"12:50pm",
+    "call_number":"14762",
+    "campus":null,
+    "class_id":"R8050-20271-002",
+    "course_subtitle":"ELEVATED & CONTEMPORARY TEXTS",
+    "department":"Theatre Arts",
+    "department_code":"THEA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/THEA\/R8050-20271-002\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Schools of the Arts"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20271THEA8050R002",
+    "type":"STUDIO"
+  },
+  {
+    "course_code":"THEA AT8050",
+    "course_title":"THEATRE PRACTICUM II",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"5:00pm",
+    "call_number":"14793",
+    "campus":null,
+    "class_id":"R8050-20271-001",
+    "course_subtitle":"REIMAGINING AMERICAN THEATRE",
+    "department":"Theatre Arts",
+    "department_code":"THEA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/THEA\/R8050-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Schools of the Arts"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"F",
+    "section_key":"20271THEA8050R001",
+    "type":"STUDIO"
+  },
+  {
     "course_code":"THEA AT8083",
     "course_title":"COLLABORATION STUDIO",
     "course_descr":null,
@@ -133617,6 +133991,60 @@
     ],
     "scheduled_days":"R",
     "section_key":"20271THEA8110R002",
+    "type":"STUDIO"
+  },
+  {
+    "course_code":"THEA AT8140",
+    "course_title":"ACTING IV",
+    "course_descr":null,
+    "instructor":"Peter Fernandez",
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"5:00pm",
+    "call_number":"14759",
+    "campus":null,
+    "class_id":"R8140-20271-001",
+    "course_subtitle":null,
+    "department":"Theatre Arts",
+    "department_code":"THEA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/THEA\/R8140-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Schools of the Arts"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MT",
+    "section_key":"20271THEA8140R001",
+    "type":"STUDIO"
+  },
+  {
+    "course_code":"THEA AT8150",
+    "course_title":"ACTING TECHNIQUES",
+    "course_descr":null,
+    "instructor":"James Calleri",
+    "scheduled_time_start":"2:00pm",
+    "scheduled_time_end":"6:00pm",
+    "call_number":"14778",
+    "campus":null,
+    "class_id":"R8150-20271-006",
+    "course_subtitle":"ACTING FOR CAMERA",
+    "department":"Theatre Arts",
+    "department_code":"THEA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/THEA\/R8150-20271-006\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Schools of the Arts"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"F",
+    "section_key":"20271THEA8150R006",
     "type":"STUDIO"
   },
   {
@@ -133699,6 +134127,114 @@
     "scheduled_days":null,
     "section_key":"20271THEA8420R001",
     "type":"LECTURE"
+  },
+  {
+    "course_code":"THEA AT8520",
+    "course_title":"PLAYWRITING IV",
+    "course_descr":null,
+    "instructor":"Charles Mee",
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"5:00pm",
+    "call_number":"14805",
+    "campus":null,
+    "class_id":"R8520-20271-001",
+    "course_subtitle":null,
+    "department":"Theatre Arts",
+    "department_code":"THEA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/THEA\/R8520-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Schools of the Arts"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20271THEA8520R001",
+    "type":"WORKSHOP"
+  },
+  {
+    "course_code":"THEA AT8540",
+    "course_title":"DIRECTED STUDIES IN PLAYWRITING",
+    "course_descr":null,
+    "instructor":"Lynn Nottage",
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"5:00pm",
+    "call_number":"14806",
+    "campus":null,
+    "class_id":"R8540-20271-001",
+    "course_subtitle":"DIRECTED STUDIES - PLAYWR",
+    "department":"Theatre Arts",
+    "department_code":"THEA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/THEA\/R8540-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Schools of the Arts"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"F",
+    "section_key":"20271THEA8540R001",
+    "type":"WORKSHOP"
+  },
+  {
+    "course_code":"THEA AT8570",
+    "course_title":"DRAMATURGY OF MUSICAL THEATRE",
+    "course_descr":null,
+    "instructor":"Anika S Chapin",
+    "scheduled_time_start":"10:00am",
+    "scheduled_time_end":"12:50pm",
+    "call_number":"14800",
+    "campus":null,
+    "class_id":"R8570-20271-001",
+    "course_subtitle":"DRAMATURGY OF MUSICAL THE",
+    "department":"Theatre Arts",
+    "department_code":"THEA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/THEA\/R8570-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Schools of the Arts"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20271THEA8570R001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"THEA AT8600",
+    "course_title":"LYRIC WRITING",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"14804",
+    "campus":null,
+    "class_id":"Q8600-20271-001",
+    "course_subtitle":null,
+    "department":"Theatre Arts",
+    "department_code":"THEA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/THEA\/Q8600-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Schools of the Arts"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271THEA8600Q001",
+    "type":"WORKSHOP"
   },
   {
     "course_code":"THEA AT8610",
@@ -133836,6 +134372,31 @@
     "type":"PRACTICA"
   },
   {
+    "course_code":"THEA AT8670",
+    "course_title":"SCENE STUDY II",
+    "course_descr":null,
+    "instructor":"Brian Kulick",
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"5:00pm",
+    "call_number":"14785",
+    "campus":null,
+    "class_id":"R8670-20271-002",
+    "course_subtitle":"SCENE STUDY II: CHEKHOV",
+    "department":"Theatre Arts",
+    "department_code":"THEA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/THEA\/R8670-20271-002\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20271THEA8670R002",
+    "type":"STUDIO"
+  },
+  {
     "course_code":"THEA AT8675",
     "course_title":"CURRENT ISSUES IN STAGE MANAGEMENT",
     "course_descr":null,
@@ -133860,6 +134421,114 @@
     ],
     "scheduled_days":null,
     "section_key":"20271THEA8675R001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"THEA AT8700",
+    "course_title":"CREATIVE PRODUCING",
+    "course_descr":null,
+    "instructor":"Steven E Chaikelson",
+    "scheduled_time_start":"10:00am",
+    "scheduled_time_end":"12:00pm",
+    "call_number":"14807",
+    "campus":null,
+    "class_id":"R8700-20271-001",
+    "course_subtitle":null,
+    "department":"Theatre Arts",
+    "department_code":"THEA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/THEA\/R8700-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Schools of the Arts"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"F",
+    "section_key":"20271THEA8700R001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"THEA AT8710",
+    "course_title":"ROLE OF THE THEATRE PRODUCER",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"10:00am",
+    "scheduled_time_end":"12:00pm",
+    "call_number":"14811",
+    "campus":null,
+    "class_id":"R8710-20271-001",
+    "course_subtitle":"ROLE OF THE THEATRE PRODU",
+    "department":"Theatre Arts",
+    "department_code":"THEA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/THEA\/R8710-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Schools of the Arts"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20271THEA8710R001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"THEA AT8720",
+    "course_title":"CRITICAL ISSUES IN THEATRE MANAGEMENT",
+    "course_descr":null,
+    "instructor":"Donna Walker-Kuhne",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"14755",
+    "campus":null,
+    "class_id":"R8720-20271-001",
+    "course_subtitle":"ARTS LEADERSHIP & AUD DEV",
+    "department":"Theatre Arts",
+    "department_code":"THEA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/THEA\/R8720-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Schools of the Arts"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271THEA8720R001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"THEA AT8725",
+    "course_title":"CRITICAL ISSUES IN THEATRE MANAGEMENT",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"4:00pm",
+    "scheduled_time_end":"6:00pm",
+    "call_number":"14809",
+    "campus":null,
+    "class_id":"R8725-20271-001",
+    "course_subtitle":"CRIT ISSUES TM:HUMAN RES.",
+    "department":"Theatre Arts",
+    "department_code":"THEA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/THEA\/R8725-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Schools of the Arts"
+    ],
+    "points":"1.5",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20271THEA8725R001",
     "type":"SEMINAR"
   },
   {
@@ -133890,6 +134559,33 @@
     "type":"SEMINAR"
   },
   {
+    "course_code":"THEA AT8800",
+    "course_title":"LABOR RELATIONS & COLLECTIVE BARGAINING",
+    "course_descr":null,
+    "instructor":"Darren Robertson",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"14757",
+    "campus":null,
+    "class_id":"R8800-20271-001",
+    "course_subtitle":"LABOR RELATIONS & COLL BA",
+    "department":"Theatre Arts",
+    "department_code":"THEA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/THEA\/R8800-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Schools of the Arts"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271THEA8800R001",
+    "type":"SEMINAR"
+  },
+  {
     "course_code":"THEA AT8820",
     "course_title":"LEGAL WRITING PRACTICUM",
     "course_descr":null,
@@ -133914,6 +134610,141 @@
     ],
     "scheduled_days":"M",
     "section_key":"20271THEA8820R001",
+    "type":"PRACTICA"
+  },
+  {
+    "course_code":"THEA AT8835",
+    "course_title":"DIGITAL PRODUCING SEMINAR",
+    "course_descr":null,
+    "instructor":"Rachel Sussman",
+    "scheduled_time_start":"4:00pm",
+    "scheduled_time_end":"6:00pm",
+    "call_number":"14808",
+    "campus":null,
+    "class_id":"R8835-20271-001",
+    "course_subtitle":null,
+    "department":"Theatre Arts",
+    "department_code":"THEA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/THEA\/R8835-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Schools of the Arts"
+    ],
+    "points":"1.5",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20271THEA8835R001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"THEA AT8860",
+    "course_title":"PUBLIC SECTOR POLICY & AMERICAN THEATRE",
+    "course_descr":null,
+    "instructor":"Stacey C McMath",
+    "scheduled_time_start":"1:00pm",
+    "scheduled_time_end":"3:00pm",
+    "call_number":"14812",
+    "campus":null,
+    "class_id":"R8860-20271-001",
+    "course_subtitle":"PUBLIC SECTOR POLICY",
+    "department":"Theatre Arts",
+    "department_code":"THEA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/THEA\/R8860-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Schools of the Arts"
+    ],
+    "points":"1.5",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20271THEA8860R001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"THEA AT9010",
+    "course_title":"PROFESSIONAL PRACTICE",
+    "course_descr":null,
+    "instructor":"James Calleri",
+    "scheduled_time_start":"9:30am",
+    "scheduled_time_end":"12:30pm",
+    "call_number":"14813",
+    "campus":null,
+    "class_id":"R9010-20271-001",
+    "course_subtitle":null,
+    "department":"Theatre Arts",
+    "department_code":"THEA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/THEA\/R9010-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Schools of the Arts"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20271THEA9010R001",
+    "type":"COLLOQUIA"
+  },
+  {
+    "course_code":"THEA AT9010",
+    "course_title":"PROFESSIONAL PRACTICE",
+    "course_descr":null,
+    "instructor":"Sita Mani",
+    "scheduled_time_start":"2:00pm",
+    "scheduled_time_end":"5:00pm",
+    "call_number":"14815",
+    "campus":null,
+    "class_id":"R9010-20271-003",
+    "course_subtitle":"PROF. PRACTICE: ACTOR'S BODY",
+    "department":"Theatre Arts",
+    "department_code":"THEA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/THEA\/R9010-20271-003\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Schools of the Arts"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20271THEA9010R003",
+    "type":"COLLOQUIA"
+  },
+  {
+    "course_code":"THEA AT9100",
+    "course_title":"PROOF OF CONCEPT",
+    "course_descr":null,
+    "instructor":"Daniel Gordon",
+    "scheduled_time_start":"9:30am",
+    "scheduled_time_end":"12:30pm",
+    "call_number":"14814",
+    "campus":null,
+    "class_id":"R9100-20271-001",
+    "course_subtitle":null,
+    "department":"Theatre Arts",
+    "department_code":"THEA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/THEA\/R9100-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Schools of the Arts"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20271THEA9100R001",
     "type":"PRACTICA"
   },
   {
@@ -137436,6 +138267,871 @@
     ],
     "scheduled_days":"R",
     "section_key":"20271VIAR5201R001",
+    "type":"WORKSHOP"
+  },
+  {
+    "course_code":"VIAR AV5300",
+    "course_title":"SCULPTURE I",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"10:00am",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"14752",
+    "campus":null,
+    "class_id":"R5300-20271-001",
+    "course_subtitle":null,
+    "department":"Visual Arts",
+    "department_code":"VIAR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/VIAR\/R5300-20271-001\/",
+    "location":"315 Prentis Hall at 632 W 125th St",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Schools of the Arts"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"F",
+    "section_key":"20271VIAR5300R001",
+    "type":"WORKSHOP"
+  },
+  {
+    "course_code":"VIAR AV5301",
+    "course_title":"SCULPTURE II",
+    "course_descr":null,
+    "instructor":"Sable Smith",
+    "scheduled_time_start":"10:00am",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"14753",
+    "campus":null,
+    "class_id":"R5301-20271-001",
+    "course_subtitle":null,
+    "department":"Visual Arts",
+    "department_code":"VIAR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/VIAR\/R5301-20271-001\/",
+    "location":"315 Prentis Hall at 632 W 125th St",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Schools of the Arts"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20271VIAR5301R001",
+    "type":"WORKSHOP"
+  },
+  {
+    "course_code":"VIAR AV5302",
+    "course_title":"SCULPTURE III",
+    "course_descr":null,
+    "instructor":"Sable Smith",
+    "scheduled_time_start":"10:00am",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"14754",
+    "campus":null,
+    "class_id":"R5302-20271-001",
+    "course_subtitle":null,
+    "department":"Visual Arts",
+    "department_code":"VIAR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/VIAR\/R5302-20271-001\/",
+    "location":"315 Prentis Hall at 632 W 125th St",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Schools of the Arts"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20271VIAR5302R001",
+    "type":"WORKSHOP"
+  },
+  {
+    "course_code":"VIAR AV5414",
+    "course_title":"Printmaking on, through, and below the m",
+    "course_descr":null,
+    "instructor":"Craig Zammiello",
+    "scheduled_time_start":"10:00am",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"14761",
+    "campus":null,
+    "class_id":"R5414-20271-001",
+    "course_subtitle":"Print on, through, & belo",
+    "department":"Visual Arts",
+    "department_code":"VIAR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/VIAR\/R5414-20271-001\/",
+    "location":"210 Dodge Hall",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Schools of the Arts"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"F",
+    "section_key":"20271VIAR5414R001",
+    "type":"STUDIO"
+  },
+  {
+    "course_code":"VIAR AV5420",
+    "course_title":"PRINTMAKING I: INTAGLIO",
+    "course_descr":null,
+    "instructor":"Jennifer Nuss",
+    "scheduled_time_start":"1:30pm",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"14763",
+    "campus":null,
+    "class_id":"R5420-20271-001",
+    "course_subtitle":null,
+    "department":"Visual Arts",
+    "department_code":"VIAR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/VIAR\/R5420-20271-001\/",
+    "location":"210 Dodge Hall",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Schools of the Arts"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20271VIAR5420R001",
+    "type":"WORKSHOP"
+  },
+  {
+    "course_code":"VIAR AV5421",
+    "course_title":"PRINTMAKING II: INTAGLIO",
+    "course_descr":null,
+    "instructor":"Jennifer Nuss",
+    "scheduled_time_start":"1:30pm",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"14766",
+    "campus":null,
+    "class_id":"R5421-20271-001",
+    "course_subtitle":null,
+    "department":"Visual Arts",
+    "department_code":"VIAR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/VIAR\/R5421-20271-001\/",
+    "location":"210 Dodge Hall",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Schools of the Arts"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20271VIAR5421R001",
+    "type":"WORKSHOP"
+  },
+  {
+    "course_code":"VIAR AV5440",
+    "course_title":"PRINTMAKING I: SILKSCREEN",
+    "course_descr":null,
+    "instructor":"Alejo Contreras",
+    "scheduled_time_start":"10:00am",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"14767",
+    "campus":null,
+    "class_id":"R5440-20271-001",
+    "course_subtitle":null,
+    "department":"Visual Arts",
+    "department_code":"VIAR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/VIAR\/R5440-20271-001\/",
+    "location":"210 Dodge Hall",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Schools of the Arts"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20271VIAR5440R001",
+    "type":"WORKSHOP"
+  },
+  {
+    "course_code":"VIAR AV5500",
+    "course_title":"Intro to Moving Image: Video, Film & Art",
+    "course_descr":null,
+    "instructor":"Shelly Silver",
+    "scheduled_time_start":"10:00am",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"14769",
+    "campus":null,
+    "class_id":"R5500-20271-001",
+    "course_subtitle":"Intro Moving Image:Video,",
+    "department":"Visual Arts",
+    "department_code":"VIAR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/VIAR\/R5500-20271-001\/",
+    "location":"101 Prentis Hall at 632 W 125th St",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Schools of the Arts"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20271VIAR5500R001",
+    "type":"STUDIO"
+  },
+  {
+    "course_code":"VIAR AV5600",
+    "course_title":"Intro Darkroom Photography",
+    "course_descr":null,
+    "instructor":"Paula L Lycan",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"12:40pm",
+    "call_number":"14770",
+    "campus":null,
+    "class_id":"R5600-20271-001",
+    "course_subtitle":"Intro Darkroom Photograph",
+    "department":"Visual Arts",
+    "department_code":"VIAR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/VIAR\/R5600-20271-001\/",
+    "location":"212 Dodge Hall",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Schools of the Arts"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20271VIAR5600R001",
+    "type":"STUDIO"
+  },
+  {
+    "course_code":"VIAR AV5603",
+    "course_title":"AI & PHOTOGRAPHY",
+    "course_descr":null,
+    "instructor":"Alexey Yurenev",
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"3:40pm",
+    "call_number":"14771",
+    "campus":null,
+    "class_id":"R5603-20271-001",
+    "course_subtitle":null,
+    "department":"Visual Arts",
+    "department_code":"VIAR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/VIAR\/R5603-20271-001\/",
+    "location":"106 Watson Hall",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Engineering:Graduate",
+      "Schools of the Arts"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20271VIAR5603R001",
+    "type":"STUDIO"
+  },
+  {
+    "course_code":"VIAR AV5702",
+    "course_title":"Intro to Digital Photography",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"12:40pm",
+    "call_number":"14772",
+    "campus":null,
+    "class_id":"R5702-20271-001",
+    "course_subtitle":"Intro to Digital Photogra",
+    "department":"Visual Arts",
+    "department_code":"VIAR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/VIAR\/R5702-20271-001\/",
+    "location":"106 Watson Hall",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Schools of the Arts"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20271VIAR5702R001",
+    "type":"STUDIO"
+  },
+  {
+    "course_code":"VIAR AV5703",
+    "course_title":"Advanced Darkroom Photography",
+    "course_descr":null,
+    "instructor":"Delphine A Fawundu",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"12:40pm",
+    "call_number":"14773",
+    "campus":null,
+    "class_id":"R5703-20271-001",
+    "course_subtitle":"Advanced Darkroom Photogr",
+    "department":"Visual Arts",
+    "department_code":"VIAR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/VIAR\/R5703-20271-001\/",
+    "location":"212 Dodge Hall",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Schools of the Arts"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20271VIAR5703R001",
+    "type":"STUDIO"
+  },
+  {
+    "course_code":"VIAR AV5801",
+    "course_title":"VISUAL ARTS LECTURE SERIES II",
+    "course_descr":null,
+    "instructor":"Naeem Mohaiemen",
+    "scheduled_time_start":"6:00pm",
+    "scheduled_time_end":"9:00pm",
+    "call_number":"14775",
+    "campus":null,
+    "class_id":"R5801-20271-001",
+    "course_subtitle":"VISUAL ARTS LECTURE SERIE",
+    "department":"Visual Arts",
+    "department_code":"VIAR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/VIAR\/R5801-20271-001\/",
+    "location":"101 Prentis Hall at 632 W 125th St",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Schools of the Arts"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20271VIAR5801R001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"VIAR AV5841",
+    "course_title":"GRADUATE STUDIO II",
+    "course_descr":null,
+    "instructor":"Naeem Mohaiemen",
+    "scheduled_time_start":"4:00pm",
+    "scheduled_time_end":"10:00pm",
+    "call_number":"14776",
+    "campus":null,
+    "class_id":"R5841-20271-001",
+    "course_subtitle":null,
+    "department":"Visual Arts",
+    "department_code":"VIAR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/VIAR\/R5841-20271-001\/",
+    "location":"101 Prentis Hall at 632 W 125th St",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Schools of the Arts"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MR",
+    "section_key":"20271VIAR5841R001",
+    "type":"WORKSHOP"
+  },
+  {
+    "course_code":"VIAR AV5851",
+    "course_title":"GROUP CRITIQUE II",
+    "course_descr":null,
+    "instructor":"Naeem Mohaiemen",
+    "scheduled_time_start":"5:30pm",
+    "scheduled_time_end":"9:30pm",
+    "call_number":"14777",
+    "campus":null,
+    "class_id":"R5851-20271-001",
+    "course_subtitle":null,
+    "department":"Visual Arts",
+    "department_code":"VIAR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/VIAR\/R5851-20271-001\/",
+    "location":"101 Prentis Hall at 632 W 125th St",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Schools of the Arts"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20271VIAR5851R001",
+    "type":"STUDIO"
+  },
+  {
+    "course_code":"VIAR AV5861",
+    "course_title":"ARTIST MENTORSHIP II",
+    "course_descr":null,
+    "instructor":"Naeem Mohaiemen",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"14779",
+    "campus":null,
+    "class_id":"R5861-20271-001",
+    "course_subtitle":null,
+    "department":"Visual Arts",
+    "department_code":"VIAR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/VIAR\/R5861-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Schools of the Arts"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271VIAR5861R001",
+    "type":"STUDIO"
+  },
+  {
+    "course_code":"VIAR AV5932",
+    "course_title":"INDEPENDENT STUDY",
+    "course_descr":null,
+    "instructor":"Matthew E Buckingham",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"14780",
+    "campus":null,
+    "class_id":"R5932-20271-001",
+    "course_subtitle":null,
+    "department":"Visual Arts",
+    "department_code":"VIAR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/VIAR\/R5932-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Schools of the Arts"
+    ],
+    "points":"1-3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271VIAR5932R001",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"VIAR AV5932",
+    "course_title":"INDEPENDENT STUDY",
+    "course_descr":null,
+    "instructor":"David A Cruz",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"14781",
+    "campus":null,
+    "class_id":"R5932-20271-002",
+    "course_subtitle":null,
+    "department":"Visual Arts",
+    "department_code":"VIAR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/VIAR\/R5932-20271-002\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Schools of the Arts"
+    ],
+    "points":"1-3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271VIAR5932R002",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"VIAR AV5932",
+    "course_title":"INDEPENDENT STUDY",
+    "course_descr":null,
+    "instructor":"Delphine A Fawundu",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"14782",
+    "campus":null,
+    "class_id":"R5932-20271-003",
+    "course_subtitle":null,
+    "department":"Visual Arts",
+    "department_code":"VIAR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/VIAR\/R5932-20271-003\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Schools of the Arts"
+    ],
+    "points":"1-3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271VIAR5932R003",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"VIAR AV5932",
+    "course_title":"INDEPENDENT STUDY",
+    "course_descr":null,
+    "instructor":"Naeem Mohaiemen",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"14783",
+    "campus":null,
+    "class_id":"R5932-20271-004",
+    "course_subtitle":null,
+    "department":"Visual Arts",
+    "department_code":"VIAR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/VIAR\/R5932-20271-004\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Schools of the Arts"
+    ],
+    "points":"1-3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271VIAR5932R004",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"VIAR AV5932",
+    "course_title":"INDEPENDENT STUDY",
+    "course_descr":null,
+    "instructor":"Shelly Silver",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"14784",
+    "campus":null,
+    "class_id":"R5932-20271-005",
+    "course_subtitle":null,
+    "department":"Visual Arts",
+    "department_code":"VIAR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/VIAR\/R5932-20271-005\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Schools of the Arts"
+    ],
+    "points":"1-3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271VIAR5932R005",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"VIAR AV5932",
+    "course_title":"INDEPENDENT STUDY",
+    "course_descr":null,
+    "instructor":"Sable Smith",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"14786",
+    "campus":null,
+    "class_id":"R5932-20271-006",
+    "course_subtitle":null,
+    "department":"Visual Arts",
+    "department_code":"VIAR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/VIAR\/R5932-20271-006\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Schools of the Arts"
+    ],
+    "points":"1-3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271VIAR5932R006",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"VIAR AV5932",
+    "course_title":"INDEPENDENT STUDY",
+    "course_descr":null,
+    "instructor":"Mickalene Thomas",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"14787",
+    "campus":null,
+    "class_id":"R5932-20271-007",
+    "course_subtitle":null,
+    "department":"Visual Arts",
+    "department_code":"VIAR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/VIAR\/R5932-20271-007\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Schools of the Arts"
+    ],
+    "points":"1-3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271VIAR5932R007",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"VIAR AV5932",
+    "course_title":"INDEPENDENT STUDY",
+    "course_descr":null,
+    "instructor":"Tomas Vu Daniel",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"14788",
+    "campus":null,
+    "class_id":"R5932-20271-008",
+    "course_subtitle":null,
+    "department":"Visual Arts",
+    "department_code":"VIAR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/VIAR\/R5932-20271-008\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Schools of the Arts"
+    ],
+    "points":"1-3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271VIAR5932R008",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"VIAR AV6813",
+    "course_title":"VISUAL ARTS LECTURE SERIES IV",
+    "course_descr":null,
+    "instructor":"Naeem Mohaiemen",
+    "scheduled_time_start":"6:00pm",
+    "scheduled_time_end":"9:00pm",
+    "call_number":"14789",
+    "campus":null,
+    "class_id":"R6813-20271-001",
+    "course_subtitle":"VISUAL ARTS LECTURE SERIE",
+    "department":"Visual Arts",
+    "department_code":"VIAR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/VIAR\/R6813-20271-001\/",
+    "location":"101 Prentis Hall at 632 W 125th St",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Schools of the Arts"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20271VIAR6813R001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"VIAR AV6843",
+    "course_title":"GRADUATE STUDIO IV",
+    "course_descr":null,
+    "instructor":"Naeem Mohaiemen",
+    "scheduled_time_start":"4:00pm",
+    "scheduled_time_end":"10:00pm",
+    "call_number":"14790",
+    "campus":null,
+    "class_id":"R6843-20271-001",
+    "course_subtitle":null,
+    "department":"Visual Arts",
+    "department_code":"VIAR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/VIAR\/R6843-20271-001\/",
+    "location":"101 Prentis Hall at 632 W 125th St",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Schools of the Arts"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MR",
+    "section_key":"20271VIAR6843R001",
+    "type":"WORKSHOP"
+  },
+  {
+    "course_code":"VIAR AV6853",
+    "course_title":"GROUP CRITIQUE IV",
+    "course_descr":null,
+    "instructor":"Naeem Mohaiemen",
+    "scheduled_time_start":"5:30pm",
+    "scheduled_time_end":"9:30pm",
+    "call_number":"14791",
+    "campus":null,
+    "class_id":"R6853-20271-001",
+    "course_subtitle":null,
+    "department":"Visual Arts",
+    "department_code":"VIAR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/VIAR\/R6853-20271-001\/",
+    "location":"101 Prentis Hall at 632 W 125th St",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Schools of the Arts"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20271VIAR6853R001",
+    "type":"STUDIO"
+  },
+  {
+    "course_code":"VIAR AV6863",
+    "course_title":"ARTIST MENTORSHIP IV",
+    "course_descr":null,
+    "instructor":"Naeem Mohaiemen",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"14792",
+    "campus":null,
+    "class_id":"R6863-20271-001",
+    "course_subtitle":null,
+    "department":"Visual Arts",
+    "department_code":"VIAR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/VIAR\/R6863-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Schools of the Arts"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271VIAR6863R001",
+    "type":"STUDIO"
+  },
+  {
+    "course_code":"VIAR AV8000",
+    "course_title":"PROFESSIONAL PRACTICE",
+    "course_descr":null,
+    "instructor":"Matthew Deleget",
+    "scheduled_time_start":"10:00am",
+    "scheduled_time_end":"1:00pm",
+    "call_number":"14794",
+    "campus":null,
+    "class_id":"R8000-20271-001",
+    "course_subtitle":null,
+    "department":"Visual Arts",
+    "department_code":"VIAR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/VIAR\/R8000-20271-001\/",
+    "location":"315 Prentis Hall at 632 W 125th St",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Schools of the Arts"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20271VIAR8000R001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"VIAR AV8102",
+    "course_title":"VISUAL ART LAB, SPRING",
+    "course_descr":null,
+    "instructor":"Sarah M Sze",
+    "scheduled_time_start":"1:00pm",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"14795",
+    "campus":null,
+    "class_id":"R8102-20271-001",
+    "course_subtitle":null,
+    "department":"Visual Arts",
+    "department_code":"VIAR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/VIAR\/R8102-20271-001\/",
+    "location":"101 Prentis Hall at 632 W 125th St",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Schools of the Arts"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"F",
+    "section_key":"20271VIAR8102R001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"VIAR AV8205",
+    "course_title":"Graduate Seminar in Performance and Rela",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"14799",
+    "campus":null,
+    "class_id":"R8205-20271-001",
+    "course_subtitle":"Grad Sem in Performance",
+    "department":"Visual Arts",
+    "department_code":"VIAR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/VIAR\/R8205-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Schools of the Arts"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271VIAR8205R001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"VIAR AV8340",
+    "course_title":"CRITICAL ISSUES IN CONTEMPORARY ART",
+    "course_descr":null,
+    "instructor":"Elizabeth C Devita",
+    "scheduled_time_start":"12:00pm",
+    "scheduled_time_end":"2:00pm",
+    "call_number":"14796",
+    "campus":null,
+    "class_id":"R8340-20271-001",
+    "course_subtitle":"CRITICAL ISSUES IN CONTEM",
+    "department":"Visual Arts",
+    "department_code":"VIAR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/VIAR\/R8340-20271-001\/",
+    "location":"106 Watson Hall",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Schools of the Arts"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"F",
+    "section_key":"20271VIAR8340R001",
     "type":"WORKSHOP"
   },
   {
