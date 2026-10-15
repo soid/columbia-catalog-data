@@ -46814,8 +46814,8 @@
     "course_title":"FOUNDATIONS OF EDUCATION",
     "course_descr":"Introduction to the psychological, philosophical, sociological, and historical foundations of education as way to understand what education is, how education has become what it is, and to envision what education should be.",
     "instructor":"Rachel Throop",
-    "scheduled_time_start":"11:40am",
-    "scheduled_time_end":"12:55pm",
+    "scheduled_time_start":"2:40pm",
+    "scheduled_time_end":"3:55pm",
     "call_number":"00752",
     "campus":null,
     "class_id":"X1510-20271-001",
@@ -46964,8 +46964,8 @@
     "course_title":"COMPLICATING CLASS:  EDUCATION AND THE L",
     "course_descr":"In this course, we start from the premise that a failure to understand what social class is and how social class matters in daily life stops us from having conversations about the possibilities and limitations of schooling and, as such, prevents us from doing what we can to improve the schooling experiences of poor and working-class students. Throughout the semester, we will work to \u201ccomplicate class\u201d, reconsidering what class is, why class matters, and how we can best think about the relationship between social class and schooling. You will develop a language for talking about class, considering the affordances and constraints of various conceptions of class. You will also leave with critical questions about the possibilities and limitations of relying on schools as a solution to social problems. Recognizing restraints, we will conclude by reflecting on how we might work toward creating more equitable learning environments for poor and working-class students.",
     "instructor":"Rachel Throop",
-    "scheduled_time_start":"2:10pm",
-    "scheduled_time_end":"4:00pm",
+    "scheduled_time_start":"12:10pm",
+    "scheduled_time_end":"2:00pm",
     "call_number":"00774",
     "campus":null,
     "class_id":"X3045-20271-001",
@@ -48250,7 +48250,9 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/EESC\/X3029-20271-001\/",
     "location":null,
     "method_of_instruction":null,
-    "open_to":null,
+    "open_to":[
+      "Columbia College"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -48287,7 +48289,7 @@
   {
     "course_code":"EESC BC3801",
     "course_title":"ENVIR SCIENCE SENIOR SEM II",
-    "course_descr":null,
+    "course_descr":"Guided, independent, in-depth research culminating in the senior thesis in the spring. Includes discussion about scientific presentations and posters, data analysis, library research methods and scientific writing. Students review work in progress and share results through oral reports. Weekly seminar to review work in progress and share results through oral and written reports. Prerequisite to EESC W3901.",
     "instructor":null,
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -48303,7 +48305,9 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "EESC W3901"
+      ]
     ],
     "scheduled_days":"R",
     "section_key":"20271EESC3801X001",
@@ -50852,6 +50856,31 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"ENGL BC3102",
+    "course_title":"ACADEMIC WRITING INTENSIVE",
+    "course_descr":null,
+    "instructor":"Vrinda Condillac",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"00269",
+    "campus":null,
+    "class_id":"X3102-20271-001",
+    "course_subtitle":"ACADEMIC WRITING INTENSIV",
+    "department":"English @Barnard",
+    "department_code":"ENGL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/X3102-20271-001\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271ENGL3102X001",
+    "type":"SEMINAR"
+  },
+  {
     "course_code":"ENGL BC3104",
     "course_title":"THE ART OF THE ESSAY",
     "course_descr":"Essay writing above the first-year level. Reading and writing various types of essays to develop one's natural writing voice and craft thoughtful, sophisticated and personal essays.",
@@ -51932,81 +51961,6 @@
     "scheduled_days":"W",
     "section_key":"20271ENGL3998X004",
     "type":"SEMINAR"
-  },
-  {
-    "course_code":"ENGL BC3999",
-    "course_title":"INDEPENDENT STUDY",
-    "course_descr":null,
-    "instructor":"Meredith A Benjamin",
-    "scheduled_time_start":"10:10am",
-    "scheduled_time_end":"11:25am",
-    "call_number":"01032",
-    "campus":null,
-    "class_id":"X3999-20271-999",
-    "course_subtitle":null,
-    "department":"English @Barnard",
-    "department_code":"ENGL",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/X3999-20271-999\/",
-    "location":null,
-    "method_of_instruction":null,
-    "open_to":null,
-    "points":"1-4",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"TR",
-    "section_key":"20271ENGL3999X999",
-    "type":"INDEPENDENT"
-  },
-  {
-    "course_code":"ENGL BC3999",
-    "course_title":"INDEPENDENT STUDY",
-    "course_descr":null,
-    "instructor":"Ken Chen",
-    "scheduled_time_start":"11:40am",
-    "scheduled_time_end":"12:55pm",
-    "call_number":"01034",
-    "campus":null,
-    "class_id":"X3999-20271-998",
-    "course_subtitle":null,
-    "department":"English @Barnard",
-    "department_code":"ENGL",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/X3999-20271-998\/",
-    "location":null,
-    "method_of_instruction":null,
-    "open_to":null,
-    "points":"1-4",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"MW",
-    "section_key":"20271ENGL3999X998",
-    "type":"INDEPENDENT"
-  },
-  {
-    "course_code":"ENGL BC3999",
-    "course_title":"INDEPENDENT STUDY",
-    "course_descr":null,
-    "instructor":"James G Basker",
-    "scheduled_time_start":"11:00am",
-    "scheduled_time_end":"12:50pm",
-    "call_number":"01036",
-    "campus":null,
-    "class_id":"X3999-20271-997",
-    "course_subtitle":null,
-    "department":"English @Barnard",
-    "department_code":"ENGL",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/X3999-20271-997\/",
-    "location":null,
-    "method_of_instruction":null,
-    "open_to":null,
-    "points":"1-4",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"F",
-    "section_key":"20271ENGL3999X997",
-    "type":"INDEPENDENT"
   },
   {
     "course_code":"ENGL CC1010",
@@ -65987,8 +65941,8 @@
     "course_title":"FIRST-YEAR SEMINAR AT BARNARD",
     "course_descr":"First-Year Seminars initiate students into the academic life of the College by offering intellectually engaging experiences in which students and faculty from a wide range of home departments\u00a0work through challenging material, often across disciplinary lines. Each one-semester seminar is designed to develop essential skills for college work, such as the ability to read critically and analytically, to speak clearly and effectively, and to write logically and persuasively.\n  \nFirst-Year Seminars vary in content and format, and fall into two categories: Special Topics and Reacting to the Past. Descriptions are available in Vergil.",
     "instructor":"Emily K Austin",
-    "scheduled_time_start":"1:10pm",
-    "scheduled_time_end":"2:25pm",
+    "scheduled_time_start":"2:40pm",
+    "scheduled_time_end":"3:55pm",
     "call_number":"00962",
     "campus":null,
     "class_id":"X1001-20271-009",
@@ -66080,31 +66034,6 @@
     ],
     "scheduled_days":"MW",
     "section_key":"20271FYSB1001X014",
-    "type":"SEMINAR"
-  },
-  {
-    "course_code":"FYSB BC1001",
-    "course_title":"FIRST-YEAR SEMINAR AT BARNARD",
-    "course_descr":"First-Year Seminars initiate students into the academic life of the College by offering intellectually engaging experiences in which students and faculty from a wide range of home departments\u00a0work through challenging material, often across disciplinary lines. Each one-semester seminar is designed to develop essential skills for college work, such as the ability to read critically and analytically, to speak clearly and effectively, and to write logically and persuasively.\n  \nFirst-Year Seminars vary in content and format, and fall into two categories: Special Topics and Reacting to the Past. Descriptions are available in Vergil.",
-    "instructor":"Wendy C Schor-Haim",
-    "scheduled_time_start":"1:10pm",
-    "scheduled_time_end":"2:25pm",
-    "call_number":"00966",
-    "campus":null,
-    "class_id":"X1001-20271-021",
-    "course_subtitle":"WITCHES",
-    "department":"First-Year Seminar Program @Barnard",
-    "department_code":"FYSB",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FYSB\/X1001-20271-021\/",
-    "location":null,
-    "method_of_instruction":null,
-    "open_to":null,
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"TR",
-    "section_key":"20271FYSB1001X021",
     "type":"SEMINAR"
   },
   {
@@ -66378,7 +66307,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":"TR",
+    "scheduled_days":"MW",
     "section_key":"20271FYSB1001X012",
     "type":"SEMINAR"
   },
@@ -66412,8 +66341,8 @@
     "course_title":"FIRST-YEAR SEMINAR AT BARNARD",
     "course_descr":"First-Year Seminars initiate students into the academic life of the College by offering intellectually engaging experiences in which students and faculty from a wide range of home departments\u00a0work through challenging material, often across disciplinary lines. Each one-semester seminar is designed to develop essential skills for college work, such as the ability to read critically and analytically, to speak clearly and effectively, and to write logically and persuasively.\n  \nFirst-Year Seminars vary in content and format, and fall into two categories: Special Topics and Reacting to the Past. Descriptions are available in Vergil.",
     "instructor":"Kathleen M Taylor",
-    "scheduled_time_start":"8:40am",
-    "scheduled_time_end":"9:55am",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"11:25am",
     "call_number":"00992",
     "campus":null,
     "class_id":"X1001-20271-017",
@@ -69130,6 +69059,31 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"HIST BC1910",
+    "course_title":"Radical Christianities",
+    "course_descr":null,
+    "instructor":"Matthew Delvaux",
+    "scheduled_time_start":"11:40am",
+    "scheduled_time_end":"12:55pm",
+    "call_number":"01045",
+    "campus":null,
+    "class_id":"X1910-20271-001",
+    "course_subtitle":null,
+    "department":"History @Barnard",
+    "department_code":"HIST",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HIST\/X1910-20271-001\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20271HIST1910X001",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"HIST BC2195",
     "course_title":"Gender and Sexuality in European History",
     "course_descr":"This course examines the history of gender and sexuality in Europe, from the Renaissance to the present day. We will take a thematic approach, tracing the shifting operations, definitions, and understandings of both gender and sexuality within European culture and society. Topics include: Renaissance visual culture, the witchcraft trials, Enlightenment philosophy, European imperialism and colonialism, revolutions (both political and sexual), moral reform campaigns, the birth of sexology, queer and trans histories, sex work, and the politics of control. Central to this course is an examination of the ways gender and sexuality function at the intersections of class, race, nation, ethnicity, and religion, and how these intersections speak to dynamics of social, cultural, and political power. In our work throughout the semester, we will draw from a range of sources, including film, painting, photography, literature, and music. We will regularly engage with primary sources, which will allow students to learn the skills and techniques necessary for the work of historians. Throughout the course, students will examine how historians write, interpret, and construct histories of gender and sexuality, and question what place these histories have in our contemporary world.",
@@ -69355,31 +69309,6 @@
     "type":"RESEARCH SEM"
   },
   {
-    "course_code":"HIST BC3508",
-    "course_title":"COLONIAL GOTHAM",
-    "course_descr":"This class is not a \u201cpre-history\u201d of the modern metropolis, but rather a stand-alone story of Gotham\u2019s growth from a tiny Dutch trading post in the midst of hundreds of Native villages into a key port of the first British Empire. We will close at the dramatic moment when the colonial society at the tip of Manhattan was torn apart and partially destroyed in the inter-imperial civil war we know as the American Revolution.\n  \nEven when its skyline was made of wooden masts and steeples, New York City was a diverse and dangerous place. Major topics will include frontier wars, slave conspiracies, religious revivals, and conflicts between the legitimate and contraband economies. All along, we will try to balance local and global perspectives, and blend social, cultural, political, and economic analyses. The course will also consider this colonial town\u2019s place in American national memory, and critically approaching the many self-congratulatory and silly stories people like to believe about this long-lost island town.\n  \nThe central texts in this course are a combination of secondary sources and primary texts. Our weekly meetings will mostly focus on the assigned reading, with each student submitting six (6) short reading responses on Courseworks before 9 am on the day of class. Students will also develop an original fifteen-to-twenty-page research paper on a colonial New York topic of their own choosing, and will be strongly encouraged to use archival resources held at Columbia or one of the city\u2019s other major archives (NYPL, N-YHS, NMAI, Schomburg Center, Municipal Archives).",
-    "instructor":"Andrew C Lipman",
-    "scheduled_time_start":"12:10pm",
-    "scheduled_time_end":"2:00pm",
-    "call_number":"00905",
-    "campus":null,
-    "class_id":"X3508-20271-001",
-    "course_subtitle":null,
-    "department":"History @Barnard",
-    "department_code":"HIST",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HIST\/X3508-20271-001\/",
-    "location":null,
-    "method_of_instruction":null,
-    "open_to":null,
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"F",
-    "section_key":"20271HIST3508X001",
-    "type":"SEMINAR"
-  },
-  {
     "course_code":"HIST BC3910",
     "course_title":"GLOBAL POLITICS OF REPRODUCTION",
     "course_descr":"Comparative, cross-cultural examination of social organization and historical construction of human reproduction, with emphasis on 20th century. Topics include role of states and local and transnational \"stratification\" of reproduction by race, class, and citizenship; eugenics; population politics; birth control; kinship as social and biological relationship; maternity; paternity; new reproductive technologies.",
@@ -69403,31 +69332,6 @@
     "scheduled_days":"M",
     "section_key":"20271HIST3910X001",
     "type":"SEMINAR"
-  },
-  {
-    "course_code":"HIST BC3999",
-    "course_title":"INDEPENDENT STUDY",
-    "course_descr":"Prerequisites: Permission of the instructor. Enrollment limited to 15. Preregistration required. Examines the theory and practice of transnational feminist activism. We will explore the ways in which race, class, culture and nationality facilitate alliances among women, reproduce hierarchical power relations, and help reconstruct gender. The course covers a number of topics: the African Diaspora, suffrage, labor, development policy, colonialism, trafficking, consumerism, Islam, and the criminal justice system.",
-    "instructor":"Matthew Delvaux",
-    "scheduled_time_start":"11:40am",
-    "scheduled_time_end":"12:55pm",
-    "call_number":"00437",
-    "campus":null,
-    "class_id":"X3999-20271-003",
-    "course_subtitle":null,
-    "department":"History @Barnard",
-    "department_code":"HIST",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HIST\/X3999-20271-003\/",
-    "location":null,
-    "method_of_instruction":null,
-    "open_to":null,
-    "points":"1-4",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"TR",
-    "section_key":"20271HIST3999X003",
-    "type":"INDEPENDENT"
   },
   {
     "course_code":"HIST GR5001",
@@ -71247,8 +71151,8 @@
     "course_title":"Education in Conflict Zones",
     "course_descr":"Across the world, conflict and violence are on the rise, in many forms and due to myriad factors. This course explores the relationship between war, conflict, and education. Drawing on a human rights framework and its applications to education, this course will explore the possibilities and limitations inherent in this framework. Questions we will explore include: How does education contribute to, or mitigate conflict? What is the role of education in emergencies? What is the role of education in addressing the needs of refugees? What is the role of education in post conflict contexts and peacebuilding? What is human rights education?",
     "instructor":"Thea R Abu El-Haj",
-    "scheduled_time_start":"2:10pm",
-    "scheduled_time_end":"4:00pm",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"6:00pm",
     "call_number":"00783",
     "campus":null,
     "class_id":"W4995-20271-001",
@@ -82915,6 +82819,33 @@
     ],
     "scheduled_days":"T",
     "section_key":"20271ISDI7604U001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"ISDI IA7614",
+    "course_title":"Political Manipulation in World Politics",
+    "course_descr":null,
+    "instructor":"Jiyoon Kim",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"15101",
+    "campus":null,
+    "class_id":"U7614-20271-001",
+    "course_subtitle":"Political Manipulation",
+    "department":"International Security & Diplomacy",
+    "department_code":"ISDI",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ISDI\/U7614-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271ISDI7614U001",
     "type":"SEMINAR"
   },
   {
@@ -97711,8 +97642,8 @@
     "course_title":"DIVAS AND THEIR PUBLICS",
     "course_descr":"In order to exist, the female vocal celebrity needs a public. This course takes a global perspective on women\u2019s voices, bodies, and performances, examining them in deep sociocultural contexts across a range of classical and popular music genres. Guiding questions interrogate the role of media and technology in commercializing and circulating the sounds and images of women singers on an international scale, forging new arenas for meaning-making around gender, race, and citizenship. Considering the historically, socially, and materially situated circumstances in which celebrated women performers have emerged in the modern era, the course asks: How did the expressive labor of virtuosic female singers shape the early US entertainment industry? In what ways have women singers around the world impacted nation-centered political agendas, struggles for racial equality, and other powerful religious and secular social formations? How did sound reproduction and broadcasting technology not only expand audiences on an exponential scale, but transform listeners\u2019 experience of female singers\u2019 live performance? Cross-culturally and throughout history, why have exceptional women vocalists had greater public impact than women instrumentalists?",
     "instructor":"Lauren E Ninoshvili",
-    "scheduled_time_start":"1:10pm",
-    "scheduled_time_end":"2:25pm",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"11:25am",
     "call_number":"00033",
     "campus":null,
     "class_id":"X2075-20271-001",
@@ -97727,7 +97658,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":"TR",
+    "scheduled_days":"MW",
     "section_key":"20271MUSI2075X001",
     "type":"LECTURE"
   },
@@ -101546,7 +101477,7 @@
   {
     "course_code":"NSBV BC3306",
     "course_title":"Neuroscience of Language",
-    "course_descr":null,
+    "course_descr":"Humans are the only species with language. Their brains evolved to enable communication through language. With language, they can express every idea with exquisite precision and speed; on the receptive side, they can accurately understand the information communicated in the language they have learned. The course focuses on the brain mechanisms underpinning this uniquely human ability. By reading scientific articles, students learn about current views on the mechanisms supporting the processing of different components of human language, including words, grammar, and speech sounds. Class discussions are designed to highlight the specific contribution of a brain perspective to the investigation of human language. Although the focus is on language, the course examines features of brain organization and functioning with broader implications for cognitive processes. The course will be of interest to neuroscience students concentrating on cognitive neuroscience as well as to linguistics students who want to explore the brain mechanisms underlying language.",
     "instructor":"Michele Miozzo",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -104467,7 +104398,7 @@
   {
     "course_code":"PHIL GU4110",
     "course_title":"Topics in Feminist Philosophy",
-    "course_descr":null,
+    "course_descr":"This course will focus on one advanced topic in feminist philosophy. Potential topics include embodiment, gender, sexuality, oppression, intersectionality, and care ethics.",
     "instructor":"Bianca Waked",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -118137,7 +118068,7 @@
   {
     "course_code":"REGN IA6318",
     "course_title":"Governing Digital Europe",
-    "course_descr":null,
+    "course_descr":"This course examines how the European Union governs digital technologies through its most significant regulatory and policy initiatives. Students analyse how the EU seeks to govern and secure the digital domain through the General Data Protection Regulation (GDPR), the Digital Services Act (DSA), the Digital Markets Act (DMA), cloud sovereignty initiatives such as GAIA-X, the AI Act, and cybersecurity certification. The course situates these policies within broader scholarly debates on European market integration, security, and sovereignty. Through this interdisciplinary approach, students critically assess the political, normative, and geopolitical stakes of Europe\u2019s digital transformation and its ambition to regulate a contested global digital order. Assignments allow students to specialize in a specific domain of EU digital policy or member state, and examine how particular regulatory initiatives reflect broader normative tensions in the European governance of its digital future.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -118762,7 +118693,7 @@
   {
     "course_code":"RELI GU4531",
     "course_title":"Religion and Ecological Ethics",
-    "course_descr":null,
+    "course_descr":"This course considers the specific contribution that religious studies can make to understandings of ecological ethics. Beginning with a study of religions as practicing\n communities that can provide understandings of nature, sociality, the world, and the cosmos, the course considers different ethical methods and modes of living. Students will develop their own understandings through a research project that can contribute to class discussions throughout the second half of the course.",
     "instructor":"Janet Jakobsen",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -119640,7 +119571,7 @@
   {
     "course_code":"RELI UN3026",
     "course_title":"Muslims of the US",
-    "course_descr":null,
+    "course_descr":"Looking at both historical and lived realities of Muslims in the US, we will cover sites from the African Burial Ground in lower Manhattan to the Women\u2019s Mosque in California. The course will engage both with cultural production, such as music, plays, and street art, and living communities around the country. The course will attempt to cover a diversity of voices and perspectives. It is important to understand how context plays a role in the interpretation and practice of religion, as well as to witness the tension between theology and manifestation of belief.\n \n We are not interested in determining if a particular understanding is right or wrong. Rather, we want to understand the roles religion plays in society and for the individual. You will be expected to be critical and engaged. My hope is that you will also be creative and daring, and push us all into a better understanding of the material.",
     "instructor":"Hussein Rashid",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:25pm",
@@ -119690,7 +119621,7 @@
   {
     "course_code":"RELI UN3209",
     "course_title":"US Missionaries and Empire",
-    "course_descr":null,
+    "course_descr":"This class examines the history of American missionaries from the early 1800s to explore the role of religion and US (and other) imperial projects. Even though missionaries often facilitated and defended the \u201ccivilizing\u201d aims of western empires, they also developed a Christian imperialism that served to critique some aspects of colonialism. The class begins with the origins of the US Protestant foreign missionary movement in the 1810s, and then tracks the expansion of Protestant \u201cforeign\u201d and \u201chome\u201d missions with a focus on places like Hawai\u2019i, Cherokee Nation, Liberia, India, as well as the western United States. We will compare the established Protestant missionary movement\u2019s practices and goals with the growth of the Latter-day Saints\u2019 missionary movement, American Catholic missions, and \u201cfaith\u201d missions operated by Pentecostals and holiness groups as well. Through working with archival collections at the Burke Library, we will examine case studies of the role of missionaries in humanitarianism and education in the early twentieth century in Congo and China. The final part of the class turns to how Protestant and Catholic missionaries related to US foreign policy during and after the Cold War. We conclude by examining how the missionary movement forged strong ties among \u201cglobal Christians\u201d that is both a legacy and a challenge to the nineteenth-century missionary movement\u2019s Christian imperialism.",
     "instructor":"Gale L Kenny",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -128172,7 +128103,7 @@
   {
     "course_code":"SOCI BC3961",
     "course_title":"Immigrant New York",
-    "course_descr":null,
+    "course_descr":"From the Dutch settlers of the 17th\u00a0century to immigrant mayors, and \"transplants,\" New York has always been an immigrant destination and center of innovation, contestation, and claim-making amongst different groups.\u00a0New York was written about and described as the Melting Pot in the early 20th century by Israel Zangwill. While this was a hopeful envisioning of New York and the United States more generally, the backdrop was one of immigrant and ethnic conflict, a thriving Americanization movement, and a population vying to learn to become American, create a livelihood, and secure a place for future generations.\u00a0\nImmigrant New York\u00a0\nexplores these struggles and the contributions made by immigrants, past and present. Alongside text and theory, the course will be organized around research projects that take students off campus and into the 5 boroughs of New York City.",
     "instructor":"Randa B Serhan",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -141763,33 +141694,6 @@
     "type":"LECTURE"
   },
   {
-    "course_code":"TMGT PS5145",
-    "course_title":"Special Topics: Experimental Design Stud",
-    "course_descr":"TBD",
-    "instructor":"Allan Chochinov",
-    "scheduled_time_start":"6:10pm",
-    "scheduled_time_end":"8:00pm",
-    "call_number":"13122",
-    "campus":null,
-    "class_id":"K5145-20271-001",
-    "course_subtitle":"Experimental Design Studi",
-    "department":"Technology Management",
-    "department_code":"TMGT",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/TMGT\/K5145-20271-001\/",
-    "location":null,
-    "method_of_instruction":"In-Person",
-    "open_to":[
-      "Professional Studies"
-    ],
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"T",
-    "section_key":"20271TMGT5145K001",
-    "type":"LECTURE"
-  },
-  {
     "course_code":"TMGT PS5998",
     "course_title":"Research in Technology Management",
     "course_descr":"This 3-credit, elective course in the Technology Management program provides students with an opportunity to extend or supplement their educational experience via a deep dive into an interdisciplinary technology management topic of their choice, under the umbrella of how technology facilitates business, social, and environmental impact. The research project conducted in this course should fall under one of the four program pillars - Essentials in Technology Management and Leadership, Digital Transformation, Human Centric Design and Innovation, and Emerging Technologies.\u00a0\n  \nStudents can select and implement an applied or academic research project that supports their work or career path interest under the guidance and supervision of the instructor. The research project can connect the discipline of technology management and leadership with vertical industry expertise (e.g., retail, financial services, entertainment, healthcare, etc.) and organizational functions, such as product development and management. Examples of suitable topic areas include: using AI for customer persona development, machine learning and AI applications in financial services, AI guardrails, among others.\u00a0\n  \nStudents can choose between two types of research based on their interest:\u00a0\n  \n  \nApplied research track: develop and refine an organizational project with a tangible outcome within the term. It can be a research need that the student\u2019s organization has, such as a new market entry or product development. This can also be the continuation of a project students started in a previous course, a research interest, or preparation for the individual Capstone course in the final semester.\u00a0\n  \nAcademic research track: conduct an academic research study in the discipline of technology management and leadership with the goal to share it with the industry and academic community.\u00a0\n \n  \nTargeted course outcomes include submitting the research project outcomes to industry conferences, industry publications, or presenting it to internal stakeholders at work. The course will therefore serve the\u00a0dual purpose of allowing a student to pursue their own intellectual curiosity, while also either a) contributing to the wider discipline of technology management or b) developing a novel business concept.",
@@ -143294,6 +143198,33 @@
     ],
     "scheduled_days":null,
     "section_key":"20271URSP7602U001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"URSP IA7610",
+    "course_title":"Labor, Inequality, and Democracy",
+    "course_descr":null,
+    "instructor":"Alexander Hertel-Fernandez",
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"3:00pm",
+    "call_number":"15100",
+    "campus":null,
+    "class_id":"U7610-20271-001",
+    "course_subtitle":"Labor, Inequality, Democr",
+    "department":"Urban and Social Policy",
+    "department_code":"URSP",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/URSP\/U7610-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20271URSP7610U001",
     "type":"SEMINAR"
   },
   {
