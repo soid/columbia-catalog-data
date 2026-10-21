@@ -10651,12 +10651,62 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"ASTR UN1903",
+    "course_title":"ASTRONOMY LAB I",
+    "course_descr":null,
+    "instructor":"Janna Levin",
+    "scheduled_time_start":"6:00pm",
+    "scheduled_time_end":"9:00pm",
+    "call_number":"01063",
+    "campus":null,
+    "class_id":"W1903-20271-001",
+    "course_subtitle":null,
+    "department":"Physics and Astronomy @Barnard",
+    "department_code":"ASTR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ASTR\/W1903-20271-001\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20271ASTR1903W001",
+    "type":"LABORATORY"
+  },
+  {
+    "course_code":"ASTR UN1903",
+    "course_title":"ASTRONOMY LAB I",
+    "course_descr":null,
+    "instructor":"Janna Levin",
+    "scheduled_time_start":"7:00pm",
+    "scheduled_time_end":"10:00pm",
+    "call_number":"01064",
+    "campus":null,
+    "class_id":"W1903-20271-002",
+    "course_subtitle":null,
+    "department":"Physics and Astronomy @Barnard",
+    "department_code":"ASTR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ASTR\/W1903-20271-002\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20271ASTR1903W002",
+    "type":"LABORATORY"
+  },
+  {
     "course_code":"ASTR UN1904",
     "course_title":"ASTRONOMY LAB II",
     "course_descr":"Laboratory for ASTR UN1404. Projects include use of telescopes, laboratory experiments in the nature of light, spectroscopy, and the analysis of astronomical data. Lab 2 ASTR UN1904 - goes with ASTR BC1754 or ASTR UN1404 (or ASTR UN1836 or ASTR UN1420).",
-    "instructor":"Faculty",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "instructor":"Janna Levin",
+    "scheduled_time_start":"6:00pm",
+    "scheduled_time_end":"9:00pm",
     "call_number":"00565",
     "campus":null,
     "class_id":"W1904-20271-001",
@@ -10682,7 +10732,7 @@
         "ASTR UN1904"
       ]
     ],
-    "scheduled_days":null,
+    "scheduled_days":"W",
     "section_key":"20271ASTR1904W001",
     "type":"LABORATORY"
   },
@@ -20586,6 +20636,33 @@
     ],
     "scheduled_days":"T",
     "section_key":"20271CEEN7365U001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"CEEN IA7370",
+    "course_title":"Energy Decarbonization",
+    "course_descr":null,
+    "instructor":"Noah Kaufman",
+    "scheduled_time_start":"3:10pm",
+    "scheduled_time_end":"5:00pm",
+    "call_number":"15568",
+    "campus":null,
+    "class_id":"U7370-20271-001",
+    "course_subtitle":null,
+    "department":"Climate, Energy, & Environment",
+    "department_code":"CEEN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CEEN\/U7370-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"1.5",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20271CEEN7370U001",
     "type":"SEMINAR"
   },
   {
@@ -33050,6 +33127,31 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"CLSL BC3001",
+    "course_title":"War Games",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"2:25pm",
+    "call_number":"01066",
+    "campus":null,
+    "class_id":"X3001-20271-001",
+    "course_subtitle":null,
+    "department":"Slavic Languages @Barnard",
+    "department_code":"CLSL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CLSL\/X3001-20271-001\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20271CLSL3001X001",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"CLSL GU4014",
     "course_title":"The World Made Strange: Grotesque Litera",
     "course_descr":"This seminar examines the grotesque as one of Eastern European literature\u2019s most productive formal resources: a way of revealing what happens when incompatibilities are forced into uneasy coexistence in various representational sites \u2013 whether that be the same body, image, voice, institution, or world. We will read works from a wide range of Eastern European traditions \u2013 Russian, Ukrainian, Slovenian, Czech, Polish, Romanian, Albanian, South Slavic\/post-Yugoslav, and Hungarian. The course is comparative and does not treat Eastern Europe as a monoculture. Instead, it asks why writers whose lives and works have been informed by a great diversity of forces \u2013 empires, border changes, modernization, war, revolution, state socialism, post-socialist transition, folklore, and ecological crisis \u2013 converge on the grotesque as a representational strategy.\u00a0 We will also learn how to read the meanings of various grotesque representational staples \u2013 distorted bodies, animate objects, proliferating doubles, impossible bureaucracies, unstable genres, and comic catastrophe.\n  \nAcross the semester, we will develop a sophisticated working definition of the grotesque by examining its greatest theorists \u2013 from Bakhtin and Kayser to Eikhenbaum, Ruskin, Thomson, Harpham, Russo, and Connelly.\n  \nThe literary readings are assigned as whole works: unexcerpted novels and novellas, plays, and stories or story cycles. Only scholarship and theoretical books will be assigned in excerpts. All readings are available in English",
@@ -36436,6 +36538,31 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"COMS BC3213",
+    "course_title":"DISCRETE MATHEMATICS",
+    "course_descr":null,
+    "instructor":"Eysa Lee",
+    "scheduled_time_start":"3:10pm",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"01065",
+    "campus":null,
+    "class_id":"X3213-20271-002",
+    "course_subtitle":null,
+    "department":"Computer Science @Barnard",
+    "department_code":"COMS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMS\/X3213-20271-002\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"F",
+    "section_key":"20271COMS3213X002",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"COMS BC3411",
     "course_title":"HUMAN-CENTERED SOCIAL NETWORK ANALYSIS",
     "course_descr":"Social media platforms enable millions of people to contribute their own information to web-enabled systems. This course prepares students to grapple with and analyze this information as they explore questions at the intersection of computational systems and social behavior. Student projects focus on studying real-world challenges and opportunities in current social media platforms by analyzing the vast amounts of data people leave behind, applying both computational and qualitative techniques. Readings and discussions guide students in reasoning about the ethics of working with this kind of data and approaching it from a human-centered perspective.\u00a0Students must be comfortable with programming in python.",
@@ -38700,8 +38827,8 @@
     "course_title":"Literary Islands",
     "course_descr":"Islands feature very often in literature and it is the goal of this course to understand why this is so. We could take our point of departure from the poet John Donne\u2019s famous claim that \u201cno man is an island\u201d and understand that to mean that human beings crave relations with other human beings, and this is why isolating ourselves on a real or metaphorical island, all alone, is something we resist. Already, however, we discern the figurative utility of the island: it helps us approach the existential topic of solitude itself. What is it to be alone? Might solitude sometimes be something a person actually desires? Some of the literary texts we will read in this class will help us respond to these questions, but philosophy will also help us too, since it also wishes to understand the emotional and physical experience of solitude. For that reason, philosophers often deploy islands \u2013 philosophical islands in this case \u2013 in order to ponder the nature of that very experience. We will accordingly read extracts from the philosophers Martin Heidegger, Jean Jacques Rousseau and Emmanuel Levinas to assist us. The very topography of an island is important \u2013 it is self-contained and unconnected to any mainland. And this is useful if one wishes to imagine an isolated community, unthreatened by any invaders crossing the sea. It is why, as we shall see, remote islands are locations where writers can imagine different ways of being in a community, untouched and unaffected by the rest of the world. How about living in a utopian community, for instance? We will read extracts of Francis Bacon\u2019s The New Atlantis for that very reason. Might that community be only constituted by men? We will read extracts of Henry Neville\u2019s The Isle of Pines to find out what that might look like, and compare that patriarchal isle to islands populated solely by women \u2013 these are feminist islands in an appreciable sense. Hence two texts set on islands: Eliza Heywood\u2019s Memoirs of an Island Adjacent to the Kingdom of Utopia from which we will read selected extracts, and Pierre de Marivaux\u2019s short play The Colony which we will read in its entirety. Of course, one of the most famous islands is described by Daniel Defoe in Robinson Crusoe. We will read extracts from that text, but also make the comparative gesture by juxtaposing a version or rewriting of Robinson Crusoe, Patrick Chamoiseau\u2019s Crusoe\u2019s Footprint, a novel which provides him a way to reflect on colonialism and the slav",
     "instructor":"Brian D O'Keeffe",
-    "scheduled_time_start":"4:10pm",
-    "scheduled_time_end":"5:25pm",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"7:25pm",
     "call_number":"01052",
     "campus":null,
     "class_id":"X2002-20271-001",
@@ -53414,6 +53541,60 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"EMPA IA6040",
+    "course_title":"Cost Benefit Analysis",
+    "course_descr":null,
+    "instructor":"Eva Weissman",
+    "scheduled_time_start":"10:00am",
+    "scheduled_time_end":"11:50am",
+    "call_number":"15569",
+    "campus":null,
+    "class_id":"U6040-20271-001",
+    "course_subtitle":null,
+    "department":"EXECUTIVE MPA",
+    "department_code":"EMPA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/EMPA\/U6040-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"S",
+    "section_key":"20271EMPA6040U001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"EMPA IA6105",
+    "course_title":"Strategic Management in the Age of AI",
+    "course_descr":null,
+    "instructor":"Robert Z Tumin",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"15570",
+    "campus":null,
+    "class_id":"U6105-20271-001",
+    "course_subtitle":"Strategic Management",
+    "department":"EXECUTIVE MPA",
+    "department_code":"EMPA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/EMPA\/U6105-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271EMPA6105U001",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"EMPA IA6230",
     "course_title":"Political Economy Seminar",
     "course_descr":"This seminar surveys the defining political economy issues of our time. It explores the interplay between politics and economics in the substantive issue areas of economic growth, industrial capitalist development, social welfare and inequality, financial crisis, and global migration. The seminar surveys the most provocative\u00a0and influential contributions across multiple fields of study, drawing on a wide range of research methods. The course equips students with the conceptual and empirical tools to better understand current developments, provides exposure to multiple perspectives, and builds confidence in developing one\u2019s own point of view. \u00a0The course wraps up with a shared exploration of how political economy shapes the lives of marginalized communities.",
@@ -53449,6 +53630,33 @@
     "scheduled_days":"W",
     "section_key":"20271EMPA6230U001",
     "type":"SEMINAR"
+  },
+  {
+    "course_code":"EMPA IA6236",
+    "course_title":"International Relations Theory for Globa",
+    "course_descr":null,
+    "instructor":"Fumiko Sasaki",
+    "scheduled_time_start":"5:10pm",
+    "scheduled_time_end":"7:00pm",
+    "call_number":"15571",
+    "campus":null,
+    "class_id":"U6236-20271-001",
+    "course_subtitle":"IR Theory & Global Policy",
+    "department":"EXECUTIVE MPA",
+    "department_code":"EMPA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/EMPA\/U6236-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20271EMPA6236U001",
+    "type":"LECTURE"
   },
   {
     "course_code":"EMPA IA6310",
@@ -53512,6 +53720,60 @@
     ],
     "scheduled_days":"R",
     "section_key":"20271EMPA6425U001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"EMPA IA6452",
+    "course_title":"Social Justice Movements and Coalition-B",
+    "course_descr":null,
+    "instructor":"Richard F Greenberg",
+    "scheduled_time_start":"7:10pm",
+    "scheduled_time_end":"9:00pm",
+    "call_number":"15573",
+    "campus":null,
+    "class_id":"U6452-20271-001",
+    "course_subtitle":"Social Justice Movements",
+    "department":"EXECUTIVE MPA",
+    "department_code":"EMPA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/EMPA\/U6452-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20271EMPA6452U001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"EMPA IA6460",
+    "course_title":"Rethinking Policing in the 21st Century",
+    "course_descr":null,
+    "instructor":"Basil A Jr Smikle",
+    "scheduled_time_start":"7:10pm",
+    "scheduled_time_end":"9:00pm",
+    "call_number":"15572",
+    "campus":null,
+    "class_id":"U6460-20271-001",
+    "course_subtitle":"Rethinking Policing Today",
+    "department":"EXECUTIVE MPA",
+    "department_code":"EMPA",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/EMPA\/U6460-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20271EMPA6460U001",
     "type":"SEMINAR"
   },
   {
@@ -55406,8 +55668,8 @@
     "course_title":"SENIOR SEMINAR IN ENGLISH",
     "course_descr":"Enrollment is limited to Barnard senior English majors. To see the current course description for each section, visit the English Department website: \nhttps:\/\/english.barnard.edu\/english\/senior-seminars",
     "instructor":"Ken Chen",
-    "scheduled_time_start":"2:10pm",
-    "scheduled_time_end":"4:00pm",
+    "scheduled_time_start":"11:00am",
+    "scheduled_time_end":"12:50pm",
     "call_number":"00327",
     "campus":null,
     "class_id":"X3998-20271-004",
@@ -71241,7 +71503,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":"W",
+    "scheduled_days":"T",
     "section_key":"20271FREN3091X001",
     "type":"SEMINAR"
   },
@@ -72833,7 +73095,7 @@
     "call_number":"01062",
     "campus":null,
     "class_id":"X1002-20271-002",
-    "course_subtitle":"FIRST-YEAR SEMINAR WORKSH",
+    "course_subtitle":"IDENTITY ON THE MOVE",
     "department":"First-Year Seminar Program @Barnard",
     "department_code":"FYSB",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/FYSB\/X1002-20271-002\/",
@@ -88659,8 +88921,8 @@
     "course_title":"International Political Economy",
     "course_descr":"IFEP Concentration Registration Priority. \nThis course examines the intersection of international politics and international economics. It covers an analysis of the historical background to and contemporary reality of the political economy of international trade, finance, monetary relations, foreign investment, and climate policy; problems of economic development; and globalization.",
     "instructor":"Markus H Jaeger",
-    "scheduled_time_start":"5:10pm",
-    "scheduled_time_end":"7:00pm",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
     "call_number":"10272",
     "campus":null,
     "class_id":"U7205-20271-001",
@@ -88677,7 +88939,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":"M",
+    "scheduled_days":null,
     "section_key":"20271IFEP7205U001",
     "type":"LECTURE"
   },
@@ -88975,8 +89237,8 @@
     "course_title":"International Finance & Monetary Theory",
     "course_descr":null,
     "instructor":"Daniel J Waldman",
-    "scheduled_time_start":"7:10pm",
-    "scheduled_time_end":"9:00pm",
+    "scheduled_time_start":"5:10pm",
+    "scheduled_time_end":"7:00pm",
     "call_number":"10282",
     "campus":null,
     "class_id":"U7600-20271-001",
@@ -90571,6 +90833,33 @@
     ],
     "scheduled_days":"W",
     "section_key":"20271ISDI7300U002",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"ISDI IA7350",
+    "course_title":"Women, Peace, and Security",
+    "course_descr":null,
+    "instructor":"Phoebe Donnelly",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"15574",
+    "campus":null,
+    "class_id":"U7350-20271-001",
+    "course_subtitle":"Women, Peace, and Securit",
+    "department":"International Security & Diplomacy",
+    "department_code":"ISDI",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ISDI\/U7350-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271ISDI7350U001",
     "type":"SEMINAR"
   },
   {
@@ -119659,7 +119948,7 @@
   {
     "course_code":"POLS UN3961",
     "course_title":"INTERNATIONAL POLITICS SEMINAR",
-    "course_descr":"Prerequisites: POLS UN2601 or the equivalent, and the instructor's permission. Seminar in International Politics. Students who would like to register should join the electronic wait list.",
+    "course_descr":"Prerequisites: POLS UN2601 or the equivalent, and the instructor's permission.",
     "instructor":"Allison J Carnegie",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -119686,7 +119975,7 @@
   {
     "course_code":"POLS UN3961",
     "course_title":"INTERNATIONAL POLITICS SEMINAR",
-    "course_descr":"Prerequisites: POLS UN2601 or the equivalent, and the instructor's permission. Seminar in International Politics. Students who would like to register should join the electronic wait list.",
+    "course_descr":"Prerequisites: POLS UN2601 or the equivalent, and the instructor's permission.",
     "instructor":"Jean Krasno",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -119713,7 +120002,7 @@
   {
     "course_code":"POLS UN3961",
     "course_title":"INTERNATIONAL POLITICS SEMINAR",
-    "course_descr":"Prerequisites: POLS UN2601 or the equivalent, and the instructor's permission. Seminar in International Politics. Students who would like to register should join the electronic wait list.",
+    "course_descr":"Prerequisites: POLS UN2601 or the equivalent, and the instructor's permission.",
     "instructor":"Nikhar Gaikwad",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -119740,7 +120029,7 @@
   {
     "course_code":"POLS UN3961",
     "course_title":"INTERNATIONAL POLITICS SEMINAR",
-    "course_descr":"Prerequisites: POLS UN2601 or the equivalent, and the instructor's permission. Seminar in International Politics. Students who would like to register should join the electronic wait list.",
+    "course_descr":"Prerequisites: POLS UN2601 or the equivalent, and the instructor's permission.",
     "instructor":"Davit Sahakyan",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -119767,7 +120056,7 @@
   {
     "course_code":"POLS UN3961",
     "course_title":"INTERNATIONAL POLITICS SEMINAR",
-    "course_descr":"Prerequisites: POLS UN2601 or the equivalent, and the instructor's permission. Seminar in International Politics. Students who would like to register should join the electronic wait list.",
+    "course_descr":"Prerequisites: POLS UN2601 or the equivalent, and the instructor's permission.",
     "instructor":"David E Spiro",
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"2:00pm",
@@ -119794,7 +120083,7 @@
   {
     "course_code":"POLS UN3961",
     "course_title":"INTERNATIONAL POLITICS SEMINAR",
-    "course_descr":"Prerequisites: POLS UN2601 or the equivalent, and the instructor's permission. Seminar in International Politics. Students who would like to register should join the electronic wait list.",
+    "course_descr":"Prerequisites: POLS UN2601 or the equivalent, and the instructor's permission.",
     "instructor":"Marjorie Castle",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -119821,7 +120110,7 @@
   {
     "course_code":"POLS UN3961",
     "course_title":"INTERNATIONAL POLITICS SEMINAR",
-    "course_descr":"Prerequisites: POLS UN2601 or the equivalent, and the instructor's permission. Seminar in International Politics. Students who would like to register should join the electronic wait list.",
+    "course_descr":"Prerequisites: POLS UN2601 or the equivalent, and the instructor's permission.",
     "instructor":"Jeremiah S Pam",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -132941,8 +133230,8 @@
     "course_title":"Economic Fundamentals for International",
     "course_descr":"MIA Economics Core.\u00a0\nThis course provides a thorough introduction to the principles of microeconomics and macroeconomics, equipping students with the analytical tools to understand how individuals, firms, and governments make decisions and how they interact in local and global markets.\u00a0By combining theory with applied learning, the course builds a foundation for critical thinking about real-world economic challenges and policy-making in an increasingly interconnected world.",
     "instructor":"Martsella Davitaia",
-    "scheduled_time_start":"1:20pm",
-    "scheduled_time_end":"2:50pm",
+    "scheduled_time_start":"1:15pm",
+    "scheduled_time_end":"2:45pm",
     "call_number":"10628",
     "campus":null,
     "class_id":"U6350-20271-002",
@@ -132996,7 +133285,7 @@
     "course_descr":"MPA and MIA-Track II Economics Core.\u00a0\nThis course continues the one-year sequence initiated with SIPA IA6400 and focuses on macroeconomics. The goal of this course is to provide students with the analytical framework to examine and interpret observed economic events in the global economy. The causal relationships between macroeconomic aggregates is based upon microeconomic principles. The subject matter always refers to concrete situations with a particular focus on the causes and effects of the current global financial crisis. The controversial nature of macroeconomic policies is central.",
     "instructor":"Sigridur Benediktsdottir",
     "scheduled_time_start":"10:00am",
-    "scheduled_time_end":"11:50am",
+    "scheduled_time_end":"11:30am",
     "call_number":"10630",
     "campus":null,
     "class_id":"U6401-20271-001",
@@ -133022,8 +133311,8 @@
     "course_title":"Macroeconomic Analysis for International",
     "course_descr":"MPA and MIA-Track II Economics Core.\u00a0\nThis course continues the one-year sequence initiated with SIPA IA6400 and focuses on macroeconomics. The goal of this course is to provide students with the analytical framework to examine and interpret observed economic events in the global economy. The causal relationships between macroeconomic aggregates is based upon microeconomic principles. The subject matter always refers to concrete situations with a particular focus on the causes and effects of the current global financial crisis. The controversial nature of macroeconomic policies is central.",
     "instructor":"Sigridur Benediktsdottir",
-    "scheduled_time_start":"1:10pm",
-    "scheduled_time_end":"3:00pm",
+    "scheduled_time_start":"1:15pm",
+    "scheduled_time_end":"2:45pm",
     "call_number":"10631",
     "campus":null,
     "class_id":"U6401-20271-002",
@@ -133076,8 +133365,8 @@
     "course_title":"Macroeconomic Analysis for International",
     "course_descr":"MPA and MIA-Track II Economics Core.\u00a0\nThis course continues the one-year sequence initiated with SIPA IA6400 and focuses on macroeconomics. The goal of this course is to provide students with the analytical framework to examine and interpret observed economic events in the global economy. The causal relationships between macroeconomic aggregates is based upon microeconomic principles. The subject matter always refers to concrete situations with a particular focus on the causes and effects of the current global financial crisis. The controversial nature of macroeconomic policies is central.",
     "instructor":"Andrea Bubula",
-    "scheduled_time_start":"1:10pm",
-    "scheduled_time_end":"5:00pm",
+    "scheduled_time_start":"1:15pm",
+    "scheduled_time_end":"2:45pm",
     "call_number":"10633",
     "campus":null,
     "class_id":"U6401-20271-004",
@@ -133103,8 +133392,8 @@
     "course_title":"Macroeconomic Analysis for International",
     "course_descr":"MPA and MIA-Track II Economics Core.\u00a0\nThis course continues the one-year sequence initiated with SIPA IA6400 and focuses on macroeconomics. The goal of this course is to provide students with the analytical framework to examine and interpret observed economic events in the global economy. The causal relationships between macroeconomic aggregates is based upon microeconomic principles. The subject matter always refers to concrete situations with a particular focus on the causes and effects of the current global financial crisis. The controversial nature of macroeconomic policies is central.",
     "instructor":"Andrea Bubula",
-    "scheduled_time_start":"3:10pm",
-    "scheduled_time_end":"5:00pm",
+    "scheduled_time_start":"3:15pm",
+    "scheduled_time_end":"4:45pm",
     "call_number":"11061",
     "campus":null,
     "class_id":"U6401-20271-005",
@@ -133989,9 +134278,9 @@
     "course_code":"SIPA IA6800",
     "course_title":"Ethics in Public Policy",
     "course_descr":"MIA & MPA Ethics Core.\u00a0\nThis course investigates how ethical considerations shape, complicate, and often introduce dilemmas into the work of policymaking. It asks what justice, democracy, and responsibility demand in concrete policy contexts\u2014should political leaders prioritize stability or accountability in post-conflict settings? Should elected officials follow their moral convictions even when doing so goes against the preferences of their constituents? Should public servants uphold the law when it conflicts with their moral principles? When is it right to work within flawed systems to achieve change, and when is it better to act from the outside? Through a mix of theoretical readings and case studies, students will learn to balance political, institutional, and ethical considerations, develop arguments for their moral choices, and advocate effectively for their policy decisions. The course is designed to cultivate reflective practitioners who can identify moral dilemmas in public policy, weigh competing values, and articulate their ethical positions in ways that are both critical and constructive.",
-    "instructor":null,
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "instructor":"Xavier Flory",
+    "scheduled_time_start":"5:10pm",
+    "scheduled_time_end":"7:00pm",
     "call_number":"10589",
     "campus":null,
     "class_id":"U6800-20271-001",
@@ -134008,7 +134297,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"R",
     "section_key":"20271SIPA6800U001",
     "type":"LECTURE"
   },
@@ -134016,9 +134305,9 @@
     "course_code":"SIPA IA6800",
     "course_title":"Ethics in Public Policy",
     "course_descr":"MIA & MPA Ethics Core.\u00a0\nThis course investigates how ethical considerations shape, complicate, and often introduce dilemmas into the work of policymaking. It asks what justice, democracy, and responsibility demand in concrete policy contexts\u2014should political leaders prioritize stability or accountability in post-conflict settings? Should elected officials follow their moral convictions even when doing so goes against the preferences of their constituents? Should public servants uphold the law when it conflicts with their moral principles? When is it right to work within flawed systems to achieve change, and when is it better to act from the outside? Through a mix of theoretical readings and case studies, students will learn to balance political, institutional, and ethical considerations, develop arguments for their moral choices, and advocate effectively for their policy decisions. The course is designed to cultivate reflective practitioners who can identify moral dilemmas in public policy, weigh competing values, and articulate their ethical positions in ways that are both critical and constructive.",
-    "instructor":null,
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "instructor":"Xavier Flory",
+    "scheduled_time_start":"5:10pm",
+    "scheduled_time_end":"7:00pm",
     "call_number":"10590",
     "campus":null,
     "class_id":"U6800-20271-002",
@@ -134035,7 +134324,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"R",
     "section_key":"20271SIPA6800U002",
     "type":"LECTURE"
   },
@@ -134043,9 +134332,9 @@
     "course_code":"SIPA IA6800",
     "course_title":"Ethics in Public Policy",
     "course_descr":"MIA & MPA Ethics Core.\u00a0\nThis course investigates how ethical considerations shape, complicate, and often introduce dilemmas into the work of policymaking. It asks what justice, democracy, and responsibility demand in concrete policy contexts\u2014should political leaders prioritize stability or accountability in post-conflict settings? Should elected officials follow their moral convictions even when doing so goes against the preferences of their constituents? Should public servants uphold the law when it conflicts with their moral principles? When is it right to work within flawed systems to achieve change, and when is it better to act from the outside? Through a mix of theoretical readings and case studies, students will learn to balance political, institutional, and ethical considerations, develop arguments for their moral choices, and advocate effectively for their policy decisions. The course is designed to cultivate reflective practitioners who can identify moral dilemmas in public policy, weigh competing values, and articulate their ethical positions in ways that are both critical and constructive.",
-    "instructor":null,
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "instructor":"Xavier Flory",
+    "scheduled_time_start":"10:00am",
+    "scheduled_time_end":"11:50am",
     "call_number":"10591",
     "campus":null,
     "class_id":"U6800-20271-003",
@@ -134062,7 +134351,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"F",
     "section_key":"20271SIPA6800U003",
     "type":"LECTURE"
   },
@@ -134287,8 +134576,8 @@
     "course_title":"Capstone Workshop",
     "course_descr":"Prerequisite: Course Application. \nA Capstone Workshop\u00a0is a live consulting project with an external client outside of SIPA. Each workshop\u00a0partners a team of about 6 graduate students\u00a0with a faculty advisor.\u00a0The goal is to provide clients with innovative analysis and practical recommendations while SIPA students gain experience by working on a real-world problem.\u00a0A core requirement for the\u00a0Master of International Affairs (MIA),\u00a0Master of Public Administration (MPA), the workshops give students an opportunity to put learning into practice. Serving as their culminating educational experience at SIPA, students work in teams of 6-8 students under the guidance of an expert faculty advisor to work on a real-world consultancy project with an external client.\u00a0For more information, visit: \nhttps:\/\/www.sipa.columbia.edu\/sipa-education\/capstone-workshops.",
     "instructor":"Daniel J Waldman",
-    "scheduled_time_start":"5:10pm",
-    "scheduled_time_end":"7:00pm",
+    "scheduled_time_start":"7:10pm",
+    "scheduled_time_end":"9:00pm",
     "call_number":"10330",
     "campus":null,
     "class_id":"U9000-20271-007",
@@ -134881,8 +135170,8 @@
     "course_title":"Capstone Workshop",
     "course_descr":"Prerequisite: Course Application. \nA Capstone Workshop\u00a0is a live consulting project with an external client outside of SIPA. Each workshop\u00a0partners a team of about 6 graduate students\u00a0with a faculty advisor.\u00a0The goal is to provide clients with innovative analysis and practical recommendations while SIPA students gain experience by working on a real-world problem.\u00a0A core requirement for the\u00a0Master of International Affairs (MIA),\u00a0Master of Public Administration (MPA), the workshops give students an opportunity to put learning into practice. Serving as their culminating educational experience at SIPA, students work in teams of 6-8 students under the guidance of an expert faculty advisor to work on a real-world consultancy project with an external client.\u00a0For more information, visit: \nhttps:\/\/www.sipa.columbia.edu\/sipa-education\/capstone-workshops.",
     "instructor":null,
-    "scheduled_time_start":"3:10pm",
-    "scheduled_time_end":"5:00pm",
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"3:00pm",
     "call_number":"10505",
     "campus":null,
     "class_id":"U9000-20271-029",
