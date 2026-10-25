@@ -10906,8 +10906,8 @@
     "course_title":"METHODS IN SPATIAL RESEARCH",
     "course_descr":null,
     "instructor":null,
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"11:00am",
     "call_number":"15637",
     "campus":null,
     "class_id":"A4407-20271-001",
@@ -10915,14 +10915,14 @@
     "department":"Architecture, Planning and Preservation",
     "department_code":"ARCH",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ARCH\/A4407-20271-001\/",
-    "location":null,
+    "location":"300 S Buell Hall",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"1.5",
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"F",
     "section_key":"20271ARCH4407A001",
     "type":"LECTURE"
   },
@@ -11143,6 +11143,33 @@
     "type":"SEMINAR"
   },
   {
+    "course_code":"ARCH A4839",
+    "course_title":"BUILDING CONDITIONS ASSESSMENT",
+    "course_descr":null,
+    "instructor":"Kyle C Normandin",
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"11:00am",
+    "call_number":"15704",
+    "campus":null,
+    "class_id":"A4839-20271-001",
+    "course_subtitle":"BUILDING CONDITIONS ASSES",
+    "department":"Architecture, Planning and Preservation",
+    "department_code":"ARCH",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ARCH\/A4839-20271-001\/",
+    "location":"655 Schermerhorn Hall [SCH]",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture"
+    ],
+    "points":"1.5",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20271ARCH4839A001",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"ARCH A4845",
     "course_title":"GENERATIVE DESIGN",
     "course_descr":null,
@@ -11303,6 +11330,33 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"ARCH A4980",
+    "course_title":"VIRTUAL ARCHITECTURE",
+    "course_descr":null,
+    "instructor":"Nitzan Bartov",
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"11:00am",
+    "call_number":"15703",
+    "campus":null,
+    "class_id":"A4980-20271-001",
+    "course_subtitle":null,
+    "department":"Architecture, Planning and Preservation",
+    "department_code":"ARCH",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ARCH\/A4980-20271-001\/",
+    "location":"600 Avery Hall",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture"
+    ],
+    "points":"1.5",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20271ARCH4980A001",
+    "type":"SEMINAR"
+  },
+  {
     "course_code":"ARCH A4996",
     "course_title":"PHYSICAL COMPUTATION",
     "course_descr":null,
@@ -11409,6 +11463,33 @@
     "scheduled_days":"W",
     "section_key":"20271ARCH6451A001",
     "type":"SEMINAR"
+  },
+  {
+    "course_code":"ARCH A6510",
+    "course_title":"NEIGHBORHOOD PRES + ZONING",
+    "course_descr":null,
+    "instructor":"Carol A Clark",
+    "scheduled_time_start":"11:00am",
+    "scheduled_time_end":"1:00pm",
+    "call_number":"15705",
+    "campus":null,
+    "class_id":"A6510-20271-001",
+    "course_subtitle":"NEIGHBORHOOD PRES + ZONIN",
+    "department":"Architecture, Planning and Preservation",
+    "department_code":"ARCH",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ARCH\/A6510-20271-001\/",
+    "location":"505 Avery Hall",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture"
+    ],
+    "points":"1.5",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20271ARCH6510A001",
+    "type":"LECTURE"
   },
   {
     "course_code":"ARCH A6688",
