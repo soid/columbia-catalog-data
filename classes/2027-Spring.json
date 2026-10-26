@@ -10927,33 +10927,6 @@
     "type":"LECTURE"
   },
   {
-    "course_code":"ARCH A4427",
-    "course_title":"ARCH APROPOS ART",
-    "course_descr":null,
-    "instructor":null,
-    "scheduled_time_start":"11:00am",
-    "scheduled_time_end":"1:00pm",
-    "call_number":"15598",
-    "campus":null,
-    "class_id":"A4427-20271-001",
-    "course_subtitle":null,
-    "department":"Architecture, Planning and Preservation",
-    "department_code":"ARCH",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ARCH\/A4427-20271-001\/",
-    "location":"600 Avery Hall",
-    "method_of_instruction":"In-Person",
-    "open_to":[
-      "Architecture"
-    ],
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"R",
-    "section_key":"20271ARCH4427A001",
-    "type":"SEMINAR"
-  },
-  {
     "course_code":"ARCH A4432",
     "course_title":"NERVOUS SYSTEMS",
     "course_descr":null,
@@ -11327,6 +11300,33 @@
     ],
     "scheduled_days":"T",
     "section_key":"20271ARCH4894A001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ARCH A4945",
+    "course_title":"PLAY",
+    "course_descr":null,
+    "instructor":"Catherine Griffiths",
+    "scheduled_time_start":"11:00am",
+    "scheduled_time_end":"1:00pm",
+    "call_number":"15730",
+    "campus":null,
+    "class_id":"A4945-20271-001",
+    "course_subtitle":null,
+    "department":"Architecture, Planning and Preservation",
+    "department_code":"ARCH",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ARCH\/A4945-20271-001\/",
+    "location":"115 Avery Hall",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20271ARCH4945A001",
     "type":"LECTURE"
   },
   {
@@ -53664,7 +53664,8 @@
     "location":null,
     "method_of_instruction":null,
     "open_to":[
-      "Columbia College"
+      "Columbia College",
+      "General Studies"
     ],
     "points":"3",
     "prerequisites":[
@@ -72109,7 +72110,7 @@
   {
     "course_code":"FINC B8376",
     "course_title":"Distressed Value Investing",
-    "course_descr":null,
+    "course_descr":"The goal of Distressed Value Investing is to provide students with broad-based exposure to what is one of the most complex and intellectually stimulating areas of the market. The class will introduce distressed investing broadly, touching on many different styles of investing in distressed companies and securities. The class also emphasizes hands-on distressed analysis, teaching students to interpret and learn from dynamic real-life situations. To facilitate this learning process, the class includes the insights of many guest speakers.",
     "instructor":"Daniel E Krueger",
     "scheduled_time_start":"6:00pm",
     "scheduled_time_end":"9:15pm",
@@ -72123,7 +72124,8 @@
     "location":"820 Kravis Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Business"
+      "Business",
+      "Journalism"
     ],
     "points":"3",
     "prerequisites":[
@@ -92049,8 +92051,8 @@
     "course_title":"Foreign Exchange Markets Theory and Prac",
     "course_descr":"This course provides an in-depth examination of the foreign exchange (FX) market\u2014the largest and most liquid financial market in the world. Students will explore the structure of the FX market, key market participants, and trading conventions. Through a combination of theory, practical tools, and analysis of current market developments, the course offers insights into how currencies are traded, valued, and influenced by macroeconomic policy and geopolitical trends.\n  \nTopics include currency movements and valuation, FX market structure, trading practices, U.S. dollar dominance, FX intervention by central banks, and reserve management strategies. Guest speakers from both the public and private sectors will provide professional perspectives, and students will engage in topical discussions linking theory to real-world events.",
     "instructor":null,
-    "scheduled_time_start":"7:10pm",
-    "scheduled_time_end":"9:00pm",
+    "scheduled_time_start":"5:10pm",
+    "scheduled_time_end":"7:00pm",
     "call_number":"10278",
     "campus":null,
     "class_id":"U7400-20271-001",
@@ -93948,7 +93950,7 @@
     "course_code":"ISDI IA7502",
     "course_title":"Foundations of Cyber Conflict",
     "course_descr":"This course explores the strategic, policy, and institutional dimensions of cyber conflict. It focuses on the national security implications of cyber threats and responses, rather than the technical mechanics of cyberspace. Students will examine how cyber operations unfold at both tactical and strategic levels, assess the comparison of cyber power to other domains of conflict, and trace the development of U.S. cyber policy and organizational structures. There are no prerequisites, though students without prior exposure to cybersecurity are encouraged to complete the assigned foundational readings before the first class or take a 1.5-credit introductory course.",
-    "instructor":"Jason Healey",
+    "instructor":null,
     "scheduled_time_start":"5:10pm",
     "scheduled_time_end":"7:00pm",
     "call_number":"10303",
@@ -126979,7 +126981,7 @@
         "PSYC BC2156"
       ]
     ],
-    "scheduled_days":"T",
+    "scheduled_days":"M",
     "section_key":"20271PSYC2155X001",
     "type":"LABORATORY"
   },
@@ -126988,8 +126990,8 @@
     "course_title":"CLINICAL LABORATORY",
     "course_descr":"Prerequisites: BC1001, BC1020, BC1101. Corequisite: PSYC BC2156 Clinical Psychology lecture. The purpose of the lab is to teach students the research methods involved in creating clinical psychological science. Students gain hands-on practice with clinical psychology research methods. In the first half of the lab students conduct classroom exercises demonstrating concepts such as reliability and validity and research methodologies such as randomized controlled trials (RCTs) and treatment fidelity. In the second half of the class students design and run a research study. Basic methodological issues will be explored in depth, including research ethics, conducting literature reviews and writing up a scientific report in APA style.",
     "instructor":null,
-    "scheduled_time_start":"9:10am",
-    "scheduled_time_end":"12:00pm",
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"4:00pm",
     "call_number":"00652",
     "campus":null,
     "class_id":"X2155-20271-002",
@@ -127013,7 +127015,7 @@
         "PSYC BC2156"
       ]
     ],
-    "scheduled_days":"R",
+    "scheduled_days":"M",
     "section_key":"20271PSYC2155X002",
     "type":"LABORATORY"
   },
@@ -134515,7 +134517,7 @@
   {
     "course_code":"RSRH L0001",
     "course_title":"RESEARCH-LAW FULL-TIME STATUS",
-    "course_descr":null,
+    "course_descr":".",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
