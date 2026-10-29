@@ -1541,7 +1541,7 @@
     "department":"Art History @Barnard",
     "department_code":"AHIS",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/AHIS\/X1002-20271-001\/",
-    "location":null,
+    "location":"LL003 Barnard Hall",
     "method_of_instruction":null,
     "open_to":null,
     "points":"4",
@@ -2895,7 +2895,7 @@
     "department":"American Studies @Barnard",
     "department_code":"AMST",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/AMST\/X1001-20271-001\/",
-    "location":null,
+    "location":"418 Barnard Hall",
     "method_of_instruction":null,
     "open_to":null,
     "points":"4",
@@ -3534,7 +3534,7 @@
     "department":"Anthropology @Barnard",
     "department_code":"ANTH",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ANTH\/X3999-20271-001\/",
-    "location":null,
+    "location":"304 Barnard Hall",
     "method_of_instruction":null,
     "open_to":null,
     "points":"1-4",
@@ -12589,7 +12589,7 @@
     "department":"Architecture @Barnard",
     "department_code":"ARCH",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ARCH\/W3117-20271-001\/",
-    "location":null,
+    "location":"504 Diana Center",
     "method_of_instruction":null,
     "open_to":null,
     "points":"4",
@@ -14167,7 +14167,7 @@
     "department":"Biological Sciences @Barnard",
     "department_code":"BIOL",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/BIOL\/X1001-20271-001\/",
-    "location":null,
+    "location":"LL107 R&D SCIENCE",
     "method_of_instruction":null,
     "open_to":null,
     "points":"3",
@@ -14192,7 +14192,7 @@
     "department":"Biological Sciences @Barnard",
     "department_code":"BIOL",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/BIOL\/X1502-20271-001\/",
-    "location":null,
+    "location":"418 Barnard Hall",
     "method_of_instruction":null,
     "open_to":null,
     "points":"3",
@@ -14217,7 +14217,7 @@
     "department":"Biological Sciences @Barnard",
     "department_code":"BIOL",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/BIOL\/X1502-20271-002\/",
-    "location":null,
+    "location":"LL104 R&D SCIENCE",
     "method_of_instruction":null,
     "open_to":null,
     "points":"3",
@@ -15018,7 +15018,7 @@
     "department":"Biological Sciences @Barnard",
     "department_code":"BIOL",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/BIOL\/X3320-20271-001\/",
-    "location":null,
+    "location":"203 Diana Center",
     "method_of_instruction":null,
     "open_to":null,
     "points":"3",
@@ -47187,7 +47187,7 @@
     "department":"Asian and Middle East @Barnard",
     "department_code":"EAAS",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/EAAS\/V2844-20271-001\/",
-    "location":null,
+    "location":"207 Milbank Hall (Barnard)",
     "method_of_instruction":null,
     "open_to":null,
     "points":"4",
@@ -125582,7 +125582,7 @@
   {
     "course_code":"POPF P8602",
     "course_title":"Seminar: Public Health Program Planning",
-    "course_descr":"REVIEW",
+    "course_descr":"Required breakout for P8601 Public Health Program Planning. Applies concepts learned in P8601 through small group interactions. All sections cover the same content.",
     "instructor":null,
     "scheduled_time_start":"10:00am",
     "scheduled_time_end":"11:20am",
@@ -125601,7 +125601,12 @@
     ],
     "points":"0",
     "prerequisites":[
-
+      [
+        "P8601"
+      ],
+      [
+        "P8601"
+      ]
     ],
     "scheduled_days":"F",
     "section_key":"20271POPF8602P001",
@@ -125610,7 +125615,7 @@
   {
     "course_code":"POPF P8602",
     "course_title":"Seminar: Public Health Program Planning",
-    "course_descr":"REVIEW",
+    "course_descr":"Required breakout for P8601 Public Health Program Planning. Applies concepts learned in P8601 through small group interactions. All sections cover the same content.",
     "instructor":null,
     "scheduled_time_start":"10:00am",
     "scheduled_time_end":"11:20am",
@@ -125629,7 +125634,12 @@
     ],
     "points":"0",
     "prerequisites":[
-
+      [
+        "P8601"
+      ],
+      [
+        "P8601"
+      ]
     ],
     "scheduled_days":"F",
     "section_key":"20271POPF8602P002",
@@ -125638,7 +125648,7 @@
   {
     "course_code":"POPF P8602",
     "course_title":"Seminar: Public Health Program Planning",
-    "course_descr":"REVIEW",
+    "course_descr":"Required breakout for P8601 Public Health Program Planning. Applies concepts learned in P8601 through small group interactions. All sections cover the same content.",
     "instructor":null,
     "scheduled_time_start":"10:00am",
     "scheduled_time_end":"11:20am",
@@ -125657,7 +125667,12 @@
     ],
     "points":"0",
     "prerequisites":[
-
+      [
+        "P8601"
+      ],
+      [
+        "P8601"
+      ]
     ],
     "scheduled_days":"F",
     "section_key":"20271POPF8602P003",
@@ -125666,7 +125681,7 @@
   {
     "course_code":"POPF P8602",
     "course_title":"Seminar: Public Health Program Planning",
-    "course_descr":"REVIEW",
+    "course_descr":"Required breakout for P8601 Public Health Program Planning. Applies concepts learned in P8601 through small group interactions. All sections cover the same content.",
     "instructor":null,
     "scheduled_time_start":"10:00am",
     "scheduled_time_end":"11:20am",
@@ -125685,7 +125700,12 @@
     ],
     "points":"0",
     "prerequisites":[
-
+      [
+        "P8601"
+      ],
+      [
+        "P8601"
+      ]
     ],
     "scheduled_days":"F",
     "section_key":"20271POPF8602P004",
@@ -125694,7 +125714,7 @@
   {
     "course_code":"POPF P8602",
     "course_title":"Seminar: Public Health Program Planning",
-    "course_descr":"REVIEW",
+    "course_descr":"Required breakout for P8601 Public Health Program Planning. Applies concepts learned in P8601 through small group interactions. All sections cover the same content.",
     "instructor":null,
     "scheduled_time_start":"10:00am",
     "scheduled_time_end":"11:20am",
@@ -125713,7 +125733,12 @@
     ],
     "points":"0",
     "prerequisites":[
-
+      [
+        "P8601"
+      ],
+      [
+        "P8601"
+      ]
     ],
     "scheduled_days":"F",
     "section_key":"20271POPF8602P005",
@@ -125967,7 +125992,7 @@
     "course_code":"POPF P8628",
     "course_title":"Evidence to Action in Child Health",
     "course_descr":"This course is designed to provide students with an overview of key child health problems and programmatic solutions based on the evidence. By studying examples of significant child health problems and solutions in a range of populations in the United States and internationally, students will learn how to define and assess a child health problem and become familiar with public health intervention strategies and their potential impact. In addition, students will gain an understanding of how social and environmental conditions contribute to morbidity and mortality, as well as individual risk within a population and health disparities across populations. The format combines lectures and discussion with team-based learning. Assignments include readings (available on Canvas) to provide background for each session, and team-based exercises and presentations.",
-    "instructor":null,
+    "instructor":"Shari Esquenazi-Karonika",
     "scheduled_time_start":"8:30am",
     "scheduled_time_end":"11:20am",
     "call_number":"15277",
@@ -126107,7 +126132,7 @@
     "course_code":"POPF P8656",
     "course_title":"Immigrant Health",
     "course_descr":"Migration is a complex social phenomenon which deeply affects human life. Immigrants face difficulties adjusting to destination environments and are potentially exposed to adverse policies and experiences such as discriminations and stigma, affecting their well-being, regardless of reasons for migration. Understanding migration and its impact on health is important for disease prevention, preserving the health and rights of migrants and assuring the well-being of the communities of which they are a part of. This course will identify and analyze the economic, institutional, socio-political and cultural factors affecting the health and well-being of immigrants in the US. It will assess past and existing policies and programs to ascertain the extent to which they respond(ed) to the needs of the populations. This course will look at existing health disparities among immigrant populations. Students will explore structural factors affecting the health of immigrants and the existing health disparities. Students think critically about programs and policies that address important health disparities in the context of immigration issues.",
-    "instructor":null,
+    "instructor":"Chioma Nnaji",
     "scheduled_time_start":"4:00pm",
     "scheduled_time_end":"6:50pm",
     "call_number":"15282",
