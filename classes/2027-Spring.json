@@ -3550,8 +3550,8 @@
     "course_title":"INDIVIDUAL PROJECTS",
     "course_descr":"Research projects and internships are planned in consultation with members of the department and work is supervised by the major\u2019s adviser.",
     "instructor":null,
-    "scheduled_time_start":"2:10pm",
-    "scheduled_time_end":"4:00pm",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
     "call_number":"01071",
     "campus":null,
     "class_id":"X3999-20271-002",
@@ -3566,7 +3566,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":"T",
+    "scheduled_days":null,
     "section_key":"20271ANTH3999X002",
     "type":"INDEPENDENT"
   },
@@ -5480,6 +5480,31 @@
     ],
     "scheduled_days":"W",
     "section_key":"20271ANTH9999G001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"ANTH GU4857",
+    "course_title":"Empire & Information",
+    "course_descr":null,
+    "instructor":"Brian Larkin",
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"01107",
+    "campus":null,
+    "class_id":"W4857-20271-001",
+    "course_subtitle":null,
+    "department":"Anthropology @Barnard",
+    "department_code":"ANTH",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ANTH\/W4857-20271-001\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20271ANTH4857W001",
     "type":"SEMINAR"
   },
   {
@@ -21280,8 +21305,8 @@
     "course_title":"Markets and the Economy",
     "course_descr":null,
     "instructor":"Jesse Schreger",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"12:30pm",
+    "scheduled_time_end":"3:30pm",
     "call_number":"15498",
     "campus":null,
     "class_id":"B5008-20271-003",
@@ -21289,7 +21314,7 @@
     "department":"Business Economics",
     "department_code":"BUEC",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/BUEC\/B5008-20271-003\/",
-    "location":null,
+    "location":"690 Kravis Hall, Friday Sunday 12:30pm-3:30pm, Saturday 8:30am-11:30am, Saturday 3:45pm-6:45pm 690 Kravis Hall, Saturday 8:30am-11:30am 690 Kravis Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Business"
@@ -21298,7 +21323,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"S",
     "section_key":"20271BUEC5008B003",
     "type":"LECTURE"
   },
@@ -21307,8 +21332,8 @@
     "course_title":"Markets and the Economy",
     "course_descr":null,
     "instructor":"Kristina Manysheva",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"12:45pm",
+    "scheduled_time_end":"3:45pm",
     "call_number":"15499",
     "campus":null,
     "class_id":"B5008-20271-001",
@@ -21316,7 +21341,7 @@
     "department":"Business Economics",
     "department_code":"BUEC",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/BUEC\/B5008-20271-001\/",
-    "location":null,
+    "location":"590 GEFFEN HALL, Monday 3:45pm-6:45pm, Thursday Friday 12:45pm-3:45pm, Friday Saturday 8:30am-11:30am 590 GEFFEN HALL",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Business"
@@ -21325,7 +21350,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"F",
     "section_key":"20271BUEC5008B001",
     "type":"LECTURE"
   },
@@ -21334,8 +21359,8 @@
     "course_title":"Global Economic Environment",
     "course_descr":null,
     "instructor":"Conor Walsh",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"3:45pm",
+    "scheduled_time_end":"6:45pm",
     "call_number":"15489",
     "campus":null,
     "class_id":"B5201-20271-003",
@@ -21343,7 +21368,7 @@
     "department":"Business Economics",
     "department_code":"BUEC",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/BUEC\/B5201-20271-003\/",
-    "location":null,
+    "location":"690 Kravis Hall, Saturday 12:30pm-3:30pm 690 Kravis Hall, Saturday 8:30am-11:30am 690 Kravis Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Business"
@@ -21352,7 +21377,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"S",
     "section_key":"20271BUEC5201B003",
     "type":"LECTURE"
   },
@@ -21388,8 +21413,8 @@
     "course_title":"Global Economic Environment",
     "course_descr":null,
     "instructor":"Kristina Manysheva",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"8:30am",
+    "scheduled_time_end":"11:30am",
     "call_number":"15491",
     "campus":null,
     "class_id":"B5201-20271-001",
@@ -21397,7 +21422,7 @@
     "department":"Business Economics",
     "department_code":"BUEC",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/BUEC\/B5201-20271-001\/",
-    "location":null,
+    "location":"590 GEFFEN HALL, Saturday 4:00pm-7:00pm 590 GEFFEN HALL, Friday 12:45pm-3:45pm 590 GEFFEN HALL",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Business"
@@ -21406,7 +21431,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"FS",
     "section_key":"20271BUEC5201B001",
     "type":"LECTURE"
   },
@@ -39223,7 +39248,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":"TR",
+    "scheduled_days":"MW",
     "section_key":"20271COMS1016X001",
     "type":"LECTURE"
   },
@@ -39265,7 +39290,7 @@
         "COMS W4160"
       ]
     ],
-    "scheduled_days":"TR",
+    "scheduled_days":"MW",
     "section_key":"20271COMS3160X001",
     "type":"LECTURE"
   },
@@ -39274,8 +39299,8 @@
     "course_title":"DISCRETE MATHEMATICS",
     "course_descr":"The study of discrete mathematics provides an important foundation for basic\n theoretical principles in computer science. We first build a strong foundation in\n logic, formal proofs, and mathematical induction. We then examine the discrete\n structure of functions, relations, and graphs, which provide different ways of\n representing relationships, connections, and networks. Finally, we move onto\n numerical and computational aspects: number theory and modular arithmetic,\n counting and combinatorics, and discrete probability.\u00a0 There are no prerequisites\n beyond high school mathematics.",
     "instructor":"Eysa Lee",
-    "scheduled_time_start":"11:40am",
-    "scheduled_time_end":"12:55pm",
+    "scheduled_time_start":"2:40pm",
+    "scheduled_time_end":"3:55pm",
     "call_number":"01029",
     "campus":null,
     "class_id":"X3213-20271-001",
@@ -39315,7 +39340,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":"TR",
+    "scheduled_days":"MW",
     "section_key":"20271COMS3411X001",
     "type":"SEMINAR"
   },
@@ -43902,8 +43927,8 @@
     "course_title":"Business Analytics and Artificial Intell",
     "course_descr":null,
     "instructor":"Thomas Vladeck",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"8:30am",
+    "scheduled_time_end":"11:30am",
     "call_number":"15495",
     "campus":null,
     "class_id":"B5101-20271-001",
@@ -43911,7 +43936,7 @@
     "department":"Decision, Risk and Operations",
     "department_code":"DROM",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/DROM\/B5101-20271-001\/",
-    "location":null,
+    "location":"590 GEFFEN HALL, Tuesday 4:00pm-7:00pm, Wednesday 12:45pm-3:45pm, Thursday Friday 8:30am-11:30am, Saturday 12:45pm-3:45pm 590 GEFFEN HALL",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Business"
@@ -43920,7 +43945,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"F",
     "section_key":"20271DROM5101B001",
     "type":"LECTURE"
   },
@@ -43929,8 +43954,8 @@
     "course_title":"Business Analytics and Artificial Intell",
     "course_descr":null,
     "instructor":"Benjamin J Tubiana",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"3:45pm",
+    "scheduled_time_end":"6:45pm",
     "call_number":"15496",
     "campus":null,
     "class_id":"B5101-20271-003",
@@ -43938,7 +43963,7 @@
     "department":"Decision, Risk and Operations",
     "department_code":"DROM",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/DROM\/B5101-20271-003\/",
-    "location":null,
+    "location":"690 Kravis Hall, Saturday 8:30am-11:30am 690 Kravis Hall, Saturday 12:30pm-3:30pm, Sunday 8:30am-11:30am, Saturday 12:30pm-3:30pm 690 Kravis Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Business"
@@ -43947,7 +43972,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"S",
     "section_key":"20271DROM5101B003",
     "type":"LECTURE"
   },
@@ -43956,8 +43981,8 @@
     "course_title":"Operations Management",
     "course_descr":null,
     "instructor":"Hongyao Ma",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"4:00pm",
+    "scheduled_time_end":"7:00pm",
     "call_number":"15492",
     "campus":null,
     "class_id":"B5102-20271-001",
@@ -43965,7 +43990,7 @@
     "department":"Decision, Risk and Operations",
     "department_code":"DROM",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/DROM\/B5102-20271-001\/",
-    "location":null,
+    "location":"590 GEFFEN HALL, Friday Saturday 8:30am-11:30am 590 GEFFEN HALL, Saturday 12:45pm-3:45pm 590 GEFFEN HALL",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Business"
@@ -43974,7 +43999,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"S",
     "section_key":"20271DROM5102B001",
     "type":"LECTURE"
   },
@@ -43983,8 +44008,8 @@
     "course_title":"Operations Management",
     "course_descr":null,
     "instructor":"Hongyao Ma",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"12:30pm",
+    "scheduled_time_end":"3:30pm",
     "call_number":"15493",
     "campus":null,
     "class_id":"B5102-20271-003",
@@ -43992,7 +44017,7 @@
     "department":"Decision, Risk and Operations",
     "department_code":"DROM",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/DROM\/B5102-20271-003\/",
-    "location":null,
+    "location":"690 Kravis Hall, Saturday 8:30am-11:30am 690 Kravis Hall, Saturday 3:45pm-6:45pm 690 Kravis Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Business"
@@ -44001,7 +44026,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"S",
     "section_key":"20271DROM5102B003",
     "type":"LECTURE"
   },
@@ -48894,8 +48919,8 @@
     "course_title":"INTERMEDIATE MICROECONOMICS",
     "course_descr":"Prerequisites: An introductory course in microeconomics or a combined macro\/micro principles course (ECON BC1003 or ECON W1105, or the equivalent) and one semester of calculus or ECON BC1007, or permission of the instructor. Preferences and demand; production, cost, and supply; behavior of markets in partial equilibrium; resource allocation in general equilibrium; pricing of goods and services under alternative market structures; implications of individual decision-making for labor supply; income distribution, welfare, and public policy. Emphasis on problem solving.",
     "instructor":"John Park",
-    "scheduled_time_start":"10:10am",
-    "scheduled_time_end":"11:25am",
+    "scheduled_time_start":"11:40am",
+    "scheduled_time_end":"12:55pm",
     "call_number":"00756",
     "campus":null,
     "class_id":"X3035-20271-002",
@@ -49029,8 +49054,8 @@
     "course_title":"Introduction to Behavioral Economics",
     "course_descr":"This course reviews the assumption of rationality in microeconomic theory and presents evidence (primarily from experimental psychology and economics) of how judgement and decision-making systematically deviate from what rationality predicts.",
     "instructor":"John Park",
-    "scheduled_time_start":"11:40am",
-    "scheduled_time_end":"12:55pm",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"11:25am",
     "call_number":"00759",
     "campus":null,
     "class_id":"X3048-20271-001",
@@ -49304,8 +49329,8 @@
     "course_title":"Prediction Markets",
     "course_descr":"This course will examine prediction markets, which are platforms on which traders can buy and sell binary options---contracts that pay a fixed amount if a referenced event occurs, and nothing otherwise. It will cover the history and structure of such markets, the interpretation of prices as probabilities, the accuracy of forecasts, the processes that bring prices into alignment across exchanges, the opportunities and incentives for insider trading, spoofing, wash trading, and other manipulative behavior, and the interactions that these platforms facilitate in a polarized society.",
     "instructor":"Rajiv Sethi",
-    "scheduled_time_start":"2:40pm",
-    "scheduled_time_end":"3:55pm",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"7:25pm",
     "call_number":"01095",
     "campus":null,
     "class_id":"X3075-20271-001",
@@ -54913,7 +54938,7 @@
   {
     "course_code":"EESC UN3010",
     "course_title":"FIELD GEOLOGY",
-    "course_descr":"The centerpiece of this course is a geological field trip during Spring Break in Barbados. The class will meet weekly before the trip to prepare for it and after the trip to synthesize what was learned and to create a field guide. Subjects to be covered: plate tectonics, convergent plate margins and accretionary prisms, local Barbados geology; ice ages, Milankovitch cycles, sea level; introduction to coral reefs and fossil coral reef geology; Barbados terrestrial ecology; limestone caves, hydrology; dating methods; overview of Barbados history, economy, culture. In order to observe the modern-day coral reef (the modern day live analog to the fossil coral reefs we will see) the class will go snorkeling. In order to observe the effects of cave formation and water flow in limestone terrains the class will participate in an extensive visit to a cave. The class will also participate in an exercise in geological mapping of a series of coral reef terraces.\n \n Priority: Priority is given to junior and senior majors and concentrators in Earth Science or Environmental Science at Columbia College and the School of General Studies, and Barnard College Environmental Science majors and minors. Others (non-DEES majors and non-Barnard Environmental Science students) may also be allowed to enroll if space permits. All students need permission of the instructor. Students who sign up will be put on a waitlist and will be considered after contacting the instructor.",
+    "course_descr":"The centerpiece of this course is a field trip that will take place during Spring Break. During the term-time the class will meet before the trip to prepare for it and after the trip to synthesize what was learned and to create a field guide.\n  \nPrerequisites:\u00a0EESC 2200 The Solid Earth System or EESC 2100 The Climate System; can be taken concurrently.\u00a0\n  \nEnrollment Restrictions & Priorities: Due to limited number of spaces, enrollment requires the instructor's permission. All students who want to take the course must email the instructors - \nsrh17@columbia.edu\n and \nslg41@columbia.edu\n .\u00a0Priority is given to junior and senior majors and minors in the Department of Earth and Environmental Sciences at Columbia College and the School of General Studies, and Barnard Environmental Science majors and minors. Non-DEES and Barnard Environmental Science students have been able to enroll in the past with the instructor's permission. By necessity (number of van seats) the course is limited to 15 students.",
     "instructor":null,
     "scheduled_time_start":"7:00pm",
     "scheduled_time_end":"8:50pm",
@@ -54933,7 +54958,7 @@
     ],
     "scheduled_days":"T",
     "section_key":"20271EESC3010W001",
-    "type":"FIELD WORK"
+    "type":"DISCUSSION"
   },
   {
     "course_code":"EESC UN3031",
@@ -57564,7 +57589,7 @@
   {
     "course_code":"ENGI E4999",
     "course_title":"Engineering Fieldwork",
-    "course_descr":"Only for Engineering graduate students in the relevant programs who need relevant work experience as part of their program of study. May not be taken for pass\/fail credit or audited.",
+    "course_descr":"Only for Engineering graduate students in the relevant programs who need relevant work experience as part of their program of study. May not be taken for pass\/fail credit or audited.\u00a0International students must also consult with the International Students and Scholars Office.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -57614,7 +57639,7 @@
   {
     "course_code":"ENGI E8000",
     "course_title":"DOCTORAL FIELD WORK",
-    "course_descr":"Fieldwork is integral to the academic preparation\u00a0and professional development of doctoral\u00a0students. This course provides the academic\u00a0framework for fieldwork experience required for\u00a0the student\u2019s program of study. Fieldwork documentation\u00a0and faculty adviser approval is\u00a0 required\u00a0prior to registration. A final written report must\u00a0be submitted. This course will count toward\u00a0 the\u00a0degree program and cannot be taken for pass\/fail credit or audited. With approval from the\u00a0department chair or the doctoral program director,\u00a0doctoral students can register for this course\u00a0at most twice. In rare situations, exceptions may\u00a0be granted by the Dean's Office to register\u00a0 for the\u00a0course more than twice (e.g., doctoral students\u00a0funded by industrial grants who wish to\u00a0 perform\u00a0doctoral fieldwork for their corporate sponsor).\u00a0The doctoral student must be registered for\u00a0 this\u00a0course during the same term as the fieldwork\u00a0experience.",
+    "course_descr":"Fieldwork is integral to the academic preparation\u00a0and professional development of doctoral\u00a0students. This course provides the academic\u00a0framework for fieldwork experience required for\u00a0the student\u2019s program of study. Fieldwork documentation\u00a0and faculty adviser approval is\u00a0 required\u00a0prior to registration. A final written report must\u00a0be submitted. This course will count toward\u00a0 the\u00a0degree program and cannot be taken for pass\/fail credit or audited. With approval from the\u00a0department chair or the doctoral program director,\u00a0doctoral students can register for this course\u00a0at most twice. In rare situations, exceptions may\u00a0be granted by the Dean's Office to register\u00a0 for the\u00a0course more than twice (e.g., doctoral students\u00a0funded by industrial grants who wish to\u00a0 perform\u00a0doctoral fieldwork for their corporate sponsor).\u00a0The doctoral student must be registered for this\u00a0course during the same term as the fieldwork\u00a0experience.\u00a0International students must also consult with the International Students and Scholars Office.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -58571,8 +58596,8 @@
     "course_title":"THE HISTORY OF AMERICAN JOURNALISM OF CO",
     "course_descr":"From Frederick Douglass\u2019s The North Star, which insisted that journalism could be a tool for liberation and collective conscience, to today\u2019s digital-first platforms, American journalism has always been a site of struggle over truth, power, and representation. This course explores the power of journalism to shape public conscience \u2014 from the days when print was the Twitter of its time to the rise of radio, television, and digital media. At its core, this seminar centers the voices of journalists of conscience \u2014 those who speak truth to power, challenge dominant narratives, and reflect the full spectrum of human experience. We will approach journalism through a lens that foregrounds the perspectives of people of color, recognizing how mainstream media has historically erased, distorted, or marginalized their voices while also highlighting the powerful traditions of resistance and self-representation in journalism.\n  \nTo foster meaningful connection and collaboration, students will be split into groups for the semester. These groups will meet in breakout rooms during each class session to workshop ideas, respond to prompts, and sometimes collaborate on short journalistic pieces. The goal is to make a large seminar feel intimate and to encourage peer-to-peer dialogue throughout the course.\n  \n Through weekly readings, in-class discussions, site visits, guest speakers, and multimedia projects, students will examine how journalism has both reflected and resisted dominant narratives across history. Students will also create original work that embodies conscience-based journalism.",
     "instructor":"Maria D Hinojosa",
-    "scheduled_time_start":"11:40am",
-    "scheduled_time_end":"12:55pm",
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"2:25pm",
     "call_number":"00318",
     "campus":null,
     "class_id":"X3609-20271-001",
@@ -70854,8 +70879,8 @@
     "course_title":"Foundations of Valuations",
     "course_descr":"Foundations of valuation is an introductory finance course required for all MBA students. It is designed to cover those areas of finance that are important to all managers, whether they specialize in finance or not. At the end of the course, you will be familiar with the most common financial instruments (stocks, bonds, options) and the methods to value them. More specifically, we will cover the following topics:\n  \n1. General framework for valuation (present value formula)\n 2. Bond and bond valuation (spot rates, yield to maturity, duration, convexity)\n 3. Stocks (stock valuation, dividend growth model)\n 4. Basic concepts of risk and return and the CAPM\n 5. Options (Black-Scholes formula)\n  \nThe course will be a mix of lectures and cases. Students are expected to come prepared to class since the course relies on several in-class exercises students will solve in excel.",
     "instructor":"Andrew Hertzberg",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"12:45pm",
+    "scheduled_time_end":"3:45pm",
     "call_number":"15469",
     "campus":null,
     "class_id":"B5301-20271-001",
@@ -70863,7 +70888,7 @@
     "department":"Finance",
     "department_code":"FINC",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/FINC\/B5301-20271-001\/",
-    "location":null,
+    "location":"590 GEFFEN HALL, Monday 12:45pm-3:45pm, Tuesday 8:30am-11:30am, Wednesday 4:00pm-7:00pm, Friday Saturday 4:00pm-7:00pm 590 GEFFEN HALL",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Business"
@@ -70872,7 +70897,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"S",
     "section_key":"20271FINC5301B001",
     "type":"LECTURE"
   },
@@ -70881,8 +70906,8 @@
     "course_title":"Corporate Finance (Half-Term)",
     "course_descr":"Corporate finance is an introductory course required for all MBA students. It is designed to cover those areas of finance that are important to all managers, whether they specialize in finance or not. At the end of the course, you will be able to value a firm. To reach this goal, the course covers the following topics:\n  \n1. Introduction to frameworks for firm valuation (enterprise DCF and multiples)\n 2. Multiple valuations\n 3. Free cash flows (definition, projections)\n 4. Residual value\n 5. Weighted average cost of capital\n 6. Optimal capital structure\n  \nThe course will consist of approximately one\u2010half lecture and one\u2010half in\u2010class case discussions, for which students should prepare carefully. The course aims to provide students with an understanding of sound theoretical principles of finance and the practical environment in which financial decisions are made.",
     "instructor":"Andrew Hertzberg",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"12:45pm",
+    "scheduled_time_end":"3:45pm",
     "call_number":"15396",
     "campus":null,
     "class_id":"B5302-20271-001",
@@ -70890,7 +70915,7 @@
     "department":"Finance",
     "department_code":"FINC",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/FINC\/B5302-20271-001\/",
-    "location":null,
+    "location":"590 GEFFEN HALL, Friday Saturday 4:00pm-7:00pm 590 GEFFEN HALL",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Business"
@@ -70899,7 +70924,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"S",
     "section_key":"20271FINC5302B001",
     "type":"LECTURE"
   },
@@ -79374,8 +79399,8 @@
     "course_title":"REVOLUTIONARY AMERICA, 1763-1",
     "course_descr":"How did thirteen diverse British colonies become a single boisterous but fragile new nation? Historians still disagree about the causes, motives, and meanings surrounding the founding of the United States of America. Major themes include the role of ideologies, material interests, global contexts, race, gender, and class.",
     "instructor":"Andrew C Lipman",
-    "scheduled_time_start":"2:40pm",
-    "scheduled_time_end":"3:55pm",
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"2:25pm",
     "call_number":"00540",
     "campus":null,
     "class_id":"X2482-20271-001",
@@ -79518,6 +79543,31 @@
     "scheduled_days":"W",
     "section_key":"20271HIST3392X001",
     "type":"RESEARCH SEM"
+  },
+  {
+    "course_code":"HIST BC3508",
+    "course_title":"COLONIAL GOTHAM",
+    "course_descr":null,
+    "instructor":"Andrew C Lipman",
+    "scheduled_time_start":"12:10pm",
+    "scheduled_time_end":"2:00pm",
+    "call_number":"00905",
+    "campus":null,
+    "class_id":"X3508-20271-001",
+    "course_subtitle":null,
+    "department":"History @Barnard",
+    "department_code":"HIST",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/HIST\/X3508-20271-001\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"F",
+    "section_key":"20271HIST3508X001",
+    "type":"SEMINAR"
   },
   {
     "course_code":"HIST BC3910",
@@ -116604,6 +116654,31 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"PHIL GU4654",
+    "course_title":"Philosophy of Artificial Intelligence",
+    "course_descr":null,
+    "instructor":"Christopher P Prodoehl",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"6:00pm",
+    "call_number":"01106",
+    "campus":null,
+    "class_id":"W4654-20271-001",
+    "course_subtitle":"Philosophy of AI",
+    "department":"Philosophy @Barnard",
+    "department_code":"PHIL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PHIL\/W4654-20271-001\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20271PHIL4654W001",
+    "type":"SEMINAR"
+  },
+  {
     "course_code":"PHIL GU4660",
     "course_title":"PHILOSOPHY OF MIND",
     "course_descr":null,
@@ -117167,8 +117242,8 @@
     "course_title":"SUPERVISED INDIVIDUAL RESEARCH",
     "course_descr":"Supervised research usually with the goal of writing a senior thesis, under the direction of individual members of the department.",
     "instructor":null,
-    "scheduled_time_start":"4:10pm",
-    "scheduled_time_end":"6:00pm",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
     "call_number":"01072",
     "campus":null,
     "class_id":"W3997-20271-019",
@@ -117183,7 +117258,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":"W",
+    "scheduled_days":null,
     "section_key":"20271PHIL3997W019",
     "type":"INDEPENDENT"
   },
@@ -124686,8 +124761,8 @@
     "course_title":"DRUGS & POLITICS IN AMERICAS",
     "course_descr":"A major challenge for governments across the Western Hemisphere is the complex relationship between illicit drugs, violence, and politics. We can see this relationship operating at multiple levels, from everyday politics in gang-controlled neighborhoods to the global arenas where governments debate and craft international drug policy. These links also reach back in history to global wars of empire and colonial rule, race relations during and following the collapse of the institution of slavery, and contemporary drug wars being waged across the Western Hemisphere and other parts of the world. Today, the dynamics and consequences of the politics of illicit drugs touch all our lives in different ways, including individual and family struggles with substance abuse, everyday encounters with militarized police, and the strains on democracy and citizenship, among many others. This course will examine some of these dynamics and consequences with a theoretical and empirical focus mainly on Latin America and the United States. Throughout our time together we will connect these pressing issues to broader theories, concepts and empirical findings in political science. The course is divided into several individual modules (denoted below with the headings A \u2013 G) under three overarching themes for this semester:\n  \n\u00a0\n  \n1. Politics of Drugs in a Historical Perspective: \nThe first theme is a broad historical overview of the political origins of illicit drugs and the global drug regime. Some of the main questions we will tackle are: When and why did states label drugs as illicit?\u00a0 How did domestic and global politics come together to shape the global drug regime and the \u201cwar on drugs?\u201d What role did race and gender play in the early social construction of illicit drugs?\n  \n\u00a0\n  \n2. Illicit Drugs, Politics and Governance:\n The second theme focuses on contemporary linkages between illicit drugs, violence, and politics. Here we will examine the conditions under which illicit drug markets are either violent or (relatively) peaceful. We will tackle questions like: Do states always seek to dismantle drug markets? What is the relationship between illicit drugs and electoral politics? What role do illicit drugs play in governance by armed non-state actors?\u00a0 Are states and criminal actors involved in the drug trade always at \u201cwar\u201d with each other?\u00a0\n  \n \n3. Democracy, Citizenship, and the War on Drugs: \nThe th",
     "instructor":"Eduardo Moncada",
-    "scheduled_time_start":"10:10am",
-    "scheduled_time_end":"11:25am",
+    "scheduled_time_start":"11:40am",
+    "scheduled_time_end":"12:55pm",
     "call_number":"00870",
     "campus":null,
     "class_id":"V3565-20271-001",
@@ -127722,8 +127797,8 @@
     "course_title":"Psychopathology",
     "course_descr":"Prerequisites: PSYCBC1001 Introduction to Psychology or its accepted equivalent. . An introduction to the study of abnormal behavior and various psychological disorders such as depression, schizophrenia, anxiety disorders, eating disorders, and personality disorders. The course broadly reviews scientific and cultural perspectives on abnormal behavior with an emphasis on clinical descriptions and diagnosis, etiology, treatment, and research methods.\u00a0The following Columbia University course is considered overlapping and a student cannot receive credit for both the BC course and the equivalent CU course: PSYC\u00a0UN2620 Abnormal Behavior.",
     "instructor":"Michael Wheaton",
-    "scheduled_time_start":"2:40pm",
-    "scheduled_time_end":"3:55pm",
+    "scheduled_time_start":"8:40am",
+    "scheduled_time_end":"9:55am",
     "call_number":"00902",
     "campus":null,
     "class_id":"X2141-20271-001",
@@ -162191,6 +162266,31 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"WMST BC1040",
+    "course_title":"INTERSECTIONAL FEMINISMS",
+    "course_descr":null,
+    "instructor":"Casidy Campbell",
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"01105",
+    "campus":null,
+    "class_id":"X1040-20271-001",
+    "course_subtitle":null,
+    "department":"Women's, Gender, Sexuality Studies @Barnard",
+    "department_code":"WMST",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/WMST\/X1040-20271-001\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20271WMST1040X001",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"WMST BC1050",
     "course_title":"WOMEN AND HEALTH",
     "course_descr":"Combines critical feminist and anti-racist analyses of medicine with current research in epidemiology and biomedicine to understand health and health disparities as co-produced by social systems and biology.",
@@ -162238,31 +162338,6 @@
     ],
     "scheduled_days":"TR",
     "section_key":"20271WMST2140X001",
-    "type":"LECTURE"
-  },
-  {
-    "course_code":"WMST BC2150",
-    "course_title":"INTERSECTIONAL FEMINISMS",
-    "course_descr":"Enrollment for this class is by instructor approval and an application is required. Please fill out the form here:\u00a0\nhttps:\/\/forms.gle\/bPsV7rcf5RWB35PM9\n  \nThis introductory course for\u00a0the\u00a0Interdisciplinary Concentration or Minor in Race and Ethnicity (ICORE\/MORE)\u00a0as well as Majors\/Minors in Women's, Gender, and Sexuality Studies (WGSS)\u00a0is open to all students. We focus on the critical study of social difference as an interdisciplinary practice, using texts with diverse modes of argumentation and evidence to analyze social differences as fundamentally entangled and co-produced. Because of the interdisciplinary nature of this course, the professor will frequently be joined by\u00a0other faculty and guest speakers\u00a0who bring distinct disciplinary and subject matter expertise. Some keywords for this course include hybridity, diaspora, borderlands, migration, and intersectionality.",
-    "instructor":"Casidy Campbell",
-    "scheduled_time_start":"2:10pm",
-    "scheduled_time_end":"4:00pm",
-    "call_number":"00513",
-    "campus":null,
-    "class_id":"X2150-20271-001",
-    "course_subtitle":null,
-    "department":"Women's, Gender, Sexuality Studies @Barnard",
-    "department_code":"WMST",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/WMST\/X2150-20271-001\/",
-    "location":null,
-    "method_of_instruction":null,
-    "open_to":null,
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"W",
-    "section_key":"20271WMST2150X001",
     "type":"LECTURE"
   },
   {
@@ -162420,7 +162495,7 @@
     "course_title":"GENDER AND SEXUALITY IN YIDDISH LITERATU",
     "course_descr":"Early publications in Yiddish, a.k.a. the mame loshn, \u2018mother tongue,\u2019 were addressed to \u201cwomen and men who are like women,\u201d while famous Yiddish writer, Sholem Aleichem, created a myth of \u201cthree founding fathers\u201d of modern Yiddish literature, which eliminated the existence of Yiddish women writers. As these examples indicate, gender has played a significant role in Yiddish literary power dynamics. This course will explore representation of gender and sexuality in modern Yiddish literature and film in works created by Sholem Aleichem, Sholem Asch, Fradl Shtok, Sh. An-sky, Malka Lee, Anna Margolin, Celia Dropkin, Isaac Bashevis Singer, Kadya Molodowsky, Troim Katz Handler, and Irena Klepfisz. You will also acquire skills in academic research and digital presentation of the findings as part of the Mapping Yiddish New York project that is being created at Columbia. No knowledge of Yiddish required.",
     "instructor":"Agnieszka Legutko",
-    "scheduled_time_start":"4:00pm",
+    "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
     "call_number":"00930",
     "campus":null,
