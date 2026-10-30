@@ -33771,7 +33771,7 @@
   {
     "course_code":"CLCV BC3122",
     "course_title":"Classical New York",
-    "course_descr":null,
+    "course_descr":"Since its establishment as a British colony in the 17th century, New York has been infused with various \u201cclassical\u201d elements deriving from ancient Greece and Rome across many of its core features and institutions, including architecture, politics, and theater. This course will use New York City as a laboratory for thinking about the imprint and cultural capital of Greco-Roman antiquity in the modern world. We will examine a range of historical \u201ccase studies\u201d from the 18th century to the present day that will enable us to analyze how the art, literature, and ideas of ancient Greece and Rome have been transported, adapted, and re-imagined in New York City. The course will give equal emphasis to how classical literature has been appropriated by activist and marginalized communities across the city from the twentieth century to the present. By the end of this course the students will be able to describe and analyze the distinctive traces of Greco-Roman antiquity in NYC architecture, art, and literature across a range of periods, while also being able to situate and contextualize these primary sources in their immediate historical and political context. Students will also demonstrate critical understanding of the history and culture of New York and the lives of its inhabitants across these selected periods.",
     "instructor":"Rosa M Andujar",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -54296,7 +54296,7 @@
   {
     "course_code":"EESC BC3801",
     "course_title":"ENVIR SCIENCE SENIOR SEM II",
-    "course_descr":null,
+    "course_descr":"Guided, independent, in-depth research culminating in the senior thesis in the spring. Includes discussion about scientific presentations and posters, data analysis, library research methods and scientific writing. Students review work in progress and share results through oral reports. Weekly seminar to review work in progress and share results through oral and written reports. Prerequisite to EESC W3901.",
     "instructor":null,
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -54312,7 +54312,9 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "EESC W3901"
+      ]
     ],
     "scheduled_days":"R",
     "section_key":"20271EESC3801X004",
@@ -54669,7 +54671,7 @@
   {
     "course_code":"EESC GU4937",
     "course_title":"CENOZOIC PALEOCEANOGRAPHY",
-    "course_descr":"Introduces the physical, chemical and biological processes that govern how and where ocean sediments accumulate. Major topics addressed are: modes of biogenic, terrigenous\u00a0and authigenic sedimentation, depositional environments, pore fluids and sediment geochemistry, diagenesis, as well as biostratigraphy and sediment stratigraphy and methods. Second half of the semester focuses on major events in Cenozoic Paleoceanography and Paleoclimatology, including orbital control of climate, long-term carbon cycle, extreme climate regimes, causes of ice ages in Earth history, and long-term El Ni\u00f1o evolution.\n  \nPrerequisites: EESC\u00a0UN2100\u00a0Earth's Environmental Systems: Climate System or EESC\u00a0UN1030\u00a0Oceanography.",
+    "course_descr":"What can 66 million years of ocean history tell us about ongoing global change? This course bridges marine geology, geochemistry, and climatology to reveal how ocean basins record Earth\u2019s dynamic environment. We begin with the foundational tools of paleoceanography\u2014sediments, stratigraphy, and proxies. Then, we dive into Earth\u2019s most dramatic climate shifts: hyperthermal greenhouse events, the onset of polar glaciation, orbital climate drivers, and long-term carbon cycle evolution. Ideal for advanced students seeking to understand the rate, magnitude, and limits of natural climate variability.\n  \nPrerequisites: EESC\u00a0UN2100\u00a0Earth's Environmental Systems: Climate System, EESC\u00a0UN1030\u00a0Oceanography, EESC UN3031 Chemistry of Climate, EESC UN3109 Climate Physics, or Instructor permission.",
     "instructor":"Baerbel Hoenisch",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -54686,8 +54688,16 @@
     "points":"3",
     "prerequisites":[
       [
-        "UN2100",
+        "EESC UN3031"
+      ],
+      [
+        "EESC UN3109"
+      ],
+      [
         "UN1030"
+      ],
+      [
+        "UN2100"
       ]
     ],
     "scheduled_days":null,
@@ -58644,7 +58654,7 @@
   {
     "course_code":"ENGL BC3589",
     "course_title":"INTRODUCTION TO ASIAN AMERICAN LITERATUR",
-    "course_descr":null,
+    "course_descr":"This course investigates \u201cAsian Americans\u201d and \u201cAsian American literature\u201d as something created thanks to two larger social forces: (1) migration, and its related issues of xenophobia, nationalism, settler violence, imprisonment, and working class struggle; and (2) imperialism, often the driving force that creates the migrant. We\u2019ll adopt a historical emphasis and read a novel, poetry collection, or memoir a week, as well as many primary sources, such as movement journals and little magazines, oral histories, 19th century political cartoons, and Supreme Court cases\u2014which may interest those of you considering law school!\n  \nWe will also read documents from the Chinese exclusion period alongside Maxine Hong Kingston\u2019s \nChina Men \nand the poems written by migrants detained at Angel Island and poems by Mitusye Yamada, who was interned during World War II. We\u2019ll read Carlos Bulosan and Sujatha Gidla\u2019s narratives of proletarian power. And we\u2019ll conclude the class by reading books responding to American wars in Asia: Richard E. Kim\u2019s novel \nThe Martyred\n, Jean Makdisi\u2019s \nBeirut Fragments\n, and Kamila Shamsie\u2019s post-9\/11 novel, \nHome Fire\n.\n  \nSome of the primary sources we\u2019ll reading include: cartoons, pamphlets, and op-eds for and against Chinese exclusion; texts from the Ghadar party of Sikh and Punjabi anti-colonialists; an audio recording of a South Asian woman who traveled on the Komagata Maru; manifestos from the Third World Liberation Front; and Supreme Court decisions on immigration.\n  \nStudents will (1) research Asian American little magazines and create a response on their own; (2) write regular bluebook responses to the reading (graded on completion) and complete very easy regular quizzes; (3) complete a midterm exam; and (4) write a final term paper. I hope we build community together in this class!",
     "instructor":"Ken Chen",
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:55pm",
@@ -156774,31 +156784,6 @@
     "scheduled_days":"MW",
     "section_key":"20271THTR3005VOO5",
     "type":"WORKSHOP"
-  },
-  {
-    "course_code":"THTR UN3127",
-    "course_title":"ZORA NEALE HURSTON & BLACK PERFORMANCE",
-    "course_descr":"This course begins with focused attention on select plays of Zora Neale Hurston and her critical writing on performance, then takes ZNH\u2019s aesthetics, politics, and provocations as a lens to study Black performance, broadly defined.\u00a0 We will consider the contexts in which Hurston pursued a career as playwright and theatremaker, and the influences that found their way into her plays including spiritual narratives and voodoo.\u00a0 We will turn our attention to key writers of the Harlem Renaissance to learn where ZNH first made her mark, and the milieu to which she ultimately turned her back.\u00a0 Each week\u2019s reading\/viewing will include primary sources (ZNH\u2019s plays and dramaturgical statements) as well as scholarly criticism of those works or genre.\u00a0 The final weeks of the course will take up Black performance in the realms of dance and song from the early 20th century, and finish with more recent plays and visual art.\u00a0 In addition to short weekly response papers, students will complete a long-form research paper that may, if they choose, include a creative element.",
-    "instructor":"Alice A Reagan",
-    "scheduled_time_start":"2:10pm",
-    "scheduled_time_end":"4:00pm",
-    "call_number":"00793",
-    "campus":null,
-    "class_id":"V3127-20271-001",
-    "course_subtitle":"ZORA NEALE HURSTON & BLK",
-    "department":"Theatre @Barnard",
-    "department_code":"THTR",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/THTR\/V3127-20271-001\/",
-    "location":"LL105 Diana Center",
-    "method_of_instruction":null,
-    "open_to":null,
-    "points":"4",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"R",
-    "section_key":"20271THTR3127V001",
-    "type":"SEMINAR"
   },
   {
     "course_code":"THTR UN3151",
