@@ -22951,7 +22951,10 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/BUSI\/W4013-20271-001\/",
     "location":"390 GEFFEN HALL",
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "Columbia College",
+      "General Studies"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -23020,7 +23023,6 @@
     "method_of_instruction":"In-Person",
     "open_to":[
       "Columbia College",
-      "Engineering:Undergraduate",
       "General Studies"
     ],
     "points":"3",
@@ -23049,7 +23051,6 @@
     "method_of_instruction":"In-Person",
     "open_to":[
       "Columbia College",
-      "Engineering:Undergraduate",
       "General Studies"
     ],
     "points":"3",
@@ -39553,7 +39554,7 @@
   {
     "course_code":"COMS BC3997",
     "course_title":"NEW DIRECTIONS IN COMPUTING",
-    "course_descr":"This is an undergraduate seminar for special topics in computing arranged as the need and availability arises. Topics are usually offered on a one-time basis. \u00a0Participation requires permission of the instructor.\u00a0 Since the content of this course changes each time it is offered, it may be repeated for credit.",
+    "course_descr":"User interfaces define how humans interact with technologies. Developing intuitive, logical, and useful systems involves good user interface design.\u00a0 In this course, students learn to apply a user-centered design process to design, build, and evaluate user interfaces. Students engage in an end-to-end iterative design process involving needfinding, storyboarding, low-fidelity prototyping, technical implementation of web applications, and user testing. Through applying best practices in usability alongside principles of visual design, students develop a novel system addressing a specific user need through a semester-long group project. The course supports students developing an understanding of when different prototyping techniques are more appropriate and how to translate ideas into functioning, usable applications. Prerequisite: COMS BC1014 Introduction to Computer Programming in Java or another college-level introductory programming course. \u00a0Students cannot receive credit for this course and COMS W4170.",
     "instructor":"Murad Megjhani",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -39569,7 +39570,12 @@
     "open_to":null,
     "points":"1-3",
     "prerequisites":[
-
+      [
+        "COMS BC1014"
+      ],
+      [
+        "COMS W4170"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20271COMS3997X001",
@@ -39578,7 +39584,7 @@
   {
     "course_code":"COMS BC3997",
     "course_title":"NEW DIRECTIONS IN COMPUTING",
-    "course_descr":"This is an undergraduate seminar for special topics in computing arranged as the need and availability arises. Topics are usually offered on a one-time basis. \u00a0Participation requires permission of the instructor.\u00a0 Since the content of this course changes each time it is offered, it may be repeated for credit.",
+    "course_descr":"User interfaces define how humans interact with technologies. Developing intuitive, logical, and useful systems involves good user interface design.\u00a0 In this course, students learn to apply a user-centered design process to design, build, and evaluate user interfaces. Students engage in an end-to-end iterative design process involving needfinding, storyboarding, low-fidelity prototyping, technical implementation of web applications, and user testing. Through applying best practices in usability alongside principles of visual design, students develop a novel system addressing a specific user need through a semester-long group project. The course supports students developing an understanding of when different prototyping techniques are more appropriate and how to translate ideas into functioning, usable applications. Prerequisite: COMS BC1014 Introduction to Computer Programming in Java or another college-level introductory programming course. \u00a0Students cannot receive credit for this course and COMS W4170.",
     "instructor":"Faculty",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:25pm",
@@ -39594,7 +39600,12 @@
     "open_to":null,
     "points":"1-3",
     "prerequisites":[
-
+      [
+        "COMS BC1014"
+      ],
+      [
+        "COMS W4170"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20271COMS3997X003",
@@ -43404,7 +43415,7 @@
     "department":"Dance @Barnard",
     "department_code":"DNCE",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/DNCE\/X2565-20271-001\/",
-    "location":null,
+    "location":"207 Milbank Hall (Barnard)",
     "method_of_instruction":null,
     "open_to":null,
     "points":"3",
@@ -45921,8 +45932,8 @@
     "course_title":"Conducting Empirical Research in Economi",
     "course_descr":"Pre-req: any Quant III course. Instructor Managed Registration. Join Vergil waitlist and apply at\u00a0\nhttps:\/\/forms.gle\/fjM8zkoSx9encCo49\n.\u00a0\u00a0\nThe main outcome of the course will be a complete, novel empirical research paper.\u00a0During the first half of the course, you will review empirical methods, learn about the structure of a high-quality research paper, and process the data for your project. The focus will be on learning how empirical methods\u2014including not only regression-based causal inference but also data processing and measurement\u2014are used in practice. We will draw on examples of excellent applied economics research papers to highlight best practices. By the middle of the semester, you will be expected to have completed initial analysis of your project. The remaining portion of the semester will be spent revising and improving drafts of the research paper, culminating in a presentation of results and submission of a final, publication-quality research paper. \u00a0An emphasis of the class will be on real-world practice of handling, cleaning, and processing data. To this end, students will help build and maintain a database of data sets used for their analyses. Over time, this database will become a resource that future students can draw on for their own analyses.",
     "instructor":"Jeffrey G Jr Shrader",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"10:00am",
+    "scheduled_time_end":"11:50am",
     "call_number":"10234",
     "campus":null,
     "class_id":"U7800-20271-001",
@@ -45939,7 +45950,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"M",
     "section_key":"20271DSPC7800U001",
     "type":"SEMINAR"
   },
@@ -56795,8 +56806,8 @@
     "course_title":"Strategic Management in the Age of AI",
     "course_descr":"Strategic Management of Information and Communication Technologies for the Public Good\u201d addresses the spectrum of policy issues, options, and critical decisions confronting senior managers in the public sphere. Classes will be taught by a combination of lecture, readings, and case. Each class will address policy, technical, and managerial challenges for a particular domain of practice from the introduction or use of established and leading-edge information and communication technologies (ICTs), among them cloud, mobile and social. Arenas may include, for example, health, education, energy, economic development, transportation, civic engagement, law enforcement, human resources, social services, transportation, or compliance and regulatory affairs. The cases will involve a variety of managerial dilemmas and decisions, from governance to transparency, performance management to project management, and be generalizable across multiple domains, arenas, and technologies. Our goal is to expose students to the broadest range of policy challenges, and technologies comprising ICTs in use in the principal domains of practice, giving students a comprehensive exposure to the issues and opportunities as managers encounter them today - and will in the very near future. The course is intended for general, non-technical managers and assumes no engineering capability greater than plugging in a USB stick.",
     "instructor":"Robert Z Tumin",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"5:10pm",
+    "scheduled_time_end":"7:00pm",
     "call_number":"15570",
     "campus":null,
     "class_id":"U6105-20271-001",
@@ -56823,7 +56834,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"M",
     "section_key":"20271EMPA6105U001",
     "type":"LECTURE"
   },
@@ -57926,8 +57937,8 @@
     "course_title":"FICTION & PERSONAL NARRATIVE",
     "course_descr":"Practice in writing short stories and autobiographical narrative with discussion and close analysis in a workshop setting. For a more detailed, instructor-specific description, \nplease see our Course Offerings Google doc\n. If you are a Columbia student, please note that you will need to submit an access request to view the document containing instructor-specific course descriptions. All requests will be approved within 24 business hours. Please note that these workshops are only open to undergraduate students.",
     "instructor":"Alexandra P Watson",
-    "scheduled_time_start":"2:10pm",
-    "scheduled_time_end":"4:00pm",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"6:00pm",
     "call_number":"00274",
     "campus":null,
     "class_id":"X3106-20271-001",
@@ -57942,7 +57953,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":"M",
+    "scheduled_days":"T",
     "section_key":"20271ENGL3106X001",
     "type":"WORKSHOP"
   },
@@ -139380,7 +139391,7 @@
     "course_code":"SIPA IA6600",
     "course_title":"Policy Communication and Advocacy",
     "course_descr":"MIA and MPA Policy Skills I Core.\u00a0\nThis\u00a0course provides students with practical skills to communicate clearly and persuasively on issues they care about. Whether writing to influence policy, shape public opinion, or present ideas within an organization, the ability to craft sharp, purposeful messages is essential. Students will learn to distill their key arguments, adapt their writing for different audiences, and develop strong foundational pieces such as op-eds, press releases, and policy memos. The course also introduces generative AI tools as part of the writing process\u2014teaching students how to use AI to brainstorm, draft, and revise more efficiently, while critically assessing its outputs. As AI transforms how we write and communicate, this course equips students to harness its benefits while maintaining their own voice, judgment, and clarity of thought.",
-    "instructor":"George W III Miller",
+    "instructor":null,
     "scheduled_time_start":"5:10pm",
     "scheduled_time_end":"7:00pm",
     "call_number":"10581",

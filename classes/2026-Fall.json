@@ -55950,7 +55950,7 @@
   {
     "course_code":"COMS BC3997",
     "course_title":"NEW DIRECTIONS IN COMPUTING",
-    "course_descr":"This is an undergraduate seminar for special topics in computing arranged as the need and availability arises. Topics are usually offered on a one-time basis. \u00a0Participation requires permission of the instructor.\u00a0 Since the content of this course changes each time it is offered, it may be repeated for credit.",
+    "course_descr":"User interfaces define how humans interact with technologies. Developing intuitive, logical, and useful systems involves good user interface design.\u00a0 In this course, students learn to apply a user-centered design process to design, build, and evaluate user interfaces. Students engage in an end-to-end iterative design process involving needfinding, storyboarding, low-fidelity prototyping, technical implementation of web applications, and user testing. Through applying best practices in usability alongside principles of visual design, students develop a novel system addressing a specific user need through a semester-long group project. The course supports students developing an understanding of when different prototyping techniques are more appropriate and how to translate ideas into functioning, usable applications. Prerequisite: COMS BC1014 Introduction to Computer Programming in Java or another college-level introductory programming course. \u00a0Students cannot receive credit for this course and COMS W4170.",
     "instructor":"Eysa Lee",
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:55pm",
@@ -55966,7 +55966,12 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "COMS BC1014"
+      ],
+      [
+        "COMS W4170"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20263COMS3997X002",
@@ -55975,7 +55980,7 @@
   {
     "course_code":"COMS BC3997",
     "course_title":"NEW DIRECTIONS IN COMPUTING",
-    "course_descr":"This is an undergraduate seminar for special topics in computing arranged as the need and availability arises. Topics are usually offered on a one-time basis. \u00a0Participation requires permission of the instructor.\u00a0 Since the content of this course changes each time it is offered, it may be repeated for credit.",
+    "course_descr":"User interfaces define how humans interact with technologies. Developing intuitive, logical, and useful systems involves good user interface design.\u00a0 In this course, students learn to apply a user-centered design process to design, build, and evaluate user interfaces. Students engage in an end-to-end iterative design process involving needfinding, storyboarding, low-fidelity prototyping, technical implementation of web applications, and user testing. Through applying best practices in usability alongside principles of visual design, students develop a novel system addressing a specific user need through a semester-long group project. The course supports students developing an understanding of when different prototyping techniques are more appropriate and how to translate ideas into functioning, usable applications. Prerequisite: COMS BC1014 Introduction to Computer Programming in Java or another college-level introductory programming course. \u00a0Students cannot receive credit for this course and COMS W4170.",
     "instructor":"Mark Santolucito",
     "scheduled_time_start":"9:00am",
     "scheduled_time_end":"10:50am",
@@ -55991,7 +55996,12 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "COMS BC1014"
+      ],
+      [
+        "COMS W4170"
+      ]
     ],
     "scheduled_days":"W",
     "section_key":"20263COMS3997X004",
