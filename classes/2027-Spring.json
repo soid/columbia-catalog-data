@@ -1578,19 +1578,19 @@
     "type":"STUDIO"
   },
   {
-    "course_code":"AHIS BC2007",
-    "course_title":"PAINTING III",
-    "course_descr":"This course will focus on individual and collaborative projects designed to explore the fundamental principles of image making. Students acquire a working knowledge of concepts in contemporary art through class critiques, discussion, and individual meetings with the professor. Reading materials will provide historical and philosophical background to the class assignments. Class projects will range from traditional to experimental and multi-media. Image collections will be discussed in class with an awareness of contemporary image production.",
+    "course_code":"AHIS BC2006",
+    "course_title":"PAINTING II",
+    "course_descr":null,
     "instructor":"Joan Snitzer",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"6:00pm",
-    "call_number":"00918",
+    "call_number":"00264",
     "campus":null,
-    "class_id":"X2007-20271-001",
+    "class_id":"X2006-20271-001",
     "course_subtitle":null,
     "department":"Art History @Barnard",
     "department_code":"AHIS",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/AHIS\/X2007-20271-001\/",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/AHIS\/X2006-20271-001\/",
     "location":null,
     "method_of_instruction":null,
     "open_to":null,
@@ -1599,7 +1599,7 @@
 
     ],
     "scheduled_days":"W",
-    "section_key":"20271AHIS2007X001",
+    "section_key":"20271AHIS2006X001",
     "type":"STUDIO"
   },
   {
@@ -15146,7 +15146,7 @@
   {
     "course_code":"BIOL BC3354",
     "course_title":"LABORATORY IN EMBRYOLOGY",
-    "course_descr":"This lab course will explore the foundational methods of vertebrate embryology.\u00a0Using both classical and modern experimental approaches, we will identify and manipulate developmental processes such as gastrulation, neurulation, and organogenesis. Students will investigate molecular regulation of\u00a0patterning and the importance of tissue-tissue interactions during early development. Utilizing modern genetic tools and imaging techiniques, such as digital microscopy, students will have the opportunity to visualize embyrogenesis in real-time.\u00a0\n  \nPrerequisite: Two terms of introductory biology (BIOL BC1500,BC1502 or equivalent) AND one term of Genetics (BIOL BC2100 or equivalent)\u00a0AND at least one upper level lab course at the cell and molecular level. OR\u00a0permission from the instructor.",
+    "course_descr":"This lab course will explore the foundational methods of vertebrate embryology.\u00a0Using both classical and modern experimental approaches, we will identify and manipulate developmental processes such as gastrulation, neurulation, and organogenesis. Students will investigate molecular regulation of\u00a0patterning and the importance of tissue-tissue interactions during early development. Utilizing modern genetic tools and imaging techiniques, such as digital microscopy, students will have the opportunity to visualize embyrogenesis in real-time.\u00a0\n  \nPrerequisite: Two terms of introductory biology (BIOL BC1500,BC1502 or equivalent) AND one term of Genetics (BIOL BC2100 or equivalent)\u00a0AND Development (BIOL BC3352) OR\u00a0permission from the instructor.",
     "instructor":"Rishita Shah",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"6:00pm",
@@ -15170,6 +15170,9 @@
       ],
       [
         "BIOL BC2100"
+      ],
+      [
+        "BIOL BC3352"
       ]
     ],
     "scheduled_days":"W",
@@ -39587,7 +39590,7 @@
   {
     "course_code":"COMS BC3997",
     "course_title":"NEW DIRECTIONS IN COMPUTING",
-    "course_descr":null,
+    "course_descr":"User interfaces define how humans interact with technologies. Developing intuitive, logical, and useful systems involves good user interface design.\u00a0 In this course, students learn to apply a user-centered design process to design, build, and evaluate user interfaces. Students engage in an end-to-end iterative design process involving needfinding, storyboarding, low-fidelity prototyping, technical implementation of web applications, and user testing. Through applying best practices in usability alongside principles of visual design, students develop a novel system addressing a specific user need through a semester-long group project. The course supports students developing an understanding of when different prototyping techniques are more appropriate and how to translate ideas into functioning, usable applications. Prerequisite: COMS BC1014 Introduction to Computer Programming in Java or another college-level introductory programming course. \u00a0Students cannot receive credit for this course and COMS W4170.",
     "instructor":"Tiffany Tseng",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -39603,7 +39606,12 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "COMS BC1014"
+      ],
+      [
+        "COMS W4170"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20271COMS3997X004",
@@ -77582,7 +77590,7 @@
   {
     "course_code":"GAPP IA4430",
     "course_title":"Espionage and the Making of the Modern W",
-    "course_descr":null,
+    "course_descr":"The covert struggles over hegemony in Greenland and Africa\u2019s Sahel as well as the role of intelligence in assassinations and general targeting in the Russo-Ukrainian and the US-Iranian War are the most recent examples of the role of clandestine activities\u2014spying, bribery, propaganda and covert action-- in the evolution of the international system. Since World War II ushered in the modern espionage era, secret intelligence and intelligence services have shaped the course of international history. This course introduces the student to the great sweep of world history from 1938 to 2027 through the lens of the role played by spies, code-breakers, saboteurs, intelligence analysts and the organizations for which they worked. How much did all of this secret stuff matter? Why did countries set up organizations to undertake spying and covert action? Have these activities made them, especially the US, more or less secure? And what has been the cost to private individuals of these activities? Although the focus will mainly be on the activities of US, Russian (Soviet) and British intelligence, the class will also explore cases involving Chinese, Cuban, Danish, Egyptian, French, German, Ghanian, Indonesian, Iranian, Israeli, Jordanian, PLO, Saudi and Vietnamese intelligence.",
     "instructor":"Timothy Naftali",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"3:00pm",
@@ -146332,7 +146340,7 @@
   {
     "course_code":"SIPA IA6018",
     "course_title":"Managing Yourself as a Leader: Skills an",
-    "course_descr":null,
+    "course_descr":"MIA & MPA Leadership and Management II Core.\u00a0\nThis experiential course focuses on the self-management and interpersonal skills essential for effective leadership in high-pressure, high-stakes situations. Through role-plays, structured exercises, video analysis, and Leadership Labs, students will develop greater self-awareness, communication agility, and emotional resilience. Emphasizing the analysis of leadership failure as a learning tool, the course uses individual student cases to explore how personal patterns and behaviors impact leadership effectiveness. Active participation and small group work are central to this hands-on, practice-based learning environment.",
     "instructor":"Kirsti Samuels",
     "scheduled_time_start":"10:00am",
     "scheduled_time_end":"11:50am",
