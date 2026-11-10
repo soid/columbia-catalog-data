@@ -9498,8 +9498,8 @@
     "course_title":"DESIGN STUDIO",
     "course_descr":null,
     "instructor":"Danielle S Smoller",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"1:00pm",
+    "scheduled_time_end":"4:00pm",
     "call_number":"15680",
     "campus":null,
     "class_id":"A4010-20271-001",
@@ -9516,7 +9516,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"T",
     "section_key":"20271ARCH4010A001",
     "type":"STUDIO"
   },
@@ -9525,8 +9525,8 @@
     "course_title":"FRENCH SEMINAR",
     "course_descr":null,
     "instructor":"Danielle S Smoller",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"2:00pm",
+    "scheduled_time_end":"5:00pm",
     "call_number":"15681",
     "campus":null,
     "class_id":"A4015-20271-001",
@@ -9543,7 +9543,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"M",
     "section_key":"20271ARCH4015A001",
     "type":"SEMINAR"
   },
@@ -9579,8 +9579,8 @@
     "course_title":"ARCH-PLANNING-PRESERVATN-PARIS",
     "course_descr":null,
     "instructor":"Danielle S Smoller",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"10:00am",
+    "scheduled_time_end":"1:00pm",
     "call_number":"15682",
     "campus":null,
     "class_id":"A4029-20271-001",
@@ -9597,7 +9597,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"R",
     "section_key":"20271ARCH4029A001",
     "type":"LECTURE"
   },
@@ -9606,8 +9606,8 @@
     "course_title":"DEVELOPMENT OF PARIS",
     "course_descr":null,
     "instructor":"Danielle S Smoller",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"2:00pm",
+    "scheduled_time_end":"5:00pm",
     "call_number":"15683",
     "campus":null,
     "class_id":"A4030-20271-001",
@@ -9624,7 +9624,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"W",
     "section_key":"20271ARCH4030A001",
     "type":"LECTURE"
   },
@@ -9633,8 +9633,8 @@
     "course_title":"HISTORY OF EUROPEAN CITIES",
     "course_descr":null,
     "instructor":"Danielle S Smoller",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"10:00am",
+    "scheduled_time_end":"1:00pm",
     "call_number":"15684",
     "campus":null,
     "class_id":"A4031-20271-001",
@@ -9651,7 +9651,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"W",
     "section_key":"20271ARCH4031A001",
     "type":"LECTURE"
   },
@@ -9714,8 +9714,8 @@
     "course_title":"WORKSHOP IN URBAN STUDIES",
     "course_descr":null,
     "instructor":"Danielle S Smoller",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"10:00am",
+    "scheduled_time_end":"1:00pm",
     "call_number":"15685",
     "campus":null,
     "class_id":"A4044-20271-001",
@@ -9732,7 +9732,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"T",
     "section_key":"20271ARCH4044A001",
     "type":"WORKSHOP"
   },
@@ -12574,37 +12574,12 @@
     "type":"INDEPENDENT"
   },
   {
-    "course_code":"ARCH GU4902",
-    "course_title":"INDEPENDENT STUDY",
-    "course_descr":null,
-    "instructor":"Anooradha I Siddiqi",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
-    "call_number":"01127",
-    "campus":null,
-    "class_id":"W4902-20271-005",
-    "course_subtitle":null,
-    "department":"Architecture @Barnard",
-    "department_code":"ARCH",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ARCH\/W4902-20271-005\/",
-    "location":null,
-    "method_of_instruction":null,
-    "open_to":null,
-    "points":"2-4",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":null,
-    "section_key":"20271ARCH4902W005",
-    "type":"INDEPENDENT"
-  },
-  {
     "course_code":"ARCH OC4052",
     "course_title":"DRAWING",
     "course_descr":null,
     "instructor":"Danielle S Smoller",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"10:00am",
+    "scheduled_time_end":"12:30pm",
     "call_number":"15686",
     "campus":null,
     "class_id":"A4052-20271-001",
@@ -12621,7 +12596,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"T",
     "section_key":"20271ARCH4052A001",
     "type":"SEMINAR"
   },
@@ -39499,6 +39474,31 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"COMS BC3170",
+    "course_title":"USER INTERFACE DESIGN",
+    "course_descr":null,
+    "instructor":"Tiffany Tseng",
+    "scheduled_time_start":"11:40am",
+    "scheduled_time_end":"12:55pm",
+    "call_number":"01133",
+    "campus":null,
+    "class_id":"X3170-20271-001",
+    "course_subtitle":null,
+    "department":"Computer Science @Barnard",
+    "department_code":"COMS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMS\/X3170-20271-001\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20271COMS3170X001",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"COMS BC3213",
     "course_title":"DISCRETE MATHEMATICS",
     "course_descr":"The study of discrete mathematics provides an important foundation for basic\n theoretical principles in computer science. We first build a strong foundation in\n logic, formal proofs, and mathematical induction. We then examine the discrete\n structure of functions, relations, and graphs, which provide different ways of\n representing relationships, connections, and networks. Finally, we move onto\n numerical and computational aspects: number theory and modular arithmetic,\n counting and combinatorics, and discrete probability.\u00a0 There are no prerequisites\n beyond high school mathematics.",
@@ -39737,36 +39737,6 @@
     ],
     "scheduled_days":"TR",
     "section_key":"20271COMS3997X003",
-    "type":"SEMINAR"
-  },
-  {
-    "course_code":"COMS BC3997",
-    "course_title":"NEW DIRECTIONS IN COMPUTING",
-    "course_descr":"User interfaces define how humans interact with technologies. Developing intuitive, logical, and useful systems involves good user interface design.\u00a0 In this course, students learn to apply a user-centered design process to design, build, and evaluate user interfaces. Students engage in an end-to-end iterative design process involving needfinding, storyboarding, low-fidelity prototyping, technical implementation of web applications, and user testing. Through applying best practices in usability alongside principles of visual design, students develop a novel system addressing a specific user need through a semester-long group project. The course supports students developing an understanding of when different prototyping techniques are more appropriate and how to translate ideas into functioning, usable applications. Prerequisite: COMS BC1014 Introduction to Computer Programming in Java or another college-level introductory programming course. \u00a0Students cannot receive credit for this course and COMS W4170.",
-    "instructor":"Tiffany Tseng",
-    "scheduled_time_start":"11:40am",
-    "scheduled_time_end":"12:55pm",
-    "call_number":"01114",
-    "campus":null,
-    "class_id":"X3997-20271-004",
-    "course_subtitle":"User Interface Design",
-    "department":"Computer Science @Barnard",
-    "department_code":"COMS",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMS\/X3997-20271-004\/",
-    "location":null,
-    "method_of_instruction":null,
-    "open_to":null,
-    "points":"3",
-    "prerequisites":[
-      [
-        "COMS BC1014"
-      ],
-      [
-        "COMS W4170"
-      ]
-    ],
-    "scheduled_days":"TR",
-    "section_key":"20271COMS3997X004",
     "type":"SEMINAR"
   },
   {
@@ -107006,6 +106976,33 @@
     "type":"SEMINAR"
   },
   {
+    "course_code":"LEAD IA7150",
+    "course_title":"Inside Global Leadership     The UN in T",
+    "course_descr":null,
+    "instructor":"Annalena Baerbock",
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"3:00pm",
+    "call_number":"16377",
+    "campus":null,
+    "class_id":"U7150-20271-001",
+    "course_subtitle":"Inside Global Leadership",
+    "department":"MPA in Global Leadership",
+    "department_code":"LEAD",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/LEAD\/U7150-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20271LEAD7150U001",
+    "type":"SEMINAR"
+  },
+  {
     "course_code":"LELA PS0104",
     "course_title":"Exploring Careers in Law",
     "course_descr":"",
@@ -137277,7 +137274,7 @@
     "department":"Psychology @Barnard",
     "department_code":"PSYC",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/PSYC\/X1101-20271-003\/",
-    "location":"302 Barnard Hall, Tuesday 12:10pm-2:00pm",
+    "location":"302 Barnard Hall, Tuesday 12:10pm-2:00pm 516 MILSTEIN CEN",
     "method_of_instruction":null,
     "open_to":null,
     "points":"4",
@@ -137313,7 +137310,7 @@
     "department":"Psychology @Barnard",
     "department_code":"PSYC",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/PSYC\/X1101-20271-004\/",
-    "location":"302 Barnard Hall, Tuesday 2:10pm-4:00pm",
+    "location":"302 Barnard Hall, Tuesday 2:10pm-4:00pm 516 MILSTEIN CEN",
     "method_of_instruction":null,
     "open_to":null,
     "points":"4",
@@ -137385,7 +137382,7 @@
     "department":"Psychology @Barnard",
     "department_code":"PSYC",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/PSYC\/X1101-20271-001\/",
-    "location":"302 Barnard Hall, Wednesday 10:10am-12:00pm",
+    "location":"302 Barnard Hall, Wednesday 10:10am-12:00pm LL001 MILSTEIN CEN",
     "method_of_instruction":null,
     "open_to":null,
     "points":"4",
@@ -143157,6 +143154,80 @@
     ],
     "scheduled_days":"W",
     "section_key":"20271REGN6538U001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"REGN IA6555",
+    "course_title":"Gender and Illiberalism in Central and E",
+    "course_descr":null,
+    "instructor":"Eva Fodor",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"16378",
+    "campus":null,
+    "class_id":"U6555-20271-001",
+    "course_subtitle":"Gender and Illiberalism",
+    "department":"International and Public Affairs",
+    "department_code":"REGN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/REGN\/U6555-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture",
+      "Business",
+      "Engineering:Graduate",
+      "GSAS",
+      "Journalism",
+      "Law",
+      "Professional Studies",
+      "Public Health",
+      "SIPA",
+      "Schools of the Arts",
+      "Social Work"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271REGN6555U001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"REGN IA6556",
+    "course_title":"Putinism and Modern Authoritarianism: Go",
+    "course_descr":null,
+    "instructor":"Irina Busygina",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"16379",
+    "campus":null,
+    "class_id":"U6556-20271-001",
+    "course_subtitle":"Putinism & Modern Authori",
+    "department":"International and Public Affairs",
+    "department_code":"REGN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/REGN\/U6556-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Architecture",
+      "Business",
+      "Engineering:Graduate",
+      "GSAS",
+      "Journalism",
+      "Law",
+      "Professional Studies",
+      "Public Health",
+      "SIPA",
+      "Schools of the Arts",
+      "Social Work"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271REGN6556U001",
     "type":"SEMINAR"
   },
   {
