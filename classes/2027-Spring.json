@@ -38358,7 +38358,6 @@
       "Engineering:Undergraduate",
       "GSAS",
       "General Studies",
-      "Global Programs",
       "Schools of the Arts"
     ],
     "points":"3",
@@ -38391,7 +38390,6 @@
       "Engineering:Undergraduate",
       "GSAS",
       "General Studies",
-      "Global Programs",
       "Schools of the Arts"
     ],
     "points":"4",
@@ -38424,7 +38422,6 @@
       "Engineering:Undergraduate",
       "GSAS",
       "General Studies",
-      "Global Programs",
       "Schools of the Arts"
     ],
     "points":"3",
@@ -38453,6 +38450,7 @@
     "method_of_instruction":"In-Person",
     "open_to":[
       "Columbia College",
+      "Engineering:Graduate",
       "Engineering:Undergraduate",
       "GSAS",
       "General Studies",
@@ -54057,13 +54055,13 @@
     "course_code":"ECON BC3063",
     "course_title":"SENIOR SEMINAR",
     "course_descr":"Prerequisites: Permission of the instructor and the completion of all courses (except for the senior requirement) required for the economics department majors.\u00a0 Exceptions to these prerequisites may be granted by the chair of the department only. Seminar sections are limited to 16 students. A topic in economic theory or policy of the instructors choice. See department for current topics and for senior requirement preference forms.",
-    "instructor":"Faculty",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "instructor":"Morgan C Jr. Williams",
+    "scheduled_time_start":"12:10pm",
+    "scheduled_time_end":"2:00pm",
     "call_number":"00743",
     "campus":null,
     "class_id":"X3063-20271-004",
-    "course_subtitle":"SR SEM: WOMN-LDRSHP&INNOV",
+    "course_subtitle":"SR SEM:DISCRM & PBLC PLCY",
     "department":"Economics @Barnard",
     "department_code":"ECON",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ECON\/X3063-20271-004\/",
@@ -54074,7 +54072,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"T",
     "section_key":"20271ECON3063X004",
     "type":"SEMINAR"
   },
@@ -69733,7 +69731,8 @@
     "open_to":[
       "Columbia College",
       "Engineering:Undergraduate",
-      "General Studies"
+      "General Studies",
+      "Global Programs"
     ],
     "points":"0",
     "prerequisites":[
@@ -69765,7 +69764,8 @@
     "open_to":[
       "Columbia College",
       "Engineering:Undergraduate",
-      "General Studies"
+      "General Studies",
+      "Global Programs"
     ],
     "points":"0",
     "prerequisites":[
@@ -69797,7 +69797,8 @@
     "open_to":[
       "Columbia College",
       "Engineering:Undergraduate",
-      "General Studies"
+      "General Studies",
+      "Global Programs"
     ],
     "points":"0",
     "prerequisites":[
@@ -69861,7 +69862,8 @@
     "open_to":[
       "Columbia College",
       "Engineering:Undergraduate",
-      "General Studies"
+      "General Studies",
+      "Global Programs"
     ],
     "points":"3",
     "prerequisites":[
@@ -69890,7 +69892,8 @@
     "open_to":[
       "Columbia College",
       "Engineering:Undergraduate",
-      "General Studies"
+      "General Studies",
+      "Global Programs"
     ],
     "points":"3",
     "prerequisites":[
@@ -69919,7 +69922,8 @@
     "open_to":[
       "Columbia College",
       "Engineering:Undergraduate",
-      "General Studies"
+      "General Studies",
+      "Global Programs"
     ],
     "points":"3",
     "prerequisites":[
@@ -69948,7 +69952,8 @@
     "open_to":[
       "Columbia College",
       "Engineering:Undergraduate",
-      "General Studies"
+      "General Studies",
+      "Global Programs"
     ],
     "points":"4",
     "prerequisites":[
@@ -69977,7 +69982,8 @@
     "open_to":[
       "Columbia College",
       "Engineering:Undergraduate",
-      "General Studies"
+      "General Studies",
+      "Global Programs"
     ],
     "points":"4",
     "prerequisites":[
@@ -70006,7 +70012,8 @@
     "open_to":[
       "Columbia College",
       "Engineering:Undergraduate",
-      "General Studies"
+      "General Studies",
+      "Global Programs"
     ],
     "points":"4",
     "prerequisites":[
@@ -70035,7 +70042,8 @@
     "open_to":[
       "Columbia College",
       "Engineering:Undergraduate",
-      "General Studies"
+      "General Studies",
+      "Global Programs"
     ],
     "points":"4",
     "prerequisites":[
@@ -70064,7 +70072,8 @@
     "open_to":[
       "Columbia College",
       "Engineering:Undergraduate",
-      "General Studies"
+      "General Studies",
+      "Global Programs"
     ],
     "points":"4",
     "prerequisites":[
@@ -70093,7 +70102,8 @@
     "open_to":[
       "Columbia College",
       "Engineering:Undergraduate",
-      "General Studies"
+      "General Studies",
+      "Global Programs"
     ],
     "points":"4",
     "prerequisites":[
@@ -70122,7 +70132,8 @@
     "open_to":[
       "Columbia College",
       "Engineering:Undergraduate",
-      "General Studies"
+      "General Studies",
+      "Global Programs"
     ],
     "points":"4",
     "prerequisites":[
@@ -70151,7 +70162,8 @@
     "open_to":[
       "Columbia College",
       "Engineering:Undergraduate",
-      "General Studies"
+      "General Studies",
+      "Global Programs"
     ],
     "points":"4",
     "prerequisites":[
@@ -70180,7 +70192,8 @@
     "open_to":[
       "Columbia College",
       "Engineering:Undergraduate",
-      "General Studies"
+      "General Studies",
+      "Global Programs"
     ],
     "points":"4",
     "prerequisites":[
@@ -114668,8 +114681,8 @@
     "course_title":"Machine Learning for Finance",
     "course_descr":"The application of Machine Learning (ML) algorithms in the Financial industry is now commonplace, but still nascent in its potential.\u00a0 This course provides an overview of ML applications for finance use cases including trading, investment management, and consumer banking.\u00a0\n  \nStudents will learn how to work with financial data and how to apply ML algorithms using the data.\u00a0 In addition to providing an overview of the most commonly used ML models, we will detail the regression, KNN, NLP, and time series deep learning ML models using desktop and cloud technologies.\u00a0\n  \nThe course is taught in Python using Numpy, Pandas, scikit-learn and other libraries.\u00a0 Basic programming knowledge in any language is required.",
     "instructor":null,
-    "scheduled_time_start":"2:40pm",
-    "scheduled_time_end":"4:30pm",
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"4:40pm",
     "call_number":"13599",
     "campus":null,
     "class_id":"G5430-20271-001",
@@ -114677,7 +114690,7 @@
     "department":"Mathematics",
     "department_code":"MATH",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/MATH\/G5430-20271-001\/",
-    "location":"203 Mathematics Building",
+    "location":null,
     "method_of_instruction":"In-Person",
     "open_to":[
       "GSAS"
@@ -115669,7 +115682,7 @@
     "course_code":"MATH UN1101",
     "course_title":"CALCULUS I",
     "course_descr":"Prerequisites: (see Courses for First-Year Students). Functions, limits, derivatives, introduction to integrals, or an understanding of pre-calculus will be assumed. (SC)",
-    "instructor":null,
+    "instructor":"Haocheng Fan",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
     "call_number":"10005",
@@ -134244,6 +134257,517 @@
     "type":"PHYSICAL EDU"
   },
   {
+    "course_code":"PHED UN1002",
+    "course_title":"PHYSICAL EDUCATION ACTIVITIES",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"8:00am",
+    "scheduled_time_end":"8:50am",
+    "call_number":"16834",
+    "campus":null,
+    "class_id":"C1002-20271-101",
+    "course_subtitle":"PHED: Cardio Fit Hybrid",
+    "department":"Physical Education",
+    "department_code":"PHED",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PHED\/C1002-20271-101\/",
+    "location":"LCL Marcellus Hartley Dodge Physical Fitness Center",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20271PHED1002C101",
+    "type":"PHYSICAL EDU"
+  },
+  {
+    "course_code":"PHED UN1005",
+    "course_title":"INTERCOLLEGIATE ATHLETICS",
+    "course_descr":null,
+    "instructor":"Derek Davis",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"16835",
+    "campus":null,
+    "class_id":"C1005-20271-001",
+    "course_subtitle":"INTRCOL ATH: ARCHERY",
+    "department":"Physical Education",
+    "department_code":"PHED",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PHED\/C1005-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"0-1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271PHED1005C001",
+    "type":"PHYSICAL EDU"
+  },
+  {
+    "course_code":"PHED UN1005",
+    "course_title":"INTERCOLLEGIATE ATHLETICS",
+    "course_descr":null,
+    "instructor":"Brett Boretti",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"16836",
+    "campus":null,
+    "class_id":"C1005-20271-002",
+    "course_subtitle":"INTR ATH: BASEBALL",
+    "department":"Physical Education",
+    "department_code":"PHED",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PHED\/C1005-20271-002\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"0-1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271PHED1005C002",
+    "type":"PHYSICAL EDU"
+  },
+  {
+    "course_code":"PHED UN1005",
+    "course_title":"INTERCOLLEGIATE ATHLETICS",
+    "course_descr":null,
+    "instructor":"Megan L Griffith",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"16837",
+    "campus":null,
+    "class_id":"C1005-20271-003",
+    "course_subtitle":"INTRCOL ATH:WOMEN'S BASKETBALL",
+    "department":"Physical Education",
+    "department_code":"PHED",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PHED\/C1005-20271-003\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"0-1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271PHED1005C003",
+    "type":"PHYSICAL EDU"
+  },
+  {
+    "course_code":"PHED UN1005",
+    "course_title":"INTERCOLLEGIATE ATHLETICS",
+    "course_descr":null,
+    "instructor":"Kevin A Hovde",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"16838",
+    "campus":null,
+    "class_id":"C1005-20271-004",
+    "course_subtitle":"INTRCOL ATH: MEN'S BASKETBALL",
+    "department":"Physical Education",
+    "department_code":"PHED",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PHED\/C1005-20271-004\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "General Studies"
+    ],
+    "points":"0-1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271PHED1005C004",
+    "type":"PHYSICAL EDU"
+  },
+  {
+    "course_code":"PHED UN1005",
+    "course_title":"INTERCOLLEGIATE ATHLETICS",
+    "course_descr":null,
+    "instructor":"Michael Aufrichtig",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"16839",
+    "campus":null,
+    "class_id":"C1005-20271-005",
+    "course_subtitle":"INTRCOL ATH: WOMEN'S FENCING",
+    "department":"Physical Education",
+    "department_code":"PHED",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PHED\/C1005-20271-005\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"0-1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271PHED1005C005",
+    "type":"PHYSICAL EDU"
+  },
+  {
+    "course_code":"PHED UN1005",
+    "course_title":"INTERCOLLEGIATE ATHLETICS",
+    "course_descr":null,
+    "instructor":"Michael Aufrichtig",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"16840",
+    "campus":null,
+    "class_id":"C1005-20271-006",
+    "course_subtitle":"INTRCOL ATH: MEN'S FENC",
+    "department":"Physical Education",
+    "department_code":"PHED",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PHED\/C1005-20271-006\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"0-1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271PHED1005C006",
+    "type":"PHYSICAL EDU"
+  },
+  {
+    "course_code":"PHED UN1005",
+    "course_title":"INTERCOLLEGIATE ATHLETICS",
+    "course_descr":null,
+    "instructor":"Niki Miller",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"16841",
+    "campus":null,
+    "class_id":"C1005-20271-007",
+    "course_subtitle":"INTRCOL ATH: FIELD HOCKEY",
+    "department":"Physical Education",
+    "department_code":"PHED",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PHED\/C1005-20271-007\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"0-1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271PHED1005C007",
+    "type":"PHYSICAL EDU"
+  },
+  {
+    "course_code":"PHED UN1005",
+    "course_title":"INTERCOLLEGIATE ATHLETICS",
+    "course_descr":null,
+    "instructor":"Isabelle Monken",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"16842",
+    "campus":null,
+    "class_id":"C1005-20271-008",
+    "course_subtitle":"INTRCOL ATH: FOOTBALL",
+    "department":"Physical Education",
+    "department_code":"PHED",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PHED\/C1005-20271-008\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"0-1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271PHED1005C008",
+    "type":"PHYSICAL EDU"
+  },
+  {
+    "course_code":"PHED UN1005",
+    "course_title":"INTERCOLLEGIATE ATHLETICS",
+    "course_descr":null,
+    "instructor":"Amy Weeks",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"16843",
+    "campus":null,
+    "class_id":"C1005-20271-009",
+    "course_subtitle":"INTRCOL ATH: WOMEN'S GOLF",
+    "department":"Physical Education",
+    "department_code":"PHED",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PHED\/C1005-20271-009\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"0-1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271PHED1005C009",
+    "type":"PHYSICAL EDU"
+  },
+  {
+    "course_code":"PHED UN1005",
+    "course_title":"INTERCOLLEGIATE ATHLETICS",
+    "course_descr":null,
+    "instructor":"mueller",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"16844",
+    "campus":null,
+    "class_id":"C1005-20271-010",
+    "course_subtitle":"INTRCOL ATH: MEN'S GOLF",
+    "department":"Physical Education",
+    "department_code":"PHED",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PHED\/C1005-20271-010\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"0-1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271PHED1005C010",
+    "type":"PHYSICAL EDU"
+  },
+  {
+    "course_code":"PHED UN1005",
+    "course_title":"INTERCOLLEGIATE ATHLETICS",
+    "course_descr":null,
+    "instructor":"Anne Murray",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"16845",
+    "campus":null,
+    "class_id":"C1005-20271-011",
+    "course_subtitle":"INTRCOL ATH: WOMEN'S LACR",
+    "department":"Physical Education",
+    "department_code":"PHED",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PHED\/C1005-20271-011\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"0-1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271PHED1005C011",
+    "type":"PHYSICAL EDU"
+  },
+  {
+    "course_code":"PHED UN1005",
+    "course_title":"INTERCOLLEGIATE ATHLETICS",
+    "course_descr":null,
+    "instructor":"Emerson Curry",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"16846",
+    "campus":null,
+    "class_id":"C1005-20271-012",
+    "course_subtitle":"INTRCOL ATH: WOMEN'S ROWING",
+    "department":"Physical Education",
+    "department_code":"PHED",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PHED\/C1005-20271-012\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "General Studies"
+    ],
+    "points":"0-1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271PHED1005C012",
+    "type":"PHYSICAL EDU"
+  },
+  {
+    "course_code":"PHED UN1005",
+    "course_title":"INTERCOLLEGIATE ATHLETICS",
+    "course_descr":null,
+    "instructor":"Tracey Bartholomew",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"16847",
+    "campus":null,
+    "class_id":"C1005-20271-014",
+    "course_subtitle":"INTRCOL ATH: WOMEN'S SOCC",
+    "department":"Physical Education",
+    "department_code":"PHED",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PHED\/C1005-20271-014\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "General Studies"
+    ],
+    "points":"0-1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271PHED1005C014",
+    "type":"PHYSICAL EDU"
+  },
+  {
+    "course_code":"PHED UN1005",
+    "course_title":"INTERCOLLEGIATE ATHLETICS",
+    "course_descr":null,
+    "instructor":"Michael Casper",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"16848",
+    "campus":null,
+    "class_id":"C1005-20271-015",
+    "course_subtitle":"INTRCOL ATH: MEN'S SOCCER",
+    "department":"Physical Education",
+    "department_code":"PHED",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PHED\/C1005-20271-015\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "General Studies"
+    ],
+    "points":"0-1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271PHED1005C015",
+    "type":"PHYSICAL EDU"
+  },
+  {
+    "course_code":"PHED UN1005",
+    "course_title":"INTERCOLLEGIATE ATHLETICS",
+    "course_descr":null,
+    "instructor":"Thomas Terhaar",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"16849",
+    "campus":null,
+    "class_id":"C1005-20271-017",
+    "course_subtitle":"INTRCOL ATH:MEN'S VARS HV ROW",
+    "department":"Physical Education",
+    "department_code":"PHED",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PHED\/C1005-20271-017\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "General Studies"
+    ],
+    "points":"0-1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271PHED1005C017",
+    "type":"PHYSICAL EDU"
+  },
+  {
+    "course_code":"PHED UN1005",
+    "course_title":"INTERCOLLEGIATE ATHLETICS",
+    "course_descr":null,
+    "instructor":"James B Bolster",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"16850",
+    "campus":null,
+    "class_id":"C1005-20271-022",
+    "course_subtitle":"INTRCOL ATH: MEN'S SWIMMING",
+    "department":"Physical Education",
+    "department_code":"PHED",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PHED\/C1005-20271-022\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "General Studies"
+    ],
+    "points":"0-1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271PHED1005C022",
+    "type":"PHYSICAL EDU"
+  },
+  {
+    "course_code":"PHED UN1005",
+    "course_title":"INTERCOLLEGIATE ATHLETICS",
+    "course_descr":null,
+    "instructor":"Nicholas L Parker",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"16851",
+    "campus":null,
+    "class_id":"C1005-20271-016",
+    "course_subtitle":"INTRCOL ATH:MEN'S VARS LT ROW",
+    "department":"Physical Education",
+    "department_code":"PHED",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PHED\/C1005-20271-016\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "General Studies"
+    ],
+    "points":"0-1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271PHED1005C016",
+    "type":"PHYSICAL EDU"
+  },
+  {
     "course_code":"PHIL BC4050",
     "course_title":"SENIOR SEMINAR",
     "course_descr":"Intensive study of a philosophical issue or topic, or of a philosopher, group of philosophers, or philosophical school or movement. Open only to Barnard senior philosophy majors.",
@@ -149633,7 +150157,7 @@
     "department":"Psychology",
     "department_code":"PSYC",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/PSYC\/W1610-20271-001\/",
-    "location":"140 Uris Hall",
+    "location":"200B Schermerhorn Hall [SCH]",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Columbia College",
@@ -149873,7 +150397,7 @@
     "department":"Psychology",
     "department_code":"PSYC",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/PSYC\/W2260-20271-001\/",
-    "location":"332 Uris Hall",
+    "location":"200B Schermerhorn Hall [SCH]",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Columbia College",
@@ -181000,8 +181524,8 @@
     "course_title":"TOPICS IN THEATRE HISTORY & THEORY",
     "course_descr":"A course description will be forthcoming.",
     "instructor":"Maria Jose Contreras",
-    "scheduled_time_start":"9:30am",
-    "scheduled_time_end":"12:20pm",
+    "scheduled_time_start":"10:00am",
+    "scheduled_time_end":"12:50pm",
     "call_number":"14798",
     "campus":null,
     "class_id":"R6490-20271-001",
@@ -181009,7 +181533,7 @@
     "department":"Theatre Arts",
     "department_code":"THEA",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/THEA\/R6490-20271-001\/",
-    "location":null,
+    "location":"B15 SCHAPIRO (RE",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Schools of the Arts"
@@ -181018,7 +181542,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":"W",
+    "scheduled_days":"M",
     "section_key":"20271THEA6490R001",
     "type":"SEMINAR"
   },
@@ -181171,7 +181695,7 @@
     "department":"Theatre Arts",
     "department_code":"THEA",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/THEA\/R6520-20271-001\/",
-    "location":null,
+    "location":"603 Dodge Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Schools of the Arts"
@@ -181225,7 +181749,7 @@
     "department":"Theatre Arts",
     "department_code":"THEA",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/THEA\/R6570-20271-001\/",
-    "location":null,
+    "location":"603 Dodge Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Schools of the Arts"
@@ -181234,7 +181758,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":"W",
+    "scheduled_days":"M",
     "section_key":"20271THEA6570R001",
     "type":"WORKSHOP"
   },
@@ -181324,8 +181848,8 @@
     "course_title":"SEMINAR IN STAGE MANAGEMENT III",
     "course_descr":"Musicals, especially those that have traditionally originated on Broadway, are complex pieces of machinery that are designed to produce a variety of energies in the theater. When taken collectively, those energies constitute the aesthetic of the experience. As with plays, stage managers are charged with coordinating all of a musical\u2019s production elements. However, stage managers should also be able to view a musical from every angle; that is, read it intelligently and analyze it dramatically so they can accurately gauge their contribution to the overall aesthetic. This course seeks to provide stage managers with a customized template to do that: in other words, how to connect what\u2019s on the page and the stage to their own standard methodologies, cue calling, and the CEO\/COO perspective. In the contemporary professional landscape, these are important tools that will help them optimize their work on musicals.",
     "instructor":"Bonnie Panson",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"11:50am",
     "call_number":"14662",
     "campus":null,
     "class_id":"R6803-20271-001",
@@ -181333,7 +181857,7 @@
     "department":"Theatre Arts",
     "department_code":"THEA",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/THEA\/R6803-20271-001\/",
-    "location":null,
+    "location":"2 NASH BUILDIN",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Schools of the Arts"
@@ -181342,7 +181866,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"M",
     "section_key":"20271THEA6803R001",
     "type":"SEMINAR"
   },
@@ -181484,8 +182008,8 @@
     "course_title":"THEATRE PRACTICUM II",
     "course_descr":"TBD",
     "instructor":"Kate Loewald",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"5:00pm",
     "call_number":"14696",
     "campus":null,
     "class_id":"R8050-20271-005",
@@ -181493,7 +182017,7 @@
     "department":"Theatre Arts",
     "department_code":"THEA",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/THEA\/R8050-20271-005\/",
-    "location":null,
+    "location":"605 Dodge Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Schools of the Arts"
@@ -181502,7 +182026,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"R",
     "section_key":"20271THEA8050R005",
     "type":"STUDIO"
   },
@@ -181871,7 +182395,7 @@
     "department":"Theatre Arts",
     "department_code":"THEA",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/THEA\/R8520-20271-001\/",
-    "location":null,
+    "location":"603 Dodge Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Schools of the Arts"
@@ -181916,8 +182440,8 @@
     "course_title":"DRAMATURGY OF MUSICAL THEATRE",
     "course_descr":"The purpose of this course would be to familiarize its students with the form and function of musicals, and teach them how to work with writers of musicals. I would begin with a fundamental building block of the musical structure: the song. We would look at examples of songs both from musicals and not in order to analyze how songs contain information pertinent to both plot and emotional arcs. After this we would look at examples of classic musical structures. This might include shows and structures like\u00a0Oklahoma! (for\u00a0a classic structural template),\u00a0Guys and Dolls\u00a0(musical comedy),\u00a0Gypsy\u00a0(a dominant singular character),\u00a0A Chorus Line (a superstructure),\u00a0Assassins\u00a0(a show that probably shouldn\u2019t work but does) and\u00a0A Strange Loop\u00a0(a show that references many other shows and structures to build its engine.) We would also look at a new musical currently in process in order to determine which notes might be useful, and how to give them. We would also speak with current musical theater writers about the shows they are writing, their inspirations, methods, and various storytelling tools. Lastly, we would discuss the musical theatre industry, and how musicals are made and produced in the current theatrical ecosystem.",
     "instructor":"Anika S Chapin",
-    "scheduled_time_start":"10:00am",
-    "scheduled_time_end":"12:50pm",
+    "scheduled_time_start":"9:30am",
+    "scheduled_time_end":"12:20pm",
     "call_number":"14800",
     "campus":null,
     "class_id":"R8570-20271-001",
@@ -181934,7 +182458,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":"M",
+    "scheduled_days":"W",
     "section_key":"20271THEA8570R001",
     "type":"SEMINAR"
   },
@@ -181943,8 +182467,8 @@
     "course_title":"LYRIC WRITING",
     "course_descr":null,
     "instructor":null,
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"5:00pm",
     "call_number":"14804",
     "campus":null,
     "class_id":"Q8600-20271-001",
@@ -181961,7 +182485,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"T",
     "section_key":"20271THEA8600Q001",
     "type":"WORKSHOP"
   },
@@ -181970,8 +182494,8 @@
     "course_title":"LEADERSHIP FOR STAGE MANAGERS II",
     "course_descr":".",
     "instructor":"Michael Passaro",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"10:00am",
+    "scheduled_time_end":"12:50pm",
     "call_number":"14656",
     "campus":null,
     "class_id":"R8610-20271-001",
@@ -181979,7 +182503,7 @@
     "department":"Theatre Arts",
     "department_code":"THEA",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/THEA\/R8610-20271-001\/",
-    "location":null,
+    "location":"605 Dodge Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Schools of the Arts"
@@ -181988,7 +182512,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"T",
     "section_key":"20271THEA8610R001",
     "type":"SEMINAR"
   },
@@ -182060,7 +182584,7 @@
     "department":"Theatre Arts",
     "department_code":"THEA",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/THEA\/R8640-20271-001\/",
-    "location":null,
+    "location":"6 NASH BUILDIN",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Schools of the Arts"
@@ -184166,7 +184690,7 @@
     "department":"Technology Management",
     "department_code":"TMGT",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/TMGT\/K5138-20271-001\/",
-    "location":null,
+    "location":"606 Martin Luther King Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Professional Studies"
