@@ -10231,7 +10231,7 @@
     "department":"Applied Analytics",
     "department_code":"APAN",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/APAN\/K5800-20271-001\/",
-    "location":null,
+    "location":"318 Hamilton Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Professional Studies"
@@ -20801,6 +20801,34 @@
     "type":"INDEPENDENT"
   },
   {
+    "course_code":"BIST P6110",
+    "course_title":"Statistical Computing with SAS",
+    "course_descr":null,
+    "instructor":"Brady Rippon",
+    "scheduled_time_start":"8:30am",
+    "scheduled_time_end":"11:20am",
+    "call_number":"16858",
+    "campus":null,
+    "class_id":"P6110-20271-001",
+    "course_subtitle":"STATISTICAL COMPUTING WIT",
+    "department":"Biostatistics",
+    "department_code":"BIST",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/BIST\/P6110-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "GSAS",
+      "Public Health"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20271BIST6110P001",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"BIST P6170",
     "course_title":"New Drug Development: A Regulatory Overv",
     "course_descr":"This course will provide an introduction to the US Food and Drug Administration (FDA) and the drug development and approval process, often referred to as the \u201cCritical Path\u201d. The class will begin with a review of the history and organization of the FDA, and analysis of the principle steps along the critical path, including preclinical testing, clinical testing (drug development phase 0 thru IV), Good Laboratory Practices, Good Manufacturing Practices, Good Clinical Practices, and adverse event reporting. Different types of FDA submissions (IND, NDA, ANDA, SPA, eCTD), and FDA meetings will be examined, along with accelerated drug approval strategies, orphan drug development strategies, generic drug development, and post-marketing Sponsor commitments. Throughout the class we will study the related legislation and regulations that empower FDA, and the interrelated FDA guidance documents that define FDA expectations.",
@@ -20916,7 +20944,7 @@
     "course_code":"BIST P8106",
     "course_title":"Data Science II",
     "course_descr":"With the explosion of \u201cBig Data\u201d problems, statistical learning has become a very hot field in many scientific areas. The goal of this course is to provide the training in practical statistical learning. It is targeted to MS students with some data analysis experience.",
-    "instructor":"Yifei Sun",
+    "instructor":null,
     "scheduled_time_start":"4:00pm",
     "scheduled_time_end":"5:20pm",
     "call_number":"15110",
@@ -27156,7 +27184,7 @@
   {
     "course_code":"BUSI GU4518",
     "course_title":"Foundations of Entrepreneurship",
-    "course_descr":"Entrepreneurship is one of the most important economic activities shaping the United States. Entrepreneurial processes play a role in delivering new solutions to social problems, they are a strong determinant of wealth inequality and spatial disparities, and underlie technological progress. The class Foundations of Entrepreneurship provides any undergraduate student a comprehensive introduction to what entrepreneurship is and how it functions, including understanding how an idea evolves into a company, the role of key actors in an entrepreneurial ecosystem, and experiencing the entrepreneurial process. The class is valuable to any student in science, engineering, and liberal arts who would like to understand what determines whether promising inventions and solutions fulfill their potential impact. It is offered as part of the Mendelson Center\u2019s special program in business management.\n  \nThe content is delivered incorporating lecture-based content, case discussions of existing companies, and group work to develop an early-stage idea and pitch it to a panel of investors.\n  \nFoundations of Entrepreneurship is a prerequisite to future lab-based entrepreneurship classes for undergraduates, Launch Your Startup and Entrepreneurial Greenhouse.\n \n \u00a0\n  \nPrerequisite or Corequisite:\n \nECON 1105W\n (Principles of Economics) \nAND\n one of the following Statistics courses:\n  \n  \n  \nSTAT 1001W\n (Intro to Statistical Reasoning)\n  \n  \n  \nSTAT 1101W\n (Introduction to Statistics)\n  \n  \n  \nSTAT 1201W\n (Calc-Based Intro to Statistics)\n  \n  \n  \nPSYC 1610W\n (Statistics for Behavioral Scientists)",
+    "course_descr":"Entrepreneurship is one of the most important economic activities shaping the United States. Entrepreneurial processes play a role in delivering new solutions to social problems, they are a strong determinant of wealth inequality and spatial disparities, and underlie technological progress. The class Foundations of Entrepreneurship provides any undergraduate student a comprehensive introduction to what entrepreneurship is and how it functions, including understanding how an idea evolves into a company, the role of key actors in an entrepreneurial ecosystem, and experiencing the entrepreneurial process. The class is valuable to any student in science, engineering, and liberal arts who would like to understand what determines whether promising inventions and solutions fulfill their potential impact.\n  \nThe content is delivered incorporating lecture-based content, case discussions of existing companies, and group work to develop an early-stage idea and pitch it to a panel of investors.\n  \nFoundations of Entrepreneurship is a prerequisite to future lab-based entrepreneurship classes for undergraduates, Launch Your Startup and Entrepreneurial Greenhouse.\n  \nPrerequisite or Corequisite: One of the following courses:\n  \n  \nECON UN1105 (Principles of Economics)\n  \nECON BC1003 (Introduction to Economic Reasoning)\n  \nBUSI UN3013 (Financial Accounting)\n  \nECON UN2261 (Accounting & Finance for Economics)",
     "instructor":"Michael Mauskapf",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"3:40pm",
@@ -27171,11 +27199,23 @@
     "method_of_instruction":"In-Person",
     "open_to":[
       "Columbia College",
+      "Engineering:Undergraduate",
       "General Studies"
     ],
     "points":"3",
     "prerequisites":[
-
+      [
+        "BUSI UN3013"
+      ],
+      [
+        "ECON BC1003"
+      ],
+      [
+        "ECON UN1105"
+      ],
+      [
+        "ECON UN2261"
+      ]
     ],
     "scheduled_days":"T",
     "section_key":"20271BUSI4518W001",
@@ -27689,7 +27729,7 @@
     "department":"Climate, Energy, & Environment",
     "department_code":"CEEN",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/CEEN\/U7435-20271-001\/",
-    "location":null,
+    "location":"501B International Affairs Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "SIPA"
@@ -27716,7 +27756,7 @@
     "department":"Climate, Energy, & Environment",
     "department_code":"CEEN",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/CEEN\/U7500-20271-001\/",
-    "location":null,
+    "location":"407 International Affairs Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "SIPA"
@@ -27743,7 +27783,7 @@
     "department":"Climate, Energy, & Environment",
     "department_code":"CEEN",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/CEEN\/U7500-20271-002\/",
-    "location":null,
+    "location":"407 International Affairs Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "SIPA"
@@ -27754,6 +27794,60 @@
     ],
     "scheduled_days":"T",
     "section_key":"20271CEEN7500U002",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"CEEN IA7500",
+    "course_title":"The Economics of Energy",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"5:10pm",
+    "scheduled_time_end":"7:00pm",
+    "call_number":"16867",
+    "campus":null,
+    "class_id":"U7500-20271-R01",
+    "course_subtitle":null,
+    "department":"Climate, Energy, & Environment",
+    "department_code":"CEEN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CEEN\/U7500-20271-R01\/",
+    "location":"404 International Affairs Building",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20271CEEN7500UR01",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"CEEN IA7500",
+    "course_title":"The Economics of Energy",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"10:00am",
+    "scheduled_time_end":"11:50am",
+    "call_number":"16868",
+    "campus":null,
+    "class_id":"U7500-20271-R02",
+    "course_subtitle":null,
+    "department":"Climate, Energy, & Environment",
+    "department_code":"CEEN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CEEN\/U7500-20271-R02\/",
+    "location":"405 International Affairs Building",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20271CEEN7500UR02",
     "type":"LECTURE"
   },
   {
@@ -27770,7 +27864,7 @@
     "department":"Climate, Energy, & Environment",
     "department_code":"CEEN",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/CEEN\/U7650-20271-001\/",
-    "location":null,
+    "location":"402 International Affairs Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "SIPA"
@@ -27797,7 +27891,7 @@
     "department":"Climate, Energy, & Environment",
     "department_code":"CEEN",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/CEEN\/U7702-20271-001\/",
-    "location":null,
+    "location":"405 International Affairs Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "SIPA"
@@ -27824,7 +27918,7 @@
     "department":"Climate, Energy, & Environment",
     "department_code":"CEEN",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/CEEN\/U7712-20271-001\/",
-    "location":null,
+    "location":"407 International Affairs Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "SIPA"
@@ -27851,7 +27945,7 @@
     "department":"Climate, Energy, & Environment",
     "department_code":"CEEN",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/CEEN\/U7730-20271-001\/",
-    "location":null,
+    "location":"409 International Affairs Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "SIPA"
@@ -27878,7 +27972,7 @@
     "department":"Climate, Energy, & Environment",
     "department_code":"CEEN",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/CEEN\/U7735-20271-001\/",
-    "location":null,
+    "location":"410 International Affairs Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "SIPA"
@@ -27905,7 +27999,7 @@
     "department":"Climate, Energy, & Environment",
     "department_code":"CEEN",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/CEEN\/U7740-20271-001\/",
-    "location":null,
+    "location":"501B International Affairs Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "SIPA"
@@ -27932,7 +28026,7 @@
     "department":"Climate, Energy, & Environment",
     "department_code":"CEEN",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/CEEN\/U7750-20271-001\/",
-    "location":null,
+    "location":"801 International Affairs Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "SIPA"
@@ -38308,7 +38402,7 @@
     "course_code":"CLEN GU4012",
     "course_title":"Mystics of the Medieval Low Countries an",
     "course_descr":"This course explores female religious authorship in the medieval Low Countries 1200 - 1500, with a particular focus on the beguines. The medieval Low Countries were a multilingual and religiously diverse region. Alongside monasteries and convents, the religious landscape included informal communities of lay religious women and men, beguines, and other forms of semi-religious life. From the late twelfth century onward, Latin religious writing increasingly interacted with vernacular literary production, creating a particularly fertile environment for new forms of religious expression in which women writers took the lead. The thirteenth century saw an extraordinary flourishing of writing on spiritual love, described as courtly mysticism (\nmystique courtoise\n), in which Latin contemplative traditions interact with the language, imagery, genres, and affective conventions of courtly love. We will study this phenomenon through the writings of Hadewijch of Brabant (c. 1240) and Marguerite Porete (d. 1310), while placing them in the wider movement of the \nmulieres religiosae\n of the thirteenth century.",
-    "instructor":null,
+    "instructor":"Veerle Fraeters",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
     "call_number":"16582",
@@ -50439,7 +50533,7 @@
     "department":"Data Science for Policy",
     "department_code":"DSPC",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/DSPC\/U7140-20271-001\/",
-    "location":null,
+    "location":"324 International Affairs Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "SIPA"
@@ -50468,7 +50562,7 @@
     "department":"Data Science for Policy",
     "department_code":"DSPC",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/DSPC\/U7160-20271-001\/",
-    "location":null,
+    "location":"404 International Affairs Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "SIPA"
@@ -50481,6 +50575,33 @@
     ],
     "scheduled_days":"R",
     "section_key":"20271DSPC7160U001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"DSPC IA7160",
+    "course_title":"Advanced Computing for Policy",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"3:10pm",
+    "scheduled_time_end":"5:00pm",
+    "call_number":"16873",
+    "campus":null,
+    "class_id":"U7160-20271-R01",
+    "course_subtitle":"Advanced Computing for Po",
+    "department":"Data Science for Policy",
+    "department_code":"DSPC",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/DSPC\/U7160-20271-R01\/",
+    "location":"405 International Affairs Building",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"F",
+    "section_key":"20271DSPC7160UR01",
     "type":"SEMINAR"
   },
   {
@@ -50497,7 +50618,7 @@
     "department":"Data Science for Policy",
     "department_code":"DSPC",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/DSPC\/U7500-20271-001\/",
-    "location":null,
+    "location":"501B International Affairs Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "SIPA"
@@ -50584,7 +50705,7 @@
     "department":"Data Science for Policy",
     "department_code":"DSPC",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/DSPC\/U7800-20271-001\/",
-    "location":null,
+    "location":"501 International Affairs Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "SIPA"
@@ -50746,7 +50867,7 @@
     "department":"Development and Governance",
     "department_code":"DVGO",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/DVGO\/U7002-20271-001\/",
-    "location":null,
+    "location":"410 International Affairs Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "SIPA"
@@ -50773,7 +50894,7 @@
     "department":"Development and Governance",
     "department_code":"DVGO",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/DVGO\/U7005-20271-001\/",
-    "location":null,
+    "location":"801 International Affairs Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "SIPA"
@@ -75336,6 +75457,31 @@
     "type":"WORKSHOP"
   },
   {
+    "course_code":"FILM AF5130",
+    "course_title":"SCRIPT TO SCREEN",
+    "course_descr":null,
+    "instructor":"Trey Ellis",
+    "scheduled_time_start":"2:00pm",
+    "scheduled_time_end":"5:00pm",
+    "call_number":"16857",
+    "campus":null,
+    "class_id":"R5130-20271-006",
+    "course_subtitle":null,
+    "department":"Film",
+    "department_code":"FILM",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FILM\/R5130-20271-006\/",
+    "location":"504 Dodge Hall",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"1.5",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20271FILM5130R006",
+    "type":"WORKSHOP"
+  },
+  {
     "course_code":"FILM AF5220",
     "course_title":"DIRECTING II",
     "course_descr":null,
@@ -75436,6 +75582,56 @@
     "type":"WORKSHOP"
   },
   {
+    "course_code":"FILM AF5220",
+    "course_title":"DIRECTING II",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"6:00pm",
+    "scheduled_time_end":"9:00pm",
+    "call_number":"16862",
+    "campus":null,
+    "class_id":"R5220-20271-005",
+    "course_subtitle":null,
+    "department":"Film",
+    "department_code":"FILM",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FILM\/R5220-20271-005\/",
+    "location":"504 Dodge Hall",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20271FILM5220R005",
+    "type":"WORKSHOP"
+  },
+  {
+    "course_code":"FILM AF5220",
+    "course_title":"DIRECTING II",
+    "course_descr":null,
+    "instructor":"Hilary Brougher",
+    "scheduled_time_start":"2:00pm",
+    "scheduled_time_end":"5:00pm",
+    "call_number":"16871",
+    "campus":null,
+    "class_id":"R5220-20271-006",
+    "course_subtitle":null,
+    "department":"Film",
+    "department_code":"FILM",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FILM\/R5220-20271-006\/",
+    "location":"507 Dodge Hall",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20271FILM5220R006",
+    "type":"WORKSHOP"
+  },
+  {
     "course_code":"FILM AF5240",
     "course_title":"DIRECTING ACTORS II",
     "course_descr":null,
@@ -75458,6 +75654,31 @@
     ],
     "scheduled_days":"M",
     "section_key":"20271FILM5240R001",
+    "type":"WORKSHOP"
+  },
+  {
+    "course_code":"FILM AF5240",
+    "course_title":"DIRECTING ACTORS II",
+    "course_descr":null,
+    "instructor":"Jodie Markell",
+    "scheduled_time_start":"2:00pm",
+    "scheduled_time_end":"5:00pm",
+    "call_number":"16872",
+    "campus":null,
+    "class_id":"R5240-20271-002",
+    "course_subtitle":null,
+    "department":"Film",
+    "department_code":"FILM",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FILM\/R5240-20271-002\/",
+    "location":"15T Riverside Church",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20271FILM5240R002",
     "type":"WORKSHOP"
   },
   {
@@ -96307,7 +96528,9 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/IEOR\/E3700-20271-001\/",
     "location":"337 Seeley W. Mudd Building",
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "Engineering:Undergraduate"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -97376,7 +97599,8 @@
     "location":"142 Uris Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Engineering:Graduate"
+      "Engineering:Graduate",
+      "Engineering:Undergraduate"
     ],
     "points":"3",
     "prerequisites":[
@@ -97384,6 +97608,34 @@
     ],
     "scheduled_days":"TR",
     "section_key":"20271IEOR4012E002",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"IEOR E4012",
+    "course_title":"Responsible AI: Decisions, Risk, and Gov",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"11:25am",
+    "call_number":"16875",
+    "campus":null,
+    "class_id":"E4012-20271-001",
+    "course_subtitle":"Responsible AI: Dec Risk",
+    "department":"Industrial Engineering and Operations Research",
+    "department_code":"IEOR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/IEOR\/E4012-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Engineering:Graduate",
+      "Engineering:Undergraduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20271IEOR4012E001",
     "type":"LECTURE"
   },
   {
@@ -97821,7 +98073,7 @@
     "open_to":[
       "Engineering:Graduate"
     ],
-    "points":"1.5",
+    "points":"3",
     "prerequisites":[
 
     ],
@@ -98044,7 +98296,8 @@
     "location":"517 Hamilton Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Engineering:Graduate"
+      "Engineering:Graduate",
+      "Engineering:Undergraduate"
     ],
     "points":"3",
     "prerequisites":[
@@ -98150,7 +98403,7 @@
     "department":"Industrial Engineering and Operations Research",
     "department_code":"IEOR",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/IEOR\/E4724-20271-001\/",
-    "location":"614 Schermerhorn Hall [SCH]",
+    "location":"614 Schermerhorn Hall [SCH], Wednesday 6:10pm-8:40pm",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"3",
@@ -120290,7 +120543,7 @@
     "department":"Mechanical Engineering",
     "department_code":"MECE",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/MECE\/E3408-20271-001\/",
-    "location":"227 Seeley W. Mudd Building",
+    "location":"1224 Seeley W. Mudd Building",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"3",
@@ -120315,7 +120568,7 @@
     "department":"Mechanical Engineering",
     "department_code":"MECE",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/MECE\/E3408-20271-002\/",
-    "location":"227 Seeley W. Mudd Building",
+    "location":"1224 Seeley W. Mudd Building",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"3",
@@ -121365,7 +121618,7 @@
     "department":"Mechanical Engineering",
     "department_code":"MECE",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/MECE\/E4990-20271-003\/",
-    "location":"253 Engineering Terrace",
+    "location":"1224 Seeley W. Mudd Building",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"3",
@@ -134766,6 +135019,373 @@
     "scheduled_days":null,
     "section_key":"20271PHED1005C016",
     "type":"PHYSICAL EDU"
+  },
+  {
+    "course_code":"PHED UN1005",
+    "course_title":"INTERCOLLEGIATE ATHLETICS",
+    "course_descr":null,
+    "instructor":"Jennifer Teague",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"16852",
+    "campus":null,
+    "class_id":"C1005-20271-018",
+    "course_subtitle":"INTRCOL ATH: WOMEN'S SOFTBALL",
+    "department":"Physical Education",
+    "department_code":"PHED",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PHED\/C1005-20271-018\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"0-1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271PHED1005C018",
+    "type":"PHYSICAL EDU"
+  },
+  {
+    "course_code":"PHED UN1005",
+    "course_title":"INTERCOLLEGIATE ATHLETICS",
+    "course_descr":null,
+    "instructor":"Christopher Sachvie",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"16853",
+    "campus":null,
+    "class_id":"C1005-20271-019",
+    "course_subtitle":"INTRCOL ATH: WOMEN'S SQUASH",
+    "department":"Physical Education",
+    "department_code":"PHED",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PHED\/C1005-20271-019\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"0-1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271PHED1005C019",
+    "type":"PHYSICAL EDU"
+  },
+  {
+    "course_code":"PHED UN1005",
+    "course_title":"INTERCOLLEGIATE ATHLETICS",
+    "course_descr":null,
+    "instructor":"Christopher Sachvie",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"16854",
+    "campus":null,
+    "class_id":"C1005-20271-020",
+    "course_subtitle":"INTRCOL ATH: MEN'S SQUASH",
+    "department":"Physical Education",
+    "department_code":"PHED",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PHED\/C1005-20271-020\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"0-1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271PHED1005C020",
+    "type":"PHYSICAL EDU"
+  },
+  {
+    "course_code":"PHED UN1005",
+    "course_title":"INTERCOLLEGIATE ATHLETICS",
+    "course_descr":null,
+    "instructor":"Diana Caskey",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"16855",
+    "campus":null,
+    "class_id":"C1005-20271-021",
+    "course_subtitle":"INTRCOL ATH: WOMEN'S SWIMMING",
+    "department":"Physical Education",
+    "department_code":"PHED",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PHED\/C1005-20271-021\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"0-1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271PHED1005C021",
+    "type":"PHYSICAL EDU"
+  },
+  {
+    "course_code":"PHED UN1005",
+    "course_title":"INTERCOLLEGIATE ATHLETICS",
+    "course_descr":null,
+    "instructor":"Howard M Endelman",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"16856",
+    "campus":null,
+    "class_id":"C1005-20271-024",
+    "course_subtitle":"INTRCOL ATH: MEN'S TENNIS",
+    "department":"Physical Education",
+    "department_code":"PHED",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PHED\/C1005-20271-024\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"0-1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271PHED1005C024",
+    "type":"PHYSICAL EDU"
+  },
+  {
+    "course_code":"PHED UN1005",
+    "course_title":"INTERCOLLEGIATE ATHLETICS",
+    "course_descr":null,
+    "instructor":"Ilene J Weintraub",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"16859",
+    "campus":null,
+    "class_id":"C1005-20271-023",
+    "course_subtitle":"INTRCOL ATH: WOMEN'S TENNIS",
+    "department":"Physical Education",
+    "department_code":"PHED",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PHED\/C1005-20271-023\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"0-1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271PHED1005C023",
+    "type":"PHYSICAL EDU"
+  },
+  {
+    "course_code":"PHED UN1005",
+    "course_title":"INTERCOLLEGIATE ATHLETICS",
+    "course_descr":null,
+    "instructor":"Daniel Ireland",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"16860",
+    "campus":null,
+    "class_id":"C1005-20271-025",
+    "course_subtitle":"INTRCOL ATH: WOMEN'S TRACK",
+    "department":"Physical Education",
+    "department_code":"PHED",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PHED\/C1005-20271-025\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"0-1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271PHED1005C025",
+    "type":"PHYSICAL EDU"
+  },
+  {
+    "course_code":"PHED UN1005",
+    "course_title":"INTERCOLLEGIATE ATHLETICS",
+    "course_descr":null,
+    "instructor":"Daniel Ireland",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"16861",
+    "campus":null,
+    "class_id":"C1005-20271-026",
+    "course_subtitle":"INTRCOL ATH: MEN'S TRACK",
+    "department":"Physical Education",
+    "department_code":"PHED",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PHED\/C1005-20271-026\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"0-1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271PHED1005C026",
+    "type":"PHYSICAL EDU"
+  },
+  {
+    "course_code":"PHED UN1005",
+    "course_title":"INTERCOLLEGIATE ATHLETICS",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"16863",
+    "campus":null,
+    "class_id":"C1005-20271-027",
+    "course_subtitle":"INTRCOL ATH:WOMEN'S VOLLEYBALL",
+    "department":"Physical Education",
+    "department_code":"PHED",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PHED\/C1005-20271-027\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "General Studies"
+    ],
+    "points":"0-1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271PHED1005C027",
+    "type":"PHYSICAL EDU"
+  },
+  {
+    "course_code":"PHED UN1005",
+    "course_title":"INTERCOLLEGIATE ATHLETICS",
+    "course_descr":null,
+    "instructor":"Donny Pritzlaff",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"16865",
+    "campus":null,
+    "class_id":"C1005-20271-028",
+    "course_subtitle":"INTRCOL ATH: WRESTLING",
+    "department":"Physical Education",
+    "department_code":"PHED",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PHED\/C1005-20271-028\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "General Studies"
+    ],
+    "points":"0-1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271PHED1005C028",
+    "type":"PHYSICAL EDU"
+  },
+  {
+    "course_code":"PHED UN1005",
+    "course_title":"INTERCOLLEGIATE ATHLETICS",
+    "course_descr":null,
+    "instructor":"Zack Almonte",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"16866",
+    "campus":null,
+    "class_id":"C1005-20271-029",
+    "course_subtitle":"INTRCOL ATH: CHEERLEAD\/DANCE",
+    "department":"Physical Education",
+    "department_code":"PHED",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PHED\/C1005-20271-029\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate",
+      "General Studies"
+    ],
+    "points":"0-1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271PHED1005C029",
+    "type":"PHYSICAL EDU"
+  },
+  {
+    "course_code":"PHED UN3998",
+    "course_title":"INDEPENDENT STUDY",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"16869",
+    "campus":null,
+    "class_id":"C3998-20271-001",
+    "course_subtitle":"PHYS ED:  Independent Study",
+    "department":"Physical Education",
+    "department_code":"PHED",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PHED\/C3998-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271PHED3998C001",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"PHED UN3998",
+    "course_title":"INDEPENDENT STUDY",
+    "course_descr":null,
+    "instructor":"Zack Almonte",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"16870",
+    "campus":null,
+    "class_id":"C3998-20271-002",
+    "course_subtitle":"PHYS ED:  Independent Study",
+    "department":"Physical Education",
+    "department_code":"PHED",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PHED\/C3998-20271-002\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Columbia College",
+      "Engineering:Undergraduate"
+    ],
+    "points":"1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271PHED3998C002",
+    "type":"INDEPENDENT"
   },
   {
     "course_code":"PHIL BC4050",
@@ -164626,6 +165246,31 @@
     "type":"SEMINAR"
   },
   {
+    "course_code":"SOCI GU4041",
+    "course_title":"Money and Values",
+    "course_descr":null,
+    "instructor":"Matthias Thiemann",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"6:00pm",
+    "call_number":"16864",
+    "campus":null,
+    "class_id":"W4041-20271-001",
+    "course_subtitle":null,
+    "department":"Sociology",
+    "department_code":"SOCI",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SOCI\/W4041-20271-001\/",
+    "location":"509 Knox Hall",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20271SOCI4041W001",
+    "type":"SEMINAR"
+  },
+  {
     "course_code":"SOCI GU4068",
     "course_title":"THE UNIVERSITY IN AMER LIFE",
     "course_descr":null,
@@ -165042,8 +165687,8 @@
     "course_title":"Servitude and Service Work in Literature",
     "course_descr":"This class brings the sociology of work into conversation with representations of servitude and service work in novels and television.\u00a0The founding theorists of sociology were trying to make sense of the development of capitalism and the industrial revolution, and placed work at the center of their analyses. As our industrial economy transformed into one dominated by service work, scholars shifted their attention to new forms of work and developed new frameworks for theorizing interactions and relationships in the service sector workplace. How do we understand a workplace where interactions with customers, clients, or patients is a significant part of the work? How do we understand circumstances where we pay others to care for \u2013 and even to love \u2013 the old, the sick, and the young? What happens when one person\u2019s workplace is another person\u2019s home? And what does precarity look like, and feel like, in the service economy? These are some of the issues we will be examining this semester.\n  \nFictionalized representations of workers and workplaces help illustrate the sociological points we are learning, and are especially good at exploring the interactions and relationships central to service work. They can also bring us closer to the emotional experience of work. In Part I of the course, we will get our sociological grounding in the study of interactive service work. In Part II, we will examine different forms of work and pair sociology with novels and TV shows.",
     "instructor":"Teresa Sharpe",
-    "scheduled_time_start":"2:10pm",
-    "scheduled_time_end":"4:00pm",
+    "scheduled_time_start":"12:10pm",
+    "scheduled_time_end":"2:00pm",
     "call_number":"16454",
     "campus":null,
     "class_id":"W3271-20271-001",
@@ -165051,7 +165696,7 @@
     "department":"Sociology",
     "department_code":"SOCI",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SOCI\/W3271-20271-001\/",
-    "location":null,
+    "location":"613 Hamilton Hall",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"4",
@@ -181361,7 +182006,7 @@
     "course_code":"THEA AT6190",
     "course_title":"CREATIVE CODING",
     "course_descr":"In the production of immersive experiences, technology is used in creative ways to promote interactivity with an audience. Imagine creating performances where effects are magically triggered by participants, bespoke props can be controlled through theatrical cueing systems and online experiences are connected to the physical world. The Internet of Things (IoT) can be much more than smart toaster ovens - connected devices open up the possibility for unique storytelling opportunities beyond the screen.\n  \nThis course provides a hands-on introduction to programming and the development of physical computing devices. We will explore various sensors, outputs, communication protocols and methods for connecting internet services together to create interactive prototypes for your immersive concepts.",
-    "instructor":"Josh Corn",
+    "instructor":null,
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"5:00pm",
     "call_number":"14801",
@@ -181875,8 +182520,8 @@
     "course_title":"TICKETING",
     "course_descr":"An in-depth, seminar-style course on the management of ticketing with a focus on practical strategies to maximize grosses efficiently while providing a seamless audience experience. The course includes a semester-long group project intended to demonstrate the various decisions that theater managers must make to ensure the financial stability of their productions and institutions.",
     "instructor":"Justin L Karr",
-    "scheduled_time_start":"6:30pm",
-    "scheduled_time_end":"8:30pm",
+    "scheduled_time_start":"5:10pm",
+    "scheduled_time_end":"8:00pm",
     "call_number":"14810",
     "campus":null,
     "class_id":"R8002-20271-001",
@@ -181884,7 +182529,7 @@
     "department":"Theatre Arts",
     "department_code":"THEA",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/THEA\/R8002-20271-001\/",
-    "location":null,
+    "location":"605 Dodge Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Schools of the Arts"
@@ -181893,7 +182538,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":"M",
+    "scheduled_days":"T",
     "section_key":"20271THEA8002R001",
     "type":"SEMINAR"
   },
@@ -181927,8 +182572,8 @@
     "course_title":"CRITICAL ISSUES IN STAGE MANAGEMENT",
     "course_descr":"Conflict Resilience. Developing the comfort and skills necessary to respond to disagreements and mis-alignments is essential for leaders and stage managers. Through a series of discussions, experienced guests, reading, role-playing, and in-class exercises, this workshop style class will present an overview of Alternative Dispute Resolution (ADR) and Restorative Process theory and techniques with a practical focus on building our skills and comfort level to be able to reframe conflict as a chance for learning, understanding, and change.\n  \nExceeding EDI. The impact of incorporating Equity, Diversity, Inclusion, Accessibility and Belonging into the commercial theater industry in a post George Floyd era. As stage managers, it is crucial that there is a framework for supporting the evolving identities and needs of the many populations present in a theater setting. Through a series of articles, in-class discussions, written reflections and conversations with working professionals, we will develop an understanding of a variety of social issues that currently exist in the industry while building a toolkit on how to navigate them.",
     "instructor":"Katherine A Mahoney",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"9:30am",
+    "scheduled_time_end":"12:20pm",
     "call_number":"14652",
     "campus":null,
     "class_id":"R8031-20271-002",
@@ -181945,7 +182590,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"W",
     "section_key":"20271THEA8031R002",
     "type":"SEMINAR"
   },
@@ -181954,8 +182599,8 @@
     "course_title":"ART OF LEADING: NEXT PRACTICES FOR SM",
     "course_descr":"As a Stage Manager, collaborative leadership is a both a skill and an art. It is crucial to the success of any production. This involves understanding human behavior, developing effective communication skills, and fostering a holistic workplace environment. Contemporary stage managers need to develop \u201cnext practice\u201d skills\n in order to actively calibrate their important contribution to the art of creating theater. With practice and refinement, these skills become the foundation for stage managers to lead the people and the production.\n  \nThe goal of the course is to explore a variety of forward-thinking topics that focus on the process of leading theatrical teams; by the end of the semester, students should have not only a better understanding of next practice theory, but methodologies and competencies that they can deploy in practice.",
     "instructor":"Amber White",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"1:00pm",
+    "scheduled_time_end":"3:45pm",
     "call_number":"14654",
     "campus":null,
     "class_id":"R8034-20271-001",
@@ -181972,7 +182617,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"R",
     "section_key":"20271THEA8034R001",
     "type":"SEMINAR"
   },
@@ -182028,33 +182673,6 @@
     ],
     "scheduled_days":"R",
     "section_key":"20271THEA8050R005",
-    "type":"STUDIO"
-  },
-  {
-    "course_code":"THEA AT8050",
-    "course_title":"THEATRE PRACTICUM II",
-    "course_descr":"TBD",
-    "instructor":"James Ijames",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
-    "call_number":"14708",
-    "campus":null,
-    "class_id":"R8050-20271-004",
-    "course_subtitle":"PLAYWRIGHT-ACTOR WORKSHOP",
-    "department":"Theatre Arts",
-    "department_code":"THEA",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/THEA\/R8050-20271-004\/",
-    "location":null,
-    "method_of_instruction":"In-Person",
-    "open_to":[
-      "Schools of the Arts"
-    ],
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":null,
-    "section_key":"20271THEA8050R004",
     "type":"STUDIO"
   },
   {
@@ -182652,31 +183270,6 @@
     "type":"PRACTICA"
   },
   {
-    "course_code":"THEA AT8670",
-    "course_title":"SCENE STUDY II",
-    "course_descr":null,
-    "instructor":"Brian Kulick",
-    "scheduled_time_start":"2:10pm",
-    "scheduled_time_end":"5:00pm",
-    "call_number":"14785",
-    "campus":null,
-    "class_id":"R8670-20271-002",
-    "course_subtitle":"SCENE STUDY II: CHEKHOV",
-    "department":"Theatre Arts",
-    "department_code":"THEA",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/THEA\/R8670-20271-002\/",
-    "location":null,
-    "method_of_instruction":"In-Person",
-    "open_to":null,
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"R",
-    "section_key":"20271THEA8670R002",
-    "type":"STUDIO"
-  },
-  {
     "course_code":"THEA AT8675",
     "course_title":"CURRENT ISSUES IN STAGE MANAGEMENT",
     "course_descr":"The function of a stage manager in the process of a musical \u2013 through the use of technological advances. This class will be an in-depth examination of how modern stage management contributes to this process through the implementation of seminal methodologies. Focus will be placed on how digital platforms can be used to support this process from beginning to end.",
@@ -182717,7 +183310,7 @@
     "department":"Theatre Arts",
     "department_code":"THEA",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/THEA\/R8700-20271-001\/",
-    "location":null,
+    "location":"605 Dodge Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Schools of the Arts"
@@ -182870,8 +183463,8 @@
     "course_title":"LEGAL WRITING PRACTICUM",
     "course_descr":null,
     "instructor":"Carolyn J Casselman",
-    "scheduled_time_start":"6:00pm",
-    "scheduled_time_end":"7:30pm",
+    "scheduled_time_start":"5:00pm",
+    "scheduled_time_end":"6:30pm",
     "call_number":"14735",
     "campus":null,
     "class_id":"R8820-20271-001",
@@ -182924,8 +183517,8 @@
     "course_title":"PUBLIC SECTOR POLICY & AMERICAN THEATRE",
     "course_descr":"Students will gain an understanding of public sector planning and policies related to theater and the arts broadly, while also learning how research makes the case for public investment in arts planning, grantmaking, and new facilities. The course will include an overview of research tools and resources to support a final project and in preparation for students\u2019 independent research work.",
     "instructor":"Stacey C McMath",
-    "scheduled_time_start":"1:00pm",
-    "scheduled_time_end":"3:00pm",
+    "scheduled_time_start":"6:30pm",
+    "scheduled_time_end":"8:30pm",
     "call_number":"14812",
     "campus":null,
     "class_id":"R8860-20271-001",
@@ -182942,7 +183535,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":"T",
+    "scheduled_days":"M",
     "section_key":"20271THEA8860R001",
     "type":"SEMINAR"
   },
@@ -182952,7 +183545,7 @@
     "course_descr":"TBD",
     "instructor":"James Calleri",
     "scheduled_time_start":"9:30am",
-    "scheduled_time_end":"12:30pm",
+    "scheduled_time_end":"1:00pm",
     "call_number":"14813",
     "campus":null,
     "class_id":"R9010-20271-001",
@@ -182960,7 +183553,7 @@
     "department":"Theatre Arts",
     "department_code":"THEA",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/THEA\/R9010-20271-001\/",
-    "location":null,
+    "location":"1 NASH BUILDIN",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Schools of the Arts"
@@ -182987,7 +183580,7 @@
     "department":"Theatre Arts",
     "department_code":"THEA",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/THEA\/R9010-20271-003\/",
-    "location":null,
+    "location":"3 NASH BUILDIN, Friday 9:00am-12:50pm 6 NASH BUILDIN",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Schools of the Arts"
@@ -183005,8 +183598,8 @@
     "course_title":"PROFESSIONAL PRACTICE",
     "course_descr":"TBD",
     "instructor":"James Ijames",
-    "scheduled_time_start":"6:00pm",
-    "scheduled_time_end":"8:50pm",
+    "scheduled_time_start":"5:30pm",
+    "scheduled_time_end":"9:00pm",
     "call_number":"14818",
     "campus":null,
     "class_id":"R9010-20271-002",
@@ -183014,7 +183607,7 @@
     "department":"Theatre Arts",
     "department_code":"THEA",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/THEA\/R9010-20271-002\/",
-    "location":null,
+    "location":"605 Dodge Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Schools of the Arts"
@@ -183032,8 +183625,8 @@
     "course_title":"SHOWCASE",
     "course_descr":"Showcase is designed to support the student in gaining practical experience, advice and knowledge of the acting profession. During the semester students are exposed to various topics on the industry through workshops and dialogue, and hands-on assignments. Students will prepare for Spring Showcase. In addition they will be exposed to various industry guests to gain a better understanding of the industry and what is expected of them in the marketplace. Students will be evaluated and given critical feedback of the work they turn in on assigned topics and in participation in seminars and workshops.",
     "instructor":"Daniel Gordon",
-    "scheduled_time_start":"9:30am",
-    "scheduled_time_end":"12:30pm",
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"5:00pm",
     "call_number":"14814",
     "campus":null,
     "class_id":"R9100-20271-001",
@@ -183041,7 +183634,7 @@
     "department":"Theatre Arts",
     "department_code":"THEA",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/THEA\/R9100-20271-001\/",
-    "location":null,
+    "location":"6 NASH BUILDIN",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Schools of the Arts"
@@ -183050,7 +183643,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":"M",
+    "scheduled_days":"W",
     "section_key":"20271THEA9100R001",
     "type":"PRACTICA"
   },
@@ -184597,8 +185190,8 @@
   },
   {
     "course_code":"TMGT PS5133",
-    "course_title":"User-Centric Design and Innovation",
-    "course_descr":"Everything we encounter in society (products, services, brands, processes, events, spaces, systems, even politics) was designed to a lesser or greater degree to optimize a particular quality and create a specific experience. Design can be applied to any offering and the design process can be applied to the evaluation, development, and delivery of offerings within any industry or in response to many challenges. This makes it particularly critical and integral for most kinds of innovation.\nThis course will explore a broad range of design topics, including the design process, nearly always in a business context. It will be hands-on, learning by building design solutions. We will look at procedural issues that describe how to integrate the design process into other business operations as well as contemporary and future challenges facing design and strengths of design as a user-based process and perspective.\nParticipants in this semester-long elective will emerge with a proficient understanding of the design process, how it relates to business on many levels, what to expect of design work products, and how to evaluate design solutions in larger contexts. Participants won\u2019t necessarily become design experts or expert designers, but will be capable of critiquing design and evaluating how it can add value to their own endeavors.\nWeekly Class Meeting 110 min x 14 = 1,540 min; Design Critique & Workshop Sessions (Category A) 30-60 min sessions = 300 min; Field Trips & Industry Engagement (Category B) 3 sessions 1x120; 1x90; 1x120 = 330 min; Midterm Project Reviews with Lecturer and TA (Category E) 1 session x 105 min = 105 min; TOTAL = 2,275 min (for entire semester)",
+    "course_title":"User-Centric Innovation",
+    "course_descr":"Everything we encounter in society (products, services, brands, processes, events, spaces, systems, even politics) was designed to a lesser or greater degree to optimize a particular quality and create a specific experience. Design can be applied to any offering and the design process can be applied to the evaluation, development, and delivery of offerings within any industry or in response to many challenges. This makes it particularly critical and integral for most kinds of innovation.\n  \nThis course will explore a broad range of innovation topics, including the design process, nearly always in a business context. It will be hands-on, learning by building innovative solutions. We will look at procedural issues that describe how to integrate the design process into other business operations as well as contemporary and future challenges facing design and strengths of design as a user-based process and perspective.\n  \nParticipants in this semester-long elective will emerge with a proficient understanding of the design process, how it relates to business on many levels, what to expect of design work products, and how to evaluate design solutions in larger contexts. Participants won\u2019t necessarily become design experts or expert designers, but will be capable of critiquing design and evaluating how it can add value to their own endeavors.\n  \nWeekly Class Meeting 110 min x 14 = 1,540 min; Design Critique & Workshop Sessions (Category A) 30-60 min sessions = 300 min; Field Trips & Industry Engagement (Category B) 3 sessions 1x120; 1x90; 1x120 = 330 min; Midterm Project Reviews with Lecturer and TA (Category E) 1 session x 105 min = 105 min; TOTAL = 2,275 min (for entire semester)",
     "instructor":"David Roselle",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
