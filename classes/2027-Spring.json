@@ -180304,6 +180304,34 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"STAT GR5293",
+    "course_title":"TOPICS IN MODERN STATISTICS",
+    "course_descr":"Topics in Modern Statistics will provide MA Statistics students with an opportunity to study a specialized area of statistics in more depth and to meet the educational needs of a rapidly growing field.",
+    "instructor":"Junren Chen",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"14459",
+    "campus":null,
+    "class_id":"G5293-20271-002",
+    "course_subtitle":"Statistical Aspects of Fi",
+    "department":"Statistics",
+    "department_code":"STAT",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/STAT\/G5293-20271-002\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Engineering:Graduate",
+      "GSAS"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271STAT5293G002",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"STAT GR5294",
     "course_title":"TOPICS IN MACHINE LEARNING AND AI",
     "course_descr":"TOPICS IN MACHINE LEARNING AND AI will provide MA Statistics students with an opportunity to study specialized areas of statistics in more depth and to meet the educational needs of a rapidly growing field.",
@@ -180500,8 +180528,8 @@
     "course_title":"STAT INFERENCE & MODELING",
     "course_descr":"Prerequisites: (STAT GR5701) working knowledge of calculus and linear algebra (vectors and matrices), STAT GR5701 or equivalent, and familiarity with a programming language (e.g. R, Python) for statistical data analysis. In this course, we will systematically cover fundamentals of statistical inference and modeling, with special attention to models and methods that address practical data issues. The course will be focused on inference and modeling approaches such as the EM algorithm, MCMC methods and Bayesian modeling, linear regression models, generalized linear regression models, nonparametric regressions, and statistical computing. In addition, the course will provide introduction to statistical methods and modeling that addresses various practical issues such as design of experiments, analysis of time-dependent data, missing values, etc. Throughpout the course, real-data examples will be used in lecture discussion and homework problems. This course lays the statistical foundation for inference and modeling using data, preparing the MS in Data Science students, for other courses in machine learning, data mining and visualization.",
     "instructor":"Dobrin Marchev",
-    "scheduled_time_start":"4:10pm",
-    "scheduled_time_end":"5:25pm",
+    "scheduled_time_start":"4:40pm",
+    "scheduled_time_end":"5:55pm",
     "call_number":"14453",
     "campus":null,
     "class_id":"W5703-20271-001",
@@ -180509,7 +180537,7 @@
     "department":"Statistics",
     "department_code":"STAT",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/STAT\/W5703-20271-001\/",
-    "location":"402 Chandler",
+    "location":null,
     "method_of_instruction":"In-Person",
     "open_to":[
       "Engineering:Graduate"
@@ -181849,8 +181877,8 @@
     "course_title":"ADVANCED DATA ANALYSIS",
     "course_descr":"Prerequisites: STAT GU4205 and at least one statistics course numbered between GU4221 and GU4261. This is a course on getting the most out of data. The emphasis will be on hands-on experience, involving case studies with real data and using common statistical packages. The course covers, at a very high level, exploratory data analysis, model formulation, goodness of fit testing, and other standard and non-standard statistical procedures, including linear regression, analysis of variance, nonlinear regression, generalized linear models, survival analysis, time series analysis, and modern regression methods. Students will be expected to propose a data set of their choice for use as case study material.",
     "instructor":"Gabriel Young",
-    "scheduled_time_start":"1:10pm",
-    "scheduled_time_end":"2:25pm",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"12:55pm",
     "call_number":"14488",
     "campus":null,
     "class_id":"W4291-20271-001",
@@ -181858,7 +181886,7 @@
     "department":"Statistics",
     "department_code":"STAT",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/STAT\/W4291-20271-001\/",
-    "location":"417 International Affairs Building",
+    "location":null,
     "method_of_instruction":"In-Person",
     "open_to":[
       "Columbia College",
@@ -181877,7 +181905,7 @@
         "STAT GU4205"
       ]
     ],
-    "scheduled_days":"MW",
+    "scheduled_days":"F",
     "section_key":"20271STAT4291W001",
     "type":"LECTURE"
   },
@@ -182368,7 +182396,7 @@
     "department":"Statistics",
     "department_code":"STAT",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/STAT\/W1201-20271-001\/",
-    "location":"301 Pupin Laboratories",
+    "location":null,
     "method_of_instruction":"In-Person",
     "open_to":[
       "Columbia College",
@@ -182383,7 +182411,7 @@
         "ECON W3412"
       ]
     ],
-    "scheduled_days":"MW",
+    "scheduled_days":"TR",
     "section_key":"20271STAT1201W001",
     "type":"LECTURE"
   },
@@ -194152,6 +194180,56 @@
     "type":"SEMINAR"
   },
   {
+    "course_code":"WRIT UN3052",
+    "course_title":"NEW NARRATIVE'S QUEER AVANT-GARDE",
+    "course_descr":null,
+    "instructor":"Daniel Felsenthal",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"6:00pm",
+    "call_number":"17005",
+    "campus":null,
+    "class_id":"W3052-20271-001",
+    "course_subtitle":"NEW NARRATIVE'S QUEER AVN",
+    "department":"Writing",
+    "department_code":"WRIT",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/WRIT\/W3052-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20271WRIT3052W001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"WRIT UN3054",
+    "course_title":"INTERACTIVE NARRATIVE",
+    "course_descr":null,
+    "instructor":"Nat Mesnard",
+    "scheduled_time_start":"12:10pm",
+    "scheduled_time_end":"2:00pm",
+    "call_number":"17004",
+    "campus":null,
+    "class_id":"W3054-20271-001",
+    "course_subtitle":null,
+    "department":"Writing",
+    "department_code":"WRIT",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/WRIT\/W3054-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20271WRIT3054W001",
+    "type":"SEMINAR"
+  },
+  {
     "course_code":"WRIT UN3100",
     "course_title":"OPEN FICTION WORKSHOP",
     "course_descr":"Prerequisite: Student must have taken beginning workshop in any undergraduate creative writing concentration. Open workshops are for students who are acquainted with and have experience in at least one beginning workshop in creative writing. In Open Fiction Workshops, particular attention will be paid to the components of fiction: voice, perspective, characterization, and form. Students will be expected to finish several short stories, executing a total artistic vision on a piece of writing. The critical focus of the class will include an examination of endings and formal wholeness, sustaining narrative arcs, compelling a reader's interest for the duration of the text, and generating a sense of urgency and drama in the work. A portfolio of fiction will be written and revised with critical input from the instructor and workshop. Outside readings may be used to supplement and inform the exercises and written projects. Please visit \nhttps:\/\/arts.columbia.edu\/writing\/undergraduate\n for information about registration procedures.",
@@ -194327,6 +194405,56 @@
     "type":"SEMINAR"
   },
   {
+    "course_code":"WRIT UN3140",
+    "course_title":"THE METAPHOR LAB",
+    "course_descr":null,
+    "instructor":"Hilary J Leichter",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"12:00pm",
+    "call_number":"17003",
+    "campus":null,
+    "class_id":"W3140-20271-001",
+    "course_subtitle":"METAPHOR LAB",
+    "department":"Writing",
+    "department_code":"WRIT",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/WRIT\/W3140-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20271WRIT3140W001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"WRIT UN3142",
+    "course_title":"THE EPISTOLARY NOVEL",
+    "course_descr":null,
+    "instructor":"Patricia A Marx",
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"17002",
+    "campus":null,
+    "class_id":"W3142-20271-001",
+    "course_subtitle":"EPISTOLARY NOVEL",
+    "department":"Writing",
+    "department_code":"WRIT",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/WRIT\/W3142-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20271WRIT3142W001",
+    "type":"SEMINAR"
+  },
+  {
     "course_code":"WRIT UN3200",
     "course_title":"OPEN NONFICTION WORKSHOP",
     "course_descr":"Prerequisite: Student must have taken beginning workshop in any undergraduate creative writing concentration. Open Nonfiction Workshop is designed for students with some experience in writing literary nonfiction. Intermediate workshops present a higher creative standard than beginning workshops and an expectation that students will produce finished work. Outside readings supplement and inform the exercises and longer written projects. By the end of the semester, students will have produced thirty to forty pages of original work in at least two traditions of literary nonfiction. Please visit\u00a0\nhttps:\/\/arts.columbia.edu\/writing\/undergraduate\n\u00a0for information about registration procedures.",
@@ -194375,31 +194503,6 @@
     "scheduled_days":"T",
     "section_key":"20271WRIT3201W001",
     "type":"WORKSHOP"
-  },
-  {
-    "course_code":"WRIT UN3230",
-    "course_title":"INTERACTIVE MEMOIR",
-    "course_descr":"What does it mean to invite readers to play in\u2014and with\u2014your memories? Can memoir writing\u00a0be\u2026a game? In this seminar, we will explore the basics of interactive narrative design as applied to memoir, essay, and creative non-fiction, investigating how games and interactivity can transform what it means to tell your life story. We will will read, play, and discuss videogames, artgames, interactive (non-)fiction, innovative digital media, and experimental non-fiction, developing an aesthetics of interactive nonfiction writing that informs two open-platform interactive memoir projects over the course of the semester. Tutorials on interactive narrative tools like Twine, Bitsy, and Downpour will accompany playtesting workshops to establish a game-literate creative community committed to pushing the boundaries of the form.",
-    "instructor":"Nat Mesnard",
-    "scheduled_time_start":"12:10pm",
-    "scheduled_time_end":"2:00pm",
-    "call_number":"14042",
-    "campus":null,
-    "class_id":"W3230-20271-001",
-    "course_subtitle":null,
-    "department":"Writing",
-    "department_code":"WRIT",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/WRIT\/W3230-20271-001\/",
-    "location":"511 Kent Hall",
-    "method_of_instruction":"In-Person",
-    "open_to":null,
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"W",
-    "section_key":"20271WRIT3230W001",
-    "type":"SEMINAR"
   },
   {
     "course_code":"WRIT UN3231",
