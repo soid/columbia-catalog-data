@@ -48622,7 +48622,7 @@
     "department":"Dance @Barnard",
     "department_code":"DNCE",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/DNCE\/X3601-20271-001\/",
-    "location":"LL013 Barnard Hall",
+    "location":"305 Barnard Hall",
     "method_of_instruction":null,
     "open_to":null,
     "points":"1-3",
@@ -48647,14 +48647,14 @@
     "department":"Dance @Barnard",
     "department_code":"DNCE",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/DNCE\/X3601-20271-002\/",
-    "location":"305 Barnard Hall",
+    "location":"LL013 Barnard Hall",
     "method_of_instruction":null,
     "open_to":null,
     "points":"1-3",
     "prerequisites":[
 
     ],
-    "scheduled_days":"TR",
+    "scheduled_days":"MW",
     "section_key":"20271DNCE3601X002",
     "type":"STUDIO"
   },
@@ -48672,7 +48672,7 @@
     "department":"Dance @Barnard",
     "department_code":"DNCE",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/DNCE\/X3601-20271-003\/",
-    "location":"LL013 Barnard Hall",
+    "location":"305 Barnard Hall",
     "method_of_instruction":null,
     "open_to":null,
     "points":"1-3",
@@ -62261,7 +62261,7 @@
   {
     "course_code":"EMPA IA6040",
     "course_title":"Cost Benefit Analysis",
-    "course_descr":null,
+    "course_descr":"Pre-req: EMPA IA8213 - Microeconomics or equivalent.\n Familiarity with Excel is strongly recommended. This course introduces students to the principles and practice of cost-benefit analysis for evaluating policies and projects. Emphasizing practical skills over theoretical complexity, students will learn to apply key tools, including valuation methods, discounting, sensitivity analysis, and Excel-based modeling. The first half of the course focuses on the economic and methodological foundations; the second half applies these tools to real-world case studies in various sectors, including transportation, health, education, energy, and security. The course culminates in a major project requiring students to conduct and present an independent cost-benefit analysis on a topic of their choice.",
     "instructor":null,
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"3:00pm",
@@ -62274,12 +62274,12 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/EMPA\/U6040-20271-R01\/",
     "location":"410 International Affairs Building",
     "method_of_instruction":"In-Person",
-    "open_to":[
-      "SIPA"
-    ],
+    "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "EMPA IA8213"
+      ]
     ],
     "scheduled_days":"S",
     "section_key":"20271EMPA6040UR01",
@@ -62426,7 +62426,7 @@
   {
     "course_code":"EMPA IA6310",
     "course_title":"Quantitative Techniques",
-    "course_descr":null,
+    "course_descr":"This course equips mid-career professionals with the statistical tools needed to make data-informed decisions in public management and policy contexts. The course begins with foundational concepts in probability and statistics and advances through hypothesis testing, regression analysis, and applied data interpretation. Emphasis is placed on practical application, allowing students to critically evaluate research and apply quantitative findings to real-world policy and business challenges.\n  \nDesigned for students with basic mathematics and high school algebra, the course does not require prior statistical knowledge. It includes hands-on training in STATA, a widely used statistical software package, to streamline analysis and enhance decision-making capabilities. By the end of the semester, students will be prepared to use statistical reasoning in managerial settings and interpret quantitative analysis produced by professional researchers.",
     "instructor":null,
     "scheduled_time_start":"3:10pm",
     "scheduled_time_end":"5:00pm",
@@ -71319,7 +71319,7 @@
   {
     "course_code":"ENVP IA8201",
     "course_title":"Financial Management",
-    "course_descr":null,
+    "course_descr":"The course introduces students to budgeting and financial control as a means of influencing the behavior of organizations. Concepts include the budget process and taxation, intergovernmental revenues, municipal finance, bonds, control of expenditures, purchasing, debt management, productivity enhancement, and nonprofit finance. Students learn about the fiscal problems that managers typically face, and how they seek to address them. Students also gain experience in conducting financial analysis and facility with spreadsheet programs. Case materials utilize earth systems issues and other policy issues. A computer lab section is an essential aspect of the course, as it teaches students to use spreadsheet software to perform practical exercises in budgeting and financial management.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -71373,7 +71373,7 @@
   {
     "course_code":"ENVP IA8216",
     "course_title":"Microeconomics and Policy Analysis II",
-    "course_descr":null,
+    "course_descr":"This two-semester course demonstrates that it is both possible and useful to think about public policy rigorously: to examine underlying assumptions; to understand how formal models operate; to question vagueness and clich\u00e9s; and to make sophisticated ethical arguments. An important goal of the class is to have students work in groups as they apply microeconomic concepts to current public policy issues having to do with urban environmental and earth systems. The course includes problem sets designed to teach core concepts and their application. In the spring semester, the emphasis is on the application of concepts to analyze contemporary policy problems. Some time is also devoted to international trade and regulation, and industrial organization issues. Students not only learn microeconomic concepts, but also how to explain them to decision-makers. Student groups take on specific earth system policy issues, analyze options through the use of microeconomic concepts, and then make oral presentations to the class.",
     "instructor":null,
     "scheduled_time_start":"5:10pm",
     "scheduled_time_end":"7:00pm",
@@ -91012,7 +91012,7 @@
   {
     "course_code":"HRGE IA6200",
     "course_title":"International Human Rights Law",
-    "course_descr":null,
+    "course_descr":"HRGE Concentration Registration Priority. \nThis course introduces the legal frameworks, institutions, and advocacy strategies that underpin the international human rights system. With a practitioner\u2019s lens, students will explore civil, political, economic, social, cultural, and environmental rights through treaties, customary law, and jurisprudence. Emphasis is placed on understanding where and how the law offers avenues for redress, and the evolving role of human rights advocacy in confronting modern challenges, including corporate accountability, gender discrimination, and climate justice.\n  \nStudents will examine the structure and operation of key international and regional human rights mechanisms, the limits and opportunities of legal enforcement, and the relationship between international human rights law and international humanitarian law. The course integrates doctrinal learning with applied analysis through case studies, reflections, and simulations.\u00a0\nAttendance in the first class session is mandatory.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -101121,7 +101121,7 @@
   {
     "course_code":"IFEP IA7045",
     "course_title":"International Capital Markets",
-    "course_descr":null,
+    "course_descr":"This course provides a practical introduction to international capital markets, examining how financial institutions, investors, and intermediaries allocate capital globally. Topics include money markets, interest rates and yield curves, bonds, corporate and sovereign credit, foreign exchange, derivatives, equity markets, structured finance, and investment management. Students will explore financial instruments and risk management strategies, including swaps, futures, options, and credit default swaps, while examining the role of central banks, financial regulation, and global economic developments. Through real-world examples and case studies, the course emphasizes how capital markets operate in practice, how financial risks are assessed and managed, and the lessons of past financial crises.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -101285,7 +101285,7 @@
   {
     "course_code":"IFEP IA7200",
     "course_title":"International Trade",
-    "course_descr":null,
+    "course_descr":"This course explores both the theory and policy of international trade. In the first half, students will learn why countries trade, what determines trade patterns, and how trade affects prices, welfare, and income distribution. Key models covered include the Ricardian, Specific Factors, and Heckscher-Ohlin models, along with extensions on migration and offshoring. In the second half, the course focuses on trade policy instruments such as tariffs, quotas, and subsidies, examining their effects under different market structures. Topics include the political economy of trade, strategic trade policy, climate and agricultural subsidies, and international trade agreements. Prior coursework in microeconomics is required. Students will develop both analytical and applied understanding of global trade issues.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -101451,7 +101451,7 @@
   {
     "course_code":"IFEP IA7301",
     "course_title":"Corporate Finance",
-    "course_descr":null,
+    "course_descr":"IFEP Concentration Registration Priority. Prerequisite: SIPA IA6200 Accounting.\u00a0\nThis course provides an introduction to corporate finance, focusing on how firms assess funding needs, evaluate investment opportunities, and select financing strategies. The course equips future policymakers and practitioners with core analytical tools in financial decision-making. Topics include working capital management, cost of capital, security valuation, capital structure, and free cash flow analysis. Emphasis is placed on applying financial concepts to real-world situations through case studies, quantitative problem sets, and hands-on modeling. Students will gain exposure to Excel-based analysis and decision-making under uncertainty. Prior coursework in accounting is required, and fluency in Excel is essential.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -101469,7 +101469,9 @@
     ],
     "points":"0",
     "prerequisites":[
-
+      [
+        "SIPA IA6200"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20271IFEP7301UR01",
@@ -101478,7 +101480,7 @@
   {
     "course_code":"IFEP IA7301",
     "course_title":"Corporate Finance",
-    "course_descr":null,
+    "course_descr":"IFEP Concentration Registration Priority. Prerequisite: SIPA IA6200 Accounting.\u00a0\nThis course provides an introduction to corporate finance, focusing on how firms assess funding needs, evaluate investment opportunities, and select financing strategies. The course equips future policymakers and practitioners with core analytical tools in financial decision-making. Topics include working capital management, cost of capital, security valuation, capital structure, and free cash flow analysis. Emphasis is placed on applying financial concepts to real-world situations through case studies, quantitative problem sets, and hands-on modeling. Students will gain exposure to Excel-based analysis and decision-making under uncertainty. Prior coursework in accounting is required, and fluency in Excel is essential.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -101496,7 +101498,9 @@
     ],
     "points":"0",
     "prerequisites":[
-
+      [
+        "SIPA IA6200"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20271IFEP7301UR02",
@@ -101757,7 +101761,7 @@
   {
     "course_code":"IFEP IA7600",
     "course_title":"International Finance & Monetary Theory",
-    "course_descr":null,
+    "course_descr":"IFEP Concentration Registration Priority. Pre-req: SIPA IA6401 - Macroeconomic Analysis.\u00a0\nThis is a theory and applications course in international macroeconomics and finance. It provides students with the basic tools to analyze real-life macroeconomic, policy, and financial market situations. The course is suitable for students interested in working at domestic or international policy institutions, in the diplomatic service, the financial sector, or the media.\n  \nLectures are fairly rigorous, though students with some first-year economics, basic algebra, and an understanding of graphs should be able to handle the material. While theory is central, policy and market relevance are emphasized through: (i) discussions of topical issues; (ii) examination of key historical and current episodes to illustrate concepts; and (iii) relevant analysis from policy institutions, the media, and the financial sector.\n  \nThe course is organized into three parts. Part one develops analytical frameworks for understanding exchange rates in terms of their short- and long-term determinants. Part two explores the balance of payments and the interactions among macroeconomic policy, exchange rates, and macroeconomic outcomes. Part three covers advanced topics, including the choice of exchange rate regime, the euro, currency crashes, and defaults.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -101775,7 +101779,9 @@
     ],
     "points":"0",
     "prerequisites":[
-
+      [
+        "SIPA IA6401"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20271IFEP7600UR01",
@@ -134537,7 +134543,7 @@
   {
     "course_code":"PEPM IA6640",
     "course_title":"Macroeconometrics",
-    "course_descr":null,
+    "course_descr":"The course aims to analyze dynamic, multivariate interactions in evolutionary and non-stationary processes. The course first considers stationary univariate time-series processes and then extend the analysis to non-stationary processes and multivariate processes. The course covers a review of linear dynamic time-series models and focus on the concept of cointegration, as many applications lend themselves to dynamic systems of equilibrium-correction relations. In the final analysis, the course is aimed at presenting a certain number of econometric techniques the mastery of which is becoming increasingly inevitable in professional circles.",
     "instructor":null,
     "scheduled_time_start":"3:10pm",
     "scheduled_time_end":"5:00pm",
@@ -134616,7 +134622,7 @@
   {
     "course_code":"PEPM IA8250",
     "course_title":"Financial Development",
-    "course_descr":null,
+    "course_descr":"Open to all SIPA with pre-req or concurrent-req: Macroeconomics.\u00a0\nThis course aims to provide a well-rounded understanding of financial development over time and across countries, with an emphasis on public policy. Topics include a review of the foundations and processes of financial development; the roles of markets, instruments, and institutions; issues related to systemic financial stability; links to financial repression and globalization; and the developmental and oversight roles of the state. Financial activities arise in response to the interplay of a few easily identifiable frictions and related market failures, operating within an evolving institutional environment and uncertain macroeconomic context. Finance has both a bright side (welfare-enhancing financial development) and a dark side (financial instability and potential excess finance).\n  \nThis conceptualization of financial development is supported by a review of the fundamental foundations of finance through simple modeling exercises, statistical illustrations of financial trends, and references to specific country experiences, many drawn from the work of IMF or World Bank financial sector-related missions.\n  \nRecitation slots will be used for guest lectures on frontier issues or for instructor-led discussions. These sessions may cover some of the analytical underpinnings for subsequent lectures, explore the policy implications of recent topics, or actively debate themes of special interest to students.",
     "instructor":null,
     "scheduled_time_start":"10:00am",
     "scheduled_time_end":"11:50am",
@@ -134629,9 +134635,7 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/PEPM\/U8250-20271-R01\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":[
-      "SIPA"
-    ],
+    "open_to":null,
     "points":"0",
     "prerequisites":[
 
@@ -134929,7 +134933,7 @@
     "department":"Physical Education @Barnard",
     "department_code":"PHED",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/PHED\/X1004-20271-012\/",
-    "location":"LL012 Barnard Hall",
+    "location":"FITN Barnard Hall",
     "method_of_instruction":null,
     "open_to":null,
     "points":"1",
@@ -140692,7 +140696,7 @@
     "course_code":"PHYS GR6082",
     "course_title":"CONDENSED MATTER PHYSICS I",
     "course_descr":"Prerequisites: PHYS E6081 or the instructors permission. Semiclassical and quantum mechanical electron dynamics and conduction; dielectric properties of insulators; semiconductors; defects; magnetism; superconductivity; low-dimensional structures; soft matter.",
-    "instructor":null,
+    "instructor":"Hector Ochoa",
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:55pm",
     "call_number":"13398",
@@ -162106,7 +162110,7 @@
   {
     "course_code":"SIPA IA6005",
     "course_title":"Effective Management in the Public Servi",
-    "course_descr":null,
+    "course_descr":"MIA & MPA Leadership and Management II Core.\u00a0\nThis course introduces students to the field of public management, focusing on the tools and strategies managers use to influence organizational behavior and deliver public services. Through lectures, case studies, discussions, and group projects, students will explore management practices in government and in nonprofit and private organizations that partner with the public sector. The course draws on examples from New York City and U.S. agencies, as well as comparative cases from Asia, Latin America, and Europe. A lab section deepens engagement with course materials and features guest speakers from across sectors.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -162160,7 +162164,7 @@
   {
     "course_code":"SIPA IA6007",
     "course_title":"Crisis Leadership and Adaptive Managemen",
-    "course_descr":null,
+    "course_descr":"MIA & MPA Leadership and Management II Core.\u00a0\nThis course equips students with the skills, strategies, and resilience necessary to lead effectively during extreme events and complex crises. Drawing on case studies, personal narratives, and interactive exercises, the course examines how crises \u2014ranging from natural disasters and terrorist attacks to cyber incidents and pandemics \u2014require adaptive management and decisive leadership under intense pressure.\u00a0Students will examine the multiple forces that shape crisis response, including social, cognitive, operational, and political dynamics. The course provides a framework for assessing risk, coordinating cross-sector efforts, developing crisis communication strategies, and fostering innovation in fast-evolving situations.",
     "instructor":null,
     "scheduled_time_start":"5:10pm",
     "scheduled_time_end":"7:00pm",
@@ -162214,7 +162218,7 @@
   {
     "course_code":"SIPA IA6009",
     "course_title":"Persuasion and Applied Negotiation Skill",
-    "course_descr":null,
+    "course_descr":"MIA & MPA Leadership and Management II Core.\u00a0\nThis course is an interactive, practice-focused experience designed to equip students with skills and confidence in negotiation and persuasion across public and private sector contexts. Drawing on negotiation psychology, best practices, and evidence-based approaches, the course will develop students\u2019 ability to navigate complex interpersonal and multilateral dynamics.\n  \nThrough simulations, roleplays, and real-world case studies, students will learn to apply integrative and distributive negotiation methods, build strong positions and alternatives, and manage collective bargaining, mediation, arbitration, and asymmetric power dynamics.\n  \nCourse topics include negotiation theory, stakeholder analysis, multilateral and cross-cultural negotiation, and solution-driven communication. Students will develop the ability to assess power dynamics, leverage personal strengths, and contribute effectively in multi-stakeholder settings.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -162295,7 +162299,7 @@
   {
     "course_code":"SIPA IA6011",
     "course_title":"Strategic Management of Nonprofit Organi",
-    "course_descr":null,
+    "course_descr":"MIA & MPA Leadership and Management II Core.\u00a0\nThis course explores how core functional areas, such as governance, finance, talent strategy, communications, and accountability, interconnect to support a nonprofit organization\u2019s mission and strategic goals. Students will examine key management practices in nonprofit settings, emphasizing mission alignment, ethical fundraising, board effectiveness, and impact measurement. Through applied learning, the course equips students with the skills to assess organizational performance, design inclusive cultures, and develop strategic approaches to growth and sustainability.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -162349,7 +162353,7 @@
   {
     "course_code":"SIPA IA6012",
     "course_title":"Decisions and Behavior",
-    "course_descr":null,
+    "course_descr":"MIA & MPA Leadership and Management II Core.\u00a0\nThis course introduces students to the field of behavioral economics and the study of individual decision-making. Students will examine how behavior often departs from standard rational models and consider the implications for public policy and management. The course begins with the economic concept of rationality, then proceeds to evidence on systematic deviations, including impatience, framing, reference dependence, and social preferences. Class meetings will incorporate in-class experiments, discussions, and analyses of empirical research.\u00a0The course concludes with applications to policy design and organizational practices. Students will prepare presentations, participate in recitations, and either develop a policy proposal or complete a final exam to demonstrate their understanding of behavioral approaches to decision-making.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -162430,7 +162434,7 @@
   {
     "course_code":"SIPA IA6018",
     "course_title":"Managing Yourself as a Leader: Skills an",
-    "course_descr":null,
+    "course_descr":"MIA & MPA Leadership and Management II Core.\u00a0\nThis experiential course focuses on the self-management and interpersonal skills essential for effective leadership in high-pressure, high-stakes situations. Through role-plays, structured exercises, video analysis, and Leadership Labs, students will develop greater self-awareness, communication agility, and emotional resilience. Emphasizing the analysis of leadership failure as a learning tool, the course uses individual student cases to explore how personal patterns and behaviors impact leadership effectiveness. Active participation and small group work are central to this hands-on, practice-based learning environment.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -162754,7 +162758,7 @@
   {
     "course_code":"SIPA IA6200",
     "course_title":"Financial Accounting & Analysis",
-    "course_descr":null,
+    "course_descr":"MPA Financial Management Core I and II.\u00a0\nThis course introduces the principles and practices of financial reporting, with the goal of enabling students to become informed users of financial information in both public and private sector contexts. Emphasis is placed on understanding the three primary financial statements: the balance sheet, income statement, and statement of cash flows; and the accounting concepts and rules that shape them. Students will examine how financial information is prepared, disclosed, and interpreted, and will develop analytical tools to assess an organization\u2019s financial health and operational effectiveness. Real-world financial statements will be used throughout the course to build fluency in the language and application of accounting.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -162862,7 +162866,7 @@
   {
     "course_code":"SIPA IA6250",
     "course_title":"Foundations of Budgeting",
-    "course_descr":null,
+    "course_descr":"MPA Financial Management I Core.\u00a0\nThis course provides a practical introduction to budgeting as a critical tool for planning, decision-making, and leadership across the public, private, and nonprofit sectors. Students will develop hands-on skills in budget creation, financial analysis, and cash flow management while exploring how budgets shape organizational strategy and operations.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -162889,7 +162893,7 @@
   {
     "course_code":"SIPA IA6250",
     "course_title":"Foundations of Budgeting",
-    "course_descr":null,
+    "course_descr":"MPA Financial Management I Core.\u00a0\nThis course provides a practical introduction to budgeting as a critical tool for planning, decision-making, and leadership across the public, private, and nonprofit sectors. Students will develop hands-on skills in budget creation, financial analysis, and cash flow management while exploring how budgets shape organizational strategy and operations.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -162943,7 +162947,7 @@
   {
     "course_code":"SIPA IA6252",
     "course_title":"Budgeting & Financial Management for Gov",
-    "course_descr":null,
+    "course_descr":"MPA Financial Management II Core.\u00a0\nThis course introduces students to budgeting and financial management in the public sector, with an emphasis on real-world application and analytical skill development. Drawing on current and historical challenges\u2014including the 2008 financial crisis and the COVID-19 pandemic\u2014students will explore the political, technical, and managerial dimensions of public budgeting in the United States.\u00a0\n  \nTopics include the structure and function of operating and capital budgets, principles of revenue generation, deficit spending, and debt financing. Students will work with actual federal, state, and local budgets, gaining experience in constructing, analyzing, and presenting budgets in a government context. By the end of the course, students will be able to evaluate budget proposals and make data-informed recommendations grounded in public policy goals and financial feasibility.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -162997,7 +163001,7 @@
   {
     "course_code":"SIPA IA6255",
     "course_title":"Financial Management for Nonprofits & So",
-    "course_descr":null,
+    "course_descr":"MPA Financial Management II Core.\u00a0\nThis course introduces nonprofit and social enterprise finance, financial management, and budgeting. The course is practical and hands-on.\u00a0 The course will examine how financial management principles assist nonprofit and social enterprise leaders make operating, program, and long-term financial and strategic decisions. Students will learn underlying concepts and practical skills through readings, discussions, Case Studies, and assignments.\u00a0 The course is designed to give students a range of core financial and managerial skills that are especially relevant to students who want to go on to establish, manage, or work in nonprofit organizations or social enterprises.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -163049,7 +163053,7 @@
   {
     "course_code":"SIPA IA6260",
     "course_title":"Accounting Fundamentals",
-    "course_descr":null,
+    "course_descr":"MPA Financial Management Core II.\u00a0\nThis course provides students with a foundational understanding of financial accounting, with an emphasis on interpreting financial statements. Students will study the three core financial statements\u2014the balance sheet, income statement, and statement of cash flows\u2014and learn the accounting principles and rules that shape how financial data is recorded and presented.\n  \nThrough hands-on exercises and case examples from service, manufacturing, and retail operations, students will learn to apply double-entry bookkeeping, distinguish between key accounting treatments such as capitalizing and expensing, and evaluate how management\u2019s assumptions and estimates influence reported outcomes. The course aims to build financial fluency for policy professionals and prepare students to critically assess financial information to support evidence-based decision-making.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -163130,7 +163134,7 @@
   {
     "course_code":"SIPA IA6350",
     "course_title":"Economic Fundamentals for International",
-    "course_descr":null,
+    "course_descr":"MIA Economics Core.\u00a0\nThis course provides a thorough introduction to the principles of microeconomics and macroeconomics, equipping students with the analytical tools to understand how individuals, firms, and governments make decisions and how they interact in local and global markets.\u00a0By combining theory with applied learning, the course builds a foundation for critical thinking about real-world economic challenges and policy-making in an increasingly interconnected world.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -163157,7 +163161,7 @@
   {
     "course_code":"SIPA IA6350",
     "course_title":"Economic Fundamentals for International",
-    "course_descr":null,
+    "course_descr":"MIA Economics Core.\u00a0\nThis course provides a thorough introduction to the principles of microeconomics and macroeconomics, equipping students with the analytical tools to understand how individuals, firms, and governments make decisions and how they interact in local and global markets.\u00a0By combining theory with applied learning, the course builds a foundation for critical thinking about real-world economic challenges and policy-making in an increasingly interconnected world.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -163211,7 +163215,7 @@
   {
     "course_code":"SIPA IA6400",
     "course_title":"Microeconomic Analysis for International",
-    "course_descr":null,
+    "course_descr":"MPA and MIA-Track II Economics Core.\u00a0\nThis course introduces the fundamental tools of microeconomic analysis used to understand individual decision-making, market behavior, and policy outcomes. It equips students with the analytical frameworks and terminology of the economics profession, fostering both critical and open-minded engagement with economic issues. Emphasis is placed on the motivations and consequences of microeconomic policies in international and public affairs contexts. Through problem-solving and collaborative work, students will build practical skills in applying economic models to real-world challenges.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -163373,7 +163377,7 @@
   {
     "course_code":"SIPA IA6401",
     "course_title":"Macroeconomic Analysis for International",
-    "course_descr":null,
+    "course_descr":"MPA and MIA-Track II Economics Core.\u00a0\nThis course continues the one-year sequence initiated with SIPA IA6400 and focuses on macroeconomics. The goal of this course is to provide students with the analytical framework to examine and interpret observed economic events in the global economy. The causal relationships between macroeconomic aggregates is based upon microeconomic principles. The subject matter always refers to concrete situations with a particular focus on the causes and effects of the current global financial crisis. The controversial nature of macroeconomic policies is central.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -163386,12 +163390,12 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U6401-20271-R01\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":[
-      "SIPA"
-    ],
+    "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "SIPA IA6400"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20271SIPA6401UR01",
@@ -163400,7 +163404,7 @@
   {
     "course_code":"SIPA IA6401",
     "course_title":"Macroeconomic Analysis for International",
-    "course_descr":null,
+    "course_descr":"MPA and MIA-Track II Economics Core.\u00a0\nThis course continues the one-year sequence initiated with SIPA IA6400 and focuses on macroeconomics. The goal of this course is to provide students with the analytical framework to examine and interpret observed economic events in the global economy. The causal relationships between macroeconomic aggregates is based upon microeconomic principles. The subject matter always refers to concrete situations with a particular focus on the causes and effects of the current global financial crisis. The controversial nature of macroeconomic policies is central.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -163413,12 +163417,12 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U6401-20271-R02\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":[
-      "SIPA"
-    ],
+    "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "SIPA IA6400"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20271SIPA6401UR02",
@@ -163427,7 +163431,7 @@
   {
     "course_code":"SIPA IA6401",
     "course_title":"Macroeconomic Analysis for International",
-    "course_descr":null,
+    "course_descr":"MPA and MIA-Track II Economics Core.\u00a0\nThis course continues the one-year sequence initiated with SIPA IA6400 and focuses on macroeconomics. The goal of this course is to provide students with the analytical framework to examine and interpret observed economic events in the global economy. The causal relationships between macroeconomic aggregates is based upon microeconomic principles. The subject matter always refers to concrete situations with a particular focus on the causes and effects of the current global financial crisis. The controversial nature of macroeconomic policies is central.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -163440,12 +163444,12 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U6401-20271-R03\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":[
-      "SIPA"
-    ],
+    "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "SIPA IA6400"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20271SIPA6401UR03",
@@ -163454,7 +163458,7 @@
   {
     "course_code":"SIPA IA6401",
     "course_title":"Macroeconomic Analysis for International",
-    "course_descr":null,
+    "course_descr":"MPA and MIA-Track II Economics Core.\u00a0\nThis course continues the one-year sequence initiated with SIPA IA6400 and focuses on macroeconomics. The goal of this course is to provide students with the analytical framework to examine and interpret observed economic events in the global economy. The causal relationships between macroeconomic aggregates is based upon microeconomic principles. The subject matter always refers to concrete situations with a particular focus on the causes and effects of the current global financial crisis. The controversial nature of macroeconomic policies is central.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -163467,12 +163471,12 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U6401-20271-R04\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":[
-      "SIPA"
-    ],
+    "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "SIPA IA6400"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20271SIPA6401UR04",
@@ -163481,7 +163485,7 @@
   {
     "course_code":"SIPA IA6401",
     "course_title":"Macroeconomic Analysis for International",
-    "course_descr":null,
+    "course_descr":"MPA and MIA-Track II Economics Core.\u00a0\nThis course continues the one-year sequence initiated with SIPA IA6400 and focuses on macroeconomics. The goal of this course is to provide students with the analytical framework to examine and interpret observed economic events in the global economy. The causal relationships between macroeconomic aggregates is based upon microeconomic principles. The subject matter always refers to concrete situations with a particular focus on the causes and effects of the current global financial crisis. The controversial nature of macroeconomic policies is central.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -163494,12 +163498,12 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U6401-20271-R05\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":[
-      "SIPA"
-    ],
+    "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "SIPA IA6400"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20271SIPA6401UR05",
@@ -163589,7 +163593,7 @@
   {
     "course_code":"SIPA IA6500",
     "course_title":"Quantitative Analysis I for Internationa",
-    "course_descr":null,
+    "course_descr":"MIA & MPA Quantitative I Core.\u00a0\nThis course introduces the fundamentals of statistical analysis, with applications in public policy, management, and the social sciences. Students will begin with basic techniques for describing and summarizing data and progress toward more advanced methods for inference and prediction. The course emphasizes practical tools for interpreting quantitative data and drawing evidence-based conclusions about the social world.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -163616,7 +163620,7 @@
   {
     "course_code":"SIPA IA6500",
     "course_title":"Quantitative Analysis I for Internationa",
-    "course_descr":null,
+    "course_descr":"MIA & MPA Quantitative I Core.\u00a0\nThis course introduces the fundamentals of statistical analysis, with applications in public policy, management, and the social sciences. Students will begin with basic techniques for describing and summarizing data and progress toward more advanced methods for inference and prediction. The course emphasizes practical tools for interpreting quantitative data and drawing evidence-based conclusions about the social world.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -163643,7 +163647,7 @@
   {
     "course_code":"SIPA IA6500",
     "course_title":"Quantitative Analysis I for Internationa",
-    "course_descr":null,
+    "course_descr":"MIA & MPA Quantitative I Core.\u00a0\nThis course introduces the fundamentals of statistical analysis, with applications in public policy, management, and the social sciences. Students will begin with basic techniques for describing and summarizing data and progress toward more advanced methods for inference and prediction. The course emphasizes practical tools for interpreting quantitative data and drawing evidence-based conclusions about the social world.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -163820,7 +163824,7 @@
   {
     "course_code":"SIPA IA6501",
     "course_title":"Quantitative Analysis II for Internation",
-    "course_descr":null,
+    "course_descr":"MPA Quantitative II Core.\u00a0\nThis course introduces regression analysis as a key tool for policy analysis and program evaluation. Emphasizing causal inference, students will learn to assess the impacts of programs and policies using both experimental and non-experimental methods. The first half of the course reviews foundational concepts from Quant I and builds toward multiple regression techniques; the second half applies those tools to real-world policy settings. Designed for future practitioners, the course focuses on applying and communicating statistical concepts in accessible, non-technical language, and prepares students for advanced coursework in data analysis and program evaluation.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -163833,9 +163837,7 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U6501-20271-R01\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":[
-      "SIPA"
-    ],
+    "open_to":null,
     "points":"0",
     "prerequisites":[
 
@@ -163847,7 +163849,7 @@
   {
     "course_code":"SIPA IA6501",
     "course_title":"Quantitative Analysis II for Internation",
-    "course_descr":null,
+    "course_descr":"MPA Quantitative II Core.\u00a0\nThis course introduces regression analysis as a key tool for policy analysis and program evaluation. Emphasizing causal inference, students will learn to assess the impacts of programs and policies using both experimental and non-experimental methods. The first half of the course reviews foundational concepts from Quant I and builds toward multiple regression techniques; the second half applies those tools to real-world policy settings. Designed for future practitioners, the course focuses on applying and communicating statistical concepts in accessible, non-technical language, and prepares students for advanced coursework in data analysis and program evaluation.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -163860,9 +163862,7 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U6501-20271-R02\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":[
-      "SIPA"
-    ],
+    "open_to":null,
     "points":"0",
     "prerequisites":[
 
@@ -163874,7 +163874,7 @@
   {
     "course_code":"SIPA IA6501",
     "course_title":"Quantitative Analysis II for Internation",
-    "course_descr":null,
+    "course_descr":"MPA Quantitative II Core.\u00a0\nThis course introduces regression analysis as a key tool for policy analysis and program evaluation. Emphasizing causal inference, students will learn to assess the impacts of programs and policies using both experimental and non-experimental methods. The first half of the course reviews foundational concepts from Quant I and builds toward multiple regression techniques; the second half applies those tools to real-world policy settings. Designed for future practitioners, the course focuses on applying and communicating statistical concepts in accessible, non-technical language, and prepares students for advanced coursework in data analysis and program evaluation.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -163887,9 +163887,7 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U6501-20271-R03\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":[
-      "SIPA"
-    ],
+    "open_to":null,
     "points":"0",
     "prerequisites":[
 
@@ -163901,7 +163899,7 @@
   {
     "course_code":"SIPA IA6501",
     "course_title":"Quantitative Analysis II for Internation",
-    "course_descr":null,
+    "course_descr":"MPA Quantitative II Core.\u00a0\nThis course introduces regression analysis as a key tool for policy analysis and program evaluation. Emphasizing causal inference, students will learn to assess the impacts of programs and policies using both experimental and non-experimental methods. The first half of the course reviews foundational concepts from Quant I and builds toward multiple regression techniques; the second half applies those tools to real-world policy settings. Designed for future practitioners, the course focuses on applying and communicating statistical concepts in accessible, non-technical language, and prepares students for advanced coursework in data analysis and program evaluation.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -163914,9 +163912,7 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U6501-20271-R04\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":[
-      "SIPA"
-    ],
+    "open_to":null,
     "points":"0",
     "prerequisites":[
 
@@ -163928,7 +163924,7 @@
   {
     "course_code":"SIPA IA6501",
     "course_title":"Quantitative Analysis II for Internation",
-    "course_descr":null,
+    "course_descr":"MPA Quantitative II Core.\u00a0\nThis course introduces regression analysis as a key tool for policy analysis and program evaluation. Emphasizing causal inference, students will learn to assess the impacts of programs and policies using both experimental and non-experimental methods. The first half of the course reviews foundational concepts from Quant I and builds toward multiple regression techniques; the second half applies those tools to real-world policy settings. Designed for future practitioners, the course focuses on applying and communicating statistical concepts in accessible, non-technical language, and prepares students for advanced coursework in data analysis and program evaluation.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -163941,9 +163937,7 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U6501-20271-R05\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":[
-      "SIPA"
-    ],
+    "open_to":null,
     "points":"0",
     "prerequisites":[
 
@@ -163955,7 +163949,7 @@
   {
     "course_code":"SIPA IA6501",
     "course_title":"Quantitative Analysis II for Internation",
-    "course_descr":null,
+    "course_descr":"MPA Quantitative II Core.\u00a0\nThis course introduces regression analysis as a key tool for policy analysis and program evaluation. Emphasizing causal inference, students will learn to assess the impacts of programs and policies using both experimental and non-experimental methods. The first half of the course reviews foundational concepts from Quant I and builds toward multiple regression techniques; the second half applies those tools to real-world policy settings. Designed for future practitioners, the course focuses on applying and communicating statistical concepts in accessible, non-technical language, and prepares students for advanced coursework in data analysis and program evaluation.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -163968,9 +163962,7 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U6501-20271-R06\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":[
-      "SIPA"
-    ],
+    "open_to":null,
     "points":"0",
     "prerequisites":[
 
@@ -189293,7 +189285,7 @@
   {
     "course_code":"TPIN IA7350",
     "course_title":"Cost-Benefit Analysis",
-    "course_descr":null,
+    "course_descr":"This course provides an applied introduction to cost-benefit analysis (CBA) as a tool for evaluating public policies. Students will learn how to interpret and produce CBAs through lectures, problem sets, and real-world case studies focused on environmental, financial, agricultural, and transportation policies. Emphasis is placed on CBAs conducted by government agencies, including critical review of regulatory analyses and formulation of public comments.\n  \nThrough individual and group assignments, students will gain hands-on experience constructing spreadsheet models, estimating impacts, applying discounting techniques, and performing sensitivity analyses. The course culminates in a student-led cost-benefit analysis project and the submission of formal comments on a government regulation.\n  \nPrerequisites:\n SIPA IA6350 or SIPA IA6400 (Microeconomic Analysis) or equivalent. Familiarity with Excel is expected.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -189311,7 +189303,10 @@
     ],
     "points":"0",
     "prerequisites":[
-
+      [
+        "SIPA IA6350",
+        "SIPA IA6400"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20271TPIN7350UR01",
@@ -194182,7 +194177,7 @@
   {
     "course_code":"WRIT UN3052",
     "course_title":"NEW NARRATIVE'S QUEER AVANT-GARDE",
-    "course_descr":null,
+    "course_descr":"The New Narrative is arguably the last avant-garde movement to emerge in the United States during the 20th century. Founded by Robert Gl\u00fcck and Bruce Boone in 1977, the New Narrative encompasses a loose agglomeration of writers who brought the rigor and open-endedness of experimental poetry, French theory, gay liberation, feminism, and pop culture to bear on both prose and verse. Half a century after its founding, the New Narrative\u2019s influence has altered the trajectory of personal writing in particular, opening new paths for those marginalized by the traditional literary establishment to describe their experiences. Many New Narrative authors were queer, many were women, and many were working class, and they explored these identities and their intersections while writing about how friendship, sex, politics, body image, grief and art cohabitate in a modern consciousness. The books and shorter pieces we will read in this cross-genre seminar\u2014by New Narrative lodestars such as Gl\u00fcck, Boone, Dodie Bellamy, Kevin Killian, Lynne Tillman, Kathy Acker, Gary Indiana, Gabrielle Daniels and Eileen Myles, as well as successors such as Renee Gladman, Chris Kraus, Trisha Low, Kay Gabriel, Heriberto Y\u00e9pez, R. Zamora Linmark, Lucy Ives, Shiv Kotecha and Brontez Purnell\u2014demonstrate how to write about and across identity and experience, how to do justice to both an inner life and the complexities of a diverse society, and how to blend and blur genres in order to write more truthfully. Through exercises, writing assignments, close readings and class discussions, this course will spark students to become more precise, adventurous and sweeping while writing about themselves, their communities and the cultural and political world.",
     "instructor":"Daniel Felsenthal",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
@@ -194207,7 +194202,7 @@
   {
     "course_code":"WRIT UN3054",
     "course_title":"INTERACTIVE NARRATIVE",
-    "course_descr":null,
+    "course_descr":"What does it mean to invite readers to play in\u2014and with\u2014your stories? Can an essay be\u2026a game? These are questions asked by writers of interactive narrative, a practice that sits at the intersection of game design and creative writing. From choose-your-own adventure fiction to nonlinear essays to narrative video games to analog story-games, this increasingly popular and diverse genre encompasses work that stages its audience as a \u201creader-player.\u201d In disrupting the boundary between author and audience, interactive narrative offers an exciting opportunity to experiment with how interactivity, immersion, and nonlinearity might transform traditional narrative and essay. In this seminar, we will investigate that transformation by reading, playing, and discussing videogames, artgames, interactive fiction, innovative digital media, and experimental fiction and nonfiction. Students will submit two open-platform interactive narrative projects over the course of the semester\u2014one in fiction, and one in creative nonfiction. Tutorials on digital interactive narrative tools like Twine and Squiffy will accompany playtesting workshops to establish a game-literate creative community committed to pushing the boundaries of the form.",
     "instructor":"Nat Mesnard",
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"2:00pm",
@@ -194407,7 +194402,7 @@
   {
     "course_code":"WRIT UN3140",
     "course_title":"THE METAPHOR LAB",
-    "course_descr":null,
+    "course_descr":"This seminar is an exploration of figurative language: its limits, possibilities, and problems. Why is there the impulse to travel away from the literal when striving for clarity and meaning? The paradox at the center of a metaphor\u2014that an object can perhaps be better emotionally understood through comparison\u2014poses an interesting question about the nature of feeling, and of reality itself. Do we have to create a bridge to another world to more accurately behold this one? Is a metaphor a kind of speculative leap, even if we never leave what we recognize as reality?\n  \nWe will also investigate what happens when a metaphor fails or breaks down. Is there anything useful to be discovered from that collapse of meaning? If we map metaphors past their usefulness, perhaps we can find the exact moment when they stop \u201cworking,\u201d when the points of connection stop mapping neatly and start creating mess. And how far can we take a metaphor before it sputters, and gives way to emotional confusion over clarity?\n  \nWe will examine powerful metaphors from stories and novels, and less powerful metaphors, too. The class is structured to expand over the course of the semester. We\u2019ll start by examining sentence-long metaphors, then move on to extended metaphors, then story-length metaphors, and finally, a novel-length metaphor. Over the course of the semester, writers will prepare: three sentence-long metaphors, two extended metaphors, and one story-length metaphor or conceit.\n  \nEach student will bring their figurative work to our laboratory to be discussed and workshopped.\u00a0\nThe second half of this course is devoted to workshopping your story-length metaphors.",
     "instructor":"Hilary J Leichter",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -194432,7 +194427,7 @@
   {
     "course_code":"WRIT UN3142",
     "course_title":"THE EPISTOLARY NOVEL",
-    "course_descr":null,
+    "course_descr":"What can you expect in this class? Over the course of the semester, you and another classmate will write an epistolary novel(la). There will be in-class exercises and take-home exercises that focus on different aspects of this\u2014premise, characters, voice. In class, we\u2019ll discuss each pair\u2019s weekly progress. By end of semester, you will have written the beginning\u2014or entirety\u2014of a short novel.\n  \nWhy you need to know about epistolary novels? They are a great way to learn about writing fiction. They contain conflict and tension because there are two or more characters\n. \nThey allow you to provide the reader with a deep sense of intimacy and authenticity through exposure to the characters\u2019 innermost thoughts. Yes, but: these are \nunreliable \nnarrators. (And who isn\u2019t?)\n  \nThe first novel in English to be composed entirely of letters is usually considered to be \nLove-Letters Between a Nobleman and His Sister \nby Aphra Ben, published in 1684. Little later: \nPamela\n, or \nThe History of a Young Lady \nby Samuel Richardson. It was followed by \nClarissa \n\u2013 considered one of best English novels but we dare you\u2014it\u2019s 1534 pages long.",
     "instructor":"Patricia A Marx",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
