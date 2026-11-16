@@ -8044,7 +8044,7 @@
     "department":"Applied Analytics",
     "department_code":"APAN",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/APAN\/K5201-20271-H02\/",
-    "location":null,
+    "location":"603 Hamilton Hall",
     "method_of_instruction":"Hybrid",
     "open_to":[
       "Professional Studies"
@@ -8287,7 +8287,7 @@
     "department":"Applied Analytics",
     "department_code":"APAN",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/APAN\/K5206-20271-H02\/",
-    "location":null,
+    "location":"603 Hamilton Hall",
     "method_of_instruction":"Hybrid",
     "open_to":[
       "Professional Studies"
@@ -8395,7 +8395,7 @@
     "department":"Applied Analytics",
     "department_code":"APAN",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/APAN\/K5206-20271-H05\/",
-    "location":null,
+    "location":"703 Hamilton Hall",
     "method_of_instruction":"Hybrid",
     "open_to":[
       "Professional Studies"
@@ -8719,7 +8719,7 @@
     "department":"Applied Analytics",
     "department_code":"APAN",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/APAN\/K5311-20271-H03\/",
-    "location":null,
+    "location":"603 Hamilton Hall",
     "method_of_instruction":"Hybrid",
     "open_to":[
       "Professional Studies"
@@ -9394,7 +9394,7 @@
     "department":"Applied Analytics",
     "department_code":"APAN",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/APAN\/K5531-20271-H03\/",
-    "location":null,
+    "location":"603 Hamilton Hall",
     "method_of_instruction":"Hybrid",
     "open_to":[
       "Professional Studies"
@@ -9502,7 +9502,7 @@
     "department":"Applied Analytics",
     "department_code":"APAN",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/APAN\/K5541-20271-H02\/",
-    "location":null,
+    "location":"703 Hamilton Hall",
     "method_of_instruction":"Hybrid",
     "open_to":[
       "Professional Studies"
@@ -9610,7 +9610,7 @@
     "department":"Applied Analytics",
     "department_code":"APAN",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/APAN\/K5571-20271-H02\/",
-    "location":null,
+    "location":"516 Hamilton Hall",
     "method_of_instruction":"Hybrid",
     "open_to":[
       "Professional Studies"
@@ -9772,7 +9772,7 @@
     "department":"Applied Analytics",
     "department_code":"APAN",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/APAN\/K5591-20271-H01\/",
-    "location":null,
+    "location":"703 Hamilton Hall",
     "method_of_instruction":"Hybrid",
     "open_to":[
       "Professional Studies"
@@ -10096,7 +10096,7 @@
     "department":"Applied Analytics",
     "department_code":"APAN",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/APAN\/K5601-20271-H04\/",
-    "location":null,
+    "location":"703 Hamilton Hall",
     "method_of_instruction":"Hybrid",
     "open_to":[
       "Professional Studies"
@@ -16342,7 +16342,7 @@
     "department":"Biomedical Informatics",
     "department_code":"BINF",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/BINF\/G4011-20271-001\/",
-    "location":"20-101 Presbyterian Hospital",
+    "location":"20-200 Presbyterian Hospital",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"3",
@@ -34640,7 +34640,20 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/CHEN\/E4580-20271-001\/",
     "location":"303 Uris Hall",
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "Architecture",
+      "Business",
+      "Engineering:Graduate",
+      "Engineering:Undergraduate",
+      "GSAS",
+      "Journalism",
+      "Law",
+      "Professional Studies",
+      "Public Health",
+      "SIPA",
+      "Schools of the Arts",
+      "Social Work"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -44270,7 +44283,7 @@
     "department":"Computer Science",
     "department_code":"COMS",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMS\/E6113-20271-001\/",
-    "location":null,
+    "location":"224 Pupin Laboratories",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"3",
@@ -44648,7 +44661,7 @@
     "department":"Computer Science",
     "department_code":"COMS",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMS\/E6998-20271-007\/",
-    "location":null,
+    "location":"331 Uris Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Barnard College",
@@ -46157,7 +46170,7 @@
     "department":"Computer Science",
     "department_code":"COMS",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMS\/W4995-20271-011\/",
-    "location":null,
+    "location":"331 Uris Hall",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"3",
@@ -58610,7 +58623,9 @@
     "method_of_instruction":"In-Person",
     "open_to":[
       "Columbia College",
+      "Engineering:Graduate",
       "Engineering:Undergraduate",
+      "GSAS",
       "General Studies"
     ],
     "points":"3",
@@ -61846,7 +61861,7 @@
       "Engineering:Undergraduate",
       "General Studies"
     ],
-    "points":"4",
+    "points":"0",
     "prerequisites":[
 
     ],
@@ -72540,8 +72555,8 @@
     "course_title":"Epidemiology Honors MPH Seminar (I)",
     "course_descr":"This seminar is designed for and only open to first year MPH students enrolled in the Honors MPH Program within the Department of Epidemiology. It is the first semester of a two-semester required seminar series. This seminar will provide students the opportunity to engage in intensive reading, critical analysis, and highly-interactive discussion of empirical epidemiological research with faculty representing a range of domains of epidemiologic scholarship. Students will be required to apply and extend their developing methodological training, practice and demonstrate the ability to make principled arguments, and learn and practice critical professional skills, including the ability to offer and receive critical feedback.",
     "instructor":"Lisa Bates",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"3:00pm",
+    "scheduled_time_end":"4:20pm",
     "call_number":"15731",
     "campus":null,
     "class_id":"P8494-20271-001",
@@ -72556,7 +72571,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"T",
     "section_key":"20271EPID8494P001",
     "type":"SEMINAR"
   },
@@ -83567,6 +83582,31 @@
     "type":"SEMINAR"
   },
   {
+    "course_code":"FYSB BC1001",
+    "course_title":"FIRST-YEAR SEMINAR AT BARNARD",
+    "course_descr":null,
+    "instructor":"Francesca E Austin Ochoa",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"5:25pm",
+    "call_number":"00995",
+    "campus":null,
+    "class_id":"X1001-20271-023",
+    "course_subtitle":"IDENTITY ON THE MOVE",
+    "department":"First-Year Seminar Program @Barnard",
+    "department_code":"FYSB",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FYSB\/X1001-20271-023\/",
+    "location":"406 Barnard Hall",
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20271FYSB1001X023",
+    "type":"SEMINAR"
+  },
+  {
     "course_code":"FYSB BC1002",
     "course_title":"FIRST-YEAR SEMINAR WORKSHOP",
     "course_descr":"First-Year Seminar Workshop -- a 4-credit version of First-Year Seminar -- provides extra support with critical reading and academic writing skills. In addition to regular\u00a0seminar\u00a0meetings twice per week,\u00a0FYS\u00a0Workshop\u00a0students meet one-on-one with a Writing Fellow for one hour every\u00a0other week, giving students an opportunity to get feedback from and discuss\u00a0ideas with a trained peer throughout the semester. \nTo be considered for a spot in First-Year Seminar Workshop, please fill out this brief questionnaire by Monday, November 9 at 5PM:\u00a0\nhttps:\/\/forms.gle\/KYWDj4H2ihCP2JG87",
@@ -83589,31 +83629,6 @@
     ],
     "scheduled_days":"TR",
     "section_key":"20271FYSB1002X001",
-    "type":"SEMINAR"
-  },
-  {
-    "course_code":"FYSB BC1002",
-    "course_title":"FIRST-YEAR SEMINAR WORKSHOP",
-    "course_descr":"First-Year Seminar Workshop -- a 4-credit version of First-Year Seminar -- provides extra support with critical reading and academic writing skills. In addition to regular\u00a0seminar\u00a0meetings twice per week,\u00a0FYS\u00a0Workshop\u00a0students meet one-on-one with a Writing Fellow for one hour every\u00a0other week, giving students an opportunity to get feedback from and discuss\u00a0ideas with a trained peer throughout the semester. \nTo be considered for a spot in First-Year Seminar Workshop, please fill out this brief questionnaire by Monday, November 9 at 5PM:\u00a0\nhttps:\/\/forms.gle\/KYWDj4H2ihCP2JG87",
-    "instructor":null,
-    "scheduled_time_start":"4:10pm",
-    "scheduled_time_end":"5:25pm",
-    "call_number":"01062",
-    "campus":null,
-    "class_id":"X1002-20271-002",
-    "course_subtitle":"IDENTITY ON THE MOVE",
-    "department":"First-Year Seminar Program @Barnard",
-    "department_code":"FYSB",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FYSB\/X1002-20271-002\/",
-    "location":"406 Barnard Hall",
-    "method_of_instruction":null,
-    "open_to":null,
-    "points":"4",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"TR",
-    "section_key":"20271FYSB1002X002",
     "type":"SEMINAR"
   },
   {
@@ -102060,7 +102075,7 @@
     "call_number":"10283",
     "campus":null,
     "class_id":"U7640-20271-001",
-    "course_subtitle":"Macroecon & Global Fin Ma",
+    "course_subtitle":"Macro Policy & Hedge Fund",
     "department":"International Finance & Economic Policy",
     "department_code":"IFEP",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/IFEP\/U7640-20271-001\/",
@@ -105216,6 +105231,31 @@
     ],
     "scheduled_days":"MWR",
     "section_key":"20271ITAL2102W003",
+    "type":"LANGUAGE"
+  },
+  {
+    "course_code":"ITAL UN2121",
+    "course_title":"INTENSIVE INTERMEDIATE ITALIAN",
+    "course_descr":null,
+    "instructor":"Tylar A Colleluori",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"12:00pm",
+    "call_number":"17032",
+    "campus":null,
+    "class_id":"V2121-20271-001",
+    "course_subtitle":"INTENSIVE INTERMEDIATE IT",
+    "department":"Italian",
+    "department_code":"ITAL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ITAL\/V2121-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"6",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MWR",
+    "section_key":"20271ITAL2121V001",
     "type":"LANGUAGE"
   },
   {
@@ -148730,6 +148770,31 @@
     "type":"INDEPENDENT"
   },
   {
+    "course_code":"POLS UN3902",
+    "course_title":"INDEPENDENT RESEARCH II",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17031",
+    "campus":null,
+    "class_id":"W3902-20271-004",
+    "course_subtitle":null,
+    "department":"Political Science",
+    "department_code":"POLS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/POLS\/W3902-20271-004\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"1-6",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271POLS3902W004",
+    "type":"INDEPENDENT"
+  },
+  {
     "course_code":"POLS UN3911",
     "course_title":"SEMINAR IN POLITCAL THEORY",
     "course_descr":"Seminar in Political Theory.",
@@ -151938,7 +152003,7 @@
     "call_number":"01099",
     "campus":null,
     "class_id":"X3376-20271-001",
-    "course_subtitle":null,
+    "course_subtitle":"Pers and Societal Wellbei",
     "department":"Psychology @Barnard",
     "department_code":"PSYC",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/PSYC\/X3376-20271-001\/",
@@ -153172,7 +153237,7 @@
     "department":"Psychology",
     "department_code":"PSYC",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/PSYC\/W4825-20271-001\/",
-    "location":null,
+    "location":"200C Schermerhorn Hall [SCH]",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Columbia College",
@@ -158134,8 +158199,8 @@
     "course_title":"Blackness, Religion, and The Social Repr",
     "course_descr":"While conversations about social life and social death are endemic to contemporary black studies, the work of black scholars of religion often encourages us to consider the textures of everyday life in terms that are not reducible to \u201csocial life\u201d and \u201csocial death.\u201d At the same time, theories of everyday life and social reproduction tend to leave out the singularity of antiblackness and racial slavery as they constitute the material shape of the everyday in the aftermath of 1492. This course aims to illuminate and approach various gaps in theorizations of religion and blackness in the social reproduction of everyday life by reading between black and Marxist feminism, history and anthropology, religious and cultural studies. The class will consider how racial slavery, racial blackness, and antiblackness shape the constitution of everyday life in and through the erotics and economies of religious sense and signifying.",
     "instructor":"Amaryah Armstrong",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"12:00pm",
     "call_number":"16436",
     "campus":null,
     "class_id":"W4624-20271-001",
@@ -158143,14 +158208,14 @@
     "department":"Religion",
     "department_code":"RELI",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/RELI\/W4624-20271-001\/",
-    "location":null,
+    "location":"101 80 Claremont Ave",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"4",
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"M",
     "section_key":"20271RELI4624W001",
     "type":"SEMINAR"
   },
@@ -178798,7 +178863,7 @@
     "call_number":"00238",
     "campus":null,
     "class_id":"W3300-20271-020",
-    "course_subtitle":"ADV LANGUAGE THROUGH CONT",
+    "course_subtitle":"Spanish for Global Econ",
     "department":"Spanish and Latin American Culture",
     "department_code":"SPAN",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SPAN\/W3300-20271-020\/",
@@ -178830,7 +178895,7 @@
     "call_number":"00239",
     "campus":null,
     "class_id":"W3300-20271-021",
-    "course_subtitle":"ADV LANGUAGE THROUGH CONT",
+    "course_subtitle":"SPORTS,POLITICS,&IDENTITY",
     "department":"Spanish and Latin American Culture",
     "department_code":"SPAN",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SPAN\/W3300-20271-021\/",
