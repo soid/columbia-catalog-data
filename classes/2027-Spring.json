@@ -1387,7 +1387,7 @@
     "department":"Core (A&S)",
     "department_code":"AFCV",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/AFCV\/C1020-20271-001\/",
-    "location":"205 Broadway Residence Hall",
+    "location":"411 Fayerweather",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Columbia College",
@@ -8422,7 +8422,7 @@
     "department":"Applied Analytics",
     "department_code":"APAN",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/APAN\/K5206-20271-H06\/",
-    "location":null,
+    "location":"332 Uris Hall",
     "method_of_instruction":"Hybrid",
     "open_to":[
       "Professional Studies"
@@ -8449,7 +8449,7 @@
     "department":"Applied Analytics",
     "department_code":"APAN",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/APAN\/K5206-20271-H07\/",
-    "location":"140 Uris Hall",
+    "location":"332 Uris Hall",
     "method_of_instruction":"Hybrid",
     "open_to":[
       "Professional Studies"
@@ -8854,7 +8854,7 @@
     "department":"Applied Analytics",
     "department_code":"APAN",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/APAN\/K5401-20271-H02\/",
-    "location":null,
+    "location":"516 Hamilton Hall",
     "method_of_instruction":"Hybrid",
     "open_to":[
       "Professional Studies"
@@ -8962,7 +8962,7 @@
     "department":"Applied Analytics",
     "department_code":"APAN",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/APAN\/K5451-20271-H02\/",
-    "location":null,
+    "location":"702 Hamilton Hall",
     "method_of_instruction":"Hybrid",
     "open_to":[
       "Professional Studies"
@@ -9016,7 +9016,7 @@
     "department":"Applied Analytics",
     "department_code":"APAN",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/APAN\/K5471-20271-H01\/",
-    "location":null,
+    "location":"140 Uris Hall",
     "method_of_instruction":"Hybrid",
     "open_to":[
       "Professional Studies"
@@ -9232,7 +9232,7 @@
     "department":"Applied Analytics",
     "department_code":"APAN",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/APAN\/K5521-20271-H02\/",
-    "location":null,
+    "location":"332 Uris Hall",
     "method_of_instruction":"Hybrid",
     "open_to":[
       "Professional Studies"
@@ -9367,7 +9367,7 @@
     "department":"Applied Analytics",
     "department_code":"APAN",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/APAN\/K5531-20271-H02\/",
-    "location":null,
+    "location":"140 Uris Hall",
     "method_of_instruction":"Hybrid",
     "open_to":[
       "Professional Studies"
@@ -9718,7 +9718,7 @@
     "department":"Applied Analytics",
     "department_code":"APAN",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/APAN\/K5581-20271-H02\/",
-    "location":null,
+    "location":"332 Uris Hall",
     "method_of_instruction":"Hybrid",
     "open_to":[
       "Professional Studies"
@@ -10042,7 +10042,7 @@
     "department":"Applied Analytics",
     "department_code":"APAN",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/APAN\/K5601-20271-H02\/",
-    "location":null,
+    "location":"332 Uris Hall",
     "method_of_instruction":"Hybrid",
     "open_to":[
       "Professional Studies"
@@ -10069,7 +10069,7 @@
     "department":"Applied Analytics",
     "department_code":"APAN",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/APAN\/K5601-20271-H03\/",
-    "location":null,
+    "location":"140 Uris Hall",
     "method_of_instruction":"Hybrid",
     "open_to":[
       "Professional Studies"
@@ -10123,7 +10123,7 @@
     "department":"Applied Analytics",
     "department_code":"APAN",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/APAN\/K5601-20271-H05\/",
-    "location":null,
+    "location":"603 Hamilton Hall",
     "method_of_instruction":"Hybrid",
     "open_to":[
       "Professional Studies"
@@ -10312,7 +10312,7 @@
     "department":"Applied Analytics",
     "department_code":"APAN",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/APAN\/K5801-20271-H01\/",
-    "location":null,
+    "location":"703 Hamilton Hall",
     "method_of_instruction":"Hybrid",
     "open_to":[
       "Professional Studies"
@@ -19371,6 +19371,31 @@
     ],
     "scheduled_days":null,
     "section_key":"20271BIOL3597X012",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"BIOL BC3597",
+    "course_title":"GUIDED RESEARCH",
+    "course_descr":null,
+    "instructor":"Rishita Shah",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"01154",
+    "campus":null,
+    "class_id":"X3597-20271-013",
+    "course_subtitle":null,
+    "department":"Biological Sciences @Barnard",
+    "department_code":"BIOL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/BIOL\/X3597-20271-013\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"1-4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271BIOL3597X013",
     "type":"INDEPENDENT"
   },
   {
@@ -34465,7 +34490,11 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/CHEN\/E4140-20271-001\/",
     "location":"227 Seeley W. Mudd Building",
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "Engineering:Graduate",
+      "Engineering:Undergraduate",
+      "GSAS"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -34490,7 +34519,11 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/CHEN\/E4201-20271-001\/",
     "location":"627 Seeley W. Mudd Building",
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "Engineering:Graduate",
+      "Engineering:Undergraduate",
+      "GSAS"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -34515,7 +34548,11 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/CHEN\/E4231-20271-001\/",
     "location":"627 Seeley W. Mudd Building",
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "Engineering:Graduate",
+      "Engineering:Undergraduate",
+      "GSAS"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -34678,7 +34715,11 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/CHEN\/E4600-20271-001\/",
     "location":"227 Seeley W. Mudd Building",
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "Engineering:Graduate",
+      "Engineering:Undergraduate",
+      "GSAS"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -34728,7 +34769,11 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/CHEN\/E4870-20271-001\/",
     "location":"516 Hamilton Hall",
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "Engineering:Graduate",
+      "Engineering:Undergraduate",
+      "GSAS"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -34753,7 +34798,11 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/CHEN\/E4880-20271-001\/",
     "location":"227 Seeley W. Mudd Building",
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "Engineering:Graduate",
+      "Engineering:Undergraduate",
+      "GSAS"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -44285,7 +44334,14 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMS\/E6113-20271-001\/",
     "location":"224 Pupin Laboratories",
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "Engineering:Graduate",
+      "Engineering:Undergraduate",
+      "GSAS",
+      "General Studies"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -46147,7 +46203,14 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMS\/W4995-20271-010\/",
     "location":"825 Seeley W. Mudd Building",
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "Engineering:Graduate",
+      "Engineering:Undergraduate",
+      "GSAS",
+      "General Studies"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -46172,7 +46235,14 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMS\/W4995-20271-011\/",
     "location":"331 Uris Hall",
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "Engineering:Graduate",
+      "Engineering:Undergraduate",
+      "GSAS",
+      "General Studies"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -46281,6 +46351,31 @@
     ],
     "scheduled_days":"W",
     "section_key":"20271CPLS4163W001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"CPLS GU4225",
+    "course_title":"Man-machine: Medical technology, democra",
+    "course_descr":null,
+    "instructor":"Neni K Panourgia",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"17061",
+    "campus":null,
+    "class_id":"W4225-20271-001",
+    "course_subtitle":"MAN-MACHINE:MED TECH,DEM,",
+    "department":"Classics",
+    "department_code":"CPLS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CPLS\/W4225-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20271CPLS4225W001",
     "type":"SEMINAR"
   },
   {
@@ -58108,7 +58203,7 @@
     "department":"Economics",
     "department_code":"ECPS",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ECPS\/W4921-20271-001\/",
-    "location":null,
+    "location":"707 Hamilton Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Columbia College",
@@ -76143,7 +76238,7 @@
     "course_code":"FILM AF5410",
     "course_title":"PRACTICAL PRODUCTION II",
     "course_descr":null,
-    "instructor":null,
+    "instructor":"Maureen A Ryan",
     "scheduled_time_start":"9:00am",
     "scheduled_time_end":"11:00am",
     "call_number":"12779",
@@ -76170,7 +76265,7 @@
     "course_code":"FILM AF5410",
     "course_title":"PRACTICAL PRODUCTION II",
     "course_descr":null,
-    "instructor":null,
+    "instructor":"Maureen A Ryan",
     "scheduled_time_start":"11:00am",
     "scheduled_time_end":"1:00pm",
     "call_number":"12784",
@@ -76197,8 +76292,8 @@
     "course_code":"FILM AF5410",
     "course_title":"PRACTICAL PRODUCTION II",
     "course_descr":null,
-    "instructor":null,
-    "scheduled_time_start":"1:30pm",
+    "instructor":"Maureen A Ryan",
+    "scheduled_time_start":"1:00pm",
     "scheduled_time_end":"3:30pm",
     "call_number":"12787",
     "campus":null,
@@ -76797,6 +76892,34 @@
     "type":"WORKSHOP"
   },
   {
+    "course_code":"FILM AF6940",
+    "course_title":"DOCUMENTARY ACTIVISM:THEORY",
+    "course_descr":null,
+    "instructor":"James L Hoberman",
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"4:40pm",
+    "call_number":"17035",
+    "campus":null,
+    "class_id":"G6940-20271-001",
+    "course_subtitle":null,
+    "department":"Film",
+    "department_code":"FILM",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FILM\/G6940-20271-001\/",
+    "location":"504 Dodge Hall",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "GSAS",
+      "Schools of the Arts"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20271FILM6940G001",
+    "type":"SEMINAR"
+  },
+  {
     "course_code":"FILM AF8110",
     "course_title":"TV PILOT: COMEDY & DRAMA",
     "course_descr":"With the pilot as a focal point, this course explores the opportunities and challenges of telling and sustaining a serialized story over a protracted period of time with an emphasis on the creation, borne out of character, of the quintessential premise and the ongoing conflict, be it thematic or literal, behind a successful series.\n \n Early in the semester, students may be required to present\/pitch their series idea. During the subsequent weeks, students will learn the process of pitching, outlining, and writing a television pilot, that may include story breaking, beat-sheets or story outline, full outlines, and the execution of either a thirty-minute or hour-long teleplay. This seminar may include reading pages and giving notes based on the instructor but may also solely focus on the individual process of the writer.\u00a0\u00a0\n \n \nStudents may only enroll in one TV Writing workshop per semester.",
@@ -77091,6 +77214,33 @@
     "scheduled_days":"R",
     "section_key":"20271FILM8355R001",
     "type":"SEMINAR"
+  },
+  {
+    "course_code":"FILM AF8420",
+    "course_title":"Tech Arts: Advanced Post Production",
+    "course_descr":null,
+    "instructor":"Michael J Cacioppo Belantara",
+    "scheduled_time_start":"9:30am",
+    "scheduled_time_end":"12:30pm",
+    "call_number":"17057",
+    "campus":null,
+    "class_id":"R8420-20271-001",
+    "course_subtitle":"Tech Arts: Adv Post Produ",
+    "department":"Film",
+    "department_code":"FILM",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FILM\/R8420-20271-001\/",
+    "location":"301 Dodge Hall",
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Schools of the Arts"
+    ],
+    "points":"1.5",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20271FILM8420R001",
+    "type":"LABORATORY"
   },
   {
     "course_code":"FILM AF9110",
@@ -77537,6 +77687,36 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"FILM GR5730",
+    "course_title":"Minstrelsy and Popular Culture",
+    "course_descr":null,
+    "instructor":"Racquel Gates",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"12:40pm",
+    "call_number":"17062",
+    "campus":null,
+    "class_id":"R5730-20271-001",
+    "course_subtitle":"Minstrelsy and Popular Cu",
+    "department":"Film",
+    "department_code":"FILM",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FILM\/R5730-20271-001\/",
+    "location":"504 Dodge Hall",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Engineering:Graduate",
+      "GSAS",
+      "Professional Studies",
+      "Schools of the Arts"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20271FILM5730R001",
+    "type":"SEMINAR"
+  },
+  {
     "course_code":"FILM GU4311",
     "course_title":"Radical Film and Media",
     "course_descr":"This course examines a wide range of radical film and media practices from around the globe. Looking at fiction, nonfiction, and experimental works, we will examine key concepts used to define the political purposes of cinema from historical and theoretical perspectives. What do we mean when we talk about \u201cguerrilla,\u201d \u201cmilitant,\u201d or \u201cthird cinema\u201d film and media practices? How have these concepts been mobilized at different historical periods and for which purpose?\u00a0What is their relationship to the anticolonial struggles and other social movements?",
@@ -77566,6 +77746,56 @@
     "scheduled_days":"W",
     "section_key":"20271FILM4311W001",
     "type":"SEMINAR"
+  },
+  {
+    "course_code":"FILM GU4953",
+    "course_title":"Reality Television",
+    "course_descr":null,
+    "instructor":"Racquel Gates",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"12:40pm",
+    "call_number":"17048",
+    "campus":null,
+    "class_id":"W4953-20271-001",
+    "course_subtitle":null,
+    "department":"Film",
+    "department_code":"FILM",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FILM\/W4953-20271-001\/",
+    "location":"511 Dodge Hall",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20271FILM4953W001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"FILM GU4956",
+    "course_title":"Reality Television Discussion",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"9:10am",
+    "scheduled_time_end":"10:00am",
+    "call_number":"17056",
+    "campus":null,
+    "class_id":"W4956-20271-001",
+    "course_subtitle":"Reality Television Discus",
+    "department":"Film",
+    "department_code":"FILM",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FILM\/W4956-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"F",
+    "section_key":"20271FILM4956W001",
+    "type":"DISCUSSION"
   },
   {
     "course_code":"FILM UN1000",
@@ -87024,6 +87254,31 @@
     ],
     "scheduled_days":null,
     "section_key":"20271GREK3998V002",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"GREK UN3998",
+    "course_title":"SUPERVISED RSRCH IN GREEK LIT",
+    "course_descr":null,
+    "instructor":"Francesco de Angelis",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17060",
+    "campus":null,
+    "class_id":"V3998-20271-004",
+    "course_subtitle":"SUPERVISED RSRCH IN GREEK",
+    "department":"Classics",
+    "department_code":"GREK",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/GREK\/V3998-20271-004\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271GREK3998V004",
     "type":"INDEPENDENT"
   },
   {
@@ -98542,8 +98797,7 @@
     "location":"313 Fayerweather",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Engineering:Graduate",
-      "Engineering:Undergraduate"
+      "Engineering:Graduate"
     ],
     "points":"3",
     "prerequisites":[
@@ -102125,7 +102379,7 @@
   {
     "course_code":"IFEP IA7700",
     "course_title":"Applied Geopolitics: Risk Analysis",
-    "course_descr":"International Economics and Policy Concentration and Minor Registration Priority.\n This course introduces students to the theory and practice of political risk analysis, focusing on how geopolitical dynamics shape markets, investment strategies, and global governance. Students will examine frameworks such as the G-Zero world, J-Curve, and state capitalism, and explore how they apply to real-world risks across countries and sectors. Taught by leading experts in the field, the course emphasizes interdisciplinary tools and methodologies for identifying, assessing, and managing political risk\u2014including scenario planning, risk indices, and game-theory modeling. Through a combination of case studies, interactive practicums, and group presentations, students will apply these tools to current global challenges such as political transitions, social unrest, climate change, technological disruption, and great power conflict. The course prepares students to think strategically and forecast risk in public, private, and multilateral settings.",
+    "course_descr":"IFEP Concentration and Minor Registration Priority\n.\n This course introduces students to the theory and practice of political risk analysis, focusing on how geopolitical dynamics shape markets, investment strategies, and global governance. Students will examine frameworks such as the G-Zero world, J-Curve, and state capitalism, and explore how they apply to real-world risks across countries and sectors. Taught by leading experts in the field, the course emphasizes interdisciplinary tools and methodologies for identifying, assessing, and managing political risk\u2014including scenario planning, risk indices, and game-theory modeling. Through a combination of case studies, interactive practicums, and group presentations, students will apply these tools to current global challenges such as political transitions, social unrest, climate change, technological disruption, and great power conflict. The course prepares students to think strategically and forecast risk in public, private, and multilateral settings.",
     "instructor":null,
     "scheduled_time_start":"3:10pm",
     "scheduled_time_end":"5:00pm",
@@ -102206,7 +102460,7 @@
   {
     "course_code":"IFEP IA7790",
     "course_title":"Geoeconomic Fragmentation",
-    "course_descr":"International Economics and Policy Concentration Registration Priority. \nA seminar on the growing fragmentation of the global economy. The course explores how the rise of geoeconomics\u2014marked by the proliferation of sanctions, tariffs, export controls, and industrial policies\u2014is reshaping the global financial system, energy markets, supply chains, and technology industry. Topics include dedollarization and digital currencies, the bifurcation of the global oil market, China\u2019s dominance of critical minerals and clean-energy supply chains, and the race for leadership in artificial intelligence. The course also examines alternative futures for the world economic order as the era of globalization gives way to something new.",
+    "course_descr":"IFEP Concentration and Minor Registration Priority\n. \nA seminar on the growing fragmentation of the global economy. The course explores how the rise of geoeconomics\u2014marked by the proliferation of sanctions, tariffs, export controls, and industrial policies\u2014is reshaping the global financial system, energy markets, supply chains, and technology industry. Topics include dedollarization and digital currencies, the bifurcation of the global oil market, China\u2019s dominance of critical minerals and clean-energy supply chains, and the race for leadership in artificial intelligence. The course also examines alternative futures for the world economic order as the era of globalization gives way to something new.",
     "instructor":"Edward B Fishman",
     "scheduled_time_start":"3:10pm",
     "scheduled_time_end":"5:00pm",
@@ -102237,22 +102491,22 @@
     "instructor":null,
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"1:00pm",
-    "call_number":"16395",
+    "call_number":"16397",
     "campus":null,
-    "class_id":"K5203-20271-001",
+    "class_id":"K5203-20271-H01",
     "course_subtitle":"IKNS 5303 - Recitation",
     "department":"Information & Knowledge Strat",
     "department_code":"IKNS",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/IKNS\/K5203-20271-001\/",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/IKNS\/K5203-20271-H01\/",
     "location":"407 Mathematics Building",
-    "method_of_instruction":"In-Person",
+    "method_of_instruction":"Hybrid 20-79",
     "open_to":null,
     "points":"0",
     "prerequisites":[
 
     ],
     "scheduled_days":"M",
-    "section_key":"20271IKNS5203K001",
+    "section_key":"20271IKNS5203KH01",
     "type":"RECITATION"
   },
   {
@@ -105062,8 +105316,8 @@
     "course_title":"ELEMENTARY ITALIAN II",
     "course_descr":"Prerequisites: ITAL V1101 or the equivalent. Introduction to Italian grammar, with emphasis on reading, writing, listening and speaking skills.",
     "instructor":null,
-    "scheduled_time_start":"2:10pm",
-    "scheduled_time_end":"4:00pm",
+    "scheduled_time_start":"11:40am",
+    "scheduled_time_end":"12:55pm",
     "call_number":"14840",
     "campus":null,
     "class_id":"W1102-20271-004",
@@ -105071,7 +105325,7 @@
     "department":"Italian",
     "department_code":"ITAL",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ITAL\/W1102-20271-004\/",
-    "location":"509 Hamilton Hall",
+    "location":null,
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"4",
@@ -105080,7 +105334,7 @@
         "ITAL V1101"
       ]
     ],
-    "scheduled_days":"MW",
+    "scheduled_days":"MWF",
     "section_key":"20271ITAL1102W004",
     "type":"LANGUAGE"
   },
@@ -118903,8 +119157,8 @@
     "course_title":"INTEN ARMENIAN\/HERITAGE SPKRS",
     "course_descr":"Intensive Armenian for Heritage Speakers is an accelerated course for students of Armenian origin who already have basic knowledge of the spoken language and are able to converse on familiar topics relating to themselves and their immediate surroundings. The course will focus on developing their skills in reading, writing, and speaking and Armenian grammar and vocabulary. By the end of the course, students will be able to read, write and discuss simple texts. Placement will be based on an interview and questionnaire about their background. No P\/D\/F or R credit is allowed for this class. No P\/D\/F or R credit is allowed for this class.",
     "instructor":"Charry Karamanoukian",
-    "scheduled_time_start":"10:10am",
-    "scheduled_time_end":"12:00pm",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"6:00pm",
     "call_number":"13575",
     "campus":null,
     "class_id":"W1309-20271-001",
@@ -124959,6 +125213,81 @@
     "type":"SEMINAR"
   },
   {
+    "course_code":"MICR G4020",
+    "course_title":"GRADUATE IMMUNOLOGY",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"10:30am",
+    "scheduled_time_end":"12:00pm",
+    "call_number":"17049",
+    "campus":null,
+    "class_id":"G4020-20271-001",
+    "course_subtitle":null,
+    "department":"Microbiology",
+    "department_code":"MICR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/MICR\/G4020-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20271MICR4020G001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"MICR G9302",
+    "course_title":"SEM-MICROBIOL & IMMUNOLOGY II",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"12:00pm",
+    "scheduled_time_end":"1:00pm",
+    "call_number":"17050",
+    "campus":null,
+    "class_id":"G9302-20271-001",
+    "course_subtitle":null,
+    "department":"Microbiology",
+    "department_code":"MICR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/MICR\/G9302-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"2",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20271MICR9302G001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"MICR G9502",
+    "course_title":"RES-MICROBIOL & IMMUNOLOGY II",
+    "course_descr":null,
+    "instructor":"Nicholas Arpaia",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17051",
+    "campus":null,
+    "class_id":"G9502-20271-001",
+    "course_subtitle":null,
+    "department":"Microbiology",
+    "department_code":"MICR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/MICR\/G9502-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"4-12",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271MICR9502G001",
+    "type":"INDEPENDENT"
+  },
+  {
     "course_code":"MI__ OC01P_",
     "course_title":"BIOMEDICAL INFORMATICS RESEARCH",
     "course_descr":null,
@@ -129447,6 +129776,283 @@
     "type":"INDEPENDENT"
   },
   {
+    "course_code":"NBHV G4990",
+    "course_title":"STUDENT JOURNAL CLUB",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"10:00am",
+    "call_number":"17037",
+    "campus":null,
+    "class_id":"G4990-20271-001",
+    "course_subtitle":null,
+    "department":"Neurobiology and Behavior",
+    "department_code":"NBHV",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NBHV\/G4990-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "GSAS"
+    ],
+    "points":"1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20271NBHV4990G001",
+    "type":"COLLOQUIA"
+  },
+  {
+    "course_code":"NBHV G6040",
+    "course_title":"ADV TOPICS IN THEOR NEUROSCI",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"10:00am",
+    "scheduled_time_end":"11:00am",
+    "call_number":"17039",
+    "campus":null,
+    "class_id":"G6040-20271-001",
+    "course_subtitle":"ADV TOPICS IN THEOR NEURO",
+    "department":"Neurobiology and Behavior",
+    "department_code":"NBHV",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NBHV\/G6040-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Engineering:Graduate",
+      "GSAS"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20271NBHV6040G001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"NBHV G9040",
+    "course_title":"RESEARCH IN NEUROBIOLOGY",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"8:00am",
+    "scheduled_time_end":"9:00am",
+    "call_number":"17045",
+    "campus":null,
+    "class_id":"G9040-20271-001",
+    "course_subtitle":null,
+    "department":"Neurobiology and Behavior",
+    "department_code":"NBHV",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NBHV\/G9040-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "GSAS"
+    ],
+    "points":"1-15",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20271NBHV9040G001",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"NBHV GR6030",
+    "course_title":"ANALYSIS FOR NEUROSCIENTISTS",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"2:00pm",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"17038",
+    "campus":null,
+    "class_id":"G6030-20271-001",
+    "course_subtitle":null,
+    "department":"Neurobiology and Behavior",
+    "department_code":"NBHV",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NBHV\/G6030-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Engineering:Graduate",
+      "GSAS"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20271NBHV6030G001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"NBHV GR6055",
+    "course_title":"Survey Neuroscience II",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"4:30pm",
+    "scheduled_time_end":"6:30pm",
+    "call_number":"17040",
+    "campus":null,
+    "class_id":"G6055-20271-001",
+    "course_subtitle":null,
+    "department":"Neurobiology and Behavior",
+    "department_code":"NBHV",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NBHV\/G6055-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "GSAS"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MW",
+    "section_key":"20271NBHV6055G001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"NBHV GR6060",
+    "course_title":"Genomics & Machine Learning in Neuro Sci",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"10:00am",
+    "scheduled_time_end":"1:00pm",
+    "call_number":"17041",
+    "campus":null,
+    "class_id":"G6060-20271-001",
+    "course_subtitle":"Genomics & Machine Learni",
+    "department":"Neurobiology and Behavior",
+    "department_code":"NBHV",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NBHV\/G6060-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "GSAS"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20271NBHV6060G001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"NBHV GR7010",
+    "course_title":"WRITING SKILLS FOR NEUROSCIENTISTS",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"3:30pm",
+    "scheduled_time_end":"5:00pm",
+    "call_number":"17042",
+    "campus":null,
+    "class_id":"G7010-20271-002",
+    "course_subtitle":"II:BUILDING A SPECIFIC AIMS PG",
+    "department":"Neurobiology and Behavior",
+    "department_code":"NBHV",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NBHV\/G7010-20271-002\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "GSAS"
+    ],
+    "points":"0.5",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20271NBHV7010G002",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"NBHV GR7020",
+    "course_title":"PRESENTATION SKILLS FOR NEUROSCIENTISTS",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"10:00am",
+    "scheduled_time_end":"11:30am",
+    "call_number":"17043",
+    "campus":null,
+    "class_id":"G7020-20271-OO1",
+    "course_subtitle":"PRESENTATION SKILLS FOR NEUROS",
+    "department":"Neurobiology and Behavior",
+    "department_code":"NBHV",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NBHV\/G7020-20271-OO1\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "GSAS"
+    ],
+    "points":"1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20271NBHV7020GOO1",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"NBHV GR7070",
+    "course_title":"Management and Leadership Skills for Sci",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"4:00pm",
+    "scheduled_time_end":"5:30pm",
+    "call_number":"17044",
+    "campus":null,
+    "class_id":"G7070-20271-001",
+    "course_subtitle":"Management and Leadership",
+    "department":"Neurobiology and Behavior",
+    "department_code":"NBHV",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NBHV\/G7070-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "GSAS"
+    ],
+    "points":"0.5",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20271NBHV7070G001",
+    "type":"DISCUSSION"
+  },
+  {
+    "course_code":"NBHV GU4359",
+    "course_title":"Mathematical Tools for Theoretical Neuro",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"12:10pm",
+    "scheduled_time_end":"1:25pm",
+    "call_number":"17036",
+    "campus":null,
+    "class_id":"G4359-20271-001",
+    "course_subtitle":"Math Tools for Theoretica",
+    "department":"Neurobiology and Behavior",
+    "department_code":"NBHV",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NBHV\/G4359-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "Engineering:Graduate",
+      "Engineering:Undergraduate",
+      "GSAS",
+      "General Studies"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20271NBHV4359G001",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"NECR PS5050",
     "course_title":"STRATEGIC NEGOTIATION IN COMPLEX SYSTEMS",
     "course_descr":"Negotiation today requires navigating complexity, interpreting incomplete data, managing uncertainty, and fostering trust in environments where clarity is scarce and stakes are high. Practitioners must address information gaps and asymmetry, regulatory pressures, and power dynamics while aligning diverse interests and shaping agreements that endure.\nThis course prepares students with skills to negotiate effectively across healthcare, technology, and business\u2014domains where outcomes hinge on data limitations, contractual nuance, and shifting stakeholder priorities. Trust and credibility are emphasized as essential currencies, especially when agreements depend on long-term relationships, compliance, and cross-functional collaboration.\nGuest speakers from multiple industries will share practical insights into negotiating across roles and power structures. Their perspectives will underscore the value of preparation, trust-building, and adaptive strategies for navigating uncertainty in dynamic environments.\nStudents will:\nBuild and apply negotiation frameworks in complex, multiparty environments.\nLearn how to extract meaning from structured (quantitative) and unstructured (qualitative) data.\nDevelop data-informed narratives to guide decision-making and stakeholder alignment.\nPractice identifying cognitive bias, ethical tension, and strategic leverage points.\nEngage in simulations and case studies grounded in real-world contracting and influence challenges.\nNote for NECR Students: As an elective offered by the Negotiation and Conflict Resolution (NECR) program, this course builds on students\u2019 conflict negotiation skills (PS5105) and their application in healthcare. Students will further engage with concepts on the influences and cultural understandings of conflict parties, and conflict analysis (PS5124 and 6050). The aforementioned courses will contribute to the understanding of this course\u2019s content and should, in general, be taken before this elective.\nWeekly Class Meeting 110 min x 14 = 1,540 min; Synchronous simulation workshop (Category B) 4 sessions x 180 min = 720 min; TOTAL = 2,260 min (for entire semester)",
@@ -132886,6 +133492,71 @@
     "type":"CLINIC"
   },
   {
+    "course_code":"NUTR G4020",
+    "course_title":"MOLECULR\/CELL BIO OF NUTRIENTS",
+    "course_descr":null,
+    "instructor":"Lori M Zeltser",
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"10:30am",
+    "call_number":"17046",
+    "campus":null,
+    "class_id":"G4020-20271-001",
+    "course_subtitle":"MOLECULR\/CELL BIO OF NUTR",
+    "department":"Human Nutrition, Institute of",
+    "department_code":"NUTR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NUTR\/G4020-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Barnard College",
+      "Columbia College",
+      "Engineering:Graduate",
+      "GSAS",
+      "General Studies",
+      "Global Programs",
+      "Professional Studies",
+      "Public Health",
+      "SIPA",
+      "Schools of the Arts"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20271NUTR4020G001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"NUTR G9011",
+    "course_title":"DOCTORAL RESEARCH IN NUTRITION",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17047",
+    "campus":null,
+    "class_id":"G9011-20271-001",
+    "course_subtitle":"DOCTORAL RESEARCH IN NUTR",
+    "department":"Human Nutrition, Institute of",
+    "department_code":"NUTR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NUTR\/G9011-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Engineering:Graduate",
+      "GSAS",
+      "SIPA"
+    ],
+    "points":"1-15",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271NUTR9011G001",
+    "type":"INDEPENDENT"
+  },
+  {
     "course_code":"NUTR M6227",
     "course_title":"TUTORIAL IN CLINICAL PRACTICE:STRUCTURED",
     "course_descr":null,
@@ -135077,6 +135748,81 @@
     "scheduled_days":"F",
     "section_key":"20271PEPM8250UR01",
     "type":"LECTURE"
+  },
+  {
+    "course_code":"PHAR G8003",
+    "course_title":"BACKGROUNDS IN PHARMACOLOGY I",
+    "course_descr":null,
+    "instructor":"Corter Zachary",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17052",
+    "campus":null,
+    "class_id":"G8003-20271-001",
+    "course_subtitle":"BACKGROUNDS IN PHARMACOLO",
+    "department":"Pharmacology",
+    "department_code":"PHAR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PHAR\/G8003-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"2",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271PHAR8003G001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"PHAR G8010",
+    "course_title":"PHARMACOLOGY TECHNIQUES II",
+    "course_descr":null,
+    "instructor":"Nihkil Sharma",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17053",
+    "campus":null,
+    "class_id":"G8010-20271-001",
+    "course_subtitle":null,
+    "department":"Pharmacology",
+    "department_code":"PHAR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PHAR\/G8010-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"4-6",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271PHAR8010G001",
+    "type":"LABORATORY"
+  },
+  {
+    "course_code":"PHAR G9051",
+    "course_title":"RESEARCH IN PHARMACOLOGY",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17054",
+    "campus":null,
+    "class_id":"G9051-20271-001",
+    "course_subtitle":null,
+    "department":"Pharmacology",
+    "department_code":"PHAR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PHAR\/G9051-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"8-12",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271PHAR9051G001",
+    "type":"INDEPENDENT"
   },
   {
     "course_code":"PHED BC1004",
@@ -147851,6 +148597,31 @@
     "type":"SEMINAR"
   },
   {
+    "course_code":"POLS GU4434",
+    "course_title":"ETH POL ACROS POST-SOV EURASIA",
+    "course_descr":null,
+    "instructor":"Elise Giuliano",
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"17059",
+    "campus":null,
+    "class_id":"G4434-20271-002",
+    "course_subtitle":"ETH POL ACROS POST-SOV EU",
+    "department":"Political Science",
+    "department_code":"POLS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/POLS\/G4434-20271-002\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20271POLS4434G002",
+    "type":"SEMINAR"
+  },
+  {
     "course_code":"POLS GU4471",
     "course_title":"CHINESE POLITICS",
     "course_descr":"This course offers a historical and thematic survey of Chinese politics and of salient issues in China\u2019s public policy and governance. The first half of the course reviews the patterns and dynamics of political development in China, focusing mainly on the last two hundred years, during which the country has been on a rugged yet fascinating path toward modernity. We will examine major political events including the collapse of the Imperial China, the rise of the Communist Party, the Cultural Revolution, and the post-Mao shift toward reform and opening. The second half of the course will look various special topics, including the structure of the party and the state, the relationship between state and society, the modes of economic development, and the governance of the media and the Internet. Throughout the course, special attention will be paid to how China\u2019s domestic political and economic processes intersected with major world events and transnational forces, such as imperialism, world wars, and economic globalization.",
@@ -147904,7 +148675,7 @@
     "course_code":"POLS GU4499",
     "course_title":"Transnational Authoritarianism",
     "course_descr":"Authoritarian governments try to control their citizens even after those citizens have left the country. They poison exiles, force down airplanes to arrest bloggers, use Interpol to pursue their critics, and threaten the relatives of \u00e9migr\u00e9s at home. They also court their diasporas, with compatriot programs, scholarships, and the vote. Exiles, for their part, run media, finance the opposition, lobby for sanctions, and take regimes to court. This seminar examines the relationship between autocracies and the citizens who leave them. It asks why authoritarian regimes look beyond their borders and how they cooperate with one another, who leaves autocracies and what diasporas and exiles can do to the regimes they left, and how those regimes respond, from co-optation to transnational repression. The cases come mainly from Russia, Belarus, and Central Asia, set against comparisons with Turkey, Iran, Venezuela, and the Arab world. Open to advanced undergraduates and graduate students. No prerequisites.",
-    "instructor":null,
+    "instructor":"Emil Kamalov",
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"2:00pm",
     "call_number":"16587",
@@ -157298,6 +158069,31 @@
     "type":"DUMMY COURSE"
   },
   {
+    "course_code":"REGN IA4410",
+    "course_title":"Political, Social & Economic Development",
+    "course_descr":null,
+    "instructor":"Daniela Campello",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"17064",
+    "campus":null,
+    "class_id":"U4410-20271-001",
+    "course_subtitle":"Pol, Soc, & Econ Devp-Bra",
+    "department":"International and Public Affairs",
+    "department_code":"REGN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/REGN\/U4410-20271-001\/",
+    "location":"802 International Affairs Building",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"1.5",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20271REGN4410U001",
+    "type":"SEMINAR"
+  },
+  {
     "course_code":"REGN IA6149",
     "course_title":"Energy, Corporate Responsibility, and Hu",
     "course_descr":"This interdisciplinary seminar examines the role of multinational energy companies in the context of international human rights, corporate responsibility, and global governance. Drawing on case studies and legal frameworks, the course explores how extractive industries intersect with political, environmental, and social systems, particularly in transitional and emerging economies.\n  \nKey themes include the development of international human rights law, the evolving definition of corporate responsibility, environmental and minority rights, corruption and transparency, and the geopolitics of natural resource extraction. Students will investigate how transnational corporations operate in weak governance zones, how investment treaties shape state-corporate relations, and how disputes over pipelines and land use affect communities and nations alike.\n  \nThe course emphasizes real-world case analysis, including the Baku-Tbilisi-Ceyhan pipeline, Canadian mining projects in Latin America, and recent developments in sovereign debt, investor-state arbitration, and standards for corporate conduct. Students will also evaluate the effectiveness of voluntary standards, multilateral codes, and legal instruments in shaping corporate behavior.",
@@ -160261,7 +161057,7 @@
     "call_number":"16408",
     "campus":null,
     "class_id":"W4352-20271-001",
-    "course_subtitle":"Writings Nadezhda Teffi (",
+    "course_subtitle":"Writings by Nadezhda Teffi",
     "department":"Slavic Languages",
     "department_code":"RUSS",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/RUSS\/W4352-20271-001\/",
@@ -169114,8 +169910,8 @@
     "course_title":"The Global Politics of Reproduction: Pro",
     "course_descr":"Illiberal and authoritarian politicians are especially prone to demographic anxieties. Given their strong grip on power, they tend to turn these anxieties into wide ranging policies encouraging or discouraging births and targeting particular groups of the population for reproduction. \u00a0In this course we will first explore the concept of populations and social reproduction, then take a good look at historical connections between politics, racism, sexism and pro -and anti-natalism globally.\u00a0 Next, we will focus on the causes, manifestations and impact of pronatalist policies introduced (primarily but not exclusively) by authoritarian-leaning political parties around the world. We will explore the rhetoric connected to the encouragement of birth and highlight its ethnocentric, nationalist orientations. We will compare the variety of policy solutions devised by illiberal leaders, ranging from restrictions in reproductive rights, through the regulation of assisted reproductive technologies, to financial incentives encouraging births, and beyond. We will then explore if, and if so how, these new policies reshape the principles of gendered social citizenship. We will explore the impact of these pronatalist policies but focus not on birth and fertility rates but rather on their impact on social justice, such as, for example, on the poverty chances of different segments of the population, on the increase in patriarchal power in the household, or the motherhood penalty and the definition of women\u2019s work.",
     "instructor":"Eva Fodor",
-    "scheduled_time_start":"4:10pm",
-    "scheduled_time_end":"6:00pm",
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"4:00pm",
     "call_number":"16458",
     "campus":null,
     "class_id":"W4136-20271-001",
@@ -169123,7 +169919,7 @@
     "department":"Sociology",
     "department_code":"SOCI",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SOCI\/W4136-20271-001\/",
-    "location":"103 Knox Hall",
+    "location":null,
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"4",
@@ -175838,8 +176634,8 @@
     "course_title":"INTERVENTION RESEARCH METHODS",
     "course_descr":"Focuses on the science of behavioral intervention research and provides students with the knowledge and skills to design and evaluate such research. Covers research design, theory and its relationship to study aims, methodology, measurement and outcomes, efficacy and effectiveness clinical trials, different types of intervention research, sampling, recruitment, the process of intervention development, the use of process measures to examine intervention implementation, assessing fidelity and adherence, conducting data analysis, and the importance of research ethics.",
     "instructor":"Brenda Jones Harden",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"1:00pm",
+    "scheduled_time_end":"2:50pm",
     "call_number":"16321",
     "campus":null,
     "class_id":"T8507-20271-001",
@@ -175856,7 +176652,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"T",
     "section_key":"20271SOCW8507T001",
     "type":"RESEARCH SEM"
   },
@@ -181194,8 +181990,8 @@
     "course_title":"Practitioners Seminar",
     "course_descr":"This upcoming fall, we are going to kick off the \u201cPractitioners Seminar\u201d course, where successful practitioners from various industry fields (tech, finance, insurance, pharmaceutical, etc..) will have a chance to meet our students and present the projects they work on, technologies they utilize to achieve their goals, solutions they came up with etc. In addition, guest speakers will share their career development path (what kind of obstacles they faced, what pitfalls to avoid, and in general give advice on career development in their fields). We will finish up the meeting with a Q&A session with students.",
     "instructor":"Gabriel Young",
-    "scheduled_time_start":"4:10pm",
-    "scheduled_time_end":"6:40pm",
+    "scheduled_time_start":"3:10pm",
+    "scheduled_time_end":"4:10pm",
     "call_number":"14456",
     "campus":null,
     "class_id":"G5390-20271-001",
@@ -181203,7 +181999,7 @@
     "department":"Statistics",
     "department_code":"STAT",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/STAT\/G5390-20271-001\/",
-    "location":"417 International Affairs Building",
+    "location":null,
     "method_of_instruction":"In-Person",
     "open_to":[
       "GSAS"
@@ -185420,8 +186216,8 @@
     "course_title":"GEO INFO SYSTEMS (GIS) FOR SUST SCIENCE",
     "course_descr":"Many environmental and sustainability science issues have a spatial, location-based component. Increasingly available spatial data allow location-specific analysis and solutions to problems and understanding issues. As result, analyzing and identifying successful and sustainable solutions for these issues often requires the use of spatial analysis and tools. This course introduces common spatial data types and fundamental methods to organize, visualize and analyze those data using Geographic Information Systems (GIS). Through a combination of lectures and practical computer activities the students will learn and practice fundamental GIS and spatial analysis methods using typical sustainable science case studies and scenarios. A key objective of this course is to provide students with essential GIS skills that will aid them in their professional career and to offer an overview of current GIS applications. In the first part, the course will cover basic spatial data types and GIS concepts. The students will apply those techniques by analyzing potential impacts of storms on New York City as part of a guided case study. A mid-term report describing this case study and the results is required. In the second part, building on the basic concepts introduced in the first part, students will be asked to identify a sustainable science question of their choice that they would like to address as a final project. Together with the instructor they will be developing a strategy of analyzing and presenting related spatial data. While the students are working on their projects additional GIS method and spatial analysis concepts will be covered in class. At the end of the course Students will briefly present their final project and submit a paper describing their project. This course does not assume that students have had any previous experience with GIS. Weekly Class Meeting 165 min x 14 = 2,310 min; TOTAL = 2,310 min (for entire semester).",
     "instructor":"Frank Nitsche",
-    "scheduled_time_start":"4:10pm",
-    "scheduled_time_end":"6:40pm",
+    "scheduled_time_start":"3:10pm",
+    "scheduled_time_end":"6:00pm",
     "call_number":"14198",
     "campus":null,
     "class_id":"K5050-20271-001",
@@ -185432,7 +186228,8 @@
     "location":"106B Lewisohn Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Professional Studies"
+      "Professional Studies",
+      "SIPA"
     ],
     "points":"3",
     "prerequisites":[
@@ -185633,7 +186430,7 @@
     "course_code":"SUSC PS5999",
     "course_title":"CAPSTONE WORKSHOP IN SUSTAINABLE SCIENCE",
     "course_descr":"Students study the sustainability science behind a particular sustainability problem, collect and analyze data using scientific tools, and make recommendations for solving the problem. The capstone course is a client-based workshop that will integrate each element of the curriculum into an applied project, giving students hands-on experience.",
-    "instructor":null,
+    "instructor":"Benjamin Bostick",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
     "call_number":"14205",
@@ -189830,7 +190627,7 @@
     "course_descr":"This course explores the strategies, tools, and policy environments required to scale ventures beyond the startup phase, particularly in regions outside traditional tech hubs such as Silicon Valley. Students examine the entrepreneurial journey from early traction to sustained growth, considering both bottom-up approaches focused on talent, capital, and customer acquisition, and top-down approaches focused on policy and ecosystem design. Emphasis is placed on high-impact sectors including AI, blockchain, fintech, and edtech, as well as opportunities in underserved markets. Through guest lectures, written assignments, and a team-based final project, students gain practical insight into entrepreneurship, venture capital, and leadership strategies that support scale. The course is designed for students interested in launching ventures, supporting innovation ecosystems, or shaping policies that foster economic growth.",
     "instructor":"Fernando Fabre",
     "scheduled_time_start":"3:10pm",
-    "scheduled_time_end":"5:15pm",
+    "scheduled_time_end":"5:00pm",
     "call_number":"10613",
     "campus":null,
     "class_id":"U7213-20271-001",
@@ -195281,6 +196078,31 @@
     ],
     "scheduled_days":"W",
     "section_key":"20271WRIT3232W001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"WRIT UN3234",
+    "course_title":"CREATING THE NONFICTION NARRATOR",
+    "course_descr":null,
+    "instructor":"Justin Taylor",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"12:00pm",
+    "call_number":"17055",
+    "campus":null,
+    "class_id":"W3234-20271-001",
+    "course_subtitle":"CREATING NONFICTION NARRA",
+    "department":"Writing",
+    "department_code":"WRIT",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/WRIT\/W3234-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20271WRIT3234W001",
     "type":"SEMINAR"
   },
   {
