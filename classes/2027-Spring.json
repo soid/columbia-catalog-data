@@ -1682,6 +1682,60 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"AHIS BC1252",
+    "course_title":"Disc AHIS BC2528 Contemporary Art in New",
+    "course_descr":"Discussion section for course: AHIS BC2528 Contemporary Art in New York City: 1968-1983",
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"01130",
+    "campus":null,
+    "class_id":"X1252-20271-001",
+    "course_subtitle":"Disc AHIS BC2528",
+    "department":"Art History @Barnard",
+    "department_code":"AHIS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/AHIS\/X1252-20271-001\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+      [
+        "AHIS BC2528"
+      ]
+    ],
+    "scheduled_days":null,
+    "section_key":"20271AHIS1252X001",
+    "type":"DISCUSSION"
+  },
+  {
+    "course_code":"AHIS BC1252",
+    "course_title":"Disc AHIS BC2528 Contemporary Art in New",
+    "course_descr":"Discussion section for course: AHIS BC2528 Contemporary Art in New York City: 1968-1983",
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"01132",
+    "campus":null,
+    "class_id":"X1252-20271-002",
+    "course_subtitle":"Disc AHIS BC2528",
+    "department":"Art History @Barnard",
+    "department_code":"AHIS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/AHIS\/X1252-20271-002\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+      [
+        "AHIS BC2528"
+      ]
+    ],
+    "scheduled_days":null,
+    "section_key":"20271AHIS1252X002",
+    "type":"DISCUSSION"
+  },
+  {
     "course_code":"AHIS BC2001",
     "course_title":"DRAWING STUDIO",
     "course_descr":"This course delves into drawing as an expansive, exploratory practice that underpins all forms of visual art. Designed primarily as a hands-on workshop, the class is enriched with slide lectures, video presentations, and field trips. Throughout the semester, students will engage in individual and group critiques, fostering dialogue about their work. Beginning with still life and progressing to drawings of artworks, artifacts, and figure studies, the course investigates drawing as a dynamic practice connected to a wide array of visual cultures.",
@@ -6678,13 +6732,13 @@
     "course_code":"ANTH UN3300",
     "course_title":"PRECOLUMBIAN HIST OF NAT AMER",
     "course_descr":"\"Pre-Columbian Histories of Native America\" is about the heritage and historical development of Indigenous North America. But it is also about storytelling and how the Native American past comes to figure in the accounts of archaeologists, descendant communities, and other concerned commentators. Lectures are structured around five core narratives: (1) the colonization of the New World, (2) the rise of (and response to) Cahokia, North America\u2019s first monumental urban center, (3) the rise of (and response to) a religiopolitical center at Chaco Canyon in the American Southwest, (4) the stories of Western Apache places, and (5) the emergence of a Comanche equestrian empire in the 18th and 19th centuries. Our goal is to critically consider the archaeological evidence, indigenous understandings, and the political stakes that surround these narratives.",
-    "instructor":null,
+    "instructor":"Severin Fowles",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:25pm",
     "call_number":"01134",
     "campus":null,
     "class_id":"V3300-20271-001",
-    "course_subtitle":"PRECOLUMBIAN HIST OF NAT",
+    "course_subtitle":null,
     "department":"Anthropology @Barnard",
     "department_code":"ANTH",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ANTH\/V3300-20271-001\/",
@@ -19376,7 +19430,7 @@
   {
     "course_code":"BIOL BC3597",
     "course_title":"GUIDED RESEARCH",
-    "course_descr":null,
+    "course_descr":"Similar to BIOL BC3591-BIOL BC3592, this is a one-semester course that provides students with degree credit for unpaid research\u00a0\nwithout\u00a0\na seminar component. You may enroll in BIOL BC3597 for between 1-4 credits per semester. As a rule of thumb, you should be spending approximately 3 hours per week per credit on your research project.\n  \nA\u00a0\nProject Approval Form\n\u00a0must be submitted to the department each semester that you enroll in this course. Your Barnard research mentor (if your lab is at Barnard) or internal adviser in the Biology Department (if your lab is elsewhere) must approve your planned research\u00a0\nbefore\n\u00a0you enroll in BIOL BC3597. You should sign up for your mentor's section.\u00a0\n  \nThis course does not fulfill any Biology major requirements.\u00a0 It is open to students beginning in their first year.",
     "instructor":"Rishita Shah",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -19392,7 +19446,14 @@
     "open_to":null,
     "points":"1-4",
     "prerequisites":[
-
+      [
+        "BIOL BC3591"
+      ],
+      [
+        "BIOL BC3592",
+        "BIOL BC3597",
+        "BIOL BC3597"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20271BIOL3597X013",
@@ -25477,8 +25538,8 @@
     "course_title":"Markets and the Economy",
     "course_descr":null,
     "instructor":"Jesse Schreger",
-    "scheduled_time_start":"12:30pm",
-    "scheduled_time_end":"3:30pm",
+    "scheduled_time_start":"12:45pm",
+    "scheduled_time_end":"3:45pm",
     "call_number":"15498",
     "campus":null,
     "class_id":"B5008-20271-003",
@@ -25486,7 +25547,7 @@
     "department":"Business Economics",
     "department_code":"BUEC",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/BUEC\/B5008-20271-003\/",
-    "location":"690 Kravis Hall, Friday Sunday 12:30pm-3:30pm, Saturday 8:30am-11:30am, Saturday 3:45pm-6:45pm 690 Kravis Hall, Saturday 8:30am-11:30am 690 Kravis Hall",
+    "location":"620 GEFFEN HALL, Friday Sunday 12:45pm-3:45pm, Saturday 8:30am-11:30am, Saturday 4:00pm-7:00pm 620 GEFFEN HALL, Saturday 8:30am-11:30am 620 GEFFEN HALL",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Business"
@@ -25531,8 +25592,8 @@
     "course_title":"Global Economic Environment",
     "course_descr":null,
     "instructor":"Conor Walsh",
-    "scheduled_time_start":"3:45pm",
-    "scheduled_time_end":"6:45pm",
+    "scheduled_time_start":"4:00pm",
+    "scheduled_time_end":"7:00pm",
     "call_number":"15489",
     "campus":null,
     "class_id":"B5201-20271-003",
@@ -25540,7 +25601,7 @@
     "department":"Business Economics",
     "department_code":"BUEC",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/BUEC\/B5201-20271-003\/",
-    "location":"690 Kravis Hall, Saturday 12:30pm-3:30pm 690 Kravis Hall, Saturday 8:30am-11:30am 690 Kravis Hall",
+    "location":"620 GEFFEN HALL, Saturday 12:45pm-3:45pm 620 GEFFEN HALL, Saturday 8:30am-11:30am 620 GEFFEN HALL",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Business"
@@ -26262,7 +26323,7 @@
     "department":"Business Economics",
     "department_code":"BUEC",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/BUEC\/B8265-20271-001\/",
-    "location":"620 GEFFEN HALL",
+    "location":"120 GEFFEN HALL",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Business"
@@ -28341,7 +28402,7 @@
     "department":"Chemical Engineering",
     "department_code":"CHAP",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/CHAP\/E4120-20271-001\/",
-    "location":null,
+    "location":"614 Schermerhorn Hall [SCH]",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"3",
@@ -31910,7 +31971,7 @@
     "department":"Chemistry",
     "department_code":"CHEM",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/CHEM\/W2047-20271-002\/",
-    "location":"609 Hamilton Hall",
+    "location":"411 Kent Hall",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"0",
@@ -34678,18 +34739,9 @@
     "location":"303 Uris Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Architecture",
-      "Business",
       "Engineering:Graduate",
       "Engineering:Undergraduate",
-      "GSAS",
-      "Journalism",
-      "Law",
-      "Professional Studies",
-      "Public Health",
-      "SIPA",
-      "Schools of the Arts",
-      "Social Work"
+      "GSAS"
     ],
     "points":"3",
     "prerequisites":[
@@ -38844,31 +38896,6 @@
     "type":"SEMINAR"
   },
   {
-    "course_code":"CLGM GU4600",
-    "course_title":"Multilingual Worlds: Translation, Gender",
-    "course_descr":"Moving between different languages and alphabets is a constitutive aspect of the diasporic experience. To remember or forget the mother tongue, to mix up two or more languages, to transcribe one writing system onto another are all modes of negotiating geographical displacement.\u00a0This course introduces students to literature about and by Greeks of the diaspora in Europe, the Balkans and America over the past two centuries exploring questions of migration, translation and gender with particular attention to the look and sound of different alphabets and foreign accents \u2013 \u201cIt\u2019s all Greek to me!\u201d Authors include Benjamin, Broumas, Chaplin, Chow, Conan Doyle, Kafka, Kazan, Morrison, Papadiamantis, Queen, Valtinos and Venuti.",
-    "instructor":"Karen Van Dyck",
-    "scheduled_time_start":"10:10am",
-    "scheduled_time_end":"12:00pm",
-    "call_number":"11308",
-    "campus":null,
-    "class_id":"W4600-20271-001",
-    "course_subtitle":"Translation, Gender, Gree",
-    "department":"Classics",
-    "department_code":"CLGM",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CLGM\/W4600-20271-001\/",
-    "location":"613 Hamilton Hall",
-    "method_of_instruction":"In-Person",
-    "open_to":null,
-    "points":"4",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"T",
-    "section_key":"20271CLGM4600W001",
-    "type":"SEMINAR"
-  },
-  {
     "course_code":"CLGM UN3920",
     "course_title":"WORLD RESPONDS TO THE GREEKS",
     "course_descr":"This course examines various literary, artistic, and cultural traditions that respond to some of the most recognizable Greek motifs in myth, theater, and politics, with the aim of understanding both what these motifs might be offering specifically to these traditions in particular social-historical contexts and, at the same time, what these traditions in turn bring to our conventional understanding of these motifs, how they reconceptualize them and how they alter them. The overall impetus is framed by a prismatic inquiry of how conditions of modernity, postcoloniality, and globality fashion themselves in engagement with certain persistent imaginaries of antiquity.",
@@ -39949,7 +39976,7 @@
     "course_code":"CLMT G5202",
     "course_title":"Quantitative Methods - LAB",
     "course_descr":"Lab section corresponding to CLMT 5002 Quantitative Methods for Climate Applications",
-    "instructor":null,
+    "instructor":"Abby Meola",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
     "call_number":"12618",
@@ -39974,7 +40001,7 @@
     "course_code":"CLMT G5202",
     "course_title":"Quantitative Methods - LAB",
     "course_descr":"Lab section corresponding to CLMT 5002 Quantitative Methods for Climate Applications",
-    "instructor":null,
+    "instructor":"Abby Meola",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
     "call_number":"12619",
@@ -44945,7 +44972,7 @@
   {
     "course_code":"COMS W3101",
     "course_title":"PROGRAMMING LANGUAGES",
-    "course_descr":null,
+    "course_descr":"Introduction to a programming language. Each section is devoted to a specific language. Intended only for those who are already fluent in at least one programming language. Sections may meet for one hour per week for the whole term, for three hours per week for the first third of the term, or for two hours per week for the first six weeks. May be repeated for credit if different languages are involved.",
     "instructor":null,
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -44970,7 +44997,7 @@
   {
     "course_code":"COMS W3101",
     "course_title":"PROGRAMMING LANGUAGES",
-    "course_descr":null,
+    "course_descr":"Introduction to a programming language. Each section is devoted to a specific language. Intended only for those who are already fluent in at least one programming language. Sections may meet for one hour per week for the whole term, for three hours per week for the first third of the term, or for two hours per week for the first six weeks. May be repeated for credit if different languages are involved.",
     "instructor":null,
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -46190,7 +46217,7 @@
   {
     "course_code":"COMS W4995",
     "course_title":"TOPICS IN COMPUTER SCIENCE",
-    "course_descr":null,
+    "course_descr":"Selected topics in computer science. Content and prerequisites vary between sections and semesters.\u00a0May be repeated for credit. Check \u201ctopics course\u201d webpage on the department website for more information on each section.",
     "instructor":null,
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"3:40pm",
@@ -46222,7 +46249,7 @@
   {
     "course_code":"COMS W4995",
     "course_title":"TOPICS IN COMPUTER SCIENCE",
-    "course_descr":null,
+    "course_descr":"Selected topics in computer science. Content and prerequisites vary between sections and semesters.\u00a0May be repeated for credit. Check \u201ctopics course\u201d webpage on the department website for more information on each section.",
     "instructor":null,
     "scheduled_time_start":"8:40am",
     "scheduled_time_end":"9:55am",
@@ -46356,7 +46383,7 @@
   {
     "course_code":"CPLS GU4225",
     "course_title":"Man-machine: Medical technology, democra",
-    "course_descr":null,
+    "course_descr":"The rapid proliferation, over the last fifteen years, of technologies that aim at the preservation of life at the edges of illness has created a conceptual, intellectual, and political fissure in the ways in which life and death can be fixed with any degree of certainty. This is true as much in chronic cases, such as the various neurodegenerative diseases, as in acute cases, such as COVID-19, managed in the ICU, where life is being preserved through mechanical intervention. Are these mechanical interventions (ventilators, stomas, monitors) prosthetics that become part of the human body, or do they remain within the space of signification of the extracorporeal? What is the glamour of the \u201ccyborg\u201d when it appears within the context of medico-mechanical intervention? These questions are not academic intellectual abstractions but they become pressing questions when they inform the decision-making process in the context of encounters between physicians and patients, patients and families, or physicians and the State. Cases such as Terry Schiavo\u2019s, which captured the global imaginary as it posited the question of \u201cwhat is a human being\u201d and what is \u201clife\u201d and what is not, belie the deep anxieties that appear when medical interventions are in the process of becoming naturalized and normalized, as if the questions that they posit are exhausted when they are approved by the IRB or the Ethics Board. These questions become even more pressing when they are articulated within the framework of already existing systems of exclusion that seek to cancel the humanity of \u201cother populations,\u201d Blacks, refugees, Latinx, LGBTQI. This course will examine the conceptual spaces that are being created in the crevices of the fixity of life, death, and the human\/non-human being by looking at concerns that have been voiced by various thinkers and social movements.",
     "instructor":"Neni K Panourgia",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -46367,7 +46394,7 @@
     "department":"Classics",
     "department_code":"CPLS",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/CPLS\/W4225-20271-001\/",
-    "location":null,
+    "location":"618 Hamilton Hall",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"3",
@@ -46727,6 +46754,31 @@
     "scheduled_days":"MW",
     "section_key":"20271CPLT3164X001",
     "type":"LECTURE"
+  },
+  {
+    "course_code":"CPLT BC3168",
+    "course_title":"Borders and Bodies",
+    "course_descr":"This course is a cross-cultural exploration of the construction of gender through significant landmarks in contemporary literature, from feminist and queer theory perspectives. The course will focus on a range of novels, short stories, essays and poetry written in the twentieth- and the twenty-first century from or about the United States, Europe and the MENA region. Through an examination of these works, alongside seminal works of feminist and queer theory (Simone de Beauvoir, H\u00e9l\u00e8ne Cixous, bell hooks, etc.) we will ask: is it possible to write about a similar issue as represented across texts from different geographical and cultural zones, and how do you do so ethically without either erasing difference or exaggerating it? How do these texts (critical and creative) dismantle the ways we have been taught to evaluate canonical, male-dominated literary histories? Authors will include Doris Lessing, Toni Morrison, James Baldwin, Hanan al-Shaykh, Nawal El Saadawi and Abdellah Ta\u00efa.",
+    "instructor":"Melanie Heydari",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"5:25pm",
+    "call_number":"01146",
+    "campus":null,
+    "class_id":"X3168-20271-001",
+    "course_subtitle":null,
+    "department":"Comparative Literature and Society @Barnard",
+    "department_code":"CPLT",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CPLT\/X3168-20271-001\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"TR",
+    "section_key":"20271CPLT3168X001",
+    "type":"SEMINAR"
   },
   {
     "course_code":"CPLT BC3200",
@@ -47327,6 +47379,31 @@
     "type":"SEMINAR"
   },
   {
+    "course_code":"CSER GU4999",
+    "course_title":"SUPERVISED INDIVIDUAL RESEARCH",
+    "course_descr":null,
+    "instructor":"Matthew Sandler",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17069",
+    "campus":null,
+    "class_id":"G4999-20271-001",
+    "course_subtitle":"SUPERVISED INDIVIDUAL RES",
+    "department":"Ethnicity and Race, Center for",
+    "department_code":"CSER",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CSER\/G4999-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"1-4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271CSER4999G001",
+    "type":"INDEPENDENT"
+  },
+  {
     "course_code":"CSER UN3701",
     "course_title":"LATINX RACIAL IDENTITY & CULTURAL PRODUC",
     "course_descr":"The course will investigate the impact of racial identity among Latinx in the U.S. on cultural production of Latinos in literature, media, politics and film. The seminar will consider the impact of bilingualism, shifting racial identification, and the viability of monolithic terms like Latinx. We will see how the construction of Latinx racial identity affects acculturation in the U.S., with particular attention to hybrid identities and the centering of black and indigenous cultures. Examples will be drawn from different Latinx ethnicities from the Caribbean, Mexico and the rest of Latin America.",
@@ -47536,7 +47613,7 @@
     "course_code":"DMHE GU4004",
     "course_title":"Bioethics in Film",
     "course_descr":"Bioethics is an amorphous field that draws on disciplines including anthropology, philosophy, political science, and law. Using readings from across these arenas, students will examine issues in health and medicine as represented in global narrative cinema. The course uses film as both a tool for and object of analysis \u2013 pairing films with scholarly writing as we examine topics surfaced the ways they are depicted. The course engages with the ethics of representing sexual and other types of violence; some material in the course may be triggering. We will examine such topics as surrogacy, euthanasia, human research, healthcare worker burnout, and the imbrication of money and medicine, with films such as \nLingui\n, \nSound of Metal\n, \nPinky\n, \nXXY\n, and \nColor of Paradise\n. The course will include oral exams. It is suitable for graduate students in the professional schools, social sciences, and humanities, as well as other students (advanced undergraduates, science grad students) who have completed at least three university-level courses in the social sciences.",
-    "instructor":null,
+    "instructor":"Alexis Walker",
     "scheduled_time_start":"1:00pm",
     "scheduled_time_end":"4:00pm",
     "call_number":"16390",
@@ -49028,8 +49105,8 @@
     "course_title":"Business Analytics and Artificial Intell",
     "course_descr":null,
     "instructor":"Benjamin J Tubiana",
-    "scheduled_time_start":"3:45pm",
-    "scheduled_time_end":"6:45pm",
+    "scheduled_time_start":"4:00pm",
+    "scheduled_time_end":"7:00pm",
     "call_number":"15496",
     "campus":null,
     "class_id":"B5101-20271-003",
@@ -49037,7 +49114,7 @@
     "department":"Decision, Risk and Operations",
     "department_code":"DROM",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/DROM\/B5101-20271-003\/",
-    "location":"690 Kravis Hall, Saturday 8:30am-11:30am 690 Kravis Hall, Saturday 12:30pm-3:30pm, Sunday 8:30am-11:30am, Saturday 12:30pm-3:30pm 690 Kravis Hall",
+    "location":"620 GEFFEN HALL, Saturday 8:30am-11:30am 620 GEFFEN HALL, Saturday 12:45pm-3:45pm, Sunday 8:30am-11:30am, Saturday 12:45pm-3:45pm 620 GEFFEN HALL",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Business"
@@ -49082,8 +49159,8 @@
     "course_title":"Operations Management",
     "course_descr":null,
     "instructor":"Hongyao Ma",
-    "scheduled_time_start":"12:30pm",
-    "scheduled_time_end":"3:30pm",
+    "scheduled_time_start":"12:45pm",
+    "scheduled_time_end":"3:45pm",
     "call_number":"15493",
     "campus":null,
     "class_id":"B5102-20271-003",
@@ -49091,7 +49168,7 @@
     "department":"Decision, Risk and Operations",
     "department_code":"DROM",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/DROM\/B5102-20271-003\/",
-    "location":"690 Kravis Hall, Saturday 8:30am-11:30am 690 Kravis Hall, Saturday 3:45pm-6:45pm 690 Kravis Hall",
+    "location":"620 GEFFEN HALL, Saturday 8:30am-11:30am 620 GEFFEN HALL, Saturday 4:00pm-7:00pm 620 GEFFEN HALL",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Business"
@@ -50478,7 +50555,7 @@
     "department":"Decision, Risk and Operations",
     "department_code":"DROM",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/DROM\/B8162-20271-001\/",
-    "location":"120 GEFFEN HALL",
+    "location":"870 Kravis Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Business"
@@ -51875,8 +51952,8 @@
     "course_title":"Development Practitioner's Lab (DP-Lab)",
     "course_descr":"Registration is only available to MPA-DP Students.\n  \nThis\u00a0is a required course for MPA-DP students in their second semester, focused on tools and methods for effective program design in sustainable development. Drawing on insights from over 90 MPA-DP alumni working in diverse global contexts, this course emphasizes applied learning, systems thinking, and adaptive leadership.\n  \nStudents will learn and apply tools to diagnose development challenges, design interventions for social impact, and address cross-cutting themes such as communication, ethics, equity, and inclusion. The course supports students in developing a comprehensive project proposal, structured around contextual analysis, implementation planning, and critical reflection on development practice.",
     "instructor":null,
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"3:10pm",
+    "scheduled_time_end":"5:00pm",
     "call_number":"15754",
     "campus":null,
     "class_id":"U7600-20271-R01",
@@ -51884,16 +51961,16 @@
     "department":"MPA-DEVELOPMENT PRACTICE",
     "department_code":"DVPR",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/DVPR\/U7600-20271-R01\/",
-    "location":null,
+    "location":"405 International Affairs Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "SIPA"
     ],
-    "points":"3",
+    "points":"0",
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"R",
     "section_key":"20271DVPR7600UR01",
     "type":"LECTURE"
   },
@@ -52881,8 +52958,8 @@
     "course_title":"ENVIR DATA ANALYSIS & MODELING",
     "course_descr":"Introduction parametric and non-parametric statistical models applied to climate and environmental data analysis. Time and space data analysis methods will be focused, including clustering, autoregressive models, trend analysis, Bayesian analysis, missing data imputation, geostatistics, principal components analysis. Application to problems of climate variation and change; hydrology; air, water and soil pollution dynamics; disease propagation; ecological change; and resource assessment. The class requires the use of R with hands-on programming applied to a current environmental data analysis problem.",
     "instructor":"Bolun Xu",
-    "scheduled_time_start":"11:40am",
-    "scheduled_time_end":"12:55pm",
+    "scheduled_time_start":"8:40am",
+    "scheduled_time_end":"9:55am",
     "call_number":"14050",
     "campus":null,
     "class_id":"E4257-20271-001",
@@ -52890,7 +52967,7 @@
     "department":"Earth and Environmental Engineering",
     "department_code":"EAEE",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/EAEE\/E4257-20271-001\/",
-    "location":"633 Seeley W. Mudd Building",
+    "location":null,
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"3",
@@ -54872,7 +54949,7 @@
     "course_code":"ECON GR5711",
     "course_title":"FINANCIAL ECONOMICS",
     "course_descr":null,
-    "instructor":null,
+    "instructor":"Christos I Giannikos",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
     "call_number":"13882",
@@ -60221,7 +60298,7 @@
     "department":"Earth and Environmental Sciences",
     "department_code":"EESC",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/EESC\/W4480-20271-001\/",
-    "location":null,
+    "location":"413 Kent Hall, Thursday 2:40pm-3:55pm 603 Schermerhorn Hall [SCH]",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"3",
@@ -60468,7 +60545,7 @@
     "department":"Earth and Environmental Sciences",
     "department_code":"EESC",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/EESC\/W1480-20271-001\/",
-    "location":null,
+    "location":"413 Kent Hall",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"3",
@@ -62211,6 +62288,31 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"ELEN E6312",
+    "course_title":"ADV ANALOG INTEGRATED CIRCUITS",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"6:40pm",
+    "call_number":"17067",
+    "campus":null,
+    "class_id":"E6312-20271-001",
+    "course_subtitle":"ADV ANALOG INTEGRATED CIR",
+    "department":"Electrical Engineering",
+    "department_code":"ELEN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ELEN\/E6312-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20271ELEN6312E001",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"ELEN E6333",
     "course_title":"SEMICONDUCTOR DEVICE PHYSICS",
     "course_descr":"Physics and properties of semiconductors. Transport and recombination of excess carriers. Schottky, P-N, MOS, and heterojunction diodes. Field effect and bipolar junction transistors. Dielectric and optical properties. Optical devices including semiconductor lamps, lasers, and detectors.",
@@ -62491,6 +62593,31 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"ELEN E6945",
+    "course_title":"DEVICE NANOFABRICATION",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"7:00pm",
+    "scheduled_time_end":"9:30pm",
+    "call_number":"17068",
+    "campus":null,
+    "class_id":"E6945-20271-001",
+    "course_subtitle":"Device Nanofabrication",
+    "department":"Electrical Engineering",
+    "department_code":"ELEN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ELEN\/E6945-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20271ELEN6945E001",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"EMPA IA6040",
     "course_title":"Cost Benefit Analysis",
     "course_descr":"Pre-req: EMPA IA8213 - Microeconomics or equivalent.\n Familiarity with Excel is strongly recommended. This course introduces students to the principles and practice of cost-benefit analysis for evaluating policies and projects. Emphasizing practical skills over theoretical complexity, students will learn to apply key tools, including valuation methods, discounting, sensitivity analysis, and Excel-based modeling. The first half of the course focuses on the economic and methodological foundations; the second half applies these tools to real-world case studies in various sectors, including transportation, health, education, energy, and security. The course culminates in a major project requiring students to conduct and present an independent cost-benefit analysis on a topic of their choice.",
@@ -62558,7 +62685,7 @@
     "department":"EXECUTIVE MPA",
     "department_code":"EMPA",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/EMPA\/U6105-20271-001\/",
-    "location":null,
+    "location":"402B International Affairs Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Architecture",
@@ -62824,9 +62951,9 @@
     "course_code":"EMPA IA6530",
     "course_title":"Impact Measurement and Program Evaluatio",
     "course_descr":"In this intensive course, students will learn how to manage an impact measurement and program evaluation lifecycle through lectures, discussions, case studies, readings, and a team project. Students will learn and apply core concepts, methodologies, and frameworks used in the field, as well as be introduced to the use of technologies such as lean data, AI, geospatial tools, mobile, and NLP. Students will consider how to account for diverse stakeholders, risks, counterfactuals, attribution, and the ethical issues involved in data collection, analysis, and reporting. They will also examine critical questions, including: What is the impact, and who is to define it? How do we account for unintended consequences? How should long-term outcomes be measured meaningfully while satisfying short-term investment horizons?\u00a0 Finally, students will consider how the practice of impact measurement and program evaluation can be leveraged to inform program design and strategy, strengthen mission alignment, deepen accountability, and foster a culture of continuous learning in government, nonprofit, and private sector actors.",
-    "instructor":null,
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "instructor":"Brian Gurski",
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"4:00pm",
     "call_number":"16876",
     "campus":null,
     "class_id":"U6530-20271-001",
@@ -62834,7 +62961,7 @@
     "department":"EXECUTIVE MPA",
     "department_code":"EMPA",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/EMPA\/U6530-20271-001\/",
-    "location":null,
+    "location":"404 International Affairs Building, Sunday 9:00am-12:00pm 404 International Affairs Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "SIPA"
@@ -62843,7 +62970,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"S",
     "section_key":"20271EMPA6530U001",
     "type":"SEMINAR"
   },
@@ -62852,8 +62979,8 @@
     "course_title":"Capstone Workshop for Executive MPA",
     "course_descr":"The EMPA Capstone Workshop \nis a culminating experience in which students apply the practical skills and analytical knowledge acquired during the program to a real-world policy or management challenge. Working in small consulting teams under faculty supervision, students engage with an external client to address a defined problem, conduct research, and deliver actionable recommendations.\n  \nEach team produces a final written report and presents its findings in a formal oral briefing designed to support implementation and impact. The workshop develops applied consulting, project management, and client engagement skills while reinforcing core competencies in policy analysis and public leadership.\n  \nCompletion of the Capstone or Portfolio Presentation Workshop is a graduation requirement for Executive MPA students and is typically taken in the final semester. Enrollment is by application and managed by the EMPA Student Affairs.",
     "instructor":"Fumiko Sasaki",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"3:00pm",
     "call_number":"16878",
     "campus":null,
     "class_id":"U9000-20271-002",
@@ -62861,7 +62988,7 @@
     "department":"EXECUTIVE MPA",
     "department_code":"EMPA",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/EMPA\/U9000-20271-002\/",
-    "location":null,
+    "location":"402 International Affairs Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "SIPA"
@@ -62870,7 +62997,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"S",
     "section_key":"20271EMPA9000U002",
     "type":"WORKSHOP"
   },
@@ -62879,8 +63006,8 @@
     "course_title":"Capstone Workshop for Executive MPA",
     "course_descr":"The EMPA Capstone Workshop \nis a culminating experience in which students apply the practical skills and analytical knowledge acquired during the program to a real-world policy or management challenge. Working in small consulting teams under faculty supervision, students engage with an external client to address a defined problem, conduct research, and deliver actionable recommendations.\n  \nEach team produces a final written report and presents its findings in a formal oral briefing designed to support implementation and impact. The workshop develops applied consulting, project management, and client engagement skills while reinforcing core competencies in policy analysis and public leadership.\n  \nCompletion of the Capstone or Portfolio Presentation Workshop is a graduation requirement for Executive MPA students and is typically taken in the final semester. Enrollment is by application and managed by the EMPA Student Affairs.",
     "instructor":"Robert Kopech",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"7:10pm",
+    "scheduled_time_end":"9:00pm",
     "call_number":"16883",
     "campus":null,
     "class_id":"U9000-20271-001",
@@ -62888,7 +63015,7 @@
     "department":"EXECUTIVE MPA",
     "department_code":"EMPA",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/EMPA\/U9000-20271-001\/",
-    "location":null,
+    "location":"405A International Affairs Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "SIPA"
@@ -62897,7 +63024,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"T",
     "section_key":"20271EMPA9000U001",
     "type":"WORKSHOP"
   },
@@ -62906,8 +63033,8 @@
     "course_title":"Portfolio Presentation Workshop",
     "course_descr":"The Portfolio Presentation Workshop\n is a culminating course that enables students to synthesize and showcase what they have learned throughout the Executive MPA program. Students develop and present an individual project focused on improving an organization, launching a new initiative, or conducting a case study of a significant policy or management issue. Each student draws upon prior coursework, professional experience, and new research to produce a final written report and two structured presentations.\n  \nThe course emphasizes reflective practice, peer feedback, and real-world application. Students are required to submit a project proposal, assess prior work products, and present findings to their instructor and classmates. Final deliverables demonstrate the student\u2019s ability to apply strategic, analytical, and leadership tools in a way that advances organizational goals and prepares them for future professional growth.",
     "instructor":"Kweli E Washington",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"4:00pm",
     "call_number":"16881",
     "campus":null,
     "class_id":"U9500-20271-001",
@@ -62915,7 +63042,7 @@
     "department":"EXECUTIVE MPA",
     "department_code":"EMPA",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/EMPA\/U9500-20271-001\/",
-    "location":null,
+    "location":"402B International Affairs Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "SIPA"
@@ -62924,7 +63051,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"S",
     "section_key":"20271EMPA9500U001",
     "type":"WORKSHOP"
   },
@@ -63294,7 +63421,9 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGI\/E1006-20271-001\/",
     "location":"309 Havemeyer Hall",
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "Engineering:Undergraduate"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -63520,7 +63649,7 @@
     "department":"Engineering",
     "department_code":"ENGI",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGI\/E4698-20271-001\/",
-    "location":"301 Uris Hall, Wednesday 6:00pm-8:30pm 417 International Affairs Building",
+    "location":"301 Uris Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Engineering:Graduate"
@@ -68220,7 +68349,7 @@
   {
     "course_code":"ENGL GR6998",
     "course_title":"Graduate Lecture",
-    "course_descr":null,
+    "course_descr":"ENGL 6998 GR is a twin listings of an undergraduate English lecture provided to graduate students for graduate credit. If a\u00a0graduate student enrolls, she\/he\/they attends the same class as the undergraduate students (unless otherwise directed by the instructor). Each instructor determines\u00a0additional work for graduate students to complete in order to receive graduate credit for the course. Please refer to the notes section in SSOL for the corresponding (twin) undergraduate 1000 or 2000 level course and follow that course's meeting day & time and assigned classroom. Instructor permission is required to join.",
     "instructor":"Hannah Weaver",
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:55pm",
@@ -68231,7 +68360,7 @@
     "department":"English and Comparative Literature",
     "department_code":"ENGL",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/G6998-20271-002\/",
-    "location":null,
+    "location":"503 Hamilton Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
       "GSAS"
@@ -68247,7 +68376,7 @@
   {
     "course_code":"ENGL GR6998",
     "course_title":"Graduate Lecture",
-    "course_descr":null,
+    "course_descr":"ENGL 6998 GR is a twin listings of an undergraduate English lecture provided to graduate students for graduate credit. If a\u00a0graduate student enrolls, she\/he\/they attends the same class as the undergraduate students (unless otherwise directed by the instructor). Each instructor determines\u00a0additional work for graduate students to complete in order to receive graduate credit for the course. Please refer to the notes section in SSOL for the corresponding (twin) undergraduate 1000 or 2000 level course and follow that course's meeting day & time and assigned classroom. Instructor permission is required to join.",
     "instructor":"Austin Graham",
     "scheduled_time_start":"8:40am",
     "scheduled_time_end":"9:55am",
@@ -68258,7 +68387,7 @@
     "department":"English and Comparative Literature",
     "department_code":"ENGL",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/G6998-20271-001\/",
-    "location":null,
+    "location":"702 Hamilton Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
       "GSAS"
@@ -70476,7 +70605,7 @@
     "department":"English and Comparative Literature",
     "department_code":"ENGL",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGL\/W2002-20271-001\/",
-    "location":"303 Uris Hall",
+    "location":"702 Hamilton Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Columbia College",
@@ -76372,8 +76501,8 @@
     "course_title":"Media Archeology",
     "course_descr":"\u201cIt could have been otherwise.\u201d -No\u00ebl Burch\n With this brief yet generative statement from a foundational film theorist we are introduced to a major theme of this course, a graduate level seminar concerning the still-in-formation field of media archeology. Pursuing the material traces left by false starts, wrong moves, misbegotten speculation, and dead formats, this course will dig into the historical past in order to better understand our current media ecology, prepare for the computational future, and imagine how things could be otherwise. Archeology in this sense refers to the study of a technical object through investigating its origins (its arch\u00e9), as a means of breaking down traditional linear accounts of history and reconstructing them along new, more lacunary, less teleological lines. This will be our goal. We will be introduced to media archeology as both a method and an aesthetics. Our approach will look for the old in the new and the new in the old, while locating recurring topoi, ruptures, and discontinuities. Marking a departure from more hermeneutical, text-based film and media studies models, we will instead focus on questions of hardware, materiality, and physical inscription\u2014technological research that sticks close to the signal of mediatic events, close to the metal, close to the silicon. We will perform close reading and thick description, as in established humanities disciplines like literary studies and anthropology, but with radically different, non-phenomenological, non-discursive object formations. Topics we will consider include, for example, analog waveforms and digital pulses, mathematical versus narrative modes of epistemology, and what Thomas Elsaesser calls a \u201cpoetics of obsolescence.\u201d Our readings will draw from the corpus of media archeology studies as well as consonant fields such as material culture studies, computer engineering, and the history of science.",
     "instructor":"Wanda Strauven",
-    "scheduled_time_start":"9:00am",
-    "scheduled_time_end":"10:15am",
+    "scheduled_time_start":"2:00pm",
+    "scheduled_time_end":"5:00pm",
     "call_number":"12035",
     "campus":null,
     "class_id":"R5720-20271-001",
@@ -76894,7 +77023,7 @@
   {
     "course_code":"FILM AF6940",
     "course_title":"DOCUMENTARY ACTIVISM:THEORY",
-    "course_descr":null,
+    "course_descr":"This is a course in how to think about documentary but not about \u201chow to\u201d make documentary work. Its premise is that documentary as an approach is still undergoing revision as a definitional problem. Relevant to our times, cameras and sound recorders are called upon to \u201cwitness\u201d events. Basic readings on the history and theory of documentary are the heart of the course and practical exercises test theoretical questions. Students conduct low end exercises with their own smart phone cameras. Topics and issues center on the history of the radical documentary\u2014from the Workers Film and Photo League of the 1930s to the 2011 Arab Spring uprisings, comparing then new 16 and 35mm film camera capabilities with contemporary internet distribution. Other topics include climate change and documentary work; motion picture film and photography in labor struggles; uses of anti-war and nuclear bomb footage; sexualities and video camera activism.",
     "instructor":"James L Hoberman",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:40pm",
@@ -77689,7 +77818,7 @@
   {
     "course_code":"FILM GR5730",
     "course_title":"Minstrelsy and Popular Culture",
-    "course_descr":null,
+    "course_descr":"Minstrelsy is one of America\u2019s original forms of popular entertainment, and its formal, thematic, and narrative elements continue to reverberate throughout popular culture to this day. Indeed, given the close relationship between stage performance and the development of screen cultures, it should come as little surprise that many of the tropes and representational strategies that film and media adopted to portray blackness bore, and continue to bear, close relation to minstrelsy and blackface. This seminar will examine the ways that minstrelsy has played a crucial role in the evolution of American popular culture, especially in film and media. The course will focus on the complex function and legacy of minstrelsy, whether from the perspective of Jewish artists trying to establish their racial identities in early Hollywood, or African American artists attempting to subvert dominant representational modes.",
     "instructor":"Racquel Gates",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:40pm",
@@ -77750,7 +77879,7 @@
   {
     "course_code":"FILM GU4953",
     "course_title":"Reality Television",
-    "course_descr":null,
+    "course_descr":"This course focuses on the origins, form, and social relevance of reality television. Specifically, the course will examine the industrial, economic, and ideological underpinnings of reality television to gesture toward larger themes about the evolution of television from the 1950s through the present, and the relationship between television and American culture and society. To this end, the class lectures, screenings, and discussions will emphasize (but are not limited to) topic of race, gender, sexuality, and class.",
     "instructor":"Racquel Gates",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:40pm",
@@ -77775,7 +77904,7 @@
   {
     "course_code":"FILM GU4956",
     "course_title":"Reality Television Discussion",
-    "course_descr":null,
+    "course_descr":"Disucssion section for Film GU4953 Reality Television: This course focuses on the origins, form, and social relevance of reality television. Specifically, the course will examine the industrial, economic, and ideological underpinnings of reality television to gesture toward larger themes about the evolution of television from the 1950s through the present, and the relationship between television and American culture and society. To this end, the class lectures, screenings, and discussions will emphasize (but are not limited to) topic of race, gender, sexuality, and class.",
     "instructor":null,
     "scheduled_time_start":"9:10am",
     "scheduled_time_end":"10:00am",
@@ -77791,7 +77920,9 @@
     "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "GU4953"
+      ]
     ],
     "scheduled_days":"F",
     "section_key":"20271FILM4956W001",
@@ -78562,8 +78693,8 @@
     "course_title":"Capital Markets & Investments",
     "course_descr":null,
     "instructor":"Simon Oh",
-    "scheduled_time_start":"12:30pm",
-    "scheduled_time_end":"3:30pm",
+    "scheduled_time_start":"12:45pm",
+    "scheduled_time_end":"3:45pm",
     "call_number":"15486",
     "campus":null,
     "class_id":"B7306-20271-001",
@@ -78571,7 +78702,7 @@
     "department":"Finance",
     "department_code":"FINC",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/FINC\/B7306-20271-001\/",
-    "location":"670 Kravis Hall, Saturday 8:30am-11:30am 670 Kravis Hall, Friday Saturday 3:45pm-6:45pm, Saturday 3:45pm-6:45pm 670 Kravis Hall",
+    "location":"620 GEFFEN HALL, Saturday 8:30am-11:30am 620 GEFFEN HALL, Friday Saturday 4:00pm-7:00pm, Saturday 4:00pm-7:00pm 590 GEFFEN HALL",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Business"
@@ -83814,7 +83945,7 @@
   {
     "course_code":"FYSB BC1001",
     "course_title":"FIRST-YEAR SEMINAR AT BARNARD",
-    "course_descr":null,
+    "course_descr":"First-Year Seminars initiate students into the academic life of the College by offering intellectually engaging experiences in which students and faculty from a wide range of home departments\u00a0work through challenging material, often across disciplinary lines. Each one-semester seminar is designed to develop essential skills for college work, such as the ability to read critically and analytically, to speak clearly and effectively, and to write logically and persuasively.\n  \nFirst-Year Seminars vary in content and format, and fall into two categories: Special Topics and Reacting to the Past. Descriptions are available in Vergil.",
     "instructor":"Francesca E Austin Ochoa",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:25pm",
@@ -87259,7 +87390,7 @@
   {
     "course_code":"GREK UN3998",
     "course_title":"SUPERVISED RSRCH IN GREEK LIT",
-    "course_descr":null,
+    "course_descr":"Prerequisites: the director of undergraduate studies permission. A program of research in Greek literature. Research paper required.",
     "instructor":"Francesco de Angelis",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -97171,7 +97302,7 @@
   {
     "course_code":"HUMA UN2000",
     "course_title":"Core as Praxis\/Fieldwork",
-    "course_descr":null,
+    "course_descr":"HUMA UN2000\n\u00a0\u2013 The\u00a0\nCore as Praxis\n\u00a0or\u00a0\nFieldwork\n\u00a0provides students with the opportunity to explore the connections among texts from the Core Curriculum, their work in their major field of study, and their work in a professional environment outside of Columbia\u2019s campus. Students will be guided through a process of reflection on the ideas and approaches that they develop in Core classes and in the courses in their major, and to think about how they can apply theory to practice in the context of an experiential learning environment\u00a0(e.g., service learning, fieldwork, internship, etc.). Students will reread and revisit a text that they have studied previously in\u00a0\nLiterature Humanities\n\u00a0or in\u00a0\nContemporary Civilization\n\u00a0as the basis for their critical lens on their major and experiential learning and as the basis for their reading and writing assignments during the course.\u00a0\n  \nStudent Eligibility Criteria:\n  \n  \nHave already completed the sophomore year\n  \nHave already declared a major\n  \nAre engaging concurrently in an experiential learning opportunity (e.g., service learning, fieldwork, internship, etc.)\n \n  \nHUMA UN2000 may not be taken with the Pass\/D\/Fail option. All students will receive a letter grade for the course. Students can take HUMA UN2000 twice.",
     "instructor":"Zachary J Levine",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -97190,7 +97321,11 @@
     ],
     "points":"1",
     "prerequisites":[
-
+      [
+        "HUMA UN2000",
+        "HUMA UN2000",
+        "HUMA UN2000"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20271HUMA2000S002",
@@ -105325,7 +105460,7 @@
     "department":"Italian",
     "department_code":"ITAL",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ITAL\/W1102-20271-004\/",
-    "location":null,
+    "location":"609 Hamilton Hall",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"4",
@@ -105490,7 +105625,7 @@
   {
     "course_code":"ITAL UN2121",
     "course_title":"INTENSIVE INTERMEDIATE ITALIAN",
-    "course_descr":null,
+    "course_descr":"Prerequisites: ITAL UN1102 or the equivalent, with a grade of B+ or higher. An intensive course that covers two semesters of intermediate Italian in one, and prepares students for advanced language and literature study. Grammar, reading, writing, and conversation. Exploration of literary and cultural materials. This course may be used to fulfill the language requirement.",
     "instructor":"Tylar A Colleluori",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -105501,12 +105636,14 @@
     "department":"Italian",
     "department_code":"ITAL",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ITAL\/V2121-20271-001\/",
-    "location":null,
+    "location":"606 Martin Luther King Building",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"6",
     "prerequisites":[
-
+      [
+        "ITAL UN1102"
+      ]
     ],
     "scheduled_days":"MWR",
     "section_key":"20271ITAL2121V001",
@@ -115979,7 +116116,7 @@
     "department":"Mathematics",
     "department_code":"MATH",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/MATH\/G5260-20271-001\/",
-    "location":null,
+    "location":"520 Mathematics Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "GSAS"
@@ -125215,7 +125352,7 @@
   {
     "course_code":"MICR G4020",
     "course_title":"GRADUATE IMMUNOLOGY",
-    "course_descr":null,
+    "course_descr":"Survey of the major topics in basic immunology with an emphasis on the molecular basis for immune recognition and regulation.",
     "instructor":null,
     "scheduled_time_start":"10:30am",
     "scheduled_time_end":"12:00pm",
@@ -125240,7 +125377,7 @@
   {
     "course_code":"MICR G9302",
     "course_title":"SEM-MICROBIOL & IMMUNOLOGY II",
-    "course_descr":null,
+    "course_descr":"Each week invited speakers present seminars and have conferences with graduate students after each presentation.",
     "instructor":null,
     "scheduled_time_start":"12:00pm",
     "scheduled_time_end":"1:00pm",
@@ -125265,7 +125402,7 @@
   {
     "course_code":"MICR G9502",
     "course_title":"RES-MICROBIOL & IMMUNOLOGY II",
-    "course_descr":null,
+    "course_descr":"Open only to microbiology students. Students doing dissertation research register for this course, as well as students who are rotating through laboratories of staff members.",
     "instructor":"Nicholas Arpaia",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -129858,6 +129995,33 @@
     "type":"INDEPENDENT"
   },
   {
+    "course_code":"NBHV GR6000",
+    "course_title":"Topics in Sensorimotor Control",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"1:30pm",
+    "scheduled_time_end":"3:30pm",
+    "call_number":"17066",
+    "campus":null,
+    "class_id":"G6000-20271-001",
+    "course_subtitle":"Topics in Sensorimotor Co",
+    "department":"Neurobiology and Behavior",
+    "department_code":"NBHV",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NBHV\/G6000-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "GSAS"
+    ],
+    "points":"2",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20271NBHV6000G001",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"NBHV GR6030",
     "course_title":"ANALYSIS FOR NEUROSCIENTISTS",
     "course_descr":null,
@@ -129888,7 +130052,7 @@
   {
     "course_code":"NBHV GR6055",
     "course_title":"Survey Neuroscience II",
-    "course_descr":null,
+    "course_descr":"1st year Neurobiology & Behavior students only. Requires instructor permission.",
     "instructor":null,
     "scheduled_time_start":"4:30pm",
     "scheduled_time_end":"6:30pm",
@@ -129915,7 +130079,7 @@
   {
     "course_code":"NBHV GR6060",
     "course_title":"Genomics & Machine Learning in Neuro Sci",
-    "course_descr":null,
+    "course_descr":"This is a graduate-level course on data generation and analysis in neuroscience and neurology for wet-lab scientists, using a combined lecture and workshop format with exercises in R. The first half of the course covers basic statistics, machine learning, and neurogenomics, and the second half examines machine learning on non-genomics modalities.",
     "instructor":null,
     "scheduled_time_start":"10:00am",
     "scheduled_time_end":"1:00pm",
@@ -129996,7 +130160,7 @@
   {
     "course_code":"NBHV GR7070",
     "course_title":"Management and Leadership Skills for Sci",
-    "course_descr":null,
+    "course_descr":"This course will form part of the continuing series on the development of professional skills. It is aimed at introducing the class to leadership and management skills that are as much a part of professional growth and success as technical ability. The primary focus will be on learning to recognize common lab situations that can quickly become problematic if not skillfully handled, and knowing the self-management and interpersonal skills that need to be developed in order to navigate such situations. In addition to this primary focus, there will be discussions on how these skills are transferable to many different types of work and life (the skills are applicable not just in academia).",
     "instructor":null,
     "scheduled_time_start":"4:00pm",
     "scheduled_time_end":"5:30pm",
@@ -130023,7 +130187,7 @@
   {
     "course_code":"NBHV GU4359",
     "course_title":"Mathematical Tools for Theoretical Neuro",
-    "course_descr":null,
+    "course_descr":"An introduction to mathematical concepts used in theoretical neuroscience aimed to give a minimal requisite background for NBHV G4360, Introduction to Theoretical Neuroscience. The target audience is students with minimal mathematical background who are interested in rapidly acquiring the vocabulary and basic mathematical skills for studying theoretical neuroscience, or who wish to gain a deeper exposure to mathematical concepts than offered by NBHV G4360. Topics include single- and multivariable calculus, linear algebra, differential equations, dynamical systems, and probability. Examples and applications are drawn primarily from theoretical and computational neuroscience.",
     "instructor":null,
     "scheduled_time_start":"12:10pm",
     "scheduled_time_end":"1:25pm",
@@ -130046,7 +130210,10 @@
     ],
     "points":"3",
     "prerequisites":[
-
+      [
+        "NBHV G4360",
+        "NBHV G4360"
+      ]
     ],
     "scheduled_days":"TR",
     "section_key":"20271NBHV4359G001",
@@ -133103,7 +133270,7 @@
   {
     "course_code":"NURS N6122",
     "course_title":"Pathophysiology of the Child",
-    "course_descr":null,
+    "course_descr":"This course is required for students in Pediatric Primary Care and the Pediatric Specialty Care programs. The pathogenesis of common conditions affecting children is presented and serves as a basis for clinical management. Relevant pharmacology is presented for each of the disease entities.",
     "instructor":"Clare C McKegney",
     "scheduled_time_start":"10:00am",
     "scheduled_time_end":"12:50pm",
@@ -133494,7 +133661,7 @@
   {
     "course_code":"NUTR G4020",
     "course_title":"MOLECULR\/CELL BIO OF NUTRIENTS",
-    "course_descr":null,
+    "course_descr":"Second Term. Explores molecular and cellular mechanisms of nutrient action. Six major foci of modern nutritional science. These include the actions of nutrients in transcriptional regulation, in signaling pathways, on intra- and extracellular trafficking, in assuring normal development, in the maintance of antioxidant defences and nutrient\/gene interations.",
     "instructor":"Lori M Zeltser",
     "scheduled_time_start":"9:00am",
     "scheduled_time_end":"10:30am",
@@ -133530,7 +133697,7 @@
   {
     "course_code":"NUTR G9011",
     "course_title":"DOCTORAL RESEARCH IN NUTRITION",
-    "course_descr":null,
+    "course_descr":"Students are required to carry out independent research under the direction of a faculty member of the Doctoral Subcommittee on Nutrition.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -133959,7 +134126,7 @@
   {
     "course_code":"OHMA GR5011",
     "course_title":"ORAL HISTORY WORKSHOP",
-    "course_descr":null,
+    "course_descr":"This course introduces students to important conversations within and about oral history through a series of curated public events.\n  \nThis semester our events will explore how oral history lives in places and communities around New York City through a series of place-based events, curated in collaboration with partners around the city.\n  \nWe meet approximately 6 times\/semester.",
     "instructor":null,
     "scheduled_time_start":"6:00pm",
     "scheduled_time_end":"8:00pm",
@@ -133970,7 +134137,7 @@
     "department":"Oral History",
     "department_code":"OHMA",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/OHMA\/G5011-20271-001\/",
-    "location":null,
+    "location":"308A Lewisohn Hall",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"1",
@@ -133984,7 +134151,7 @@
   {
     "course_code":"OHMA GR5012",
     "course_title":"ORAL HISTORY THESIS",
-    "course_descr":null,
+    "course_descr":"n\/a",
     "instructor":"Amy A Starecheski",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -133995,7 +134162,7 @@
     "department":"Oral History",
     "department_code":"OHMA",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/OHMA\/G5012-20271-001\/",
-    "location":null,
+    "location":"308A Lewisohn Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
       "GSAS"
@@ -134011,7 +134178,7 @@
   {
     "course_code":"OHMA GR5021",
     "course_title":"CURATING ORAL HISTORIES",
-    "course_descr":null,
+    "course_descr":"This seminar is one of our core course, in which students will learn and practice the skills required to conceptualize, conduct, analyze and curate oral history interviews. In Curating Oral Histories we focus our attention on the curation and amplification of oral histories, including archiving, online presentation, museum exhibits, oral history documentary, advocacy, and teaching oral history. Our work this semester will emphasize interpretive processes, collaborative work, and how the public perceives and receives oral history.\u00a0 Students will be expected to be primarily working on their own thesis or capstone projects. Our core question:\n\u00a0How do we present oral histories, with all of their length, depth, complexity and intersubjective richness, in an accessible way to a public audience without sacrificing those qualities we so value?",
     "instructor":"Joseph Plaster",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"1:00pm",
@@ -134022,7 +134189,7 @@
     "department":"Oral History",
     "department_code":"OHMA",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/OHMA\/G5021-20271-001\/",
-    "location":null,
+    "location":"308A Lewisohn Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
       "GSAS"
@@ -134049,7 +134216,7 @@
     "department":"Oral History",
     "department_code":"OHMA",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/OHMA\/G5075-20271-001\/",
-    "location":null,
+    "location":"NONE NONE",
     "method_of_instruction":"In-Person",
     "open_to":[
       "GSAS"
@@ -134065,7 +134232,7 @@
   {
     "course_code":"OHMA GR5080",
     "course_title":"MULTIMEDIA STORYTELLING (Performance): I",
-    "course_descr":null,
+    "course_descr":"This Performance workshop will explore the intentional utterance in public space through the creation of oral history-centered public performance: How can a recitation of first person testimony\u2013metabolizing someone else\u2019s words\u2013serve the narrator, the orator, the history and an unknowing or knowing set of witnesses?\n  \nIn this workshop, we\u2019ll combine our oral history values, motives and ethics with site-specific fieldwork that incorporates performance strategies, derivation and psychogeography. We\u2019ll take cues from work belonging to a range of traditions, such as Theater of Testimony\/Documentary Theater (The Civilians), Public Speeches (Mark Tribe\u2019s Port Huron Project), Reenactments, Processions and Speech Choirs, before developing our own strategies that bring oral histories out of the archives and into public space through the live utterance.\u00a0\n  \nIn Our Mouths asks us to abandon thing-ness, to make sound rather than an object, creating a secondary encounter as ephemeral as the oral history experience itself, which stands apart from the oral history artifact in the archive. Our performances specifically challenge us to take it on with our bodies and with our mouths.\u00a0\n  \nThis workshop will be structured as two immersive weekend intensives (February and April) with bi-weekly meetings that serve as individual and group advising\/crit-time. Our final weekend will conclude with 1 shared performances, 2 critique with guest artists\/critics and 3 group\/individual reflection on the role of felt kinesthetic oral experiences in the realms of archives and public programs. We will consider what kinds of documentation should or should not be part of these performances.\u00a0\n  \nClass schedule: The cadence of this workshop is structured as an introductory session and\u00a0 immersive weekend to kick off our exploration, followed by bi-weekly sessions to continue our study and practice, concluding with a second immersive weekend.\n  \n  \nJanuary 22\n, \ntime TBD\n  \nFebruary 5-7 Opening intensive days\/weekend\n  \nFeb 12, 10:10-12\n  \nFeb 26, 10:10-12\n  \nMarch 12, 10:10-12\n  \nMarch 26, 10:10-12\n  \nApril 9, 10:10-12\n  \nApril 16-18 Closing intensive days",
     "instructor":"Suzanne E Snider",
     "scheduled_time_start":"10:00am",
     "scheduled_time_end":"3:00pm",
@@ -134076,7 +134243,7 @@
     "department":"Oral History",
     "department_code":"OHMA",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/OHMA\/G5080-20271-001\/",
-    "location":null,
+    "location":"308A Lewisohn Hall, Saturday Sunday 1:00pm-6:00pm 307 Mathematics Building, Friday 10:10am-12:00pm 505 Lewisohn Hall",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"4",
@@ -134101,7 +134268,7 @@
     "department":"Oral History",
     "department_code":"OHMA",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/OHMA\/G5090-20271-001\/",
-    "location":null,
+    "location":"308A Lewisohn Hall",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"2",
@@ -135752,7 +135919,7 @@
   {
     "course_code":"PHAR G8003",
     "course_title":"BACKGROUNDS IN PHARMACOLOGY I",
-    "course_descr":null,
+    "course_descr":"Open only to Ph.D. candidates in the Department of Pharmacology. A detailed analysis of classical studies in pharmacology and related fields and the research which has led to our current understanding of the mode of drug action. Students are required to present material for oral presentation and written report.",
     "instructor":"Corter Zachary",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -135777,7 +135944,7 @@
   {
     "course_code":"PHAR G8010",
     "course_title":"PHARMACOLOGY TECHNIQUES II",
-    "course_descr":null,
+    "course_descr":"Open only to Ph.D. candidates in the pharmacological sciences training program. Students are assigned to selected research laboratories to learn current fundamental laboratory techniques.",
     "instructor":"Nihkil Sharma",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -135802,7 +135969,7 @@
   {
     "course_code":"PHAR G9051",
     "course_title":"RESEARCH IN PHARMACOLOGY",
-    "course_descr":null,
+    "course_descr":"Open only to graduate students in the Department of Pharmacology doing dissertation research.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -139983,7 +140150,7 @@
   {
     "course_code":"PHIL GU4260",
     "course_title":"KANT'S ETHICS",
-    "course_descr":null,
+    "course_descr":"This 4000-level course consists in a study of Kant\u2019s moral philosophy and some of the most well-known, lasting criticisms of it. In the first half of the course we will read Kant\u2019s \nGrounding of the Metaphysics of Morals\n, and then selections from \nThe Metaphysics of Morals.\u00a0 \nWe will be focused on his conceptions of: the will; feelings; moral motivation and moral worth; impartiality; conflicting duties; sex and gender.\u00a0 We will spend the second half of the course reading exemplary critics of Kant, focusing on contemporary moral philosophers but also reading Schiller and Hegel.\u00a0 The aim of the course is to develop a nuanced understanding of Kant\u2019s ethics, the problems that perpetually haunt it, and how Kant, or Kantians, might reply to them.",
     "instructor":"Francey Russell",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -140617,7 +140784,7 @@
   {
     "course_code":"PHIL UN3997",
     "course_title":"SUPERVISED INDIVIDUAL RESEARCH",
-    "course_descr":null,
+    "course_descr":"Supervised research usually with the goal of writing a senior thesis, under the direction of individual members of the department.",
     "instructor":"Taylor Carman",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -140642,7 +140809,7 @@
   {
     "course_code":"PHIL UN3997",
     "course_title":"SUPERVISED INDIVIDUAL RESEARCH",
-    "course_descr":null,
+    "course_descr":"Supervised research usually with the goal of writing a senior thesis, under the direction of individual members of the department.",
     "instructor":"Karen Lewis",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -140667,7 +140834,7 @@
   {
     "course_code":"PHIL UN3997",
     "course_title":"SUPERVISED INDIVIDUAL RESEARCH",
-    "course_descr":null,
+    "course_descr":"Supervised research usually with the goal of writing a senior thesis, under the direction of individual members of the department.",
     "instructor":"John Morrison",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -140692,7 +140859,7 @@
   {
     "course_code":"PHIL UN3997",
     "course_title":"SUPERVISED INDIVIDUAL RESEARCH",
-    "course_descr":null,
+    "course_descr":"Supervised research usually with the goal of writing a senior thesis, under the direction of individual members of the department.",
     "instructor":"Francey Russell",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -141618,7 +141785,7 @@
     "course_code":"PHYS BC1882",
     "course_title":"PreHealth Physics II",
     "course_descr":"This class is an introduction to electricity, magnetism, circuits, light & optics, with a brief introduction to atomic and nuclear physics. Our goal is to develop an understanding of the principles underlying Nature's richness therein and highlighting, when possible, its relevance in medical & biological contexts.",
-    "instructor":"Stiliana Savin",
+    "instructor":null,
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:55pm",
     "call_number":"00439",
@@ -148599,7 +148766,7 @@
   {
     "course_code":"POLS GU4434",
     "course_title":"ETH POL ACROS POST-SOV EURASIA",
-    "course_descr":null,
+    "course_descr":"Various forms of ethnic politics have characterized politics in many states throughout Eurasia since 1991, from nationalist separatism to violent conflict to political competition among ethnic minorities and majorities. This course is designed to encourage students to think deeply about the relationship between ethnicity and politics. We will consider several questions. First, why does ethnicity become politicized? We investigate this question by examining nationalist secessionism and ethnic conflict\u2014phenomena that mushroomed at the end of the Cold War. We will focus on East Central Europe and the former Soviet Union, devoting special attention to the cases of Yugoslavia, the USSR, Moldova, Abkhazia and South Ossetia, and Chechnya. However, we will also study cases in which the dog didn\u2019t bark, i.e. places where nationalist mobilization and ethnic violence either did not occur, or emerged and then receded as in the ethnic republics of the Russian Federation (including the \u201cMuslim\u201d regions of Tatarstan and Bashkortostan, etc.). In the second part of the course, we will analyze ethnic politics after independent statehood was achieved throughout the post-Soviet space. How do nationalist state-builders try to construct a nation and a state at the same time? Have they incorporated or discriminated against minorities living within \u201ctheir\u201d states? How have ethnic minorities responded? We will study Ukraine, the Baltics and Kazakhstan where ethnic Russians and Russian-speaking populations form large portions of the population, devoting particular attention to the crisis in Ukraine. We will also examine how the post-conflict regions of Bosnia and Kosovo have dealt with ethnic pluralism. These cases allow us to gain greater understanding of how multi-ethnic states use forms of federalism, consociationalism, and power-sharing as state-building strategies.",
     "instructor":"Elise Giuliano",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -148610,7 +148777,7 @@
     "department":"Political Science",
     "department_code":"POLS",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/POLS\/G4434-20271-002\/",
-    "location":null,
+    "location":"1219 International Affairs Building",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"4",
@@ -149037,7 +149204,7 @@
   {
     "course_code":"POLS UN3045",
     "course_title":"Chalkboard Politics Podcast II",
-    "course_descr":null,
+    "course_descr":"This is an experiential learning course in which students produce the Chalkboard\n Politics Podcast, where students apply political science concepts they learn in class to\n the real world. The podcast is entirely student-produced, giving undergraduates the\n chance to ask challenging questions while making something to put out into the world.\n The podcast course structure\u2014including teamwork, peer feedback and mentoring,\n community building, and shared output\u2014involves collaborative learning. The student\n production team designs and produces each episode: writing the pitch, inviting the\n guest(s), writing and peer-editing the script, editing the audio, and promoting the\n finished product on social media. Guests may include professors from Columbia or\n elsewhere. Topics must address or apply political science in some way, and connect to\n the real world\u2014otherwise topics are open for the team to propose, from any subfield of\n political science. The podcast audience is undergraduate political science majors and\n those considering the major, both at Columbia and, via distribution through the Good\n Authority podcast stream, beyond it. The podcast showcases what political scientists\n do, what political science research looks like in practice, and how it matters in the real\n world. For those interested in conducting research, delving into the details of how\n political science research works would give students a better understanding of what\n research assistantships entail. Admission to the course is via an application; those\n interested should join the waitlist and fill out the application form. Students are\n encouraged to take both semesters of Chalkboard Politics: Chalkboard Politics A (POLS\n UN3044) and Chalkboard Politics B (POLS UN3045), in either order, so they can start in\n the spring or the fall. While taking both semesters is not required, the course is\n designed to have students returning for their second semester assist the new students,\n ensuring continuity and providing an opportunity for mentoring and leadership.",
     "instructor":"Elizabeth N Saunders",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -149053,7 +149220,12 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "POLS UN3045"
+      ],
+      [
+        "UN3044"
+      ]
     ],
     "scheduled_days":"W",
     "section_key":"20271POLS3045W001",
@@ -149468,7 +149640,7 @@
   {
     "course_code":"POLS UN3872",
     "course_title":"CHINA'S FOREIGN RELATIONS-DISC",
-    "course_descr":null,
+    "course_descr":"This is the required discussion section for\u00a0\nPOLS UN3871.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -149484,7 +149656,9 @@
     "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "POLS UN3871"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20271POLS3872W001",
@@ -153345,7 +153519,7 @@
   {
     "course_code":"PSYC BC3606",
     "course_title":"INDEPENDENT STUDY",
-    "course_descr":null,
+    "course_descr":"This\u00a0course can be worth 1 to 4 credits (each credit is equivalent to approximately three hours of work per week), and requires a Barnard faculty as a mentor.\u00a0The course will be taken for a letter grade, regardless of whether the student chooses 1, 2, 3, or 4 credits. The expectations for each of these options are as follows: 1 credit, 3h\/week commitment, 5-10 page \"Research Report\" at the end of the term; 2 credits, 6h\/week commitment, 5-10 page \"Research Report\" at the end of the term; 3 credits, 9h\/week commitment, 15-20 page \"Research Report\" at the end of the term; 4 credits, 12h\/week commitment, 15-20 page \"Research Report\" at the end of the term. \"Research Report\" is a document submitted to the person grading the student, the instructor of record for the section in which the student has enrolled. If a student is working off-site, then input from the off-site research mentor will inform the grading. The \"Research Report\" can take a variety of forms: progress reports on data collected, training received, papers read, skills learned, etc.; or organized notes for lab notebooks, lab meetings, etc.; or manuscript-like papers with Intro, Methods, Results, Discussion; or some combination thereof, depending on the maturity of the project.\u00a0 Ultimately, this will take different forms for different students\/labs.",
     "instructor":"Michael Wheaton",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -155231,7 +155405,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":"W",
+    "scheduled_days":"M",
     "section_key":"20271PSYC3905W001",
     "type":"SEMINAR"
   },
@@ -158071,7 +158245,7 @@
   {
     "course_code":"REGN IA4410",
     "course_title":"Political, Social & Economic Development",
-    "course_descr":null,
+    "course_descr":"This course takes a practicum-based approach to examining key political, social, and economic challenges facing Brazil. Through discussions with leading policymakers, activists, and experts, students will explore pressing policy issues, evaluate government responses, and consider proposals for meaningful reform. Guest speakers will also present recent research, reports, and emerging challenges, offering insights into issues shaping Brazil\u2019s development and those not yet prominent on the policy agenda.",
     "instructor":"Daniela Campello",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -159896,7 +160070,7 @@
   {
     "course_code":"RELI UN3047",
     "course_title":"Sanctuary: A History of Refuge",
-    "course_descr":null,
+    "course_descr":"The word sanctuary names a place set apart and a relation of protection that the wider order of law or society agrees, for a time, not to penetrate. A consecrated precinct, a city that declines to enforce a federal mandate, a church that keeps its doors open through the night to those with nowhere else to sleep all suspend an ordinary rule of jurisdiction in the name of a higher obligation. This seminar follows that suspension across more than two millennia, from the altars of the ancient Mediterranean to the contemporary American city, and asks what has held the idea together as its political and religious settings changed beyond recognition.\n  \nAs a course in religious studies, the seminar keeps the sacred at its center. Sanctuary began as a religious idea, and it has never fully shed that origin. Its power rested on the holiness of a place set apart, on the claim that consecrated ground belonged to a god and could not be violated without sacrilege, and on theologies of mercy, hospitality, and the protection owed to the stranger. The history of sanctuary is, however, also a history of jurisdiction, of the competition between sacred and secular claims to govern, and of the moral languages through which shelter has been demanded and refused. Reading the religious sanctuary alongside the sanctuary city of the present simultaneously makes the distance between them legible and shows how an old vocabulary of refuge continues to do political work in a \u2018secular\u2019 age.\n  \nThis course asks what a community reveals about its deepest commitments when it decides that some duties to protect precede the claims of power, and what becomes of a religious vocabulary and significance of refuge when placed in legal, political, and economic contexts.",
     "instructor":"Mateo Montoya",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -161057,7 +161231,7 @@
     "call_number":"16408",
     "campus":null,
     "class_id":"W4352-20271-001",
-    "course_subtitle":"Writings by Nadezhda Teffi",
+    "course_subtitle":"Writings Nadezhda Teffi (",
     "department":"Slavic Languages",
     "department_code":"RUSS",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/RUSS\/W4352-20271-001\/",
@@ -162705,7 +162879,7 @@
     "course_code":"SDEV UN2000",
     "course_title":"INTRO TO ENVIRONMENTAL LAW",
     "course_descr":"The course provides an overview of environmental law for students without a legal background. It examines U.S. statutes and regulations regarding air, water, hazardous and toxic materials, land use, climate change, endangered species, and the like, as well as international environmental issues. After completing the course students should be equipped to understand how the environmental laws operate, the role of the courts, international treaties and government agencies in implementing environmental protection, and techniques used in addressing these issues.",
-    "instructor":null,
+    "instructor":"Matthew G Morreale",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
     "call_number":"11663",
@@ -166072,7 +166246,20 @@
     "location":null,
     "method_of_instruction":"In-Person",
     "open_to":[
-      "SIPA"
+      "Architecture",
+      "Business",
+      "Columbia College",
+      "Engineering:Graduate",
+      "Engineering:Undergraduate",
+      "GSAS",
+      "General Studies",
+      "Journalism",
+      "Law",
+      "Professional Studies",
+      "Public Health",
+      "SIPA",
+      "Schools of the Arts",
+      "Social Work"
     ],
     "points":"1.5",
     "prerequisites":[
@@ -169919,7 +170106,7 @@
     "department":"Sociology",
     "department_code":"SOCI",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SOCI\/W4136-20271-001\/",
-    "location":null,
+    "location":"1219 International Affairs Building",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"4",
@@ -170060,7 +170247,7 @@
   {
     "course_code":"SOCI UN2211",
     "course_title":"AI in Society - DISC",
-    "course_descr":null,
+    "course_descr":"This is a mandatory discussion section for course UN2210 AI in Society. Please register for one AI in Society discussion section to take the course.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -170076,7 +170263,9 @@
     "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "UN2210"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20271SOCI2211W001",
@@ -170245,7 +170434,7 @@
   {
     "course_code":"SOCI UN3011",
     "course_title":"METHODS SOCIAL RESEARCH-DISC",
-    "course_descr":null,
+    "course_descr":"Prerequisites: SOCI UN1000\n  \nDiscussion section for SOCI UN3010: METHODS FOR SOCIAL RESEARCH",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -170261,7 +170450,10 @@
     "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "SOCI UN1000",
+        "SOCI UN3010"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20271SOCI3011W001",
@@ -176441,6 +176633,31 @@
     "type":"SEMINAR"
   },
   {
+    "course_code":"SOCW T7604",
+    "course_title":"ASSESSMENT AND TREATMENT OF SUICIDAL BEH",
+    "course_descr":null,
+    "instructor":"Janelle L Stanley",
+    "scheduled_time_start":"8:30pm",
+    "scheduled_time_end":"10:20pm",
+    "call_number":"17065",
+    "campus":null,
+    "class_id":"T7604-20271-Z40",
+    "course_subtitle":"ASSESSM & TREATMT SUICIDA",
+    "department":"Social Work",
+    "department_code":"SOCW",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/SOCW\/T7604-20271-Z40\/",
+    "location":"ONLINE ONLY",
+    "method_of_instruction":"On-Line Only",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20271SOCW7604TZ40",
+    "type":"SEMINAR"
+  },
+  {
     "course_code":"SOCW T7622",
     "course_title":"Developmental Trauma: Core Principles an",
     "course_descr":"Key principles of this course are resilience, neurobiology, a cultural & ecological approach to development, and self and community care. The course will begin with foundational principles and then move into assessment, developmental stages and special issues in child and adolescent trauma. The course will end with a focus o Evidence-Based Interventions with children and adolescents recovering from trauma. The course will prioritize self-reflection through assignments and live session experiential exercises. Material will be applied through the use of clinical cases.",
@@ -176553,8 +176770,8 @@
     "course_title":"MACROECON & POLICY ANALYSIS II-LAB",
     "course_descr":null,
     "instructor":"Ruben Rahman",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"6:20pm",
+    "scheduled_time_end":"7:20pm",
     "call_number":"16289",
     "campus":null,
     "class_id":"T7814-20271-001",
@@ -176571,7 +176788,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"T",
     "section_key":"20271SOCW7814T001",
     "type":"LABORATORY"
   },
@@ -180432,7 +180649,7 @@
   {
     "course_code":"SPRT K5999",
     "course_title":"Professional Development Requirement",
-    "course_descr":null,
+    "course_descr":"NA",
     "instructor":"Jennifer Dick",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -186736,7 +186953,7 @@
   {
     "course_code":"THEA AR6060",
     "course_title":"Visual Language on Screen - A Primer for",
-    "course_descr":null,
+    "course_descr":"Playwrights are trained to think through language: dialogue, monologue, and dramatic confrontation. Film and television, however, rely on a different grammar\u2014one built from images, framing, editing, gesture, silence, and movement.\n This course introduces playwrights to the visual language of screen storytelling through weekly screenings and discussion. Beginning with silent cinema, we trace the evolution of storytelling on screen from physical performance and visual metaphor to dialogue-driven television and\n contemporary work that often returns to visual storytelling.\n Students will analyze how filmmakers and television creators communicate story without relying primarily on dialogue, and how writers trained for the stage can expand their narrative toolbox when writing for the screen.\n The course focuses primarily on television, with four films included to illustrate the evolution of cinematic storytelling.",
     "instructor":"Blair Singer",
     "scheduled_time_start":"10:00am",
     "scheduled_time_end":"12:50pm",
@@ -187125,7 +187342,7 @@
     "department":"Theatre Arts",
     "department_code":"THEA",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/THEA\/R6490-20271-001\/",
-    "location":"B15 SCHAPIRO (RE",
+    "location":"1 NASH BUILDIN",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Schools of the Arts"
@@ -193514,6 +193731,7 @@
       "General Studies",
       "Global Programs",
       "Professional Studies",
+      "SIPA",
       "Schools of the Arts"
     ],
     "points":"3",
@@ -196083,7 +196301,7 @@
   {
     "course_code":"WRIT UN3234",
     "course_title":"CREATING THE NONFICTION NARRATOR",
-    "course_descr":null,
+    "course_descr":"In her landmark study of personal narrative, \nThe Situation and the Story, \nVivian Gornick argues that \u201cEvery work of literature has a situation and a story. The situation is the context or circumstances, sometimes the plot; the story is the emotional experience that preoccupies the writer: the insight, the wisdom, the thing one has come to say.\u201d If we take this idea seriously, then part of the work of finding the story in the situation is creating the narrator capable of telling it. This \u201cI\u201d shares many important qualities with the author (her biography, for one thing, and usually also her name) but the overlap between them is hardly absolute. It might even be ambiguous or unstable. In this seminar we will read a range of texts\u2014mostly memoir and essay\u2014with an eye toward understanding the relationship between a given narrative and its narrator, as distinct from that of the text and its author. With each work we read, we will explore voice as persona, line-level aesthetics, formal and structural elements of the text, the eternally vexed question of \u201creliability,\u201d and the role of the reader as witness, collaborator, or secret-sharer.",
     "instructor":"Justin Taylor",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
