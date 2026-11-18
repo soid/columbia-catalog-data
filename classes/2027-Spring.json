@@ -1176,7 +1176,7 @@
   {
     "course_code":"AFAS GU4080",
     "course_title":"TOPICS IN THE BLACK EXPERIENCE",
-    "course_descr":null,
+    "course_descr":"Please refer to Institute for African American and African Diaspora Studies Department for section-by-section course descriptions.",
     "instructor":"Vivaldi Jean-Marie",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
@@ -8087,8 +8087,8 @@
     "course_title":"APPLIED MACHINE LEARNING I RECITATION",
     "course_descr":"This is the recitation course associated with APAN 5200 Applied Machine Learning I.",
     "instructor":null,
-    "scheduled_time_start":"4:10pm",
-    "scheduled_time_end":"5:00pm",
+    "scheduled_time_start":"9:10am",
+    "scheduled_time_end":"10:00am",
     "call_number":"16759",
     "campus":null,
     "class_id":"K5201-20271-D01",
@@ -21278,7 +21278,7 @@
     "course_code":"BIST P8140",
     "course_title":"Introduction to Randomized Clinical Tria",
     "course_descr":"Students in this course will learn and practice the fundamental methods and concepts of the randomized clinical trial: protocol development, randomization, blindedness, patient recruitment, informed consent, compliance, sample size determination, crossovers, collaborative trials.  Each student prepares and submits the protocol for a real or hypothetical clinical trial.",
-    "instructor":null,
+    "instructor":"Ying-Kuen K Cheung",
     "scheduled_time_start":"1:00pm",
     "scheduled_time_end":"3:50pm",
     "call_number":"15116",
@@ -44035,7 +44035,7 @@
   {
     "course_code":"COMS BC1017",
     "course_title":"Introduction to Computational Thinking a",
-    "course_descr":null,
+    "course_descr":"This is the co-requisite lab to COMS BC 1016 (Introduction to Computational Thinking and Data Science)\n  \nThis course will introduce students to the methods and tools used in data science to obtain insights from data.\u00a0Students will learn how to analyze data arising from real-world phenomena while mastering critical concepts and skills in computer programming and statistical inference. The course will involve hands-on analysis of real-world datasets, including economic data, document collections, geographical data, and social networks. This class is ideal for students looking to increase their digital literacy and expand their use and understanding of computation and data analysis across disciplines. No prior programming or math background is required.",
     "instructor":"Niall Williams",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
@@ -44338,7 +44338,7 @@
   {
     "course_code":"COMS BC3997",
     "course_title":"NEW DIRECTIONS IN COMPUTING",
-    "course_descr":"User interfaces define how humans interact with technologies. Developing intuitive, logical, and useful systems involves good user interface design.\u00a0 In this course, students learn to apply a user-centered design process to design, build, and evaluate user interfaces. Students engage in an end-to-end iterative design process involving needfinding, storyboarding, low-fidelity prototyping, technical implementation of web applications, and user testing. Through applying best practices in usability alongside principles of visual design, students develop a novel system addressing a specific user need through a semester-long group project. The course supports students developing an understanding of when different prototyping techniques are more appropriate and how to translate ideas into functioning, usable applications. Prerequisite: COMS BC1014 Introduction to Computer Programming in Java or another college-level introductory programming course. \u00a0Students cannot receive credit for this course and COMS W4170.",
+    "course_descr":"This is an undergraduate seminar for special topics in computing arranged as the need and availability arises. Topics are usually offered on a one-time basis.\u00a0 Participation requires permission of the instructor.\u00a0 Since the content of this course changes each time it is offered, it may be repeated for credit.",
     "instructor":"Murad Megjhani",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
@@ -44352,14 +44352,9 @@
     "location":"418 Barnard Hall",
     "method_of_instruction":null,
     "open_to":null,
-    "points":"1-3",
+    "points":"3",
     "prerequisites":[
-      [
-        "COMS BC1014"
-      ],
-      [
-        "COMS W4170"
-      ]
+
     ],
     "scheduled_days":"MW",
     "section_key":"20271COMS3997X001",
@@ -44368,7 +44363,7 @@
   {
     "course_code":"COMS BC3997",
     "course_title":"NEW DIRECTIONS IN COMPUTING",
-    "course_descr":"User interfaces define how humans interact with technologies. Developing intuitive, logical, and useful systems involves good user interface design.\u00a0 In this course, students learn to apply a user-centered design process to design, build, and evaluate user interfaces. Students engage in an end-to-end iterative design process involving needfinding, storyboarding, low-fidelity prototyping, technical implementation of web applications, and user testing. Through applying best practices in usability alongside principles of visual design, students develop a novel system addressing a specific user need through a semester-long group project. The course supports students developing an understanding of when different prototyping techniques are more appropriate and how to translate ideas into functioning, usable applications. Prerequisite: COMS BC1014 Introduction to Computer Programming in Java or another college-level introductory programming course. \u00a0Students cannot receive credit for this course and COMS W4170.",
+    "course_descr":"This is an undergraduate seminar for special topics in computing arranged as the need and availability arises. Topics are usually offered on a one-time basis.\u00a0 Participation requires permission of the instructor.\u00a0 Since the content of this course changes each time it is offered, it may be repeated for credit.",
     "instructor":"Faculty",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:25pm",
@@ -44382,14 +44377,9 @@
     "location":"207 Milbank Hall (Barnard)",
     "method_of_instruction":null,
     "open_to":null,
-    "points":"1-3",
+    "points":"3",
     "prerequisites":[
-      [
-        "COMS BC1014"
-      ],
-      [
-        "COMS W4170"
-      ]
+
     ],
     "scheduled_days":"TR",
     "section_key":"20271COMS3997X003",
@@ -44399,7 +44389,7 @@
     "course_code":"COMS E6113",
     "course_title":"Topics in Database Systems",
     "course_descr":null,
-    "instructor":null,
+    "instructor":"Eugene Wu",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
     "call_number":"17012",
@@ -51971,6 +51961,465 @@
     "type":"SEMINAR"
   },
   {
+    "course_code":"DVGO IA9000",
+    "course_title":"Capstone Workshop in Sustainable Develop",
+    "course_descr":null,
+    "instructor":"Savita Bailur",
+    "scheduled_time_start":"10:00am",
+    "scheduled_time_end":"11:50am",
+    "call_number":"17079",
+    "campus":null,
+    "class_id":"U9000-20271-001",
+    "course_subtitle":"Capstone: Sustainable Dev",
+    "department":"Development and Governance",
+    "department_code":"DVGO",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/DVGO\/U9000-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"F",
+    "section_key":"20271DVGO9000U001",
+    "type":"WORKSHOP"
+  },
+  {
+    "course_code":"DVGO IA9000",
+    "course_title":"Capstone Workshop in Sustainable Develop",
+    "course_descr":null,
+    "instructor":"Ragini P Dalal",
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"3:00pm",
+    "call_number":"17080",
+    "campus":null,
+    "class_id":"U9000-20271-002",
+    "course_subtitle":"Capstone: Sustainable Dev",
+    "department":"Development and Governance",
+    "department_code":"DVGO",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/DVGO\/U9000-20271-002\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"F",
+    "section_key":"20271DVGO9000U002",
+    "type":"WORKSHOP"
+  },
+  {
+    "course_code":"DVGO IA9000",
+    "course_title":"Capstone Workshop in Sustainable Develop",
+    "course_descr":null,
+    "instructor":"Shravanti M Reddy",
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"3:00pm",
+    "call_number":"17081",
+    "campus":null,
+    "class_id":"U9000-20271-003",
+    "course_subtitle":"Capstone: Sustainable Dev",
+    "department":"Development and Governance",
+    "department_code":"DVGO",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/DVGO\/U9000-20271-003\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20271DVGO9000U003",
+    "type":"WORKSHOP"
+  },
+  {
+    "course_code":"DVGO IA9000",
+    "course_title":"Capstone Workshop in Sustainable Develop",
+    "course_descr":null,
+    "instructor":"Hans M Boehmer",
+    "scheduled_time_start":"3:10pm",
+    "scheduled_time_end":"5:00pm",
+    "call_number":"17082",
+    "campus":null,
+    "class_id":"U9000-20271-004",
+    "course_subtitle":"Capstone: Sustainable Dev",
+    "department":"Development and Governance",
+    "department_code":"DVGO",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/DVGO\/U9000-20271-004\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20271DVGO9000U004",
+    "type":"WORKSHOP"
+  },
+  {
+    "course_code":"DVGO IA9000",
+    "course_title":"Capstone Workshop in Sustainable Develop",
+    "course_descr":null,
+    "instructor":"Courtney Sara L Minard",
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"3:00pm",
+    "call_number":"17083",
+    "campus":null,
+    "class_id":"U9000-20271-005",
+    "course_subtitle":"Capstone: Sustainable Dev",
+    "department":"Development and Governance",
+    "department_code":"DVGO",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/DVGO\/U9000-20271-005\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20271DVGO9000U005",
+    "type":"WORKSHOP"
+  },
+  {
+    "course_code":"DVGO IA9000",
+    "course_title":"Capstone Workshop in Sustainable Develop",
+    "course_descr":null,
+    "instructor":"Carole Wacey Maraj",
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"3:00pm",
+    "call_number":"17084",
+    "campus":null,
+    "class_id":"U9000-20271-006",
+    "course_subtitle":"Capstone: Sustainable Dev",
+    "department":"Development and Governance",
+    "department_code":"DVGO",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/DVGO\/U9000-20271-006\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20271DVGO9000U006",
+    "type":"WORKSHOP"
+  },
+  {
+    "course_code":"DVGO IA9000",
+    "course_title":"Capstone Workshop in Sustainable Develop",
+    "course_descr":null,
+    "instructor":"C.J. Stanfill",
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"3:00pm",
+    "call_number":"17085",
+    "campus":null,
+    "class_id":"U9000-20271-007",
+    "course_subtitle":"Capstone: Sustainable Dev",
+    "department":"Development and Governance",
+    "department_code":"DVGO",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/DVGO\/U9000-20271-007\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20271DVGO9000U007",
+    "type":"WORKSHOP"
+  },
+  {
+    "course_code":"DVGO IA9000",
+    "course_title":"Capstone Workshop in Sustainable Develop",
+    "course_descr":null,
+    "instructor":"Debra A Jones",
+    "scheduled_time_start":"3:10pm",
+    "scheduled_time_end":"5:00pm",
+    "call_number":"17086",
+    "campus":null,
+    "class_id":"U9000-20271-008",
+    "course_subtitle":"Capstone: Sustainable Dev",
+    "department":"Development and Governance",
+    "department_code":"DVGO",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/DVGO\/U9000-20271-008\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20271DVGO9000U008",
+    "type":"WORKSHOP"
+  },
+  {
+    "course_code":"DVGO IA9000",
+    "course_title":"Capstone Workshop in Sustainable Develop",
+    "course_descr":null,
+    "instructor":"Barbara M Magnoni",
+    "scheduled_time_start":"3:10pm",
+    "scheduled_time_end":"5:00pm",
+    "call_number":"17087",
+    "campus":null,
+    "class_id":"U9000-20271-009",
+    "course_subtitle":"Capstone: Sustainable Dev",
+    "department":"Development and Governance",
+    "department_code":"DVGO",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/DVGO\/U9000-20271-009\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20271DVGO9000U009",
+    "type":"WORKSHOP"
+  },
+  {
+    "course_code":"DVGO IA9000",
+    "course_title":"Capstone Workshop in Sustainable Develop",
+    "course_descr":null,
+    "instructor":"Maxine Weisgrau",
+    "scheduled_time_start":"3:10pm",
+    "scheduled_time_end":"5:00pm",
+    "call_number":"17088",
+    "campus":null,
+    "class_id":"U9000-20271-010",
+    "course_subtitle":"Capstone: Sustainable Dev",
+    "department":"Development and Governance",
+    "department_code":"DVGO",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/DVGO\/U9000-20271-010\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20271DVGO9000U010",
+    "type":"WORKSHOP"
+  },
+  {
+    "course_code":"DVGO IA9000",
+    "course_title":"Capstone Workshop in Sustainable Develop",
+    "course_descr":null,
+    "instructor":"Dirk Salomons",
+    "scheduled_time_start":"3:10pm",
+    "scheduled_time_end":"5:00pm",
+    "call_number":"17089",
+    "campus":null,
+    "class_id":"U9000-20271-011",
+    "course_subtitle":"Capstone: Sustainable Dev",
+    "department":"Development and Governance",
+    "department_code":"DVGO",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/DVGO\/U9000-20271-011\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20271DVGO9000U011",
+    "type":"WORKSHOP"
+  },
+  {
+    "course_code":"DVGO IA9000",
+    "course_title":"Capstone Workshop in Sustainable Develop",
+    "course_descr":null,
+    "instructor":"Scott B Martin",
+    "scheduled_time_start":"3:10pm",
+    "scheduled_time_end":"5:00pm",
+    "call_number":"17090",
+    "campus":null,
+    "class_id":"U9000-20271-012",
+    "course_subtitle":"Capstone: Sustainable Dev",
+    "department":"Development and Governance",
+    "department_code":"DVGO",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/DVGO\/U9000-20271-012\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20271DVGO9000U012",
+    "type":"WORKSHOP"
+  },
+  {
+    "course_code":"DVGO IA9000",
+    "course_title":"Capstone Workshop in Sustainable Develop",
+    "course_descr":null,
+    "instructor":"Fumiko Sasaki",
+    "scheduled_time_start":"5:10pm",
+    "scheduled_time_end":"7:00pm",
+    "call_number":"17091",
+    "campus":null,
+    "class_id":"U9000-20271-013",
+    "course_subtitle":"Capstone: Sustainable Dev",
+    "department":"Development and Governance",
+    "department_code":"DVGO",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/DVGO\/U9000-20271-013\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20271DVGO9000U013",
+    "type":"WORKSHOP"
+  },
+  {
+    "course_code":"DVGO IA9000",
+    "course_title":"Capstone Workshop in Sustainable Develop",
+    "course_descr":null,
+    "instructor":"Tyler S Radford",
+    "scheduled_time_start":"10:00am",
+    "scheduled_time_end":"11:50am",
+    "call_number":"17092",
+    "campus":null,
+    "class_id":"U9000-20271-014",
+    "course_subtitle":"Capstone: Sustainable Dev",
+    "department":"Development and Governance",
+    "department_code":"DVGO",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/DVGO\/U9000-20271-014\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20271DVGO9000U014",
+    "type":"WORKSHOP"
+  },
+  {
+    "course_code":"DVGO IA9000",
+    "course_title":"Capstone Workshop in Sustainable Develop",
+    "course_descr":null,
+    "instructor":"Savita Bailur",
+    "scheduled_time_start":"10:00am",
+    "scheduled_time_end":"11:50am",
+    "call_number":"17093",
+    "campus":null,
+    "class_id":"U9000-20271-015",
+    "course_subtitle":"Capstone: Sustainable Dev",
+    "department":"Development and Governance",
+    "department_code":"DVGO",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/DVGO\/U9000-20271-015\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"F",
+    "section_key":"20271DVGO9000U015",
+    "type":"WORKSHOP"
+  },
+  {
+    "course_code":"DVGO IA9000",
+    "course_title":"Capstone Workshop in Sustainable Develop",
+    "course_descr":null,
+    "instructor":"Courtney Sara L Minard",
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"3:00pm",
+    "call_number":"17094",
+    "campus":null,
+    "class_id":"U9000-20271-016",
+    "course_subtitle":"Capstone: Sustainable Dev",
+    "department":"Development and Governance",
+    "department_code":"DVGO",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/DVGO\/U9000-20271-016\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20271DVGO9000U016",
+    "type":"WORKSHOP"
+  },
+  {
+    "course_code":"DVGO IA9000",
+    "course_title":"Capstone Workshop in Sustainable Develop",
+    "course_descr":null,
+    "instructor":"C.J. Stanfill",
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"3:00pm",
+    "call_number":"17095",
+    "campus":null,
+    "class_id":"U9000-20271-017",
+    "course_subtitle":"Capstone: Sustainable Dev",
+    "department":"Development and Governance",
+    "department_code":"DVGO",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/DVGO\/U9000-20271-017\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "SIPA"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20271DVGO9000U017",
+    "type":"WORKSHOP"
+  },
+  {
     "course_code":"DVPR IA7600",
     "course_title":"Development Practitioner's Lab (DP-Lab)",
     "course_descr":"Registration is only available to MPA-DP Students.\n  \nThis\u00a0is a required course for MPA-DP students in their second semester, focused on tools and methods for effective program design in sustainable development. Drawing on insights from over 90 MPA-DP alumni working in diverse global contexts, this course emphasizes applied learning, systems thinking, and adaptive leadership.\n  \nStudents will learn and apply tools to diagnose development challenges, design interventions for social impact, and address cross-cutting themes such as communication, ethics, equity, and inclusion. The course supports students in developing a comprehensive project proposal, structured around contextual analysis, implementation planning, and critical reflection on development practice.",
@@ -53017,7 +53466,7 @@
     "department":"Earth and Environmental Engineering",
     "department_code":"EAEE",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/EAEE\/E4257-20271-001\/",
-    "location":null,
+    "location":"420 Pupin Laboratories, Monday Wednesday 11:40am-12:55pm 633 Seeley W. Mudd Building",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"3",
@@ -59085,7 +59534,7 @@
   {
     "course_code":"EECS E6899",
     "course_title":"Topics-Information Processing",
-    "course_descr":null,
+    "course_descr":"Advanced topics spanning electrical engineering and computer science such as speech processing and recognition, image and multimedia content analysis, and other areas drawing on signal processing, information theory, machine learning, pattern recognition, and related topics. Content varies from year to year, and different topics rotate through the course numbers 6890 to 6899.",
     "instructor":null,
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:25pm",
@@ -62340,7 +62789,7 @@
   {
     "course_code":"ELEN E6312",
     "course_title":"ADV ANALOG INTEGRATED CIRCUITS",
-    "course_descr":null,
+    "course_descr":"Integrated circuit device characteristics and models; temperature- and supply-independent biasing; IC operational amplifier analysis and design and their applications; feedback amplifiers, stability and frequency compensation techniques; noise in circuits and low-noise design; mismatch in circuits and low-offset design. Computer-aided analysis techniques are used in homework(s) or a design project.",
     "instructor":null,
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:40pm",
@@ -62365,7 +62814,7 @@
   {
     "course_code":"ELEN E6318",
     "course_title":"MICROWAVE CIRCUIT DESIGN",
-    "course_descr":null,
+    "course_descr":"Introduction to microwave engineering and microwave circuit design. Review of transmission lines. Smith chart, S-parameters, microwave impedance matching, transformation and power combining networks, active and passive microwave devices, S-parameter-based design of RF and microwave amplifiers. A microwave circuit design project (using microwave CAD) is an integral part of the course.",
     "instructor":null,
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:40pm",
@@ -62376,14 +62825,14 @@
     "department":"Electrical Engineering",
     "department_code":"ELEN",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ELEN\/E6318-20271-001\/",
-    "location":null,
+    "location":"903 School of Social Work",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"3",
     "prerequisites":[
 
     ],
-    "scheduled_days":"M",
+    "scheduled_days":"T",
     "section_key":"20271ELEN6318E001",
     "type":"LECTURE"
   },
@@ -62670,7 +63119,7 @@
   {
     "course_code":"ELEN E6945",
     "course_title":"DEVICE NANOFABRICATION",
-    "course_descr":null,
+    "course_descr":"This course provides an understanding of the methods used for structuring matter on the nanometer length: thin-film technology; lithographic patterning and technologies including photon, electron, ion and atom, scanning probe, soft lithography, and nanoimprinting; pattern transfer; self-assembly; process integration; and applications.",
     "instructor":null,
     "scheduled_time_start":"7:00pm",
     "scheduled_time_end":"9:30pm",
@@ -62681,7 +63130,7 @@
     "department":"Electrical Engineering",
     "department_code":"ELEN",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ELEN\/E6945-20271-001\/",
-    "location":null,
+    "location":"602 Hamilton Hall",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"3",
@@ -64044,8 +64493,8 @@
     "course_title":"INTRODUCTION TO FICTION WRITING",
     "course_descr":"Practice in writing short stories and other forms of fiction with discussion and close analysis in a workshop setting. For a more detailed, instructor-specific description, \nplease see our Course Offerings Google doc\n. If you are a Columbia student, please note that you will need to submit an access request to view the document containing instructor-specific course descriptions. All requests will be approved within 24 business hours. Please note that these workshops are only open to undergraduate students.",
     "instructor":"Cleyvis Natera",
-    "scheduled_time_start":"11:00am",
-    "scheduled_time_end":"12:50pm",
+    "scheduled_time_start":"10:10am",
+    "scheduled_time_end":"12:00pm",
     "call_number":"00276",
     "campus":null,
     "class_id":"X3108-20271-001",
@@ -64060,7 +64509,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":"R",
+    "scheduled_days":"W",
     "section_key":"20271ENGL3108X001",
     "type":"WORKSHOP"
   },
@@ -74556,7 +75005,7 @@
     "department":"Enterprise Risk Management",
     "department_code":"ERMC",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ERMC\/K5440-20271-001\/",
-    "location":"608 Schermerhorn Hall [SCH]",
+    "location":"141 Uris Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Professional Studies"
@@ -77180,6 +77629,33 @@
     "type":"WORKSHOP"
   },
   {
+    "course_code":"FILM AF8150",
+    "course_title":"The Creator To Filmmaker Pipeline",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"9:30am",
+    "scheduled_time_end":"12:30pm",
+    "call_number":"17097",
+    "campus":null,
+    "class_id":"R8150-20271-001",
+    "course_subtitle":"The Creator To Filmmaker",
+    "department":"Film",
+    "department_code":"FILM",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FILM\/R8150-20271-001\/",
+    "location":"15T Riverside Church",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Schools of the Arts"
+    ],
+    "points":"1.5",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20271FILM8150R001",
+    "type":"WORKSHOP"
+  },
+  {
     "course_code":"FILM AF8237",
     "course_title":"VISUAL EXPERIENCES",
     "course_descr":"The course seeks to bridge two intimately related studies that currently exist within the Film Program: 1. intensive academic analysis of filmmaking practices\/principles and, 2. \u00a0the practitioner\u2019s creative\/pragmatic application of those practices\/principles in their own work. Students will study, through screenings, lectures and personal research, an overview of various directing forms\/methodologies (conventional coverage, expressive directing, comedy directing, subjective directing, objective directing, multiple-protagonist narrative, etc.) with a primary focus on the Western classic narrative tradition. The visual grammar, axiomatic principles, structural necessities of a variety of directing forms\/genres will be analyzed and compared with works of art from other disciplines (poetry, painting, sculpture, etc.) and cultures. \u00a0The ultimate goal is student implementation of these principles in their own work, exposure to and examination of some works of the established canon, as well as a greater understanding of the context in which creation occurs.",
@@ -77393,6 +77869,33 @@
     ],
     "scheduled_days":"W",
     "section_key":"20271FILM8330R001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"FILM AF8350",
+    "course_title":"FILM FESTIVALS:THEORY&PRACTICE",
+    "course_descr":null,
+    "instructor":"Mynette Louie",
+    "scheduled_time_start":"2:00pm",
+    "scheduled_time_end":"5:00pm",
+    "call_number":"17077",
+    "campus":null,
+    "class_id":"R8350-20271-001",
+    "course_subtitle":"FILM FESTIVALS:THEORY&PRA",
+    "department":"Film",
+    "department_code":"FILM",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FILM\/R8350-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Schools of the Arts"
+    ],
+    "points":"1-1.5",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20271FILM8350R001",
     "type":"SEMINAR"
   },
   {
@@ -79358,7 +79861,7 @@
     "department":"Finance",
     "department_code":"FINC",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/FINC\/B8307-20271-002\/",
-    "location":"590 GEFFEN HALL",
+    "location":"640 GEFFEN HALL",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Business",
@@ -79387,7 +79890,7 @@
     "department":"Finance",
     "department_code":"FINC",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/FINC\/B8307-20271-001\/",
-    "location":"590 GEFFEN HALL",
+    "location":"640 GEFFEN HALL",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Architecture",
@@ -80759,7 +81262,7 @@
     "department":"Finance",
     "department_code":"FINC",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/FINC\/B8414-20271-001\/",
-    "location":"640 GEFFEN HALL",
+    "location":"590 GEFFEN HALL",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Business"
@@ -80786,7 +81289,7 @@
     "department":"Finance",
     "department_code":"FINC",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/FINC\/B8414-20271-002\/",
-    "location":"640 GEFFEN HALL",
+    "location":"590 GEFFEN HALL",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Business"
@@ -80813,7 +81316,7 @@
     "department":"Finance",
     "department_code":"FINC",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/FINC\/B8415-20271-001\/",
-    "location":"620 Kravis Hall",
+    "location":"590 GEFFEN HALL",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Business"
@@ -84715,7 +85218,7 @@
     "call_number":"12190",
     "campus":null,
     "class_id":"U2101-20271-002",
-    "course_subtitle":"Contemp Debates DISCUSSIO",
+    "course_subtitle":"Contemp Debates Discussio",
     "department":"Global Affairs and Public Policy",
     "department_code":"GAPP",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/GAPP\/U2101-20271-002\/",
@@ -86284,6 +86787,31 @@
     ],
     "scheduled_days":null,
     "section_key":"20271GENE0703M001",
+    "type":"CLINIC"
+  },
+  {
+    "course_code":"GENE M0703",
+    "course_title":"Reproductive Genetics Internship",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17101",
+    "campus":null,
+    "class_id":"M0703-20271-002",
+    "course_subtitle":"Internship: Reproductive",
+    "department":"Genetic Counseling",
+    "department_code":"GENE",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/GENE\/M0703-20271-002\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271GENE0703M002",
     "type":"CLINIC"
   },
   {
@@ -91375,7 +91903,7 @@
   {
     "course_code":"HPMN P8580",
     "course_title":"Global Health Governance",
-    "course_descr":"Global health is not something that happens to people elsewhere \u2013 it is a shared context in which we all are born, lead our lives and die (cheery beginning). Recognizing a shared context in no way implies it is not a context rife with inequities, inequalities, and inefficiencies; it is. In the aftermath of the recent Ebola and Zika outbreaks and against a decades-long fight confronting HIV\/AIDS and a millennia-long fight against tuberculosis and malaria, these fissures have been repeatedly exposed, and at times addressed. In the past decade alone, the world has invested billions of dollars in fighting these and other diseases but substantially less to help strengthen developing country health systems, expand health insurance coverage or combat the so-called neglected diseases, such as sleeping sickness, that continue to cause untold suffering. The institutions charged with \u2018governing\u2019 global health arguably do not have the requisite mandates, authorities or budgets to meet their respective missions, despite increasing amounts of pressure from donor governments, developing country governments and other constituents to do so. In this course, we will explore questions such as: Which entities govern and finance global health? What is on and off the global health agenda? Who determines what is on the global health agenda? What are recent \u2018innovations\u2019 in global health governance and financing? Have various \u2018innovations\u2019 worked or not? What are current significant debates in global health governance (e.g., what should World Health Organization reform entail)?",
+    "course_descr":"Global health governance plays a critical role in shaping health priorities, mobilizing resources and addressing challenges that extend beyond national borders. Over recent decades, the global health landscape has expanded considerably, bringing important advances but also greater fragmentation, overlapping mandates and persistent inequalities in power and accountability. Today, geopolitical shifts, declining development assistance and questions about the effectiveness and legitimacy of multilateral institutions are prompting renewed debate about how global health should be governed. Initiatives such as the Lusaka Agenda, Accra Reset and WHO's global health architecture reform reflect efforts to rethink the roles of global, regional and national institutions.\n  \nThis course examines the institutions, actors and political processes that shape global health priorities and decision-making. Students will explore how power and political interests influence global health cooperation, and how these dynamics affect national priorities and health systems. By the end of the course, students will be able to analyze key global health governance arrangements, assess their implications for country ownership and accountability, and identify opportunities for reform. Through interactive lectures, case-based discussions, debates and applied policy exercises, students will develop the skills to critically assess governance challenges and formulate practical recommendations for change.",
     "instructor":"Erin K Ferenchick",
     "scheduled_time_start":"8:30am",
     "scheduled_time_end":"11:20am",
@@ -98716,6 +99244,33 @@
     "type":"INDEPENDENT"
   },
   {
+    "course_code":"IEOR E3999",
+    "course_title":"FIELDWORK",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17096",
+    "campus":null,
+    "class_id":"E3999-20271-001",
+    "course_subtitle":null,
+    "department":"Industrial Engineering and Operations Research",
+    "department_code":"IEOR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/IEOR\/E3999-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Engineering:Undergraduate"
+    ],
+    "points":"1-2",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271IEOR3999E001",
+    "type":"INDEPENDENT"
+  },
+  {
     "course_code":"IEOR E4004",
     "course_title":"OPTIMIZATION MODELS AND METHODS",
     "course_descr":"A graduate course only for MS&E, IE, and OR students. This is also required for students in the Undergraduate Advanced Track. For students who have not studied linear programming. Some of the main methods used in IEOR applications involving deterministic models: linear programming, the simplex method, nonlinear, integer and dynamic programming.",
@@ -100731,6 +101286,60 @@
     "scheduled_days":"W",
     "section_key":"20271IEOR4998E001",
     "type":"LECTURE"
+  },
+  {
+    "course_code":"IEOR E4999",
+    "course_title":"FIELDWORK",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17099",
+    "campus":null,
+    "class_id":"E4999-20271-002",
+    "course_subtitle":null,
+    "department":"Industrial Engineering and Operations Research",
+    "department_code":"IEOR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/IEOR\/E4999-20271-002\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Engineering:Graduate"
+    ],
+    "points":"1-2",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271IEOR4999E002",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"IEOR E4999",
+    "course_title":"FIELDWORK",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17100",
+    "campus":null,
+    "class_id":"E4999-20271-003",
+    "course_subtitle":null,
+    "department":"Industrial Engineering and Operations Research",
+    "department_code":"IEOR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/IEOR\/E4999-20271-003\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Engineering:Graduate"
+    ],
+    "points":"1-2",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271IEOR4999E003",
+    "type":"INDEPENDENT"
   },
   {
     "course_code":"IEOR E6614",
@@ -105529,7 +106138,7 @@
     "course_code":"ITAL UN1102",
     "course_title":"ELEMENTARY ITALIAN II",
     "course_descr":"Prerequisites: ITAL V1101 or the equivalent. Introduction to Italian grammar, with emphasis on reading, writing, listening and speaking skills.",
-    "instructor":null,
+    "instructor":"Alessandra Saggin",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
     "call_number":"14840",
@@ -119097,7 +119706,7 @@
     "course_code":"MDES GU4625",
     "course_title":"ADVANCED HINDI II",
     "course_descr":"This is a third year (or sixth semester) course in the Hindi-Urdu program that aims to continue building upon the existing listening, speaking, reading, writing and cultural skills in Hindi and Urdu. Students will be exposed to a variety of authentic materials, such as stories, plays, newspapers, magazines, videos and film clips. They will be expected to expand their vocabulary, enhance their grammatical accuracy and develop their cultural appropriateness through their enthusiastic participation in classroom activities and immersing themselves in the speech community outside.\n  \nThe objective of the course is to promote meaningful interaction with literary texts and to strengthen students\u2019 language skills to understand and describe situations and people in diverse academic settings of modern Hindi. Writing in the target language will be emphasized throughout the semester to enable students to use their diverse vocabulary and grammatical structures. The students will gain better understanding of the craft of creative writing in Hindi as the writers explore the innermost sentiments and compulsions of their characters to make us wonder about life, language and emotions, all in conjunction with each other.",
-    "instructor":null,
+    "instructor":"Rakesh Ranjan",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
     "call_number":"12706",
@@ -119503,7 +120112,7 @@
     "course_code":"MDES UN1609",
     "course_title":"HINDI FOR HERITAGE SPEAKERS II",
     "course_descr":"This is a fast-paced course that compresses two years of Hindi into one year. It is for students of South Asian background who already possess limited speaking and listening skills in Hindi or Urdu. Non-heritage students who have some exposure to Hindi or Urdu and South Asian cultures may also take this course.\n  \nIt begins with an introduction to the Devanagari Script, which enables students to acquire basic reading and writing skills. They then build on their listening and speaking skills. To achieve these goals, students are introduced to a variety of materials, including literature, newspapers, folk tales, jokes, magazine articles, films, songs, commercials, and other kinds of audiovisual materials. These texts are related to language functions in daily personal and social life situations.\n  \nIt focuses on vocabulary enrichment by exposing students to a variety of cultural topics and developing knowledge of basic Hindi grammar. By the end of the semester, students will develop productive skills in reading, writing, and speaking and will be able to:\n  \n\u2022 speak about themselves and their environment, and initiate conversations on topics of general interest.\n  \n\u2022 Understand most of the basic sentence structures of Hindi in formal and informal registers.\n  \n\u2022 Write correspondence related to daily life, letters, short essays, and compositions on various topics.\n  \n\u2022 Learn some basic vocabulary related to aspects of Indian life, such as family life, social traditions, and education.\n  \n\u2022 Initiate and sustain conversations on a range of topics related to different aspects of Indian culture, social, and family life.\n  \nOn the first day of classes, there will be an interview\/placemat test to establish the proficiency level. Please come directly to class. If accepted, the department will register you internally.",
-    "instructor":null,
+    "instructor":"Rakesh Ranjan",
     "scheduled_time_start":"2:40pm",
     "scheduled_time_end":"3:45pm",
     "call_number":"12697",
@@ -120061,7 +120670,7 @@
     "course_code":"MDES UN2602",
     "course_title":"INTERMEDIATE HINDI-URDU II",
     "course_descr":"This is a second-year (fall and spring semesters) course.\n \nStudents practice reading and writing in Devanagari and continue to improve their proficiency in Hindi to:\n  \n\u2022 Successfully handle most uncomplicated communicative tasks and social situations.\n  \n\u2022 Initiate, sustain, and close a general conversation.\n  \n\u2022 Write letters and short compositions and read consistently, fully understanding simple connected texts dealing with personal and social needs.\n  \n\u2022 Get the main ideas and information from texts, including description and narration.\n  \nTo achieve these goals, students are introduced to a variety of materials, including literature, newspapers, folk tales, jokes, magazine articles, films, songs, commercials, and other kinds of audiovisual materials. These texts relate to language functions in daily personal and social life situations.",
-    "instructor":null,
+    "instructor":"Rakesh Ranjan",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:15pm",
     "call_number":"12701",
@@ -130076,7 +130685,7 @@
   {
     "course_code":"NBHV GR6000",
     "course_title":"Topics in Sensorimotor Control",
-    "course_descr":null,
+    "course_descr":"The course is designed for advanced graduate students and beyond to expose them to seminal studies and current research on the interdisciplinary field of sensorimotor control. Topics will range across multiple model organisms\u2014fly, mouse, bird, human\u2014as well as computational models.\u00a0 Each week, lectures will be given by a different faculty member at Columbia University, reflecting each speaker\u2019s area of expertise, and will provide an integrated perspective throughout the course.",
     "instructor":null,
     "scheduled_time_start":"1:30pm",
     "scheduled_time_end":"3:30pm",
@@ -130297,6 +130906,31 @@
     "scheduled_days":"TR",
     "section_key":"20271NBHV4359G001",
     "type":"LECTURE"
+  },
+  {
+    "course_code":"NBHV GU4500",
+    "course_title":"Neuroscience and Philosophy",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"1:30pm",
+    "scheduled_time_end":"3:30pm",
+    "call_number":"17102",
+    "campus":null,
+    "class_id":"M4500-20271-001",
+    "course_subtitle":"Neuroscience and Philosop",
+    "department":"Neurobiology and Behavior",
+    "department_code":"NBHV",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NBHV\/M4500-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20271NBHV4500M001",
+    "type":"SEMINAR"
   },
   {
     "course_code":"NECR PS5050",
@@ -131556,7 +132190,7 @@
   {
     "course_code":"NMED PS5300",
     "course_title":"QUALITATIVE METHODS & RESEARCH",
-    "course_descr":null,
+    "course_descr":"The NMED PCC approved reducing the credits for QRM from 4 to 3 and in shifting this course from a core course to a program elective.",
     "instructor":"Valentina E Parisi",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -135592,7 +136226,7 @@
   {
     "course_code":"PATH G6004",
     "course_title":"MECHANISMS IN HUM DISEASE II",
-    "course_descr":null,
+    "course_descr":"Open only to graduate students in the basic medical science departments. Prerequisite: Pathology G6001, a course in human neuroanatomy, and course directors permission. Gross and microscopic study of lesions of the nervous system, with attention to functional derangement associated with them. Lectures, laboratory, conferences, and assigned readings.",
     "instructor":"Moustafa Gabr",
     "scheduled_time_start":"10:00am",
     "scheduled_time_end":"12:00pm",
@@ -135608,7 +136242,9 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "G6001"
+      ]
     ],
     "scheduled_days":"MW",
     "section_key":"20271PATH6004G001",
@@ -139217,7 +139853,7 @@
     "department":"Philosophy @Barnard",
     "department_code":"PHIL",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/PHIL\/G6555-20271-001\/",
-    "location":null,
+    "location":"716 Philosophy Hall",
     "method_of_instruction":null,
     "open_to":null,
     "points":"3",
@@ -140292,7 +140928,7 @@
     "department":"Philosophy @Barnard",
     "department_code":"PHIL",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/PHIL\/G4260-20271-001\/",
-    "location":null,
+    "location":"716 Philosophy Hall",
     "method_of_instruction":null,
     "open_to":null,
     "points":"3",
@@ -152915,7 +153551,7 @@
     "course_descr":"Prerequisites: BC1001 or permission of the instructor.\u00a0\n  \nThe aim of this course is to critically examine the complex interaction of biological, psychological and environmental factors which impact the etiology, symptoms, and treatment of substance abuse and dependence. The course focuses on those drugs which have abuse and dependence potential with specific emphasis on Alcohol and the Depressants, the Psychostimulants, and the Opiates.\u00a0 A primary objective is to provide insight into factors which contribute to challenges with substances for some individuals and to better understand their felt and lived experience with drugs.\n  \nThe course begins with a review of theoretical perspectives including disease, behavioral, cognitive, social learning, psychodynamic, and neurobiological models.\u00a0 The physical, psychological, and socio-cultural effects\/impact of each major class of drug will then follow. Within each category, we will also discuss controversial issues related to each drug for example: methadone maintenance, needle exchange programs, Ritalin\/Adderall abuse, the \u201copiate epidemic.\u201d\u00a0 Throughout the course, case histories, film documentaries and memoirs will provide personal accounts of the drug experience.\u00a0 We conclude the course with an overview of treatment interventions.",
     "instructor":"E'Mett McCaskill",
     "scheduled_time_start":"4:10pm",
-    "scheduled_time_end":"5:40pm",
+    "scheduled_time_end":"5:25pm",
     "call_number":"00996",
     "campus":null,
     "class_id":"X2177-20271-001",
@@ -178064,7 +178700,7 @@
   {
     "course_code":"SPAN GR6028",
     "course_title":"Ways of Living: Alternative Communities",
-    "course_descr":null,
+    "course_descr":"This course examines artist-led projects that sought to create alternative forms of collective life and explored, with varying degrees of success, novel ways of living together. By bringing case studies from the 20th and 21st centuries into dialogue with theoretical readings and hands-on artmaking exercises, we will explore how art has functioned not simply as a space for imagining alternative futures, but also as a material and affective force capable of shaping everyday life and enabling forms of social organization beyond existing political structures.\n  \nThrough visual and material analysis, close readings of performances, poetry, and architectural interventions, and engagement with archival research and oral histories, we will come to better understand these artists\u2019 desires to create physical and virtual spaces where art, literature, architecture, philosophy, and politics could overlap and coalesce. Case studies include Solentiname (Nicaragua), Amereida\/Ciudad Abierta (Chile), and Brasilia (Brazil), as well as the work of contemporary collectives and artists such as Mapa Teatro (Colombia), Marta Minuj\u00edn (Argentina), and M\u00f3nica Mayer (M\u00e9xico). The course traces a significant transformation in Latin American cultural and political imagination by juxtaposing mid-twentieth-century utopian communities marked by an impulse toward permanence with contemporary experiments in ephemeral forms of togetherness that question the very idea of community as a space for dissent and dwelling. We will explore questions such as: How can artistic practices reorganize social relations and sustain forms of commonality? What possibilities emerge when communities turn away from dominant structures rather than seeking to transform them directly? And how might we rethink the concept of \ncommunity\n in relation to forms of togetherness that are fragile, temporary, or resistant to definition?",
     "instructor":"Jeronimo Duarte Riascos",
     "scheduled_time_start":"1:00pm",
     "scheduled_time_end":"3:30pm",
@@ -179993,7 +180629,7 @@
     "course_descr":"Prerequisites: SPAN UN1108 or scoring at this level on the department\u2019s Spanish as a Heritage Language Placement test (https:\/\/columbia-barnard.vega-labs.com).\n  \nThe principal aim of SPAN UN2108 is to build upon and further develop the knowledge of Spanish that heritage learners bring to the classroom \u2013 from SPAN UN1108 and\/or from family and neighborhood exposure to the language. This course cultivates intermediate-level formal speaking, listening, reading, and writing abilities.\n  \nSpanish heritage language courses at Columbia\/Barnard focus on the development of communicative abilities and literacy from sociolinguistic and sociocultural approaches. Throughout the semester, students will be reviewing spelling patterns, building vocabulary, acquiring and effectively using learning strategies, and strengthening composition skills in Spanish. Cultural projects and readings reinforce learners\u2019 understanding of the multiple issues related to Hispanic cultures in the United States and in other Spanish-speaking societies.",
     "instructor":"Diana Romero",
     "scheduled_time_start":"10:10am",
-    "scheduled_time_end":"11:05am",
+    "scheduled_time_end":"11:25am",
     "call_number":"13990",
     "campus":null,
     "class_id":"W2108-20271-002",
@@ -180001,7 +180637,7 @@
     "department":"Latin American and Iberian Cultures",
     "department_code":"SPAN",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SPAN\/W2108-20271-002\/",
-    "location":"425 Pupin Laboratories",
+    "location":null,
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"4",
@@ -191194,7 +191830,7 @@
   {
     "course_code":"UKRN GU4006",
     "course_title":"Advanced Ukrainian Through Literature, M",
-    "course_descr":null,
+    "course_descr":"This course is organized around a number of thematic centers or modules. Each is focused on stylistic peculiarities typical of a given functional style of the Ukrainian language. Each is designed to assist the student in acquiring an active command of lexical, grammatical, discourse, and stylistic traits that distinguish one style from the others and actively using them in real-life communicative settings in contemporary Ukraine. The styles include literary fiction, scholarly prose, and journalism, both printed and broadcast.",
     "instructor":"Yuri Shevchuk",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:25pm",
@@ -193583,8 +194219,8 @@
     "course_title":"Graduate Seminar in Moving Image & Relat",
     "course_descr":"GRAD SEM IN MOVING IMAGE AND RELATED MEDIA\n \nIn Between the Black Box and the White Cube: Art and the Moving Image\n  \nThe Graduate Seminar in Moving Image is a forum for concentrated discussion of artists\u2019 moving image today, grounded in the shifting relation between cinema and modern and contemporary art. It focuses on how artists have redefined film and video between the theatrical situation of cinema and the exhibitionary conditions of art, and on why this history matters for artists working with moving images now. At the heart of the seminar is the conviction that the production, exhibition, and curation of moving-image art are interconnected: works will be approached through discussion of their aesthetic form, their exhibition contexts, and the publics they address.\n  \nThis course examines the changing relationship between cinema and the museum through artists\u2019 uses of film and video, from the early twentieth century to the present. Moving images have become central to museums, galleries, and biennials, while artists\u2019 films also circulate through cinemas and film festivals. We will study the histories of these exchanges, asking how different sites of production and exhibition shape artistic practice and spectatorship, and how artists have transformed the aesthetics of film as well as spaces and conventions of moving-image exhibition.\n  \nDrawing primarily on cinema studies and art history, with reference to media theory, the course combines historical inquiry with close analysis of artists\u2019 films, videos, and moving-image installations. We will consider questions of medium specificity and the cinematic apparatus in relation to the conditions of exhibition. What changes when a work moves between a theatrical screening and an art exhibition? How do a work\u2019s duration and spatial presentation organize the viewer\u2019s attention? What is the potentials and limits of moving-image in the modern and contemporary art These questions will inform our study of the political, social, and aesthetic concerns of artists\u2019 film and video.\n  \nThe semester is structured in three parts. \nPart I\n traces the relationship between cinema and modern and postwar art, from early avant-garde film to the spatial and performative experiments of expanded cinema in the 1960s and 1970s. \nPart II\n examines the rise of video art and electronic media practices from the late 1960s to the 1990s, focusing on conceptual, femi",
     "instructor":"Lukas Brasiskis",
-    "scheduled_time_start":"9:30am",
-    "scheduled_time_end":"12:30pm",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
     "call_number":"16474",
     "campus":null,
     "class_id":"R8207-20271-001",
@@ -193592,7 +194228,7 @@
     "department":"Visual Arts",
     "department_code":"VIAR",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/VIAR\/R8207-20271-001\/",
-    "location":"315 Prentis Hall at 632 W 125th St",
+    "location":null,
     "method_of_instruction":"In-Person",
     "open_to":[
       "Columbia College",
@@ -193604,7 +194240,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":"W",
+    "scheduled_days":null,
     "section_key":"20271VIAR8207R001",
     "type":"SEMINAR"
   },
@@ -194602,8 +195238,8 @@
     "course_title":"SEM IN CONTEMP ART PRACTICE",
     "course_descr":"(Formerly R4601) New York City is the most abundant visual arts resource in the world. Visits to museums, galleries, and studios on a weekly basis. Students encounter a broad cross-section of art and are encouraged to develop ideas about what is seen. The seminar is led by a practicing artist and utilizes this perspective. Columbia College and General Studies Visual Arts Majors must take this class during their junior year. If the class is full, please visit http:\/\/arts.columbia.edu\/undergraduate-visual-arts-program.",
     "instructor":null,
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"4:00pm",
+    "scheduled_time_end":"7:00pm",
     "call_number":"14719",
     "campus":null,
     "class_id":"R3800-20271-001",
@@ -194611,7 +195247,7 @@
     "department":"Visual Arts",
     "department_code":"VIAR",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/VIAR\/R3800-20271-001\/",
-    "location":null,
+    "location":"106 Watson Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Columbia College",
@@ -194627,7 +195263,7 @@
         "R4601"
       ]
     ],
-    "scheduled_days":null,
+    "scheduled_days":"M",
     "section_key":"20271VIAR3800R001",
     "type":"SEMINAR"
   },
