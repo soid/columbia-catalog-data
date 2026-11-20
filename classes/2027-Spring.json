@@ -15620,6 +15620,31 @@
     "type":"LABORATORY"
   },
   {
+    "course_code":"ASTR UN1904",
+    "course_title":"ASTRONOMY LAB II",
+    "course_descr":null,
+    "instructor":"Janna Levin",
+    "scheduled_time_start":"7:00pm",
+    "scheduled_time_end":"10:00pm",
+    "call_number":"01161",
+    "campus":null,
+    "class_id":"W1904-20271-002",
+    "course_subtitle":null,
+    "department":"Physics and Astronomy @Barnard",
+    "department_code":"ASTR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ASTR\/W1904-20271-002\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20271ASTR1904W002",
+    "type":"LABORATORY"
+  },
+  {
     "course_code":"ASTR UN2002",
     "course_title":"INTRO TO ASTROPHYSICS II",
     "course_descr":"Prerequisites: a working knowledge of calculus. Corequisites: the second term of a course in calculus-based general physics. Continuation of ASTR UN2001; these two courses constitute a full year of calculus-based introduction to astrophysics. Topics include the structure of our galaxy, the interstellar medium, star clusters, properties of external galaxies, clusters of galaxies, active galactic nuclei, and cosmology.",
@@ -21489,7 +21514,7 @@
     "course_code":"BIST P8180",
     "course_title":"Relational Databases and SQL Programming",
     "course_descr":"In this course, you will learn to design and build relational databases in MySQL and to write and optimize queries using the SQL programming language. Application of skills learned in this course will be geared toward research and data science settings in the healthcare field; however, these skills are transferable to many industries and application areas. You will begin the course examining the pitfalls of using Excel spreadsheets as a data storage tool and then learn how to build properly-designed relational databases to eliminate the issues related to spreadsheets and maintain data integrity when storing and modifying data.  You will then learn two aspects of the SQL programming language: 1) the data manipulation language (DML), which allows you to retrieve data from and populate data into database tables (e.g., SELECT, INSERT INTO, DELETE, UPDATE, etc.), and 2) the data definition language (DDL), which allows you to create and modify tables in a database (e.g., CREATE, ALTER, DROP, etc.).  You will additionally learn how to optimize SQL queries for best performance, use advanced SQL functions, and utilize SQL within common statistical software programs: R and SAS.",
-    "instructor":"Anjile An",
+    "instructor":"Debra D'Angelo",
     "scheduled_time_start":"5:30pm",
     "scheduled_time_end":"8:20pm",
     "call_number":"15119",
@@ -21517,7 +21542,7 @@
     "course_code":"BIST P8180",
     "course_title":"Relational Databases and SQL Programming",
     "course_descr":"In this course, you will learn to design and build relational databases in MySQL and to write and optimize queries using the SQL programming language. Application of skills learned in this course will be geared toward research and data science settings in the healthcare field; however, these skills are transferable to many industries and application areas. You will begin the course examining the pitfalls of using Excel spreadsheets as a data storage tool and then learn how to build properly-designed relational databases to eliminate the issues related to spreadsheets and maintain data integrity when storing and modifying data.  You will then learn two aspects of the SQL programming language: 1) the data manipulation language (DML), which allows you to retrieve data from and populate data into database tables (e.g., SELECT, INSERT INTO, DELETE, UPDATE, etc.), and 2) the data definition language (DDL), which allows you to create and modify tables in a database (e.g., CREATE, ALTER, DROP, etc.).  You will additionally learn how to optimize SQL queries for best performance, use advanced SQL functions, and utilize SQL within common statistical software programs: R and SAS.",
-    "instructor":"Debra D'Angelo",
+    "instructor":"Zoe Verzani",
     "scheduled_time_start":"5:30pm",
     "scheduled_time_end":"8:20pm",
     "call_number":"15120",
@@ -38094,7 +38119,7 @@
     "department":"Civil Engineering and Engineering Mechanics",
     "department_code":"CIEN",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/CIEN\/E4138-20271-001\/",
-    "location":"420 Pupin Laboratories",
+    "location":"420 Pupin Laboratories, Thursday 7:00pm-9:00pm",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Engineering:Graduate",
@@ -43537,7 +43562,7 @@
     "course_code":"COMM PS5180",
     "course_title":"ADVANCED WRITING PROJECT",
     "course_descr":"In this advanced professional writing workshop, students are guided through the process of crafting a significant publication-ready piece of writing, applying principles of journalism and strategic communication. Whether a book chapter, in-depth feature article, white paper, or policy proposal, each student\u2019s unique project will require mastering a range of communication tools\u2014including storytelling, data presentation, observation, and analysis.\nWeekly Class Meeting 110 min x 15 = 1,650 min; Interviews (Category B) 5 sessions x 50 min = 250 min; Field research (Category B) 2 sessions x 60 min = 120 min; Individual meetings with faculty (Category E) 4 sessions x 60 min = 240 min; TOTAL = 2,260 min (for entire semester)",
-    "instructor":null,
+    "instructor":"Edith Hill Updike",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
     "call_number":"12670",
@@ -46318,7 +46343,7 @@
     "department":"Computer Science",
     "department_code":"COMS",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMS\/W4995-20271-033\/",
-    "location":"413 Kent Hall",
+    "location":"413 Kent Hall, Wednesday 5:40pm-8:10pm",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Engineering:Graduate"
@@ -54106,6 +54131,31 @@
     ],
     "scheduled_days":"W",
     "section_key":"20271EARL4617W001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"EARS GR6221",
+    "course_title":"MARSEA WORKSHOP II",
+    "course_descr":null,
+    "instructor":"Sau-Yi Fong",
+    "scheduled_time_start":"12:10pm",
+    "scheduled_time_end":"2:00pm",
+    "call_number":"17158",
+    "campus":null,
+    "class_id":"G6221-20271-001",
+    "course_subtitle":null,
+    "department":"East Asian Regional Studies",
+    "department_code":"EARS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/EARS\/G6221-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20271EARS6221G001",
     "type":"SEMINAR"
   },
   {
@@ -77672,6 +77722,33 @@
     "type":"SEMINAR"
   },
   {
+    "course_code":"FILM AF6420",
+    "course_title":"POST SUPERVISING FOR PRODUCERS",
+    "course_descr":null,
+    "instructor":"Luca Borghese",
+    "scheduled_time_start":"2:00pm",
+    "scheduled_time_end":"5:00pm",
+    "call_number":"17140",
+    "campus":null,
+    "class_id":"R6420-20271-002",
+    "course_subtitle":"POST SUPERVISING FOR PROD",
+    "department":"Film",
+    "department_code":"FILM",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FILM\/R6420-20271-002\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Schools of the Arts"
+    ],
+    "points":"1.5",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20271FILM6420R002",
+    "type":"SEMINAR"
+  },
+  {
     "course_code":"FILM AF6940",
     "course_title":"DOCUMENTARY ACTIVISM:THEORY",
     "course_descr":"This is a course in how to think about documentary but not about \u201chow to\u201d make documentary work. Its premise is that documentary as an approach is still undergoing revision as a definitional problem. Relevant to our times, cameras and sound recorders are called upon to \u201cwitness\u201d events. Basic readings on the history and theory of documentary are the heart of the course and practical exercises test theoretical questions. Students conduct low end exercises with their own smart phone cameras. Topics and issues center on the history of the radical documentary\u2014from the Workers Film and Photo League of the 1930s to the 2011 Arab Spring uprisings, comparing then new 16 and 35mm film camera capabilities with contemporary internet distribution. Other topics include climate change and documentary work; motion picture film and photography in labor struggles; uses of anti-war and nuclear bomb footage; sexualities and video camera activism.",
@@ -78105,6 +78182,85 @@
     "type":"LABORATORY"
   },
   {
+    "course_code":"FILM AF9100",
+    "course_title":"SCREENWRITING THESIS WORKSHOP",
+    "course_descr":null,
+    "instructor":"Trey Ellis",
+    "scheduled_time_start":"6:00pm",
+    "scheduled_time_end":"9:00pm",
+    "call_number":"17144",
+    "campus":null,
+    "class_id":"R9100-20271-001",
+    "course_subtitle":"SCREENWRITING THESIS WORK",
+    "department":"Film",
+    "department_code":"FILM",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FILM\/R9100-20271-001\/",
+    "location":"403 Dodge Hall",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Schools of the Arts"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20271FILM9100R001",
+    "type":"WORKSHOP"
+  },
+  {
+    "course_code":"FILM AF9100",
+    "course_title":"SCREENWRITING THESIS WORKSHOP",
+    "course_descr":null,
+    "instructor":"Andrew S Bienen",
+    "scheduled_time_start":"6:00pm",
+    "scheduled_time_end":"9:00pm",
+    "call_number":"17149",
+    "campus":null,
+    "class_id":"R9100-20271-002",
+    "course_subtitle":"SCREENWRITING THESIS WORK",
+    "department":"Film",
+    "department_code":"FILM",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FILM\/R9100-20271-002\/",
+    "location":"508 Dodge Hall",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Schools of the Arts"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20271FILM9100R002",
+    "type":"WORKSHOP"
+  },
+  {
+    "course_code":"FILM AF9100",
+    "course_title":"SCREENWRITING THESIS WORKSHOP",
+    "course_descr":null,
+    "instructor":"David Klass",
+    "scheduled_time_start":"10:00am",
+    "scheduled_time_end":"1:00pm",
+    "call_number":"17153",
+    "campus":null,
+    "class_id":"R9100-20271-003",
+    "course_subtitle":"SCREENWRITING THESIS WORK",
+    "department":"Film",
+    "department_code":"FILM",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FILM\/R9100-20271-003\/",
+    "location":"513E Dodge Hall",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20271FILM9100R003",
+    "type":"WORKSHOP"
+  },
+  {
     "course_code":"FILM AF9110",
     "course_title":"WORKSHOP IN SCRIPT REVISION",
     "course_descr":null,
@@ -78280,6 +78436,83 @@
     "scheduled_days":"W",
     "section_key":"20271FILM9210R005",
     "type":"WORKSHOP"
+  },
+  {
+    "course_code":"FILM AF9310",
+    "course_title":"PRODUCING THESIS ADVISEMENT",
+    "course_descr":null,
+    "instructor":"Mynette Louie",
+    "scheduled_time_start":"6:00pm",
+    "scheduled_time_end":"9:00pm",
+    "call_number":"17141",
+    "campus":null,
+    "class_id":"R9310-20271-001",
+    "course_subtitle":"PRODUCING THESIS ADVISEME",
+    "department":"Film",
+    "department_code":"FILM",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FILM\/R9310-20271-001\/",
+    "location":"ONLINE ONLY",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Schools of the Arts"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20271FILM9310R001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"FILM AF9310",
+    "course_title":"PRODUCING THESIS ADVISEMENT",
+    "course_descr":null,
+    "instructor":"Jack Lechner",
+    "scheduled_time_start":"6:00pm",
+    "scheduled_time_end":"9:00pm",
+    "call_number":"17142",
+    "campus":null,
+    "class_id":"R9310-20271-002",
+    "course_subtitle":"PRODUCING THESIS ADVISEME",
+    "department":"Film",
+    "department_code":"FILM",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FILM\/R9310-20271-002\/",
+    "location":"ONLINE ONLY",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20271FILM9310R002",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"FILM AF9310",
+    "course_title":"PRODUCING THESIS ADVISEMENT",
+    "course_descr":null,
+    "instructor":"Maureen A Ryan",
+    "scheduled_time_start":"6:00pm",
+    "scheduled_time_end":"9:00pm",
+    "call_number":"17143",
+    "campus":null,
+    "class_id":"R9310-20271-003",
+    "course_subtitle":"PRODUCING THESIS ADVISEME",
+    "department":"Film",
+    "department_code":"FILM",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FILM\/R9310-20271-003\/",
+    "location":"ONLINE ONLY",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20271FILM9310R003",
+    "type":"SEMINAR"
   },
   {
     "course_code":"FILM BC3090",
@@ -86229,7 +86462,7 @@
     "department":"Global Affairs and Public Policy",
     "department_code":"GAPP",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/GAPP\/U4712-20271-001\/",
-    "location":null,
+    "location":"501 International Affairs Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Columbia College",
@@ -87716,6 +87949,31 @@
     "type":"SEMINAR"
   },
   {
+    "course_code":"GEST UN0007",
+    "course_title":"NARRATIVE MEDICINE WORKSHOP",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"10:00am",
+    "scheduled_time_end":"11:15am",
+    "call_number":"17139",
+    "campus":null,
+    "class_id":"F0007-20271-001",
+    "course_subtitle":null,
+    "department":"General Studies",
+    "department_code":"GEST",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/GEST\/F0007-20271-001\/",
+    "location":"408 Lewisohn Hall",
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"F",
+    "section_key":"20271GEST0007F001",
+    "type":"WORKSHOP"
+  },
+  {
     "course_code":"GE__ N01P_",
     "course_title":"GASTROENTEROLOGY:COMP",
     "course_descr":null,
@@ -88530,31 +88788,6 @@
     "course_code":"GRKM UN3997",
     "course_title":"DIRECTED READINGS",
     "course_descr":"Designed for undergraduates who want to do directed reading in a period or on a topic not covered in the curriculum.",
-    "instructor":"Nikolas Kakkoufa",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
-    "call_number":"11336",
-    "campus":null,
-    "class_id":"V3997-20271-001",
-    "course_subtitle":null,
-    "department":"Classics",
-    "department_code":"GRKM",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/GRKM\/V3997-20271-001\/",
-    "location":null,
-    "method_of_instruction":"In-Person",
-    "open_to":null,
-    "points":"1-4",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":null,
-    "section_key":"20271GRKM3997V001",
-    "type":"INDEPENDENT"
-  },
-  {
-    "course_code":"GRKM UN3997",
-    "course_title":"DIRECTED READINGS",
-    "course_descr":"Designed for undergraduates who want to do directed reading in a period or on a topic not covered in the curriculum.",
     "instructor":"Paraskevi Martzavou",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -88625,31 +88858,6 @@
     "scheduled_days":null,
     "section_key":"20271GRKM3997V004",
     "type":"INDEPENDENT"
-  },
-  {
-    "course_code":"GRKM UN3998",
-    "course_title":"SENIOR RESEARCH SEMINAR",
-    "course_descr":"Designed for students writing a senior thesis or doing advanced research on Greek or Greek Diaspora topics.",
-    "instructor":"Nikolas Kakkoufa",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
-    "call_number":"11341",
-    "campus":null,
-    "class_id":"V3998-20271-001",
-    "course_subtitle":null,
-    "department":"Classics",
-    "department_code":"GRKM",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/GRKM\/V3998-20271-001\/",
-    "location":null,
-    "method_of_instruction":"In-Person",
-    "open_to":null,
-    "points":"1-4",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":null,
-    "section_key":"20271GRKM3998V001",
-    "type":"RESEARCH SEM"
   },
   {
     "course_code":"HCM_ PS5150",
@@ -92861,7 +93069,7 @@
     "department":"Human Rights (HRTB)",
     "department_code":"HRTS",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/HRTS\/X3935-20271-001\/",
-    "location":null,
+    "location":"119 MILSTEIN CEN",
     "method_of_instruction":null,
     "open_to":null,
     "points":"5",
@@ -100057,7 +100265,7 @@
     "department":"Industrial Engineering and Operations Research",
     "department_code":"IEOR",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/IEOR\/E4570-20271-002\/",
-    "location":"616 Martin Luther King Building",
+    "location":"616 Martin Luther King Building, Wednesday 9:00am-11:30am",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Engineering:Graduate"
@@ -102752,8 +102960,8 @@
     "course_title":"International Capital Markets",
     "course_descr":"This course provides a practical introduction to international capital markets, examining how financial institutions, investors, and intermediaries allocate capital globally. Topics include money markets, interest rates and yield curves, bonds, corporate and sovereign credit, foreign exchange, derivatives, equity markets, structured finance, and investment management. Students will explore financial instruments and risk management strategies, including swaps, futures, options, and credit default swaps, while examining the role of central banks, financial regulation, and global economic developments. Through real-world examples and case studies, the course emphasizes how capital markets operate in practice, how financial risks are assessed and managed, and the lessons of past financial crises.",
     "instructor":null,
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"7:10pm",
+    "scheduled_time_end":"9:00pm",
     "call_number":"16962",
     "campus":null,
     "class_id":"U7045-20271-R01",
@@ -102761,7 +102969,7 @@
     "department":"International Finance & Economic Policy",
     "department_code":"IFEP",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/IFEP\/U7045-20271-R01\/",
-    "location":null,
+    "location":"410 International Affairs Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "SIPA"
@@ -102770,7 +102978,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"T",
     "section_key":"20271IFEP7045UR01",
     "type":"LECTURE"
   },
@@ -102925,7 +103133,7 @@
     "department":"International Finance & Economic Policy",
     "department_code":"IFEP",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/IFEP\/U7200-20271-R01\/",
-    "location":"404 International Affairs Building",
+    "location":"403 International Affairs Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "SIPA"
@@ -103120,7 +103328,7 @@
     "department":"International Finance & Economic Policy",
     "department_code":"IFEP",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/IFEP\/U7301-20271-R02\/",
-    "location":"405 International Affairs Building",
+    "location":"403 International Affairs Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "SIPA"
@@ -105746,7 +105954,7 @@
     "department":"International Security & Diplomacy",
     "department_code":"ISDI",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ISDI\/U7664-20271-001\/",
-    "location":null,
+    "location":"409 International Affairs Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "SIPA"
@@ -105810,7 +106018,7 @@
     "department":"International Security & Diplomacy",
     "department_code":"ISDI",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ISDI\/U7710-20271-001\/",
-    "location":null,
+    "location":"403 International Affairs Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "SIPA"
@@ -105891,7 +106099,7 @@
     "department":"International Security & Diplomacy",
     "department_code":"ISDI",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ISDI\/U7830-20271-001\/",
-    "location":null,
+    "location":"402B International Affairs Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "SIPA"
@@ -105999,7 +106207,7 @@
     "department":"International Security & Diplomacy",
     "department_code":"ISDI",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ISDI\/U7902-20271-001\/",
-    "location":null,
+    "location":"1201 International Affairs Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "SIPA"
@@ -116759,7 +116967,7 @@
     "department":"MPA in Global Leadership",
     "department_code":"LEAD",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/LEAD\/U6102-20271-001\/",
-    "location":null,
+    "location":"407 International Affairs Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "SIPA"
@@ -116786,7 +116994,7 @@
     "department":"MPA in Global Leadership",
     "department_code":"LEAD",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/LEAD\/U7150-20271-001\/",
-    "location":null,
+    "location":"402B International Affairs Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "SIPA"
@@ -134511,6 +134719,106 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"NURS N6307",
+    "course_title":"Nursing Practice with Childbearing Famil",
+    "course_descr":null,
+    "instructor":"Candice Smith",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17147",
+    "campus":null,
+    "class_id":"N6307-20271-003",
+    "course_subtitle":"NURSING PRAC-CHILDBEARING",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N6307-20271-003\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"2",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271NURS6307N003",
+    "type":"CLINIC"
+  },
+  {
+    "course_code":"NURS N6307",
+    "course_title":"Nursing Practice with Childbearing Famil",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17154",
+    "campus":null,
+    "class_id":"N6307-20271-002",
+    "course_subtitle":"NURSING PRAC-CHILDBEARING",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N6307-20271-002\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"2",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271NURS6307N002",
+    "type":"CLINIC"
+  },
+  {
+    "course_code":"NURS N6308",
+    "course_title":"Science of Nursing Practice with Childre",
+    "course_descr":null,
+    "instructor":"Jeanne N Churchill",
+    "scheduled_time_start":"8:00am",
+    "scheduled_time_end":"12:50pm",
+    "call_number":"17148",
+    "campus":null,
+    "class_id":"N6308-20271-004",
+    "course_subtitle":"SCI-NURSING PRAC WITH CHI",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N6308-20271-004\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MF",
+    "section_key":"20271NURS6308N004",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"NURS N6308",
+    "course_title":"Science of Nursing Practice with Childre",
+    "course_descr":null,
+    "instructor":"Jeanne N Churchill",
+    "scheduled_time_start":"8:00am",
+    "scheduled_time_end":"12:50pm",
+    "call_number":"17155",
+    "campus":null,
+    "class_id":"N6308-20271-003",
+    "course_subtitle":"SCI-NURSING PRAC WITH CHI",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N6308-20271-003\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MF",
+    "section_key":"20271NURS6308N003",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"NURS N6309",
     "course_title":"Nursing Practice with Children",
     "course_descr":"This course provides students with clinical experience to demonstrate skills and patient-centered care. Students will integrate biopsychosocial, epidemiological, behavioral, and nursing sciences with critical thinking and clinical reasoning to plan, implement, and evaluate evidence-based, quality care of the well child, and children, families, and populations experiencing health problems.",
@@ -134561,6 +134869,156 @@
     "type":"CLINIC"
   },
   {
+    "course_code":"NURS N6320",
+    "course_title":"Sci. of Nursing Practice with Adults I",
+    "course_descr":null,
+    "instructor":"Laura J Graafland",
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"12:50pm",
+    "call_number":"17150",
+    "campus":null,
+    "class_id":"N6320-20271-005",
+    "course_subtitle":"SCI OF NUR PRAC W ADULTS",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N6320-20271-005\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MF",
+    "section_key":"20271NURS6320N005",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"NURS N6320",
+    "course_title":"Sci. of Nursing Practice with Adults I",
+    "course_descr":null,
+    "instructor":"Laura J Graafland",
+    "scheduled_time_start":"8:00am",
+    "scheduled_time_end":"12:50pm",
+    "call_number":"17156",
+    "campus":null,
+    "class_id":"N6320-20271-004",
+    "course_subtitle":"SCI OF NUR PRAC W ADULTS",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N6320-20271-004\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MF",
+    "section_key":"20271NURS6320N004",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"NURS N6321",
+    "course_title":"Nursing Practice with Adults I",
+    "course_descr":null,
+    "instructor":"Claudia Jacobs",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17151",
+    "campus":null,
+    "class_id":"N6321-20271-005",
+    "course_subtitle":"NURS PRAC WITH ADULTS I",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N6321-20271-005\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"2",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271NURS6321N005",
+    "type":"CLINIC"
+  },
+  {
+    "course_code":"NURS N6321",
+    "course_title":"Nursing Practice with Adults I",
+    "course_descr":null,
+    "instructor":"Claudia Jacobs",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17157",
+    "campus":null,
+    "class_id":"N6321-20271-004",
+    "course_subtitle":"NURS PRAC WITH ADULTS I",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N6321-20271-004\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"2",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271NURS6321N004",
+    "type":"CLINIC"
+  },
+  {
+    "course_code":"NURS N6322",
+    "course_title":"Sci. of Nursing Practice with Adults II",
+    "course_descr":null,
+    "instructor":"Michelle Mezzoiuso",
+    "scheduled_time_start":"8:00am",
+    "scheduled_time_end":"12:50pm",
+    "call_number":"17145",
+    "campus":null,
+    "class_id":"N6322-20271-002",
+    "course_subtitle":"SCI NUR PRAC W ADULTS II",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N6322-20271-002\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MF",
+    "section_key":"20271NURS6322N002",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"NURS N6322",
+    "course_title":"Sci. of Nursing Practice with Adults II",
+    "course_descr":null,
+    "instructor":"Michelle Mezzoiuso",
+    "scheduled_time_start":"8:00am",
+    "scheduled_time_end":"12:50pm",
+    "call_number":"17152",
+    "campus":null,
+    "class_id":"N6322-20271-001",
+    "course_subtitle":"SCI NUR PRAC W ADULTS II",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N6322-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MF",
+    "section_key":"20271NURS6322N001",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"NURS N6323",
     "course_title":"Nursing Practice with Adults II",
     "course_descr":null,
@@ -134583,6 +135041,31 @@
     ],
     "scheduled_days":null,
     "section_key":"20271NURS6323N001",
+    "type":"CLINIC"
+  },
+  {
+    "course_code":"NURS N6323",
+    "course_title":"Nursing Practice with Adults II",
+    "course_descr":null,
+    "instructor":"Claudia Jacobs",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17146",
+    "campus":null,
+    "class_id":"N6323-20271-002",
+    "course_subtitle":"NURS PRACT WITH ADULTS II",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N6323-20271-002\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"2",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271NURS6323N002",
     "type":"CLINIC"
   },
   {
@@ -137156,7 +137639,7 @@
     "department":"MPA IN ECON POLICY MANAGEMENT",
     "department_code":"PEPM",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/PEPM\/U4051-20271-001\/",
-    "location":null,
+    "location":"407 International Affairs Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "SIPA"
@@ -137183,7 +137666,7 @@
     "department":"MPA IN ECON POLICY MANAGEMENT",
     "department_code":"PEPM",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/PEPM\/U6640-20271-001\/",
-    "location":null,
+    "location":"405 International Affairs Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "SIPA"
@@ -137237,7 +137720,7 @@
     "department":"MPA IN ECON POLICY MANAGEMENT",
     "department_code":"PEPM",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/PEPM\/U6650-20271-001\/",
-    "location":null,
+    "location":"405 International Affairs Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "SIPA"
@@ -137289,7 +137772,7 @@
     "department":"MPA IN ECON POLICY MANAGEMENT",
     "department_code":"PEPM",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/PEPM\/U8250-20271-R01\/",
-    "location":null,
+    "location":"501A International Affairs Building",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"0",
@@ -152010,7 +152493,7 @@
     "call_number":"15273",
     "campus":null,
     "class_id":"P8624-20271-001",
-    "course_subtitle":"LAB:SURVEY DSGN & DATA CO",
+    "course_subtitle":"SURVEY DSGN & DATA COLLEC",
     "department":"Population and Family Health",
     "department_code":"POPF",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/POPF\/P8624-20271-001\/",
@@ -152043,7 +152526,7 @@
     "call_number":"15274",
     "campus":null,
     "class_id":"P8624-20271-002",
-    "course_subtitle":"LAB:SURVEY DSGN & DATA CO",
+    "course_subtitle":"SURVEY DSGN & DATA COLLEC",
     "department":"Population and Family Health",
     "department_code":"POPF",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/POPF\/P8624-20271-002\/",
@@ -152076,7 +152559,7 @@
     "call_number":"15275",
     "campus":null,
     "class_id":"P8624-20271-003",
-    "course_subtitle":"LAB:SURVEY DSGN & DATA CO",
+    "course_subtitle":"SURVEY DSGN & DATA COLLEC",
     "department":"Population and Family Health",
     "department_code":"POPF",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/POPF\/P8624-20271-003\/",
@@ -152109,7 +152592,7 @@
     "call_number":"15276",
     "campus":null,
     "class_id":"P8624-20271-004",
-    "course_subtitle":"LAB:SURVEY DSGN & DATA CO",
+    "course_subtitle":"SURVEY DSGN & DATA COLLEC",
     "department":"Population and Family Health",
     "department_code":"POPF",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/POPF\/P8624-20271-004\/",
@@ -159694,7 +160177,7 @@
     "department":"International and Public Affairs",
     "department_code":"REGN",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/REGN\/U6149-20271-001\/",
-    "location":null,
+    "location":"1201 International Affairs Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Architecture",
@@ -159768,7 +160251,7 @@
     "department":"International and Public Affairs",
     "department_code":"REGN",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/REGN\/U6310-20271-001\/",
-    "location":null,
+    "location":"409 International Affairs Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Architecture",
@@ -159842,7 +160325,7 @@
     "department":"International and Public Affairs",
     "department_code":"REGN",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/REGN\/U6538-20271-001\/",
-    "location":null,
+    "location":"1219 International Affairs Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Architecture",
@@ -159953,7 +160436,7 @@
     "department":"International and Public Affairs",
     "department_code":"REGN",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/REGN\/U6562-20271-001\/",
-    "location":null,
+    "location":"1201 International Affairs Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Architecture",
@@ -159990,7 +160473,7 @@
     "department":"International and Public Affairs",
     "department_code":"REGN",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/REGN\/U6654-20271-001\/",
-    "location":null,
+    "location":"501 International Affairs Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Architecture",
@@ -160027,7 +160510,7 @@
     "department":"International and Public Affairs",
     "department_code":"REGN",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/REGN\/U6875-20271-001\/",
-    "location":null,
+    "location":"501 International Affairs Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Architecture",
@@ -160101,7 +160584,7 @@
     "department":"International and Public Affairs",
     "department_code":"REGN",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/REGN\/U6302-20271-001\/",
-    "location":null,
+    "location":"409 International Affairs Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Architecture",
@@ -160138,7 +160621,7 @@
     "department":"International and Public Affairs",
     "department_code":"REGN",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/REGN\/U6312-20271-001\/",
-    "location":null,
+    "location":"402 International Affairs Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Architecture",
@@ -160175,7 +160658,7 @@
     "department":"International and Public Affairs",
     "department_code":"REGN",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/REGN\/U6552-20271-001\/",
-    "location":null,
+    "location":"1201 International Affairs Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Architecture",
@@ -164821,7 +165304,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":"SU",
+    "scheduled_days":"U",
     "section_key":"20271SIPA0410U001",
     "type":"LABORATORY"
   },
@@ -164839,7 +165322,7 @@
     "department":"International and Public Affairs",
     "department_code":"SIPA",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U0411-20271-001\/",
-    "location":null,
+    "location":"510A International Affairs Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "SIPA"
@@ -164920,7 +165403,7 @@
     "department":"International and Public Affairs",
     "department_code":"SIPA",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U6000-20271-001\/",
-    "location":null,
+    "location":"410 International Affairs Building, Wednesday 7:10pm-9:00pm 411 International Affairs Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "SIPA"
@@ -164938,8 +165421,8 @@
     "course_title":"Leadership in Action",
     "course_descr":"MIA & MPA Leadership and Management I Core.\u00a0\nLeadership in Action \nintegrates strategic leadership frameworks, real-world case studies, and an immersive multi-week simulation to build students\u2019 capacity to lead in complex, high-stakes environments. Through a sequence of applied exercises, ranging from team formation and innovation design to crisis response, students will develop critical skills in decision-making, influence, and organizational change. The course emphasizes adaptive leadership, cross-sector collaboration, and ethical judgment, equipping students to lead effectively under conditions of uncertainty and pressure.",
     "instructor":"Gary Bagley",
-    "scheduled_time_start":"7:10pm",
-    "scheduled_time_end":"8:15pm",
+    "scheduled_time_start":"3:10pm",
+    "scheduled_time_end":"5:00pm",
     "call_number":"10544",
     "campus":null,
     "class_id":"U6000-20271-002",
@@ -164947,7 +165430,7 @@
     "department":"International and Public Affairs",
     "department_code":"SIPA",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U6000-20271-002\/",
-    "location":"411 International Affairs Building, Thursday 3:10pm-5:00pm",
+    "location":"407 International Affairs Building, Thursday 5:10pm-7:00pm 405 International Affairs Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "SIPA"
@@ -164956,7 +165439,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":"W",
+    "scheduled_days":"R",
     "section_key":"20271SIPA6000U002",
     "type":"LECTURE"
   },
@@ -164974,7 +165457,7 @@
     "department":"International and Public Affairs",
     "department_code":"SIPA",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U6000-20271-003\/",
-    "location":null,
+    "location":"413 International Affairs Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "SIPA"
@@ -165001,7 +165484,7 @@
     "department":"International and Public Affairs",
     "department_code":"SIPA",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U6000-20271-004\/",
-    "location":null,
+    "location":"413 International Affairs Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "SIPA"
@@ -165010,7 +165493,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":"T",
+    "scheduled_days":"TW",
     "section_key":"20271SIPA6000U004",
     "type":"LECTURE"
   },
@@ -165019,8 +165502,8 @@
     "course_title":"Leadership in Action",
     "course_descr":"MIA & MPA Leadership and Management I Core.\u00a0\nLeadership in Action \nintegrates strategic leadership frameworks, real-world case studies, and an immersive multi-week simulation to build students\u2019 capacity to lead in complex, high-stakes environments. Through a sequence of applied exercises, ranging from team formation and innovation design to crisis response, students will develop critical skills in decision-making, influence, and organizational change. The course emphasizes adaptive leadership, cross-sector collaboration, and ethical judgment, equipping students to lead effectively under conditions of uncertainty and pressure.",
     "instructor":"Teemu Alexander Puutio",
-    "scheduled_time_start":"10:00am",
-    "scheduled_time_end":"11:50am",
+    "scheduled_time_start":"3:10pm",
+    "scheduled_time_end":"5:00pm",
     "call_number":"10547",
     "campus":null,
     "class_id":"U6000-20271-005",
@@ -165028,7 +165511,7 @@
     "department":"International and Public Affairs",
     "department_code":"SIPA",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U6000-20271-005\/",
-    "location":null,
+    "location":"404 International Affairs Building, Thursday 10:00am-11:50am 403 International Affairs Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "SIPA"
@@ -165037,7 +165520,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":"R",
+    "scheduled_days":"W",
     "section_key":"20271SIPA6000U005",
     "type":"LECTURE"
   },
@@ -165055,7 +165538,7 @@
     "department":"International and Public Affairs",
     "department_code":"SIPA",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U6000-20271-006\/",
-    "location":null,
+    "location":"405 International Affairs Building, Wednesday 3:10pm-5:00pm 407 International Affairs Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "SIPA"
@@ -165064,7 +165547,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":"W",
+    "scheduled_days":"M",
     "section_key":"20271SIPA6000U006",
     "type":"LECTURE"
   },
@@ -165082,7 +165565,7 @@
     "department":"International and Public Affairs",
     "department_code":"SIPA",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U6000-20271-007\/",
-    "location":null,
+    "location":"407 International Affairs Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "SIPA"
@@ -165109,7 +165592,7 @@
     "department":"International and Public Affairs",
     "department_code":"SIPA",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U6004-20271-001\/",
-    "location":null,
+    "location":"403 International Affairs Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "SIPA"
@@ -165136,7 +165619,7 @@
     "department":"International and Public Affairs",
     "department_code":"SIPA",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U6005-20271-001\/",
-    "location":null,
+    "location":"413 International Affairs Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "SIPA"
@@ -165244,7 +165727,7 @@
     "department":"International and Public Affairs",
     "department_code":"SIPA",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U6009-20271-001\/",
-    "location":null,
+    "location":"407 International Affairs Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "SIPA"
@@ -165262,8 +165745,8 @@
     "course_title":"Persuasion and Applied Negotiation Skill",
     "course_descr":"MIA & MPA Leadership and Management II Core.\u00a0\nThis course is an interactive, practice-focused experience designed to equip students with skills and confidence in negotiation and persuasion across public and private sector contexts. Drawing on negotiation psychology, best practices, and evidence-based approaches, the course will develop students\u2019 ability to navigate complex interpersonal and multilateral dynamics.\n  \nThrough simulations, roleplays, and real-world case studies, students will learn to apply integrative and distributive negotiation methods, build strong positions and alternatives, and manage collective bargaining, mediation, arbitration, and asymmetric power dynamics.\n  \nCourse topics include negotiation theory, stakeholder analysis, multilateral and cross-cultural negotiation, and solution-driven communication. Students will develop the ability to assess power dynamics, leverage personal strengths, and contribute effectively in multi-stakeholder settings.",
     "instructor":null,
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"5:10pm",
+    "scheduled_time_end":"7:00pm",
     "call_number":"16972",
     "campus":null,
     "class_id":"U6009-20271-R01",
@@ -165271,7 +165754,7 @@
     "department":"International and Public Affairs",
     "department_code":"SIPA",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U6009-20271-R01\/",
-    "location":null,
+    "location":"411 International Affairs Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "SIPA"
@@ -165280,7 +165763,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"T",
     "section_key":"20271SIPA6009UR01",
     "type":"LECTURE"
   },
@@ -165298,7 +165781,7 @@
     "department":"International and Public Affairs",
     "department_code":"SIPA",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U6010-20271-001\/",
-    "location":null,
+    "location":"405 International Affairs Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "SIPA"
@@ -165325,7 +165808,7 @@
     "department":"International and Public Affairs",
     "department_code":"SIPA",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U6011-20271-001\/",
-    "location":null,
+    "location":"410 International Affairs Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "SIPA"
@@ -165379,7 +165862,7 @@
     "department":"International and Public Affairs",
     "department_code":"SIPA",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U6012-20271-001\/",
-    "location":null,
+    "location":"407 International Affairs Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "SIPA"
@@ -165433,7 +165916,7 @@
     "department":"International and Public Affairs",
     "department_code":"SIPA",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U6015-20271-001\/",
-    "location":null,
+    "location":"410 International Affairs Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "SIPA"
@@ -165460,7 +165943,7 @@
     "department":"International and Public Affairs",
     "department_code":"SIPA",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U6018-20271-001\/",
-    "location":null,
+    "location":"407 International Affairs Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "SIPA"
@@ -165514,7 +165997,7 @@
     "department":"International and Public Affairs",
     "department_code":"SIPA",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U6110-20271-001\/",
-    "location":null,
+    "location":"404 International Affairs Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "SIPA"
@@ -165541,7 +166024,7 @@
     "department":"International and Public Affairs",
     "department_code":"SIPA",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U6110-20271-002\/",
-    "location":null,
+    "location":"404 International Affairs Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "SIPA"
@@ -165568,7 +166051,7 @@
     "department":"International and Public Affairs",
     "department_code":"SIPA",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U6120-20271-001\/",
-    "location":null,
+    "location":"413 International Affairs Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "SIPA"
@@ -165595,7 +166078,7 @@
     "department":"International and Public Affairs",
     "department_code":"SIPA",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U6120-20271-002\/",
-    "location":null,
+    "location":"413 International Affairs Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "SIPA"
@@ -165622,7 +166105,7 @@
     "department":"International and Public Affairs",
     "department_code":"SIPA",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U6151-20271-001\/",
-    "location":null,
+    "location":"404 International Affairs Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "SIPA"
@@ -165649,7 +166132,7 @@
     "department":"International and Public Affairs",
     "department_code":"SIPA",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U6151-20271-002\/",
-    "location":null,
+    "location":"404 International Affairs Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "SIPA"
@@ -165910,8 +166393,8 @@
     "course_title":"Foundations of Budgeting",
     "course_descr":"MPA Financial Management I Core.\u00a0\nThis course provides a practical introduction to budgeting as a critical tool for planning, decision-making, and leadership across the public, private, and nonprofit sectors. Students will develop hands-on skills in budget creation, financial analysis, and cash flow management while exploring how budgets shape organizational strategy and operations.",
     "instructor":null,
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"3:10pm",
+    "scheduled_time_end":"5:00pm",
     "call_number":"16977",
     "campus":null,
     "class_id":"U6250-20271-R01",
@@ -165919,7 +166402,7 @@
     "department":"International and Public Affairs",
     "department_code":"SIPA",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U6250-20271-R01\/",
-    "location":null,
+    "location":"411 International Affairs Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "SIPA"
@@ -165928,7 +166411,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"W",
     "section_key":"20271SIPA6250UR01",
     "type":"LECTURE"
   },
@@ -165991,8 +166474,8 @@
     "course_title":"Budgeting & Financial Management for Gov",
     "course_descr":"MPA Financial Management II Core.\u00a0\nThis course introduces students to budgeting and financial management in the public sector, with an emphasis on real-world application and analytical skill development. Drawing on current and historical challenges\u2014including the 2008 financial crisis and the COVID-19 pandemic\u2014students will explore the political, technical, and managerial dimensions of public budgeting in the United States.\u00a0\n  \nTopics include the structure and function of operating and capital budgets, principles of revenue generation, deficit spending, and debt financing. Students will work with actual federal, state, and local budgets, gaining experience in constructing, analyzing, and presenting budgets in a government context. By the end of the course, students will be able to evaluate budget proposals and make data-informed recommendations grounded in public policy goals and financial feasibility.",
     "instructor":null,
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"3:10pm",
+    "scheduled_time_end":"5:00pm",
     "call_number":"16980",
     "campus":null,
     "class_id":"U6252-20271-R01",
@@ -166000,7 +166483,7 @@
     "department":"International and Public Affairs",
     "department_code":"SIPA",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U6252-20271-R01\/",
-    "location":null,
+    "location":"411 International Affairs Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "SIPA"
@@ -166009,7 +166492,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"W",
     "section_key":"20271SIPA6252UR01",
     "type":"LECTURE"
   },
@@ -167056,7 +167539,7 @@
     "department":"International and Public Affairs",
     "department_code":"SIPA",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SIPA\/U6600-20271-003\/",
-    "location":null,
+    "location":"411 International Affairs Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "SIPA"
@@ -179357,7 +179840,7 @@
     "department":"Latin American and Iberian Cultures",
     "department_code":"SPAN",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SPAN\/G6026-20271-001\/",
-    "location":"505 Casa Hisp\u00e1nica",
+    "location":"201 Casa Hisp\u00e1nica",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"4",
@@ -193676,7 +194159,7 @@
     "department":"Urban and Social Policy",
     "department_code":"URSP",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/URSP\/U7602-20271-001\/",
-    "location":null,
+    "location":"404 International Affairs Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "SIPA"
@@ -193703,7 +194186,7 @@
     "department":"Urban and Social Policy",
     "department_code":"URSP",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/URSP\/U7610-20271-001\/",
-    "location":null,
+    "location":"501 International Affairs Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "SIPA"
@@ -193730,7 +194213,7 @@
     "department":"Urban and Social Policy",
     "department_code":"URSP",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/URSP\/U7625-20271-001\/",
-    "location":null,
+    "location":"402B International Affairs Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "SIPA"

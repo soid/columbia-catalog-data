@@ -135666,7 +135666,7 @@
     "course_code":"IKNS PS5351",
     "course_title":"IKNS CAPSTONE",
     "course_descr":"Note: This course is offered both in an online (synchronous) format as well as in an in-person format. Both formats conclude with a multi-day, on-campus\u00a0Residency in December.\u00a0Please refer to the\n Important Dates\n section of the \nCurriculum & Courses page\n for upcoming Residency dates.\n  \nOVERVIEW\n: The IKNS Capstone represents the culmination of learning throughout the IKNS program in which students master business-critical concepts in data, analytics, people, networks, integration, and strategy. Working individually and in small teams, students design and deliver a project for a capstone sponsor seeking IKNS expertise to help solve a real-world problem within the sponsor\u2019s organization. Using what they have learned from across the curriculum, students apply IKNS frameworks and use both qualitative and quantitative research to develop a written business report, oral presentation. and a final product for the sponsor including but not limited to a roadmap, strategic plan, white paper, or minimum viable product (MVP). The Capstone provides a final testing ground for students to apply their learning to real organizational needs and also become familiar with consultative approaches to inspire impact for their Capstone project sponsor.\u00a0\n  \nLOGISTICS:\n Open to IKNS only. Prerequisites: Before embarking on the Capstone course, students must have earned at least 18 credits towards their IKNS degree. At least 12 of these 18 credits must be specifically from required courses.",
-    "instructor":"Blake Dicosola",
+    "instructor":null,
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
     "call_number":"14062",
@@ -241491,8 +241491,8 @@
   },
   {
     "course_code":"STAT GR8201",
-    "course_title":"Theoretical Statistics",
-    "course_descr":".",
+    "course_title":"TOPICS IN THEORETICAL STATISTICS - STAT",
+    "course_descr":"This six-week course provides an introduction to the mathematical and statistical foundations of\u00a0deep learning. It focuses on three central components of the theory: approximation, generalization,\u00a0and optimization.\u00a0The first part studies the expressive power of neural networks and examines how their approximation\n properties depend on network depth, width, activation functions, and structural assumptions on the\u00a0target function. The second part develops statistical risk bounds for neural-network estimators.\u00a0Particular emphasis is placed on the formulation of prediction problems for which neural networks can\u00a0provably exploit compositional, hierarchical, or l ow-dimensional structure. This problem-oriented\u00a0perspective complements approaches that focus primarily on explaining the behavior of a fixed\n architecture.\n  \nThe course further i ntroduces statistical perspectives on generative modeling, including score-based,\u00a0dilusion, and flow-based methods. The final part covers gradient-based optimization, overparameterization, neural tangent kernels, feature learning, and implicit regularization. Throughout the\u00a0course, the connections between approximation, statistical estimation, and optimization will be\u00a0emphasized. The course ends with discussing future research directions.",
     "instructor":"Liam M Paninski",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"3:00pm",
@@ -241514,19 +241514,19 @@
     ],
     "scheduled_days":"R",
     "section_key":"20263STAT8201G001",
-    "type":"COLLOQUIA"
+    "type":"SEMINAR"
   },
   {
     "course_code":"STAT GR8201",
-    "course_title":"Theoretical Statistics",
-    "course_descr":".",
+    "course_title":"TOPICS IN THEORETICAL STATISTICS - STAT",
+    "course_descr":"This six-week course provides an introduction to the mathematical and statistical foundations of\u00a0deep learning. It focuses on three central components of the theory: approximation, generalization,\u00a0and optimization.\u00a0The first part studies the expressive power of neural networks and examines how their approximation\n properties depend on network depth, width, activation functions, and structural assumptions on the\u00a0target function. The second part develops statistical risk bounds for neural-network estimators.\u00a0Particular emphasis is placed on the formulation of prediction problems for which neural networks can\u00a0provably exploit compositional, hierarchical, or l ow-dimensional structure. This problem-oriented\u00a0perspective complements approaches that focus primarily on explaining the behavior of a fixed\n architecture.\n  \nThe course further i ntroduces statistical perspectives on generative modeling, including score-based,\u00a0dilusion, and flow-based methods. The final part covers gradient-based optimization, overparameterization, neural tangent kernels, feature learning, and implicit regularization. Throughout the\u00a0course, the connections between approximation, statistical estimation, and optimization will be\u00a0emphasized. The course ends with discussing future research directions.",
     "instructor":"Sumit Mukherjee",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
     "call_number":"20973",
     "campus":null,
     "class_id":"G8201-20263-002",
-    "course_subtitle":null,
+    "course_subtitle":"Theoretical Statistics",
     "department":"Statistics",
     "department_code":"STAT",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/STAT\/G8201-20263-002\/",
@@ -241543,7 +241543,7 @@
     ],
     "scheduled_days":"F",
     "section_key":"20263STAT8201G002",
-    "type":"COLLOQUIA"
+    "type":"SEMINAR"
   },
   {
     "course_code":"STAT GR9201",
