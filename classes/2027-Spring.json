@@ -2139,15 +2139,15 @@
   },
   {
     "course_code":"AHIS GR5001",
-    "course_title":"CURATORIAL COLLOQUIUM",
-    "course_descr":"The Curatorial Colloquium is taken in the second semester of study and is required for the completion of the M.A. in Modern Art: Critical and Curatorial Studies. The course introduces students to the history, theory and practice of object collection and display as well as to exhibitions such as Documenta and the various international biennials. The course is designed to allow for guest presentations on particular issues by curators and museum professionals, just as it draws on the expertise and participation of Columbia faculty. The aim is to develop students critical thinking and for them to learn directly from leading practitioners in the exhibition and display of modern and contemporary art. In addition to department faculty, curators from MoMA, the Whitney, the International Center for Photography, and other institutions regularly participate in the colloquium.",
+    "course_title":"Curatorial Colloquium",
+    "course_descr":"The Curatorial Colloquium is a required course for first year MODA students. The course introduces students to the history, theory and practice of exhibitions and institutions; histories of curating and recent models of the \u201ccuratorial.\u201d Readings for seminar sessions cover key topics and recent debates, including the emergence of the national museum; ideological critiques of the museum; exhibitions and politics; the shifting nature and roles of exhibitions, and the latter\u2019s relationship to new trends in and mediums of artistic practice. As a colloquium, seminar sessions are supplemented by presentations by guest speakers from the curatorial and museum fields, curatorial walk-throughs and other off-site visits to exhibitions and various programs. Please note: some visits require either extended class time to accommodate travel, or attendance out of regular class hours.\u00a0\nThe Curatorial Colloquium does not permit enrollment from students who are not in the MODA program.",
     "instructor":"Janet L Kraynak",
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:00pm",
     "call_number":"14104",
     "campus":null,
     "class_id":"G5001-20271-001",
-    "course_subtitle":null,
+    "course_subtitle":"CURATORIAL COLLOQUIUM",
     "department":"Art History and Archaeology",
     "department_code":"AHIS",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/AHIS\/G5001-20271-001\/",
@@ -26557,7 +26557,7 @@
     "department":"Business Economics",
     "department_code":"BUEC",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/BUEC\/B8265-20271-001\/",
-    "location":"120 GEFFEN HALL",
+    "location":"620 GEFFEN HALL",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Business"
@@ -40956,6 +40956,31 @@
     "type":"INDEPENDENT"
   },
   {
+    "course_code":"CMBS G4010",
+    "course_title":"RESP COND OF RES\/REL PLCY ISSU",
+    "course_descr":null,
+    "instructor":"Arthur Palmer",
+    "scheduled_time_start":"1:00pm",
+    "scheduled_time_end":"2:00pm",
+    "call_number":"17189",
+    "campus":null,
+    "class_id":"G4010-20271-001",
+    "course_subtitle":"RESP COND OF RES\/REL PLCY",
+    "department":"Cellular, Molecular, and Biophysical Studies",
+    "department_code":"CMBS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CMBS\/G4010-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"F",
+    "section_key":"20271CMBS4010G001",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"CMBS G9202",
     "course_title":"SEMINARS IN CMBS II",
     "course_descr":null,
@@ -50798,7 +50823,7 @@
   },
   {
     "course_code":"DROM B8162",
-    "course_title":"AI Solutions: From Diagnostics to Deploy",
+    "course_title":"AI Deployment: From Feasibility to ROI",
     "course_descr":null,
     "instructor":null,
     "scheduled_time_start":"9:00am",
@@ -77166,9 +77191,7 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/FILM\/R5410-20271-001\/",
     "location":"504 Dodge Hall",
     "method_of_instruction":"In-Person",
-    "open_to":[
-      "Schools of the Arts"
-    ],
+    "open_to":null,
     "points":"1.5",
     "prerequisites":[
 
@@ -77193,9 +77216,7 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/FILM\/R5410-20271-002\/",
     "location":"504 Dodge Hall",
     "method_of_instruction":"In-Person",
-    "open_to":[
-      "Schools of the Arts"
-    ],
+    "open_to":null,
     "points":"1.5",
     "prerequisites":[
 
@@ -77210,7 +77231,7 @@
     "course_descr":null,
     "instructor":"Maureen A Ryan",
     "scheduled_time_start":"1:00pm",
-    "scheduled_time_end":"3:30pm",
+    "scheduled_time_end":"3:00pm",
     "call_number":"12787",
     "campus":null,
     "class_id":"R5410-20271-003",
@@ -77940,6 +77961,60 @@
     "scheduled_days":"R",
     "section_key":"20271FILM6940G001",
     "type":"SEMINAR"
+  },
+  {
+    "course_code":"FILM AF8100",
+    "course_title":"ADVANCED EDITING WORKSHOP",
+    "course_descr":null,
+    "instructor":"Elizabeth Kling",
+    "scheduled_time_start":"6:00pm",
+    "scheduled_time_end":"9:00pm",
+    "call_number":"17190",
+    "campus":null,
+    "class_id":"R8100-20271-001",
+    "course_subtitle":null,
+    "department":"Film",
+    "department_code":"FILM",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FILM\/R8100-20271-001\/",
+    "location":"511 Dodge Hall",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Schools of the Arts"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20271FILM8100R001",
+    "type":"WORKSHOP"
+  },
+  {
+    "course_code":"FILM AF8100",
+    "course_title":"ADVANCED EDITING WORKSHOP",
+    "course_descr":null,
+    "instructor":"Elizabeth Kling",
+    "scheduled_time_start":"10:00am",
+    "scheduled_time_end":"1:00pm",
+    "call_number":"17191",
+    "campus":null,
+    "class_id":"R8100-20271-002",
+    "course_subtitle":null,
+    "department":"Film",
+    "department_code":"FILM",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FILM\/R8100-20271-002\/",
+    "location":"511 Dodge Hall",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Schools of the Arts"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"F",
+    "section_key":"20271FILM8100R002",
+    "type":"WORKSHOP"
   },
   {
     "course_code":"FILM AF8110",
@@ -82800,7 +82875,7 @@
     "department":"Finance",
     "department_code":"FINC",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/FINC\/B9330-20271-001\/",
-    "location":"670 Kravis Hall",
+    "location":"620 GEFFEN HALL",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Architecture",
@@ -82860,7 +82935,7 @@
     "course_code":"FINC B9334",
     "course_title":"Big Data In Finance",
     "course_descr":null,
-    "instructor":null,
+    "instructor":"Kirsten R Burr",
     "scheduled_time_start":"9:00am",
     "scheduled_time_end":"12:15pm",
     "call_number":"15517",
@@ -105922,7 +105997,7 @@
     "department":"International Security & Diplomacy",
     "department_code":"ISDI",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ISDI\/U7500-20271-001\/",
-    "location":"402 International Affairs Building",
+    "location":"324 International Affairs Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "SIPA"
@@ -106003,7 +106078,7 @@
     "department":"International Security & Diplomacy",
     "department_code":"ISDI",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ISDI\/U7510-20271-001\/",
-    "location":"1302 International Affairs Building",
+    "location":"324 International Affairs Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "SIPA"
@@ -149758,8 +149833,8 @@
     "course_title":"Project Management Fundamentals: Analyti",
     "course_descr":"This core course introduces students to the quantitative, and analytical foundations of project management, with emphasis on the application of mathematical, and systems-based methods to the planning, execution, and control of complex projects. The course is designed for projects in quantitatively intensive environments such as engineering, technology, construction, consulting, and related sectors where structured planning, measurement, and optimization are essential. Students develop practical skills in project selection and initiation, scope definition, network-based scheduling, resource allocation, cost and budget modeling, and performance measurement using established analytical techniques. Core topics include work breakdown structures, logic networks, critical path and PERT analysis, resource loading and leveling, financial and life-cycle cost analysis, earned value management, and probabilistic risk assessment, including Monte Carlo-based uncertainty analysis. Through computational exercises, analytical simulations, and applied projects, students learn to model constraints, evaluate trade-offs, and interpret performance data to support decision-making throughout the project life cycle. By emphasizing structured methodologies and analytical rigor, the course prepares students to manage technically complex, data-rich projects across a range of industries. \u200bThis course is 3 credits and runs for 14 weeks (Spring). Weekly class meetings are 110 minutes per week for 14 weeks, for a total of 1,540 minutes. The course includes 2,250 total minutes (37.5 hours) of instructional time for the entire term, distributed across the required components: Weekly Class Meeting 110 min x 14 = 1,540 min; Required Instructor Meeting 75 min x 8 = 600 min; Final Exam\/Project Presentations110 min x 1 = 110 min; TOTAL = 2,250 min (for entire semester).",
     "instructor":"Evangelia Ieronymaki",
-    "scheduled_time_start":"4:10pm",
-    "scheduled_time_end":"6:00pm",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
     "call_number":"13998",
     "campus":null,
     "class_id":"K5105-20271-001",
@@ -149767,7 +149842,7 @@
     "department":"Project Management",
     "department_code":"PMGT",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/PMGT\/K5105-20271-001\/",
-    "location":"606 Martin Luther King Building",
+    "location":null,
     "method_of_instruction":"In-Person",
     "open_to":[
       "Professional Studies"
@@ -149785,8 +149860,8 @@
     "course_title":"Project Planning, Scheduling and Control",
     "course_descr":"This course provides graduate students with an in-depth exploration of project controls and schedule-based decision support with the project schedule treated as a management and control model rather than as a technical output. The course emphasizes deterministic and analytical modeling methods, including Critical Path Method (CPM), network-based optimization, schedule performance metrics, earned value analytics, and quantitative forecasting techniques, positioning the project schedule as a formal analytical model rather than a descriptive artifact. Primavera is used as an implementation and analysis tool to support schedule development, updating, performance measurement, and forecasting across diverse industries. The course equips students with the analytical, technical, and control-oriented skills, methodologies, and frameworks needed to manage projects effectively, ensuring completion on time, within budget, and according to specifications. Through a combination of standards-based analysis, software application, case studies, and practical assignments, students will develop the ability to build, baseline, update, interpret, and communicate schedules to monitor performance through KPIs, evaluate progress, and make informed decisions across the project lifecycle. Throughout the course, students are required to interpret what the schedule communicates to management, including the meaning of variances, implications of forecasts, and recommended corrective actions, rather than solely producing technical files or reports. Designed for students pursuing advanced studies in project management, engineering management, construction management, and related professional tracks, this course is particularly valuable for those seeking careers that require deep expertise in planning, scheduling, and project controls. Emphasis is placed on developing mastery of schedule development, critical path analysis, resource and cost loading, progress measurement, forecasting, and schedule risk and change analysis as a component of an integrated project controls function, using industry-standard tools and methods. Building on foundational project management concepts, the course provides specialized training in schedule-centric project controls and equips students with the analytical, technical, and communication skills needed to design, manage, analyze, and govern complex project schedules as decision-support instruments across diverse industries.This course prepares students for professional roles such as project controls analyst, sch",
     "instructor":"Sadia I Janjua",
-    "scheduled_time_start":"4:10pm",
-    "scheduled_time_end":"6:00pm",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
     "call_number":"13969",
     "campus":null,
     "class_id":"K5110-20271-001",
@@ -149794,7 +149869,7 @@
     "department":"Project Management",
     "department_code":"PMGT",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/PMGT\/K5110-20271-001\/",
-    "location":"602 Northwest Corner Building",
+    "location":"303 Hamilton Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Professional Studies"
@@ -149866,8 +149941,8 @@
     "course_title":"Technology Integration in Project Manage",
     "course_descr":"Technology Integration in Project Management explores the real-world adoption of digital transformation within complex project environments, moving beyond theoretical frameworks to provide a fully immersive and experiential learning environment. The course is uniquely structured as Scrum sprints, where students operate within standard agile events, roles, and artifacts to analyze and compare industry-leading Project Management Information Systems (PMIS). We will also explore waterfall and\/or hybrid approaches throughout the course. Students will gain hands-on proficiency in platforms such as Jira, Asana, Smartsheet, and Trello, while simultaneously integrating data analytics tools like Power BI to monitor performance and enhance decision-making accuracy in Project, Program and Portfolio Management. As an elective within the Master of Science in Project Management program, this course is designed for practitioners who wish to lead digitally driven organizations with efficiency and innovation. It serves a critical programmatic goal by bridging the gap between foundational project management methodologies and the high-tech execution required in the modern workforce. Another distinctive feature of this course is the mandatory and continuous evaluation of Artificial Intelligence (AI) technologies; students are required to leverage generative AI and automation tools to streamline project delivery, simulating the real-world evolution of value delivery. The course is a three-credit, full-semester elective delivered in an \nin-person modality. While tailored for Project Management students, it is open to cross-registrants from other Columbia University graduate programs, provided space is available. There are no formal prerequisites; however, students are expected to have a basic understanding of project lifecycles and a willingness to engage in an open and collaborative environment where rapid and iterative technical learning occurs. All technology platforms required for the sprint cycles will be accessible through university licenses or open-access academic versions. \u200bThis course is 3 credits and runs for 14 weeks (Spring). Weekly class meetings are 110 minutes per week for 14 weeks, for a total of 1,540 minutes. The course includes 2,250 total minutes (37.5 hours) of instructional time for the entire term, distributed across the required components: Weekly Class Meeting 110 min x 14 = 1,540 min; Required Instructor Meeting 75 min x 8 = 600 min; Final Exam\/Project Presentations110 min x 1 = 110 min; TOTAL = 2,",
     "instructor":"Stephen Cognetta",
-    "scheduled_time_start":"4:10pm",
-    "scheduled_time_end":"6:00pm",
+    "scheduled_time_start":"6:10pm",
+    "scheduled_time_end":"8:00pm",
     "call_number":"14005",
     "campus":null,
     "class_id":"K5115-20271-002",
@@ -149875,7 +149950,7 @@
     "department":"Project Management",
     "department_code":"PMGT",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/PMGT\/K5115-20271-002\/",
-    "location":"606 Martin Luther King Building",
+    "location":"420 Pupin Laboratories",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Professional Studies"
@@ -149884,7 +149959,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":"R",
+    "scheduled_days":"M",
     "section_key":"20271PMGT5115K002",
     "type":"SEMINAR"
   },
@@ -149944,7 +150019,7 @@
   },
   {
     "course_code":"PMGT PS5556",
-    "course_title":"Internship Experience 1 - APAN",
+    "course_title":"Internship Experience 1 - PMGT",
     "course_descr":null,
     "instructor":"Jia Wei Cao",
     "scheduled_time_start":null,
@@ -156620,7 +156695,15 @@
     "location":"212A Lewisohn Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "GSAS"
+      "Columbia College",
+      "Engineering:Graduate",
+      "Engineering:Undergraduate",
+      "GSAS",
+      "General Studies",
+      "Global Programs",
+      "Professional Studies",
+      "SIPA",
+      "Schools of the Arts"
     ],
     "points":"4",
     "prerequisites":[
