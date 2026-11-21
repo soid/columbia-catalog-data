@@ -851,7 +851,7 @@
   {
     "course_code":"ACTU PS5995",
     "course_title":"Internship in Industry - ACTU",
-    "course_descr":null,
+    "course_descr":"This asynchronous, 3-credit elective provides an immersive, supervised professional internship experience paired with structured reflection and applied academic work. Students integrate theory with practice while assessing organizational culture, ethical decision-making, feedback practices, and professional competencies. Through guided analysis and reflective assignments, students deepen self-awareness, strengthen career readiness, and clarify how their internship experience shapes future professional goals.\nSupervised internship work (Category B) 210 total hours for the semester = 12,600 min; Pre-recorded course videos on Canvas with tracked completion (Category D) 20 min x 12 = 240 min; Monitored online discussion board on Canvas with instructor feedback (Category C) 30 min x 12 = 360 min; TOTAL = 13,200 min (for entire semester)",
     "instructor":"Sabrina Bellina",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -9695,7 +9695,7 @@
   {
     "course_code":"APAN PS5556",
     "course_title":"Internship Experience 1 - APAN",
-    "course_descr":null,
+    "course_descr":"This asynchronous, 1.5-credit elective integrates a supervised professional internship with structured reflection and applied coursework to help students connect academic learning to real-world practice. Through career design, goal setting, and reflective exercises, students clarify professional interests, build adaptability, and articulate the impact of their internship on future career pathways.\nSupervised internship work (Category B) 105 total hours for the semester = 6,300 min; Pre-recorded course videos on Canvas with tracked completion (Category D) 20 min x 7 = 140 min; Monitored online discussion board on Canvas with instructor feedback (Category C) 30 min x 7 = 210 min; TOTAL = 6,650 min (for entire semester)",
     "instructor":"Jia Wei Cao",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -10530,7 +10530,7 @@
   {
     "course_code":"APAN PS5995",
     "course_title":"Internship in Industry - APAN",
-    "course_descr":null,
+    "course_descr":"This asynchronous, 3-credit elective provides an immersive, supervised professional internship experience paired with structured reflection and applied academic work. Students integrate theory with practice while assessing organizational culture, ethical decision-making, feedback practices, and professional competencies. Through guided analysis and reflective assignments, students deepen self-awareness, strengthen career readiness, and clarify how their internship experience shapes future professional goals.\nSupervised internship work (Category B) 210 total hours for the semester = 12,600 min; Pre-recorded course videos on Canvas with tracked completion (Category D) 20 min x 12 = 240 min; Monitored online discussion board on Canvas with instructor feedback (Category C) 30 min x 12 = 360 min; TOTAL = 13,200 min (for entire semester)",
     "instructor":"Sabrina Bellina",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -20686,7 +20686,7 @@
   {
     "course_code":"BIOL UN2600",
     "course_title":"Introductory Independent Biological Rese",
-    "course_descr":null,
+    "course_descr":"Introductory Independent Biological Research is an opportunity for full-time undergraduates in the College, SEAS and GS interested in laboratory research to share in the work of an ongoing research program in our Department or in a comparable laboratory elsewhere in the university. Projects should address a specific biological problem. Clinical projects are not allowed. While most projects are laboratory-based, computational projects that address specific biological issues are allowed. This course differs from UN3500 in that it does not have prerequisites, does not require attendance at recitations, is graded P-D-F, and is graded solely by the sponsoring lab head. Course requirements listed on course website:\u00a0\nhttps:\/\/biology.columbia.edu\/content\/biol-un2600-introductory-independent-biological-research",
     "instructor":"Ron M Prywes",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -20702,7 +20702,9 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "UN3500"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20271BIOL2600W001",
@@ -21542,7 +21544,7 @@
   {
     "course_code":"BIST P8158",
     "course_title":"Latent Variable and Structural Equation",
-    "course_descr":null,
+    "course_descr":"This course is designed for those students (or any researchers) who want to gain a significant familiarity with a collection of statistical techniques that target the measurement of latent variables (i.e. variables that cannot be measured directly) as well as methods for estimating relationships among variables within causal systems. This course covers: both continuous and categorical latent variable measurement models (i.e. exploratory and confirmatory factor analysis, item response theory models, latent class and finite mixture models), as well as estimation of relationships in hypothesized causal systems using structural equation modeling.  Data analysis examples will come from health science applications and practical implementation of all methods will be demonstrated using predominately the Mplus software, but also the R software.",
     "instructor":"Melanie Wall",
     "scheduled_time_start":"8:30am",
     "scheduled_time_end":"11:20am",
@@ -30283,7 +30285,7 @@
   {
     "course_code":"CHEM GR9307",
     "course_title":"RESEARCH FOR THE DOCTORATE",
-    "course_descr":null,
+    "course_descr":"Departments permission.",
     "instructor":"David Reichman",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -38281,7 +38283,7 @@
     "course_descr":"Introduction to financial mechanics of public and private real-estate development and management. Working from perspectives of developers, investors and taxpayers, financing of several types of real estate and infrastructure projects are covered. Basics of real-estate accounting and finance, followed by in-depth studies of private, public, and public\/private-partnership projects and their financial structures. Focused on U.S.-based financing, with some international practices introduced and explored. Financial risks and rewards, and pertinent capital markets and their financing roles. Impacts and incentives of various government programs, such as LEED certification and solar power tax credits. Case studies provide opportunity to compare U.S. practices to several international methods.",
     "instructor":null,
     "scheduled_time_start":"7:00pm",
-    "scheduled_time_end":"9:30pm",
+    "scheduled_time_end":"9:00pm",
     "call_number":"14385",
     "campus":null,
     "class_id":"E4138-20271-001",
@@ -38289,7 +38291,7 @@
     "department":"Civil Engineering and Engineering Mechanics",
     "department_code":"CIEN",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/CIEN\/E4138-20271-001\/",
-    "location":null,
+    "location":"627 Seeley W. Mudd Building, Thursday 7:00pm-9:30pm",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Engineering:Graduate",
@@ -38300,7 +38302,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":"T",
+    "scheduled_days":"R",
     "section_key":"20271CIEN4138E001",
     "type":"LECTURE"
   },
@@ -41015,7 +41017,7 @@
   {
     "course_code":"CMBS G4010",
     "course_title":"RESP COND OF RES\/REL PLCY ISSU",
-    "course_descr":null,
+    "course_descr":"Explores a variety of ethical and political issues that arise during the conduct of basic and clinical scientific research. Course sessions include lectures, discussion periods, and analyses of case studies.",
     "instructor":"Arthur Palmer",
     "scheduled_time_start":"1:00pm",
     "scheduled_time_end":"2:00pm",
@@ -46529,8 +46531,8 @@
     "course_title":"TOPICS IN COMPUTER SCIENCE",
     "course_descr":"Selected topics in computer science. Content and prerequisites vary between sections and semesters.\u00a0May be repeated for credit. Check \u201ctopics course\u201d webpage on the department website for more information on each section.",
     "instructor":"Djallel Bouneffouf",
-    "scheduled_time_start":"12:00pm",
-    "scheduled_time_end":"2:30pm",
+    "scheduled_time_start":"5:40pm",
+    "scheduled_time_end":"8:10pm",
     "call_number":"13655",
     "campus":null,
     "class_id":"W4995-20271-033",
@@ -46538,7 +46540,7 @@
     "department":"Computer Science",
     "department_code":"COMS",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMS\/W4995-20271-033\/",
-    "location":null,
+    "location":"402 Chandler",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Engineering:Graduate"
@@ -46547,7 +46549,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":"M",
+    "scheduled_days":"W",
     "section_key":"20271COMS4995W033",
     "type":"LECTURE"
   },
@@ -47545,7 +47547,7 @@
     "department":"Computer Science",
     "department_code":"CSEE",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/CSEE\/W4121-20271-001\/",
-    "location":"417 International Affairs Building",
+    "location":"417 International Affairs Building, Monday 5:40pm-8:10pm",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Engineering:Graduate"
@@ -54331,7 +54333,7 @@
   {
     "course_code":"EARS GR5555",
     "course_title":"Fieldwork Course in Modern Asia-Pacific",
-    "course_descr":null,
+    "course_descr":"This course provides an opportunity for students in the MA in Regional Studies: East Asia (MARSEA) Program to engage in off-campus internships for academic credit that will count towards their requirements for the degree. Open only to MARSEA students and only with prior written approval of the program director or academic director. Prerequisites: Both semesters of the required MARSEA Core Seminar. This course is not open to students in their first two semesters.\n  \n To apply for EARS GR5555, tsubmit a complete application and an official offer letter from the internship sponsor to the MARSEA program office as early as possible (must be submitted at least 21 days before the start of the internship). The application should include:\n \u2022 Student\u2019s full name and UNI\n \u2022 Name of organization sponsoring or employing the student; department within the organization (if applicable); and address\n \u2022 Expected start and end dates of internship\n \u2022 Number of credits requested. Students should be aware that the application may be approved for a lower number of credits than requested.\n \u2022 Number of hours of work per week\n \u2022Name, title, phone number, and email address for the student\u2019s supervisor in the organization or the organization\u2019s Human Resources office (HR)\n \u2022 An official letter from the employer\/internship sponsor offering employment. It must include the following information: Beginning and ending dates of employment, number of hours of work per week, a description of appropriate duties, location of employment\n \u2022 All international students in F-1 status applying for EARS GR5555 are required to submit an application for CPT.",
     "instructor":"Sau-Yi Fong",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -54349,7 +54351,10 @@
     ],
     "points":"1",
     "prerequisites":[
-
+      [
+        "EARS GR5555",
+        "EARS GR5555"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20271EARS5555G001",
@@ -62944,7 +62949,7 @@
   {
     "course_code":"ELEN E3998",
     "course_title":"PROJECTS IN ELEC ENGINEERING",
-    "course_descr":null,
+    "course_descr":"May be repeated for credit, but no more than 3 total points may be used for degree credit. Independent project involving laboratory work, computer programming, analytical investigation, or engineering design.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -62969,7 +62974,7 @@
   {
     "course_code":"ELEN E3998",
     "course_title":"PROJECTS IN ELEC ENGINEERING",
-    "course_descr":null,
+    "course_descr":"May be repeated for credit, but no more than 3 total points may be used for degree credit. Independent project involving laboratory work, computer programming, analytical investigation, or engineering design.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -62994,7 +62999,7 @@
   {
     "course_code":"ELEN E3998",
     "course_title":"PROJECTS IN ELEC ENGINEERING",
-    "course_descr":null,
+    "course_descr":"May be repeated for credit, but no more than 3 total points may be used for degree credit. Independent project involving laboratory work, computer programming, analytical investigation, or engineering design.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -63019,7 +63024,7 @@
   {
     "course_code":"ELEN E3998",
     "course_title":"PROJECTS IN ELEC ENGINEERING",
-    "course_descr":null,
+    "course_descr":"May be repeated for credit, but no more than 3 total points may be used for degree credit. Independent project involving laboratory work, computer programming, analytical investigation, or engineering design.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -63044,7 +63049,7 @@
   {
     "course_code":"ELEN E3998",
     "course_title":"PROJECTS IN ELEC ENGINEERING",
-    "course_descr":null,
+    "course_descr":"May be repeated for credit, but no more than 3 total points may be used for degree credit. Independent project involving laboratory work, computer programming, analytical investigation, or engineering design.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -63069,7 +63074,7 @@
   {
     "course_code":"ELEN E3998",
     "course_title":"PROJECTS IN ELEC ENGINEERING",
-    "course_descr":null,
+    "course_descr":"May be repeated for credit, but no more than 3 total points may be used for degree credit. Independent project involving laboratory work, computer programming, analytical investigation, or engineering design.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -63094,7 +63099,7 @@
   {
     "course_code":"ELEN E3998",
     "course_title":"PROJECTS IN ELEC ENGINEERING",
-    "course_descr":null,
+    "course_descr":"May be repeated for credit, but no more than 3 total points may be used for degree credit. Independent project involving laboratory work, computer programming, analytical investigation, or engineering design.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -63119,7 +63124,7 @@
   {
     "course_code":"ELEN E3998",
     "course_title":"PROJECTS IN ELEC ENGINEERING",
-    "course_descr":null,
+    "course_descr":"May be repeated for credit, but no more than 3 total points may be used for degree credit. Independent project involving laboratory work, computer programming, analytical investigation, or engineering design.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -63144,7 +63149,7 @@
   {
     "course_code":"ELEN E3998",
     "course_title":"PROJECTS IN ELEC ENGINEERING",
-    "course_descr":null,
+    "course_descr":"May be repeated for credit, but no more than 3 total points may be used for degree credit. Independent project involving laboratory work, computer programming, analytical investigation, or engineering design.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -63169,7 +63174,7 @@
   {
     "course_code":"ELEN E3998",
     "course_title":"PROJECTS IN ELEC ENGINEERING",
-    "course_descr":null,
+    "course_descr":"May be repeated for credit, but no more than 3 total points may be used for degree credit. Independent project involving laboratory work, computer programming, analytical investigation, or engineering design.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -63194,7 +63199,7 @@
   {
     "course_code":"ELEN E3998",
     "course_title":"PROJECTS IN ELEC ENGINEERING",
-    "course_descr":null,
+    "course_descr":"May be repeated for credit, but no more than 3 total points may be used for degree credit. Independent project involving laboratory work, computer programming, analytical investigation, or engineering design.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -63219,7 +63224,7 @@
   {
     "course_code":"ELEN E3998",
     "course_title":"PROJECTS IN ELEC ENGINEERING",
-    "course_descr":null,
+    "course_descr":"May be repeated for credit, but no more than 3 total points may be used for degree credit. Independent project involving laboratory work, computer programming, analytical investigation, or engineering design.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -63244,7 +63249,7 @@
   {
     "course_code":"ELEN E3998",
     "course_title":"PROJECTS IN ELEC ENGINEERING",
-    "course_descr":null,
+    "course_descr":"May be repeated for credit, but no more than 3 total points may be used for degree credit. Independent project involving laboratory work, computer programming, analytical investigation, or engineering design.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -63269,7 +63274,7 @@
   {
     "course_code":"ELEN E3998",
     "course_title":"PROJECTS IN ELEC ENGINEERING",
-    "course_descr":null,
+    "course_descr":"May be repeated for credit, but no more than 3 total points may be used for degree credit. Independent project involving laboratory work, computer programming, analytical investigation, or engineering design.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -63294,7 +63299,7 @@
   {
     "course_code":"ELEN E3998",
     "course_title":"PROJECTS IN ELEC ENGINEERING",
-    "course_descr":null,
+    "course_descr":"May be repeated for credit, but no more than 3 total points may be used for degree credit. Independent project involving laboratory work, computer programming, analytical investigation, or engineering design.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -63319,7 +63324,7 @@
   {
     "course_code":"ELEN E3998",
     "course_title":"PROJECTS IN ELEC ENGINEERING",
-    "course_descr":null,
+    "course_descr":"May be repeated for credit, but no more than 3 total points may be used for degree credit. Independent project involving laboratory work, computer programming, analytical investigation, or engineering design.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -63344,7 +63349,7 @@
   {
     "course_code":"ELEN E3998",
     "course_title":"PROJECTS IN ELEC ENGINEERING",
-    "course_descr":null,
+    "course_descr":"May be repeated for credit, but no more than 3 total points may be used for degree credit. Independent project involving laboratory work, computer programming, analytical investigation, or engineering design.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -63369,7 +63374,7 @@
   {
     "course_code":"ELEN E3998",
     "course_title":"PROJECTS IN ELEC ENGINEERING",
-    "course_descr":null,
+    "course_descr":"May be repeated for credit, but no more than 3 total points may be used for degree credit. Independent project involving laboratory work, computer programming, analytical investigation, or engineering design.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -63394,7 +63399,7 @@
   {
     "course_code":"ELEN E3998",
     "course_title":"PROJECTS IN ELEC ENGINEERING",
-    "course_descr":null,
+    "course_descr":"May be repeated for credit, but no more than 3 total points may be used for degree credit. Independent project involving laboratory work, computer programming, analytical investigation, or engineering design.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -63419,7 +63424,7 @@
   {
     "course_code":"ELEN E3998",
     "course_title":"PROJECTS IN ELEC ENGINEERING",
-    "course_descr":null,
+    "course_descr":"May be repeated for credit, but no more than 3 total points may be used for degree credit. Independent project involving laboratory work, computer programming, analytical investigation, or engineering design.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -63444,7 +63449,7 @@
   {
     "course_code":"ELEN E3998",
     "course_title":"PROJECTS IN ELEC ENGINEERING",
-    "course_descr":null,
+    "course_descr":"May be repeated for credit, but no more than 3 total points may be used for degree credit. Independent project involving laboratory work, computer programming, analytical investigation, or engineering design.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -63469,7 +63474,7 @@
   {
     "course_code":"ELEN E3998",
     "course_title":"PROJECTS IN ELEC ENGINEERING",
-    "course_descr":null,
+    "course_descr":"May be repeated for credit, but no more than 3 total points may be used for degree credit. Independent project involving laboratory work, computer programming, analytical investigation, or engineering design.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -63494,7 +63499,7 @@
   {
     "course_code":"ELEN E3998",
     "course_title":"PROJECTS IN ELEC ENGINEERING",
-    "course_descr":null,
+    "course_descr":"May be repeated for credit, but no more than 3 total points may be used for degree credit. Independent project involving laboratory work, computer programming, analytical investigation, or engineering design.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -63519,7 +63524,7 @@
   {
     "course_code":"ELEN E3998",
     "course_title":"PROJECTS IN ELEC ENGINEERING",
-    "course_descr":null,
+    "course_descr":"May be repeated for credit, but no more than 3 total points may be used for degree credit. Independent project involving laboratory work, computer programming, analytical investigation, or engineering design.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -63544,7 +63549,7 @@
   {
     "course_code":"ELEN E3998",
     "course_title":"PROJECTS IN ELEC ENGINEERING",
-    "course_descr":null,
+    "course_descr":"May be repeated for credit, but no more than 3 total points may be used for degree credit. Independent project involving laboratory work, computer programming, analytical investigation, or engineering design.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -63569,7 +63574,7 @@
   {
     "course_code":"ELEN E3998",
     "course_title":"PROJECTS IN ELEC ENGINEERING",
-    "course_descr":null,
+    "course_descr":"May be repeated for credit, but no more than 3 total points may be used for degree credit. Independent project involving laboratory work, computer programming, analytical investigation, or engineering design.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -63594,7 +63599,7 @@
   {
     "course_code":"ELEN E3998",
     "course_title":"PROJECTS IN ELEC ENGINEERING",
-    "course_descr":null,
+    "course_descr":"May be repeated for credit, but no more than 3 total points may be used for degree credit. Independent project involving laboratory work, computer programming, analytical investigation, or engineering design.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -63619,7 +63624,7 @@
   {
     "course_code":"ELEN E3998",
     "course_title":"PROJECTS IN ELEC ENGINEERING",
-    "course_descr":null,
+    "course_descr":"May be repeated for credit, but no more than 3 total points may be used for degree credit. Independent project involving laboratory work, computer programming, analytical investigation, or engineering design.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -63644,7 +63649,7 @@
   {
     "course_code":"ELEN E3998",
     "course_title":"PROJECTS IN ELEC ENGINEERING",
-    "course_descr":null,
+    "course_descr":"May be repeated for credit, but no more than 3 total points may be used for degree credit. Independent project involving laboratory work, computer programming, analytical investigation, or engineering design.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -63669,7 +63674,7 @@
   {
     "course_code":"ELEN E3998",
     "course_title":"PROJECTS IN ELEC ENGINEERING",
-    "course_descr":null,
+    "course_descr":"May be repeated for credit, but no more than 3 total points may be used for degree credit. Independent project involving laboratory work, computer programming, analytical investigation, or engineering design.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -63694,7 +63699,7 @@
   {
     "course_code":"ELEN E3998",
     "course_title":"PROJECTS IN ELEC ENGINEERING",
-    "course_descr":null,
+    "course_descr":"May be repeated for credit, but no more than 3 total points may be used for degree credit. Independent project involving laboratory work, computer programming, analytical investigation, or engineering design.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -63750,7 +63755,7 @@
   {
     "course_code":"ELEN E4314",
     "course_title":"COMMUNICATION CIRCUITS",
-    "course_descr":null,
+    "course_descr":"Principles of electronic circuits used in the generation, transmission, and reception of signal waveforms, as used in analog and digital communication systems. Nonlinearity and distortion; power amplifiers; tuned amplifiers; oscillators; multipliers and mixers; modulators and demodulators; phase-locked loops. An extensive design project is an integral part of the course.",
     "instructor":null,
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:40pm",
@@ -63961,7 +63966,7 @@
   {
     "course_code":"ELEN E4998",
     "course_title":"INTERMEDIATE PROJECTS",
-    "course_descr":null,
+    "course_descr":"May be repeated for credit, but no more than 3 total points may be used for degree credit. Substantial independent project involving laboratory work, computer programming, analytical investigation, or engineering design.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -63986,7 +63991,7 @@
   {
     "course_code":"ELEN E4998",
     "course_title":"INTERMEDIATE PROJECTS",
-    "course_descr":null,
+    "course_descr":"May be repeated for credit, but no more than 3 total points may be used for degree credit. Substantial independent project involving laboratory work, computer programming, analytical investigation, or engineering design.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -64011,7 +64016,7 @@
   {
     "course_code":"ELEN E4998",
     "course_title":"INTERMEDIATE PROJECTS",
-    "course_descr":null,
+    "course_descr":"May be repeated for credit, but no more than 3 total points may be used for degree credit. Substantial independent project involving laboratory work, computer programming, analytical investigation, or engineering design.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -64036,7 +64041,7 @@
   {
     "course_code":"ELEN E4998",
     "course_title":"INTERMEDIATE PROJECTS",
-    "course_descr":null,
+    "course_descr":"May be repeated for credit, but no more than 3 total points may be used for degree credit. Substantial independent project involving laboratory work, computer programming, analytical investigation, or engineering design.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -64061,7 +64066,7 @@
   {
     "course_code":"ELEN E4998",
     "course_title":"INTERMEDIATE PROJECTS",
-    "course_descr":null,
+    "course_descr":"May be repeated for credit, but no more than 3 total points may be used for degree credit. Substantial independent project involving laboratory work, computer programming, analytical investigation, or engineering design.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -64086,7 +64091,7 @@
   {
     "course_code":"ELEN E4998",
     "course_title":"INTERMEDIATE PROJECTS",
-    "course_descr":null,
+    "course_descr":"May be repeated for credit, but no more than 3 total points may be used for degree credit. Substantial independent project involving laboratory work, computer programming, analytical investigation, or engineering design.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -64111,7 +64116,7 @@
   {
     "course_code":"ELEN E4998",
     "course_title":"INTERMEDIATE PROJECTS",
-    "course_descr":null,
+    "course_descr":"May be repeated for credit, but no more than 3 total points may be used for degree credit. Substantial independent project involving laboratory work, computer programming, analytical investigation, or engineering design.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -64136,7 +64141,7 @@
   {
     "course_code":"ELEN E4998",
     "course_title":"INTERMEDIATE PROJECTS",
-    "course_descr":null,
+    "course_descr":"May be repeated for credit, but no more than 3 total points may be used for degree credit. Substantial independent project involving laboratory work, computer programming, analytical investigation, or engineering design.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -64161,7 +64166,7 @@
   {
     "course_code":"ELEN E4998",
     "course_title":"INTERMEDIATE PROJECTS",
-    "course_descr":null,
+    "course_descr":"May be repeated for credit, but no more than 3 total points may be used for degree credit. Substantial independent project involving laboratory work, computer programming, analytical investigation, or engineering design.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -64186,7 +64191,7 @@
   {
     "course_code":"ELEN E4998",
     "course_title":"INTERMEDIATE PROJECTS",
-    "course_descr":null,
+    "course_descr":"May be repeated for credit, but no more than 3 total points may be used for degree credit. Substantial independent project involving laboratory work, computer programming, analytical investigation, or engineering design.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -64211,7 +64216,7 @@
   {
     "course_code":"ELEN E4998",
     "course_title":"INTERMEDIATE PROJECTS",
-    "course_descr":null,
+    "course_descr":"May be repeated for credit, but no more than 3 total points may be used for degree credit. Substantial independent project involving laboratory work, computer programming, analytical investigation, or engineering design.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -64236,7 +64241,7 @@
   {
     "course_code":"ELEN E4998",
     "course_title":"INTERMEDIATE PROJECTS",
-    "course_descr":null,
+    "course_descr":"May be repeated for credit, but no more than 3 total points may be used for degree credit. Substantial independent project involving laboratory work, computer programming, analytical investigation, or engineering design.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -64261,7 +64266,7 @@
   {
     "course_code":"ELEN E4998",
     "course_title":"INTERMEDIATE PROJECTS",
-    "course_descr":null,
+    "course_descr":"May be repeated for credit, but no more than 3 total points may be used for degree credit. Substantial independent project involving laboratory work, computer programming, analytical investigation, or engineering design.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -64286,7 +64291,7 @@
   {
     "course_code":"ELEN E4998",
     "course_title":"INTERMEDIATE PROJECTS",
-    "course_descr":null,
+    "course_descr":"May be repeated for credit, but no more than 3 total points may be used for degree credit. Substantial independent project involving laboratory work, computer programming, analytical investigation, or engineering design.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -64311,7 +64316,7 @@
   {
     "course_code":"ELEN E4998",
     "course_title":"INTERMEDIATE PROJECTS",
-    "course_descr":null,
+    "course_descr":"May be repeated for credit, but no more than 3 total points may be used for degree credit. Substantial independent project involving laboratory work, computer programming, analytical investigation, or engineering design.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -64336,7 +64341,7 @@
   {
     "course_code":"ELEN E4998",
     "course_title":"INTERMEDIATE PROJECTS",
-    "course_descr":null,
+    "course_descr":"May be repeated for credit, but no more than 3 total points may be used for degree credit. Substantial independent project involving laboratory work, computer programming, analytical investigation, or engineering design.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -64361,7 +64366,7 @@
   {
     "course_code":"ELEN E4998",
     "course_title":"INTERMEDIATE PROJECTS",
-    "course_descr":null,
+    "course_descr":"May be repeated for credit, but no more than 3 total points may be used for degree credit. Substantial independent project involving laboratory work, computer programming, analytical investigation, or engineering design.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -64386,7 +64391,7 @@
   {
     "course_code":"ELEN E4998",
     "course_title":"INTERMEDIATE PROJECTS",
-    "course_descr":null,
+    "course_descr":"May be repeated for credit, but no more than 3 total points may be used for degree credit. Substantial independent project involving laboratory work, computer programming, analytical investigation, or engineering design.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -64411,7 +64416,7 @@
   {
     "course_code":"ELEN E4998",
     "course_title":"INTERMEDIATE PROJECTS",
-    "course_descr":null,
+    "course_descr":"May be repeated for credit, but no more than 3 total points may be used for degree credit. Substantial independent project involving laboratory work, computer programming, analytical investigation, or engineering design.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -64436,7 +64441,7 @@
   {
     "course_code":"ELEN E4998",
     "course_title":"INTERMEDIATE PROJECTS",
-    "course_descr":null,
+    "course_descr":"May be repeated for credit, but no more than 3 total points may be used for degree credit. Substantial independent project involving laboratory work, computer programming, analytical investigation, or engineering design.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -64461,7 +64466,7 @@
   {
     "course_code":"ELEN E4998",
     "course_title":"INTERMEDIATE PROJECTS",
-    "course_descr":null,
+    "course_descr":"May be repeated for credit, but no more than 3 total points may be used for degree credit. Substantial independent project involving laboratory work, computer programming, analytical investigation, or engineering design.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -64486,7 +64491,7 @@
   {
     "course_code":"ELEN E4998",
     "course_title":"INTERMEDIATE PROJECTS",
-    "course_descr":null,
+    "course_descr":"May be repeated for credit, but no more than 3 total points may be used for degree credit. Substantial independent project involving laboratory work, computer programming, analytical investigation, or engineering design.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -64511,7 +64516,7 @@
   {
     "course_code":"ELEN E4998",
     "course_title":"INTERMEDIATE PROJECTS",
-    "course_descr":null,
+    "course_descr":"May be repeated for credit, but no more than 3 total points may be used for degree credit. Substantial independent project involving laboratory work, computer programming, analytical investigation, or engineering design.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -64536,7 +64541,7 @@
   {
     "course_code":"ELEN E4998",
     "course_title":"INTERMEDIATE PROJECTS",
-    "course_descr":null,
+    "course_descr":"May be repeated for credit, but no more than 3 total points may be used for degree credit. Substantial independent project involving laboratory work, computer programming, analytical investigation, or engineering design.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -64561,7 +64566,7 @@
   {
     "course_code":"ELEN E4998",
     "course_title":"INTERMEDIATE PROJECTS",
-    "course_descr":null,
+    "course_descr":"May be repeated for credit, but no more than 3 total points may be used for degree credit. Substantial independent project involving laboratory work, computer programming, analytical investigation, or engineering design.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -64586,7 +64591,7 @@
   {
     "course_code":"ELEN E4998",
     "course_title":"INTERMEDIATE PROJECTS",
-    "course_descr":null,
+    "course_descr":"May be repeated for credit, but no more than 3 total points may be used for degree credit. Substantial independent project involving laboratory work, computer programming, analytical investigation, or engineering design.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -64611,7 +64616,7 @@
   {
     "course_code":"ELEN E4998",
     "course_title":"INTERMEDIATE PROJECTS",
-    "course_descr":null,
+    "course_descr":"May be repeated for credit, but no more than 3 total points may be used for degree credit. Substantial independent project involving laboratory work, computer programming, analytical investigation, or engineering design.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -64636,7 +64641,7 @@
   {
     "course_code":"ELEN E4998",
     "course_title":"INTERMEDIATE PROJECTS",
-    "course_descr":null,
+    "course_descr":"May be repeated for credit, but no more than 3 total points may be used for degree credit. Substantial independent project involving laboratory work, computer programming, analytical investigation, or engineering design.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -64661,7 +64666,7 @@
   {
     "course_code":"ELEN E4998",
     "course_title":"INTERMEDIATE PROJECTS",
-    "course_descr":null,
+    "course_descr":"May be repeated for credit, but no more than 3 total points may be used for degree credit. Substantial independent project involving laboratory work, computer programming, analytical investigation, or engineering design.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -64686,7 +64691,7 @@
   {
     "course_code":"ELEN E4998",
     "course_title":"INTERMEDIATE PROJECTS",
-    "course_descr":null,
+    "course_descr":"May be repeated for credit, but no more than 3 total points may be used for degree credit. Substantial independent project involving laboratory work, computer programming, analytical investigation, or engineering design.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -64711,7 +64716,7 @@
   {
     "course_code":"ELEN E4998",
     "course_title":"INTERMEDIATE PROJECTS",
-    "course_descr":null,
+    "course_descr":"May be repeated for credit, but no more than 3 total points may be used for degree credit. Substantial independent project involving laboratory work, computer programming, analytical investigation, or engineering design.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -64736,7 +64741,7 @@
   {
     "course_code":"ELEN E4998",
     "course_title":"INTERMEDIATE PROJECTS",
-    "course_descr":null,
+    "course_descr":"May be repeated for credit, but no more than 3 total points may be used for degree credit. Substantial independent project involving laboratory work, computer programming, analytical investigation, or engineering design.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -64761,7 +64766,7 @@
   {
     "course_code":"ELEN E4998",
     "course_title":"INTERMEDIATE PROJECTS",
-    "course_descr":null,
+    "course_descr":"May be repeated for credit, but no more than 3 total points may be used for degree credit. Substantial independent project involving laboratory work, computer programming, analytical investigation, or engineering design.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -64786,7 +64791,7 @@
   {
     "course_code":"ELEN E6002",
     "course_title":"ADVANCED PROJECTS",
-    "course_descr":null,
+    "course_descr":"May be repeated for up to 6 points of credit. Graduate-level projects in various areas of electrical engineering and computer science. In consultation with an instructor, each student designs his or her project depending on the students previous training and experience. Students should consult with a professor in their area for detailed arrangements no later than the last day of registration.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -64811,7 +64816,7 @@
   {
     "course_code":"ELEN E6002",
     "course_title":"ADVANCED PROJECTS",
-    "course_descr":null,
+    "course_descr":"May be repeated for up to 6 points of credit. Graduate-level projects in various areas of electrical engineering and computer science. In consultation with an instructor, each student designs his or her project depending on the students previous training and experience. Students should consult with a professor in their area for detailed arrangements no later than the last day of registration.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -64836,7 +64841,7 @@
   {
     "course_code":"ELEN E6002",
     "course_title":"ADVANCED PROJECTS",
-    "course_descr":null,
+    "course_descr":"May be repeated for up to 6 points of credit. Graduate-level projects in various areas of electrical engineering and computer science. In consultation with an instructor, each student designs his or her project depending on the students previous training and experience. Students should consult with a professor in their area for detailed arrangements no later than the last day of registration.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -64861,7 +64866,7 @@
   {
     "course_code":"ELEN E6002",
     "course_title":"ADVANCED PROJECTS",
-    "course_descr":null,
+    "course_descr":"May be repeated for up to 6 points of credit. Graduate-level projects in various areas of electrical engineering and computer science. In consultation with an instructor, each student designs his or her project depending on the students previous training and experience. Students should consult with a professor in their area for detailed arrangements no later than the last day of registration.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -64886,7 +64891,7 @@
   {
     "course_code":"ELEN E6002",
     "course_title":"ADVANCED PROJECTS",
-    "course_descr":null,
+    "course_descr":"May be repeated for up to 6 points of credit. Graduate-level projects in various areas of electrical engineering and computer science. In consultation with an instructor, each student designs his or her project depending on the students previous training and experience. Students should consult with a professor in their area for detailed arrangements no later than the last day of registration.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -64911,7 +64916,7 @@
   {
     "course_code":"ELEN E6002",
     "course_title":"ADVANCED PROJECTS",
-    "course_descr":null,
+    "course_descr":"May be repeated for up to 6 points of credit. Graduate-level projects in various areas of electrical engineering and computer science. In consultation with an instructor, each student designs his or her project depending on the students previous training and experience. Students should consult with a professor in their area for detailed arrangements no later than the last day of registration.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -64936,7 +64941,7 @@
   {
     "course_code":"ELEN E6002",
     "course_title":"ADVANCED PROJECTS",
-    "course_descr":null,
+    "course_descr":"May be repeated for up to 6 points of credit. Graduate-level projects in various areas of electrical engineering and computer science. In consultation with an instructor, each student designs his or her project depending on the students previous training and experience. Students should consult with a professor in their area for detailed arrangements no later than the last day of registration.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -64961,7 +64966,7 @@
   {
     "course_code":"ELEN E6002",
     "course_title":"ADVANCED PROJECTS",
-    "course_descr":null,
+    "course_descr":"May be repeated for up to 6 points of credit. Graduate-level projects in various areas of electrical engineering and computer science. In consultation with an instructor, each student designs his or her project depending on the students previous training and experience. Students should consult with a professor in their area for detailed arrangements no later than the last day of registration.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -64986,7 +64991,7 @@
   {
     "course_code":"ELEN E6002",
     "course_title":"ADVANCED PROJECTS",
-    "course_descr":null,
+    "course_descr":"May be repeated for up to 6 points of credit. Graduate-level projects in various areas of electrical engineering and computer science. In consultation with an instructor, each student designs his or her project depending on the students previous training and experience. Students should consult with a professor in their area for detailed arrangements no later than the last day of registration.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -65011,7 +65016,7 @@
   {
     "course_code":"ELEN E6002",
     "course_title":"ADVANCED PROJECTS",
-    "course_descr":null,
+    "course_descr":"May be repeated for up to 6 points of credit. Graduate-level projects in various areas of electrical engineering and computer science. In consultation with an instructor, each student designs his or her project depending on the students previous training and experience. Students should consult with a professor in their area for detailed arrangements no later than the last day of registration.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -65036,7 +65041,7 @@
   {
     "course_code":"ELEN E6002",
     "course_title":"ADVANCED PROJECTS",
-    "course_descr":null,
+    "course_descr":"May be repeated for up to 6 points of credit. Graduate-level projects in various areas of electrical engineering and computer science. In consultation with an instructor, each student designs his or her project depending on the students previous training and experience. Students should consult with a professor in their area for detailed arrangements no later than the last day of registration.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -65061,7 +65066,7 @@
   {
     "course_code":"ELEN E6002",
     "course_title":"ADVANCED PROJECTS",
-    "course_descr":null,
+    "course_descr":"May be repeated for up to 6 points of credit. Graduate-level projects in various areas of electrical engineering and computer science. In consultation with an instructor, each student designs his or her project depending on the students previous training and experience. Students should consult with a professor in their area for detailed arrangements no later than the last day of registration.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -65086,7 +65091,7 @@
   {
     "course_code":"ELEN E6002",
     "course_title":"ADVANCED PROJECTS",
-    "course_descr":null,
+    "course_descr":"May be repeated for up to 6 points of credit. Graduate-level projects in various areas of electrical engineering and computer science. In consultation with an instructor, each student designs his or her project depending on the students previous training and experience. Students should consult with a professor in their area for detailed arrangements no later than the last day of registration.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -65111,7 +65116,7 @@
   {
     "course_code":"ELEN E6002",
     "course_title":"ADVANCED PROJECTS",
-    "course_descr":null,
+    "course_descr":"May be repeated for up to 6 points of credit. Graduate-level projects in various areas of electrical engineering and computer science. In consultation with an instructor, each student designs his or her project depending on the students previous training and experience. Students should consult with a professor in their area for detailed arrangements no later than the last day of registration.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -65136,7 +65141,7 @@
   {
     "course_code":"ELEN E6002",
     "course_title":"ADVANCED PROJECTS",
-    "course_descr":null,
+    "course_descr":"May be repeated for up to 6 points of credit. Graduate-level projects in various areas of electrical engineering and computer science. In consultation with an instructor, each student designs his or her project depending on the students previous training and experience. Students should consult with a professor in their area for detailed arrangements no later than the last day of registration.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -65161,7 +65166,7 @@
   {
     "course_code":"ELEN E6002",
     "course_title":"ADVANCED PROJECTS",
-    "course_descr":null,
+    "course_descr":"May be repeated for up to 6 points of credit. Graduate-level projects in various areas of electrical engineering and computer science. In consultation with an instructor, each student designs his or her project depending on the students previous training and experience. Students should consult with a professor in their area for detailed arrangements no later than the last day of registration.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -65186,7 +65191,7 @@
   {
     "course_code":"ELEN E6002",
     "course_title":"ADVANCED PROJECTS",
-    "course_descr":null,
+    "course_descr":"May be repeated for up to 6 points of credit. Graduate-level projects in various areas of electrical engineering and computer science. In consultation with an instructor, each student designs his or her project depending on the students previous training and experience. Students should consult with a professor in their area for detailed arrangements no later than the last day of registration.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -65211,7 +65216,7 @@
   {
     "course_code":"ELEN E6002",
     "course_title":"ADVANCED PROJECTS",
-    "course_descr":null,
+    "course_descr":"May be repeated for up to 6 points of credit. Graduate-level projects in various areas of electrical engineering and computer science. In consultation with an instructor, each student designs his or her project depending on the students previous training and experience. Students should consult with a professor in their area for detailed arrangements no later than the last day of registration.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -65236,7 +65241,7 @@
   {
     "course_code":"ELEN E6002",
     "course_title":"ADVANCED PROJECTS",
-    "course_descr":null,
+    "course_descr":"May be repeated for up to 6 points of credit. Graduate-level projects in various areas of electrical engineering and computer science. In consultation with an instructor, each student designs his or her project depending on the students previous training and experience. Students should consult with a professor in their area for detailed arrangements no later than the last day of registration.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -65261,7 +65266,7 @@
   {
     "course_code":"ELEN E6002",
     "course_title":"ADVANCED PROJECTS",
-    "course_descr":null,
+    "course_descr":"May be repeated for up to 6 points of credit. Graduate-level projects in various areas of electrical engineering and computer science. In consultation with an instructor, each student designs his or her project depending on the students previous training and experience. Students should consult with a professor in their area for detailed arrangements no later than the last day of registration.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -65286,7 +65291,7 @@
   {
     "course_code":"ELEN E6002",
     "course_title":"ADVANCED PROJECTS",
-    "course_descr":null,
+    "course_descr":"May be repeated for up to 6 points of credit. Graduate-level projects in various areas of electrical engineering and computer science. In consultation with an instructor, each student designs his or her project depending on the students previous training and experience. Students should consult with a professor in their area for detailed arrangements no later than the last day of registration.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -65311,7 +65316,7 @@
   {
     "course_code":"ELEN E6002",
     "course_title":"ADVANCED PROJECTS",
-    "course_descr":null,
+    "course_descr":"May be repeated for up to 6 points of credit. Graduate-level projects in various areas of electrical engineering and computer science. In consultation with an instructor, each student designs his or her project depending on the students previous training and experience. Students should consult with a professor in their area for detailed arrangements no later than the last day of registration.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -65336,7 +65341,7 @@
   {
     "course_code":"ELEN E6002",
     "course_title":"ADVANCED PROJECTS",
-    "course_descr":null,
+    "course_descr":"May be repeated for up to 6 points of credit. Graduate-level projects in various areas of electrical engineering and computer science. In consultation with an instructor, each student designs his or her project depending on the students previous training and experience. Students should consult with a professor in their area for detailed arrangements no later than the last day of registration.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -65361,7 +65366,7 @@
   {
     "course_code":"ELEN E6002",
     "course_title":"ADVANCED PROJECTS",
-    "course_descr":null,
+    "course_descr":"May be repeated for up to 6 points of credit. Graduate-level projects in various areas of electrical engineering and computer science. In consultation with an instructor, each student designs his or her project depending on the students previous training and experience. Students should consult with a professor in their area for detailed arrangements no later than the last day of registration.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -65386,7 +65391,7 @@
   {
     "course_code":"ELEN E6002",
     "course_title":"ADVANCED PROJECTS",
-    "course_descr":null,
+    "course_descr":"May be repeated for up to 6 points of credit. Graduate-level projects in various areas of electrical engineering and computer science. In consultation with an instructor, each student designs his or her project depending on the students previous training and experience. Students should consult with a professor in their area for detailed arrangements no later than the last day of registration.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -65411,7 +65416,7 @@
   {
     "course_code":"ELEN E6002",
     "course_title":"ADVANCED PROJECTS",
-    "course_descr":null,
+    "course_descr":"May be repeated for up to 6 points of credit. Graduate-level projects in various areas of electrical engineering and computer science. In consultation with an instructor, each student designs his or her project depending on the students previous training and experience. Students should consult with a professor in their area for detailed arrangements no later than the last day of registration.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -65436,7 +65441,7 @@
   {
     "course_code":"ELEN E6002",
     "course_title":"ADVANCED PROJECTS",
-    "course_descr":null,
+    "course_descr":"May be repeated for up to 6 points of credit. Graduate-level projects in various areas of electrical engineering and computer science. In consultation with an instructor, each student designs his or her project depending on the students previous training and experience. Students should consult with a professor in their area for detailed arrangements no later than the last day of registration.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -65461,7 +65466,7 @@
   {
     "course_code":"ELEN E6002",
     "course_title":"ADVANCED PROJECTS",
-    "course_descr":null,
+    "course_descr":"May be repeated for up to 6 points of credit. Graduate-level projects in various areas of electrical engineering and computer science. In consultation with an instructor, each student designs his or her project depending on the students previous training and experience. Students should consult with a professor in their area for detailed arrangements no later than the last day of registration.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -65486,7 +65491,7 @@
   {
     "course_code":"ELEN E6002",
     "course_title":"ADVANCED PROJECTS",
-    "course_descr":null,
+    "course_descr":"May be repeated for up to 6 points of credit. Graduate-level projects in various areas of electrical engineering and computer science. In consultation with an instructor, each student designs his or her project depending on the students previous training and experience. Students should consult with a professor in their area for detailed arrangements no later than the last day of registration.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -65511,7 +65516,7 @@
   {
     "course_code":"ELEN E6002",
     "course_title":"ADVANCED PROJECTS",
-    "course_descr":null,
+    "course_descr":"May be repeated for up to 6 points of credit. Graduate-level projects in various areas of electrical engineering and computer science. In consultation with an instructor, each student designs his or her project depending on the students previous training and experience. Students should consult with a professor in their area for detailed arrangements no later than the last day of registration.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -65536,7 +65541,7 @@
   {
     "course_code":"ELEN E6002",
     "course_title":"ADVANCED PROJECTS",
-    "course_descr":null,
+    "course_descr":"May be repeated for up to 6 points of credit. Graduate-level projects in various areas of electrical engineering and computer science. In consultation with an instructor, each student designs his or her project depending on the students previous training and experience. Students should consult with a professor in their area for detailed arrangements no later than the last day of registration.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -65561,7 +65566,7 @@
   {
     "course_code":"ELEN E6002",
     "course_title":"ADVANCED PROJECTS",
-    "course_descr":null,
+    "course_descr":"May be repeated for up to 6 points of credit. Graduate-level projects in various areas of electrical engineering and computer science. In consultation with an instructor, each student designs his or her project depending on the students previous training and experience. Students should consult with a professor in their area for detailed arrangements no later than the last day of registration.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -65586,7 +65591,7 @@
   {
     "course_code":"ELEN E6002",
     "course_title":"ADVANCED PROJECTS",
-    "course_descr":null,
+    "course_descr":"May be repeated for up to 6 points of credit. Graduate-level projects in various areas of electrical engineering and computer science. In consultation with an instructor, each student designs his or her project depending on the students previous training and experience. Students should consult with a professor in their area for detailed arrangements no later than the last day of registration.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -65611,7 +65616,7 @@
   {
     "course_code":"ELEN E6002",
     "course_title":"ADVANCED PROJECTS",
-    "course_descr":null,
+    "course_descr":"May be repeated for up to 6 points of credit. Graduate-level projects in various areas of electrical engineering and computer science. In consultation with an instructor, each student designs his or her project depending on the students previous training and experience. Students should consult with a professor in their area for detailed arrangements no later than the last day of registration.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -65636,7 +65641,7 @@
   {
     "course_code":"ELEN E6002",
     "course_title":"ADVANCED PROJECTS",
-    "course_descr":null,
+    "course_descr":"May be repeated for up to 6 points of credit. Graduate-level projects in various areas of electrical engineering and computer science. In consultation with an instructor, each student designs his or her project depending on the students previous training and experience. Students should consult with a professor in their area for detailed arrangements no later than the last day of registration.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -65661,7 +65666,7 @@
   {
     "course_code":"ELEN E6002",
     "course_title":"ADVANCED PROJECTS",
-    "course_descr":null,
+    "course_descr":"May be repeated for up to 6 points of credit. Graduate-level projects in various areas of electrical engineering and computer science. In consultation with an instructor, each student designs his or her project depending on the students previous training and experience. Students should consult with a professor in their area for detailed arrangements no later than the last day of registration.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -65686,7 +65691,7 @@
   {
     "course_code":"ELEN E6002",
     "course_title":"ADVANCED PROJECTS",
-    "course_descr":null,
+    "course_descr":"May be repeated for up to 6 points of credit. Graduate-level projects in various areas of electrical engineering and computer science. In consultation with an instructor, each student designs his or her project depending on the students previous training and experience. Students should consult with a professor in their area for detailed arrangements no later than the last day of registration.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -65711,7 +65716,7 @@
   {
     "course_code":"ELEN E6002",
     "course_title":"ADVANCED PROJECTS",
-    "course_descr":null,
+    "course_descr":"May be repeated for up to 6 points of credit. Graduate-level projects in various areas of electrical engineering and computer science. In consultation with an instructor, each student designs his or her project depending on the students previous training and experience. Students should consult with a professor in their area for detailed arrangements no later than the last day of registration.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -65842,7 +65847,7 @@
   {
     "course_code":"ELEN E6414",
     "course_title":"PHOTONIC INTEGRATED CIRCUITS",
-    "course_descr":null,
+    "course_descr":"Photonic integrated circuits are important subsystem components for telecommunications, optically controlled radar, optical signal processing, and photonic local area networks. An introduction to the devices and the design of these circuits. Principle and modeling of dielectric waveguides (including silica on silicon and InP based materials), waveguide devices (simple and star couplers), and surface diffractive elements. Discussion of numerical techniques for modeling circuits, including beam propagation and finite difference codes, and design of other devices: optical isolators, demultiplexers.",
     "instructor":null,
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:40pm",
@@ -66116,7 +66121,7 @@
   {
     "course_code":"ELEN E9002",
     "course_title":"RESEARCH II",
-    "course_descr":null,
+    "course_descr":"Points of credit to be approved by the department. Requires submission of an outline of the proposed research for approval by the faculty member who is to supervise the work of the student. The research facilities of the department are available to qualified students interested in advanced study.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -66141,7 +66146,7 @@
   {
     "course_code":"ELEN E9002",
     "course_title":"RESEARCH II",
-    "course_descr":null,
+    "course_descr":"Points of credit to be approved by the department. Requires submission of an outline of the proposed research for approval by the faculty member who is to supervise the work of the student. The research facilities of the department are available to qualified students interested in advanced study.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -66166,7 +66171,7 @@
   {
     "course_code":"ELEN E9002",
     "course_title":"RESEARCH II",
-    "course_descr":null,
+    "course_descr":"Points of credit to be approved by the department. Requires submission of an outline of the proposed research for approval by the faculty member who is to supervise the work of the student. The research facilities of the department are available to qualified students interested in advanced study.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -66191,7 +66196,7 @@
   {
     "course_code":"ELEN E9002",
     "course_title":"RESEARCH II",
-    "course_descr":null,
+    "course_descr":"Points of credit to be approved by the department. Requires submission of an outline of the proposed research for approval by the faculty member who is to supervise the work of the student. The research facilities of the department are available to qualified students interested in advanced study.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -66216,7 +66221,7 @@
   {
     "course_code":"ELEN E9002",
     "course_title":"RESEARCH II",
-    "course_descr":null,
+    "course_descr":"Points of credit to be approved by the department. Requires submission of an outline of the proposed research for approval by the faculty member who is to supervise the work of the student. The research facilities of the department are available to qualified students interested in advanced study.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -66241,7 +66246,7 @@
   {
     "course_code":"ELEN E9002",
     "course_title":"RESEARCH II",
-    "course_descr":null,
+    "course_descr":"Points of credit to be approved by the department. Requires submission of an outline of the proposed research for approval by the faculty member who is to supervise the work of the student. The research facilities of the department are available to qualified students interested in advanced study.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -66266,7 +66271,7 @@
   {
     "course_code":"ELEN E9002",
     "course_title":"RESEARCH II",
-    "course_descr":null,
+    "course_descr":"Points of credit to be approved by the department. Requires submission of an outline of the proposed research for approval by the faculty member who is to supervise the work of the student. The research facilities of the department are available to qualified students interested in advanced study.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -66291,7 +66296,7 @@
   {
     "course_code":"ELEN E9002",
     "course_title":"RESEARCH II",
-    "course_descr":null,
+    "course_descr":"Points of credit to be approved by the department. Requires submission of an outline of the proposed research for approval by the faculty member who is to supervise the work of the student. The research facilities of the department are available to qualified students interested in advanced study.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -66316,7 +66321,7 @@
   {
     "course_code":"ELEN E9002",
     "course_title":"RESEARCH II",
-    "course_descr":null,
+    "course_descr":"Points of credit to be approved by the department. Requires submission of an outline of the proposed research for approval by the faculty member who is to supervise the work of the student. The research facilities of the department are available to qualified students interested in advanced study.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -66341,7 +66346,7 @@
   {
     "course_code":"ELEN E9002",
     "course_title":"RESEARCH II",
-    "course_descr":null,
+    "course_descr":"Points of credit to be approved by the department. Requires submission of an outline of the proposed research for approval by the faculty member who is to supervise the work of the student. The research facilities of the department are available to qualified students interested in advanced study.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -66366,7 +66371,7 @@
   {
     "course_code":"ELEN E9002",
     "course_title":"RESEARCH II",
-    "course_descr":null,
+    "course_descr":"Points of credit to be approved by the department. Requires submission of an outline of the proposed research for approval by the faculty member who is to supervise the work of the student. The research facilities of the department are available to qualified students interested in advanced study.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -66391,7 +66396,7 @@
   {
     "course_code":"ELEN E9002",
     "course_title":"RESEARCH II",
-    "course_descr":null,
+    "course_descr":"Points of credit to be approved by the department. Requires submission of an outline of the proposed research for approval by the faculty member who is to supervise the work of the student. The research facilities of the department are available to qualified students interested in advanced study.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -66416,7 +66421,7 @@
   {
     "course_code":"ELEN E9002",
     "course_title":"RESEARCH II",
-    "course_descr":null,
+    "course_descr":"Points of credit to be approved by the department. Requires submission of an outline of the proposed research for approval by the faculty member who is to supervise the work of the student. The research facilities of the department are available to qualified students interested in advanced study.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -66441,7 +66446,7 @@
   {
     "course_code":"ELEN E9002",
     "course_title":"RESEARCH II",
-    "course_descr":null,
+    "course_descr":"Points of credit to be approved by the department. Requires submission of an outline of the proposed research for approval by the faculty member who is to supervise the work of the student. The research facilities of the department are available to qualified students interested in advanced study.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -66466,7 +66471,7 @@
   {
     "course_code":"ELEN E9002",
     "course_title":"RESEARCH II",
-    "course_descr":null,
+    "course_descr":"Points of credit to be approved by the department. Requires submission of an outline of the proposed research for approval by the faculty member who is to supervise the work of the student. The research facilities of the department are available to qualified students interested in advanced study.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -66491,7 +66496,7 @@
   {
     "course_code":"ELEN E9002",
     "course_title":"RESEARCH II",
-    "course_descr":null,
+    "course_descr":"Points of credit to be approved by the department. Requires submission of an outline of the proposed research for approval by the faculty member who is to supervise the work of the student. The research facilities of the department are available to qualified students interested in advanced study.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -66516,7 +66521,7 @@
   {
     "course_code":"ELEN E9002",
     "course_title":"RESEARCH II",
-    "course_descr":null,
+    "course_descr":"Points of credit to be approved by the department. Requires submission of an outline of the proposed research for approval by the faculty member who is to supervise the work of the student. The research facilities of the department are available to qualified students interested in advanced study.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -66541,7 +66546,7 @@
   {
     "course_code":"ELEN E9002",
     "course_title":"RESEARCH II",
-    "course_descr":null,
+    "course_descr":"Points of credit to be approved by the department. Requires submission of an outline of the proposed research for approval by the faculty member who is to supervise the work of the student. The research facilities of the department are available to qualified students interested in advanced study.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -66566,7 +66571,7 @@
   {
     "course_code":"ELEN E9002",
     "course_title":"RESEARCH II",
-    "course_descr":null,
+    "course_descr":"Points of credit to be approved by the department. Requires submission of an outline of the proposed research for approval by the faculty member who is to supervise the work of the student. The research facilities of the department are available to qualified students interested in advanced study.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -66591,7 +66596,7 @@
   {
     "course_code":"ELEN E9002",
     "course_title":"RESEARCH II",
-    "course_descr":null,
+    "course_descr":"Points of credit to be approved by the department. Requires submission of an outline of the proposed research for approval by the faculty member who is to supervise the work of the student. The research facilities of the department are available to qualified students interested in advanced study.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -66616,7 +66621,7 @@
   {
     "course_code":"ELEN E9002",
     "course_title":"RESEARCH II",
-    "course_descr":null,
+    "course_descr":"Points of credit to be approved by the department. Requires submission of an outline of the proposed research for approval by the faculty member who is to supervise the work of the student. The research facilities of the department are available to qualified students interested in advanced study.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -66641,7 +66646,7 @@
   {
     "course_code":"ELEN E9002",
     "course_title":"RESEARCH II",
-    "course_descr":null,
+    "course_descr":"Points of credit to be approved by the department. Requires submission of an outline of the proposed research for approval by the faculty member who is to supervise the work of the student. The research facilities of the department are available to qualified students interested in advanced study.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -66666,7 +66671,7 @@
   {
     "course_code":"ELEN E9002",
     "course_title":"RESEARCH II",
-    "course_descr":null,
+    "course_descr":"Points of credit to be approved by the department. Requires submission of an outline of the proposed research for approval by the faculty member who is to supervise the work of the student. The research facilities of the department are available to qualified students interested in advanced study.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -66691,7 +66696,7 @@
   {
     "course_code":"ELEN E9002",
     "course_title":"RESEARCH II",
-    "course_descr":null,
+    "course_descr":"Points of credit to be approved by the department. Requires submission of an outline of the proposed research for approval by the faculty member who is to supervise the work of the student. The research facilities of the department are available to qualified students interested in advanced study.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -66716,7 +66721,7 @@
   {
     "course_code":"ELEN E9002",
     "course_title":"RESEARCH II",
-    "course_descr":null,
+    "course_descr":"Points of credit to be approved by the department. Requires submission of an outline of the proposed research for approval by the faculty member who is to supervise the work of the student. The research facilities of the department are available to qualified students interested in advanced study.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -66741,7 +66746,7 @@
   {
     "course_code":"ELEN E9002",
     "course_title":"RESEARCH II",
-    "course_descr":null,
+    "course_descr":"Points of credit to be approved by the department. Requires submission of an outline of the proposed research for approval by the faculty member who is to supervise the work of the student. The research facilities of the department are available to qualified students interested in advanced study.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -66766,7 +66771,7 @@
   {
     "course_code":"ELEN E9002",
     "course_title":"RESEARCH II",
-    "course_descr":null,
+    "course_descr":"Points of credit to be approved by the department. Requires submission of an outline of the proposed research for approval by the faculty member who is to supervise the work of the student. The research facilities of the department are available to qualified students interested in advanced study.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -66791,7 +66796,7 @@
   {
     "course_code":"ELEN E9002",
     "course_title":"RESEARCH II",
-    "course_descr":null,
+    "course_descr":"Points of credit to be approved by the department. Requires submission of an outline of the proposed research for approval by the faculty member who is to supervise the work of the student. The research facilities of the department are available to qualified students interested in advanced study.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -66816,7 +66821,7 @@
   {
     "course_code":"ELEN E9002",
     "course_title":"RESEARCH II",
-    "course_descr":null,
+    "course_descr":"Points of credit to be approved by the department. Requires submission of an outline of the proposed research for approval by the faculty member who is to supervise the work of the student. The research facilities of the department are available to qualified students interested in advanced study.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -66841,7 +66846,7 @@
   {
     "course_code":"ELEN E9002",
     "course_title":"RESEARCH II",
-    "course_descr":null,
+    "course_descr":"Points of credit to be approved by the department. Requires submission of an outline of the proposed research for approval by the faculty member who is to supervise the work of the student. The research facilities of the department are available to qualified students interested in advanced study.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -66866,7 +66871,7 @@
   {
     "course_code":"ELEN E9002",
     "course_title":"RESEARCH II",
-    "course_descr":null,
+    "course_descr":"Points of credit to be approved by the department. Requires submission of an outline of the proposed research for approval by the faculty member who is to supervise the work of the student. The research facilities of the department are available to qualified students interested in advanced study.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -66891,7 +66896,7 @@
   {
     "course_code":"ELEN E9002",
     "course_title":"RESEARCH II",
-    "course_descr":null,
+    "course_descr":"Points of credit to be approved by the department. Requires submission of an outline of the proposed research for approval by the faculty member who is to supervise the work of the student. The research facilities of the department are available to qualified students interested in advanced study.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -66916,7 +66921,7 @@
   {
     "course_code":"ELEN E9002",
     "course_title":"RESEARCH II",
-    "course_descr":null,
+    "course_descr":"Points of credit to be approved by the department. Requires submission of an outline of the proposed research for approval by the faculty member who is to supervise the work of the student. The research facilities of the department are available to qualified students interested in advanced study.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -66941,7 +66946,7 @@
   {
     "course_code":"ELEN E9002",
     "course_title":"RESEARCH II",
-    "course_descr":null,
+    "course_descr":"Points of credit to be approved by the department. Requires submission of an outline of the proposed research for approval by the faculty member who is to supervise the work of the student. The research facilities of the department are available to qualified students interested in advanced study.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -75498,6 +75503,31 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"ENME E3105",
+    "course_title":"MECHANICS",
+    "course_descr":"Elements of statics; dynamics of a particle and systems of particles.",
+    "instructor":null,
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"2:25pm",
+    "call_number":"17376",
+    "campus":null,
+    "class_id":"E3105-20271-R01",
+    "course_subtitle":null,
+    "department":"Mechanical Engineering",
+    "department_code":"ENME",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENME\/E3105-20271-R01\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"F",
+    "section_key":"20271ENME3105ER01",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"ENME E3106",
     "course_title":"DYNAMICS AND VIBRATIONS",
     "course_descr":"Kinematics of rigid bodies; momentum and energy methods; vibrations of discrete and continuous systems; eigen-value problems, natural frequencies and modes. Basics of computer simulation of dynamics problems using MATLAB or Mathematica.",
@@ -79946,7 +79976,7 @@
   {
     "course_code":"EXRS GR0015",
     "course_title":"Extended Residence Climate School",
-    "course_descr":null,
+    "course_descr":"Extended Residence enrollment category for Climate School students.",
     "instructor":"Cari E Shimkus",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -82328,7 +82358,7 @@
   {
     "course_code":"FILM AR9000",
     "course_title":"RESEARCH ARTS FILM",
-    "course_descr":null,
+    "course_descr":"After completion of the required 60 credits during the first two years in the program, MFA students in the Film Program must register for Research Arts to maintain continuous full-time enrollment. During this time, students are expected to spend at least 36 hours each week (equivalent to 12 semester credit hours) in independent research and study. As part of Research Arts, students may attend group critiques, master classes\/workshops, and\/or be engaged in individual and\/or group projects, productions, as well as other co-curricular instructional activities, as stipulated by their program.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -82975,7 +83005,7 @@
   {
     "course_code":"FILM UN1001",
     "course_title":"INTRO-FILM & MEDIA STUDIES-DIS",
-    "course_descr":null,
+    "course_descr":"Co-requisite discussion section for FILM UN 1000 INTRO TO FILM & MEDIA STUDIES.",
     "instructor":null,
     "scheduled_time_start":"9:10am",
     "scheduled_time_end":"10:00am",
@@ -86591,7 +86621,7 @@
     "department":"Finance",
     "department_code":"FINC",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/FINC\/B9330-20271-001\/",
-    "location":"620 GEFFEN HALL",
+    "location":"590 GEFFEN HALL",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Architecture",
@@ -92437,7 +92467,7 @@
   {
     "course_code":"GREK UN3998",
     "course_title":"SUPERVISED RSRCH IN GREEK LIT",
-    "course_descr":null,
+    "course_descr":"Prerequisites: the director of undergraduate studies permission. A program of research in Greek literature. Research paper required.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -93032,7 +93062,7 @@
   {
     "course_code":"HCM_ PS5556",
     "course_title":"Internship Experience 1 - HCM",
-    "course_descr":null,
+    "course_descr":"This asynchronous, 1.5-credit elective integrates a supervised professional internship with structured reflection and applied coursework to help students connect academic learning to real-world practice. Through career design, goal setting, and reflective exercises, students clarify professional interests, build adaptability, and articulate the impact of their internship on future career pathways.",
     "instructor":"Jia Wei Cao",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -93057,7 +93087,7 @@
   {
     "course_code":"HCM_ PS5995",
     "course_title":"Internship in Industry - HCM",
-    "course_descr":null,
+    "course_descr":"This asynchronous, 3-credit elective provides an immersive, supervised professional internship experience paired with structured reflection and applied academic work. Students integrate theory with practice while assessing organizational culture, ethical decision-making, feedback practices, and professional competencies. Through guided analysis and reflective assignments, students deepen self-awareness, strengthen career readiness, and clarify how their internship experience shapes future professional goals.\nSupervised internship work (Category B) 210 total hours for the semester = 12,600 min; Pre-recorded course videos on Canvas with tracked completion (Category D) 20 min x 12 = 240 min; Monitored online discussion board on Canvas with instructor feedback (Category C) 30 min x 12 = 360 min; TOTAL = 13,200 min (for entire semester)",
     "instructor":"Sabrina Bellina",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -104287,8 +104317,8 @@
     "course_title":"TOPICS IN OPERATIONS RESEARCH",
     "course_descr":"Each offering of this course is devoted to a particular sector of Operations Research and its contemporary research, practice, and approaches. If topics are different, then course can be taken more than once for credit.\n  \nor\u00a0\n  \nSpecial topics arranged as the need and availability arises. Topics are usually offered on a one-time basis. Since the content of this course changes each time it is offered, it may be repeated for credit. Consult the department for section assignment.",
     "instructor":null,
-    "scheduled_time_start":"7:00pm",
-    "scheduled_time_end":"9:30pm",
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"11:30am",
     "call_number":"16918",
     "campus":null,
     "class_id":"E4570-20271-002",
@@ -104296,7 +104326,7 @@
     "department":"Industrial Engineering and Operations Research",
     "department_code":"IEOR",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/IEOR\/E4570-20271-002\/",
-    "location":null,
+    "location":"313 Fayerweather",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Engineering:Graduate"
@@ -104305,7 +104335,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":"M",
+    "scheduled_days":"W",
     "section_key":"20271IEOR4570E002",
     "type":"LECTURE"
   },
@@ -105966,7 +105996,7 @@
     "call_number":"12860",
     "campus":null,
     "class_id":"E8100-20271-003",
-    "course_subtitle":null,
+    "course_subtitle":"Causal Inference for Dec.",
     "department":"Industrial Engineering and Operations Research",
     "department_code":"IEOR",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/IEOR\/E8100-20271-003\/",
@@ -108187,7 +108217,7 @@
   {
     "course_code":"IKNS PS5556",
     "course_title":"Internship Experience 1 - IKNS",
-    "course_descr":null,
+    "course_descr":"This asynchronous, 1.5-credit elective integrates a supervised professional internship with structured reflection and applied coursework to help students connect academic learning to real-world practice. Through career design, goal setting, and reflective exercises, students clarify professional interests, build adaptability, and articulate the impact of their internship on future career pathways.\nSupervised internship work (Category B) 105 total hours for the semester = 6,300 min; Pre-recorded course videos on Canvas with tracked completion (Category D) 20 min x 7 = 140 min; Monitored online discussion board on Canvas with instructor feedback (Category C) 30 min x 7 = 210 min; TOTAL = 6,650 min (for entire semester)",
     "instructor":"Jia Wei Cao",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -135806,7 +135836,7 @@
   {
     "course_code":"NECR PS5556",
     "course_title":"Internship Experience 1 - NECR",
-    "course_descr":null,
+    "course_descr":"This asynchronous, 1.5-credit elective integrates a supervised professional internship with structured reflection and applied coursework to help students connect academic learning to real-world practice. Through career design, goal setting, and reflective exercises, students clarify professional interests, build adaptability, and articulate the impact of their internship on future career pathways.\nSupervised internship work (Category B) 105 total hours for the semester = 6,300 min; Pre-recorded course videos on Canvas with tracked completion (Category D) 20 min x 7 = 140 min; Monitored online discussion board on Canvas with instructor feedback (Category C) 30 min x 7 = 210 min; TOTAL = 6,650 min (for entire semester)",
     "instructor":"Jia Wei Cao",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -135831,7 +135861,7 @@
   {
     "course_code":"NECR PS5995",
     "course_title":"Internship in Industry -  NECR",
-    "course_descr":null,
+    "course_descr":"This asynchronous, 3-credit elective provides an immersive, supervised professional internship experience paired with structured reflection and applied academic work. Students integrate theory with practice while assessing organizational culture, ethical decision-making, feedback practices, and professional competencies. Through guided analysis and reflective assignments, students deepen self-awareness, strengthen career readiness, and clarify how their internship experience shapes future professional goals.\nSupervised internship work (Category B) 210 total hours for the semester = 12,600 min; Pre-recorded course videos on Canvas with tracked completion (Category D) 20 min x 12 = 240 min; Monitored online discussion board on Canvas with instructor feedback (Category C) 30 min x 12 = 360 min; TOTAL = 13,200 min (for entire semester)",
     "instructor":"Sabrina Bellina",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -137533,7 +137563,7 @@
   {
     "course_code":"NOPM PS5995",
     "course_title":"Internship in Industry - NOPM",
-    "course_descr":null,
+    "course_descr":"This asynchronous, 3-credit elective provides an immersive, supervised professional internship experience paired with structured reflection and applied academic work. Students integrate theory with practice while assessing organizational culture, ethical decision-making, feedback practices, and professional competencies. Through guided analysis and reflective assignments, students deepen self-awareness, strengthen career readiness, and clarify how their internship experience shapes future professional goals.\nSupervised internship work (Category B) 210 total hours for the semester = 12,600 min; Pre-recorded course videos on Canvas with tracked completion (Category D) 20 min x 12 = 240 min; Monitored online discussion board on Canvas with instructor feedback (Category C) 30 min x 12 = 360 min; TOTAL = 13,200 min (for entire semester)",
     "instructor":"Sabrina Bellina",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -139199,7 +139229,7 @@
   {
     "course_code":"NURS N6593",
     "course_title":"Psychotherapy: Theories and Techniques",
-    "course_descr":null,
+    "course_descr":"This course is designed to present major theoretical systems of psychotherapy, with a special emphasis on how clients in therapy change and how to conceptualize clients' presenting concerns from theoretical points of view. Issues related to application of theory in practice, especially those related to individual\/cultural diversity will be addressed and emphasized.",
     "instructor":"Erin M Shindle",
     "scheduled_time_start":"8:00am",
     "scheduled_time_end":"9:50am",
@@ -139226,7 +139256,7 @@
   {
     "course_code":"NURS N7002",
     "course_title":"Advanced Physiology and Pathophysiology",
-    "course_descr":null,
+    "course_descr":"This course is the second of two sequential courses that provide an in-depth exploration of human physiology and pathophysiology, with an emphasis on the relationship between health and the alterations leading to disease. Students will focus on the etiology, pathogenic mechanisms, clinical features, and therapeutic interventions of commonly occurring diseases manifesting in specific physiologic processes or organ systems.",
     "instructor":"Sally W Aboelela",
     "scheduled_time_start":"2:00pm",
     "scheduled_time_end":"4:50pm",
@@ -139382,7 +139412,7 @@
   {
     "course_code":"NURS N7307",
     "course_title":"Primary Care for the FNP: Practicum",
-    "course_descr":null,
+    "course_descr":"The clinical practicum is designed to prepare the students to provide primary care across the lifespan focusing on health maintenance. The clinical experience will familiarize the student with age-appropriate physical, cognitive and emotional\u00a0development, routine well and episodic care\u00a0as well as\u00a0identifying social determinants of health and health disparities in primary care.",
     "instructor":"Beatriz Makhoulian",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -139409,7 +139439,7 @@
   {
     "course_code":"NURS N7560",
     "course_title":"Family Systems Across the Lifespan",
-    "course_descr":null,
+    "course_descr":"This course will present Family Systems Theory as it applies to families across the lifespan. It will apply the concepts of Family Systems Theory to the understanding and assessment of the family life cycle from a multi-generation and multi-cultural perspective. The conceptual framework will assist the clinician in the provision of family-centered primary care.",
     "instructor":"Patricia Ryan",
     "scheduled_time_start":"3:00pm",
     "scheduled_time_end":"4:50pm",
@@ -139436,7 +139466,7 @@
   {
     "course_code":"NURS N7710",
     "course_title":"PHYSICAL & PELVIC ASSESSMENT FOR MIDWIFE",
-    "course_descr":null,
+    "course_descr":"Through didactic and simulation lab sessions, this course provides the student with knowledge and clinical skills for physical and pelvic assessment of individuals across the reproductive lifespan. Foundational concepts of autonomy, empowerment, equity, justice and respect are emphasized to foster the development of skills needed to perform person-centered, physical and pelvic assessment",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -139463,7 +139493,7 @@
   {
     "course_code":"NURS N8144",
     "course_title":"Complex Care Seminar I",
-    "course_descr":null,
+    "course_descr":"This course is designed to expand the clinical reasoning, diagnostic acumen, and management skills of Family Nurse Practitioner (FNP) students when dealing with complex patient cases. Emphasizing multifaceted conditions, comorbidities, and intricate care coordination, students will analyze patient cases requiring advanced critical thinking and interprofessional collaboration.",
     "instructor":null,
     "scheduled_time_start":"1:00pm",
     "scheduled_time_end":"2:50pm",
@@ -139515,7 +139545,7 @@
   {
     "course_code":"NURS N8321",
     "course_title":"Diagnosis and Management in Primary Care",
-    "course_descr":null,
+    "course_descr":"This is the first of three consecutive courses focusing on utilizing a systems and developmental approach in primary care. This course will focus on the differential diagnosis and comprehensive care management of commonly encountered acute and chronic physical and mental health illnesses as they affect individuals across the lifespan. For each system studied, health assessment, diagnostic findings, and multi-modal management will be highlighted.",
     "instructor":"Armel A Dogruluk",
     "scheduled_time_start":"10:00am",
     "scheduled_time_end":"12:50pm",
@@ -139567,7 +139597,7 @@
   {
     "course_code":"NURS N8361",
     "course_title":"Clinical Seminar in Women's Health",
-    "course_descr":null,
+    "course_descr":"Clinical seminar in Women's Health is designed to provide the Women's Health Subspecialty student with an opportunity to expand on clinical practicum experiences via case presentation and faculty led group clinical discussion. Each student will present a case chosen from the women's health practicum experience. The presenting student will lead a class discussion based on their case facilitated by the course instructor. Some seminar sessions will include a didactic component presented by the course instructor to further elaborate on clinical issues presented in the cases over the course of the semester.",
     "instructor":"Adena Bargad",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -139594,7 +139624,7 @@
   {
     "course_code":"NURS N8445",
     "course_title":"Advanced Gynecology",
-    "course_descr":null,
+    "course_descr":"This course addresses issues throughout a woman\u2019s life span in the arena of gynecological well-being. It focuses on the development of a knowledge base that enables us to understand what gynecological and reproductive well-being is for a woman and how this impacts her health physically, mentally, emotionally, and culturally. From this perspective, we can develop appropriate patient education to maximize her ability to achieve and maintain well-being. Topics include the full range of gynecologic and reproductive health maintenance issues and challenges women face across the life cycle.",
     "instructor":"Adena Bargad",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -139621,7 +139651,7 @@
   {
     "course_code":"NURS N8474",
     "course_title":"Breastfeeding, Postpartum, and Newborn C",
-    "course_descr":null,
+    "course_descr":"This course provides the graduate nurse-midwifery student with a theoretical and practical knowledge of the neonate, breastfeeding, and the postpartum period with an emphasis on the first six weeks. Normal physiology and family centered management skills are emphasized. Students are encouraged to provide care that recognizes and respects the cultural dynamics of the family. Pathophysiology is also covered to familiarize the nurse-midwife with various interventions when deviations from the normal are encountered.",
     "instructor":null,
     "scheduled_time_start":"9:00am",
     "scheduled_time_end":"11:50am",
@@ -139648,7 +139678,7 @@
   {
     "course_code":"NURS N8479",
     "course_title":"Intrapartum: Didactic",
-    "course_descr":null,
+    "course_descr":"Didactic presents an understanding of the process of labor, birthing, and immediate postpartum and how this impacts on the mother and baby from a midwifery perspective. Specific focus centers on the midwifery management process, particularly for the normal, with differential diagnosis to determine when intervention\/consultation is necessary. Birthing management will be viewed in a variety of settings and cultures. Practical skills for assessment and management will be taught. The course will provide mastery of the core competencies required by ACNM.",
     "instructor":"Caroline S Handschuh",
     "scheduled_time_start":"1:00pm",
     "scheduled_time_end":"3:50pm",
@@ -139702,7 +139732,7 @@
   {
     "course_code":"NURS N8588",
     "course_title":"Group Theory",
-    "course_descr":null,
+    "course_descr":"This seminar course is designed to increase the student's understanding of the key concepts, the dynamics, and development of psychotherapy groups. Students are encouraged to explore the theoretical issues inherent in group practice and their relationship to psychiatric nursing theory and practice. Finally, students will address the developmental needs of clients as they relate to the group experience.",
     "instructor":"Michelle M Charles",
     "scheduled_time_start":"8:00am",
     "scheduled_time_end":"9:50am",
@@ -139729,7 +139759,7 @@
   {
     "course_code":"NURS N8589",
     "course_title":"Supervision and Practice in Individual P",
-    "course_descr":null,
+    "course_descr":"Patients are assigned according to the student's needs for a learning experience. Students arrange for clinical contact with the assigned patients at least weekly and more often if required. The student is responsible for assessing the biophysical, psychosocial, cultural, cognitive, and spiritual dimensions of the patients and planning appropriate interventions.",
     "instructor":"Erin M Shindle",
     "scheduled_time_start":"10:00am",
     "scheduled_time_end":"11:50am",
@@ -139756,7 +139786,7 @@
   {
     "course_code":"NURS N8589",
     "course_title":"Supervision and Practice in Individual P",
-    "course_descr":null,
+    "course_descr":"Patients are assigned according to the student's needs for a learning experience. Students arrange for clinical contact with the assigned patients at least weekly and more often if required. The student is responsible for assessing the biophysical, psychosocial, cultural, cognitive, and spiritual dimensions of the patients and planning appropriate interventions.",
     "instructor":null,
     "scheduled_time_start":"6:00pm",
     "scheduled_time_end":"7:50pm",
@@ -139783,7 +139813,7 @@
   {
     "course_code":"NURS N8589",
     "course_title":"Supervision and Practice in Individual P",
-    "course_descr":null,
+    "course_descr":"Patients are assigned according to the student's needs for a learning experience. Students arrange for clinical contact with the assigned patients at least weekly and more often if required. The student is responsible for assessing the biophysical, psychosocial, cultural, cognitive, and spiritual dimensions of the patients and planning appropriate interventions.",
     "instructor":"Michelle M Charles",
     "scheduled_time_start":"6:00pm",
     "scheduled_time_end":"7:50pm",
@@ -139810,7 +139840,7 @@
   {
     "course_code":"NURS N8589",
     "course_title":"Supervision and Practice in Individual P",
-    "course_descr":null,
+    "course_descr":"Patients are assigned according to the student's needs for a learning experience. Students arrange for clinical contact with the assigned patients at least weekly and more often if required. The student is responsible for assessing the biophysical, psychosocial, cultural, cognitive, and spiritual dimensions of the patients and planning appropriate interventions.",
     "instructor":null,
     "scheduled_time_start":"6:00pm",
     "scheduled_time_end":"7:50pm",
@@ -139864,7 +139894,7 @@
   {
     "course_code":"NURS N8821",
     "course_title":"Clinical Seminar in Adult-Gerontology Ac",
-    "course_descr":null,
+    "course_descr":"Clinical Seminar in Adult-Gerontology Acute Care is designed to provide the AG-ACNP student an academic environment in which the students share their practicum experience and present case studies and journal articles for discussion with their peers. In this scholarly forum, the students are expected to present selected cases from their practicum in an organized format. The students are expected to facilitate a class dialogue and offer appropriate references.",
     "instructor":"Danielle K Zuma",
     "scheduled_time_start":"1:00pm",
     "scheduled_time_end":"2:50pm",
@@ -139999,7 +140029,7 @@
   {
     "course_code":"NURS N8878",
     "course_title":"Nurse Anesthesia Residency IIB",
-    "course_descr":null,
+    "course_descr":"Clinical experiences provide the opportunity for students to integrate theoretical basis of practice within the clinical setting. Students move along a continuum from healthy adults and children to patients with multi-system failures. The focus is on perioperative theory transfer, development of assessment skills, and the implementation and evaluation of a plan of care. Patient interviews and teaching are integral to the process. Basic principles of decision making are emphasized throughout. Mastery to the specific level of competency is required within a specific time framework. Practice settings include operating rooms, emergency rooms, and diagnostic suites. CRNA faculty members act as facilitators of learning. Clinical conferences and professional meetings help to reinforce and evaluate learning. This is the second of four required residencies.",
     "instructor":"Maribeth L Massie",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -140026,7 +140056,7 @@
   {
     "course_code":"NURS N8878",
     "course_title":"Nurse Anesthesia Residency IIB",
-    "course_descr":null,
+    "course_descr":"Clinical experiences provide the opportunity for students to integrate theoretical basis of practice within the clinical setting. Students move along a continuum from healthy adults and children to patients with multi-system failures. The focus is on perioperative theory transfer, development of assessment skills, and the implementation and evaluation of a plan of care. Patient interviews and teaching are integral to the process. Basic principles of decision making are emphasized throughout. Mastery to the specific level of competency is required within a specific time framework. Practice settings include operating rooms, emergency rooms, and diagnostic suites. CRNA faculty members act as facilitators of learning. Clinical conferences and professional meetings help to reinforce and evaluate learning. This is the second of four required residencies.",
     "instructor":"Donald R Jr Boyd",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -140053,7 +140083,7 @@
   {
     "course_code":"NURS N8878",
     "course_title":"Nurse Anesthesia Residency IIB",
-    "course_descr":null,
+    "course_descr":"Clinical experiences provide the opportunity for students to integrate theoretical basis of practice within the clinical setting. Students move along a continuum from healthy adults and children to patients with multi-system failures. The focus is on perioperative theory transfer, development of assessment skills, and the implementation and evaluation of a plan of care. Patient interviews and teaching are integral to the process. Basic principles of decision making are emphasized throughout. Mastery to the specific level of competency is required within a specific time framework. Practice settings include operating rooms, emergency rooms, and diagnostic suites. CRNA faculty members act as facilitators of learning. Clinical conferences and professional meetings help to reinforce and evaluate learning. This is the second of four required residencies.",
     "instructor":"Antoinette T Padula",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -140080,7 +140110,7 @@
   {
     "course_code":"NURS N8878",
     "course_title":"Nurse Anesthesia Residency IIB",
-    "course_descr":null,
+    "course_descr":"Clinical experiences provide the opportunity for students to integrate theoretical basis of practice within the clinical setting. Students move along a continuum from healthy adults and children to patients with multi-system failures. The focus is on perioperative theory transfer, development of assessment skills, and the implementation and evaluation of a plan of care. Patient interviews and teaching are integral to the process. Basic principles of decision making are emphasized throughout. Mastery to the specific level of competency is required within a specific time framework. Practice settings include operating rooms, emergency rooms, and diagnostic suites. CRNA faculty members act as facilitators of learning. Clinical conferences and professional meetings help to reinforce and evaluate learning. This is the second of four required residencies.",
     "instructor":"Christian Cansino",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -140107,7 +140137,7 @@
   {
     "course_code":"NURS N8882",
     "course_title":"DNP Anesthesia Residency 5A",
-    "course_descr":null,
+    "course_descr":"This final clinical residency is to enable the Nurse Anesthesia Resident (NAR) to transition to practice.The NAR precepted in the clinical area requires supervision appropriate to their level of training. For Nurse Anesthesia Residency V, the NAR\u2019s professional growth, asassessed by the preceptor, will determine the level of supervision by the preceptor, but not to be less than induction, emergence and all key portions of case. Also, the preceptor must be immediately available for consultation. The AANA does not permit the NAR to be supervised by a resident-in-training or anesthesiologist assistant.\n  \nClinical focus is on the delivery of anesthesia care in a broad range of clinical settings to patients with multi-system problems. Emphasis is placed on refinement and perfection of decision-making skills in patient care management and rapid assessment of health status of patients. Collaborative practice within a team structure is emphasized. In addition to direct patient care, participation in journal club, clinical case reports, and in-service presentations to a multidisciplinary audience provide the environment for the NARto enact his or her role as a clinical nurse specialist. Experience includes obstetrics, neurosurgery, cardio-thoracic surgery, pediatrics, post anesthesia care and critical care units. CRNA faculty members and preceptors act as guides.",
     "instructor":"Maribeth L Massie",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -140134,7 +140164,7 @@
   {
     "course_code":"NURS N8882",
     "course_title":"DNP Anesthesia Residency 5A",
-    "course_descr":null,
+    "course_descr":"This final clinical residency is to enable the Nurse Anesthesia Resident (NAR) to transition to practice.The NAR precepted in the clinical area requires supervision appropriate to their level of training. For Nurse Anesthesia Residency V, the NAR\u2019s professional growth, asassessed by the preceptor, will determine the level of supervision by the preceptor, but not to be less than induction, emergence and all key portions of case. Also, the preceptor must be immediately available for consultation. The AANA does not permit the NAR to be supervised by a resident-in-training or anesthesiologist assistant.\n  \nClinical focus is on the delivery of anesthesia care in a broad range of clinical settings to patients with multi-system problems. Emphasis is placed on refinement and perfection of decision-making skills in patient care management and rapid assessment of health status of patients. Collaborative practice within a team structure is emphasized. In addition to direct patient care, participation in journal club, clinical case reports, and in-service presentations to a multidisciplinary audience provide the environment for the NARto enact his or her role as a clinical nurse specialist. Experience includes obstetrics, neurosurgery, cardio-thoracic surgery, pediatrics, post anesthesia care and critical care units. CRNA faculty members and preceptors act as guides.",
     "instructor":"Donald R Jr Boyd",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -140161,7 +140191,7 @@
   {
     "course_code":"NURS N8882",
     "course_title":"DNP Anesthesia Residency 5A",
-    "course_descr":null,
+    "course_descr":"This final clinical residency is to enable the Nurse Anesthesia Resident (NAR) to transition to practice.The NAR precepted in the clinical area requires supervision appropriate to their level of training. For Nurse Anesthesia Residency V, the NAR\u2019s professional growth, asassessed by the preceptor, will determine the level of supervision by the preceptor, but not to be less than induction, emergence and all key portions of case. Also, the preceptor must be immediately available for consultation. The AANA does not permit the NAR to be supervised by a resident-in-training or anesthesiologist assistant.\n  \nClinical focus is on the delivery of anesthesia care in a broad range of clinical settings to patients with multi-system problems. Emphasis is placed on refinement and perfection of decision-making skills in patient care management and rapid assessment of health status of patients. Collaborative practice within a team structure is emphasized. In addition to direct patient care, participation in journal club, clinical case reports, and in-service presentations to a multidisciplinary audience provide the environment for the NARto enact his or her role as a clinical nurse specialist. Experience includes obstetrics, neurosurgery, cardio-thoracic surgery, pediatrics, post anesthesia care and critical care units. CRNA faculty members and preceptors act as guides.",
     "instructor":"Antoinette T Padula",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -140188,7 +140218,7 @@
   {
     "course_code":"NURS N8882",
     "course_title":"DNP Anesthesia Residency 5A",
-    "course_descr":null,
+    "course_descr":"This final clinical residency is to enable the Nurse Anesthesia Resident (NAR) to transition to practice.The NAR precepted in the clinical area requires supervision appropriate to their level of training. For Nurse Anesthesia Residency V, the NAR\u2019s professional growth, asassessed by the preceptor, will determine the level of supervision by the preceptor, but not to be less than induction, emergence and all key portions of case. Also, the preceptor must be immediately available for consultation. The AANA does not permit the NAR to be supervised by a resident-in-training or anesthesiologist assistant.\n  \nClinical focus is on the delivery of anesthesia care in a broad range of clinical settings to patients with multi-system problems. Emphasis is placed on refinement and perfection of decision-making skills in patient care management and rapid assessment of health status of patients. Collaborative practice within a team structure is emphasized. In addition to direct patient care, participation in journal club, clinical case reports, and in-service presentations to a multidisciplinary audience provide the environment for the NARto enact his or her role as a clinical nurse specialist. Experience includes obstetrics, neurosurgery, cardio-thoracic surgery, pediatrics, post anesthesia care and critical care units. CRNA faculty members and preceptors act as guides.",
     "instructor":"Christian Cansino",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -140215,7 +140245,7 @@
   {
     "course_code":"NURS N8883",
     "course_title":"DNP Anesthesia Residency 5B",
-    "course_descr":null,
+    "course_descr":"This final clinical residency is to enable the Nurse Anesthesia Resident (NAR) to transition to practice.The NAR precepted in the clinical area requires supervision appropriate to their level of training. For Nurse Anesthesia Residency V, the NAR\u2019s professional growth, asassessed by the preceptor, will determine the level of supervision by the preceptor, but not to be less than induction, emergence and all key portions of case. Also, the preceptor must be immediately available for consultation. The AANA does not permit the NAR to be supervised by a resident-in-training or anesthesiologist assistant.\n  \nClinical focus is on the delivery of anesthesia care in a broad range of clinical settings to patients with multi-system problems. Emphasis is placed on refinement and perfection of decision-making skills in patient care management and rapid assessment of health status of patients. Collaborative practice within a team structure is emphasized. In addition to direct patient care, participation in journal club, clinical case reports, and in-service presentations to a multidisciplinary audience provide the environment for the NARto enact his or her role as a clinical nurse specialist. Experience includes obstetrics, neurosurgery, cardio-thoracic surgery, pediatrics, post anesthesia care and critical care units. CRNA faculty members and preceptors act as guides.",
     "instructor":"Maribeth L Massie",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -140242,7 +140272,7 @@
   {
     "course_code":"NURS N8883",
     "course_title":"DNP Anesthesia Residency 5B",
-    "course_descr":null,
+    "course_descr":"This final clinical residency is to enable the Nurse Anesthesia Resident (NAR) to transition to practice.The NAR precepted in the clinical area requires supervision appropriate to their level of training. For Nurse Anesthesia Residency V, the NAR\u2019s professional growth, asassessed by the preceptor, will determine the level of supervision by the preceptor, but not to be less than induction, emergence and all key portions of case. Also, the preceptor must be immediately available for consultation. The AANA does not permit the NAR to be supervised by a resident-in-training or anesthesiologist assistant.\n  \nClinical focus is on the delivery of anesthesia care in a broad range of clinical settings to patients with multi-system problems. Emphasis is placed on refinement and perfection of decision-making skills in patient care management and rapid assessment of health status of patients. Collaborative practice within a team structure is emphasized. In addition to direct patient care, participation in journal club, clinical case reports, and in-service presentations to a multidisciplinary audience provide the environment for the NARto enact his or her role as a clinical nurse specialist. Experience includes obstetrics, neurosurgery, cardio-thoracic surgery, pediatrics, post anesthesia care and critical care units. CRNA faculty members and preceptors act as guides.",
     "instructor":"Donald R Jr Boyd",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -140269,7 +140299,7 @@
   {
     "course_code":"NURS N8883",
     "course_title":"DNP Anesthesia Residency 5B",
-    "course_descr":null,
+    "course_descr":"This final clinical residency is to enable the Nurse Anesthesia Resident (NAR) to transition to practice.The NAR precepted in the clinical area requires supervision appropriate to their level of training. For Nurse Anesthesia Residency V, the NAR\u2019s professional growth, asassessed by the preceptor, will determine the level of supervision by the preceptor, but not to be less than induction, emergence and all key portions of case. Also, the preceptor must be immediately available for consultation. The AANA does not permit the NAR to be supervised by a resident-in-training or anesthesiologist assistant.\n  \nClinical focus is on the delivery of anesthesia care in a broad range of clinical settings to patients with multi-system problems. Emphasis is placed on refinement and perfection of decision-making skills in patient care management and rapid assessment of health status of patients. Collaborative practice within a team structure is emphasized. In addition to direct patient care, participation in journal club, clinical case reports, and in-service presentations to a multidisciplinary audience provide the environment for the NARto enact his or her role as a clinical nurse specialist. Experience includes obstetrics, neurosurgery, cardio-thoracic surgery, pediatrics, post anesthesia care and critical care units. CRNA faculty members and preceptors act as guides.",
     "instructor":"Antoinette T Padula",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -140296,7 +140326,7 @@
   {
     "course_code":"NURS N8883",
     "course_title":"DNP Anesthesia Residency 5B",
-    "course_descr":null,
+    "course_descr":"This final clinical residency is to enable the Nurse Anesthesia Resident (NAR) to transition to practice.The NAR precepted in the clinical area requires supervision appropriate to their level of training. For Nurse Anesthesia Residency V, the NAR\u2019s professional growth, asassessed by the preceptor, will determine the level of supervision by the preceptor, but not to be less than induction, emergence and all key portions of case. Also, the preceptor must be immediately available for consultation. The AANA does not permit the NAR to be supervised by a resident-in-training or anesthesiologist assistant.\n  \nClinical focus is on the delivery of anesthesia care in a broad range of clinical settings to patients with multi-system problems. Emphasis is placed on refinement and perfection of decision-making skills in patient care management and rapid assessment of health status of patients. Collaborative practice within a team structure is emphasized. In addition to direct patient care, participation in journal club, clinical case reports, and in-service presentations to a multidisciplinary audience provide the environment for the NARto enact his or her role as a clinical nurse specialist. Experience includes obstetrics, neurosurgery, cardio-thoracic surgery, pediatrics, post anesthesia care and critical care units. CRNA faculty members and preceptors act as guides.",
     "instructor":"Christian Cansino",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -154435,7 +154465,7 @@
   {
     "course_code":"PMGT PS5556",
     "course_title":"Internship Experience 1 - PMGT",
-    "course_descr":null,
+    "course_descr":"This asynchronous, 1.5-credit elective integrates a supervised professional internship with structured reflection and applied coursework to help students connect academic learning to real-world practice. Through career design, goal setting, and reflective exercises, students clarify professional interests, build adaptability, and articulate the impact of their internship on future career pathways.\n Supervised internship work (Category B) 105 total hours for the semester = 6,300 min; Pre-recorded course videos on Canvas with tracked completion (Category D) 20 min x 7 = 140 min; Monitored online discussion board on Canvas with instructor feedback (Category C) 30 min x 7 = 210 min; TOTAL = 6,650 min (for entire semester)",
     "instructor":"Jia Wei Cao",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -154460,7 +154490,7 @@
   {
     "course_code":"PMGT PS5995",
     "course_title":"Internship in Industry - PMGT",
-    "course_descr":null,
+    "course_descr":"This asynchronous, 3-credit elective provides an immersive, supervised professional internship experience paired with structured reflection and applied academic work. Students integrate theory with practice while assessing organizational culture, ethical decision-making, feedback practices, and professional competencies. Through guided analysis and reflective assignments, students deepen self-awareness, strengthen career readiness, and clarify how their internship experience shapes future professional goals.\nSupervised internship work (Category B) 210 total hours for the semester = 12,600 min; Pre-recorded course videos on Canvas with tracked completion (Category D) 20 min x 12 = 240 min; Monitored online discussion board on Canvas with instructor feedback (Category C) 30 min x 12 = 360 min; TOTAL = 13,200 min (for entire semester)",
     "instructor":"Sabrina Bellina",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -162186,7 +162216,7 @@
   {
     "course_code":"PSYC UN3636",
     "course_title":"Culture and Human Development",
-    "course_descr":null,
+    "course_descr":"Children develop in families, in schools, and with friends and peers. These family, school, and social learning environments are structured according to a culture\u2019s values, norms, practices, and physical and economic environments. Thus, psychological development cannot be separated from cultural specifics. Rather than seeing cultural differences as something to control for, the perspective of cultural psychology is that human development and psychology are inextricably cultural, and psychological constructs and variability can only be understood by keeping culture in mind. The culture we live in is like the air we breathe. We exist in it not aware of how it infuses our own psychology, our society\u2019s psychology, and our explanations of individual differences. This course, by focusing on cultural variability within common psychological constructs, should make the cultural nature of psychology visible and essential to our understanding of psychology. Beyond presenting examples of cultural variance, the course will focus on theories that explain how culture operates within psychology. To increase the visibility of the cultural influences on psychological phenomena, the course will focus on a single society as a case which is not the United States, with the expectation that we would see more clearly what is cultural in our common psychological explanations. The focus case is Israel, which is, like the US, notably multicultural having immigrants from around the world and indigenous people. With this case, the variety of cultural values and practices along with notable social change within certain communities that push cultural shifts within those communities will bring to the fore the central role that culture plays in variability in pathways of human development.",
     "instructor":null,
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -177752,7 +177782,7 @@
   {
     "course_code":"SOCI UN3999",
     "course_title":"INDIVIDUAL STUDY II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: open only to qualified majors in the department; the director of undergraduate studies permission is required. An opportunity for research under the direction of an individual faculty member. Students intending to write a year-long senior thesis should plan to register for C3996 in the spring semester of their senior year and are strongly advised to consult the undergraduate studies as they plan their programs.",
     "instructor":"Sudhir A Venkatesh",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -177768,7 +177798,9 @@
     "open_to":null,
     "points":"1-6",
     "prerequisites":[
-
+      [
+        "C3996"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20271SOCI3999C010",
@@ -188078,7 +188110,7 @@
   {
     "course_code":"SPRT PS5556",
     "course_title":"Internship Experience 1 - SPRT",
-    "course_descr":null,
+    "course_descr":"This asynchronous, 1.5-credit elective integrates a supervised professional internship with structured reflection and applied coursework to help students connect academic learning to real-world practice. Through career design, goal setting, and reflective exercises, students clarify professional interests, build adaptability, and articulate the impact of their internship on future career pathways.\nSupervised internship work (Category B) 105 total hours for the semester = 6,300 min; Pre-recorded course videos on Canvas with tracked completion (Category D) 20 min x 7 = 140 min; Monitored online discussion board on Canvas with instructor feedback (Category C) 30 min x 7 = 210 min; TOTAL = 6,650 min (for entire semester)",
     "instructor":"Jia Wei Cao",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -188292,7 +188324,7 @@
   {
     "course_code":"SPRT PS5995",
     "course_title":"Internship in Industry - SPRT",
-    "course_descr":null,
+    "course_descr":"This asynchronous, 3-credit elective provides an immersive, supervised professional internship experience paired with structured reflection and applied academic work. Students integrate theory with practice while assessing organizational culture, ethical decision-making, feedback practices, and professional competencies. Through guided analysis and reflective assignments, students deepen self-awareness, strengthen career readiness, and clarify how their internship experience shapes future professional goals.",
     "instructor":"Sabrina Bellina",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -192997,7 +193029,7 @@
   {
     "course_code":"SUMA PS5556",
     "course_title":"Internship Experience 1 - SUMA",
-    "course_descr":null,
+    "course_descr":"This asynchronous, 1.5-credit elective integrates a supervised professional internship with structured reflection and applied coursework to help students connect academic learning to real-world practice. Through career design, goal setting, and reflective exercises, students clarify professional interests, build adaptability, and articulate the impact of their internship on future career pathways. Supervised internship work (Category B) 105 total hours for the semester = 6,300 min; Pre-recorded course videos on Canvas with tracked completion (Category D) 20 min x 7 = 140 min; Monitored online discussion board on Canvas with instructor feedback (Category C) 30 min x 7 = 210 min; TOTAL = 6,650 min (for entire semester)",
     "instructor":"Jia Wei Cao",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -193134,7 +193166,7 @@
   {
     "course_code":"SUMA PS5995",
     "course_title":"Internship in Industry - SUMA",
-    "course_descr":null,
+    "course_descr":"This asynchronous, 3-credit elective provides an immersive, supervised professional internship experience paired with structured reflection and applied academic work. Students integrate theory with practice while assessing organizational culture, ethical decision-making, feedback practices, and professional competencies. Through guided analysis and reflective assignments, students deepen self-awareness, strengthen career readiness, and clarify how their internship experience shapes future professional goals.\nSupervised internship work (Category B) 210 total hours for the semester = 12,600 min; Pre-recorded course videos on Canvas with tracked completion (Category D) 20 min x 12 = 240 min; Monitored online discussion board on Canvas with instructor feedback (Category C) 30 min x 12 = 360 min; TOTAL = 13,200 min (for entire semester)",
     "instructor":"Sabrina Bellina",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -193679,7 +193711,7 @@
   {
     "course_code":"SUSC PS5556",
     "course_title":"Internship Experience 1 - SUSC",
-    "course_descr":null,
+    "course_descr":"This asynchronous, 1.5-credit elective integrates a supervised professional internship with structured reflection and applied coursework to help students connect academic learning to real-world practice. Through career design, goal setting, and reflective exercises, students clarify professional interests, build adaptability, and articulate the impact of their internship on future career pathways.\nSupervised internship work (Category B) 105 total hours for the semester = 6,300 min; Pre-recorded course videos on Canvas with tracked completion (Category D) 20 min x 7 = 140 min; Monitored online discussion board on Canvas with instructor feedback (Category C) 30 min x 7 = 210 min; TOTAL = 6,650 min (for entire semester)",
     "instructor":"Jia Wei Cao",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -193704,7 +193736,7 @@
   {
     "course_code":"SUSC PS5995",
     "course_title":"Internship in Industry - SUSC",
-    "course_descr":null,
+    "course_descr":"This asynchronous, 3-credit elective provides an immersive, supervised professional internship experience paired with structured reflection and applied academic work. Students integrate theory with practice while assessing organizational culture, ethical decision-making, feedback practices, and professional competencies. Through guided analysis and reflective assignments, students deepen self-awareness, strengthen career readiness, and clarify how their internship experience shapes future professional goals.\nSupervised internship work (Category B) 210 total hours for the semester = 12,600 min; Pre-recorded course videos on Canvas with tracked completion (Category D) 20 min x 12 = 240 min; Monitored online discussion board on Canvas with instructor feedback (Category C) 30 min x 12 = 360 min; TOTAL = 13,200 min (for entire semester)",
     "instructor":"Sabrina Bellina",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -194090,7 +194122,7 @@
   {
     "course_code":"THEA AR9000",
     "course_title":"RESEARCH ARTS THEATRE",
-    "course_descr":null,
+    "course_descr":"After completion of the required 60 credits during the first two years in the program, MFA students in the Theatre Program must register for Research Arts to maintain continuous full-time enrollment. During this time, students are expected to spend at least 36 hours each week (equivalent to 12 semester credit hours) in independent research and study. As part of Research Arts, students may attend group critiques, master classes\/workshops, and\/or be engaged in individual and\/or group projects, productions, as well as other co-curricular instructional activities, as stipulated by their program.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -194115,7 +194147,7 @@
   {
     "course_code":"THEA AR9800",
     "course_title":"THEATRE RESEARCH ARTS INTERNSHIP",
-    "course_descr":null,
+    "course_descr":"Theatre Program students in the Directing, Dramaturgy, Playwriting, and Stage Management concentrations must complete at least two (2) internships to graduate. Theatre Management and Producing must complete three (3) internships to\u00a0graduate. These provide\u00a0exposure to and experience\u00a0in a professional theatre beyond the classroom. This requirement cannot be waived.\u00a0\n\u200b\u200b\u200b\u200b\u200b\u200b\u200b",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -194167,7 +194199,7 @@
   {
     "course_code":"THEA AT6040",
     "course_title":"FUNDAMENTALS OF PLAYWRITING",
-    "course_descr":null,
+    "course_descr":".",
     "instructor":"Neena Beber",
     "scheduled_time_start":"2:00pm",
     "scheduled_time_end":"5:00pm",
@@ -197731,7 +197763,7 @@
   {
     "course_code":"TMGT PS5556",
     "course_title":"Internship Experience 1 - TMGT",
-    "course_descr":null,
+    "course_descr":"This asynchronous, 1.5-credit elective integrates a supervised professional internship with structured reflection and applied coursework to help students connect academic learning to real-world practice. Through career design, goal setting, and reflective exercises, students clarify professional interests, build adaptability, and articulate the impact of their internship on future career pathways.\nSupervised internship work (Category B) 105 total hours for the semester = 6,300 min; Pre-recorded course videos on Canvas with tracked completion (Category D) 20 min x 7 = 140 min; Monitored online discussion board on Canvas with instructor feedback (Category C) 30 min x 7 = 210 min; TOTAL = 6,650 min (for entire semester)",
     "instructor":"Jia Wei Cao",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -197756,7 +197788,7 @@
   {
     "course_code":"TMGT PS5995",
     "course_title":"Internship in Industry - TMGT",
-    "course_descr":null,
+    "course_descr":"This asynchronous, 3-credit elective provides an immersive, supervised professional internship experience paired with structured reflection and applied academic work. Students integrate theory with practice while assessing organizational culture, ethical decision-making, feedback practices, and professional competencies. Through guided analysis and reflective assignments, students deepen self-awareness, strengthen career readiness, and clarify how their internship experience shapes future professional goals.\nSupervised internship work (Category B) 210 total hours for the semester = 12,600 min; Pre-recorded course videos on Canvas with tracked completion (Category D) 20 min x 12 = 240 min; Monitored online discussion board on Canvas with instructor feedback (Category C) 30 min x 12 = 360 min; TOTAL = 13,200 min (for entire semester)",
     "instructor":"Sabrina Bellina",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -202849,7 +202881,7 @@
   {
     "course_code":"WRIT AR9000",
     "course_title":"RESEARCH ARTS WRITING",
-    "course_descr":null,
+    "course_descr":"After completion of the required 60 credits during the first two years in the program, MFA students in the Writing Program must register for Research Arts to maintain continuous full-time enrollment. During this time, students are expected to spend at least 36 hours each week (equivalent to 12 semester credit hours) in independent research and study. As part of Research Arts, students may attend group critiques, master classes\/workshops, and\/or be engaged in individual and\/or group projects, productions, as well as other co-curricular instructional activities, as stipulated by their program.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -202874,7 +202906,7 @@
   {
     "course_code":"WRIT AR9800",
     "course_title":"WRIT RESEARCH ARTS INTERNSHIP",
-    "course_descr":null,
+    "course_descr":"Interenship for MFA Writing Research Arts Students",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,

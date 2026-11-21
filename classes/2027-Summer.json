@@ -77,7 +77,7 @@
   {
     "course_code":"ANTH S1002",
     "course_title":"THE INTERPRETATION OF CULTURE",
-    "course_descr":null,
+    "course_descr":"The anthropological approach to the study of culture and human society. Using ethnographic case studies, the course explores the universality of cultural categories (social organization, economy, law, belief systems, arts, etc.) and the range of variation among human societies.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -102,7 +102,7 @@
   {
     "course_code":"ANTH S3921",
     "course_title":"ANTI-COLONIALISM",
-    "course_descr":null,
+    "course_descr":"The age of colonialism, so it seems, is long over. Decolonization has resulted in the emergence of postcolonial polities and societies that are now, in many instances, two generations old. But is it clear that the problem of colonialism has disappeared? Almost everywhere in the postcolonial world the project of building independent polities, economies and societies have faltered, sometimes run aground. Indeed, one might say that the anti-colonial dream of emancipation has evaporated. Through a careful exploration of the conceptual argument and rhetorical style of five central anti-colonial texts\u2014C.L.R. James\u2019 The Black Jacobins, Mahatma Gandhi\u2019s Hind Swaraj, Aim\u00e9 Cesair\u00e9\u2019s Discourse on Colonialism, Albert Memmi\u2019s Colonizer and Colonized, and Frantz Fanon\u2019s The Wretched of the Earth\u2014this course aims to inquire into the image of colonialism as a structure of dominant power, and the image of its anticipated aftermaths: What were the perceived ill-effects of colonial power? What did colonialism do to the colonized that required rectification? In what ways did the critique of colonial power (the identification of what was wrong with it) shape the longing for its anti-colonial overcoming?",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -285,7 +285,7 @@
   {
     "course_code":"CHEM S0001",
     "course_title":"PREPARATION-COLLEGE CHEMISTRY",
-    "course_descr":null,
+    "course_descr":"This course is preparation for Chemistry UN1403 or the equivalent, as well as for other science courses. It is intended for students who have not attended school for some time or who do not have a firm grasp of high school chemistry. Topics include inorganic nomenclature, chemical reactions, chemical bonding and its relation to molecular structure, stoichiometry, periodic properties of elements, chemical equilibrium, gas laws, acids and bases, and electrochemistry.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -301,7 +301,9 @@
     "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "UN1403"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20272CHEM0001S001",
@@ -310,7 +312,7 @@
   {
     "course_code":"CHEM S0001",
     "course_title":"PREPARATION-COLLEGE CHEMISTRY",
-    "course_descr":null,
+    "course_descr":"This course is preparation for Chemistry UN1403 or the equivalent, as well as for other science courses. It is intended for students who have not attended school for some time or who do not have a firm grasp of high school chemistry. Topics include inorganic nomenclature, chemical reactions, chemical bonding and its relation to molecular structure, stoichiometry, periodic properties of elements, chemical equilibrium, gas laws, acids and bases, and electrochemistry.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -326,7 +328,9 @@
     "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "UN1403"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20272CHEM0001SD01",
@@ -335,7 +339,7 @@
   {
     "course_code":"CHEM S1403",
     "course_title":"GENERAL CHEMISTRY I-LECTURES",
-    "course_descr":null,
+    "course_descr":"Prerequisites: high school chemistry and algebra, CHEM S0001, or the department's permission. Topics include stoichiometry, states of matter, nuclear properties, electronic structures of atoms, periodic properties, chemical bonding, molecular geometry, introduction to quantum mechanics and atomic theory, introduction to organic, biological chemistry and inorganic coordination chemistry. Topical subjects may include spectroscopy, solid state and materials science, polymer science and macromolecular structures. The order of presentation of topics may differ from the order presented here. Students are required to attend the separate daily morning recitations which accompany the lectures (total time block: MTWR 9:30-12:20). Registering for CHEM S1403D will automatically register students for the recitation section. Students who wish to take the full sequence of General Chemistry Lectures and General Chemistry Laboratory should also register for CHEM S1404Q and CHEM S1500 (see below). This course is equivalent to CHEM W1403 General Chemistry I Lecture.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -351,7 +355,17 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "CHEM S0001",
+        "CHEM S1403",
+        "CHEM S1404"
+      ],
+      [
+        "CHEM S1500"
+      ],
+      [
+        "CHEM W1403"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20272CHEM1403S001",
@@ -360,7 +374,7 @@
   {
     "course_code":"CHEM S1404",
     "course_title":"GENERAL CHEMISTRY II-LECTURES",
-    "course_descr":null,
+    "course_descr":"Prerequisites: CHEM S1403 General Chemistry I Lecture or the equivalent. Topics include gases, kinetic theory of gases, states of matter: liquids and solids, chemical equilibria, acids and bases, applications of equilibria, thermochemistry and spontaneous processes (energy, enthalpy, entropy, free energy) as well as chemical kinetics and electrochemistry. The order of presentation of topics may differ from the order presented here. Students must also attend the daily morning recitations which accompany the lectures (total time block: MTWR 9:30-12:20). Registering for CHEM S1404Q will automatically register students for the recitation section. The continuation of CHEM S1403D General Chemistry I Lecture. Students who wish to take the full sequence of General Chemistry Lectures and General Chemistry Laboratory should also register for CHEM S1403D and CHEM S1500 (see below). This course is equivalent to CHEM UN1404 General Chemistry II Lecture.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -376,7 +390,18 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "CHEM S1403",
+        "CHEM S1404",
+        "CHEM S1403",
+        "CHEM S1403"
+      ],
+      [
+        "CHEM S1500"
+      ],
+      [
+        "CHEM UN1404"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20272CHEM1404S001",
@@ -385,7 +410,7 @@
   {
     "course_code":"CHEM S1404",
     "course_title":"GENERAL CHEMISTRY II-LECTURES",
-    "course_descr":null,
+    "course_descr":"Prerequisites: CHEM S1403 General Chemistry I Lecture or the equivalent. Topics include gases, kinetic theory of gases, states of matter: liquids and solids, chemical equilibria, acids and bases, applications of equilibria, thermochemistry and spontaneous processes (energy, enthalpy, entropy, free energy) as well as chemical kinetics and electrochemistry. The order of presentation of topics may differ from the order presented here. Students must also attend the daily morning recitations which accompany the lectures (total time block: MTWR 9:30-12:20). Registering for CHEM S1404Q will automatically register students for the recitation section. The continuation of CHEM S1403D General Chemistry I Lecture. Students who wish to take the full sequence of General Chemistry Lectures and General Chemistry Laboratory should also register for CHEM S1403D and CHEM S1500 (see below). This course is equivalent to CHEM UN1404 General Chemistry II Lecture.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -401,7 +426,18 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "CHEM S1403",
+        "CHEM S1404",
+        "CHEM S1403",
+        "CHEM S1403"
+      ],
+      [
+        "CHEM S1500"
+      ],
+      [
+        "CHEM UN1404"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20272CHEM1404S002",
@@ -410,7 +446,7 @@
   {
     "course_code":"CHEM S1406",
     "course_title":"GENERAL CHEMISTRY II-REC",
-    "course_descr":null,
+    "course_descr":"Corequisites: CHEM S1404X. To be enrolled in CHEM S1404X, you must be enrolled in CHEM S1406X.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -426,7 +462,15 @@
     "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "CHEM S1404"
+      ],
+      [
+        "CHEM S1404"
+      ],
+      [
+        "CHEM S1406"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20272CHEM1406S001",
@@ -435,7 +479,7 @@
   {
     "course_code":"CHEM S1406",
     "course_title":"GENERAL CHEMISTRY II-REC",
-    "course_descr":null,
+    "course_descr":"Corequisites: CHEM S1404X. To be enrolled in CHEM S1404X, you must be enrolled in CHEM S1406X.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -451,7 +495,15 @@
     "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "CHEM S1404"
+      ],
+      [
+        "CHEM S1404"
+      ],
+      [
+        "CHEM S1406"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20272CHEM1406S002",
@@ -460,7 +512,7 @@
   {
     "course_code":"CHEM S1406",
     "course_title":"GENERAL CHEMISTRY II-REC",
-    "course_descr":null,
+    "course_descr":"Corequisites: CHEM S1404X. To be enrolled in CHEM S1404X, you must be enrolled in CHEM S1406X.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -476,7 +528,15 @@
     "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "CHEM S1404"
+      ],
+      [
+        "CHEM S1404"
+      ],
+      [
+        "CHEM S1406"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20272CHEM1406S003",
@@ -485,7 +545,7 @@
   {
     "course_code":"CHEM S1500",
     "course_title":"GENERAL CHEMISTRY: LABORATORY",
-    "course_descr":null,
+    "course_descr":"Prerequisites: (CHEM UN1403) Introduction to basic experimental techniques in chemistry, including quantitative procedures, chemical analysis, and descriptive chemistry. To be enrolled in CHEM S1500X you must also register for CHEM S1501 Lab Lecture.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -501,7 +561,13 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "CHEM S1500",
+        "CHEM S1501"
+      ],
+      [
+        "CHEM UN1403"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20272CHEM1500S001",
@@ -510,7 +576,7 @@
   {
     "course_code":"CHEM S1500",
     "course_title":"GENERAL CHEMISTRY: LABORATORY",
-    "course_descr":null,
+    "course_descr":"Prerequisites: (CHEM UN1403) Introduction to basic experimental techniques in chemistry, including quantitative procedures, chemical analysis, and descriptive chemistry. To be enrolled in CHEM S1500X you must also register for CHEM S1501 Lab Lecture.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -526,7 +592,13 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "CHEM S1500",
+        "CHEM S1501"
+      ],
+      [
+        "CHEM UN1403"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20272CHEM1500S002",
@@ -535,7 +607,7 @@
   {
     "course_code":"CHEM S1500",
     "course_title":"GENERAL CHEMISTRY: LABORATORY",
-    "course_descr":null,
+    "course_descr":"Prerequisites: (CHEM UN1403) Introduction to basic experimental techniques in chemistry, including quantitative procedures, chemical analysis, and descriptive chemistry. To be enrolled in CHEM S1500X you must also register for CHEM S1501 Lab Lecture.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -551,7 +623,13 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "CHEM S1500",
+        "CHEM S1501"
+      ],
+      [
+        "CHEM UN1403"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20272CHEM1500S003",
@@ -560,7 +638,7 @@
   {
     "course_code":"CHEM S1500",
     "course_title":"GENERAL CHEMISTRY: LABORATORY",
-    "course_descr":null,
+    "course_descr":"Prerequisites: (CHEM UN1403) Introduction to basic experimental techniques in chemistry, including quantitative procedures, chemical analysis, and descriptive chemistry. To be enrolled in CHEM S1500X you must also register for CHEM S1501 Lab Lecture.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -576,7 +654,13 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "CHEM S1500",
+        "CHEM S1501"
+      ],
+      [
+        "CHEM UN1403"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20272CHEM1500S004",
@@ -585,7 +669,7 @@
   {
     "course_code":"CHEM S1501",
     "course_title":"GENERAL CHEMISTRY LAB-LECTURE",
-    "course_descr":null,
+    "course_descr":"Corequisites: CHEM S1500 Lab lecture for CHEM S1500 General Chemistry Laboratory.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -601,7 +685,10 @@
     "open_to":null,
     "points":"0",
     "prerequisites":[
-
+      [
+        "CHEM S1500",
+        "CHEM S1500"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20272CHEM1501S001",
@@ -610,7 +697,7 @@
   {
     "course_code":"CHEM S2443",
     "course_title":"ORGANIC CHEMISTRY I-LECTURES",
-    "course_descr":null,
+    "course_descr":"Prerequisites: CHEM S1403 General Chemistry I Lecture, CHEM S1404 General Chemistry II Lecture and CHEM S1500 General Chemistry Lab or their equivalents taken within the previous five years. Principles of organic chemistry. The structure and reactivity of organic molecules from the standpoint of modern theories of chemistry. Stereochemistry, reactions of organic molecules, mechanisms of organic reactions, syntheses and degradations of organic molecules, spectroscopic techniques of structure determination. Please note that students must attend a recitation for this class. Students who wish to take the full organic chemistry lecture sequence and laboratory should also register for CHEM S2444Q Organic Chemistry II Lecture and CHEM S2543Q Organic Chemistry Lab (see below). This course is equivalent to CHEM UN2443 Organic Chemistry I Lecture.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -626,7 +713,20 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "CHEM S1403"
+      ],
+      [
+        "CHEM S1404"
+      ],
+      [
+        "CHEM S1500",
+        "CHEM S2444"
+      ],
+      [
+        "CHEM S2543",
+        "CHEM UN2443"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20272CHEM2443S001",
@@ -635,7 +735,7 @@
   {
     "course_code":"CHEM S2444",
     "course_title":"ORGANIC CHEMISTRY II-LECTURES",
-    "course_descr":null,
+    "course_descr":"Prerequisites: CHEM S2443D Organic Chemistry I Lecture or the equivalent. The principles of organic chemistry. The structure and reactivity of organic molecules are examined from the standpoint of modern theories of chemistry. Topics include stereochemistry, reactions of organic molecules, mechanisms of organic reactions, syntheses and degradations of organic molecules, and spectroscopic techniques of structure determination. This course is a continuation of CHEM S2443D Organic Chemistry I Lecture. Please note that students must attend a recitation for this class. Students who wish to take the full organic chemistry lecture sequence and laboratory should also register for CHEM S2443D Organic Chemistry I Lecture and CHEM S2543Q Organic Chemistry Lab - see below. This course is equivalent to CHEM UN2444 Organic Chemistry II Lecture.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -651,7 +751,17 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "CHEM S2443"
+      ],
+      [
+        "CHEM S2443",
+        "CHEM S2443"
+      ],
+      [
+        "CHEM S2543",
+        "CHEM UN2444"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20272CHEM2444S001",
@@ -660,7 +770,7 @@
   {
     "course_code":"CHEM S2444",
     "course_title":"ORGANIC CHEMISTRY II-LECTURES",
-    "course_descr":null,
+    "course_descr":"Prerequisites: CHEM S2443D Organic Chemistry I Lecture or the equivalent. The principles of organic chemistry. The structure and reactivity of organic molecules are examined from the standpoint of modern theories of chemistry. Topics include stereochemistry, reactions of organic molecules, mechanisms of organic reactions, syntheses and degradations of organic molecules, and spectroscopic techniques of structure determination. This course is a continuation of CHEM S2443D Organic Chemistry I Lecture. Please note that students must attend a recitation for this class. Students who wish to take the full organic chemistry lecture sequence and laboratory should also register for CHEM S2443D Organic Chemistry I Lecture and CHEM S2543Q Organic Chemistry Lab - see below. This course is equivalent to CHEM UN2444 Organic Chemistry II Lecture.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -676,7 +786,17 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "CHEM S2443"
+      ],
+      [
+        "CHEM S2443",
+        "CHEM S2443"
+      ],
+      [
+        "CHEM S2543",
+        "CHEM UN2444"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20272CHEM2444S002",
@@ -685,7 +805,7 @@
   {
     "course_code":"CHEM S2543",
     "course_title":"ORGANIC CHEMISTRY LABORATORY",
-    "course_descr":null,
+    "course_descr":"Prerequisites: CHEM UN1500 General Chemistry Lab, CHEM UN2443 Organic Chemistry I - Lecture. Techniques of experimental organic chemistry, with emphasis on understanding fundamental principles underlying the experiments in methodology of solving laboratory problems involving organic molecules. Attendance at the first laboratory session is mandatory. Please note that you must complete CHEM UN2443 Organic Chemistry I Lecture or the equivalent to register for this lab course. This course is equivalent to CHEM UN2543 Organic Chemistry Laboratory.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -701,7 +821,14 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "CHEM UN1500"
+      ],
+      [
+        "CHEM UN2443",
+        "CHEM UN2443",
+        "CHEM UN2543"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20272CHEM2543S001",
@@ -710,7 +837,7 @@
   {
     "course_code":"CHEM S2543",
     "course_title":"ORGANIC CHEMISTRY LABORATORY",
-    "course_descr":null,
+    "course_descr":"Prerequisites: CHEM UN1500 General Chemistry Lab, CHEM UN2443 Organic Chemistry I - Lecture. Techniques of experimental organic chemistry, with emphasis on understanding fundamental principles underlying the experiments in methodology of solving laboratory problems involving organic molecules. Attendance at the first laboratory session is mandatory. Please note that you must complete CHEM UN2443 Organic Chemistry I Lecture or the equivalent to register for this lab course. This course is equivalent to CHEM UN2543 Organic Chemistry Laboratory.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -726,7 +853,14 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "CHEM UN1500"
+      ],
+      [
+        "CHEM UN2443",
+        "CHEM UN2443",
+        "CHEM UN2543"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20272CHEM2543S002",
@@ -960,7 +1094,7 @@
   {
     "course_code":"CLSL GU4013",
     "course_title":"Jewish Worlds in Eastern Europe: A Journ",
-    "course_descr":null,
+    "course_descr":"Pushing back against this trope of homelessness, this course illuminates the robust, vibrant, and multifacetted\n qualities of a home in the Diaspora, lasting for over a millennium, that both Ashkenazi and Sephardi\n Jews managed to create for themselves in lands, predominantly populated by Slavs. They did so despite the\n many constraints of legal and religious discrimination, threats of physical violence, displacement, and countless\n forms of exclusion from dominant society. Moving across centuries, countries, and languages, we will revisit the\n contributions of the Jews to their so called \u201chost cultures\u201d by way of diverse media\u2014literary and non-fictional\n works, memoirs, artistic works, songs, feature and documentary films, journalistic pieces, and more. By the end\n of this journey, we will have gained a deeper understanding of the ways in which the Jews and Slavs have been\n intimately imbricated and intertwined since times immemorial.\n \n All course materials are available in English. No reading knowledge of Russian or other Slavic languages\n is required. Course participants with the reading knowledge of any region-specific language are encouraged to\n consult the respective originals, provided by the instructor upon request. This course will be of interest to those\n majoring in Slavic and\/or Jewish Studies, as well as anyone interested in Comparative Literature, History, Art\n History, and Film and Visual Studies.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -1488,7 +1622,7 @@
   {
     "course_code":"EEEB S1001",
     "course_title":"BIODIVERSITY",
-    "course_descr":null,
+    "course_descr":"An introduction to the enormous diversity of life on Earth. From bacteria to mammals, this course will survey species diversity, with an emphasis on ecological interactions and conservation. The course will also use basics of genetics and evolutionary biology to explore how diversity is generated and maintained. No previous knowledge of science is assumed. Fulfills a science requirement for most Columbia and GS undergraduates.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -1513,7 +1647,7 @@
   {
     "course_code":"EEEB S1115",
     "course_title":"THE LIFE AQUATIC",
-    "course_descr":null,
+    "course_descr":"Water covers the majority of the earth\u2019s surface but what of the life in these waters? Rivers, wetlands, lakes, estuaries and oceans provide habitat for an extraordinary diversity of animals. This course explores the amazing array of aquatic animals that occupy both freshwater and marine ecosystems as well as the natural and human activities that impact their survival. No previous knowledge of science is assumed. Fulfills the science requirement for most Columbia and GS undergraduates.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -1538,7 +1672,7 @@
   {
     "course_code":"EEEB S1115",
     "course_title":"THE LIFE AQUATIC",
-    "course_descr":null,
+    "course_descr":"Water covers the majority of the earth\u2019s surface but what of the life in these waters? Rivers, wetlands, lakes, estuaries and oceans provide habitat for an extraordinary diversity of animals. This course explores the amazing array of aquatic animals that occupy both freshwater and marine ecosystems as well as the natural and human activities that impact their survival. No previous knowledge of science is assumed. Fulfills the science requirement for most Columbia and GS undergraduates.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -1563,7 +1697,7 @@
   {
     "course_code":"EEEB S3015",
     "course_title":"ANIMAL BEHAVIOR THRU FIELDWORK",
-    "course_descr":null,
+    "course_descr":"Why do birds sing? Why do wolves hunt in packs, but spiders hunt alone? Why are worker bees willing to die to protect the queen? Using evolutionary principles as the unifying theme, we will survey the study of animal behavior, including the history, basic principles, and research methods.\u00a0\n  \nFieldwork as an important component of this course.\u00a0 Through a range of approaches, students will gain familiarity with the scientific method, behavioral observation and research design.\u00a0\u00a0 Although this is listed as a 3000-level course, no prior biology experience is required. Fulfills the science requirement for most Columbia and GS undergraduates",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -1588,7 +1722,7 @@
   {
     "course_code":"EESC S1004",
     "course_title":"Dinosaurs and the History of Life",
-    "course_descr":null,
+    "course_descr":"Dinosaurs \u00a0\nexplores how science works and provide practical knowledge about the history of life and how we have come to understand it. We learn how to analyze the evolutionary relationships of organisms and examine how dinosaurs came to be exemplars of a very successful group of organisms dominant on land for 140 million years. We will delve deeply into how direct descendants of small carnivorous theropod dinosaurs evolved into birds, still more diverse than mammals, dominating the air. The Mesozoic, a \u201chot-house world\u201d, with no ice caps and was the kind of world we are hurtling towards because of our input of greenhouse gases into the atmosphere, and we will look at how their time is a natural experiment for our future. The non-avian dinosaur met their end in a remarkable cataclysm discovered by detective work that we will delve deeply into as a paradigm of the scientific method\u00a0 Finally, they are fun and spectacular - monsters more fantastic than any person has invented in legend or religion - and they are still with us!",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -1613,7 +1747,7 @@
   {
     "course_code":"EESC UN2500",
     "course_title":"Earth's Past and Present Climate",
-    "course_descr":null,
+    "course_descr":"The course examines the modern atmosphere, ocean, cryosphere and other components of the Earth\u2019s climate system, and considers how they have changed in the past. Topics include global energy balance, greenhouse gases, thermodynamics of the atmosphere, moisture and clouds, ocean biology, chemistry and physics. The general circulation of the atmosphere as well as the surface and deep ocean will be considered from first principles and modern observations. Multiple intervals of Earth\u2019s past will be considered, including substantially warmer and colder periods than the modern, as well as the repeated oscillations between glaciations and interglacial episodes of the past two million years. Some emphasis will be place on relatively rapid climate changes that have occurred naturally in the past, and the course will conclude with a consideration of recent trends and future projections.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -4014,7 +4148,7 @@
   {
     "course_code":"PSYC GU4237",
     "course_title":"Machine Intelligence",
-    "course_descr":null,
+    "course_descr":"This seminar will survey historical and modern developments in machine intelligence from fields\n such as psychology, neuroscience, and computer science, and from approaches such as\n cybernetics, artificial intelligence, machine learning, robotics, connectionism, neural networks,\n and deep learning. The emphasis is on the conceptual understanding of topics. The course does\n not include, nor require a background in, computer programming and statistics. The overall goal\n is for students to become informed consumers of applications of artificial intelligence.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -4039,7 +4173,7 @@
   {
     "course_code":"PSYC S1001",
     "course_title":"THE SCIENCE OF PSYCHOLOGY",
-    "course_descr":null,
+    "course_descr":"Introduction to the science of human behavior. Topics include history of psychology, brain function and development, sleep and dreams, sensation and perception, learning and memory, theories of development, language and cognition, research methods, emotion, mental illness, and therapy.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -4064,7 +4198,7 @@
   {
     "course_code":"PSYC S1001",
     "course_title":"THE SCIENCE OF PSYCHOLOGY",
-    "course_descr":null,
+    "course_descr":"Introduction to the science of human behavior. Topics include history of psychology, brain function and development, sleep and dreams, sensation and perception, learning and memory, theories of development, language and cognition, research methods, emotion, mental illness, and therapy.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -4139,7 +4273,7 @@
   {
     "course_code":"PSYC S2450",
     "course_title":"BEHAVIORAL NEUROSCIENCE",
-    "course_descr":null,
+    "course_descr":"Prerequisites: PSYC UN1001 An introduction to the analysis of psychological issues by anatomical, physiological, and pharmacological methods. Topics include neurons, neurotransmitters, neural circuits, human neuroanatomy, vision, learning, memory, emotion, and sleep and circadian rhythms.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -4155,7 +4289,9 @@
     "open_to":null,
     "points":"3",
     "prerequisites":[
-
+      [
+        "PSYC UN1001"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20272PSYC2450S001",
@@ -4219,7 +4355,7 @@
   {
     "course_code":"PSYC S2630",
     "course_title":"SOCIAL PSYCHOLOGY",
-    "course_descr":null,
+    "course_descr":"Surveys important methods, findings, and theories in the study of social influences on behavior. Emphasizes different perspectives on the relation between individuals and society.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -4244,7 +4380,7 @@
   {
     "course_code":"PSYC S2830",
     "course_title":"Clinical Psychology",
-    "course_descr":null,
+    "course_descr":"Clinical psychology is a broad and expanding field. This course will provide students with a broad overview of approaches to treatment and assessment in clinical psychology. These include theoretical orientations and current debates within the field. The course will also provide students with cultural and ethical considerations within the field. Finally, the course will offer many illustrative examples of the application of the provided material.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -4269,7 +4405,7 @@
   {
     "course_code":"PSYC S3433",
     "course_title":"Prenatal Programming",
-    "course_descr":null,
+    "course_descr":"This seminar course will focus on the\n impact of the prenatal period in programming lifelong health and development through\n altering physiology starting from the molecular level.\n  \nWe will start by defining the characteristics of the prenatal period and discuss history\n and perspectives related to developmental programming. As our first main theme, we\n will continue with discussing the effects of this developmental programming on\n lifelong health and developmental outcomes. As the second main theme, we will cover\n the physiological mechanisms underlying prenatal programming by focusing on the\n changes in the nervous, endocrine and immune systems. As our third main theme, we\n will further go into the molecular mechanisms associated with these physiological\n changes, including epigenetic mechanisms and their potential intergenerational\n transmission. We will end with discussing more recent topics in the field together with\n policy implications of the topics discussed during the semester.\n  \nBy covering these topics, students are expected to gain a better understanding of a) how\n our physiology, behavior and health is programmed starting from the prenatal period,\n b) the mechanisms of prenatal programming, and c) the impact of prenatal\n programming on our perspective on the prenatal environment. With this, the students\n are expected to place behavior and health in a lifelong perspective with potential\n intergenerational effects.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -4294,7 +4430,7 @@
   {
     "course_code":"PSYC S3472",
     "course_title":"Psychedelic Neuroscience: From Molecules",
-    "course_descr":null,
+    "course_descr":"Psychedelics are receiving growing attention in the fields of psychology, psychiatry, and neuroscience for their therapeutic potential. Psychedelic compounds like psilocybin, LSD, and DMT produce a wide range of changes to perception, ranging from visual perception to alterations in one\u2019s sense of self. When combined with psychological support or psychotherapy, psychedelics have been shown to lead to rapid and long-lasting therapeutic benefits for a wide range of mental health disorders, including major depression and alcohol use disorder. The acute alterations in perception and long-lasting clinical effects offer exciting insight into the relationship between the mind and the brain. This course will focus on the current state of research on the psychological and neurobiological effects of psychedelics. We will begin with a crash-course into the basics of neuroscience and research methodology. Next, the course will delve into how psychedelics alter brain functioning, both acutely during the drug effects as well as long after they have worn off. Studies covered will span molecular, cellular, and systems level analysis. A core element of the course will include reviewing methodological approaches and neuroscientific evidence for psychedelics interventions in the treatment of clinical\/psychiatric disorders. We will also review the clinical data and link neurobiological findings to their practical application to move the field of psychedelic science forward. Throughout the course, there will be a specific focus on critical appraisal of research, identifying strengths and limitations surrounding current research, and important avenues for future research. Students should leave the class with an enhanced ability to evaluate research findings and a broad understanding of the mechanisms of action of psychedelics.\n  \nThe format of the course will include lectures, class discussions and presentations, and guest speakers.\n  \nPrerequisites: \nPSYC 1001 and any PSYC 2400-level neuroscience course or permission of the instructor.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -4344,7 +4480,7 @@
   {
     "course_code":"PSYC S3625",
     "course_title":"CLINICAL NEUROPSYCHOLOGY SEM",
-    "course_descr":null,
+    "course_descr":"Prerequisites: the instructor's permission required; contact emccaski@barnard.edu. An introductory course in neuroscience like PSYC 1001 or PSYC 2450. Analysis of the assessment of physical and psychiatric diseases impacting the central nervous system, with emphasis on the relationship between neuropathology and cognitive and behavioral deficits.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -4369,7 +4505,7 @@
   {
     "course_code":"PSYC S4655",
     "course_title":"The science of me, you and us:  insights",
-    "course_descr":null,
+    "course_descr":"Why do we feel the way we do, how do we understand ourselves and others, and how does this relate to our social relationships?\u00a0 Why does all of this sometimes leave us feeling anxious, depressed, lonely and isolated?\u00a0 And when that happens, what we can do about it?\u00a0 In this seminar, we will tackle these questions using an integrative approach that blends social psychology, clinical psychology and neuroscience to uncover how our emotions and social interactions sometimes work well and sometimes falter.\u00a0 To do this, we will examine human behavior at multiple levels, connecting our social and emotional lives (what we experience and how we act) to cognitive processes (how our minds process information) and underlying neural mechanisms (what's happening in the brain).\u00a0 As the semester unfolds, we start by building an understanding of where our emotions come from, how we can manage them, how we make sense of other people and how we can form positive connections with them.\u00a0 This knowledge provides a foundation for taking the next step - understanding what happens when things go awry and we end up with momentary - or long-lasting - bouts of anxiety, depression, loneliness and other clinical conditions.\u00a0 We end by considering what may be everyone\u2019s life goal - the pursuit of happiness - and how everything we have learned can foster that pursuit through personal actions, social connections and psychotherapeutic support.\u00a0 The overarching goal is to build a nuanced understanding of how and why we think and feel the way we do \u2013 about ourselves and others \u2013 that can inform both scientific and personal explorations of what \u201cwellbeing\u201d and \u201cmental health\u201d means.\n  \nPrerequisites\n  \nEquivalents of an introductory Psychology course and one more advanced lecture, lab or seminar course in Psychology or a related discipline (and\/or the instructor's permission).",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -4394,7 +4530,7 @@
   {
     "course_code":"RELI S2305",
     "course_title":"ISLAM",
-    "course_descr":null,
+    "course_descr":"This course is designed as an introduction to the Islamic religion, both in its pre-modern and modern manifestations. The semester begins with a survey of the central elements that unite a diverse community of Muslim peoples from a variety of geographical and cultural backgrounds. This includes a look at the Prophet and the Qur'an and the ways in which both were actualized in the development of ritual, jurisprudence, theology, and sufism\/mysticism. The course then shifts to the modern period, examining the impact of colonization and the rise of liberal secularism on the Muslim world. The tension between traditional Sunni and Shi'i systems of authority and movements for 'modernization' and\/or 'reform' feature prominently in these readings. Topics range from intellectual attempts at societal\/religious reform (e.g. Islamic Revivalism, Modernism, Progressivism) and political re-interpretations of traditional Islamic motifs (e.g. Third-Worldism and Jihadist discourse) to efforts at accommodating scientific and technological innovations (e.g. evolution, bioethics ). The class ends by examining the efforts of American and European Muslim communities to carve out distinct spheres of identity in the larger global Muslim community ( umma) through expressions of popular culture (e.g. Hip-Hop).",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -4419,7 +4555,7 @@
   {
     "course_code":"RELI S2305",
     "course_title":"ISLAM",
-    "course_descr":null,
+    "course_descr":"This course is designed as an introduction to the Islamic religion, both in its pre-modern and modern manifestations. The semester begins with a survey of the central elements that unite a diverse community of Muslim peoples from a variety of geographical and cultural backgrounds. This includes a look at the Prophet and the Qur'an and the ways in which both were actualized in the development of ritual, jurisprudence, theology, and sufism\/mysticism. The course then shifts to the modern period, examining the impact of colonization and the rise of liberal secularism on the Muslim world. The tension between traditional Sunni and Shi'i systems of authority and movements for 'modernization' and\/or 'reform' feature prominently in these readings. Topics range from intellectual attempts at societal\/religious reform (e.g. Islamic Revivalism, Modernism, Progressivism) and political re-interpretations of traditional Islamic motifs (e.g. Third-Worldism and Jihadist discourse) to efforts at accommodating scientific and technological innovations (e.g. evolution, bioethics ). The class ends by examining the efforts of American and European Muslim communities to carve out distinct spheres of identity in the larger global Muslim community ( umma) through expressions of popular culture (e.g. Hip-Hop).",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
