@@ -2147,7 +2147,7 @@
     "call_number":"14104",
     "campus":null,
     "class_id":"G5001-20271-001",
-    "course_subtitle":"CURATORIAL COLLOQUIUM",
+    "course_subtitle":null,
     "department":"Art History and Archaeology",
     "department_code":"AHIS",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/AHIS\/G5001-20271-001\/",
@@ -9758,7 +9758,7 @@
     "department":"Applied Analytics",
     "department_code":"APAN",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/APAN\/K5570-20271-D01\/",
-    "location":"ONLINE ONLY",
+    "location":null,
     "method_of_instruction":"On-Line Only",
     "open_to":[
       "Professional Studies"
@@ -9767,7 +9767,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":"W",
+    "scheduled_days":"R",
     "section_key":"20271APAN5570KD01",
     "type":"LECTURE"
   },
@@ -14455,7 +14455,7 @@
     "call_number":"15630",
     "campus":null,
     "class_id":"A8905-20271-001",
-    "course_subtitle":"Thinking Race, Reading Ar",
+    "course_subtitle":"Property: Spatial Politic",
     "department":"Architecture, Planning and Preservation",
     "department_code":"ARCH",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ARCH\/A8905-20271-001\/",
@@ -38291,7 +38291,7 @@
     "department":"Civil Engineering and Engineering Mechanics",
     "department_code":"CIEN",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/CIEN\/E4138-20271-001\/",
-    "location":"627 Seeley W. Mudd Building, Thursday 7:00pm-9:30pm",
+    "location":null,
     "method_of_instruction":"In-Person",
     "open_to":[
       "Engineering:Graduate",
@@ -41063,6 +41063,31 @@
     "scheduled_days":null,
     "section_key":"20271CMBS9202G001",
     "type":"SEMINAR"
+  },
+  {
+    "course_code":"CMBS G9602",
+    "course_title":"RESEARCH IN CMBS II",
+    "course_descr":null,
+    "instructor":"Rebecca Haeusler",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17395",
+    "campus":null,
+    "class_id":"G9602-20271-001",
+    "course_subtitle":null,
+    "department":"Cellular, Molecular, and Biophysical Studies",
+    "department_code":"CMBS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CMBS\/G9602-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3.5-12",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271CMBS9602G001",
+    "type":"INDEPENDENT"
   },
   {
     "course_code":"CMPM GR8483",
@@ -47547,7 +47572,7 @@
     "department":"Computer Science",
     "department_code":"CSEE",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/CSEE\/W4121-20271-001\/",
-    "location":"417 International Affairs Building, Monday 5:40pm-8:10pm",
+    "location":null,
     "method_of_instruction":"In-Person",
     "open_to":[
       "Engineering:Graduate"
@@ -47875,9 +47900,12 @@
     "location":"451 Computer Science Building",
     "method_of_instruction":"In-Person",
     "open_to":[
+      "Barnard College",
+      "Columbia College",
       "Engineering:Graduate",
       "Engineering:Undergraduate",
-      "GSAS"
+      "GSAS",
+      "General Studies"
     ],
     "points":"3",
     "prerequisites":[
@@ -50890,7 +50918,7 @@
     "call_number":"14929",
     "campus":null,
     "class_id":"B8162-20271-001",
-    "course_subtitle":"AI Solutions: From Diagno",
+    "course_subtitle":"AI Deployment: From Feasi",
     "department":"Decision, Risk and Operations",
     "department_code":"DROM",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/DROM\/B8162-20271-001\/",
@@ -53590,7 +53618,7 @@
     "department":"Earth and Environmental Engineering",
     "department_code":"EAEE",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/EAEE\/E4003-20271-001\/",
-    "location":null,
+    "location":"337 Seeley W. Mudd Building, Tuesday Thursday 2:40pm-3:55pm 825 Seeley W. Mudd Building",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"3",
@@ -53665,7 +53693,7 @@
     "department":"Earth and Environmental Engineering",
     "department_code":"EAEE",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/EAEE\/E4140-20271-001\/",
-    "location":null,
+    "location":"227 Seeley W. Mudd Building, Tuesday Thursday 1:10pm-2:25pm",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"3",
@@ -67772,9 +67800,7 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGI\/E1006-20271-001\/",
     "location":"309 Havemeyer Hall",
     "method_of_instruction":"In-Person",
-    "open_to":[
-      "Engineering:Undergraduate"
-    ],
+    "open_to":null,
     "points":"3",
     "prerequisites":[
 
@@ -68091,6 +68117,281 @@
     "type":"FIELD WORK"
   },
   {
+    "course_code":"ENGI E5000",
+    "course_title":"WORKPLACE COMMUNICATION IN ENGLISH",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"1:00pm",
+    "scheduled_time_end":"2:40pm",
+    "call_number":"17378",
+    "campus":null,
+    "class_id":"E5000-20271-001",
+    "course_subtitle":"WORKPLACE COMM IN ENGLISH",
+    "department":"Engineering",
+    "department_code":"ENGI",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGI\/E5000-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MTWRF",
+    "section_key":"20271ENGI5000E001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGI E5000",
+    "course_title":"WORKPLACE COMMUNICATION IN ENGLISH",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"3:30pm",
+    "scheduled_time_end":"5:10pm",
+    "call_number":"17380",
+    "campus":null,
+    "class_id":"E5000-20271-011",
+    "course_subtitle":"WORKPLACE COMM IN ENGLISH",
+    "department":"Engineering",
+    "department_code":"ENGI",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGI\/E5000-20271-011\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20271ENGI5000E011",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGI E5001",
+    "course_title":"PROFESSIONAL PRESENTATION",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"3:00pm",
+    "scheduled_time_end":"4:40pm",
+    "call_number":"17379",
+    "campus":null,
+    "class_id":"E5001-20271-001",
+    "course_subtitle":null,
+    "department":"Engineering",
+    "department_code":"ENGI",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGI\/E5001-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"MTWRF",
+    "section_key":"20271ENGI5001E001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGI E5001",
+    "course_title":"PROFESSIONAL PRESENTATION",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"2:50pm",
+    "call_number":"17382",
+    "campus":null,
+    "class_id":"E5001-20271-011",
+    "course_subtitle":null,
+    "department":"Engineering",
+    "department_code":"ENGI",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGI\/E5001-20271-011\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20271ENGI5001E011",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGI E5001",
+    "course_title":"PROFESSIONAL PRESENTATION",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"3:30pm",
+    "scheduled_time_end":"5:10pm",
+    "call_number":"17383",
+    "campus":null,
+    "class_id":"E5001-20271-012",
+    "course_subtitle":null,
+    "department":"Engineering",
+    "department_code":"ENGI",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGI\/E5001-20271-012\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20271ENGI5001E012",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGI E5002",
+    "course_title":"PROFESSIONAL COMMUNICATION IN ENGLISH",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"2:50pm",
+    "call_number":"17385",
+    "campus":null,
+    "class_id":"E5002-20271-011",
+    "course_subtitle":"PROFESSIONAL COMM IN ENGL",
+    "department":"Engineering",
+    "department_code":"ENGI",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGI\/E5002-20271-011\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20271ENGI5002E011",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGI E5002",
+    "course_title":"PROFESSIONAL COMMUNICATION IN ENGLISH",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"1:10pm",
+    "scheduled_time_end":"2:50pm",
+    "call_number":"17386",
+    "campus":null,
+    "class_id":"E5002-20271-012",
+    "course_subtitle":"PROFESSIONAL COMM IN ENGL",
+    "department":"Engineering",
+    "department_code":"ENGI",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGI\/E5002-20271-012\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"F",
+    "section_key":"20271ENGI5002E012",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGI E5003",
+    "course_title":"ACADEMIC WRITING",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"10:40am",
+    "scheduled_time_end":"12:20pm",
+    "call_number":"17387",
+    "campus":null,
+    "class_id":"E5003-20271-011",
+    "course_subtitle":null,
+    "department":"Engineering",
+    "department_code":"ENGI",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGI\/E5003-20271-011\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20271ENGI5003E011",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGI E5004",
+    "course_title":"English Conversation and Culture",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"3:30pm",
+    "scheduled_time_end":"5:10pm",
+    "call_number":"17388",
+    "campus":null,
+    "class_id":"E5004-20271-011",
+    "course_subtitle":"English Conversation & Cu",
+    "department":"Engineering",
+    "department_code":"ENGI",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGI\/E5004-20271-011\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20271ENGI5004E011",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGI E5004",
+    "course_title":"English Conversation and Culture",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"10:40am",
+    "scheduled_time_end":"12:20pm",
+    "call_number":"17389",
+    "campus":null,
+    "class_id":"E5004-20271-012",
+    "course_subtitle":"English Conversation & Cu",
+    "department":"Engineering",
+    "department_code":"ENGI",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGI\/E5004-20271-012\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"F",
+    "section_key":"20271ENGI5004E012",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGI E5009",
+    "course_title":"INDEPENDENT STUDY",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"11:00am",
+    "scheduled_time_end":"12:40pm",
+    "call_number":"17390",
+    "campus":null,
+    "class_id":"E5009-20271-011",
+    "course_subtitle":null,
+    "department":"Engineering",
+    "department_code":"ENGI",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGI\/E5009-20271-011\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"F",
+    "section_key":"20271ENGI5009E011",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"ENGI E6001",
     "course_title":"Professional development and leadership",
     "course_descr":"For first year doctoral students, emphasizing the skills needed for success in orienting them to Columbia and doctoral studies, including teaching and presentation skills (i.e., Microteaching, how to grade, hold office hours, conduct recitations, etc.); cultivating relationships with mentors, faculty, and colleagues; inclusivity; managing your budget; wellness; research and academic integrity and ethics.",
@@ -68114,6 +68415,56 @@
     "scheduled_days":null,
     "section_key":"20271ENGI6001E001",
     "type":"SEMINAR"
+  },
+  {
+    "course_code":"ENGI E7001",
+    "course_title":"PROFESSIONAL PRESENTATION",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"10:40am",
+    "scheduled_time_end":"12:20pm",
+    "call_number":"17391",
+    "campus":null,
+    "class_id":"E7001-20271-011",
+    "course_subtitle":null,
+    "department":"Engineering",
+    "department_code":"ENGI",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGI\/E7001-20271-011\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20271ENGI7001E011",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"ENGI E7009",
+    "course_title":"INDEPENDENT STUDY",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"3:00pm",
+    "scheduled_time_end":"4:40pm",
+    "call_number":"17394",
+    "campus":null,
+    "class_id":"E7009-20271-011",
+    "course_subtitle":null,
+    "department":"Engineering",
+    "department_code":"ENGI",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENGI\/E7009-20271-011\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"F",
+    "section_key":"20271ENGI7009E011",
+    "type":"LECTURE"
   },
   {
     "course_code":"ENGI E8000",
@@ -74915,8 +75266,8 @@
     "course_title":"Approaches to Literary Study Seminar",
     "course_descr":"Prerequisites: Students who register for ENGL UN2001 must also register for ENGL UN2000 Approaches to Literary Study lecture. This course is intended to introduce students to the advanced study of literature, through a weekly pairing of a faculty lecture (ENGL 2000) and small seminar led by an advanced doctoral candidate (ENGL 2001).\u00a0 Students in the course will read works from across literary history, learning the different interpretive techniques appropriate to each of the major genres (poetry, drama, and prose fiction).\u00a0 Students will also encounter the wide variety of critical approaches taken by our faculty and by the discipline at large, and will be encouraged to adapt and combine these approaches as they develop as thinkers, readers, and writers.\u00a0 ENGL 2000\/2001 is a requirement for both the English Major and English Minor.\u00a0 While it is not a general prerequisite for other lectures and seminars, it should be taken as early as possible in a student's academic program.",
     "instructor":null,
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"4:00pm",
     "call_number":"13206",
     "campus":null,
     "class_id":"W2001-20271-005",
@@ -74938,7 +75289,7 @@
         "ENGL UN2000"
       ]
     ],
-    "scheduled_days":null,
+    "scheduled_days":"T",
     "section_key":"20271ENGL2001W005",
     "type":"SEMINAR"
   },
@@ -75516,7 +75867,7 @@
     "department":"Mechanical Engineering",
     "department_code":"ENME",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENME\/E3105-20271-R01\/",
-    "location":null,
+    "location":"310 Fayerweather",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"0",
@@ -80247,7 +80598,7 @@
     "department":"Film",
     "department_code":"FILM",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/FILM\/R5120-20271-002\/",
-    "location":null,
+    "location":"507 Dodge Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Schools of the Arts"
@@ -80819,8 +81170,8 @@
     "course_title":"Tech Arts: Post Production II",
     "course_descr":"Tech Arts: Post Production II\u00a0continues teaching the core techniques for picture and sound editing and the post production workflow process for Columbia Film MFA students. We will cover preparing for a long-form edit, digital script integration, color management and continuity, advanced trimming, and advanced finishing. The hands-on lessons and exercises will be conducted using the industry-standard Non-Linear Editing Systems, Avid Media Composer, and Davinci Resolve. Each week\u2019s class will consist of hands-on demonstrations and self-paced practice using content created by the students and provided by the program.",
     "instructor":"Michael J Cacioppo Belantara",
-    "scheduled_time_start":"9:00am",
-    "scheduled_time_end":"10:15am",
+    "scheduled_time_start":"10:00am",
+    "scheduled_time_end":"1:00pm",
     "call_number":"16465",
     "campus":null,
     "class_id":"R5425-20271-001",
@@ -81756,7 +82107,7 @@
     "department":"Film",
     "department_code":"FILM",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/FILM\/R8245-20271-001\/",
-    "location":"507 Dodge Hall",
+    "location":"504 Dodge Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Schools of the Arts"
@@ -82371,7 +82722,9 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/FILM\/Q9000-20271-001\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "Schools of the Arts"
+    ],
     "points":"0",
     "prerequisites":[
 
@@ -104105,7 +104458,7 @@
     "department":"Industrial Engineering and Operations Research",
     "department_code":"IEOR",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/IEOR\/E4510-20271-001\/",
-    "location":null,
+    "location":"702 Hamilton Hall, Tuesday 4:10pm-6:40pm",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Engineering:Graduate",
@@ -104270,7 +104623,7 @@
     "department":"Industrial Engineering and Operations Research",
     "department_code":"IEOR",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/IEOR\/E4533-20271-001\/",
-    "location":"633 Seeley W. Mudd Building, Friday Saturday Sunday 9:00am-5:00pm",
+    "location":null,
     "method_of_instruction":"In-Person",
     "open_to":[
       "Engineering:Graduate",
@@ -104717,7 +105070,9 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/IEOR\/E4724-20271-001\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "Engineering:Graduate"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -136806,7 +137161,7 @@
     "course_code":"NMED PS5280",
     "course_title":"DEMENTIA NARRATIVES",
     "course_descr":"This course takes a short, intensive dive into the narratives that story our experience of and with dementia.\u00a0\u201cDementia Narratives\u201d will use the literary genres of film, fiction, memoir, and graphic novels to excavate dementia stories using three framing tools. First, we will consider the relationship between the storyteller and the person with dementia, and the positioning of the person with dementia in the context of the story. Second, we will attend to these stories as they are framed by metaphors. And third, as we attend to these narratives we will also connect them to implications for practice and policy.\u00a0In Narrative Medicine we focus on story and its importance in understanding the experience of illness for the individual, for the family or community, and for society. In this course we explore the elephant in that room: the importance of the illness experiences that cannot be narrated. Can we use the skills we gain in close reading and reflective writing to better understand the relationship between memory and self, when memory is inconsistent, free-floating, and riddled with holes? The purpose of this exploration is to better serve the needs of those whose stories do not fit the expected arcs of coherence, to understand the world of the caregivers for those with dementia, and to consider how narrative and policy inform each other in this growing arena of societal need. These questions and topics hover at the edges of current courses such as \u201cIllness\/Disability Narratives, but are generally not directly addressed.\nWeekly Class Meeting 110 min x 4 = 440 min; Activity: Group Work, Discussion Board (Category C&E)  7 weeks x 45 min = 315 min; TOTAL = 755 min (for entire semester)",
-    "instructor":null,
+    "instructor":"Emily Phelps",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
     "call_number":"13497",
@@ -140351,6 +140706,60 @@
     "type":"CLINIC"
   },
   {
+    "course_code":"NURS N9290",
+    "course_title":"Incorporating Genetics and Genomics in A",
+    "course_descr":null,
+    "instructor":"Maria Molina",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17427",
+    "campus":null,
+    "class_id":"N9290-20271-D01",
+    "course_subtitle":"INC GENETICS & GENOMICS",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9290-20271-D01\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271NURS9290ND01",
+    "type":"ONLINE COURS"
+  },
+  {
+    "course_code":"NURS N9901",
+    "course_title":"Research Residency",
+    "course_descr":null,
+    "instructor":"Maureen George",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17428",
+    "campus":null,
+    "class_id":"N9901-20271-001",
+    "course_subtitle":"RESEARCH RESIDENCY",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9901-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271NURS9901N001",
+    "type":"RESEARCH SEM"
+  },
+  {
     "course_code":"NUTR G4020",
     "course_title":"MOLECULR\/CELL BIO OF NUTRIENTS",
     "course_descr":"Second Term. Explores molecular and cellular mechanisms of nutrient action. Six major foci of modern nutritional science. These include the actions of nutrients in transcriptional regulation, in signaling pathways, on intra- and extracellular trafficking, in assuring normal development, in the maintance of antioxidant defences and nutrient\/gene interations.",
@@ -140814,6 +141223,814 @@
     "scheduled_days":null,
     "section_key":"20271OBSG7201M008",
     "type":"INTERNSHIP"
+  },
+  {
+    "course_code":"OCCT M6103",
+    "course_title":"NEUROSCIENCE",
+    "course_descr":null,
+    "instructor":"Lauren B Winterbottom",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17399",
+    "campus":null,
+    "class_id":"M6103-20271-081",
+    "course_subtitle":null,
+    "department":"Rehabilitation Medicine (RMED)",
+    "department_code":"OCCT",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/OCCT\/M6103-20271-081\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Occupational Therapy"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271OCCT6103M081",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"OCCT M6120",
+    "course_title":"COLUMBIA COMMONS",
+    "course_descr":null,
+    "instructor":"Phyllis R Simon",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17400",
+    "campus":null,
+    "class_id":"M6120-20271-081",
+    "course_subtitle":null,
+    "department":"Rehabilitation Medicine (RMED)",
+    "department_code":"OCCT",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/OCCT\/M6120-20271-081\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Occupational Therapy"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271OCCT6120M081",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"OCCT M6120",
+    "course_title":"COLUMBIA COMMONS",
+    "course_descr":null,
+    "instructor":"Lauren B Winterbottom",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17401",
+    "campus":null,
+    "class_id":"M6120-20271-082",
+    "course_subtitle":null,
+    "department":"Rehabilitation Medicine (RMED)",
+    "department_code":"OCCT",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/OCCT\/M6120-20271-082\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271OCCT6120M082",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"OCCT M6506",
+    "course_title":"LEAD I",
+    "course_descr":null,
+    "instructor":"Tyra M Banks",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17402",
+    "campus":null,
+    "class_id":"M6506-20271-081",
+    "course_subtitle":null,
+    "department":"Rehabilitation Medicine (RMED)",
+    "department_code":"OCCT",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/OCCT\/M6506-20271-081\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Occupational Therapy"
+    ],
+    "points":"2",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271OCCT6506M081",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"OCCT M6520",
+    "course_title":"Clinical Conditions II: Physical Health",
+    "course_descr":null,
+    "instructor":"Michael Urban",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17403",
+    "campus":null,
+    "class_id":"M6520-20271-081",
+    "course_subtitle":"CLINICAL CONDITIONS II",
+    "department":"Rehabilitation Medicine (RMED)",
+    "department_code":"OCCT",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/OCCT\/M6520-20271-081\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Occupational Therapy"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271OCCT6520M081",
+    "type":"CLINIC"
+  },
+  {
+    "course_code":"OCCT M6553",
+    "course_title":"AOP Adults I: Behavioral and Physical He",
+    "course_descr":null,
+    "instructor":"Patricia Precin",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17404",
+    "campus":null,
+    "class_id":"M6553-20271-081",
+    "course_subtitle":"AOP ADULTS I",
+    "department":"Rehabilitation Medicine (RMED)",
+    "department_code":"OCCT",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/OCCT\/M6553-20271-081\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Occupational Therapy"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271OCCT6553M081",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"OCCT M6572",
+    "course_title":"Research II: Inquiry of Evidence",
+    "course_descr":null,
+    "instructor":"Razan Hamed",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17405",
+    "campus":null,
+    "class_id":"M6572-20271-081",
+    "course_subtitle":"RSCH II",
+    "department":"Rehabilitation Medicine (RMED)",
+    "department_code":"OCCT",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/OCCT\/M6572-20271-081\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Occupational Therapy"
+    ],
+    "points":"2",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271OCCT6572M081",
+    "type":"PRACTICA"
+  },
+  {
+    "course_code":"OCCT M6653",
+    "course_title":"LEVEL II FIELDWORK A",
+    "course_descr":null,
+    "instructor":"Phyllis R Simon",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17406",
+    "campus":null,
+    "class_id":"M6653-20271-082",
+    "course_subtitle":"LEVEL II FIELDWRK A",
+    "department":"Rehabilitation Medicine (RMED)",
+    "department_code":"OCCT",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/OCCT\/M6653-20271-082\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Occupational Therapy"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271OCCT6653M082",
+    "type":"PRACTICA"
+  },
+  {
+    "course_code":"OCCT M6670",
+    "course_title":"Assessment and Evaluation",
+    "course_descr":null,
+    "instructor":"Cristin Holland",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17407",
+    "campus":null,
+    "class_id":"M6670-20271-081",
+    "course_subtitle":null,
+    "department":"Rehabilitation Medicine (RMED)",
+    "department_code":"OCCT",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/OCCT\/M6670-20271-081\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Occupational Therapy"
+    ],
+    "points":"1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271OCCT6670M081",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"OCCT M6671",
+    "course_title":"DEI and Professional Skills",
+    "course_descr":null,
+    "instructor":"Razan Hamed",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17408",
+    "campus":null,
+    "class_id":"M6671-20271-081",
+    "course_subtitle":"DEI and Professional Skil",
+    "department":"Rehabilitation Medicine (RMED)",
+    "department_code":"OCCT",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/OCCT\/M6671-20271-081\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Occupational Therapy"
+    ],
+    "points":"1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271OCCT6671M081",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"OCCT M8106",
+    "course_title":"Case Based Application",
+    "course_descr":null,
+    "instructor":"Julia Guzman",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17409",
+    "campus":null,
+    "class_id":"M8106-20271-089",
+    "course_subtitle":null,
+    "department":"Rehabilitation Medicine (RMED)",
+    "department_code":"OCCT",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/OCCT\/M8106-20271-089\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Occupational Therapy"
+    ],
+    "points":"1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271OCCT8106M089",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"OCCT M8106",
+    "course_title":"Case Based Application",
+    "course_descr":null,
+    "instructor":"Patricia Precin",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17410",
+    "campus":null,
+    "class_id":"M8106-20271-084",
+    "course_subtitle":null,
+    "department":"Rehabilitation Medicine (RMED)",
+    "department_code":"OCCT",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/OCCT\/M8106-20271-084\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Occupational Therapy"
+    ],
+    "points":"1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271OCCT8106M084",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"OCCT M8106",
+    "course_title":"Case Based Application",
+    "course_descr":null,
+    "instructor":"Colleen M Maher",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17411",
+    "campus":null,
+    "class_id":"M8106-20271-083",
+    "course_subtitle":null,
+    "department":"Rehabilitation Medicine (RMED)",
+    "department_code":"OCCT",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/OCCT\/M8106-20271-083\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Occupational Therapy"
+    ],
+    "points":"1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271OCCT8106M083",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"OCCT M8106",
+    "course_title":"Case Based Application",
+    "course_descr":null,
+    "instructor":"Cristin Holland",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17412",
+    "campus":null,
+    "class_id":"M8106-20271-091",
+    "course_subtitle":null,
+    "department":"Rehabilitation Medicine (RMED)",
+    "department_code":"OCCT",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/OCCT\/M8106-20271-091\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Occupational Therapy"
+    ],
+    "points":"1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271OCCT8106M091",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"OCCT M8106",
+    "course_title":"Case Based Application",
+    "course_descr":null,
+    "instructor":"Carly Goldberg",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17413",
+    "campus":null,
+    "class_id":"M8106-20271-085",
+    "course_subtitle":null,
+    "department":"Rehabilitation Medicine (RMED)",
+    "department_code":"OCCT",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/OCCT\/M8106-20271-085\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Occupational Therapy"
+    ],
+    "points":"1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271OCCT8106M085",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"OCCT M8106",
+    "course_title":"Case Based Application",
+    "course_descr":null,
+    "instructor":"Janet Kim",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17414",
+    "campus":null,
+    "class_id":"M8106-20271-086",
+    "course_subtitle":null,
+    "department":"Rehabilitation Medicine (RMED)",
+    "department_code":"OCCT",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/OCCT\/M8106-20271-086\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Occupational Therapy"
+    ],
+    "points":"1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271OCCT8106M086",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"OCCT M8106",
+    "course_title":"Case Based Application",
+    "course_descr":null,
+    "instructor":"Phyllis R Simon",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17415",
+    "campus":null,
+    "class_id":"M8106-20271-087",
+    "course_subtitle":null,
+    "department":"Rehabilitation Medicine (RMED)",
+    "department_code":"OCCT",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/OCCT\/M8106-20271-087\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Occupational Therapy"
+    ],
+    "points":"1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271OCCT8106M087",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"OCCT M8106",
+    "course_title":"Case Based Application",
+    "course_descr":null,
+    "instructor":"Michael Urban",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17416",
+    "campus":null,
+    "class_id":"M8106-20271-088",
+    "course_subtitle":null,
+    "department":"Rehabilitation Medicine (RMED)",
+    "department_code":"OCCT",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/OCCT\/M8106-20271-088\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Occupational Therapy"
+    ],
+    "points":"1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271OCCT8106M088",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"OCCT M8505",
+    "course_title":"Cognitive Basis of Function & Decision",
+    "course_descr":null,
+    "instructor":"Daniel L Geller",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17397",
+    "campus":null,
+    "class_id":"M8505-20271-083",
+    "course_subtitle":"Cognitive Basis of Functi",
+    "department":"Rehabilitation Medicine (RMED)",
+    "department_code":"OCCT",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/OCCT\/M8505-20271-083\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Occupational Therapy"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271OCCT8505M083",
+    "type":"TUTORIAL"
+  },
+  {
+    "course_code":"OCCT M8550",
+    "course_title":"ETHICS AND OCCUPATIONAL JUSTICE",
+    "course_descr":null,
+    "instructor":"Janet Falk-Kessler",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17396",
+    "campus":null,
+    "class_id":"M8550-20271-083",
+    "course_subtitle":"ETHICS AND OCCUPATIONAL J",
+    "department":"Rehabilitation Medicine (RMED)",
+    "department_code":"OCCT",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/OCCT\/M8550-20271-083\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Occupational Therapy"
+    ],
+    "points":"2",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271OCCT8550M083",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"OCCT M8565",
+    "course_title":"Measurement and Instrument Development",
+    "course_descr":null,
+    "instructor":"Cristin Holland",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17398",
+    "campus":null,
+    "class_id":"M8565-20271-083",
+    "course_subtitle":"MEASUREMENT",
+    "department":"Rehabilitation Medicine (RMED)",
+    "department_code":"OCCT",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/OCCT\/M8565-20271-083\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Occupational Therapy"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271OCCT8565M083",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"OCCT M8994",
+    "course_title":"Capstone Two Evidence Based Paper",
+    "course_descr":null,
+    "instructor":"Julia Guzman",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17417",
+    "campus":null,
+    "class_id":"M8994-20271-089",
+    "course_subtitle":"Capstone Two Evidence Bas",
+    "department":"Rehabilitation Medicine (RMED)",
+    "department_code":"OCCT",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/OCCT\/M8994-20271-089\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Occupational Therapy"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271OCCT8994M089",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"OCCT M8994",
+    "course_title":"Capstone Two Evidence Based Paper",
+    "course_descr":null,
+    "instructor":"Patricia Precin",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17418",
+    "campus":null,
+    "class_id":"M8994-20271-083",
+    "course_subtitle":"Capstone Two Evidence Bas",
+    "department":"Rehabilitation Medicine (RMED)",
+    "department_code":"OCCT",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/OCCT\/M8994-20271-083\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Occupational Therapy"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271OCCT8994M083",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"OCCT M8994",
+    "course_title":"Capstone Two Evidence Based Paper",
+    "course_descr":null,
+    "instructor":"Colleen M Maher",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17419",
+    "campus":null,
+    "class_id":"M8994-20271-086",
+    "course_subtitle":"Capstone Two Evidence Bas",
+    "department":"Rehabilitation Medicine (RMED)",
+    "department_code":"OCCT",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/OCCT\/M8994-20271-086\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Occupational Therapy"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271OCCT8994M086",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"OCCT M8994",
+    "course_title":"Capstone Two Evidence Based Paper",
+    "course_descr":null,
+    "instructor":"Cristin Holland",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17420",
+    "campus":null,
+    "class_id":"M8994-20271-091",
+    "course_subtitle":"Capstone Two Evidence Bas",
+    "department":"Rehabilitation Medicine (RMED)",
+    "department_code":"OCCT",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/OCCT\/M8994-20271-091\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Occupational Therapy"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271OCCT8994M091",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"OCCT M8994",
+    "course_title":"Capstone Two Evidence Based Paper",
+    "course_descr":null,
+    "instructor":"Katherine Dimitropoulou",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17421",
+    "campus":null,
+    "class_id":"M8994-20271-087",
+    "course_subtitle":"Capstone Two Evidence Bas",
+    "department":"Rehabilitation Medicine (RMED)",
+    "department_code":"OCCT",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/OCCT\/M8994-20271-087\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Occupational Therapy"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271OCCT8994M087",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"OCCT M8994",
+    "course_title":"Capstone Two Evidence Based Paper",
+    "course_descr":null,
+    "instructor":"Carly Goldberg",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17422",
+    "campus":null,
+    "class_id":"M8994-20271-084",
+    "course_subtitle":"Capstone Two Evidence Bas",
+    "department":"Rehabilitation Medicine (RMED)",
+    "department_code":"OCCT",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/OCCT\/M8994-20271-084\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Occupational Therapy"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271OCCT8994M084",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"OCCT M8994",
+    "course_title":"Capstone Two Evidence Based Paper",
+    "course_descr":null,
+    "instructor":"Janet Kim",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17423",
+    "campus":null,
+    "class_id":"M8994-20271-085",
+    "course_subtitle":"Capstone Two Evidence Bas",
+    "department":"Rehabilitation Medicine (RMED)",
+    "department_code":"OCCT",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/OCCT\/M8994-20271-085\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Occupational Therapy"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271OCCT8994M085",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"OCCT M8994",
+    "course_title":"Capstone Two Evidence Based Paper",
+    "course_descr":null,
+    "instructor":"Phyllis R Simon",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17424",
+    "campus":null,
+    "class_id":"M8994-20271-088",
+    "course_subtitle":"Capstone Two Evidence Bas",
+    "department":"Rehabilitation Medicine (RMED)",
+    "department_code":"OCCT",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/OCCT\/M8994-20271-088\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Occupational Therapy"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271OCCT8994M088",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"OCCT M8994",
+    "course_title":"Capstone Two Evidence Based Paper",
+    "course_descr":null,
+    "instructor":"Michael Urban",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17425",
+    "campus":null,
+    "class_id":"M8994-20271-090",
+    "course_subtitle":"Capstone Two Evidence Bas",
+    "department":"Rehabilitation Medicine (RMED)",
+    "department_code":"OCCT",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/OCCT\/M8994-20271-090\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Occupational Therapy"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271OCCT8994M090",
+    "type":"INDEPENDENT"
   },
   {
     "course_code":"OHMA GR5011",
@@ -156603,7 +157820,7 @@
     "course_code":"POLS UN3902",
     "course_title":"INDEPENDENT RESEARCH II",
     "course_descr":null,
-    "instructor":null,
+    "instructor":"Justin H Phillips",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"17031",
@@ -189174,7 +190391,7 @@
     "call_number":"16630",
     "campus":null,
     "class_id":"G5294-20271-002",
-    "course_subtitle":"DECODE AI WITH INFO THEOR",
+    "course_subtitle":"GENERATIVE AI AND LLMs",
     "department":"Statistics",
     "department_code":"STAT",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/STAT\/G5294-20271-002\/",
@@ -189202,7 +190419,7 @@
     "call_number":"16640",
     "campus":null,
     "class_id":"G5294-20271-003",
-    "course_subtitle":"DECODE AI WITH INFO THEOR",
+    "course_subtitle":"GENERATIVE AI AND LLMs",
     "department":"Statistics",
     "department_code":"STAT",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/STAT\/G5294-20271-003\/",
@@ -189230,7 +190447,7 @@
     "call_number":"16642",
     "campus":null,
     "class_id":"G5294-20271-004",
-    "course_subtitle":"DECODE AI WITH INFO THEOR",
+    "course_subtitle":"GENERATIVE AI AND LLMs",
     "department":"Statistics",
     "department_code":"STAT",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/STAT\/G5294-20271-004\/",
@@ -194123,7 +195340,7 @@
     "course_code":"THEA AR9000",
     "course_title":"RESEARCH ARTS THEATRE",
     "course_descr":"After completion of the required 60 credits during the first two years in the program, MFA students in the Theatre Program must register for Research Arts to maintain continuous full-time enrollment. During this time, students are expected to spend at least 36 hours each week (equivalent to 12 semester credit hours) in independent research and study. As part of Research Arts, students may attend group critiques, master classes\/workshops, and\/or be engaged in individual and\/or group projects, productions, as well as other co-curricular instructional activities, as stipulated by their program.",
-    "instructor":null,
+    "instructor":"John Haas",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"17193",
@@ -194135,7 +195352,9 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/THEA\/Q9000-20271-001\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "Schools of the Arts"
+    ],
     "points":"0",
     "prerequisites":[
 
@@ -194148,7 +195367,7 @@
     "course_code":"THEA AR9800",
     "course_title":"THEATRE RESEARCH ARTS INTERNSHIP",
     "course_descr":"Theatre Program students in the Directing, Dramaturgy, Playwriting, and Stage Management concentrations must complete at least two (2) internships to graduate. Theatre Management and Producing must complete three (3) internships to\u00a0graduate. These provide\u00a0exposure to and experience\u00a0in a professional theatre beyond the classroom. This requirement cannot be waived.\u00a0\n\u200b\u200b\u200b\u200b\u200b\u200b\u200b",
-    "instructor":null,
+    "instructor":"John Haas",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"17214",
@@ -194160,7 +195379,9 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/THEA\/R9800-20271-001\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "Schools of the Arts"
+    ],
     "points":"0-6",
     "prerequisites":[
 
@@ -200748,8 +201969,8 @@
     "course_title":"Graduate Seminar in Moving Image & Relat",
     "course_descr":"GRAD SEM IN MOVING IMAGE AND RELATED MEDIA\n \nIn Between the Black Box and the White Cube: Art and the Moving Image\n  \nThe Graduate Seminar in Moving Image is a forum for concentrated discussion of artists\u2019 moving image today, grounded in the shifting relation between cinema and modern and contemporary art. It focuses on how artists have redefined film and video between the theatrical situation of cinema and the exhibitionary conditions of art, and on why this history matters for artists working with moving images now. At the heart of the seminar is the conviction that the production, exhibition, and curation of moving-image art are interconnected: works will be approached through discussion of their aesthetic form, their exhibition contexts, and the publics they address.\n  \nThis course examines the changing relationship between cinema and the museum through artists\u2019 uses of film and video, from the early twentieth century to the present. Moving images have become central to museums, galleries, and biennials, while artists\u2019 films also circulate through cinemas and film festivals. We will study the histories of these exchanges, asking how different sites of production and exhibition shape artistic practice and spectatorship, and how artists have transformed the aesthetics of film as well as spaces and conventions of moving-image exhibition.\n  \nDrawing primarily on cinema studies and art history, with reference to media theory, the course combines historical inquiry with close analysis of artists\u2019 films, videos, and moving-image installations. We will consider questions of medium specificity and the cinematic apparatus in relation to the conditions of exhibition. What changes when a work moves between a theatrical screening and an art exhibition? How do a work\u2019s duration and spatial presentation organize the viewer\u2019s attention? What is the potentials and limits of moving-image in the modern and contemporary art These questions will inform our study of the political, social, and aesthetic concerns of artists\u2019 film and video.\n  \nThe semester is structured in three parts. \nPart I\n traces the relationship between cinema and modern and postwar art, from early avant-garde film to the spatial and performative experiments of expanded cinema in the 1960s and 1970s. \nPart II\n examines the rise of video art and electronic media practices from the late 1960s to the 1990s, focusing on conceptual, femi",
     "instructor":"Lukas Brasiskis",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"1:00pm",
+    "scheduled_time_end":"4:00pm",
     "call_number":"16474",
     "campus":null,
     "class_id":"R8207-20271-001",
@@ -200757,7 +201978,7 @@
     "department":"Visual Arts",
     "department_code":"VIAR",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/VIAR\/R8207-20271-001\/",
-    "location":null,
+    "location":"101 Prentis Hall at 632 W 125th St",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Columbia College",
@@ -200769,7 +201990,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"R",
     "section_key":"20271VIAR8207R001",
     "type":"SEMINAR"
   },
@@ -203317,7 +204538,7 @@
     "department":"Writing",
     "department_code":"WRIT",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/WRIT\/W3053-20271-001\/",
-    "location":null,
+    "location":"405 Kent Hall",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"3",
