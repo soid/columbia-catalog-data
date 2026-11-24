@@ -257,7 +257,7 @@
   {
     "course_code":"BIOL GR5503",
     "course_title":"Supervised Research in Biotechnology",
-    "course_descr":null,
+    "course_descr":"Students enrolled in the MA in Biotechnology Program have the opportunity to receive academic credit while conducting Supervised Research under the guidance of a faculty mentor within the University (S5502) or a biotech business-specific Supervised Internship outside the University (S5503) within the New York City Metropolitan Area unless otherwise approved by the Program. Credits received from this course are used to fulfill the Practical Training requirement for the MA degree.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -273,7 +273,10 @@
     "open_to":null,
     "points":"3-6",
     "prerequisites":[
-
+      [
+        "S5502",
+        "S5503"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20272BIOL5503G002",
@@ -1872,7 +1875,7 @@
   {
     "course_code":"ENGL S3915",
     "course_title":"THE ART OF THE ESSAY",
-    "course_descr":null,
+    "course_descr":"\u201cFind a subject you care about and which in your heart you feel others should care about. It\n is this genuine caring, not your games with language, which will be the most compelling and\n seductive element in your style.\u201d Kurt Vonnegut\n \n What makes the essay of personal experience an essay rather than a journal entry? How can\n one's specific experience transcend the limits of narrative and transmit a deeper meaning to any\n reader? How can a writer share the wisdom gained from personal experience without\n lecturing her reader? In The Art of the Essay, we explore the answers to these questions by\n reading personal essays in a variety of different forms. We begin with Michel de Montaigne, the\n 16th-century philosopher who popularized the personal essay as we know it and famously\n asked, \u201cWhat do I know?\" We then\u00a0follow the development of the form as a locus of rigorous\n self-examination, doubt, persuasion, and provocation. Through close reading of a range of\n essays from writers including Annie Dillard, Salman Rushdie, Langston Hughes,\u00a0Jamaica Kincaid, and June\n Jordan, we analyze how voice, form, and evidence work together to create a world of meaning\n around an author's experience, one that invites readers into conversations that are at once\n deeply personal and universal in their consequences and implications.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -2047,7 +2050,7 @@
   {
     "course_code":"FREN S1101",
     "course_title":"ELEMENTARY FRENCH I",
-    "course_descr":null,
+    "course_descr":"Equivalent to FREN UN1101. Designed to help students understand, speak, read, and write French, and to recognize cultural features of French-speaking communities, now with the help of a newly digitized audio program. Students learn to provide information in French about their feelings, environment, families, and daily activities. Daily assignments, quizzes, laboratory work, and screening of video material.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -2063,7 +2066,9 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "FREN UN1101"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20272FREN1101S001",
@@ -2072,7 +2077,7 @@
   {
     "course_code":"FREN S1102",
     "course_title":"ELEMENTARY FRENCH II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: one term of college French or one year of secondary school French. $15.00= Language Resource Fee, $15.00 = Materials Fee , Equivalent to FREN UN1102. Continues the work of French S1101D and completes the study of elementary French. Students continue to develop communicative skills, narrating recent events (past, present, and future), describing daily life activities, and learning about cultural features of France and of the wider Francophone world. Following the communicative approach, students, with the help of the instructor, learn to solve problems using the language, to communicate their feelings and opinions, and to obtain information from others. Daily assignments, quizzes, laboratory work, and screening of video materials.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -2088,7 +2093,10 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "FREN UN1102",
+        "S1101"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20272FREN1102S001",
@@ -2097,7 +2105,7 @@
   {
     "course_code":"FREN S1102",
     "course_title":"ELEMENTARY FRENCH II",
-    "course_descr":null,
+    "course_descr":"Prerequisites: one term of college French or one year of secondary school French. $15.00= Language Resource Fee, $15.00 = Materials Fee , Equivalent to FREN UN1102. Continues the work of French S1101D and completes the study of elementary French. Students continue to develop communicative skills, narrating recent events (past, present, and future), describing daily life activities, and learning about cultural features of France and of the wider Francophone world. Following the communicative approach, students, with the help of the instructor, learn to solve problems using the language, to communicate their feelings and opinions, and to obtain information from others. Daily assignments, quizzes, laboratory work, and screening of video materials.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -2113,7 +2121,10 @@
     "open_to":null,
     "points":"4",
     "prerequisites":[
-
+      [
+        "FREN UN1102",
+        "S1101"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20272FREN1102S002",
@@ -4730,7 +4741,7 @@
   {
     "course_code":"PSYC S3950",
     "course_title":"SUPERVISED INDIVIDUAL RESEARCH",
-    "course_descr":null,
+    "course_descr":"1-4 points. May be repeated for credit. Prerequisites: the instructors permission. Except by special permission of the director of undergraduate studies, no more than 4 points of individual research may be taken in any one term. This includes both PSYC UN3950 and PSYC UN3920. No more than 8 points ofPSYC UN3950 may be applied toward the psychology major, and no more than 4 points toward the concentration. Readings, special laboratory projects, reports, and special seminars on contemporary issues in psychological research and theory.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -4746,7 +4757,13 @@
     "open_to":null,
     "points":"0-4",
     "prerequisites":[
-
+      [
+        "PSYC UN3920",
+        "PSYC UN3950"
+      ],
+      [
+        "PSYC UN3950"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20272PSYC3950S001",
@@ -4755,7 +4772,7 @@
   {
     "course_code":"PSYC S3950",
     "course_title":"SUPERVISED INDIVIDUAL RESEARCH",
-    "course_descr":null,
+    "course_descr":"1-4 points. May be repeated for credit. Prerequisites: the instructors permission. Except by special permission of the director of undergraduate studies, no more than 4 points of individual research may be taken in any one term. This includes both PSYC UN3950 and PSYC UN3920. No more than 8 points ofPSYC UN3950 may be applied toward the psychology major, and no more than 4 points toward the concentration. Readings, special laboratory projects, reports, and special seminars on contemporary issues in psychological research and theory.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -4771,7 +4788,13 @@
     "open_to":null,
     "points":"0-4",
     "prerequisites":[
-
+      [
+        "PSYC UN3920",
+        "PSYC UN3950"
+      ],
+      [
+        "PSYC UN3950"
+      ]
     ],
     "scheduled_days":null,
     "section_key":"20272PSYC3950S002",
@@ -4805,7 +4828,7 @@
   {
     "course_code":"QMSS GR5067",
     "course_title":"NATURAL LANG PROCESSING SOCIAL SCIENCES",
-    "course_descr":null,
+    "course_descr":"Social scientists need to engage with natural language processing (NLP) approaches that are found in computer science, engineering, AI, tech and in industry. This course will provide an overview of natural language processing as it is applied in a number of domains. The goal is to gain familiarity with a number of critical topics and techniques that use text as data, and then to see how those NLP techniques can be used to produce social science research and insights. This course will be hands-on, with several large-scale exercises. The course will start with an introduction to Python and associated key NLP packages and github. The course will then cover topics like language modeling; part of speech tagging; parsing; information extraction; tokenizing; topic modeling; machine translation; sentiment analysis; summarization; supervised machine learning; and hidden Markov models. Prerequisites are basic probability and statistics, basic linear algebra and calculus. The course will use Python, and so if students have programmed in at least one software language, that will make it easier to keep up with the course.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -4830,7 +4853,7 @@
   {
     "course_code":"QMSS GR5075",
     "course_title":"Artificial Intelligence (AI) & Social Sc",
-    "course_descr":null,
+    "course_descr":"Artificial intelligence (AI) and generative AI \u2013 like ChatGPT, MidJourney, and Gemini \u2013 are poised to change the world for everyone. It is critical that students understand (and utilize) this new technology at several levels. In this class \u2013 through readings and a dozen hands-on activities \u2013 students will come to deeply understand AI. Specifically, students will construct (using Python) some of the basic building-blocks of AI, like machine learning (like recommendation systems), natural language processing (like word embeddings) and chatbots. They will test out AI\u2019s capabilities and refine prompts in real-world settings, whether in art, video, writing or Internet-of-Things. They will learn about how generative AI fits into the history of technology adoption and the diffusion of innovation, answering questions like: Will AI be able to replace whole jobs? And if so, when? They will use the lenses of psychology and economics to explore the impact of AI in people\u2019s lives, including in the context of algorithmic fairness, regulation and intellectual property. They will be pushed to take human creativity in new directions, augmented by AI\u2019s \u201cweirdness.\u201d Lastly, students will be pushed to further develop their own uniquely-human skills \u2013 like in critical thinking and empathy \u2013 in response to the power of generative AI to mimic humans. As best-selling author Seth Stephen-Davidowitz has recently (Dec. 2023) written, \u201cSo far, my newest book has higher ratings than either of my previous two books -- even though it was written in 1\/36th of the time, thanks to AI. AI is wild!\" By the end of this class, students will feel empowered technically and philosophically to handle all new generative AI developments. There are no specific prerequisites for this class.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -4855,7 +4878,7 @@
   {
     "course_code":"QMSS S5019",
     "course_title":"DATA ANALYSIS WITH PYTHON",
-    "course_descr":null,
+    "course_descr":"This course is meant to provide an introduction to regression and applied statistics for the social sciences, with a strong emphasis on utilizing the Python software language to perform the key tasks in the data analysis workflow. Topics to be covered include various data structures, basic descriptive statistics, regression models, multiple regression analysis, interactions, polynomials, Gauss-Markov assumptions and asymptotics, heteroskedasticity and diagnostics, data visualization, models for binary outcomes, models for ordered data, first difference analysis, factor analysis, and cluster analysis. Through a variety of lab assignments, students will be able to generate and interpret quantitative data in helpful and provocative ways. Only relatively basic mathematics skills are assumed, but some more advanced math will be introduced as needed. A previous introductory statistics course that includes linear regression is helpful, but not required.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
