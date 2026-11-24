@@ -27099,8 +27099,8 @@
     "course_title":"Building a Scalable Business",
     "course_descr":null,
     "instructor":"Faculty",
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"6:30pm",
     "call_number":"15497",
     "campus":null,
     "class_id":"B5828-20271-300",
@@ -27117,7 +27117,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"MTWRU",
     "section_key":"20271BUSI5828B300",
     "type":"LECTURE"
   },
@@ -40812,6 +40812,31 @@
     "type":"INDEPENDENT"
   },
   {
+    "course_code":"CLPH GU4902",
+    "course_title":"DIRECTED READINGS",
+    "course_descr":null,
+    "instructor":"Steven Brandwood",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17565",
+    "campus":null,
+    "class_id":"G4902-20271-001",
+    "course_subtitle":null,
+    "department":"Classics",
+    "department_code":"CLPH",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CLPH\/G4902-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"1-4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271CLPH4902G001",
+    "type":"INDEPENDENT"
+  },
+  {
     "course_code":"CLPS GU4201",
     "course_title":"BASIC CONCEPTS-POST-FREUD THGT",
     "course_descr":"This course examines psychoanalytic movements that are viewed either as post-Freudian in theory or as emerging after Freuds time. The course begins by considering the ways Freuds cultural and historical surround, as well as the wartime diaspora of the European psychoanalytic community, shaped Freudian and post-Freudian thought. It then focuses on significant schools and theories of psychoanalysis that were developed from the mid 20th century to the present. Through readings of key texts and selected case studies, it explores theorists challenges to classical thought and technique, and their reconfigurations, modernizations, and total rejections of central Freudian ideas. The course concludes by looking at contemporary theorists moves to integrate notions of culture, concepts of trauma, and findings from neuroscience and attachment research into the psychoanalytic frame.",
@@ -47900,31 +47925,6 @@
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
-    "call_number":"10424",
-    "campus":null,
-    "class_id":"N40H_-20271-SPR",
-    "course_subtitle":null,
-    "department":"Medicine",
-    "department_code":"CR__",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/CR__\/N40H_-20271-SPR\/",
-    "location":null,
-    "method_of_instruction":"In-Person",
-    "open_to":null,
-    "points":"0",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":null,
-    "section_key":"20271CR__40H_NSPR",
-    "type":"CLINIC"
-  },
-  {
-    "course_code":"CR__ OC40H_",
-    "course_title":"CARDIOLOGY",
-    "course_descr":null,
-    "instructor":null,
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
     "call_number":"10787",
     "campus":null,
     "class_id":"N40H_-20271-FAL",
@@ -51711,31 +51711,6 @@
     ],
     "scheduled_days":null,
     "section_key":"20271DR__700_N010",
-    "type":"CLINIC"
-  },
-  {
-    "course_code":"DR__ OC700_",
-    "course_title":"DERMATOLOGY AWAY",
-    "course_descr":null,
-    "instructor":null,
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
-    "call_number":"10813",
-    "campus":null,
-    "class_id":"N700_-20271-FAL",
-    "course_subtitle":null,
-    "department":"Medicine",
-    "department_code":"DR__",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/DR__\/N700_-20271-FAL\/",
-    "location":null,
-    "method_of_instruction":"In-Person",
-    "open_to":null,
-    "points":"0",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":null,
-    "section_key":"20271DR__700_NFAL",
     "type":"CLINIC"
   },
   {
@@ -81006,31 +80981,6 @@
     "type":"REGISTRATION"
   },
   {
-    "course_code":"EX__ OC0700",
-    "course_title":"GLOBAL EXCHANGE AWAY",
-    "course_descr":null,
-    "instructor":null,
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
-    "call_number":"10440",
-    "campus":null,
-    "class_id":"N0700-20271-SPR",
-    "course_subtitle":null,
-    "department":"Medicine",
-    "department_code":"EX__",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/EX__\/N0700-20271-SPR\/",
-    "location":null,
-    "method_of_instruction":null,
-    "open_to":null,
-    "points":"0",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":null,
-    "section_key":"20271EX__0700NSPR",
-    "type":"CLINIC"
-  },
-  {
     "course_code":"FILI OC1102",
     "course_title":"ELEMENTARY FILIPINO II",
     "course_descr":"Introduction to Filipino with an emphasis on mastering basic skills and working vocabulary. Linguistic rules are applied to enable the student to communicate with more competence. Lessons incorporate discussions on history, current events, literature, pop culture, and native values. Includes field trips to Filipino neighborhoods in Queens and Jersey City. Note: This course is part of the language exchange program with New York University (NYU). Classes will be held at NYU.",
@@ -87851,31 +87801,6 @@
     "type":"CLINIC"
   },
   {
-    "course_code":"FM__ N002P",
-    "course_title":"FAMILY MED:INPATIENT SUBI",
-    "course_descr":null,
-    "instructor":null,
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
-    "call_number":"10860",
-    "campus":null,
-    "class_id":"N002P-20271-FAL",
-    "course_subtitle":null,
-    "department":"Medicine",
-    "department_code":"FM__",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FM__\/N002P-20271-FAL\/",
-    "location":null,
-    "method_of_instruction":"In-Person",
-    "open_to":null,
-    "points":"0",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":null,
-    "section_key":"20271FM__002PNFAL",
-    "type":"CLINIC"
-  },
-  {
     "course_code":"FM__ N01P_",
     "course_title":"FAMILY MEDICINE",
     "course_descr":null,
@@ -87949,56 +87874,6 @@
     "scheduled_days":null,
     "section_key":"20271FM__05P_NSPR",
     "type":"INDEPENDENT"
-  },
-  {
-    "course_code":"FM__ N05P_",
-    "course_title":"PRIM CARE: ZUNI IHS",
-    "course_descr":null,
-    "instructor":null,
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
-    "call_number":"10857",
-    "campus":null,
-    "class_id":"N05P_-20271-FAL",
-    "course_subtitle":null,
-    "department":"Medicine",
-    "department_code":"FM__",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FM__\/N05P_-20271-FAL\/",
-    "location":null,
-    "method_of_instruction":"In-Person",
-    "open_to":null,
-    "points":"0",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":null,
-    "section_key":"20271FM__05P_NFAL",
-    "type":"INDEPENDENT"
-  },
-  {
-    "course_code":"FM__ OC700_",
-    "course_title":"FAMILY MEDICINE AWAY",
-    "course_descr":null,
-    "instructor":null,
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
-    "call_number":"10815",
-    "campus":null,
-    "class_id":"N700_-20271-009",
-    "course_subtitle":null,
-    "department":"Medicine",
-    "department_code":"FM__",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/FM__\/N700_-20271-009\/",
-    "location":null,
-    "method_of_instruction":"In-Person",
-    "open_to":null,
-    "points":"0",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":null,
-    "section_key":"20271FM__700_N009",
-    "type":"CLINIC"
   },
   {
     "course_code":"FREN BC1002",
@@ -92997,31 +92872,6 @@
     ],
     "scheduled_days":null,
     "section_key":"20271GE__01P_NSPR",
-    "type":"CLINIC"
-  },
-  {
-    "course_code":"GE__ N01P_",
-    "course_title":"GASTROENTEROLOGY:COMP",
-    "course_descr":null,
-    "instructor":null,
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
-    "call_number":"10797",
-    "campus":null,
-    "class_id":"N01P_-20271-FAL",
-    "course_subtitle":null,
-    "department":"Medicine",
-    "department_code":"GE__",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/GE__\/N01P_-20271-FAL\/",
-    "location":null,
-    "method_of_instruction":"In-Person",
-    "open_to":null,
-    "points":"0",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":null,
-    "section_key":"20271GE__01P_NFAL",
     "type":"CLINIC"
   },
   {
@@ -142084,6 +141934,303 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"NURS N9502",
+    "course_title":"Guided Study in Research",
+    "course_descr":null,
+    "instructor":"Gregory Alexander",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17611",
+    "campus":null,
+    "class_id":"N9502-20271-001",
+    "course_subtitle":"GUIDED STUDY IN RESEARCH",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9502-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"2-3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271NURS9502N001",
+    "type":"RESEARCH SEM"
+  },
+  {
+    "course_code":"NURS N9502",
+    "course_title":"Guided Study in Research",
+    "course_descr":null,
+    "instructor":"Suzanne Bakken",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17612",
+    "campus":null,
+    "class_id":"N9502-20271-002",
+    "course_subtitle":"GUIDED STUDY IN RESEARCH",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9502-20271-002\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"2-3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271NURS9502N002",
+    "type":"RESEARCH SEM"
+  },
+  {
+    "course_code":"NURS N9502",
+    "course_title":"Guided Study in Research",
+    "course_descr":null,
+    "instructor":"Veronica Barcelona",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17613",
+    "campus":null,
+    "class_id":"N9502-20271-003",
+    "course_subtitle":"GUIDED STUDY IN RESEARCH",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9502-20271-003\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"2-3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271NURS9502N003",
+    "type":"RESEARCH SEM"
+  },
+  {
+    "course_code":"NURS N9502",
+    "course_title":"Guided Study in Research",
+    "course_descr":null,
+    "instructor":"Melissa P Beauchemin",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17614",
+    "campus":null,
+    "class_id":"N9502-20271-004",
+    "course_subtitle":"GUIDED STUDY IN RESEARCH",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9502-20271-004\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"2-3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271NURS9502N004",
+    "type":"RESEARCH SEM"
+  },
+  {
+    "course_code":"NURS N9502",
+    "course_title":"Guided Study in Research",
+    "course_descr":null,
+    "instructor":"Natalie Benda",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17615",
+    "campus":null,
+    "class_id":"N9502-20271-005",
+    "course_subtitle":"GUIDED STUDY IN RESEARCH",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9502-20271-005\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"2-3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271NURS9502N005",
+    "type":"RESEARCH SEM"
+  },
+  {
+    "course_code":"NURS N9502",
+    "course_title":"Guided Study in Research",
+    "course_descr":null,
+    "instructor":"Walter O Bockting",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17616",
+    "campus":null,
+    "class_id":"N9502-20271-006",
+    "course_subtitle":"GUIDED STUDY IN RESEARCH",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9502-20271-006\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"2-3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271NURS9502N006",
+    "type":"RESEARCH SEM"
+  },
+  {
+    "course_code":"NURS N9502",
+    "course_title":"Guided Study in Research",
+    "course_descr":null,
+    "instructor":"Jean-Marie Bruzzese",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17617",
+    "campus":null,
+    "class_id":"N9502-20271-007",
+    "course_subtitle":"GUIDED STUDY IN RESEARCH",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9502-20271-007\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"2-3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271NURS9502N007",
+    "type":"RESEARCH SEM"
+  },
+  {
+    "course_code":"NURS N9502",
+    "course_title":"Guided Study in Research",
+    "course_descr":null,
+    "instructor":"Billy A Caceres",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17618",
+    "campus":null,
+    "class_id":"N9502-20271-008",
+    "course_subtitle":"GUIDED STUDY IN RESEARCH",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9502-20271-008\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"2-3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271NURS9502N008",
+    "type":"RESEARCH SEM"
+  },
+  {
+    "course_code":"NURS N9502",
+    "course_title":"Guided Study in Research",
+    "course_descr":null,
+    "instructor":"Lorraine Frazier",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17619",
+    "campus":null,
+    "class_id":"N9502-20271-009",
+    "course_subtitle":"GUIDED STUDY IN RESEARCH",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9502-20271-009\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"2-3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271NURS9502N009",
+    "type":"RESEARCH SEM"
+  },
+  {
+    "course_code":"NURS N9502",
+    "course_title":"Guided Study in Research",
+    "course_descr":null,
+    "instructor":"Maureen George",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17620",
+    "campus":null,
+    "class_id":"N9502-20271-010",
+    "course_subtitle":"GUIDED STUDY IN RESEARCH",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9502-20271-010\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"2-3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271NURS9502N010",
+    "type":"RESEARCH SEM"
+  },
+  {
+    "course_code":"NURS N9742",
+    "course_title":"Acute Care Portfolio Advisement I",
+    "course_descr":null,
+    "instructor":"Danielle K Zuma",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17610",
+    "campus":null,
+    "class_id":"N9742-20271-D01",
+    "course_subtitle":"Acute Care Portfolio Advi",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9742-20271-D01\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271NURS9742ND01",
+    "type":"SEMINAR"
+  },
+  {
     "course_code":"NURS N9840",
     "course_title":"Dissertation Research",
     "course_descr":null,
@@ -142322,6 +142469,519 @@
     ],
     "scheduled_days":null,
     "section_key":"20271NURS9840N009",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"NURS N9840",
+    "course_title":"Dissertation Research",
+    "course_descr":null,
+    "instructor":"Maureen George",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17550",
+    "campus":null,
+    "class_id":"N9840-20271-010",
+    "course_subtitle":"DISSERTATION RESEARCH",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9840-20271-010\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271NURS9840N010",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"NURS N9840",
+    "course_title":"Dissertation Research",
+    "course_descr":null,
+    "instructor":"Judy Honig",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17551",
+    "campus":null,
+    "class_id":"N9840-20271-011",
+    "course_subtitle":"DISSERTATION RESEARCH",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9840-20271-011\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271NURS9840N011",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"NURS N9840",
+    "course_title":"Dissertation Research",
+    "course_descr":null,
+    "instructor":"Tonda Hughes",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17552",
+    "campus":null,
+    "class_id":"N9840-20271-012",
+    "course_subtitle":"DISSERTATION RESEARCH",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9840-20271-012\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271NURS9840N012",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"NURS N9840",
+    "course_title":"Dissertation Research",
+    "course_descr":null,
+    "instructor":"Kasey B Jackman",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17553",
+    "campus":null,
+    "class_id":"N9840-20271-013",
+    "course_subtitle":"DISSERTATION RESEARCH",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9840-20271-013\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271NURS9840N013",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"NURS N9840",
+    "course_title":"Dissertation Research",
+    "course_descr":null,
+    "instructor":"Haomiao Jia",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17554",
+    "campus":null,
+    "class_id":"N9840-20271-014",
+    "course_subtitle":"DISSERTATION RESEARCH",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9840-20271-014\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271NURS9840N014",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"NURS N9840",
+    "course_title":"Dissertation Research",
+    "course_descr":null,
+    "instructor":"Corina Lelutiu-Weinberger",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17555",
+    "campus":null,
+    "class_id":"N9840-20271-015",
+    "course_subtitle":"DISSERTATION RESEARCH",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9840-20271-015\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271NURS9840N015",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"NURS N9840",
+    "course_title":"Dissertation Research",
+    "course_descr":null,
+    "instructor":"Jianfang Liu",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17556",
+    "campus":null,
+    "class_id":"N9840-20271-016",
+    "course_subtitle":"DISSERTATION RESEARCH",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9840-20271-016\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271NURS9840N016",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"NURS N9840",
+    "course_title":"Dissertation Research",
+    "course_descr":null,
+    "instructor":"Ruth M Masterson",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17557",
+    "campus":null,
+    "class_id":"N9840-20271-017",
+    "course_subtitle":"DISSERTATION RESEARCH",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9840-20271-017\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271NURS9840N017",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"NURS N9840",
+    "course_title":"Dissertation Research",
+    "course_descr":null,
+    "instructor":"Mary Mundinger",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17558",
+    "campus":null,
+    "class_id":"N9840-20271-018",
+    "course_subtitle":"DISSERTATION RESEARCH",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9840-20271-018\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271NURS9840N018",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"NURS N9840",
+    "course_title":"Dissertation Research",
+    "course_descr":null,
+    "instructor":"Allison A Norful",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17559",
+    "campus":null,
+    "class_id":"N9840-20271-019",
+    "course_subtitle":"DISSERTATION RESEARCH",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9840-20271-019\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271NURS9840N019",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"NURS N9840",
+    "course_title":"Dissertation Research",
+    "course_descr":null,
+    "instructor":"Monica O'Reilly-Jacob",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17560",
+    "campus":null,
+    "class_id":"N9840-20271-020",
+    "course_subtitle":"DISSERTATION RESEARCH",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9840-20271-020\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271NURS9840N020",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"NURS N9840",
+    "course_title":"Dissertation Research",
+    "course_descr":null,
+    "instructor":"Lusine Poghosyan",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17561",
+    "campus":null,
+    "class_id":"N9840-20271-021",
+    "course_subtitle":"DISSERTATION RESEARCH",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9840-20271-021\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271NURS9840N021",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"NURS N9840",
+    "course_title":"Dissertation Research",
+    "course_descr":null,
+    "instructor":"Meghan Reading",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17562",
+    "campus":null,
+    "class_id":"N9840-20271-022",
+    "course_subtitle":"DISSERTATION RESEARCH",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9840-20271-022\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271NURS9840N022",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"NURS N9840",
+    "course_title":"Dissertation Research",
+    "course_descr":null,
+    "instructor":"Rebecca B Schnall",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17563",
+    "campus":null,
+    "class_id":"N9840-20271-023",
+    "course_subtitle":"DISSERTATION RESEARCH",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9840-20271-023\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271NURS9840N023",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"NURS N9840",
+    "course_title":"Dissertation Research",
+    "course_descr":null,
+    "instructor":"Jingjing Shang",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17564",
+    "campus":null,
+    "class_id":"N9840-20271-024",
+    "course_subtitle":"DISSERTATION RESEARCH",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9840-20271-024\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271NURS9840N024",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"NURS N9840",
+    "course_title":"Dissertation Research",
+    "course_descr":null,
+    "instructor":"Arlene M Smaldone",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17566",
+    "campus":null,
+    "class_id":"N9840-20271-025",
+    "course_subtitle":"DISSERTATION RESEARCH",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9840-20271-025\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271NURS9840N025",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"NURS N9840",
+    "course_title":"Dissertation Research",
+    "course_descr":null,
+    "instructor":"Jacquelyn Taylor",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17587",
+    "campus":null,
+    "class_id":"N9840-20271-026",
+    "course_subtitle":"DISSERTATION RESEARCH",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9840-20271-026\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271NURS9840N026",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"NURS N9840",
+    "course_title":"Dissertation Research",
+    "course_descr":null,
+    "instructor":"Maxim Topaz",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17607",
+    "campus":null,
+    "class_id":"N9840-20271-027",
+    "course_subtitle":"DISSERTATION RESEARCH",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9840-20271-027\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271NURS9840N027",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"NURS N9840",
+    "course_title":"Dissertation Research",
+    "course_descr":null,
+    "instructor":"Yihong Zhao",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17609",
+    "campus":null,
+    "class_id":"N9840-20271-028",
+    "course_subtitle":"DISSERTATION RESEARCH",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N9840-20271-028\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271NURS9840N028",
     "type":"LECTURE"
   },
   {
@@ -192195,7 +192855,7 @@
     "call_number":"16640",
     "campus":null,
     "class_id":"G5294-20271-003",
-    "course_subtitle":"TOPICS - MACHINE LEARNING",
+    "course_subtitle":"GENERATIVE AI AND LLMs",
     "department":"Statistics",
     "department_code":"STAT",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/STAT\/G5294-20271-003\/",
@@ -192223,7 +192883,7 @@
     "call_number":"16642",
     "campus":null,
     "class_id":"G5294-20271-004",
-    "course_subtitle":"TOPICS - MACHINE LEARNING",
+    "course_subtitle":"GENERATIVE AI AND LLMs",
     "department":"Statistics",
     "department_code":"STAT",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/STAT\/G5294-20271-004\/",
@@ -204951,7 +205611,7 @@
     "course_code":"VIAR UN3800",
     "course_title":"SEM IN CONTEMP ART PRACTICE",
     "course_descr":"(Formerly R4601) New York City is the most abundant visual arts resource in the world. Visits to museums, galleries, and studios on a weekly basis. Students encounter a broad cross-section of art and are encouraged to develop ideas about what is seen. The seminar is led by a practicing artist and utilizes this perspective. Columbia College and General Studies Visual Arts Majors must take this class during their junior year. If the class is full, please visit http:\/\/arts.columbia.edu\/undergraduate-visual-arts-program.",
-    "instructor":null,
+    "instructor":"Noah Fischer",
     "scheduled_time_start":"4:00pm",
     "scheduled_time_end":"7:00pm",
     "call_number":"14719",
