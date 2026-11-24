@@ -8667,6 +8667,58 @@
     "type":"RECITATION"
   },
   {
+    "course_code":"APAN PS5206",
+    "course_title":"APPLIED MACHINE LEARNING II RECITATION",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"9:10am",
+    "scheduled_time_end":"10:00am",
+    "call_number":"17454",
+    "campus":null,
+    "class_id":"K5206-20271-H09",
+    "course_subtitle":"APPLD MACHINE LEARNING II",
+    "department":"Applied Analytics",
+    "department_code":"APAN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/APAN\/K5206-20271-H09\/",
+    "location":null,
+    "method_of_instruction":"Hybrid",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"F",
+    "section_key":"20271APAN5206KH09",
+    "type":"RECITATION"
+  },
+  {
+    "course_code":"APAN PS5206",
+    "course_title":"APPLIED MACHINE LEARNING II RECITATION",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"3:00pm",
+    "call_number":"17456",
+    "campus":null,
+    "class_id":"K5206-20271-H10",
+    "course_subtitle":"APPLD MACHINE LEARNING II",
+    "department":"Applied Analytics",
+    "department_code":"APAN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/APAN\/K5206-20271-H10\/",
+    "location":null,
+    "method_of_instruction":"Hybrid",
+    "open_to":null,
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"F",
+    "section_key":"20271APAN5206KH10",
+    "type":"RECITATION"
+  },
+  {
     "course_code":"APAN PS5210",
     "course_title":"PYTHON FOR DATA ANALYSIS",
     "course_descr":"Python is one of the leading open source programming languages for data analysis.\nThis is an elective course that explores Python programming languages for data science tasks. The students in this course will learn to examine raw data with the purpose of deriving insights and drawing conclusions. Together, we will manipulate large size data sets to extract meaning and generate visualizations.\nThe course assumes no prior programming experience with Python. We will start by learning the fundamentals of data storage, input and output, control structures, functions, sequence and lists, file I\/O, and standard library classes. We will then move on to learning Object-Oriented Programming with Python: encapsulation, inheritance and polymorphism.\nTo explore the Python data analysis platform, we will focus on IPython (Interactive Python) and Jupyter Notebook. IPython is an enhanced interactive Python terminal specifically designed for scientific computing and data analysis; Jupyter Notebook is a graphical interface that combines code, text, equations, and plots in a unified interactive environment.\nStudents will learn to work with widely-used libraries, such as pandas for data analysis and statistics; NumPy for its practical multi-dimensional array object; and MatPlotLib for graphical plotting. We will use these libraries to load, explore and visualize real-world datasets.\nWeekly Class Meeting 110 min x 14 = 1,540 min; Recitations (Category A) 14 sessions x 50 min = 700 min; Prerecorded Lecture (Category D) 1 session x 40 min = 40 min; TOTAL = 2,280 min (for entire semester)",
@@ -10316,8 +10368,8 @@
     "course_title":"STRATEGY AND ANALYTICS RECITATION",
     "course_descr":"This is the recitation course associated with APAN 5600 Strategy and Analytics.",
     "instructor":null,
-    "scheduled_time_start":"9:10pm",
-    "scheduled_time_end":"10:00pm",
+    "scheduled_time_start":"3:10pm",
+    "scheduled_time_end":"4:00pm",
     "call_number":"16800",
     "campus":null,
     "class_id":"K5601-20271-H05",
@@ -10325,7 +10377,7 @@
     "department":"Applied Analytics",
     "department_code":"APAN",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/APAN\/K5601-20271-H05\/",
-    "location":"603 Hamilton Hall",
+    "location":null,
     "method_of_instruction":"Hybrid",
     "open_to":[
       "Professional Studies"
@@ -10334,7 +10386,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":"W",
+    "scheduled_days":"F",
     "section_key":"20271APAN5601KH05",
     "type":"RECITATION"
   },
@@ -10417,6 +10469,33 @@
     ],
     "scheduled_days":"W",
     "section_key":"20271APAN5601KH08",
+    "type":"RECITATION"
+  },
+  {
+    "course_code":"APAN PS5601",
+    "course_title":"STRATEGY AND ANALYTICS RECITATION",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"5:00pm",
+    "call_number":"17453",
+    "campus":null,
+    "class_id":"K5601-20271-H09",
+    "course_subtitle":"STRATEGY AND ANALYTICS RE",
+    "department":"Applied Analytics",
+    "department_code":"APAN",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/APAN\/K5601-20271-H09\/",
+    "location":null,
+    "method_of_instruction":"Hybrid",
+    "open_to":[
+      "Professional Studies"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"F",
+    "section_key":"20271APAN5601KH09",
     "type":"RECITATION"
   },
   {
@@ -35083,11 +35162,7 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/CHEN\/E4870-20271-001\/",
     "location":"516 Hamilton Hall",
     "method_of_instruction":"In-Person",
-    "open_to":[
-      "Engineering:Graduate",
-      "Engineering:Undergraduate",
-      "GSAS"
-    ],
+    "open_to":null,
     "points":"3",
     "prerequisites":[
 
@@ -39031,7 +39106,7 @@
     "department":"English and Comparative Literature",
     "department_code":"CLEN",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/CLEN\/W2803-20271-001\/",
-    "location":"303 Uris Hall",
+    "location":"207 Mathematics Building",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Columbia College",
@@ -39561,7 +39636,7 @@
     "course_code":"CLMT G5002",
     "course_title":"Quant Methods for Climate Applications",
     "course_descr":"Required course for students in the Climate and Society MA program. An overview of how climate-societal and intra-societal relationships can be evaluated and quantified using relevant data sets, statistical tools, and dynamical models. Concepts and methods in quantitative modeling, data organization, and statistical analysis, with applications to climate and climate impacts. Students will also do some simple model experiments and evaluate the results. Lab required. Pre-requisites: undergraduate-level coursework in introductory statistics or data analysis; knowledge of calculus; basic familiarity with R programming language.",
-    "instructor":null,
+    "instructor":"Garrett Albistegui-Adler",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
     "call_number":"12615",
@@ -39861,7 +39936,7 @@
     "course_code":"CLMT G5055",
     "course_title":"Climate in Practice: Leadership and Coll",
     "course_descr":"This course is a core course for all Climate School students in the MA in Climate and Society and MS in Climate 1.5 credits in the fall and 1.5 credits in the spring. It is a practicum-style course focused on the application of classroom learnings in a range of professional and real-world situations.\n  \nAt the beginning of the fall semesters, students will be grouped in teams and assigned a previous years\u2019 Capstone project (a summer project that former CS students have produced in partnership with an external partner). Students will use this previous capstone project to practice skills including: stakeholder engagement strategies, communication and presentation skills, systems thinking, and project planning.\u00a0\n  \nThe fall will be focused on grounding in the topic and challenge of the capstone project, stakeholder discovery and mock engagement, and evaluating its application to the New York City context. The spring will be focused on evaluation of problem definition of the client, work planning and project planning, learning from the client and\/or alumni about the outcomes and contemporary challenges\/applications of the project, and producing a final project as a team. By the end, students will be prepared to fully engage with their own capstone projects in future semesters, will have honed critical skills to support successful professional applications of their Climate School courses, and will have a \u2018mission and values statement\u2019 to guide their future practice as professionals.",
-    "instructor":null,
+    "instructor":"Garrett Albistegui-Adler",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
     "call_number":"12644",
@@ -44343,6 +44418,31 @@
     "type":"LABORATORY"
   },
   {
+    "course_code":"COMS BC3099",
+    "course_title":"INDEPENDENT STUDY",
+    "course_descr":null,
+    "instructor":"Eysa Lee",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"01163",
+    "campus":null,
+    "class_id":"X3099-20271-001",
+    "course_subtitle":null,
+    "department":"Computer Science @Barnard",
+    "department_code":"COMS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMS\/X3099-20271-001\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"1-4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271COMS3099X001",
+    "type":"INDEPENDENT"
+  },
+  {
     "course_code":"COMS BC3160",
     "course_title":"COMPUTER GRAPHICS",
     "course_descr":"This undergraduate course introduces students to algorithms, data structures and mathematical principles used in computer graphics. Students will gain experience with OpenGL and graphics processing unit (GPU) programming and develop an understanding of the graphics pipeline. The topics covered include shading and illumination, sampling and reconstruction, ray tracing, graphics hardware, geometric and viewing transformations, rendering, modeling curves and surfaces and image-based methods. Near the end of the course, students will be introduced to topics in animation, global illumination and reflectance and modern concepts like neural rendering. Pre-Requisites: COMS W3157 Advanced Programming, Linear Algebra (COMS W3251, APMA E3101, APMA E2101, MATH UN2010, or MATH UN2015), and Calculus I or higher.\n  \nPlease note:\u00a0\n  \nDue to significant overlap in content, only one of COMS BC3160 or COMS W4160 may be taken for credit.",
@@ -44594,6 +44694,306 @@
     "scheduled_days":"W",
     "section_key":"20271COMS3892X001",
     "type":"SEMINAR"
+  },
+  {
+    "course_code":"COMS BC3895",
+    "course_title":"RESEARCH PROJECTS IN COMPUTER SCIENCE",
+    "course_descr":null,
+    "instructor":"Smaranda Muresan",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"01164",
+    "campus":null,
+    "class_id":"X3895-20271-001",
+    "course_subtitle":"RESEARCH PROJECTS IN CS",
+    "department":"Computer Science @Barnard",
+    "department_code":"COMS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMS\/X3895-20271-001\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"1-4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271COMS3895X001",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"COMS BC3895",
+    "course_title":"RESEARCH PROJECTS IN COMPUTER SCIENCE",
+    "course_descr":null,
+    "instructor":"Rebecca N Wright",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"01165",
+    "campus":null,
+    "class_id":"X3895-20271-002",
+    "course_subtitle":"RESEARCH PROJECTS IN CS",
+    "department":"Computer Science @Barnard",
+    "department_code":"COMS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMS\/X3895-20271-002\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"1-4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271COMS3895X002",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"COMS BC3895",
+    "course_title":"RESEARCH PROJECTS IN COMPUTER SCIENCE",
+    "course_descr":null,
+    "instructor":"Mark Santolucito",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"01166",
+    "campus":null,
+    "class_id":"X3895-20271-003",
+    "course_subtitle":"RESEARCH PROJECTS IN CS",
+    "department":"Computer Science @Barnard",
+    "department_code":"COMS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMS\/X3895-20271-003\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"1-4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271COMS3895X003",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"COMS BC3895",
+    "course_title":"RESEARCH PROJECTS IN COMPUTER SCIENCE",
+    "course_descr":null,
+    "instructor":"Tiffany Tseng",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"01167",
+    "campus":null,
+    "class_id":"X3895-20271-004",
+    "course_subtitle":"RESEARCH PROJECTS IN CS",
+    "department":"Computer Science @Barnard",
+    "department_code":"COMS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMS\/X3895-20271-004\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"1-4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271COMS3895X004",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"COMS BC3895",
+    "course_title":"RESEARCH PROJECTS IN COMPUTER SCIENCE",
+    "course_descr":null,
+    "instructor":"Murad Megjhani",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"01168",
+    "campus":null,
+    "class_id":"X3895-20271-005",
+    "course_subtitle":"RESEARCH PROJECTS IN CS",
+    "department":"Computer Science @Barnard",
+    "department_code":"COMS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMS\/X3895-20271-005\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"1-4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271COMS3895X005",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"COMS BC3895",
+    "course_title":"RESEARCH PROJECTS IN COMPUTER SCIENCE",
+    "course_descr":null,
+    "instructor":"Corey Toler-Franklin",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"01169",
+    "campus":null,
+    "class_id":"X3895-20271-006",
+    "course_subtitle":"RESEARCH PROJECTS IN CS",
+    "department":"Computer Science @Barnard",
+    "department_code":"COMS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMS\/X3895-20271-006\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"1-4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271COMS3895X006",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"COMS BC3895",
+    "course_title":"RESEARCH PROJECTS IN COMPUTER SCIENCE",
+    "course_descr":null,
+    "instructor":"Ahmer Arif",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"01170",
+    "campus":null,
+    "class_id":"X3895-20271-007",
+    "course_subtitle":"RESEARCH PROJECTS IN CS",
+    "department":"Computer Science @Barnard",
+    "department_code":"COMS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMS\/X3895-20271-007\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"1-4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271COMS3895X007",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"COMS BC3895",
+    "course_title":"RESEARCH PROJECTS IN COMPUTER SCIENCE",
+    "course_descr":null,
+    "instructor":"Eysa Lee",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"01171",
+    "campus":null,
+    "class_id":"X3895-20271-008",
+    "course_subtitle":"RESEARCH PROJECTS IN CS",
+    "department":"Computer Science @Barnard",
+    "department_code":"COMS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMS\/X3895-20271-008\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"1-4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271COMS3895X008",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"COMS BC3895",
+    "course_title":"RESEARCH PROJECTS IN COMPUTER SCIENCE",
+    "course_descr":null,
+    "instructor":"Niall Williams",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"01172",
+    "campus":null,
+    "class_id":"X3895-20271-009",
+    "course_subtitle":"RESEARCH PROJECTS IN CS",
+    "department":"Computer Science @Barnard",
+    "department_code":"COMS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMS\/X3895-20271-009\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"1-4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271COMS3895X009",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"COMS BC3895",
+    "course_title":"RESEARCH PROJECTS IN COMPUTER SCIENCE",
+    "course_descr":null,
+    "instructor":"Lucy Simko",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"01173",
+    "campus":null,
+    "class_id":"X3895-20271-010",
+    "course_subtitle":"RESEARCH PROJECTS IN CS",
+    "department":"Computer Science @Barnard",
+    "department_code":"COMS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMS\/X3895-20271-010\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"1-4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271COMS3895X010",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"COMS BC3895",
+    "course_title":"RESEARCH PROJECTS IN COMPUTER SCIENCE",
+    "course_descr":null,
+    "instructor":"Elaine Li",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"01174",
+    "campus":null,
+    "class_id":"X3895-20271-011",
+    "course_subtitle":"RESEARCH PROJECTS IN CS",
+    "department":"Computer Science @Barnard",
+    "department_code":"COMS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMS\/X3895-20271-011\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"1-4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271COMS3895X011",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"COMS BC3895",
+    "course_title":"RESEARCH PROJECTS IN COMPUTER SCIENCE",
+    "course_descr":null,
+    "instructor":"Faculty",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"01175",
+    "campus":null,
+    "class_id":"X3895-20271-012",
+    "course_subtitle":"RESEARCH PROJECTS IN CS",
+    "department":"Computer Science @Barnard",
+    "department_code":"COMS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMS\/X3895-20271-012\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"1-4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271COMS3895X012",
+    "type":"INDEPENDENT"
   },
   {
     "course_code":"COMS BC3930",
@@ -47148,7 +47548,7 @@
   {
     "course_code":"CPLT BC3510",
     "course_title":"ADVANCED WORKSHOP TRANSLATION",
-    "course_descr":"Maurice Blanchot once described translators as the \u201chidden masters of culture.\u201d Indeed, though our labor and craft often go unrecognized in the age of Google Translate, translators play an essential role as tastemakers, bridge-builders, advocates, and diplomats, not to mention the most intimate readers and re-writers of literature. In this workshop, we will explore translation as a praxis of writing, reading, and revision. Together, we will also interrogate translation's complex and often fraught role in cultural production. What ethical questions does translation raise? Who gets to translate, and what gets translated? What is the place of the translator in the text? What can translation teach us about language, literature, and ourselves? Readings will include selections from translation theory, method texts, and literary translations across genres, from poetry and prose to essay and memoir. Students will workshop original translations into English and complete brief writing and translation exercises throughout.",
+    "course_descr":"This course invites students to focus on the problem and the craft of literary translation. What does it mean to translate a text well? Together, we will explore translation as a praxis of writing, reading, and revision. We will also interrogate translation\u2019s complex and often fraught role in cultural production. What ethical questions does translation raise? What is the place of the translator in the text? Readings will include selections from translation theory, method texts, and literary translations across genres. Students will submit their original translations for the weekly workshop and receive close feedback from one another and also the instructor. The latter half of the course will be devoted to developing each student\u2019s capstone translation project.",
     "instructor":"Daniella Gitlin",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -75818,7 +76218,7 @@
     "department":"Mechanical Engineering",
     "department_code":"ENME",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENME\/E3105-20271-001\/",
-    "location":"833 Seeley W. Mudd Building, Friday 1:10pm-2:25pm 833 Seeley W. Mudd Building",
+    "location":"833 Seeley W. Mudd Building, Friday 1:10pm-2:25pm 310 Fayerweather",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"4",
@@ -75827,31 +76227,6 @@
     ],
     "scheduled_days":"MW",
     "section_key":"20271ENME3105E001",
-    "type":"LECTURE"
-  },
-  {
-    "course_code":"ENME E3105",
-    "course_title":"MECHANICS",
-    "course_descr":"Elements of statics; dynamics of a particle and systems of particles.",
-    "instructor":null,
-    "scheduled_time_start":"1:10pm",
-    "scheduled_time_end":"2:25pm",
-    "call_number":"17376",
-    "campus":null,
-    "class_id":"E3105-20271-R01",
-    "course_subtitle":null,
-    "department":"Mechanical Engineering",
-    "department_code":"ENME",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENME\/E3105-20271-R01\/",
-    "location":"310 Fayerweather",
-    "method_of_instruction":"In-Person",
-    "open_to":null,
-    "points":"0",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"F",
-    "section_key":"20271ENME3105ER01",
     "type":"LECTURE"
   },
   {
@@ -87875,7 +88250,7 @@
   {
     "course_code":"FREN GR8819",
     "course_title":"SOCIOLOGIES OF THE EVERYDAY",
-    "course_descr":null,
+    "course_descr":"What is everyday life? Is it the day-to-day grind of \nm\u00e9tro, boulot, dodo\n or the raucous pleasure of the \nsoixante-huitards\n? The overlooked and underappreciated lives and experiences of the working class? Or the subtle changes of a single street, in a single square, over days or years? In this course, we will consider critical investigations of the everyday in literature, film, and beyond. Mid-to-late 20th-century France saw the rise of literary practices less centered on narrative, and more on the experience of everyday life. Influenced by scholars from diverse intellectual traditions (like Marxism, history, anthropology, sociology, and psychoanalysis), authors and intellectuals directed their attention to analyzing, understanding, and documenting lived experience. This explosion of interest in the \nquotidien\n reversed the ethnographic gaze\u2014compelling sociologists like Morin to direct their attention to the spaces of modern Europe. In the dynamic political and social climate of the \nTrentes glorieuses, \nthere was much to consider, from the rise of consumer culture to the blights of the working class, to major political events of the period (such as the student-worker strikes of May \u201968 or the Algerian War). But above all, as the playwrights of the \nTh\u00e9\u00e2tre du quotidien\n argued, the goal was to tell the stories of real people (\u201craconter la vie des \u2018gens\u2019\u201d) and to offer a glimpse into their lives (\u201cune tranche de vie\u201d). In this literature and cultural studies course, we will consider the cross-fertilization across a variety of intellectual disciplines (notably sociology, ethnography, structuralism, and so on) provoked by interest in the everyday. We will consider how literature engaged in \u201c\ncomportements analogiques\n\u201d (as Derek Schilling calls them) to sociology, undertaking its own critical investigation of \nle quotidien. \nMoving into the 21st century, we will consider the legacy of the everyday in contemporary French fiction, in light of major sociopolitical changes in late 20th-century France, most notably, the failure of communism and the decline of industrialism. In this era \u201cafter\u201d (post-industrial, post-communist, post-avant-garde, or even post-political), how do authors document and interrogate daily life? With the radical globalization of culture in the digital moment, how do authors and artists apprehend the changing dynamics of lived experience?",
     "instructor":"Aubrey A Gabel",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:00pm",
@@ -92464,6 +92839,195 @@
     "scheduled_days":null,
     "section_key":"20271GLHL7208M001",
     "type":"RESEARCH SEM"
+  },
+  {
+    "course_code":"GNPH P6766",
+    "course_title":"DESIGNING NEEDS AND ASSETS ASSESSMENT",
+    "course_descr":null,
+    "instructor":"Carole L Hutchinson",
+    "scheduled_time_start":"7:00pm",
+    "scheduled_time_end":"8:30pm",
+    "call_number":"17444",
+    "campus":null,
+    "class_id":"P6766-20271-D01",
+    "course_subtitle":"DESIGN NEED & ASSET ASSES",
+    "department":"General Public Health",
+    "department_code":"GNPH",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/GNPH\/P6766-20271-D01\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Public Health"
+    ],
+    "points":"1.5",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20271GNPH6766PD01",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"GNPH P8096",
+    "course_title":"Communicating Health Risks to the Public",
+    "course_descr":null,
+    "instructor":"Carina Schmid",
+    "scheduled_time_start":"7:00pm",
+    "scheduled_time_end":"9:00pm",
+    "call_number":"17445",
+    "campus":null,
+    "class_id":"P8096-20271-D01",
+    "course_subtitle":"Communicating Health Risk",
+    "department":"General Public Health",
+    "department_code":"GNPH",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/GNPH\/P8096-20271-D01\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Public Health"
+    ],
+    "points":"1.5",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20271GNPH8096PD01",
+    "type":"ONLINE COURS"
+  },
+  {
+    "course_code":"GNPH P8097",
+    "course_title":"ADV MPH Online Integrative Learning Expe",
+    "course_descr":null,
+    "instructor":"Stephanie A Grilo",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17446",
+    "campus":null,
+    "class_id":"P8097-20271-D01",
+    "course_subtitle":"Integrative Learning Exp.",
+    "department":"General Public Health",
+    "department_code":"GNPH",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/GNPH\/P8097-20271-D01\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Public Health"
+    ],
+    "points":"0",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271GNPH8097PD01",
+    "type":"ONLINE COURS"
+  },
+  {
+    "course_code":"GNPH P8304",
+    "course_title":"The Impact of Climate Change on Public H",
+    "course_descr":null,
+    "instructor":"Lewis Ziska",
+    "scheduled_time_start":"7:00pm",
+    "scheduled_time_end":"8:20pm",
+    "call_number":"17447",
+    "campus":null,
+    "class_id":"P8304-20271-D01",
+    "course_subtitle":"Impact of Climate Change",
+    "department":"General Public Health",
+    "department_code":"GNPH",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/GNPH\/P8304-20271-D01\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Public Health"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20271GNPH8304PD01",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"GNPH P8620",
+    "course_title":"Implementation Science in Public Health",
+    "course_descr":null,
+    "instructor":"Gazi Azad",
+    "scheduled_time_start":"5:30pm",
+    "scheduled_time_end":"6:50pm",
+    "call_number":"17448",
+    "campus":null,
+    "class_id":"P8620-20271-D01",
+    "course_subtitle":"Implementation Science in",
+    "department":"General Public Health",
+    "department_code":"GNPH",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/GNPH\/P8620-20271-D01\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Public Health"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"W",
+    "section_key":"20271GNPH8620PD01",
+    "type":"ONLINE COURS"
+  },
+  {
+    "course_code":"GNPH P8647",
+    "course_title":"Service-Based Research Design and Data C",
+    "course_descr":null,
+    "instructor":"Silpa Srinivasulu",
+    "scheduled_time_start":"5:30pm",
+    "scheduled_time_end":"6:50pm",
+    "call_number":"17449",
+    "campus":null,
+    "class_id":"P8647-20271-D01",
+    "course_subtitle":"SERVICE-BASED RESEARCH DE",
+    "department":"General Public Health",
+    "department_code":"GNPH",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/GNPH\/P8647-20271-D01\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Public Health"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20271GNPH8647PD01",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"GNPH P8914",
+    "course_title":"Current Issues in Digital Presence & Pub",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"6:40pm",
+    "scheduled_time_end":"8:10pm",
+    "call_number":"17450",
+    "campus":null,
+    "class_id":"P8914-20271-D01",
+    "course_subtitle":"ISSUES IN DIGITAL PRESENC",
+    "department":"General Public Health",
+    "department_code":"GNPH",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/GNPH\/P8914-20271-D01\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Public Health"
+    ],
+    "points":"1.5",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"R",
+    "section_key":"20271GNPH8914PD01",
+    "type":"LECTURE"
   },
   {
     "course_code":"GN__ N01P_",
@@ -104261,7 +104825,7 @@
     "course_code":"IEOR E4012",
     "course_title":"Responsible AI: Decisions, Risk, and Gov",
     "course_descr":"Introduction to responsible AI with a focus on decision-making, risk, and governance in real-world organizational settings. Topics include fairness, privacy, transparency, reliability, human oversight, alignment, information integrity, future of work, and AI regulation, with emphasis on how these issues shape the design and use of AI in business and policy decisions. Course material will draw on case studies and real-world applications in areas such as hiring, healthcare, finance, autonomous systems, and law.",
-    "instructor":null,
+    "instructor":"Yaren Kaya",
     "scheduled_time_start":"11:40am",
     "scheduled_time_end":"12:55pm",
     "call_number":"16553",
@@ -104289,7 +104853,7 @@
     "course_code":"IEOR E4012",
     "course_title":"Responsible AI: Decisions, Risk, and Gov",
     "course_descr":"Introduction to responsible AI with a focus on decision-making, risk, and governance in real-world organizational settings. Topics include fairness, privacy, transparency, reliability, human oversight, alignment, information integrity, future of work, and AI regulation, with emphasis on how these issues shape the design and use of AI in business and policy decisions. Course material will draw on case studies and real-world applications in areas such as hiring, healthcare, finance, autonomous systems, and law.",
-    "instructor":null,
+    "instructor":"Yaren Kaya",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"11:25am",
     "call_number":"16875",
@@ -104443,7 +105007,8 @@
     "location":"310 Fayerweather",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Engineering:Graduate"
+      "Engineering:Graduate",
+      "Engineering:Undergraduate"
     ],
     "points":"3",
     "prerequisites":[
@@ -106193,6 +106758,33 @@
     "scheduled_days":"W",
     "section_key":"20271IEOR4998E001",
     "type":"LECTURE"
+  },
+  {
+    "course_code":"IEOR E4999",
+    "course_title":"FIELDWORK",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17098",
+    "campus":null,
+    "class_id":"E4999-20271-001",
+    "course_subtitle":null,
+    "department":"Industrial Engineering and Operations Research",
+    "department_code":"IEOR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/IEOR\/E4999-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Engineering:Graduate"
+    ],
+    "points":"1-2",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271IEOR4999E001",
+    "type":"INDEPENDENT"
   },
   {
     "course_code":"IEOR E4999",
@@ -122456,7 +123048,7 @@
     "department":"Mathematics",
     "department_code":"MATH",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/MATH\/W4061-20271-001\/",
-    "location":"417 Mathematics Building",
+    "location":"717 Hamilton Hall",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"3",
@@ -129248,31 +129840,6 @@
     ],
     "scheduled_days":"T",
     "section_key":"20271MECE6423E001",
-    "type":"LECTURE"
-  },
-  {
-    "course_code":"MECE E6460",
-    "course_title":"Mechanics of Elastomeric and Elastomeric",
-    "course_descr":"Mechanics of nonlinear mechanical behavior of elastomeric and elastomeric-like solids. Overview of structure and behavior of elastomers. Kinematics of large deformation. Constitutive models for equilibrium stress-strain behavior, using invariant measures of deformation and statistical mechanics of molecular networks. Automated Constitutive Model Discovery via Neural Networks. Hysteretic aspects of structure and behavior due to time dependence and structural evolution with deformation. Review of experimental data and models to capture and predict observations. Time permitting: behavior of particle-filled, thermoplastic and biomacromolecular elastomers.",
-    "instructor":"Mary Boyce",
-    "scheduled_time_start":"10:10am",
-    "scheduled_time_end":"12:40pm",
-    "call_number":"12991",
-    "campus":null,
-    "class_id":"E6460-20271-001",
-    "course_subtitle":"Mech of Elasto Materials",
-    "department":"Mechanical Engineering",
-    "department_code":"MECE",
-    "link":"https:\/\/doc.sis.columbia.edu\/subj\/MECE\/E6460-20271-001\/",
-    "location":"825 Seeley W. Mudd Building",
-    "method_of_instruction":"In-Person",
-    "open_to":null,
-    "points":"3",
-    "prerequisites":[
-
-    ],
-    "scheduled_days":"W",
-    "section_key":"20271MECE6460E001",
     "type":"LECTURE"
   },
   {
@@ -139039,6 +139606,33 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"NURS N4950",
+    "course_title":"Beginner Medical Spanish",
+    "course_descr":null,
+    "instructor":"Ana I Esteban Gonzalez",
+    "scheduled_time_start":"6:30pm",
+    "scheduled_time_end":"7:50pm",
+    "call_number":"17452",
+    "campus":null,
+    "class_id":"N4950-20271-D01",
+    "course_subtitle":"BEGINNER MEDICAL SPANISH",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N4950-20271-D01\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20271NURS4950ND01",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"NURS N6122",
     "course_title":"Pathophysiology of the Child",
     "course_descr":"This course is required for students in Pediatric Primary Care and the Pediatric Specialty Care programs. The pathogenesis of common conditions affecting children is presented and serves as a basis for clinical management. Relevant pharmacology is presented for each of the disease entities.",
@@ -139907,6 +140501,33 @@
     "type":"CLINIC"
   },
   {
+    "course_code":"NURS N8245",
+    "course_title":"PRINCIPLES AND PRACTICE OF NURSE ANESTHE",
+    "course_descr":null,
+    "instructor":"Antoinette T Padula",
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"11:50am",
+    "call_number":"17441",
+    "campus":null,
+    "class_id":"N8245-20271-001",
+    "course_subtitle":"PRIN & PRAC NURS ANES IV",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N8245-20271-001\/",
+    "location":"LL110 Armand Hammer Health Sciences Center, Monday 9:00am-11:50am 303 Armand Hammer Health Sciences Center",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20271NURS8245N001",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"NURS N8321",
     "course_title":"Diagnosis and Management in Primary Care",
     "course_descr":"This is the first of three consecutive courses focusing on utilizing a systems and developmental approach in primary care. This course will focus on the differential diagnosis and comprehensive care management of commonly encountered acute and chronic physical and mental health illnesses as they affect individuals across the lifespan. For each system studied, health assessment, diagnostic findings, and multi-modal management will be highlighted.",
@@ -140065,6 +140686,33 @@
     "scheduled_days":"W",
     "section_key":"20271NURS8479N001",
     "type":"LECTURE"
+  },
+  {
+    "course_code":"NURS N8571",
+    "course_title":"Seminar in Family Therapy and Technique",
+    "course_descr":null,
+    "instructor":"Fatima M Ramos",
+    "scheduled_time_start":"1:00pm",
+    "scheduled_time_end":"3:50pm",
+    "call_number":"17451",
+    "campus":null,
+    "class_id":"N8571-20271-001",
+    "course_subtitle":"SEM-FAMILY THERAPY & TECH",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N8571-20271-001\/",
+    "location":"LL110 Armand Hammer Health Sciences Center",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"2",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20271NURS8571N001",
+    "type":"SEMINAR"
   },
   {
     "course_code":"NURS N8577",
@@ -140494,6 +141142,33 @@
     ],
     "scheduled_days":null,
     "section_key":"20271NURS8827NH01",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"NURS N8861",
+    "course_title":"ANESTHESIA AND COEXISTING DISEASE",
+    "course_descr":null,
+    "instructor":"Donald R Jr Boyd",
+    "scheduled_time_start":"9:00am",
+    "scheduled_time_end":"11:50am",
+    "call_number":"17442",
+    "campus":null,
+    "class_id":"N8861-20271-001",
+    "course_subtitle":"ANES & COEXISTING DISEASE",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N8861-20271-001\/",
+    "location":"LL110 Armand Hammer Health Sciences Center, Monday 9:00am-11:59am LL107 Armand Hammer Health Sciences Center, Monday 9:00am-11:50am LL107 Armand Hammer Health Sciences Center",
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Nursing"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"M",
+    "section_key":"20271NURS8861N001",
     "type":"LECTURE"
   },
   {
@@ -144875,7 +145550,7 @@
     "course_code":"PHED UN1002",
     "course_title":"PHYSICAL EDUCATION ACTIVITIES",
     "course_descr":"The required Physical Education program offers a variety of activities in the areas of strength training, dance, cardio fitness, martial arts, individual and dual sports, team sports, and outdoor education. It is our goal that the experiences provided by these activities will contribute to the development of an active, healthy lifestyle.",
-    "instructor":null,
+    "instructor":"Katherine McKane",
     "scheduled_time_start":"9:00am",
     "scheduled_time_end":"9:50am",
     "call_number":"16882",
@@ -147897,6 +148572,131 @@
     ],
     "scheduled_days":null,
     "section_key":"20271PHIL9001G018",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"PHIL GR9002",
+    "course_title":"QUODLIBETAL STUDIES II",
+    "course_descr":null,
+    "instructor":"Caroline D Bowman",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"01176",
+    "campus":null,
+    "class_id":"G9002-20271-019",
+    "course_subtitle":null,
+    "department":"Philosophy @Barnard",
+    "department_code":"PHIL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PHIL\/G9002-20271-019\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"3-6",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271PHIL9002G019",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"PHIL GR9002",
+    "course_title":"QUODLIBETAL STUDIES II",
+    "course_descr":null,
+    "instructor":"Taylor Carman",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"01177",
+    "campus":null,
+    "class_id":"G9002-20271-020",
+    "course_subtitle":null,
+    "department":"Philosophy @Barnard",
+    "department_code":"PHIL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PHIL\/G9002-20271-020\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"3-6",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271PHIL9002G020",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"PHIL GR9002",
+    "course_title":"QUODLIBETAL STUDIES II",
+    "course_descr":null,
+    "instructor":"Karen Lewis",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"01178",
+    "campus":null,
+    "class_id":"G9002-20271-021",
+    "course_subtitle":null,
+    "department":"Philosophy @Barnard",
+    "department_code":"PHIL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PHIL\/G9002-20271-021\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"3-6",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271PHIL9002G021",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"PHIL GR9002",
+    "course_title":"QUODLIBETAL STUDIES II",
+    "course_descr":null,
+    "instructor":"John Morrison",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"01179",
+    "campus":null,
+    "class_id":"G9002-20271-022",
+    "course_subtitle":null,
+    "department":"Philosophy @Barnard",
+    "department_code":"PHIL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PHIL\/G9002-20271-022\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"3-6",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271PHIL9002G022",
+    "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"PHIL GR9002",
+    "course_title":"QUODLIBETAL STUDIES II",
+    "course_descr":null,
+    "instructor":"Francey Russell",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"01180",
+    "campus":null,
+    "class_id":"G9002-20271-023",
+    "course_subtitle":null,
+    "department":"Philosophy @Barnard",
+    "department_code":"PHIL",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/PHIL\/G9002-20271-023\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"3-6",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271PHIL9002G023",
     "type":"INDEPENDENT"
   },
   {
@@ -154918,7 +155718,7 @@
     "call_number":"16375",
     "campus":null,
     "class_id":"A6752-20271-001",
-    "course_subtitle":"RE MEDIA + MARKETING",
+    "course_subtitle":"GLOBAL REAL ESTATE MARKET",
     "department":"Architecture, Planning and Preservation",
     "department_code":"PLAN",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/PLAN\/A6752-20271-001\/",
@@ -155729,7 +156529,7 @@
     "department":"Project Management",
     "department_code":"PMGT",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/PMGT\/K5135-20271-001\/",
-    "location":null,
+    "location":"310 Fayerweather",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Professional Studies"
@@ -156987,6 +157787,31 @@
     "scheduled_days":"W",
     "section_key":"20271POLS8880G001",
     "type":"COLLOQUIA"
+  },
+  {
+    "course_code":"POLS GR9010",
+    "course_title":"SPECIAL RESEARCH COURSE",
+    "course_descr":null,
+    "instructor":"Clara Maier",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17455",
+    "campus":null,
+    "class_id":"G9010-20271-001",
+    "course_subtitle":null,
+    "department":"Political Science",
+    "department_code":"POLS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/POLS\/G9010-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"1-6",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271POLS9010G001",
+    "type":"INDEPENDENT"
   },
   {
     "course_code":"POLS GR9902",
@@ -167666,6 +168491,31 @@
     "type":"SEMINAR"
   },
   {
+    "course_code":"RELI GU4990",
+    "course_title":"Directed Readings",
+    "course_descr":null,
+    "instructor":"Gale L Kenny",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"01181",
+    "campus":null,
+    "class_id":"W4990-20271-001",
+    "course_subtitle":null,
+    "department":"Religion @Barnard",
+    "department_code":"RELI",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/RELI\/W4990-20271-001\/",
+    "location":null,
+    "method_of_instruction":null,
+    "open_to":null,
+    "points":"1-4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271RELI4990W001",
+    "type":"SEMINAR"
+  },
+  {
     "course_code":"RELI S1613",
     "course_title":"Religion and the History of Hip Hop - Di",
     "course_descr":"This is an undergraduate lecture course introducing students to the study of religion through an engagement with the history of hip hop music. More specifically, this course is organized chronologically to narrate a history of religion in the United States (circa 1970 to the present day) by mapping the ways that a variety of religious ideas and practices have animated rap music\u2019s evolution and expansion during this time period. While there are no required prerequisites for the course, prior coursework in religious studies, African American studies, and\/or popular music is helpful.",
@@ -169593,6 +170443,31 @@
     "scheduled_days":"R",
     "section_key":"20271RUSS6513G001",
     "type":"SEMINAR"
+  },
+  {
+    "course_code":"RUSS GR8053",
+    "course_title":"DIR RES: RUSSIAN PROSE",
+    "course_descr":null,
+    "instructor":"Liza Knapp",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17443",
+    "campus":null,
+    "class_id":"G8053-20271-001",
+    "course_subtitle":null,
+    "department":"Slavic Languages",
+    "department_code":"RUSS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/RUSS\/G8053-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"1",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271RUSS8053G001",
+    "type":"INDEPENDENT"
   },
   {
     "course_code":"RUSS GU4128",
@@ -190437,7 +191312,7 @@
     "course_code":"STAT GR5261",
     "course_title":"STATISTICAL METHODS IN FINANCE",
     "course_descr":"Prerequisites: STAT GR5204 or the equivalent. STAT GR5205 is recommended. A fast-paced introduction to statistical methods used in quantitative finance. Financial applications and statistical methodologies are intertwined in all lectures. Topics include regression analysis and applications to the Capital Asset Pricing Model and multifactor pricing models, principal components and multivariate analysis, smoothing techniques and estimation of yield curves statistical methods for financial time series, value at risk, term structure models and fixed income research, and estimation and modeling of volatilities. Hands-on experience with financial data.",
-    "instructor":"Hammou El Barmi",
+    "instructor":null,
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:40pm",
     "call_number":"14467",
@@ -190449,7 +191324,10 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/STAT\/W5261-20271-001\/",
     "location":"301 Uris Hall",
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "Engineering:Graduate",
+      "GSAS"
+    ],
     "points":"3",
     "prerequisites":[
       [
@@ -190492,7 +191370,7 @@
     "course_code":"STAT GR5264",
     "course_title":"STOCHASTC PROCSSES-APPLICTNS I",
     "course_descr":"Prerequisites: STAT GR5203 or the equivalent. Basics of continuous-time stochastic processes. Wiener processes. Stochastic integrals. Ito's formula, stochastic calculus. Stochastic exponentials and Girsanov's theorem. Gaussian processes. Stochastic differential equations. Additional topics as time permits.",
-    "instructor":"Jaehyuk Choi",
+    "instructor":null,
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:25pm",
     "call_number":"14465",
@@ -190522,7 +191400,7 @@
     "course_code":"STAT GR5265",
     "course_title":"STOCHASTIC METHODS IN FINANCE",
     "course_descr":"Prerequisites: STAT GR5264 Available to SSP, SMP. Mathematical theory and probabilistic tools for modeling and analyzing security markets are developed. Pricing options in complete and incomplete markets, equivalent martingale measures, utility maximization, term structure of interest rates.",
-    "instructor":"Graeme Baker",
+    "instructor":null,
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"5:25pm",
     "call_number":"14464",
@@ -190552,7 +191430,7 @@
     "course_code":"STAT GR5266",
     "course_title":"QUANTITATIVE RISK MANAGEMENT",
     "course_descr":"This course provides a rigorous statistical framework for measuring and managing financial risk.\u00a0While the course follows the industry-standard workflow defined by the Financial Risk Manager\u00a0(FRM) designation, it treats risk measurement as a statistical inference problem. Students will\u00a0learn the standard industry metrics (Value-at-Risk, Expected Shortfall) and the mathematical\u00a0theory required to implement them robustly.\u00a0Key topics include Volatility Forecasting (GARCH), Extreme Value Theory (EVT) for heavy-tailed\u00a0losses, Copulas for non-linear dependence, and Monte Carlo simulation methods.",
-    "instructor":"Hammou El Barmi",
+    "instructor":null,
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:40pm",
     "call_number":"14463",
@@ -190564,7 +191442,10 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/STAT\/G5266-20271-001\/",
     "location":"903 School of Social Work",
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "Engineering:Graduate",
+      "GSAS"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -190622,7 +191503,9 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/STAT\/G5293-20271-001\/",
     "location":"509 Hamilton Hall",
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "GSAS"
+    ],
     "points":"3",
     "prerequisites":[
 
@@ -190635,7 +191518,7 @@
     "course_code":"STAT GR5293",
     "course_title":"TOPICS IN MODERN STATISTICS",
     "course_descr":"Topics in Modern Statistics will provide MA Statistics students with an opportunity to study a specialized area of statistics in more depth and to meet the educational needs of a rapidly growing field.",
-    "instructor":"Junren Chen",
+    "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
     "call_number":"14459",
@@ -190691,7 +191574,7 @@
     "course_code":"STAT GR5294",
     "course_title":"TOPICS IN MACHINE LEARNING AND AI",
     "course_descr":"TOPICS IN MACHINE LEARNING AND AI will provide MA Statistics students with an opportunity to study specialized areas of statistics in more depth and to meet the educational needs of a rapidly growing field.",
-    "instructor":"Xiaofu He",
+    "instructor":null,
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"3:40pm",
     "call_number":"16630",
@@ -190719,7 +191602,7 @@
     "course_code":"STAT GR5294",
     "course_title":"TOPICS IN MACHINE LEARNING AND AI",
     "course_descr":"TOPICS IN MACHINE LEARNING AND AI will provide MA Statistics students with an opportunity to study specialized areas of statistics in more depth and to meet the educational needs of a rapidly growing field.",
-    "instructor":"Parijat Dube",
+    "instructor":null,
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"7:25pm",
     "call_number":"16640",
@@ -190747,7 +191630,7 @@
     "course_code":"STAT GR5294",
     "course_title":"TOPICS IN MACHINE LEARNING AND AI",
     "course_descr":"TOPICS IN MACHINE LEARNING AND AI will provide MA Statistics students with an opportunity to study specialized areas of statistics in more depth and to meet the educational needs of a rapidly growing field.",
-    "instructor":"Chen Wang",
+    "instructor":null,
     "scheduled_time_start":"4:10pm",
     "scheduled_time_end":"6:40pm",
     "call_number":"16642",
@@ -193710,7 +194593,7 @@
     "course_code":"SUMA PS5040",
     "course_title":"ESG ALIGNED CORPORATE GOVERNANCE",
     "course_descr":"Environmental, social and governance issues are moving to center stage for corporate boards and executive teams. This elective course complements management and operations courses by focusing on the perspective and roles of the board and C-suite of corporations, financial institutions and professional firms in addressing ESG risks as well as promoting and overseeing governance aligned with ESG principles. The course focuses on the interchange between the external legal, competitive, societal, environmental and policy, ecosystems, corporations face (which vary around the world) and a company's internal structure, operations and pressures. We will use the United Nations Guiding Principles on Business and Human Rights and the UN Global Compact Principles (which incorporate all aspects of ESG) as the central frameworks to explore the concept of a corporation's responsibility to respect and remedy human rights and environmental harms. We will also examine the Equator Principles and other frameworks that spell out good practices for project finance and other investment decisions, and reference a wide range of the myriad indices, supplier disclosure portals and benchmarks that exist in this inter-disciplinary field, Relevant regulations, corporate law regimes and court cases will be discussed from the point of view of what business managers need to know. While most of the course will deal with companies and firms serving global, regional or national markets, several examples will deal with the question of how the ESG ecosystem affects or offers opportunities to start-ups.\nWeekly Class Meeting 110 min x 14 = 1,540 min; Required Instructor Meeting (Category E) 60 min x 12 = 720 min; TOTAL = 2,260 min (for entire semester).",
-    "instructor":null,
+    "instructor":"Carl A Otto",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
     "call_number":"14030",
