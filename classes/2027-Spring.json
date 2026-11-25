@@ -10530,8 +10530,8 @@
     "course_title":"ANALYTICS AND LEADING CHANGE RECITATION",
     "course_descr":"This is the recitation course associated with APAN 5700 Analytics and Leading Change.",
     "instructor":null,
-    "scheduled_time_start":"6:10pm",
-    "scheduled_time_end":"7:00pm",
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"3:00pm",
     "call_number":"16804",
     "campus":null,
     "class_id":"K5701-20271-D01",
@@ -10548,7 +10548,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":"W",
+    "scheduled_days":"F",
     "section_key":"20271APAN5701KD01",
     "type":"RECITATION"
   },
@@ -40814,7 +40814,7 @@
   {
     "course_code":"CLPH GU4902",
     "course_title":"DIRECTED READINGS",
-    "course_descr":null,
+    "course_descr":"Prerequisites: the instructors permission. Topics chosen in consultation between members of the staff and students.",
     "instructor":"Steven Brandwood",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -46676,6 +46676,33 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"COMS W4721",
+    "course_title":"MACHINE LEARNING FOR DATA SCI",
+    "course_descr":null,
+    "instructor":"Yining Liu",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17663",
+    "campus":null,
+    "class_id":"W4721-20271-V01",
+    "course_subtitle":"MACHINE LEARNING FOR DATA",
+    "department":"Video Network",
+    "department_code":"COMS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMS\/W4721-20271-V01\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Engineering:Graduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271COMS4721WV01",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"COMS W4732",
     "course_title":"Computer Vision II: Learning",
     "course_descr":"Advanced course in computer vision. Topics include convolutional networks and back-propagation, object and action recognition, self-supervised and few-shot learning, image synthesis and generative models, object tracking, vision and language, vision and audio, 3D representations, interpretability, and bias, ethics, and media deception.",
@@ -51598,7 +51625,7 @@
     "department":"Decision, Risk and Operations",
     "department_code":"DROM",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/DROM\/B9144-20271-001\/",
-    "location":"380 GEFFEN HALL",
+    "location":"810 Kravis Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Business"
@@ -58264,7 +58291,7 @@
     "course_code":"ECON GU4911",
     "course_title":"MICROECONOMICS SEMINAR",
     "course_descr":"Prerequisites: ECON UN3211 and ECON UN3213 and ECON UN3412\u00a0 Selected topics in microeconomics.",
-    "instructor":null,
+    "instructor":"Hashem Dezhbakhsh",
     "scheduled_time_start":"10:10am",
     "scheduled_time_end":"12:00pm",
     "call_number":"13069",
@@ -58471,6 +58498,31 @@
     ],
     "scheduled_days":"R",
     "section_key":"20271ECON4913W001",
+    "type":"SEMINAR"
+  },
+  {
+    "course_code":"ECON GU4913",
+    "course_title":"MACROECONOMICS SEMINAR",
+    "course_descr":null,
+    "instructor":"Miles Leahey",
+    "scheduled_time_start":"2:10pm",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"17661",
+    "campus":null,
+    "class_id":"W4913-20271-005",
+    "course_subtitle":"TOPICS IN ENVIRONMENTALSOCIAL",
+    "department":"Economics",
+    "department_code":"ECON",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/ECON\/W4913-20271-005\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"4",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20271ECON4913W005",
     "type":"SEMINAR"
   },
   {
@@ -61260,7 +61312,7 @@
   {
     "course_code":"EESC BC3020",
     "course_title":"Environmental Security",
-    "course_descr":null,
+    "course_descr":"Course Overview\/Short Description\n This course will consider various ways that changing environmental conditions put stress on humans and our societies and political systems, with an emphasis on conditions in the Global South. Among other topics it will consider influences of climate change on violent conflict migration and impacts of heat and air pollution on human health and wellbeing. Students will develop data analysis skills to explore these relationships and complete projects on environmental security cases and questions of their own choosing.\n \n \nLonger Description\/Purpose\/Intention of the Course\n Variation and shifts in environmental conditions have challenged societies throughout human history. Today, climatic variability and change, along with resource extraction, pollution and other forms of environmental degradation, influence society in myriad ways, through water resources and agriculture, storms, sea level rise, and direct impacts of heat on living things, among others. Moreover, different human populations, across race, ethnicity, class, gender, age, occupation and other lines face different levels of exposure and vulnerability to climatic and other environmental stressors and tend to experience them inequitably. Students will consider the influence and disparate impacts of environmental conditions on human security, through pathways such as human health, food and water security and education; various sectors of the economy from agriculture to mining to manufacturing; governance and social capacities; and broader social and political conditions like conflict, leadership change and migration. We will also consider the various approaches humans are taking to adapt to these stressors, mitigate their harms and build resilience. Throughout, emphasis will be placed on how natural and social scientists studying these phenomena engage in the research process to learn about and detect these impacts and the disparities among them.\n \n This is a highly collaborative and project-based course that aims to offer students the power to choose the resources they want to use and the topics and cases they want to study. There will be no exams, outside of possible brief quizzes to determine whether students are engaging with the course material. Instead, in the first portion of the course, the instructor will guide students through the study of a collection of key topics and cases in environmental security AND the development of key skill sets for gathering and proce",
     "instructor":"Garrett Albistegui-Adler",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:25pm",
@@ -65344,7 +65396,7 @@
   {
     "course_code":"ELEN E4998",
     "course_title":"INTERMEDIATE PROJECTS",
-    "course_descr":null,
+    "course_descr":"May be repeated for credit, but no more than 3 total points may be used for degree credit. Substantial independent project involving laboratory work, computer programming, analytical investigation, or engineering design.",
     "instructor":"Tanvir Ahmed Khan",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -66674,7 +66726,7 @@
   {
     "course_code":"ELEN E6920",
     "course_title":"TOPICS IN VLSI SYSTEMS DESIGN",
-    "course_descr":null,
+    "course_descr":"A comprehensive introduction to modern power management integrated circuits (PMIC) design. Advanced topics in power management will be introduced including: linear regulators; digital linear regulator; switch-mode power converter; control schemes for DC-DC converters; power losses in DC-DC converter; switched capacitor converters; wireless power conversion; power converter modeling and simulation; design examples. Topics may change from year to year.",
     "instructor":"Xin Zhang",
     "scheduled_time_start":"7:00pm",
     "scheduled_time_end":"9:30pm",
@@ -67578,7 +67630,7 @@
   {
     "course_code":"ELEN E9002",
     "course_title":"RESEARCH II",
-    "course_descr":null,
+    "course_descr":"Points of credit to be approved by the department. Requires submission of an outline of the proposed research for approval by the faculty member who is to supervise the work of the student. The research facilities of the department are available to qualified students interested in advanced study.",
     "instructor":"Asaf Cidon",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -77329,9 +77381,7 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/ENVP\/U9232-20271-R02\/",
     "location":"402 International Affairs Building",
     "method_of_instruction":"In-Person",
-    "open_to":[
-      "SIPA"
-    ],
+    "open_to":null,
     "points":"0",
     "prerequisites":[
 
@@ -80156,7 +80206,7 @@
   {
     "course_code":"ERMC PS5545",
     "course_title":"MODEL RISK MANAGEMENT",
-    "course_descr":"Given the ever growing reliance on models, Model risk affects financial institutions at almost every level of their organization including pricing, risk, finance, and marketing. Model risk management (MRM) is now one of the primary focuses of operational risk management at modern financial institutions. In this class, the ERM skill sets of risk identification, risk quantification, and risk decision making are applied to the kinds of models seen in large, complex financial institutions. Through readings, lecture, assignments, and in-class discussions, students learn the principles and concepts that a robust MRM function uses to manage model risk.\nWeekly Class Meeting 110 min x 14 = 1,540 min; Case\/Project Team Work Feedback (Category E) 1 semester x 360 min = 360 min; Required Instructor Meetings (Category E) 30 min x 12 + 60 min x 1 = 420 min; Professional Development Guest-Led Seminar (Category B) 1 session x 60 min = 60 min; TOTAL = 2,380 min (for entire semester)",
+    "course_descr":"Given the ever growing reliance on models, Model risk affects financial institutions at almost every level of their organization including pricing, risk, finance, and marketing. Model risk management (MRM) is now one of the primary focuses of operational risk management at modern financial institutions. In this class, the ERM skill sets of risk identification, risk quantification, and risk decision making are applied to the kinds of models seen in large, complex financial institutions. Through readings, lecture, assignments, and in-class discussions, students learn the principles and concepts that a robust MRM function uses to manage model risk.\n  \nWeekly Class Meeting 110 min x 14 = 1,540 min; Case\/Project Team Work Feedback (Category E) 1 semester x 360 min = 360 min; Required Instructor Meetings (Category E) 30 min x 12 + 60 min x 1 = 420 min; Professional Development Guest-Led Seminar (Category B) 1 session x 60 min = 60 min; TOTAL = 2,380 min (for entire semester)",
     "instructor":"Peter L Russo",
     "scheduled_time_start":"8:10pm",
     "scheduled_time_end":"10:00pm",
@@ -80183,7 +80233,7 @@
   {
     "course_code":"ERMC PS5550",
     "course_title":"ERM MODELING",
-    "course_descr":"Equips students with the basics of risk measurement and simulation using a hands-on approach to ERM modeling. Using industry-standard simulation software, students build systems of risk drivers for finance and insurance companies. Topics include risk correlations, VaR and TVaR, capital modeling, capital allocation, and parameter, process, and model Risk. Students acquire both quantitative experience building models and qualitative appreciation for model weaknesses.\nWeekly Class Meeting 110 min x 14 = 1,540 min; Skills-Based Seminar (Category A) 12 session x 90 min = 1,080 min; TOTAL = 2,620 min (for entire semester)",
+    "course_descr":"Equips students with the basics of risk measurement and simulation using a hands-on approach to ERM modeling. Using industry-standard simulation software, students build systems of risk drivers for finance and insurance companies. Topics include risk correlations, VaR and TVaR, capital modeling, capital allocation, and parameter, process, and model Risk. Students acquire both quantitative experience building models and qualitative appreciation for model weaknesses.\n  \nWeekly Class Meeting 110 min x 14 = 1,540 min; Skills-Based Seminar (Category A) 12 session x 90 min = 1,080 min; TOTAL = 2,620 min (for entire semester)",
     "instructor":"Julian Horky",
     "scheduled_time_start":"8:10pm",
     "scheduled_time_end":"10:00pm",
@@ -80210,7 +80260,7 @@
   {
     "course_code":"ERMC PS5555",
     "course_title":"MACHINE LEARNING FOR RISK MANAGEMENT",
-    "course_descr":"The exponentially increasing availability of data and the rapid development of information technology and computing power have inevitably made Machine Learning part of the risk manager\u2019s toolkit. But, what are these tools? This class provides the driving intuitions for machine learning. Students will see how many of the algorithms are extensions of what we already do with our human minds. These algorithms include regularized regression, cluster analysis, naive bayes, apriori algorithm, decision trees, random forests, and boosted ensembles.\nThrough practical and real-life applications of ML to Risk Management, students will learn to identify the best technique to apply to a particular risk management problem, from credit risk measurement, fraud detection, portfolio selection to climate change, and ESG applications.\nWeekly Class Meeting 110 min x 14 = 1,540 min; Skills-Based Seminar (Category A) 12 session x 90 min = 1,080 min; TOTAL = 2,620 min (for entire semester)",
+    "course_descr":"The exponentially increasing availability of data and the rapid development of information technology and computing power have inevitably made Machine Learning part of the risk manager\u2019s toolkit. But, what are these tools? This class provides the driving intuitions for machine learning. Students will see how many of the algorithms are extensions of what we already do with our human minds. These algorithms include regularized regression, cluster analysis, naive bayes, apriori algorithm, decision trees, random forests, and boosted ensembles.\n  \nThrough practical and real-life applications of ML to Risk Management, students will learn to identify the best technique to apply to a particular risk management problem, from credit risk measurement, fraud detection, portfolio selection to climate change, and ESG applications.\n  \nWeekly Class Meeting 110 min x 14 = 1,540 min; Skills-Based Seminar (Category A) 12 session x 90 min = 1,080 min; TOTAL = 2,620 min (for entire semester)",
     "instructor":null,
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -80403,7 +80453,7 @@
   {
     "course_code":"ERMC PS5575",
     "course_title":"THIRD-PARTY RISK MANAGEMENT",
-    "course_descr":"As organizations increasingly rely on external vendors and service providers, managing third-party risks becomes paramount to ensure operational resilience, regulatory compliance, and strategic success. Challenges include:\nThe evolving nature of technology risks.\nThe impact of geopolitical tensions.\nThe lessons learned from disruptive events like pandemics.\nBy offering a comprehensive curriculum covering everything from the basics of vendor management to advanced predictive TPRM models and emphasizing regulatory requirements specific to the financial services sector, the course equips professionals with the knowledge and tools needed to navigate the intricate web of third-party relationships. Students taking this course are prohibited from taking Supply Chain Risk Management for Non-Financials (ERMC PS5585) at any time. Contact your advisor for more information.\nWeekly Class Meeting 110 min x 14 = 1,540 min; Case\/Project Team Work Feedback (Category E) 1 semester x 600 min = 600 min; Required Instructor Meetings (Category E) 45 min x 6 = 270 min; TOTAL = 2,410 min (for entire semester)",
+    "course_descr":"As organizations increasingly rely on external vendors and service providers, managing third-party risks becomes paramount to ensure operational resilience, regulatory compliance, and strategic success. Challenges include:\n  \n  \nThe evolving nature of technology risks.\n  \nThe impact of geopolitical tensions.\n  \nThe lessons learned from disruptive events like pandemics.\n \n  \nBy offering a comprehensive curriculum covering everything from the basics of vendor management to advanced predictive TPRM models and emphasizing regulatory requirements specific to the financial services sector, the course equips professionals with the knowledge and tools needed to navigate the intricate web of third-party relationships. Students taking this course are prohibited from taking Supply Chain Risk Management for Non-Financials (ERMC PS5585) at any time. Contact your advisor for more information.\n  \nWeekly Class Meeting 110 min x 14 = 1,540 min; Case\/Project Team Work Feedback (Category E) 1 semester x 600 min = 600 min; Required Instructor Meetings (Category E) 45 min x 6 = 270 min; TOTAL = 2,410 min (for entire semester)",
     "instructor":"Rod Aday",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -80432,7 +80482,7 @@
   {
     "course_code":"ERMC PS5575",
     "course_title":"THIRD-PARTY RISK MANAGEMENT",
-    "course_descr":"As organizations increasingly rely on external vendors and service providers, managing third-party risks becomes paramount to ensure operational resilience, regulatory compliance, and strategic success. Challenges include:\nThe evolving nature of technology risks.\nThe impact of geopolitical tensions.\nThe lessons learned from disruptive events like pandemics.\nBy offering a comprehensive curriculum covering everything from the basics of vendor management to advanced predictive TPRM models and emphasizing regulatory requirements specific to the financial services sector, the course equips professionals with the knowledge and tools needed to navigate the intricate web of third-party relationships. Students taking this course are prohibited from taking Supply Chain Risk Management for Non-Financials (ERMC PS5585) at any time. Contact your advisor for more information.\nWeekly Class Meeting 110 min x 14 = 1,540 min; Case\/Project Team Work Feedback (Category E) 1 semester x 600 min = 600 min; Required Instructor Meetings (Category E) 45 min x 6 = 270 min; TOTAL = 2,410 min (for entire semester)",
+    "course_descr":"As organizations increasingly rely on external vendors and service providers, managing third-party risks becomes paramount to ensure operational resilience, regulatory compliance, and strategic success. Challenges include:\n  \n  \nThe evolving nature of technology risks.\n  \nThe impact of geopolitical tensions.\n  \nThe lessons learned from disruptive events like pandemics.\n \n  \nBy offering a comprehensive curriculum covering everything from the basics of vendor management to advanced predictive TPRM models and emphasizing regulatory requirements specific to the financial services sector, the course equips professionals with the knowledge and tools needed to navigate the intricate web of third-party relationships. Students taking this course are prohibited from taking Supply Chain Risk Management for Non-Financials (ERMC PS5585) at any time. Contact your advisor for more information.\n  \nWeekly Class Meeting 110 min x 14 = 1,540 min; Case\/Project Team Work Feedback (Category E) 1 semester x 600 min = 600 min; Required Instructor Meetings (Category E) 45 min x 6 = 270 min; TOTAL = 2,410 min (for entire semester)",
     "instructor":"Rimla Khawaja",
     "scheduled_time_start":"8:10pm",
     "scheduled_time_end":"10:00pm",
@@ -80461,7 +80511,7 @@
   {
     "course_code":"ERMC PS5585",
     "course_title":"SUPPLY CHAIN RISK MANAGEMENT FOR NON-FIN",
-    "course_descr":"The Pandemic made us all aware of the fragility of supply chains and how significant the consequences of failure of our supply chains can be. It is paramount to note that global and local economies can break down, and scarcity of essential resources can foment wars. Risk professionals must know what best practices bring security to supply chains and related companies, governments, and other institutions. Students taking this course are prohibited from taking Third-Party Risk Management (ERMC PS5575) at any time. Contact your advisor for more information.\nWeekly Class Meeting 110 min x 14 = 1,540 min; Case\/Project Team Work Feedback (Category E) 1 semester x 180 min = 180 min; Required Instructor Meetings (Category E) 50 min x 13 = 650 min; TOTAL = 2,370 min (for entire semester)",
+    "course_descr":"The Pandemic made us all aware of the fragility of supply chains and how significant the consequences of failure of our supply chains can be. It is paramount to note that global and local economies can break down, and scarcity of essential resources can foment wars. Risk professionals must know what best practices bring security to supply chains and related companies, governments, and other institutions. Students taking this course are prohibited from taking Third-Party Risk Management (ERMC PS5575) at any time. Contact your advisor for more information.\n  \nWeekly Class Meeting 110 min x 14 = 1,540 min; Case\/Project Team Work Feedback (Category E) 1 semester x 180 min = 180 min; Required Instructor Meetings (Category E) 50 min x 13 = 650 min; TOTAL = 2,370 min (for entire semester)",
     "instructor":"Dan Cahill",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -80490,7 +80540,7 @@
   {
     "course_code":"ERMC PS5585",
     "course_title":"SUPPLY CHAIN RISK MANAGEMENT FOR NON-FIN",
-    "course_descr":"The Pandemic made us all aware of the fragility of supply chains and how significant the consequences of failure of our supply chains can be. It is paramount to note that global and local economies can break down, and scarcity of essential resources can foment wars. Risk professionals must know what best practices bring security to supply chains and related companies, governments, and other institutions. Students taking this course are prohibited from taking Third-Party Risk Management (ERMC PS5575) at any time. Contact your advisor for more information.\nWeekly Class Meeting 110 min x 14 = 1,540 min; Case\/Project Team Work Feedback (Category E) 1 semester x 180 min = 180 min; Required Instructor Meetings (Category E) 50 min x 13 = 650 min; TOTAL = 2,370 min (for entire semester)",
+    "course_descr":"The Pandemic made us all aware of the fragility of supply chains and how significant the consequences of failure of our supply chains can be. It is paramount to note that global and local economies can break down, and scarcity of essential resources can foment wars. Risk professionals must know what best practices bring security to supply chains and related companies, governments, and other institutions. Students taking this course are prohibited from taking Third-Party Risk Management (ERMC PS5575) at any time. Contact your advisor for more information.\n  \nWeekly Class Meeting 110 min x 14 = 1,540 min; Case\/Project Team Work Feedback (Category E) 1 semester x 180 min = 180 min; Required Instructor Meetings (Category E) 50 min x 13 = 650 min; TOTAL = 2,370 min (for entire semester)",
     "instructor":"Bryce Wolf",
     "scheduled_time_start":"8:10pm",
     "scheduled_time_end":"10:00pm",
@@ -80519,7 +80569,7 @@
   {
     "course_code":"ERMC PS5595",
     "course_title":"FINANCIAL CRIMES COMPLIANCE",
-    "course_descr":"Financial Crimes Compliance examines how financial institutions identify, assess, and manage financial crime risk, a specialized, high-consequence area of enterprise risk. Topics include anti-money laundering and counter-terrorist financing (AML\/CTF), customer due diligence, suspicious activity reporting, and Bank Secrecy Act (BSA)\/AML auditing. Through regulatory guidance, case studies, and applied exercises, students examine how financial institutions design, implement, and evaluate effective AML compliance programs, including governance, risk assessment, internal controls, transaction monitoring, investigations, and remediation.\nThis course provides a practical, qualitative, and regulation-centered complement to quantitative financial-risk courses and supports career pathways in compliance, risk, audit, consulting, and regulatory supervision.\nWeekly Class Meeting 110 min x 14 = 1,540 min; Case\/Project Team Work Feedback (Category E) 1 semester x 900 min = 900 min; TOTAL = 2,440 min (for entire semester)",
+    "course_descr":"Financial Crimes Compliance examines how financial institutions identify, assess, and manage financial crime risk, a specialized, high-consequence area of enterprise risk. Topics include anti-money laundering and counter-terrorist financing (AML\/CTF), customer due diligence, suspicious activity reporting, and Bank Secrecy Act (BSA)\/AML auditing. Through regulatory guidance, case studies, and applied exercises, students examine how financial institutions design, implement, and evaluate effective AML compliance programs, including governance, risk assessment, internal controls, transaction monitoring, investigations, and remediation.\n  \nThis course provides a practical, qualitative, and regulation-centered complement to quantitative financial-risk courses and supports career pathways in compliance, risk, audit, consulting, and regulatory supervision.\n  \nWeekly Class Meeting 110 min x 14 = 1,540 min; Case\/Project Team Work Feedback (Category E) 1 semester x 900 min = 900 min; TOTAL = 2,440 min (for entire semester)",
     "instructor":"Naana Asare",
     "scheduled_time_start":"8:10pm",
     "scheduled_time_end":"10:00pm",
@@ -80546,7 +80596,7 @@
   {
     "course_code":"ERMC PS5900",
     "course_title":"ERM CAPSTONE",
-    "course_descr":"Teams will work through a case assignment, demonstrating mastery of key learnings gained throughout the program on an integrated basis. A simulated case study is used: this is a combination of publicly-available information of an actual company and simulated ERM program details, based on a blend of current ERM programs and practices in the marketplace. Each team will assess the case study and recommend enhancements.\nWeekly Class Meeting 110 min x 14 = 1,540 min; Case\/Project Team Work Feedback (Category E) 1 semester x 240 min = 240 min; Required Instructor Meetings (Category E) 40 min x 6 = 240 min; Additional Class Session Time (Category A) 1 semester x 340 min = 340 min; TOTAL = 2,360 min (for entire semester)",
+    "course_descr":"Teams will work through a case assignment, demonstrating mastery of key learnings gained throughout the program on an integrated basis. A simulated case study is used: this is a combination of publicly-available information of an actual company and simulated ERM program details, based on a blend of current ERM programs and practices in the marketplace. Each team will assess the case study and recommend enhancements.\n  \nWeekly Class Meeting 110 min x 14 = 1,540 min; Case\/Project Team Work Feedback (Category E) 1 semester x 240 min = 240 min; Required Instructor Meetings (Category E) 40 min x 6 = 240 min; Additional Class Session Time (Category A) 1 semester x 340 min = 340 min; TOTAL = 2,360 min (for entire semester)",
     "instructor":"Rich Lauria",
     "scheduled_time_start":"8:10pm",
     "scheduled_time_end":"10:00pm",
@@ -80573,7 +80623,7 @@
   {
     "course_code":"ERMC PS5900",
     "course_title":"ERM CAPSTONE",
-    "course_descr":"Teams will work through a case assignment, demonstrating mastery of key learnings gained throughout the program on an integrated basis. A simulated case study is used: this is a combination of publicly-available information of an actual company and simulated ERM program details, based on a blend of current ERM programs and practices in the marketplace. Each team will assess the case study and recommend enhancements.\nWeekly Class Meeting 110 min x 14 = 1,540 min; Case\/Project Team Work Feedback (Category E) 1 semester x 240 min = 240 min; Required Instructor Meetings (Category E) 40 min x 6 = 240 min; Additional Class Session Time (Category A) 1 semester x 340 min = 340 min; TOTAL = 2,360 min (for entire semester)",
+    "course_descr":"Teams will work through a case assignment, demonstrating mastery of key learnings gained throughout the program on an integrated basis. A simulated case study is used: this is a combination of publicly-available information of an actual company and simulated ERM program details, based on a blend of current ERM programs and practices in the marketplace. Each team will assess the case study and recommend enhancements.\n  \nWeekly Class Meeting 110 min x 14 = 1,540 min; Case\/Project Team Work Feedback (Category E) 1 semester x 240 min = 240 min; Required Instructor Meetings (Category E) 40 min x 6 = 240 min; Additional Class Session Time (Category A) 1 semester x 340 min = 340 min; TOTAL = 2,360 min (for entire semester)",
     "instructor":"David P McCarthy",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -94243,7 +94293,7 @@
   {
     "course_code":"HILI GR5123",
     "course_title":"HISTORY IN\/OF THE EARLY MODERN FRENCH AN",
-    "course_descr":null,
+    "course_descr":"What happens when the theater\u2014the art of the here and now\u2014aims to represent the historical past? A comparative investigation of the drama of England and France during its early modern heyday, this course takes up the theatrical representation of history from the late-sixteenth to late-seventeenth century. We will examine how English and French playwrights sought to enliven their own and each other\u2019s national pasts, both distant and recent. What claims does the visceral immediacy of theater make on history, its remembering and reimagining? To answer this question, we will read and discuss the plays of William Shakespeare, Christopher Marlowe, Ben Jonson, Robert Garnier, Jean Racine, Pierre Corneille, and Moli\u00e8re, among others.",
     "instructor":"Lauren E Robertson",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -94270,7 +94320,7 @@
   {
     "course_code":"HILI GR5124",
     "course_title":"US BLACK ARTISTS IN PARIS",
-    "course_descr":null,
+    "course_descr":"This seminar is an introduction to the profound engagement of African Americans\u2014primarily those from the U.S.--with the City of Light in the twentieth century. We will be especially attuned to ways Paris can be considered not just a city of refuge but also a culture capital of the African Diaspora. We will examine a variety of \u201cencounters on the Seine\u201d among Black intellectuals and artists from across the Diaspora. In this survey of cross-cultural conversation, we will read Black novels and essays; and we will consider Black visual art forms, including collage, film, and dance; we will consider some of the forms of Black music made in Paris. In fact, the emphasis in this class will be on jazz in Paris\u2014from its introduction here early in the 20th century until today. Along this way, it will be necessary to consider N\u00e9gritude as it developed among African and Caribbean intellectuals after World War Two, as well as the key periods of African American expatriation in Paris, especially in the 1920s and the 1950s. We will discuss the politics of Black Paris, both in terms of anti-colonialism and in terms of anti-racism in the United States, tracing the ways that the cultures of Black Paris have emerged in relation to broader discourses such as surrealism and existentialism. Readings will include works by Raymond Williams, Edward Said, Richard Wright, Langston Hughes, Claude McKay, James Baldwin, Rashida Braggs, and Brent Hayes Edwards.",
     "instructor":"Robert G O'Meally",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -94297,7 +94347,7 @@
   {
     "course_code":"HILI OC5400",
     "course_title":"RESEARCH SEMINAR IN HIST",
-    "course_descr":null,
+    "course_descr":"This seminar is a step-by-step introduction to scholarly research in the field of History and Literature. In the course of the seminar, students will carry out the initial research and draft the prospectus for their MA thesis.",
     "instructor":"Lauren E Robertson",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -105467,8 +105517,7 @@
     "location":"633 Seeley W. Mudd Building",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Engineering:Graduate",
-      "Engineering:Undergraduate"
+      "Engineering:Graduate"
     ],
     "points":"1.5",
     "prerequisites":[
@@ -138546,7 +138595,7 @@
   {
     "course_code":"NOPM K5197",
     "course_title":"Nonprofit Strategy and the Public Policy",
-    "course_descr":"This graduate seminar examines nonprofit organizations as policy actors, civic institutions, and agents of democratic change. It integrates classic and contemporary scholarship on civil society, the third sector, democratic participation, nonprofit-government relations, philanthropy, race, governance, and political power with applied study of advocacy, lobbying, and coalition-building.\nThe course is designed for a period of political polarization, democratic uncertainty, expansive executive action, changing legal doctrine, technological disruption, and unstable public and philanthropic funding. In that environment, nonprofit leaders must respond quickly without sacrificing legal compliance, public legitimacy, mission integrity, or accountability to affected communities. Students will assess when organizations should collaborate with public institutions, when they should act adversarially, and how they can exercise influence without becoming partisan instruments or substitutes for democratic government.\nWe do all of this using four connected arcs beginning with nonprofits as policy actors and the institutional sources of their influence. We then consider democratic crisis and policy volatility, including executive action and administrative change. The third arc examines power, race, philanthropy, legitimacy, and agenda-setting. The final arc asks how narrative, organizing, coalitions, technology, and civic participation can produce durable systems change. Policy domains include voting rights, poverty and the safety net, immigration, LGBTQ+ rights, education, health care, climate, labor, philanthropy, criminal justice, gun violence, housing, and artificial intelligence.\nWeekly Class Meeting 110 min x 14 = 1,540 min; Moderated Discussion Boards (Category C) 12 sessions x 37.5 min = 450 min; Professional Development Seminars  (Category B) 2 sessions x 60 min = 120 min; Monitored Virtual Legislative Session (Category B) 1 session x 140 min = 141 min; TOTAL = 2,250 min (for entire semester)",
+    "course_descr":"This graduate seminar examines nonprofit organizations as policy actors, civic institutions, and agents of democratic change. It integrates classic and contemporary scholarship on civil society, the third sector, democratic participation, nonprofit-government relations, philanthropy, race, governance, and political power with applied study of advocacy, lobbying, and coalition-building.\n  \nThe course is designed for a period of political polarization, democratic uncertainty, expansive executive action, changing legal doctrine, technological disruption, and unstable public and philanthropic funding. In that environment, nonprofit leaders must respond quickly without sacrificing legal compliance, public legitimacy, mission integrity, or accountability to affected communities. Students will assess when organizations should collaborate with public institutions, when they should act adversarially, and how they can exercise influence without becoming partisan instruments or substitutes for democratic government.\n  \nWe do all of this using four connected arcs beginning with nonprofits as policy actors and the institutional sources of their influence. We then consider democratic crisis and policy volatility, including executive action and administrative change. The third arc examines power, race, philanthropy, legitimacy, and agenda-setting. The final arc asks how narrative, organizing, coalitions, technology, and civic participation can produce durable systems change. Policy domains include voting rights, poverty and the safety net, immigration, LGBTQ+ rights, education, health care, climate, labor, philanthropy, criminal justice, gun violence, housing, and artificial intelligence.\n  \nWeekly Class Meeting 110 min x 14 = 1,540 min; Moderated Discussion Boards (Category C) 12 sessions x 37.5 min = 450 min; Professional Development Seminars (Category B) 2 sessions x 60 min = 120 min; Monitored Virtual Legislative Session (Category B) 1 session x 140 min = 141 min; TOTAL = 2,250 min (for entire semester)",
     "instructor":"Basil A Jr Smikle",
     "scheduled_time_start":"6:30pm",
     "scheduled_time_end":"8:00pm",
@@ -139928,7 +139977,7 @@
   {
     "course_code":"NURS N4961",
     "course_title":"Global Medical Spanish",
-    "course_descr":null,
+    "course_descr":"This course is designed for the nursing student\u00a0interested in\u00a0Spanish-language speaking communities\u00a0who has an\u00a0intermediate or advanced Spanish\u00a0language\u00a0proficiency\u00a0to\u00a0help improve\u00a0their\u00a0proficiency as an intercultural\u00a0speaker. In\u00a0addition to short lectures to facilitate grammar and usage patterns, class time will be used for intensive speaking practice to evaluate\u00a0health\u00a0challenges in Latinx- communities and Spanish-speaking countries.",
     "instructor":"Ana I Esteban Gonzalez",
     "scheduled_time_start":"5:00pm",
     "scheduled_time_end":"6:20pm",
@@ -139955,7 +140004,7 @@
   {
     "course_code":"NURS N5800",
     "course_title":"Topics in Nursing Practice",
-    "course_descr":null,
+    "course_descr":"This course is designed to introduce pre-licensure students to relevant and emergent topics which affect the practice of nursing in the national and international healthcare system. The focus will be on issues confronting professional nurses including global health, cultural awareness, gender identity, and evidence-based wellness. State mandated topics for licensure will be covered.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -139980,7 +140029,7 @@
   {
     "course_code":"NURS N5950",
     "course_title":"Nursing Leadership and Management",
-    "course_descr":null,
+    "course_descr":"This course prepares students to integrate leadership and management competencies into their professional nursing practice.\u00a0Through critical analysis of leadership theories and application of systems-thinking, students strengthen their ability to lead interprofessional teams, manage resources, and advocate for\u00a0optimal\u00a0patient and organizational outcomes in complex care environments.\u00a0The course emphasizes the development of professional identity, ethical leadership, communication, and collaboration across the care continuum.",
     "instructor":"Ana Kelly",
     "scheduled_time_start":"9:00am",
     "scheduled_time_end":"12:50pm",
@@ -140636,7 +140685,7 @@
   {
     "course_code":"NURS N7005",
     "course_title":"Health and Social Policy in the Context",
-    "course_descr":null,
+    "course_descr":"This core course examines contextual contributors to health status and the current social, legal, and political determinants of healthcare systems, emphasizing the U.S. system. Issues are explored to understand their impact on current and future delivery of health care, in particular on advanced practice nursing. The class focuses on how to bring the professional values of nursing to bear in policy debate and how nurses partner in the policy process to improve health outcomes of populations and quality of the healthcare delivery system.",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -140842,6 +140891,31 @@
     "scheduled_days":null,
     "section_key":"20271NURS7710N001",
     "type":"LABORATORY"
+  },
+  {
+    "course_code":"NURS N8012",
+    "course_title":"Leadership in Healthcare Systems",
+    "course_descr":null,
+    "instructor":"Anita Volpe",
+    "scheduled_time_start":"6:00pm",
+    "scheduled_time_end":"8:00pm",
+    "call_number":"17662",
+    "campus":null,
+    "class_id":"N8012-20271-D01",
+    "course_subtitle":"Leadership in Healthcare",
+    "department":"Nursing",
+    "department_code":"NURS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NURS\/N8012-20271-D01\/",
+    "location":"ONLINE ONLY",
+    "method_of_instruction":"On-Line Only",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20271NURS8012ND01",
+    "type":"LECTURE"
   },
   {
     "course_code":"NURS N8144",
@@ -141085,7 +141159,7 @@
   {
     "course_code":"NURS N8488",
     "course_title":"Primary Care in Midwifery: Diagnosis & M",
-    "course_descr":null,
+    "course_descr":"This diagnosis and management course will focus on each physiologic system and include unique characteristics relevant to midwifery care throughout the lifespan. Complex health concerns will be included in the context of consultation, collaborative management and\/or referral to specialists. The course will reinforce appropriate standards and scope of midwifery practice with a critical analysis of social and political influences on health care including the effects of racism and gender bias on a person\u2019s health.",
     "instructor":null,
     "scheduled_time_start":"9:00am",
     "scheduled_time_end":"11:50am",
@@ -141112,7 +141186,7 @@
   {
     "course_code":"NURS N8498",
     "course_title":"DNP Clinical Seminar in Midwifery II",
-    "course_descr":null,
+    "course_descr":"This course is a continuation of Seminar I. Using the DNP Competencies in Comprehensive Care as the framework, students will analyze clinical decision-making and utilization of evidence for best clinical practices in the inpatient setting. Clinical appraisal and critique of challenging cases from the practice environment will facilitate the students\u2019 application of the knowledge base and skills essential to the role of the nurse midwife.",
     "instructor":"Caroline S Handschuh",
     "scheduled_time_start":"1:30pm",
     "scheduled_time_end":"3:20pm",
@@ -141139,7 +141213,7 @@
   {
     "course_code":"NURS N8562",
     "course_title":"Clinical Practice and Supervision with F",
-    "course_descr":null,
+    "course_descr":"This clinical practice course is designed for students to develop clinical skills in family therapy based on Structural, Bowenian and Multicontextual Family Therapy models. It consists of clinical practice and supervision.",
     "instructor":"Latisha M Hanson",
     "scheduled_time_start":"10:00am",
     "scheduled_time_end":"11:50am",
@@ -141166,7 +141240,7 @@
   {
     "course_code":"NURS N8562",
     "course_title":"Clinical Practice and Supervision with F",
-    "course_descr":null,
+    "course_descr":"This clinical practice course is designed for students to develop clinical skills in family therapy based on Structural, Bowenian and Multicontextual Family Therapy models. It consists of clinical practice and supervision.",
     "instructor":"Fatima M Ramos",
     "scheduled_time_start":"10:00am",
     "scheduled_time_end":"11:50am",
@@ -141193,7 +141267,7 @@
   {
     "course_code":"NURS N8562",
     "course_title":"Clinical Practice and Supervision with F",
-    "course_descr":null,
+    "course_descr":"This clinical practice course is designed for students to develop clinical skills in family therapy based on Structural, Bowenian and Multicontextual Family Therapy models. It consists of clinical practice and supervision.",
     "instructor":"Julie Durand",
     "scheduled_time_start":"4:00pm",
     "scheduled_time_end":"5:50pm",
@@ -141220,7 +141294,7 @@
   {
     "course_code":"NURS N8562",
     "course_title":"Clinical Practice and Supervision with F",
-    "course_descr":null,
+    "course_descr":"This clinical practice course is designed for students to develop clinical skills in family therapy based on Structural, Bowenian and Multicontextual Family Therapy models. It consists of clinical practice and supervision.",
     "instructor":"Julie Durand",
     "scheduled_time_start":"7:00pm",
     "scheduled_time_end":"8:50pm",
@@ -142168,7 +142242,7 @@
   {
     "course_code":"NURS N8895",
     "course_title":"DNP Seminar in Nurse Anesthesia Practice",
-    "course_descr":null,
+    "course_descr":"The second in a series of three courses that provides critical analysis of selected topics in nurse anesthesiology practice. Lecture and discussion facilitate integration of didactic content with clinical experiences, as NARs learn to integrate DNP Competencies into clinical practice.",
     "instructor":null,
     "scheduled_time_start":"1:00pm",
     "scheduled_time_end":"3:50pm",
@@ -142303,7 +142377,7 @@
   {
     "course_code":"NURS N9502",
     "course_title":"Guided Study in Research",
-    "course_descr":null,
+    "course_descr":"Using the format of a research seminar highlighting research \u201cchallenges\u201d of the DNSc faculty , this course is designed to strengthen the student\u2019s ability to integrate and synthesize knowledge in statistics and nursing research methodologies, and to apply this integrated knowledge to common problems in study design and data analysis.",
     "instructor":"Gregory Alexander",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -142330,7 +142404,7 @@
   {
     "course_code":"NURS N9502",
     "course_title":"Guided Study in Research",
-    "course_descr":null,
+    "course_descr":"Using the format of a research seminar highlighting research \u201cchallenges\u201d of the DNSc faculty , this course is designed to strengthen the student\u2019s ability to integrate and synthesize knowledge in statistics and nursing research methodologies, and to apply this integrated knowledge to common problems in study design and data analysis.",
     "instructor":"Suzanne Bakken",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -142357,7 +142431,7 @@
   {
     "course_code":"NURS N9502",
     "course_title":"Guided Study in Research",
-    "course_descr":null,
+    "course_descr":"Using the format of a research seminar highlighting research \u201cchallenges\u201d of the DNSc faculty , this course is designed to strengthen the student\u2019s ability to integrate and synthesize knowledge in statistics and nursing research methodologies, and to apply this integrated knowledge to common problems in study design and data analysis.",
     "instructor":"Veronica Barcelona",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -142384,7 +142458,7 @@
   {
     "course_code":"NURS N9502",
     "course_title":"Guided Study in Research",
-    "course_descr":null,
+    "course_descr":"Using the format of a research seminar highlighting research \u201cchallenges\u201d of the DNSc faculty , this course is designed to strengthen the student\u2019s ability to integrate and synthesize knowledge in statistics and nursing research methodologies, and to apply this integrated knowledge to common problems in study design and data analysis.",
     "instructor":"Melissa P Beauchemin",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -142411,7 +142485,7 @@
   {
     "course_code":"NURS N9502",
     "course_title":"Guided Study in Research",
-    "course_descr":null,
+    "course_descr":"Using the format of a research seminar highlighting research \u201cchallenges\u201d of the DNSc faculty , this course is designed to strengthen the student\u2019s ability to integrate and synthesize knowledge in statistics and nursing research methodologies, and to apply this integrated knowledge to common problems in study design and data analysis.",
     "instructor":"Natalie Benda",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -142438,7 +142512,7 @@
   {
     "course_code":"NURS N9502",
     "course_title":"Guided Study in Research",
-    "course_descr":null,
+    "course_descr":"Using the format of a research seminar highlighting research \u201cchallenges\u201d of the DNSc faculty , this course is designed to strengthen the student\u2019s ability to integrate and synthesize knowledge in statistics and nursing research methodologies, and to apply this integrated knowledge to common problems in study design and data analysis.",
     "instructor":"Walter O Bockting",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -142465,7 +142539,7 @@
   {
     "course_code":"NURS N9502",
     "course_title":"Guided Study in Research",
-    "course_descr":null,
+    "course_descr":"Using the format of a research seminar highlighting research \u201cchallenges\u201d of the DNSc faculty , this course is designed to strengthen the student\u2019s ability to integrate and synthesize knowledge in statistics and nursing research methodologies, and to apply this integrated knowledge to common problems in study design and data analysis.",
     "instructor":"Jean-Marie Bruzzese",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -142492,7 +142566,7 @@
   {
     "course_code":"NURS N9502",
     "course_title":"Guided Study in Research",
-    "course_descr":null,
+    "course_descr":"Using the format of a research seminar highlighting research \u201cchallenges\u201d of the DNSc faculty , this course is designed to strengthen the student\u2019s ability to integrate and synthesize knowledge in statistics and nursing research methodologies, and to apply this integrated knowledge to common problems in study design and data analysis.",
     "instructor":"Billy A Caceres",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -142519,7 +142593,7 @@
   {
     "course_code":"NURS N9502",
     "course_title":"Guided Study in Research",
-    "course_descr":null,
+    "course_descr":"Using the format of a research seminar highlighting research \u201cchallenges\u201d of the DNSc faculty , this course is designed to strengthen the student\u2019s ability to integrate and synthesize knowledge in statistics and nursing research methodologies, and to apply this integrated knowledge to common problems in study design and data analysis.",
     "instructor":"Lorraine Frazier",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -142546,7 +142620,7 @@
   {
     "course_code":"NURS N9502",
     "course_title":"Guided Study in Research",
-    "course_descr":null,
+    "course_descr":"Using the format of a research seminar highlighting research \u201cchallenges\u201d of the DNSc faculty , this course is designed to strengthen the student\u2019s ability to integrate and synthesize knowledge in statistics and nursing research methodologies, and to apply this integrated knowledge to common problems in study design and data analysis.",
     "instructor":"Maureen George",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -142573,7 +142647,7 @@
   {
     "course_code":"NURS N9502",
     "course_title":"Guided Study in Research",
-    "course_descr":null,
+    "course_descr":"Using the format of a research seminar highlighting research \u201cchallenges\u201d of the DNSc faculty , this course is designed to strengthen the student\u2019s ability to integrate and synthesize knowledge in statistics and nursing research methodologies, and to apply this integrated knowledge to common problems in study design and data analysis.",
     "instructor":"Judy Honig",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -142600,7 +142674,7 @@
   {
     "course_code":"NURS N9502",
     "course_title":"Guided Study in Research",
-    "course_descr":null,
+    "course_descr":"Using the format of a research seminar highlighting research \u201cchallenges\u201d of the DNSc faculty , this course is designed to strengthen the student\u2019s ability to integrate and synthesize knowledge in statistics and nursing research methodologies, and to apply this integrated knowledge to common problems in study design and data analysis.",
     "instructor":"Tonda Hughes",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -142627,7 +142701,7 @@
   {
     "course_code":"NURS N9502",
     "course_title":"Guided Study in Research",
-    "course_descr":null,
+    "course_descr":"Using the format of a research seminar highlighting research \u201cchallenges\u201d of the DNSc faculty , this course is designed to strengthen the student\u2019s ability to integrate and synthesize knowledge in statistics and nursing research methodologies, and to apply this integrated knowledge to common problems in study design and data analysis.",
     "instructor":"Kasey B Jackman",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -142654,7 +142728,7 @@
   {
     "course_code":"NURS N9502",
     "course_title":"Guided Study in Research",
-    "course_descr":null,
+    "course_descr":"Using the format of a research seminar highlighting research \u201cchallenges\u201d of the DNSc faculty , this course is designed to strengthen the student\u2019s ability to integrate and synthesize knowledge in statistics and nursing research methodologies, and to apply this integrated knowledge to common problems in study design and data analysis.",
     "instructor":"Haomiao Jia",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -142681,7 +142755,7 @@
   {
     "course_code":"NURS N9502",
     "course_title":"Guided Study in Research",
-    "course_descr":null,
+    "course_descr":"Using the format of a research seminar highlighting research \u201cchallenges\u201d of the DNSc faculty , this course is designed to strengthen the student\u2019s ability to integrate and synthesize knowledge in statistics and nursing research methodologies, and to apply this integrated knowledge to common problems in study design and data analysis.",
     "instructor":"Tonda Hughes",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -142708,7 +142782,7 @@
   {
     "course_code":"NURS N9502",
     "course_title":"Guided Study in Research",
-    "course_descr":null,
+    "course_descr":"Using the format of a research seminar highlighting research \u201cchallenges\u201d of the DNSc faculty , this course is designed to strengthen the student\u2019s ability to integrate and synthesize knowledge in statistics and nursing research methodologies, and to apply this integrated knowledge to common problems in study design and data analysis.",
     "instructor":"Corina Lelutiu-Weinberger",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -142735,7 +142809,7 @@
   {
     "course_code":"NURS N9502",
     "course_title":"Guided Study in Research",
-    "course_descr":null,
+    "course_descr":"Using the format of a research seminar highlighting research \u201cchallenges\u201d of the DNSc faculty , this course is designed to strengthen the student\u2019s ability to integrate and synthesize knowledge in statistics and nursing research methodologies, and to apply this integrated knowledge to common problems in study design and data analysis.",
     "instructor":"Jianfang Liu",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -142762,7 +142836,7 @@
   {
     "course_code":"NURS N9502",
     "course_title":"Guided Study in Research",
-    "course_descr":null,
+    "course_descr":"Using the format of a research seminar highlighting research \u201cchallenges\u201d of the DNSc faculty , this course is designed to strengthen the student\u2019s ability to integrate and synthesize knowledge in statistics and nursing research methodologies, and to apply this integrated knowledge to common problems in study design and data analysis.",
     "instructor":"Ruth M Masterson",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -142789,7 +142863,7 @@
   {
     "course_code":"NURS N9502",
     "course_title":"Guided Study in Research",
-    "course_descr":null,
+    "course_descr":"Using the format of a research seminar highlighting research \u201cchallenges\u201d of the DNSc faculty , this course is designed to strengthen the student\u2019s ability to integrate and synthesize knowledge in statistics and nursing research methodologies, and to apply this integrated knowledge to common problems in study design and data analysis.",
     "instructor":"Mary Mundinger",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -142816,7 +142890,7 @@
   {
     "course_code":"NURS N9502",
     "course_title":"Guided Study in Research",
-    "course_descr":null,
+    "course_descr":"Using the format of a research seminar highlighting research \u201cchallenges\u201d of the DNSc faculty , this course is designed to strengthen the student\u2019s ability to integrate and synthesize knowledge in statistics and nursing research methodologies, and to apply this integrated knowledge to common problems in study design and data analysis.",
     "instructor":"Allison A Norful",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -142843,7 +142917,7 @@
   {
     "course_code":"NURS N9502",
     "course_title":"Guided Study in Research",
-    "course_descr":null,
+    "course_descr":"Using the format of a research seminar highlighting research \u201cchallenges\u201d of the DNSc faculty , this course is designed to strengthen the student\u2019s ability to integrate and synthesize knowledge in statistics and nursing research methodologies, and to apply this integrated knowledge to common problems in study design and data analysis.",
     "instructor":"Monica O'Reilly-Jacob",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -142870,7 +142944,7 @@
   {
     "course_code":"NURS N9502",
     "course_title":"Guided Study in Research",
-    "course_descr":null,
+    "course_descr":"Using the format of a research seminar highlighting research \u201cchallenges\u201d of the DNSc faculty , this course is designed to strengthen the student\u2019s ability to integrate and synthesize knowledge in statistics and nursing research methodologies, and to apply this integrated knowledge to common problems in study design and data analysis.",
     "instructor":"Lusine Poghosyan",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -142897,7 +142971,7 @@
   {
     "course_code":"NURS N9502",
     "course_title":"Guided Study in Research",
-    "course_descr":null,
+    "course_descr":"Using the format of a research seminar highlighting research \u201cchallenges\u201d of the DNSc faculty , this course is designed to strengthen the student\u2019s ability to integrate and synthesize knowledge in statistics and nursing research methodologies, and to apply this integrated knowledge to common problems in study design and data analysis.",
     "instructor":"Meghan Reading",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -142924,7 +142998,7 @@
   {
     "course_code":"NURS N9502",
     "course_title":"Guided Study in Research",
-    "course_descr":null,
+    "course_descr":"Using the format of a research seminar highlighting research \u201cchallenges\u201d of the DNSc faculty , this course is designed to strengthen the student\u2019s ability to integrate and synthesize knowledge in statistics and nursing research methodologies, and to apply this integrated knowledge to common problems in study design and data analysis.",
     "instructor":"Rebecca B Schnall",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -142951,7 +143025,7 @@
   {
     "course_code":"NURS N9502",
     "course_title":"Guided Study in Research",
-    "course_descr":null,
+    "course_descr":"Using the format of a research seminar highlighting research \u201cchallenges\u201d of the DNSc faculty , this course is designed to strengthen the student\u2019s ability to integrate and synthesize knowledge in statistics and nursing research methodologies, and to apply this integrated knowledge to common problems in study design and data analysis.",
     "instructor":"Jingjing Shang",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -142978,7 +143052,7 @@
   {
     "course_code":"NURS N9502",
     "course_title":"Guided Study in Research",
-    "course_descr":null,
+    "course_descr":"Using the format of a research seminar highlighting research \u201cchallenges\u201d of the DNSc faculty , this course is designed to strengthen the student\u2019s ability to integrate and synthesize knowledge in statistics and nursing research methodologies, and to apply this integrated knowledge to common problems in study design and data analysis.",
     "instructor":"Arlene M Smaldone",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -143005,7 +143079,7 @@
   {
     "course_code":"NURS N9502",
     "course_title":"Guided Study in Research",
-    "course_descr":null,
+    "course_descr":"Using the format of a research seminar highlighting research \u201cchallenges\u201d of the DNSc faculty , this course is designed to strengthen the student\u2019s ability to integrate and synthesize knowledge in statistics and nursing research methodologies, and to apply this integrated knowledge to common problems in study design and data analysis.",
     "instructor":"Jacquelyn Taylor",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -143032,7 +143106,7 @@
   {
     "course_code":"NURS N9502",
     "course_title":"Guided Study in Research",
-    "course_descr":null,
+    "course_descr":"Using the format of a research seminar highlighting research \u201cchallenges\u201d of the DNSc faculty , this course is designed to strengthen the student\u2019s ability to integrate and synthesize knowledge in statistics and nursing research methodologies, and to apply this integrated knowledge to common problems in study design and data analysis.",
     "instructor":"Maxim Topaz",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -143059,7 +143133,7 @@
   {
     "course_code":"NURS N9502",
     "course_title":"Guided Study in Research",
-    "course_descr":null,
+    "course_descr":"Using the format of a research seminar highlighting research \u201cchallenges\u201d of the DNSc faculty , this course is designed to strengthen the student\u2019s ability to integrate and synthesize knowledge in statistics and nursing research methodologies, and to apply this integrated knowledge to common problems in study design and data analysis.",
     "instructor":"Yihong Zhao",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -143086,7 +143160,7 @@
   {
     "course_code":"NURS N9742",
     "course_title":"Acute Care Portfolio Advisement I",
-    "course_descr":null,
+    "course_descr":"The DNP portfolio is designed to assist students in meeting CUSON DNP competencies as demonstrated in written case narrative and competency based clinical encounters. Students will be assigned a faculty member who will provide guidance in identifying appropriate patient encounters, reviewing and editing all written work associated with demonstrating competency-based learning. This course repeats sequentially for 3 semesters.",
     "instructor":"Danielle K Zuma",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -143113,7 +143187,7 @@
   {
     "course_code":"NURS N9840",
     "course_title":"Dissertation Research",
-    "course_descr":null,
+    "course_descr":"This course is intended for PhD students who are engaged in relevant scholarly activities that are associated with dissertation research.",
     "instructor":"Gregory Alexander",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -143140,7 +143214,7 @@
   {
     "course_code":"NURS N9840",
     "course_title":"Dissertation Research",
-    "course_descr":null,
+    "course_descr":"This course is intended for PhD students who are engaged in relevant scholarly activities that are associated with dissertation research.",
     "instructor":"Suzanne Bakken",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -143167,7 +143241,7 @@
   {
     "course_code":"NURS N9840",
     "course_title":"Dissertation Research",
-    "course_descr":null,
+    "course_descr":"This course is intended for PhD students who are engaged in relevant scholarly activities that are associated with dissertation research.",
     "instructor":"Veronica Barcelona",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -143194,7 +143268,7 @@
   {
     "course_code":"NURS N9840",
     "course_title":"Dissertation Research",
-    "course_descr":null,
+    "course_descr":"This course is intended for PhD students who are engaged in relevant scholarly activities that are associated with dissertation research.",
     "instructor":"Melissa P Beauchemin",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -143221,7 +143295,7 @@
   {
     "course_code":"NURS N9840",
     "course_title":"Dissertation Research",
-    "course_descr":null,
+    "course_descr":"This course is intended for PhD students who are engaged in relevant scholarly activities that are associated with dissertation research.",
     "instructor":"Natalie Benda",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -143248,7 +143322,7 @@
   {
     "course_code":"NURS N9840",
     "course_title":"Dissertation Research",
-    "course_descr":null,
+    "course_descr":"This course is intended for PhD students who are engaged in relevant scholarly activities that are associated with dissertation research.",
     "instructor":"Walter O Bockting",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -143275,7 +143349,7 @@
   {
     "course_code":"NURS N9840",
     "course_title":"Dissertation Research",
-    "course_descr":null,
+    "course_descr":"This course is intended for PhD students who are engaged in relevant scholarly activities that are associated with dissertation research.",
     "instructor":"Jean-Marie Bruzzese",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -143300,7 +143374,7 @@
   {
     "course_code":"NURS N9840",
     "course_title":"Dissertation Research",
-    "course_descr":null,
+    "course_descr":"This course is intended for PhD students who are engaged in relevant scholarly activities that are associated with dissertation research.",
     "instructor":"Billy A Caceres",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -143327,7 +143401,7 @@
   {
     "course_code":"NURS N9840",
     "course_title":"Dissertation Research",
-    "course_descr":null,
+    "course_descr":"This course is intended for PhD students who are engaged in relevant scholarly activities that are associated with dissertation research.",
     "instructor":"Lorraine Frazier",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -143354,7 +143428,7 @@
   {
     "course_code":"NURS N9840",
     "course_title":"Dissertation Research",
-    "course_descr":null,
+    "course_descr":"This course is intended for PhD students who are engaged in relevant scholarly activities that are associated with dissertation research.",
     "instructor":"Maureen George",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -143381,7 +143455,7 @@
   {
     "course_code":"NURS N9840",
     "course_title":"Dissertation Research",
-    "course_descr":null,
+    "course_descr":"This course is intended for PhD students who are engaged in relevant scholarly activities that are associated with dissertation research.",
     "instructor":"Judy Honig",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -143408,7 +143482,7 @@
   {
     "course_code":"NURS N9840",
     "course_title":"Dissertation Research",
-    "course_descr":null,
+    "course_descr":"This course is intended for PhD students who are engaged in relevant scholarly activities that are associated with dissertation research.",
     "instructor":"Tonda Hughes",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -143435,7 +143509,7 @@
   {
     "course_code":"NURS N9840",
     "course_title":"Dissertation Research",
-    "course_descr":null,
+    "course_descr":"This course is intended for PhD students who are engaged in relevant scholarly activities that are associated with dissertation research.",
     "instructor":"Kasey B Jackman",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -143462,7 +143536,7 @@
   {
     "course_code":"NURS N9840",
     "course_title":"Dissertation Research",
-    "course_descr":null,
+    "course_descr":"This course is intended for PhD students who are engaged in relevant scholarly activities that are associated with dissertation research.",
     "instructor":"Haomiao Jia",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -143489,7 +143563,7 @@
   {
     "course_code":"NURS N9840",
     "course_title":"Dissertation Research",
-    "course_descr":null,
+    "course_descr":"This course is intended for PhD students who are engaged in relevant scholarly activities that are associated with dissertation research.",
     "instructor":"Corina Lelutiu-Weinberger",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -143516,7 +143590,7 @@
   {
     "course_code":"NURS N9840",
     "course_title":"Dissertation Research",
-    "course_descr":null,
+    "course_descr":"This course is intended for PhD students who are engaged in relevant scholarly activities that are associated with dissertation research.",
     "instructor":"Jianfang Liu",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -143543,7 +143617,7 @@
   {
     "course_code":"NURS N9840",
     "course_title":"Dissertation Research",
-    "course_descr":null,
+    "course_descr":"This course is intended for PhD students who are engaged in relevant scholarly activities that are associated with dissertation research.",
     "instructor":"Ruth M Masterson",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -143570,7 +143644,7 @@
   {
     "course_code":"NURS N9840",
     "course_title":"Dissertation Research",
-    "course_descr":null,
+    "course_descr":"This course is intended for PhD students who are engaged in relevant scholarly activities that are associated with dissertation research.",
     "instructor":"Mary Mundinger",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -143597,7 +143671,7 @@
   {
     "course_code":"NURS N9840",
     "course_title":"Dissertation Research",
-    "course_descr":null,
+    "course_descr":"This course is intended for PhD students who are engaged in relevant scholarly activities that are associated with dissertation research.",
     "instructor":"Allison A Norful",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -143624,7 +143698,7 @@
   {
     "course_code":"NURS N9840",
     "course_title":"Dissertation Research",
-    "course_descr":null,
+    "course_descr":"This course is intended for PhD students who are engaged in relevant scholarly activities that are associated with dissertation research.",
     "instructor":"Monica O'Reilly-Jacob",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -143651,7 +143725,7 @@
   {
     "course_code":"NURS N9840",
     "course_title":"Dissertation Research",
-    "course_descr":null,
+    "course_descr":"This course is intended for PhD students who are engaged in relevant scholarly activities that are associated with dissertation research.",
     "instructor":"Lusine Poghosyan",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -143678,7 +143752,7 @@
   {
     "course_code":"NURS N9840",
     "course_title":"Dissertation Research",
-    "course_descr":null,
+    "course_descr":"This course is intended for PhD students who are engaged in relevant scholarly activities that are associated with dissertation research.",
     "instructor":"Meghan Reading",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -143705,7 +143779,7 @@
   {
     "course_code":"NURS N9840",
     "course_title":"Dissertation Research",
-    "course_descr":null,
+    "course_descr":"This course is intended for PhD students who are engaged in relevant scholarly activities that are associated with dissertation research.",
     "instructor":"Rebecca B Schnall",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -143732,7 +143806,7 @@
   {
     "course_code":"NURS N9840",
     "course_title":"Dissertation Research",
-    "course_descr":null,
+    "course_descr":"This course is intended for PhD students who are engaged in relevant scholarly activities that are associated with dissertation research.",
     "instructor":"Jingjing Shang",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -143759,7 +143833,7 @@
   {
     "course_code":"NURS N9840",
     "course_title":"Dissertation Research",
-    "course_descr":null,
+    "course_descr":"This course is intended for PhD students who are engaged in relevant scholarly activities that are associated with dissertation research.",
     "instructor":"Arlene M Smaldone",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -143786,7 +143860,7 @@
   {
     "course_code":"NURS N9840",
     "course_title":"Dissertation Research",
-    "course_descr":null,
+    "course_descr":"This course is intended for PhD students who are engaged in relevant scholarly activities that are associated with dissertation research.",
     "instructor":"Jacquelyn Taylor",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -143813,7 +143887,7 @@
   {
     "course_code":"NURS N9840",
     "course_title":"Dissertation Research",
-    "course_descr":null,
+    "course_descr":"This course is intended for PhD students who are engaged in relevant scholarly activities that are associated with dissertation research.",
     "instructor":"Maxim Topaz",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -143840,7 +143914,7 @@
   {
     "course_code":"NURS N9840",
     "course_title":"Dissertation Research",
-    "course_descr":null,
+    "course_descr":"This course is intended for PhD students who are engaged in relevant scholarly activities that are associated with dissertation research.",
     "instructor":"Yihong Zhao",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -172549,7 +172623,7 @@
   {
     "course_code":"RUSS GR8039",
     "course_title":"DIR RSCH 19TH-C RUSSIAN LIT II",
-    "course_descr":null,
+    "course_descr":"Directed Research Course.",
     "instructor":"Chloe Kitzinger",
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -191737,7 +191811,7 @@
   {
     "course_code":"SPMG PS5001",
     "course_title":"INTRODUCTION TO FINANCE",
-    "course_descr":"Students will be introduced to the fundamental financial issues of the modern corporation. By the end of this course, students will understand the basic concepts of financial planning, managing growth; debt and equity sources of financing and valuation; capital budgeting methods; and risk analysis, cost of capital, and the process of securities issuance.\nWeekly Class Meeting 110 min x 14 = 1,540 min; Case\/Project Team Work Feedback (Category E) 1 semester x 840 min = 840 min; TOTAL = 2,380 min (for entire semester)",
+    "course_descr":"Students will be introduced to the fundamental financial issues of the modern corporation. By the end of this course, students will understand the basic concepts of financial planning, managing growth; debt and equity sources of financing and valuation; capital budgeting methods; and risk analysis, cost of capital, and the process of securities issuance.\n  \nWeekly Class Meeting 110 min x 14 = 1,540 min; Case\/Project Team Work Feedback (Category E) 1 semester x 840 min = 840 min; TOTAL = 2,380 min (for entire semester)",
     "instructor":"Eleni Vrana",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -191764,7 +191838,7 @@
   {
     "course_code":"SPMG PS5001",
     "course_title":"INTRODUCTION TO FINANCE",
-    "course_descr":"Students will be introduced to the fundamental financial issues of the modern corporation. By the end of this course, students will understand the basic concepts of financial planning, managing growth; debt and equity sources of financing and valuation; capital budgeting methods; and risk analysis, cost of capital, and the process of securities issuance.\nWeekly Class Meeting 110 min x 14 = 1,540 min; Case\/Project Team Work Feedback (Category E) 1 semester x 840 min = 840 min; TOTAL = 2,380 min (for entire semester)",
+    "course_descr":"Students will be introduced to the fundamental financial issues of the modern corporation. By the end of this course, students will understand the basic concepts of financial planning, managing growth; debt and equity sources of financing and valuation; capital budgeting methods; and risk analysis, cost of capital, and the process of securities issuance.\n  \nWeekly Class Meeting 110 min x 14 = 1,540 min; Case\/Project Team Work Feedback (Category E) 1 semester x 840 min = 840 min; TOTAL = 2,380 min (for entire semester)",
     "instructor":"Stephen Hurley",
     "scheduled_time_start":"8:10pm",
     "scheduled_time_end":"10:00pm",
@@ -191791,7 +191865,7 @@
   {
     "course_code":"SPMG PS5003",
     "course_title":"CORPORATE FINANCE",
-    "course_descr":"Students will learn the critical corporate finance concepts including financial statement analysis; performance metrics; valuation of stocks and bonds; project and firm valuation; cost of capital; capital investment strategies and sources of capital, and firm growth strategies. At the end of this course students will understand how to apply these concepts to current business problems.\nPrerequisites: BUSI PS5001 Introduction to Finance\/or Professor Approval is required\nWeekly Class Meeting 110 min x 14 = 1,540 min; Case\/Project Team Work Feedback (Category E) 1 semester x 240 min = 240 min; Required Instructor Meetings (Category E) 45 min x 13 = 585 min; TOTAL = 2,365 min (for entire semester)",
+    "course_descr":"Students will learn the critical corporate finance concepts including financial statement analysis; performance metrics; valuation of stocks and bonds; project and firm valuation; cost of capital; capital investment strategies and sources of capital, and firm growth strategies. At the end of this course students will understand how to apply these concepts to current business problems.\n  \nPrerequisites: BUSI PS5001 Introduction to Finance\/or Professor Approval is required\n  \nWeekly Class Meeting 110 min x 14 = 1,540 min; Case\/Project Team Work Feedback (Category E) 1 semester x 240 min = 240 min; Required Instructor Meetings (Category E) 45 min x 13 = 585 min; TOTAL = 2,365 min (for entire semester)",
     "instructor":"John D Van Ness",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -192038,7 +192112,7 @@
   {
     "course_code":"SPMG PS5040",
     "course_title":"SECURITY ANALYSIS",
-    "course_descr":"Students will learn about the valuation of publicly traded equity securities. By the end of the semester students will be able to perform fundamental analysis (bottoms-up, firm-level, business and financial analysis), prepare pro forma financial statements, estimate free cash flows and apply valuation models.\nPrerequisites: BUSI PS5001 Intro to Finance and BUSI PS5003 Corporate Finance or Professor Approval required. If you have not taken PS5001 or PS5003 at Columbia University, please contact the course instructor for approval.\nWeekly Class Meeting 110 min x 14 = 1,540 min; Case\/Project Team Work Feedback (Category E) 1 semester x 510 min = 510 min; Required Instructor Meetings (Category E) 55 min x 6 = 330 min; TOTAL = 2,380 min (for entire semester)",
+    "course_descr":"Students will learn about the valuation of publicly traded equity securities. By the end of the semester students will be able to perform fundamental analysis (bottoms-up, firm-level, business and financial analysis), prepare pro forma financial statements, estimate free cash flows and apply valuation models.\n  \nPrerequisites: BUSI PS5001 Intro to Finance and BUSI PS5003 Corporate Finance or Professor Approval required. If you have not taken PS5001 or PS5003 at Columbia University, please contact the course instructor for approval.\n  \nWeekly Class Meeting 110 min x 14 = 1,540 min; Case\/Project Team Work Feedback (Category E) 1 semester x 510 min = 510 min; Required Instructor Meetings (Category E) 55 min x 6 = 330 min; TOTAL = 2,380 min (for entire semester)",
     "instructor":"Hany S Guirguis",
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -194108,7 +194182,7 @@
   {
     "course_code":"STAT GR8101",
     "course_title":"TOPICS IN APPLIED STATISTICS",
-    "course_descr":null,
+    "course_descr":".This seminar explores the principle of invariance and its role in causal reasoning. We will study algorithms that connect invariance to causality, how these ideas extend to representation learning, and examine applications across the sciences and social sciences. Some subjects will include invariant causal prediction, causal representation learning, robust learning from multiple environments, and empirical Bayes.",
     "instructor":"David Blei",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"2:25pm",
@@ -197191,7 +197265,7 @@
   {
     "course_code":"SUMA PS5200",
     "course_title":"INTEGRATIVE CAPSTONE WORKSHOP",
-    "course_descr":null,
+    "course_descr":"The Capstone workshop experience provides practical training by working on real problems where your work has the potential to influence the operations of an organization in the public or nonprofit sectors. The objective of the course is to apply and integrate each element of the curriculum to a project, giving students hands-on sustainability management experience. Students will learn how to manage programs and conduct analysis; they will apply what they have learned in the introductory course and other curricular areas to projects with real-world clients. Students will serve on teams that undertake a special analytic project and serve as consultants for their client organizations, and, therefore, increase their understanding of the constraints under which sustainability managers operate. The\nworkshop also serves the purpose of sharpening the students\u2019 analytical and communication skills by allowing them to apply their previous experience and knowledge gained from the program to an actual problem.\nWeekly Class Meeting 110 min x 14 = 1,540 min; Midterm and Final Public Briefing Sessions (Category B) 2 sessions x 60 min = 120 min; Client Briefing Presentation (Category B) 1 session x 90 min = 90 min; Required Faculty Advisor Project Team Meetings (Category E) 10 sessions x 50 min = 500 min; TOTAL = 2,250 min (for entire semester)",
     "instructor":null,
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -197218,7 +197292,7 @@
   {
     "course_code":"SUMA PS5200",
     "course_title":"INTEGRATIVE CAPSTONE WORKSHOP",
-    "course_descr":null,
+    "course_descr":"The Capstone workshop experience provides practical training by working on real problems where your work has the potential to influence the operations of an organization in the public or nonprofit sectors. The objective of the course is to apply and integrate each element of the curriculum to a project, giving students hands-on sustainability management experience. Students will learn how to manage programs and conduct analysis; they will apply what they have learned in the introductory course and other curricular areas to projects with real-world clients. Students will serve on teams that undertake a special analytic project and serve as consultants for their client organizations, and, therefore, increase their understanding of the constraints under which sustainability managers operate. The\nworkshop also serves the purpose of sharpening the students\u2019 analytical and communication skills by allowing them to apply their previous experience and knowledge gained from the program to an actual problem.\nWeekly Class Meeting 110 min x 14 = 1,540 min; Midterm and Final Public Briefing Sessions (Category B) 2 sessions x 60 min = 120 min; Client Briefing Presentation (Category B) 1 session x 90 min = 90 min; Required Faculty Advisor Project Team Meetings (Category E) 10 sessions x 50 min = 500 min; TOTAL = 2,250 min (for entire semester)",
     "instructor":null,
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -197245,7 +197319,7 @@
   {
     "course_code":"SUMA PS5200",
     "course_title":"INTEGRATIVE CAPSTONE WORKSHOP",
-    "course_descr":null,
+    "course_descr":"The Capstone workshop experience provides practical training by working on real problems where your work has the potential to influence the operations of an organization in the public or nonprofit sectors. The objective of the course is to apply and integrate each element of the curriculum to a project, giving students hands-on sustainability management experience. Students will learn how to manage programs and conduct analysis; they will apply what they have learned in the introductory course and other curricular areas to projects with real-world clients. Students will serve on teams that undertake a special analytic project and serve as consultants for their client organizations, and, therefore, increase their understanding of the constraints under which sustainability managers operate. The\nworkshop also serves the purpose of sharpening the students\u2019 analytical and communication skills by allowing them to apply their previous experience and knowledge gained from the program to an actual problem.\nWeekly Class Meeting 110 min x 14 = 1,540 min; Midterm and Final Public Briefing Sessions (Category B) 2 sessions x 60 min = 120 min; Client Briefing Presentation (Category B) 1 session x 90 min = 90 min; Required Faculty Advisor Project Team Meetings (Category E) 10 sessions x 50 min = 500 min; TOTAL = 2,250 min (for entire semester)",
     "instructor":null,
     "scheduled_time_start":null,
     "scheduled_time_end":null,
@@ -197272,7 +197346,7 @@
   {
     "course_code":"SUMA PS5200",
     "course_title":"INTEGRATIVE CAPSTONE WORKSHOP",
-    "course_descr":null,
+    "course_descr":"The Capstone workshop experience provides practical training by working on real problems where your work has the potential to influence the operations of an organization in the public or nonprofit sectors. The objective of the course is to apply and integrate each element of the curriculum to a project, giving students hands-on sustainability management experience. Students will learn how to manage programs and conduct analysis; they will apply what they have learned in the introductory course and other curricular areas to projects with real-world clients. Students will serve on teams that undertake a special analytic project and serve as consultants for their client organizations, and, therefore, increase their understanding of the constraints under which sustainability managers operate. The\nworkshop also serves the purpose of sharpening the students\u2019 analytical and communication skills by allowing them to apply their previous experience and knowledge gained from the program to an actual problem.\nWeekly Class Meeting 110 min x 14 = 1,540 min; Midterm and Final Public Briefing Sessions (Category B) 2 sessions x 60 min = 120 min; Client Briefing Presentation (Category B) 1 session x 90 min = 90 min; Required Faculty Advisor Project Team Meetings (Category E) 10 sessions x 50 min = 500 min; TOTAL = 2,250 min (for entire semester)",
     "instructor":null,
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -197299,7 +197373,7 @@
   {
     "course_code":"SUMA PS5200",
     "course_title":"INTEGRATIVE CAPSTONE WORKSHOP",
-    "course_descr":null,
+    "course_descr":"The Capstone workshop experience provides practical training by working on real problems where your work has the potential to influence the operations of an organization in the public or nonprofit sectors. The objective of the course is to apply and integrate each element of the curriculum to a project, giving students hands-on sustainability management experience. Students will learn how to manage programs and conduct analysis; they will apply what they have learned in the introductory course and other curricular areas to projects with real-world clients. Students will serve on teams that undertake a special analytic project and serve as consultants for their client organizations, and, therefore, increase their understanding of the constraints under which sustainability managers operate. The\nworkshop also serves the purpose of sharpening the students\u2019 analytical and communication skills by allowing them to apply their previous experience and knowledge gained from the program to an actual problem.\nWeekly Class Meeting 110 min x 14 = 1,540 min; Midterm and Final Public Briefing Sessions (Category B) 2 sessions x 60 min = 120 min; Client Briefing Presentation (Category B) 1 session x 90 min = 90 min; Required Faculty Advisor Project Team Meetings (Category E) 10 sessions x 50 min = 500 min; TOTAL = 2,250 min (for entire semester)",
     "instructor":null,
     "scheduled_time_start":"6:10pm",
     "scheduled_time_end":"8:00pm",
@@ -199363,9 +199437,7 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/THEA\/R6517-20271-001\/",
     "location":"6 NASH BUILDIN",
     "method_of_instruction":"In-Person",
-    "open_to":[
-      "Schools of the Arts"
-    ],
+    "open_to":null,
     "points":"2",
     "prerequisites":[
 
@@ -208053,7 +208125,7 @@
   {
     "course_code":"WRIT AW6010",
     "course_title":"CROSS-GENRE SEMINAR",
-    "course_descr":null,
+    "course_descr":"CROSS-GENRE SEMINAR",
     "instructor":"Keri E Bertino",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"4:10pm",
@@ -208080,7 +208152,7 @@
   {
     "course_code":"WRIT AW6010",
     "course_title":"CROSS-GENRE SEMINAR",
-    "course_descr":null,
+    "course_descr":"CROSS-GENRE SEMINAR",
     "instructor":"Nicholas Christopher",
     "scheduled_time_start":"2:00pm",
     "scheduled_time_end":"4:00pm",
@@ -208107,7 +208179,7 @@
   {
     "course_code":"WRIT AW6010",
     "course_title":"CROSS-GENRE SEMINAR",
-    "course_descr":null,
+    "course_descr":"CROSS-GENRE SEMINAR",
     "instructor":"Monica Ferrell",
     "scheduled_time_start":"10:00am",
     "scheduled_time_end":"12:00pm",
@@ -208134,7 +208206,7 @@
   {
     "course_code":"WRIT AW6010",
     "course_title":"CROSS-GENRE SEMINAR",
-    "course_descr":null,
+    "course_descr":"CROSS-GENRE SEMINAR",
     "instructor":"Barbara K Fischer",
     "scheduled_time_start":"4:15pm",
     "scheduled_time_end":"6:15pm",
@@ -208161,7 +208233,7 @@
   {
     "course_code":"WRIT AW6110",
     "course_title":"FICTION SEMINAR",
-    "course_descr":null,
+    "course_descr":".",
     "instructor":"Paul Beatty",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"3:10pm",
@@ -208188,7 +208260,7 @@
   {
     "course_code":"WRIT AW6110",
     "course_title":"FICTION SEMINAR",
-    "course_descr":null,
+    "course_descr":".",
     "instructor":"Angie Cruz",
     "scheduled_time_start":"4:15pm",
     "scheduled_time_end":"6:15pm",
@@ -208215,7 +208287,7 @@
   {
     "course_code":"WRIT AW6110",
     "course_title":"FICTION SEMINAR",
-    "course_descr":null,
+    "course_descr":".",
     "instructor":"Sophie M Dess",
     "scheduled_time_start":"5:15pm",
     "scheduled_time_end":"7:15pm",
@@ -208242,7 +208314,7 @@
   {
     "course_code":"WRIT AW6110",
     "course_title":"FICTION SEMINAR",
-    "course_descr":null,
+    "course_descr":".",
     "instructor":"Omer M Friedlander",
     "scheduled_time_start":"10:00am",
     "scheduled_time_end":"12:00pm",
@@ -208269,7 +208341,7 @@
   {
     "course_code":"WRIT AW6110",
     "course_title":"FICTION SEMINAR",
-    "course_descr":null,
+    "course_descr":".",
     "instructor":"Rivka R Galchen",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"3:10pm",
@@ -208296,7 +208368,7 @@
   {
     "course_code":"WRIT AW6110",
     "course_title":"FICTION SEMINAR",
-    "course_descr":null,
+    "course_descr":".",
     "instructor":"Benjamin Hale",
     "scheduled_time_start":"4:15pm",
     "scheduled_time_end":"6:15pm",
@@ -208323,7 +208395,7 @@
   {
     "course_code":"WRIT AW6110",
     "course_title":"FICTION SEMINAR",
-    "course_descr":null,
+    "course_descr":".",
     "instructor":"Joss Lake",
     "scheduled_time_start":"4:15pm",
     "scheduled_time_end":"6:15pm",
@@ -208350,7 +208422,7 @@
   {
     "course_code":"WRIT AW6110",
     "course_title":"FICTION SEMINAR",
-    "course_descr":null,
+    "course_descr":".",
     "instructor":"Susie Luo",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"3:10pm",
@@ -208377,7 +208449,7 @@
   {
     "course_code":"WRIT AW6110",
     "course_title":"FICTION SEMINAR",
-    "course_descr":null,
+    "course_descr":".",
     "instructor":"Gary Shteyngart",
     "scheduled_time_start":"4:15pm",
     "scheduled_time_end":"6:15pm",
@@ -208404,7 +208476,7 @@
   {
     "course_code":"WRIT AW6110",
     "course_title":"FICTION SEMINAR",
-    "course_descr":null,
+    "course_descr":".",
     "instructor":"Lara Vapnyar",
     "scheduled_time_start":"10:00am",
     "scheduled_time_end":"12:00pm",
@@ -208431,7 +208503,7 @@
   {
     "course_code":"WRIT AW6110",
     "course_title":"FICTION SEMINAR",
-    "course_descr":null,
+    "course_descr":".",
     "instructor":"Franklin Winslow",
     "scheduled_time_start":"5:15pm",
     "scheduled_time_end":"7:15pm",
@@ -208458,7 +208530,7 @@
   {
     "course_code":"WRIT AW6210",
     "course_title":"NONFICTION SEMINAR",
-    "course_descr":null,
+    "course_descr":".",
     "instructor":"Emmeline L Clein",
     "scheduled_time_start":"10:00am",
     "scheduled_time_end":"12:00pm",
@@ -208485,7 +208557,7 @@
   {
     "course_code":"WRIT AW6210",
     "course_title":"NONFICTION SEMINAR",
-    "course_descr":null,
+    "course_descr":".",
     "instructor":"Matty Davis",
     "scheduled_time_start":"10:00am",
     "scheduled_time_end":"12:00pm",
@@ -208512,7 +208584,7 @@
   {
     "course_code":"WRIT AW6210",
     "course_title":"NONFICTION SEMINAR",
-    "course_descr":null,
+    "course_descr":".",
     "instructor":"Margo L Jefferson",
     "scheduled_time_start":"2:00pm",
     "scheduled_time_end":"4:00pm",
@@ -208539,7 +208611,7 @@
   {
     "course_code":"WRIT AW6210",
     "course_title":"NONFICTION SEMINAR",
-    "course_descr":null,
+    "course_descr":".",
     "instructor":"Giri Nathan",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"3:10pm",
@@ -208566,7 +208638,7 @@
   {
     "course_code":"WRIT AW6210",
     "course_title":"NONFICTION SEMINAR",
-    "course_descr":null,
+    "course_descr":".",
     "instructor":"Benjamin Taylor",
     "scheduled_time_start":"4:15pm",
     "scheduled_time_end":"6:15pm",
@@ -208593,7 +208665,7 @@
   {
     "course_code":"WRIT AW6210",
     "course_title":"NONFICTION SEMINAR",
-    "course_descr":null,
+    "course_descr":".",
     "instructor":"Wendy Walters",
     "scheduled_time_start":"10:00am",
     "scheduled_time_end":"12:00pm",
@@ -208620,7 +208692,7 @@
   {
     "course_code":"WRIT AW6210",
     "course_title":"NONFICTION SEMINAR",
-    "course_descr":null,
+    "course_descr":".",
     "instructor":"Brenda Wineapple",
     "scheduled_time_start":"2:10pm",
     "scheduled_time_end":"4:10pm",
@@ -208647,7 +208719,7 @@
   {
     "course_code":"WRIT AW6310",
     "course_title":"POETRY SEMINAR",
-    "course_descr":null,
+    "course_descr":".",
     "instructor":"Robert Arnold",
     "scheduled_time_start":"4:15pm",
     "scheduled_time_end":"6:15pm",
@@ -208674,7 +208746,7 @@
   {
     "course_code":"WRIT AW6310",
     "course_title":"POETRY SEMINAR",
-    "course_descr":null,
+    "course_descr":".",
     "instructor":"Timothy B Donnelly",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"3:10pm",
@@ -208701,7 +208773,7 @@
   {
     "course_code":"WRIT AW6310",
     "course_title":"POETRY SEMINAR",
-    "course_descr":null,
+    "course_descr":".",
     "instructor":"Michael Dumanis",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"3:10pm",
@@ -208728,7 +208800,7 @@
   {
     "course_code":"WRIT AW6310",
     "course_title":"POETRY SEMINAR",
-    "course_descr":null,
+    "course_descr":".",
     "instructor":"Jared D Fagen",
     "scheduled_time_start":"4:15pm",
     "scheduled_time_end":"6:15pm",
@@ -208755,7 +208827,7 @@
   {
     "course_code":"WRIT AW6310",
     "course_title":"POETRY SEMINAR",
-    "course_descr":null,
+    "course_descr":".",
     "instructor":"Anna Gurton-Wachter",
     "scheduled_time_start":"6:30pm",
     "scheduled_time_end":"8:30pm",
@@ -208782,7 +208854,7 @@
   {
     "course_code":"WRIT AW6310",
     "course_title":"POETRY SEMINAR",
-    "course_descr":null,
+    "course_descr":".",
     "instructor":"Shane McCrae",
     "scheduled_time_start":"10:00am",
     "scheduled_time_end":"12:00pm",
@@ -208809,7 +208881,7 @@
   {
     "course_code":"WRIT AW6310",
     "course_title":"POETRY SEMINAR",
-    "course_descr":null,
+    "course_descr":".",
     "instructor":"Elizabeth B Metzger",
     "scheduled_time_start":"5:15pm",
     "scheduled_time_end":"7:15pm",
@@ -208890,7 +208962,7 @@
   {
     "course_code":"WRIT AW6410",
     "course_title":"TRANSLATION SEMINAR",
-    "course_descr":null,
+    "course_descr":"TRANSLATION SEMINAR",
     "instructor":"Susan Bernofsky",
     "scheduled_time_start":"2:00pm",
     "scheduled_time_end":"4:00pm",
@@ -208917,7 +208989,7 @@
   {
     "course_code":"WRIT AW6410",
     "course_title":"TRANSLATION SEMINAR",
-    "course_descr":null,
+    "course_descr":"TRANSLATION SEMINAR",
     "instructor":"Emma Ramadan",
     "scheduled_time_start":"4:15pm",
     "scheduled_time_end":"6:15pm",
@@ -208944,7 +209016,7 @@
   {
     "course_code":"WRIT AW6510",
     "course_title":"FICTION LECTURE",
-    "course_descr":null,
+    "course_descr":".",
     "instructor":"Tobias Carroll",
     "scheduled_time_start":"4:15pm",
     "scheduled_time_end":"6:15pm",
@@ -208971,7 +209043,7 @@
   {
     "course_code":"WRIT AW6510",
     "course_title":"FICTION LECTURE",
-    "course_descr":null,
+    "course_descr":".",
     "instructor":"Erroll G McDonald",
     "scheduled_time_start":"5:15pm",
     "scheduled_time_end":"7:15pm",
@@ -208998,7 +209070,7 @@
   {
     "course_code":"WRIT AW6520",
     "course_title":"NONFICTION LECTURE",
-    "course_descr":null,
+    "course_descr":"NONFICTION LECTURE",
     "instructor":"Leslie S Jamison",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"3:10pm",
@@ -209025,7 +209097,7 @@
   {
     "course_code":"WRIT AW6530",
     "course_title":"POETRY LECTURE",
-    "course_descr":null,
+    "course_descr":"POETRY LECTURE",
     "instructor":"Amanda Golden",
     "scheduled_time_start":"1:10pm",
     "scheduled_time_end":"3:10pm",
