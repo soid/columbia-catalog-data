@@ -9355,8 +9355,8 @@
     "course_title":"AI USER INTERFACES FOR ANALYTICS RECITAT",
     "course_descr":"This is the recitation course associated with APAN 5490 AI and User Interfaces for Analytics.",
     "instructor":null,
-    "scheduled_time_start":"5:10pm",
-    "scheduled_time_end":"6:00pm",
+    "scheduled_time_start":"4:10pm",
+    "scheduled_time_end":"5:00pm",
     "call_number":"16782",
     "campus":null,
     "class_id":"K5491-20271-D01",
@@ -9661,7 +9661,7 @@
     "department":"Applied Analytics",
     "department_code":"APAN",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/APAN\/K5540-20271-002\/",
-    "location":null,
+    "location":"140 Uris Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Professional Studies"
@@ -9821,7 +9821,7 @@
     "department":"Applied Analytics",
     "department_code":"APAN",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/APAN\/K5570-20271-D01\/",
-    "location":null,
+    "location":"330 Uris Hall",
     "method_of_instruction":"On-Line Only",
     "open_to":[
       "Professional Studies"
@@ -10145,7 +10145,7 @@
     "department":"Applied Analytics",
     "department_code":"APAN",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/APAN\/K5600-20271-005\/",
-    "location":null,
+    "location":"141 Uris Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Professional Studies"
@@ -27784,9 +27784,7 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/BUSI\/B9800-20271-001\/",
     "location":null,
     "method_of_instruction":"In-Person",
-    "open_to":[
-      "Business"
-    ],
+    "open_to":null,
     "points":"0",
     "prerequisites":[
 
@@ -46703,6 +46701,33 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"COMS W4118",
+    "course_title":"OPERATING SYSTEMS I",
+    "course_descr":null,
+    "instructor":"Hubertus Franke",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17698",
+    "campus":null,
+    "class_id":"W4118-20271-V01",
+    "course_subtitle":null,
+    "department":"Video Network",
+    "department_code":"COMS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMS\/W4118-20271-V01\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Engineering:Graduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271COMS4118WV01",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"COMS W4152",
     "course_title":"Engineering Software-as-a-Service",
     "course_descr":"Modern software engineering concepts and practices including topics such as Software-as-a-Service, Service-oriented Architecture, Agile Development, Behavior-driven Development, Ruby on Rails, and Dev\/ops.",
@@ -47031,6 +47056,33 @@
     "type":"LECTURE"
   },
   {
+    "course_code":"COMS W4701",
+    "course_title":"ARTIFICIAL INTELLIGENCE",
+    "course_descr":null,
+    "instructor":"Tony B Dear",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17699",
+    "campus":null,
+    "class_id":"W4701-20271-V01",
+    "course_subtitle":null,
+    "department":"Video Network",
+    "department_code":"COMS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMS\/W4701-20271-V01\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Engineering:Graduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271COMS4701WV01",
+    "type":"LECTURE"
+  },
+  {
     "course_code":"COMS W4705",
     "course_title":"NATURAL LANGUAGE PROCESSING",
     "course_descr":"Computational approaches to the analysis, understanding, and generation of natural language text at scale. Emphasis on machine learning techniques for NLP, including deep learning and large language models. Applications may include information extraction, sentiment analysis, question answering, summarization, machine translation, and conversational AI. Discussion of datasets, benchmarking and evaluation, interpretability, and ethical considerations.\n Due to significant overlap in content, only one of COMS 4705 or Barnard COMS 3705BC may be taken for credit.",
@@ -47061,6 +47113,33 @@
     ],
     "scheduled_days":"MW",
     "section_key":"20271COMS4705W001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"COMS W4705",
+    "course_title":"NATURAL LANGUAGE PROCESSING",
+    "course_descr":null,
+    "instructor":"Daniel Bauer",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17700",
+    "campus":null,
+    "class_id":"W4705-20271-V01",
+    "course_subtitle":"NATURAL LANGUAGE PROCESSI",
+    "department":"Video Network",
+    "department_code":"COMS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMS\/W4705-20271-V01\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Engineering:Graduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271COMS4705WV01",
     "type":"LECTURE"
   },
   {
@@ -47745,6 +47824,60 @@
     ],
     "scheduled_days":null,
     "section_key":"20271COMS4995WV05",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"COMS W4995",
+    "course_title":"TOPICS IN COMPUTER SCIENCE",
+    "course_descr":null,
+    "instructor":"Jae W Lee",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17701",
+    "campus":null,
+    "class_id":"W4995-20271-V02",
+    "course_subtitle":"ADV SYSTEMS PROGRAMMING",
+    "department":"Video Network",
+    "department_code":"COMS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMS\/W4995-20271-V02\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Engineering:Graduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271COMS4995WV02",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"COMS W4995",
+    "course_title":"TOPICS IN COMPUTER SCIENCE",
+    "course_descr":null,
+    "instructor":"Jae W Lee",
+    "scheduled_time_start":null,
+    "scheduled_time_end":null,
+    "call_number":"17702",
+    "campus":null,
+    "class_id":"W4995-20271-V03",
+    "course_subtitle":"C++ DEEP DIVE FOR C PRGS",
+    "department":"Video Network",
+    "department_code":"COMS",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/COMS\/W4995-20271-V03\/",
+    "location":null,
+    "method_of_instruction":"On-Line Only",
+    "open_to":[
+      "Engineering:Graduate"
+    ],
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":null,
+    "section_key":"20271COMS4995WV03",
     "type":"LECTURE"
   },
   {
@@ -51414,7 +51547,9 @@
     "location":"640 GEFFEN HALL",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Business"
+      "Business",
+      "Engineering:Graduate",
+      "Journalism"
     ],
     "points":"1.5",
     "prerequisites":[
@@ -51512,7 +51647,9 @@
     "location":"690 Kravis Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Business"
+      "Business",
+      "Engineering:Graduate",
+      "Journalism"
     ],
     "points":"1.5",
     "prerequisites":[
@@ -51568,7 +51705,8 @@
     "location":"590 GEFFEN HALL",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Business"
+      "Business",
+      "Journalism"
     ],
     "points":"1.5",
     "prerequisites":[
@@ -51595,7 +51733,8 @@
     "location":"440 GEFFEN HALL",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Business"
+      "Business",
+      "Engineering:Graduate"
     ],
     "points":"3",
     "prerequisites":[
@@ -51708,7 +51847,9 @@
     "location":"620 Kravis Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Business"
+      "Business",
+      "Engineering:Graduate",
+      "Journalism"
     ],
     "points":"1.5",
     "prerequisites":[
@@ -51737,7 +51878,9 @@
     "location":"620 Kravis Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Business"
+      "Business",
+      "Engineering:Graduate",
+      "Journalism"
     ],
     "points":"1.5",
     "prerequisites":[
@@ -51766,7 +51909,9 @@
     "location":"520 GEFFEN HALL",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Business"
+      "Business",
+      "Engineering:Graduate",
+      "Journalism"
     ],
     "points":"1.5",
     "prerequisites":[
@@ -51793,7 +51938,9 @@
     "location":"520 GEFFEN HALL",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Business"
+      "Business",
+      "Engineering:Graduate",
+      "Journalism"
     ],
     "points":"1.5",
     "prerequisites":[
@@ -51820,7 +51967,9 @@
     "location":"490 Kravis Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Business"
+      "Business",
+      "Engineering:Graduate",
+      "Journalism"
     ],
     "points":"1.5",
     "prerequisites":[
@@ -51847,7 +51996,9 @@
     "location":"490 Kravis Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Business"
+      "Business",
+      "Engineering:Graduate",
+      "Journalism"
     ],
     "points":"1.5",
     "prerequisites":[
@@ -51874,7 +52025,9 @@
     "location":"520 GEFFEN HALL",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Business"
+      "Business",
+      "Engineering:Graduate",
+      "Journalism"
     ],
     "points":"1.5",
     "prerequisites":[
@@ -51900,7 +52053,11 @@
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/DROM\/B8160-20271-002\/",
     "location":"520 GEFFEN HALL",
     "method_of_instruction":"In-Person",
-    "open_to":null,
+    "open_to":[
+      "Business",
+      "Engineering:Graduate",
+      "Journalism"
+    ],
     "points":"1.5",
     "prerequisites":[
 
@@ -51926,7 +52083,9 @@
     "location":"640 GEFFEN HALL",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Business"
+      "Business",
+      "Engineering:Graduate",
+      "Journalism"
     ],
     "points":"1.5",
     "prerequisites":[
@@ -51953,7 +52112,9 @@
     "location":"640 GEFFEN HALL",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Business"
+      "Business",
+      "Engineering:Graduate",
+      "Journalism"
     ],
     "points":"1.5",
     "prerequisites":[
@@ -51980,7 +52141,8 @@
     "location":"640 GEFFEN HALL",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Business"
+      "Business",
+      "Engineering:Graduate"
     ],
     "points":"1.5",
     "prerequisites":[
@@ -52007,7 +52169,9 @@
     "location":"870 Kravis Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Business"
+      "Business",
+      "Engineering:Graduate",
+      "Journalism"
     ],
     "points":"1.5",
     "prerequisites":[
@@ -52034,7 +52198,9 @@
     "location":"620 Kravis Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Business"
+      "Business",
+      "Engineering:Graduate",
+      "Journalism"
     ],
     "points":"1.5",
     "prerequisites":[
@@ -55651,7 +55817,9 @@
     "location":"490 GEFFEN HALL",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Business"
+      "Business",
+      "Engineering:Graduate",
+      "Journalism"
     ],
     "points":"3",
     "prerequisites":[
@@ -86326,7 +86494,9 @@
     "location":"820 Kravis Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Business"
+      "Business",
+      "Engineering:Graduate",
+      "Journalism"
     ],
     "points":"3",
     "prerequisites":[
@@ -86770,7 +86940,9 @@
     "location":"420 GEFFEN HALL",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Business"
+      "Business",
+      "Engineering:Graduate",
+      "Journalism"
     ],
     "points":"1.5",
     "prerequisites":[
@@ -87246,7 +87418,9 @@
     "location":"620 Kravis Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Business"
+      "Business",
+      "Engineering:Graduate",
+      "Journalism"
     ],
     "points":"1.5",
     "prerequisites":[
@@ -87330,7 +87504,9 @@
     "location":"640 Kravis Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Business"
+      "Business",
+      "Engineering:Graduate",
+      "Journalism"
     ],
     "points":"1.5",
     "prerequisites":[
@@ -87414,7 +87590,9 @@
     "location":"840 Kravis Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Business"
+      "Business",
+      "Engineering:Graduate",
+      "Journalism"
     ],
     "points":"1.5",
     "prerequisites":[
@@ -87441,7 +87619,9 @@
     "location":"820 Kravis Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Business"
+      "Business",
+      "Engineering:Graduate",
+      "Journalism"
     ],
     "points":"1.5",
     "prerequisites":[
@@ -87468,7 +87648,9 @@
     "location":"420 Kravis Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Business"
+      "Business",
+      "Engineering:Graduate",
+      "Journalism"
     ],
     "points":"1.5",
     "prerequisites":[
@@ -87495,7 +87677,9 @@
     "location":"590 GEFFEN HALL",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Business"
+      "Business",
+      "Engineering:Graduate",
+      "Journalism"
     ],
     "points":"1.5",
     "prerequisites":[
@@ -87522,7 +87706,9 @@
     "location":"590 GEFFEN HALL",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Business"
+      "Business",
+      "Engineering:Graduate",
+      "Journalism"
     ],
     "points":"1.5",
     "prerequisites":[
@@ -87549,7 +87735,9 @@
     "location":"590 GEFFEN HALL",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Business"
+      "Business",
+      "Engineering:Graduate",
+      "Journalism"
     ],
     "points":"1.5",
     "prerequisites":[
@@ -87576,7 +87764,9 @@
     "location":"880 Kravis Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Business"
+      "Business",
+      "Engineering:Graduate",
+      "Journalism"
     ],
     "points":"3",
     "prerequisites":[
@@ -87603,7 +87793,9 @@
     "location":"570 GEFFEN HALL",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Business"
+      "Business",
+      "Engineering:Graduate",
+      "Journalism"
     ],
     "points":"3",
     "prerequisites":[
@@ -87657,7 +87849,9 @@
     "location":"570 GEFFEN HALL",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Business"
+      "Business",
+      "Engineering:Graduate",
+      "Journalism"
     ],
     "points":"1.5",
     "prerequisites":[
@@ -87711,7 +87905,9 @@
     "location":"840 Kravis Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Business"
+      "Business",
+      "Engineering:Graduate",
+      "Journalism"
     ],
     "points":"1.5",
     "prerequisites":[
@@ -87963,7 +88159,9 @@
     "location":"640 Kravis Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
-      "Business"
+      "Business",
+      "Engineering:Graduate",
+      "Journalism"
     ],
     "points":"1.5",
     "prerequisites":[
@@ -110089,7 +110287,7 @@
     "department":"Information & Knowledge Strat",
     "department_code":"IKNS",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/IKNS\/K5886-20271-001\/",
-    "location":null,
+    "location":"505 Lewisohn Hall",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"0",
@@ -121489,8 +121687,8 @@
     "course_title":"S. Business Transactions and the Healthc",
     "course_descr":null,
     "instructor":null,
-    "scheduled_time_start":null,
-    "scheduled_time_end":null,
+    "scheduled_time_start":"6:30pm",
+    "scheduled_time_end":"8:20pm",
     "call_number":"15970",
     "campus":null,
     "class_id":"L9250-20271-001",
@@ -121505,7 +121703,7 @@
     "prerequisites":[
 
     ],
-    "scheduled_days":null,
+    "scheduled_days":"R",
     "section_key":"20271LAW_9250L001",
     "type":"SEMINAR"
   },
@@ -132703,6 +132901,31 @@
     ],
     "scheduled_days":"TR",
     "section_key":"20271MICR4020G001",
+    "type":"LECTURE"
+  },
+  {
+    "course_code":"MICR G6056",
+    "course_title":"ADVNCD TPCS IN MICROBIOLOGY II",
+    "course_descr":null,
+    "instructor":"Anne Moscona",
+    "scheduled_time_start":"2:00pm",
+    "scheduled_time_end":"4:00pm",
+    "call_number":"17705",
+    "campus":null,
+    "class_id":"G6056-20271-001",
+    "course_subtitle":null,
+    "department":"Microbiology",
+    "department_code":"MICR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/MICR\/G6056-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":null,
+    "points":"3",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"T",
+    "section_key":"20271MICR6056G001",
     "type":"LECTURE"
   },
   {
@@ -144991,6 +145214,35 @@
     "scheduled_days":null,
     "section_key":"20271NUTR9011G001",
     "type":"INDEPENDENT"
+  },
+  {
+    "course_code":"NUTR G9205",
+    "course_title":"DOCTORAL SEMINAR IN NUTRITION",
+    "course_descr":null,
+    "instructor":null,
+    "scheduled_time_start":"12:00pm",
+    "scheduled_time_end":"12:50pm",
+    "call_number":"17704",
+    "campus":null,
+    "class_id":"G9205-20271-001",
+    "course_subtitle":"DOCTORAL SEMINAR IN NUTRI",
+    "department":"Human Nutrition, Institute of",
+    "department_code":"NUTR",
+    "link":"https:\/\/doc.sis.columbia.edu\/subj\/NUTR\/G9205-20271-001\/",
+    "location":null,
+    "method_of_instruction":"In-Person",
+    "open_to":[
+      "Engineering:Graduate",
+      "GSAS",
+      "SIPA"
+    ],
+    "points":"0.5",
+    "prerequisites":[
+
+    ],
+    "scheduled_days":"F",
+    "section_key":"20271NUTR9205G001",
+    "type":"SEMINAR"
   },
   {
     "course_code":"NUTR M6227",
@@ -162283,7 +162535,7 @@
     "department":"Political Science",
     "department_code":"POLS",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/POLS\/W3921-20271-003\/",
-    "location":null,
+    "location":"405 Kent Hall",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"4",
@@ -162622,7 +162874,7 @@
     "department":"Political Science",
     "department_code":"POLS",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/POLS\/W3961-20271-007\/",
-    "location":null,
+    "location":"606 Martin Luther King Building",
     "method_of_instruction":"In-Person",
     "open_to":null,
     "points":"4",
@@ -198238,7 +198490,7 @@
     "department":"Sustainability Management",
     "department_code":"SUMA",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SUMA\/K5200-20271-002\/",
-    "location":null,
+    "location":"315 Hamilton Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Professional Studies"
@@ -198265,7 +198517,7 @@
     "department":"Sustainability Management",
     "department_code":"SUMA",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SUMA\/K5200-20271-003\/",
-    "location":null,
+    "location":"316 Hamilton Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Professional Studies"
@@ -198292,7 +198544,7 @@
     "department":"Sustainability Management",
     "department_code":"SUMA",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SUMA\/K5200-20271-004\/",
-    "location":null,
+    "location":"413 Hamilton Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Professional Studies"
@@ -198319,7 +198571,7 @@
     "department":"Sustainability Management",
     "department_code":"SUMA",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SUMA\/K5200-20271-005\/",
-    "location":null,
+    "location":"509 Hamilton Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Professional Studies"
@@ -198346,7 +198598,7 @@
     "department":"Sustainability Management",
     "department_code":"SUMA",
     "link":"https:\/\/doc.sis.columbia.edu\/subj\/SUMA\/K5200-20271-006\/",
-    "location":null,
+    "location":"616 Hamilton Hall",
     "method_of_instruction":"In-Person",
     "open_to":[
       "Professional Studies"
